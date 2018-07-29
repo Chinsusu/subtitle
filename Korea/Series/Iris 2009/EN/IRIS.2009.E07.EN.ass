@@ -1,0 +1,426 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:-03.-62,0:00:00.55,Default,,0,0,0,,This drama is based on fiction and any similarity to\Nreal people, places, and events are purely coincidental
+Dialogue: 0,0:00:00.19,0:00:02.97,Default,,0,0,0,,IRIS
+Dialogue: 0,0:00:02.97,0:00:05.57,Default,,0,0,0,,Episode 7
+Dialogue: 0,0:00:15.10,0:00:19.19,Default,,0,0,0,,{\i1}Right in front Hyun Jun's eyes,\Nthe car Seung Hee was in explodes.{\i0}
+Dialogue: 0,0:00:20.57,0:00:26.35,Default,,0,0,0,,{\i1}He attempts to escape in a light plane,\Nbut his plane is taken down by Sa Woo's bullets.{\i0}
+Dialogue: 0,0:00:35.27,0:00:38.49,Default,,0,0,0,,{\i1}After his life is saved by people\Nkeeping themselves anonymous...{\i0}
+Dialogue: 0,0:00:38.61,0:00:40.39,Default,,0,0,0,,{\i1}Hyun Jun heads to Japan.{\i0}
+Dialogue: 0,0:00:45.45,0:00:50.25,Default,,0,0,0,,{\i1}Seung Hee, on leave from NSS,\Nobsesses over finding Hyun Jun alive.{\i0}
+Dialogue: 0,0:00:56.15,0:01:01.93,Default,,0,0,0,,{\i1}Then, Hyun Jun is taken by the Japanese\NIntelligence Office to be interrogated.{\i0}
+Dialogue: 0,0:01:12.83,0:01:14.44,Default,,0,0,0,,Episode 7
+Dialogue: 0,0:01:26.86,0:01:28.81,Default,,0,0,0,,What are you looking for?
+Dialogue: 0,0:01:43.23,0:01:45.44,Default,,0,0,0,,Are you planning a war?
+Dialogue: 0,0:01:46.89,0:01:48.89,Default,,0,0,0,,What you're asking for is not possible.
+Dialogue: 0,0:02:08.20,0:02:09.87,Default,,0,0,0,,Once you get me what I want,
+Dialogue: 0,0:02:11.06,0:02:13.30,Default,,0,0,0,,I will provide you twice as much.
+Dialogue: 0,0:02:40.93,0:02:43.70,Default,,0,0,0,,This is the financial report\Nfor our foreign activities.
+Dialogue: 0,0:02:43.82,0:02:46.15,Default,,0,0,0,,But there is one strange item in there.
+Dialogue: 0,0:02:46.46,0:02:50.94,Default,,0,0,0,,Our B2 office in Japan withdrew\Na large amount from the emergency fund.
+Dialogue: 0,0:02:51.62,0:02:53.79,Default,,0,0,0,,Do you know about it by any chance?
+Dialogue: 0,0:02:53.91,0:02:55.02,Default,,0,0,0,,How much is it?
+Dialogue: 0,0:02:55.14,0:02:56.55,Default,,0,0,0,,200 million yen.
+Dialogue: 0,0:02:57.76,0:03:00.30,Default,,0,0,0,,I have an agent working with the bank\Nwhere the withdrawal was made,
+Dialogue: 0,0:03:00.30,0:03:02.25,Default,,0,0,0,,to try and find out more details.
+Dialogue: 0,0:03:45.82,0:03:46.65,Default,,0,0,0,,Don't move!
+Dialogue: 0,0:04:08.04,0:04:09.67,Default,,0,0,0,,Her internal bleeding is very serious.
+Dialogue: 0,0:04:09.79,0:04:10.82,Default,,0,0,0,,Vasopressin 2CC's.
+Dialogue: 0,0:04:10.94,0:04:12.46,Default,,0,0,0,,Injecting 2cc of Vasopressin.
+Dialogue: 0,0:04:18.83,0:04:19.91,Default,,0,0,0,,What's happening?
+Dialogue: 0,0:06:06.36,0:06:08.39,Default,,0,0,0,,{\i1}Shall we start then?{\i0}
+Dialogue: 0,0:06:23.63,0:06:25.08,Default,,0,0,0,,{\i1}Who are you?{\i0}
+Dialogue: 0,0:06:31.47,0:06:33.94,Default,,0,0,0,,{\i1}Tell me!  What are you up to?{\i0}
+Dialogue: 0,0:06:57.07,0:07:03.78,Default,,0,0,0,,We received an anonymous tip that he was trying\Nto obtain various weapons, so we brought him in.
+Dialogue: 0,0:07:04.32,0:07:07.39,Default,,0,0,0,,How much he was trying to obtain was serious,
+Dialogue: 0,0:07:07.44,0:07:08.98,Default,,0,0,0,,but the type of weapons is more serious.
+Dialogue: 0,0:07:09.20,0:07:12.38,Default,,0,0,0,,We believe he's either a terrorist or an assassin.
+Dialogue: 0,0:07:22.94,0:07:24.65,Default,,0,0,0,,{\i1}What is your identity?{\i0}
+Dialogue: 0,0:07:29.85,0:07:31.98,Default,,0,0,0,,{\i1}Why did you come to Japan?{\i0}
+Dialogue: 0,0:07:35.73,0:07:38.40,Default,,0,0,0,,Tell us!  Tell us what you're doing here!
+Dialogue: 0,0:08:03.34,0:08:04.17,Default,,0,0,0,,That's enough.
+Dialogue: 0,0:08:04.29,0:08:05.26,Default,,0,0,0,,Yes, Ma'am.
+Dialogue: 0,0:08:05.76,0:08:06.46,Default,,0,0,0,,That's enough.
+Dialogue: 0,0:08:08.80,0:08:11.54,Default,,0,0,0,,{\i1}I don't believe we'll get him to make a confession.{\i0}
+Dialogue: 0,0:08:11.66,0:08:18.77,Default,,0,0,0,,He tried to escape three times, and each time\Nmany of our guards were seriously hurt.
+Dialogue: 0,0:08:22.33,0:08:26.35,Default,,0,0,0,,{\i1}He's a person who has received\Nspecial training, without a doubt.{\i0}
+Dialogue: 0,0:08:49.91,0:08:50.89,Default,,0,0,0,,Everyone leave.
+Dialogue: 0,0:08:51.21,0:08:52.44,Default,,0,0,0,,That'll be too dangerous.
+Dialogue: 0,0:08:53.03,0:08:54.28,Default,,0,0,0,,Just leave.
+Dialogue: 0,0:09:13.74,0:09:20.10,Default,,0,0,0,,My name is Sato Erica from\Nthe National Intelligence Office.
+Dialogue: 0,0:09:22.18,0:09:26.36,Default,,0,0,0,,Can you understand what I'm saying?
+Dialogue: 0,0:09:30.71,0:09:34.98,Default,,0,0,0,,We researched your background...
+Dialogue: 0,0:09:36.97,0:09:40.41,Default,,0,0,0,,but we weren't able to find out a single thing.
+Dialogue: 0,0:09:41.49,0:09:46.22,Default,,0,0,0,,It's just as if you don't exist in this world.
+Dialogue: 0,0:09:50.22,0:09:51.65,Default,,0,0,0,,Why is it?
+Dialogue: 0,0:09:51.89,0:09:54.96,Default,,0,0,0,,Why do you keep trying to\Nescape when you know it's impossible?
+Dialogue: 0,0:09:59.51,0:10:04.21,Default,,0,0,0,,I'm not here to interrogate you.
+Dialogue: 0,0:10:09.57,0:10:14.29,Default,,0,0,0,,I came to set you free.
+Dialogue: 0,0:10:17.22,0:10:20.19,Default,,0,0,0,,If you take my offer,
+Dialogue: 0,0:10:21.68,0:10:24.07,Default,,0,0,0,,you can be a free man.
+Dialogue: 0,0:10:47.21,0:10:48.89,Default,,0,0,0,,Where is Seung Hee?
+Dialogue: 0,0:10:50.08,0:10:51.98,Default,,0,0,0,,I don't know.\NI can't get a hold of her myself.
+Dialogue: 0,0:10:52.10,0:10:54.25,Default,,0,0,0,,Did you know that Kim Seon Hwa escaped?
+Dialogue: 0,0:10:55.19,0:10:56.64,Default,,0,0,0,,What did I tell you?
+Dialogue: 0,0:10:56.76,0:10:59.75,Default,,0,0,0,,Didn't I tell you that your\Nactions could put Seung Hee in danger?
+Dialogue: 0,0:11:00.92,0:11:03.22,Default,,0,0,0,,If anything should happen to Seung Hee,
+Dialogue: 0,0:11:04.83,0:11:08.85,Default,,0,0,0,,I will hold you fully responsible.
+Dialogue: 0,0:11:35.06,0:11:37.05,Default,,0,0,0,,Can you tell me where Seung Hee is?
+Dialogue: 0,0:11:38.32,0:11:42.09,Default,,0,0,0,,She hasn't been home for two days.
+Dialogue: 0,0:11:43.66,0:11:46.84,Default,,0,0,0,,Did something happen to her?
+Dialogue: 0,0:11:47.95,0:11:50.57,Default,,0,0,0,,No, nothing happened.\NPlease don't worry.
+Dialogue: 0,0:12:05.93,0:12:07.22,Default,,0,0,0,,It's Kim Seon Hwa.
+Dialogue: 0,0:12:12.34,0:12:13.40,Default,,0,0,0,,It's me.
+Dialogue: 0,0:12:13.73,0:12:15.19,Default,,0,0,0,,{\i1}Where are you?{\i0}
+Dialogue: 0,0:12:17.95,0:12:19.15,Default,,0,0,0,,My mother...
+Dialogue: 0,0:12:22.62,0:12:24.76,Default,,0,0,0,,and my siblings...
+Dialogue: 0,0:12:31.50,0:12:34.50,Default,,0,0,0,,is it true that they're all dead?
+Dialogue: 0,0:12:36.79,0:12:39.01,Default,,0,0,0,,Didn't you promise me....
+Dialogue: 0,0:12:44.19,0:12:47.33,Default,,0,0,0,,that you'd protect them?
+Dialogue: 0,0:12:55.69,0:12:57.86,Default,,0,0,0,,Seon Hwa, listen to me carefully.
+Dialogue: 0,0:13:00.07,0:13:00.93,Default,,0,0,0,,{\i1}Kim Seon Hwa.{\i0}
+Dialogue: 0,0:13:10.76,0:13:13.63,Default,,0,0,0,,Send a man to Japan immediately\Nand find Kim Seon Hwa.
+Dialogue: 0,0:13:13.74,0:13:18.27,Default,,0,0,0,,In her current state,\Nwe don't know what she'll do.
+Dialogue: 0,0:13:18.64,0:13:19.79,Default,,0,0,0,,I understand.
+Dialogue: 0,0:13:24.04,0:13:25.66,Default,,0,0,0,,How is the status of locating Kim Seon Hwa?
+Dialogue: 0,0:13:25.78,0:13:29.33,Default,,0,0,0,,We haven't been able to confirm yet.\NShe may already have left the country.
+Dialogue: 0,0:13:29.45,0:13:31.45,Default,,0,0,0,,Have you been able to find Team Leader,\NChoi Seung Hee?
+Dialogue: 0,0:13:31.57,0:13:32.41,Default,,0,0,0,,{\i1}Yes.{\i0}
+Dialogue: 0,0:13:32.89,0:13:33.68,Default,,0,0,0,,Where is she?
+Dialogue: 0,0:13:33.80,0:13:34.68,Default,,0,0,0,,She's in Japan.
+Dialogue: 0,0:13:38.36,0:13:42.60,Default,,0,0,0,,The pill that Kim Seon Hwa took to escape was R-Phen.
+Dialogue: 0,0:13:42.72,0:13:47.08,Default,,0,0,0,,R-Phen?\NThat's only used by NSS special agents.
+Dialogue: 0,0:13:47.20,0:13:49.10,Default,,0,0,0,,How could Kim Seon Hwa...?
+Dialogue: 0,0:13:49.53,0:13:53.94,Default,,0,0,0,,I believe Team Leader Choi Seung Hee\Ngave it to her during the interview.
+Dialogue: 0,0:13:54.30,0:13:56.73,Default,,0,0,0,,She knew Kim Seon Hwa would make her escape
+Dialogue: 0,0:13:56.85,0:13:59.23,Default,,0,0,0,,and she planned to trail her once she did.
+Dialogue: 0,0:13:59.35,0:14:01.50,Default,,0,0,0,,Why would Seung Hee do something like that?
+Dialogue: 0,0:14:03.22,0:14:04.75,Default,,0,0,0,,Where is she now?
+Dialogue: 0,0:14:04.87,0:14:06.90,Default,,0,0,0,,We've learned that she's in Japan.
+Dialogue: 0,0:14:11.07,0:14:12.94,Default,,0,0,0,,Keep this to yourself for now.
+Dialogue: 0,0:14:13.26,0:14:15.73,Default,,0,0,0,,All right?\NAnd, go and bring her back.
+Dialogue: 0,0:14:15.85,0:14:17.68,Default,,0,0,0,,We have to find her before\Nit becomes a bigger problem.
+Dialogue: 0,0:14:17.79,0:14:18.69,Default,,0,0,0,,Understand?
+Dialogue: 0,0:14:21.22,0:14:23.64,Default,,0,0,0,,Seung Hee helped Kim Seon Hwa to escape,
+Dialogue: 0,0:14:23.76,0:14:25.60,Default,,0,0,0,,and now she's following her.
+Dialogue: 0,0:14:26.98,0:14:28.84,Default,,0,0,0,,Do you know why she would do that?
+Dialogue: 0,0:14:28.96,0:14:30.68,Default,,0,0,0,,It's because of TK1.
+Dialogue: 0,0:14:30.80,0:14:32.00,Default,,0,0,0,,Kim Hyun Jun?
+Dialogue: 0,0:14:32.12,0:14:36.26,Default,,0,0,0,,Seung Hee still doesn't believe that TK1 is dead.
+Dialogue: 0,0:14:36.60,0:14:41.75,Default,,0,0,0,,Kim Seon Hwa was in charge of protecting the\Nassassinated Yoon Sung Chul and for some reason,
+Dialogue: 0,0:14:41.87,0:14:46.10,Default,,0,0,0,,Seung Hee believes that Kim Seon Hwa\Nknows TK1's whereabouts.
+Dialogue: 0,0:14:46.35,0:14:49.98,Default,,0,0,0,,What you just told me...\Nare there any others that know?
+Dialogue: 0,0:14:50.10,0:14:50.79,Default,,0,0,0,,No.
+Dialogue: 0,0:14:51.62,0:14:52.66,Default,,0,0,0,,Keep it a secret.
+Dialogue: 0,0:15:12.10,0:15:13.83,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:15:20.06,0:15:21.63,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:15:24.28,0:15:25.45,Default,,0,0,0,,Tell me.
+Dialogue: 0,0:15:26.06,0:15:27.19,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:15:29.72,0:15:32.73,Default,,0,0,0,,He's being held by the\NNational Intelligence Office,
+Dialogue: 0,0:15:33.11,0:15:40.28,Default,,0,0,0,,in their high security module in Akita.
+Dialogue: 0,0:17:45.72,0:17:50.17,Default,,0,0,0,,{\i1}Ito Masayuki,\Nthe Chief Secretary of the Social Reform party.{\i0}
+Dialogue: 0,0:17:50.29,0:17:54.96,Default,,0,0,0,,{\i1}On the surface, he is a politician who has gained\Nthe confidence and favor of the nation,{\i0}
+Dialogue: 0,0:17:55.08,0:18:02.34,Default,,0,0,0,,{\i1}but in reality,\Nhe has close ties to the 10 Japanese Mafia groups.{\i0}
+Dialogue: 0,0:18:03.44,0:18:05.75,Default,,0,0,0,,{\i1}His reputation with the citizens creates a dilemma{\i0}
+Dialogue: 0,0:18:05.87,0:18:08.45,Default,,0,0,0,,{\i1}and binds our hands to take action against him.{\i0}
+Dialogue: 0,0:18:08.57,0:18:11.44,Default,,0,0,0,,{\i1}If you will take care of him in our stead,{\i0}
+Dialogue: 0,0:18:11.76,0:18:15.99,Default,,0,0,0,,{\i1}you will be granted your freedom.{\i0}
+Dialogue: 0,0:19:38.71,0:19:39.89,Default,,0,0,0,,It's okay.
+Dialogue: 0,0:19:55.95,0:19:57.82,Default,,0,0,0,,{\i1}Your forehead is blessed.{\i0}
+Dialogue: 0,0:19:58.83,0:20:03.10,Default,,0,0,0,,Master, now you will for\Ncertain enjoy a very long life.
+Dialogue: 0,0:20:16.48,0:20:18.95,Default,,0,0,0,,{\i1}Great!  Wonderful, wonderful!{\i0}
+Dialogue: 0,0:21:52.72,0:21:55.83,Default,,0,0,0,,Master, wasn't that a great show?
+Dialogue: 0,0:21:55.96,0:21:56.88,Default,,0,0,0,,Master!
+Dialogue: 0,0:21:57.00,0:21:58.46,Default,,0,0,0,,He's been assassinated!
+Dialogue: 0,0:22:03.29,0:22:04.42,Default,,0,0,0,,Master!
+Dialogue: 0,0:22:13.33,0:22:14.85,Default,,0,0,0,,{\i1}We still have not seen him.{\i0}
+Dialogue: 0,0:22:15.11,0:22:17.27,Default,,0,0,0,,As soon as he makes his exit, get him.
+Dialogue: 0,0:22:18.33,0:22:20.20,Default,,0,0,0,,What do you mean by "get him"?
+Dialogue: 0,0:22:20.32,0:22:22.47,Default,,0,0,0,,It's too dangerous to keep him alive.
+Dialogue: 0,0:22:22.59,0:22:24.23,Default,,0,0,0,,But nothing was said about that before!
+Dialogue: 0,0:22:24.35,0:22:27.82,Default,,0,0,0,,He's not someone we'll need after this.
+Dialogue: 0,0:23:11.62,0:23:13.79,Default,,0,0,0,,{\i1}We lost him.{\i0}
+Dialogue: 0,0:23:14.63,0:23:16.36,Default,,0,0,0,,{\i1}We still have not seen him.{\i0}
+Dialogue: 0,0:23:16.48,0:23:18.57,Default,,0,0,0,,{\i1}Only the security personnel are left.{\i0}
+Dialogue: 0,0:23:18.93,0:23:20.48,Default,,0,0,0,,Take care of it now!
+Dialogue: 0,0:23:20.60,0:23:22.71,Default,,0,0,0,,And avoid being seen by the security.
+Dialogue: 0,0:23:22.83,0:23:24.32,Default,,0,0,0,,{\i1}Yes, sir.{\i0}
+Dialogue: 0,0:23:24.68,0:23:26.11,Default,,0,0,0,,{\i1}Let's go.{\i0}
+Dialogue: 0,0:24:59.83,0:25:00.67,Default,,0,0,0,,{\i1}Yuki.{\i0}
+Dialogue: 0,0:25:06.06,0:25:06.80,Default,,0,0,0,,Ahjussi!
+Dialogue: 0,0:25:08.71,0:25:10.00,Default,,0,0,0,,Where did you go?
+Dialogue: 0,0:25:10.12,0:25:12.08,Default,,0,0,0,,How could you go without saying anything?
+Dialogue: 0,0:25:12.20,0:25:13.71,Default,,0,0,0,,When did you come back?
+Dialogue: 0,0:25:19.86,0:25:21.39,Default,,0,0,0,,I wore this everyday.
+Dialogue: 0,0:25:21.51,0:25:23.86,Default,,0,0,0,,And I thought about you.
+Dialogue: 0,0:25:24.90,0:25:25.96,Default,,0,0,0,,{\i1}Ahjussi.{\i0}
+Dialogue: 0,0:25:26.08,0:25:27.19,Default,,0,0,0,,{\i1}Ahjussi.{\i0}
+Dialogue: 0,0:25:28.34,0:25:29.30,Default,,0,0,0,,{\i1}Ahjussi.{\i0}
+Dialogue: 0,0:25:30.88,0:25:31.97,Default,,0,0,0,,{\i1}Ahjussi.{\i0}
+Dialogue: 0,0:25:32.51,0:25:34.61,Default,,0,0,0,,{\i1}Kakunodate City Hospital (Japan){\i0}
+Dialogue: 0,0:26:09.81,0:26:10.93,Default,,0,0,0,,{\i1}I confirmed.{\i0}
+Dialogue: 0,0:26:12.09,0:26:13.75,Default,,0,0,0,,Did Seon Hwa do it?
+Dialogue: 0,0:26:15.33,0:26:17.67,Default,,0,0,0,,I'm now putting you in charge.
+Dialogue: 0,0:26:18.06,0:26:19.81,Default,,0,0,0,,First, find Seon Hwa.
+Dialogue: 0,0:26:20.21,0:26:21.10,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:28:14.46,0:28:17.64,Default,,0,0,0,,For the debt owed for what you did in Korea,\NI'll let it go just this once.
+Dialogue: 0,0:28:17.76,0:28:18.89,Default,,0,0,0,,Stop following me.
+Dialogue: 0,0:28:19.21,0:28:21.46,Default,,0,0,0,,Are you looking for Hyun Jun?
+Dialogue: 0,0:28:22.57,0:28:23.71,Default,,0,0,0,,Where is he?
+Dialogue: 0,0:28:24.97,0:28:26.46,Default,,0,0,0,,Go back to Korea.
+Dialogue: 0,0:28:27.39,0:28:31.50,Default,,0,0,0,,Hyun Jun... is still alive, isn't he?
+Dialogue: 0,0:30:29.97,0:30:32.65,Default,,0,0,0,,- What are you doing?\N- If she dies, we can't find Hyun Jun!
+Dialogue: 0,0:30:32.77,0:30:33.98,Default,,0,0,0,,Hyun Jun is dead.
+Dialogue: 0,0:30:34.40,0:30:36.27,Default,,0,0,0,,{\i1}It's a fact everyone in the world knows!{\i0}
+Dialogue: 0,0:30:36.39,0:30:38.43,Default,,0,0,0,,You're the only one who doesn't know it.
+Dialogue: 0,0:30:39.06,0:30:39.93,Default,,0,0,0,,He's alive.
+Dialogue: 0,0:30:42.31,0:30:43.66,Default,,0,0,0,,He is alive without a doubt.
+Dialogue: 0,0:31:23.06,0:31:24.03,Default,,0,0,0,,First Officer!
+Dialogue: 0,0:31:24.77,0:31:25.47,Default,,0,0,0,,I have something to report.
+Dialogue: 0,0:31:25.59,0:31:26.85,Default,,0,0,0,,What is it?
+Dialogue: 0,0:31:26.97,0:31:30.41,Default,,0,0,0,,This is a satellite image taken\Nfour minutes ago of the Korean peninsula.
+Dialogue: 0,0:31:31.07,0:31:35.28,Default,,0,0,0,,{\i1}Three vehicles from North Korea just crossed\Nthe military border into South Korea.{\i0}
+Dialogue: 0,0:31:35.40,0:31:39.84,Default,,0,0,0,,{\i1}Over 200 cars cross the military border everyday.{\i0}
+Dialogue: 0,0:31:39.96,0:31:42.15,Default,,0,0,0,,Did you think that was necessary to report?
+Dialogue: 0,0:31:42.27,0:31:43.68,Default,,0,0,0,,This is different.
+Dialogue: 0,0:31:43.80,0:31:48.02,Default,,0,0,0,,The vehicles were not stopped for inspection.
+Dialogue: 0,0:31:48.14,0:31:49.08,Default,,0,0,0,,What are you saying?
+Dialogue: 0,0:31:49.20,0:31:51.73,Default,,0,0,0,,They were allowed to pass through\Nthe inspection points without stopping.
+Dialogue: 0,0:31:51.86,0:31:56.75,Default,,0,0,0,,You're saying South Korea just let vehicles through\Nfrom the North without stopping them for inspection?
+Dialogue: 0,0:31:56.87,0:31:58.86,Default,,0,0,0,,Yes, that is correct.
+Dialogue: 0,0:31:58.98,0:32:02.80,Default,,0,0,0,,That's something that is not possible without\Nauthority from a high office.
+Dialogue: 0,0:32:02.92,0:32:06.66,Default,,0,0,0,,See if it's possible to pick up anything from\Nthe communication devices in the cars,
+Dialogue: 0,0:32:06.78,0:32:09.14,Default,,0,0,0,,and see is there's anything you can find out.
+Dialogue: 0,0:32:09.26,0:32:11.10,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:32:20.47,0:32:21.39,Default,,0,0,0,,Corporal!
+Dialogue: 0,0:32:22.36,0:32:25.96,Default,,0,0,0,,Give me the latest intel on movements,\Nfor everything that moved in the last 24 hours.
+Dialogue: 0,0:32:26.08,0:32:28.17,Default,,0,0,0,,Yes, sir.  I will get it to you right away.
+Dialogue: 0,0:32:30.00,0:32:30.93,Default,,0,0,0,,{\i1}Sergeant!{\i0}
+Dialogue: 0,0:32:35.84,0:32:36.88,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:32:37.00,0:32:38.05,Default,,0,0,0,,Is there any new movement?
+Dialogue: 0,0:32:38.17,0:32:38.76,Default,,0,0,0,,No, sir.
+Dialogue: 0,0:32:38.88,0:32:40.92,Default,,0,0,0,,Are there any signals from any communication systems?
+Dialogue: 0,0:32:41.04,0:32:41.96,Default,,0,0,0,,No, sir.
+Dialogue: 0,0:32:42.08,0:32:42.76,Default,,0,0,0,,Roger.
+Dialogue: 0,0:32:45.79,0:32:48.34,Default,,0,0,0,,Sir, Major McClain from USS Capricorn.
+Dialogue: 0,0:32:48.46,0:32:53.27,Default,,0,0,0,,The South Korean government seems to be undergoing\Na secret movement with the North Koreans.
+Dialogue: 0,0:32:53.55,0:32:54.59,Default,,0,0,0,,No, sir.
+Dialogue: 0,0:32:55.09,0:32:59.03,Default,,0,0,0,,None of the allies or the surrounding countries,\Nincluding the US, have been informed.
+Dialogue: 0,0:32:59.31,0:33:00.26,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:33:00.61,0:33:01.68,Default,,0,0,0,,Roger that, sir.
+Dialogue: 0,0:33:04.37,0:33:05.75,Default,,0,0,0,,Prepare the Predators immediately.
+Dialogue: 0,0:33:05.86,0:33:06.74,Default,,0,0,0,,{\i1}Yes, sir.{\i0}
+Dialogue: 0,0:34:16.08,0:34:17.57,Default,,0,0,0,,Thank you for coming.
+Dialogue: 0,0:34:44.23,0:34:47.52,Default,,0,0,0,,They passed through safely without incident\Nand are now on the way to the next location.
+Dialogue: 0,0:34:49.71,0:34:52.18,Default,,0,0,0,,Do you think this will be all right?
+Dialogue: 0,0:34:53.33,0:34:55.00,Default,,0,0,0,,Shouldn't we let our citizens...
+Dialogue: 0,0:34:55.12,0:34:57.99,Default,,0,0,0,,or at least the US know?
+Dialogue: 0,0:34:58.56,0:35:01.02,Default,,0,0,0,,We could create unnecessary misunderstanding.
+Dialogue: 0,0:35:01.24,0:35:03.28,Default,,0,0,0,,The North Korea is a nation\Non the verge of starving to death.
+Dialogue: 0,0:35:03.60,0:35:09.44,Default,,0,0,0,,Their nuclear development program\Nwas hindered by the incident in Hungary.
+Dialogue: 0,0:35:09.75,0:35:15.82,Default,,0,0,0,,And to make matters worse, they\Nare starting to question the state of affairs.
+Dialogue: 0,0:35:15.94,0:35:19.34,Default,,0,0,0,,If we don't do anything,\Nthis flame can turn into a major fire.
+Dialogue: 0,0:35:19.46,0:35:26.45,Default,,0,0,0,,I believe it's time for our two nations\Nto meet face to face and find a solution.
+Dialogue: 0,0:35:28.88,0:35:33.76,Default,,0,0,0,,I believe South Korea needs to take the lead\Nin finding the answers for changes in North Korea.
+Dialogue: 0,0:35:56.65,0:35:57.61,Default,,0,0,0,,Did you ask to see me?
+Dialogue: 0,0:35:58.53,0:36:01.99,Default,,0,0,0,,What you're investigating right now,\Nput a stop to it immediately.
+Dialogue: 0,0:36:03.86,0:36:07.20,Default,,0,0,0,,Are you ordering that, even knowing\Nwhat we're investigating?
+Dialogue: 0,0:36:08.27,0:36:11.70,Default,,0,0,0,,There are cars that crossed our\Nmilitary inspection points without stopping,
+Dialogue: 0,0:36:11.82,0:36:13.59,Default,,0,0,0,,and they're in Seoul at this moment.
+Dialogue: 0,0:36:13.71,0:36:15.47,Default,,0,0,0,,The Blue House did it.
+Dialogue: 0,0:36:17.01,0:36:20.88,Default,,0,0,0,,NSS being kept out of the loop,\Nis it because of the Hungary incident?
+Dialogue: 0,0:36:23.27,0:36:26.07,Default,,0,0,0,,Do you think I'm happy about this?
+Dialogue: 0,0:36:27.72,0:36:28.97,Default,,0,0,0,,Do as you are ordered.
+Dialogue: 0,0:36:41.04,0:36:44.07,Default,,0,0,0,,The vehicles have been escorted into Seoul.
+Dialogue: 0,0:36:44.39,0:36:47.10,Default,,0,0,0,,To which agency do the escort vehicles belong?
+Dialogue: 0,0:36:55.92,0:36:59.52,Default,,0,0,0,,They're government plates\Nissued to the Blue House security.
+Dialogue: 0,0:36:59.64,0:37:02.59,Default,,0,0,0,,Then we'll need to verify the current\Nlocation of our President and his aides.
+Dialogue: 0,0:37:02.71,0:37:07.18,Default,,0,0,0,,Check all email, fax, and other communications\Nto determine their current schedule.
+Dialogue: 0,0:37:13.69,0:37:15.74,Default,,0,0,0,,Stop activities on the current investigation,
+Dialogue: 0,0:37:15.86,0:37:18.36,Default,,0,0,0,,and destroy every bit of the\Nmaterial you've gathered thus far.
+Dialogue: 0,0:37:19.57,0:37:20.96,Default,,0,0,0,,Didn't you hear me?
+Dialogue: 0,0:37:21.29,0:37:22.34,Default,,0,0,0,,We're halting the investigation.
+Dialogue: 0,0:37:22.46,0:37:25.16,Default,,0,0,0,,Unidentified vehicles from North Korea\Nare in South Korea right now.
+Dialogue: 0,0:37:25.28,0:37:27.18,Default,,0,0,0,,How can you tell us to stop the investigation?
+Dialogue: 0,0:37:27.30,0:37:29.65,Default,,0,0,0,,These are special orders from the Director.
+Dialogue: 0,0:37:29.77,0:37:30.86,Default,,0,0,0,,Cease immediately.
+Dialogue: 0,0:38:26.33,0:38:28.14,Default,,0,0,0,,That crazy man is here!
+Dialogue: 0,0:38:30.59,0:38:31.60,Default,,0,0,0,,Where's the gun?
+Dialogue: 0,0:38:31.72,0:38:34.02,Default,,0,0,0,,They're all in the safe in the basement!
+Dialogue: 0,0:38:35.66,0:38:36.89,Default,,0,0,0,,Stop him.
+Dialogue: 0,0:38:37.01,0:38:37.85,Default,,0,0,0,,Stop him!
+Dialogue: 0,0:38:37.97,0:38:38.82,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:39:36.55,0:39:37.87,Default,,0,0,0,,It's been a long time.
+Dialogue: 0,0:39:37.99,0:39:39.03,Default,,0,0,0,,I came to get my merchandise.
+Dialogue: 0,0:39:39.15,0:39:40.23,Default,,0,0,0,,Merchandise?
+Dialogue: 0,0:39:40.35,0:39:44.83,Default,,0,0,0,,Oh, that...\NI have it all of course.
+Dialogue: 0,0:39:44.95,0:39:50.30,Default,,0,0,0,,In fact, you never came back and\NI was really worried about you.
+Dialogue: 0,0:39:51.92,0:39:55.17,Default,,0,0,0,,There must have been some misunderstanding.
+Dialogue: 0,0:39:55.29,0:39:56.49,Default,,0,0,0,,Shut up.
+Dialogue: 0,0:39:57.21,0:39:58.56,Default,,0,0,0,,Where is it?  My stuff.
+Dialogue: 0,0:40:09.33,0:40:11.02,Default,,0,0,0,,What about the ID's?
+Dialogue: 0,0:40:11.14,0:40:15.01,Default,,0,0,0,,You won't be able to get\Non a plane with those anyway.
+Dialogue: 0,0:40:15.13,0:40:17.21,Default,,0,0,0,,Same for the ship.
+Dialogue: 0,0:40:17.33,0:40:20.33,Default,,0,0,0,,But there is a way for you to get to Korea.
+Dialogue: 0,0:40:22.89,0:40:24.27,Default,,0,0,0,,I'm telling the truth.
+Dialogue: 0,0:40:24.39,0:40:28.53,Default,,0,0,0,,I'm not trying to trick\Nyou so just give me one week.
+Dialogue: 0,0:40:33.35,0:40:34.52,Default,,0,0,0,,It's the truth.
+Dialogue: 0,0:40:36.50,0:40:37.91,Default,,0,0,0,,Please believe me.
+Dialogue: 0,0:41:09.84,0:41:12.30,Default,,0,0,0,,{\i1}They say this statue has a sad story.{\i0}
+Dialogue: 0,0:41:14.07,0:41:19.83,Default,,0,0,0,,{\i1}A beautiful woman named Tachiko used to live here.{\i0}
+Dialogue: 0,0:41:20.52,0:41:22.99,Default,,0,0,0,,{\i1}She was in love with a man named Tarou.{\i0}
+Dialogue: 0,0:41:24.09,0:41:28.53,Default,,0,0,0,,{\i1}But Tachiko wanted to become a more youthful,\Nbeautiful woman,{\i0}
+Dialogue: 0,0:41:29.97,0:41:32.83,Default,,0,0,0,,{\i1}so she drank from a mystical spring{\i0}
+Dialogue: 0,0:41:32.95,0:41:38.19,Default,,0,0,0,,and fell under a spell and became a dragon that\Nprotects this Lake Tazawako.
+Dialogue: 0,0:41:40.40,0:41:48.06,Default,,0,0,0,,And Tarou also became a dragon that\Nprotects Lake Towada way over there.
+Dialogue: 0,0:41:50.42,0:41:52.76,Default,,0,0,0,,The two of them, who were separated like that,
+Dialogue: 0,0:41:52.88,0:41:55.74,Default,,0,0,0,,meet here in this lake when winter comes,
+Dialogue: 0,0:41:55.86,0:41:57.47,Default,,0,0,0,,to share their love.
+Dialogue: 0,0:41:59.02,0:42:01.42,Default,,0,0,0,,They say it's because of their\Nunchanging love for one another,
+Dialogue: 0,0:42:02.61,0:42:05.94,Default,,0,0,0,,that this lake never freezes.
+Dialogue: 0,0:42:09.97,0:42:11.47,Default,,0,0,0,,Why are you laughing?
+Dialogue: 0,0:42:12.96,0:42:15.26,Default,,0,0,0,,It's not sad but scary.
+Dialogue: 0,0:42:16.28,0:42:17.21,Default,,0,0,0,,Why?
+Dialogue: 0,0:42:19.16,0:42:24.66,Default,,0,0,0,,So what you're saying is that because those\Ntwo people just wanted to love each other,
+Dialogue: 0,0:42:25.23,0:42:28.66,Default,,0,0,0,,they turned into monsters in different places.
+Dialogue: 0,0:42:30.74,0:42:31.94,Default,,0,0,0,,"Monsters"?
+Dialogue: 0,0:42:33.73,0:42:36.44,Default,,0,0,0,,You're right, monsters.
+Dialogue: 0,0:42:39.66,0:42:41.61,Default,,0,0,0,,That makes it even sadder.
+Dialogue: 0,0:42:42.02,0:42:43.25,Default,,0,0,0,,What?
+Dialogue: 0,0:42:44.95,0:42:46.34,Default,,0,0,0,,The work we do.
+Dialogue: 0,0:42:47.63,0:42:50.01,Default,,0,0,0,,Because if we keep going like this,
+Dialogue: 0,0:42:50.43,0:42:54.67,Default,,0,0,0,,you and I may also become monsters.
+Dialogue: 0,0:43:07.10,0:43:08.51,Default,,0,0,0,,Should we just give up?
+Dialogue: 0,0:43:15.39,0:43:17.96,Default,,0,0,0,,We couldn't do that now even if we wanted to.
+Dialogue: 0,0:44:24.90,0:44:25.65,Default,,0,0,0,,Welcome.
+Dialogue: 0,0:44:25.77,0:44:26.67,Default,,0,0,0,,Welcome.
+Dialogue: 0,0:44:28.25,0:44:30.36,Default,,0,0,0,,Please sit over here.
+Dialogue: 0,0:44:37.36,0:44:40.91,Default,,0,0,0,,Welcome.\NWhat would you like to have?
+Dialogue: 0,0:44:41.03,0:44:42.10,Default,,0,0,0,,I'll take some Sake.
+Dialogue: 0,0:44:42.22,0:44:43.48,Default,,0,0,0,,All right.
+Dialogue: 0,0:44:51.32,0:44:56.41,Default,,0,0,0,,{\i1}[Hyun Jun and Seung Hee --\NTo remember just us two on a trip]{\i0}
+Dialogue: 0,0:44:56.68,0:44:59.49,Default,,0,0,0,,Should we have our picture taken too?
+Dialogue: 0,0:44:59.61,0:45:01.63,Default,,0,0,0,,Did you forget who you are?
+Dialogue: 0,0:45:01.75,0:45:04.42,Default,,0,0,0,,{\i1}How can we put up a picture of us here?{\i0}
+Dialogue: 0,0:45:04.54,0:45:07.35,Default,,0,0,0,,Who would know us here?
+Dialogue: 0,0:45:07.47,0:45:08.26,Default,,0,0,0,,Let's do it.
+Dialogue: 0,0:45:09.74,0:45:10.51,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:45:10.63,0:45:11.72,Default,,0,0,0,,Are you really...
+Dialogue: 0,0:45:11.84,0:45:12.50,Default,,0,0,0,,Yes.
+Dialogue: 0,0:45:13.05,0:45:14.17,Default,,0,0,0,,Would you take our picture?
+Dialogue: 0,0:45:14.29,0:45:16.98,Default,,0,0,0,,Yes.\NLook this way.
+Dialogue: 0,0:45:17.10,0:45:18.82,Default,,0,0,0,,Smile.
+Dialogue: 0,0:45:19.12,0:45:21.47,Default,,0,0,0,,One - Two - Three!
+Dialogue: 0,0:45:39.24,0:45:40.79,Default,,0,0,0,,How childish.
+Dialogue: 0,0:45:42.06,0:45:43.96,Default,,0,0,0,,I really like childish things.
+Dialogue: 0,0:47:15.60,0:47:18.06,Default,,0,0,0,,Welcome.
+Dialogue: 0,0:47:29.34,0:47:33.44,Default,,0,0,0,,I think that woman was here earlier.
+Dialogue: 0,0:47:33.86,0:47:36.43,Default,,0,0,0,,{\i1}Wasn't it her..?{\i0}
+Dialogue: 0,0:49:20.02,0:49:25.45,Default,,0,0,0,,It's been a long day because of the watchful eyes\Nof many concerned with the Korean peninsula.
+Dialogue: 0,0:49:25.57,0:49:30.45,Default,,0,0,0,,Shouldn't Joseon* people make\Nthe decisions on the Joseon peninsula?
+Dialogue: 0,0:49:30.57,0:49:34.84,Default,,0,0,0,,Others are, after all, only third parties\Nand will act for their own benefit.
+Dialogue: 0,0:49:34.96,0:49:36.49,Default,,0,0,0,,Of course.  You are right.
+Dialogue: 0,0:49:36.89,0:49:39.73,Default,,0,0,0,,I would now like to hear what you have to say.
+Dialogue: 0,0:49:41.21,0:49:47.05,Default,,0,0,0,,History shows us that reunification of divided nations...
+Dialogue: 0,0:49:47.74,0:49:56.15,Default,,0,0,0,,did not happen as a result of planning for it,\Nbut occurred as a single dramatic event.
+Dialogue: 0,0:49:57.13,0:50:03.90,Default,,0,0,0,,I believe that was because planning for a\Nreunification was not something that was possible.
+Dialogue: 0,0:50:05.86,0:50:09.68,Default,,0,0,0,,I'm sure that during the planning period,\Nthere would have been too much protest,
+Dialogue: 0,0:50:09.80,0:50:13.05,Default,,0,0,0,,both domestic and international.
+Dialogue: 0,0:50:14.99,0:50:18.32,Default,,0,0,0,,I believe that to be the case once again.
+Dialogue: 0,0:50:18.44,0:50:24.85,Default,,0,0,0,,The US, China, Russia, and Japan cannot\Nwant to see our two countries become united.
+Dialogue: 0,0:50:24.97,0:50:30.03,Default,,0,0,0,,They cannot welcome the changes in the\Nnuclear program that are sure to follow,
+Dialogue: 0,0:50:30.15,0:50:37.03,Default,,0,0,0,,especially when there are missiles currently\Naimed in the direction of the Pacific Ocean.
+Dialogue: 0,0:50:39.58,0:50:42.22,Default,,0,0,0,,I would like to meet with your Leader Kim
+Dialogue: 0,0:50:42.34,0:50:44.96,Default,,0,0,0,,and discuss the matter of reunification.
+Dialogue: 0,0:50:45.48,0:50:47.66,Default,,0,0,0,,Will that be possible?
+Dialogue: 0,0:50:56.10,0:51:00.48,Default,,0,0,0,,Do you know the level of\Nnuclear development in South Korea?
+Dialogue: 0,0:51:01.06,0:51:07.77,Default,,0,0,0,,Didn't South Joseon abandon all\Nnuclear research and development in 1979?
+Dialogue: 0,0:51:07.89,0:51:08.87,Default,,0,0,0,,That's right.
+Dialogue: 0,0:51:08.99,0:51:12.70,Default,,0,0,0,,But once a skill has been developed,\Nit does not vanish.
+Dialogue: 0,0:51:14.28,0:51:21.62,Default,,0,0,0,,Whenever there is a need, we do have the ability\Nto build nuclear weapons.
+Dialogue: 0,0:51:23.03,0:51:25.08,Default,,0,0,0,,In our country,\Nwe have 16 light water reactors,
+Dialogue: 0,0:51:25.20,0:51:32.22,Default,,0,0,0,,and four heavy water reactors,\Nalong with eight tons of nuclear material in storage.
+Dialogue: 0,0:51:32.34,0:51:38.95,Default,,0,0,0,,We can produce... 5,500 warheads.
+Dialogue: 0,0:51:43.47,0:51:49.81,Default,,0,0,0,,That sounds to me like you're saying that your\Nskills and knowledge are more advanced than ours,
+Dialogue: 0,0:51:50.46,0:51:54.08,Default,,0,0,0,,so you want us to abandon our program.
+Dialogue: 0,0:51:54.20,0:51:56.60,Default,,0,0,0,,No.  How can I do that?
+Dialogue: 0,0:51:56.72,0:51:58.64,Default,,0,0,0,,What I'm saying is that if you do abandon\Nyour nuclear program,
+Dialogue: 0,0:51:58.76,0:52:05.03,Default,,0,0,0,,we will take progressive actions to help with your\Ndomestic and international issues.
+Dialogue: 0,0:52:05.60,0:52:09.52,Default,,0,0,0,,Please tell Leader Kim of my wishes.
+Dialogue: 0,0:52:14.51,0:52:15.59,Default,,0,0,0,,Come in.
+Dialogue: 0,0:52:20.78,0:52:22.12,Default,,0,0,0,,You asked for me?
+Dialogue: 0,0:52:24.74,0:52:30.15,Default,,0,0,0,,It seems our Leader may accept\Nthe South Korean President's offer.
+Dialogue: 0,0:52:32.03,0:52:33.70,Default,,0,0,0,,{\i1}What are your thoughts on it?{\i0}
+Dialogue: 0,0:52:33.82,0:52:36.77,Default,,0,0,0,,If that is our Leader's wishes,
+Dialogue: 0,0:52:36.89,0:52:39.61,Default,,0,0,0,,we shall move forward\Nwith our weapons development with South Korea.
+Dialogue: 0,0:52:39.73,0:52:45.00,Default,,0,0,0,,What I'm asking you is your own personal thoughts.
+Dialogue: 0,0:52:45.12,0:52:50.16,Default,,0,0,0,,If we join the South, I believe we\Nwill end up following the South Korean will.
+Dialogue: 0,0:52:50.28,0:52:54.04,Default,,0,0,0,,And if that were to happen,\Nour Leader's authority will be diminished.
+Dialogue: 0,0:52:55.37,0:52:57.51,Default,,0,0,0,,I believe you need to stop it from happening.
+Dialogue: 0,0:52:57.83,0:52:59.12,Default,,0,0,0,,How?
+Dialogue: 0,0:53:00.49,0:53:01.84,Default,,0,0,0,,{\i1}By what methods?{\i0}
+Dialogue: 0,0:53:09.64,0:53:13.57,Default,,0,0,0,,Is the international help\Nyou've been nurturing available?
+Dialogue: 0,0:53:15.17,0:53:16.05,Default,,0,0,0,,Yes.
+Dialogue: 0,0:53:18.06,0:53:20.85,Default,,0,0,0,,Leave it to me.
+Dialogue: 0,0:53:37.72,0:53:39.30,Default,,0,0,0,,Follow me.
+Dialogue: 0,0:54:10.58,0:54:12.25,Default,,0,0,0,,We'll be leaving shortly.
+Dialogue: 0,0:55:09.90,0:55:10.67,Default,,0,0,0,,{\i1}Ahjussi.{\i0}
+Dialogue: 0,0:55:13.39,0:55:14.13,Default,,0,0,0,,Yuki.
+Dialogue: 0,0:55:15.74,0:55:19.05,Default,,0,0,0,,I'm... so scared.
+Dialogue: 0,0:55:24.16,0:55:26.59,Default,,0,0,0,,Where are you.  Where?
+Dialogue: 0,0:55:26.91,0:55:28.65,Default,,0,0,0,,{\i1}I'm hiding in the closet.{\i0}
+Dialogue: 0,0:55:28.89,0:55:32.69,Default,,0,0,0,,Yuki.  Listen to me carefully.
+Dialogue: 0,0:55:35.52,0:55:36.85,Default,,0,0,0,,I'm coming.
+Dialogue: 0,0:55:36.97,0:55:43.02,Default,,0,0,0,,I'll be right there, so don't\Nmove from that spot until I get there.
+Dialogue: 0,0:55:43.66,0:55:45.79,Default,,0,0,0,,{\i1}Keep hiding in there.{\i0}
+Dialogue: 0,0:55:49.81,0:55:50.50,Default,,0,0,0,,Yuki.
+Dialogue: 0,0:55:53.35,0:55:54.21,Default,,0,0,0,,Yuki.
+Dialogue: 0,0:55:56.80,0:55:59.13,Default,,0,0,0,,Yuki!  What happened?
+Dialogue: 0,0:56:06.46,0:56:07.99,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:56:08.58,0:56:13.17,Default,,0,0,0,,If you bring it, Yuki will be safe.
+Dialogue: 0,0:56:14.12,0:56:18.27,Default,,0,0,0,,{\i1}In one hour, meet me on the Amaga Bridge.{\i0}
+Dialogue: 0,0:56:19.08,0:56:21.03,Default,,0,0,0,,What do you want?
+Dialogue: 0,0:56:21.15,0:56:23.22,Default,,0,0,0,,What is it that you want me to bring?
+Dialogue: 0,0:56:23.62,0:56:27.53,Default,,0,0,0,,What you received from Hong Seung Ryong...\Nthe USB drive.
+Dialogue: 0,0:56:30.18,0:56:31.72,Default,,0,0,0,,{\i1}You have one hour.{\i0}
+Dialogue: 0,0:58:54.37,0:58:55.09,Default,,0,0,0,,Stop.
+Dialogue: 0,0:58:58.54,0:58:59.19,Default,,0,0,0,,Ahjussi.
+Dialogue: 0,0:58:59.62,0:59:01.14,Default,,0,0,0,,Yuki, are you all right?
+Dialogue: 0,0:59:01.26,0:59:03.63,Default,,0,0,0,,Don't be afraid.\NEverything's going to be okay.
+Dialogue: 0,0:59:05.97,0:59:07.21,Default,,0,0,0,,Throw down your gun.
+Dialogue: 0,0:59:12.15,0:59:13.17,Default,,0,0,0,,USB.
+Dialogue: 0,0:59:13.29,0:59:15.03,Default,,0,0,0,,Let the girl go first.
+Dialogue: 0,0:59:47.41,0:59:48.85,Default,,0,0,0,,Password.
+Dialogue: 0,0:59:55.86,0:59:57.53,Default,,0,0,0,,SH0615.
+Dialogue: 0,1:00:32.47,1:00:33.90,Default,,0,0,0,,Put your head down!
+Dialogue: 0,1:01:21.37,1:01:25.99,Default,,0,0,0,,I would like to meet with your Leader Kim\Nand discuss the matter of reunification.
+Dialogue: 0,1:01:26.65,1:01:29.55,Default,,0,0,0,,She doesn't believe Hyun Jun is dead.
+Dialogue: 0,1:01:29.67,1:01:32.26,Default,,0,0,0,,If she can't, then make her believe it.
+Dialogue: 0,1:01:36.31,1:01:37.42,Default,,0,0,0,,Hurry up and call an ambulance!
+Dialogue: 0,1:01:37.54,1:01:39.06,Default,,0,0,0,,We need to keep a watch.
+Dialogue: 0,1:01:41.25,1:01:42.68,Default,,0,0,0,,We got through.
+Dialogue: 0,1:01:43.28,1:01:44.23,Default,,0,0,0,,{\i1}We found it.{\i0}
+Dialogue: 0,1:01:52.71,1:01:54.08,Default,,0,0,0,,What is IRIS?
+Dialogue: 0,1:01:54.50,1:01:56.19,Default,,0,0,0,,We received a call from Kim Seon Hwa.
+Dialogue: 0,1:01:56.31,1:01:57.05,Default,,0,0,0,,Where is she?
+Dialogue: 0,1:01:57.17,1:01:59.02,Default,,0,0,0,,{\i1}She's in Shanghai, China.{\i0}
+Dialogue: 0,1:02:00.39,1:02:02.62,Default,,0,0,0,,There's some place you need to go with me.
+Dialogue: 0,1:02:39.75,1:02:44.26,Default,,0,0,0,,{\i1}Vice Director, there's an important reason\Nfor me to live and return home.{\i0}

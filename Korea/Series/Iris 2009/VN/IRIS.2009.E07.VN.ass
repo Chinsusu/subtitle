@@ -1,0 +1,408 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:11.61,0:01:13.22,Default,,0,0,0,,Tập 7
+Dialogue: 0,0:01:25.65,0:01:27.59,Default,,0,0,0,,Anh muốn tìm mua cái gì thế?
+Dialogue: 0,0:01:42.01,0:01:44.22,Default,,0,0,0,,Anh đang chuẩn bị cho chiến tranh à?
+Dialogue: 0,0:01:45.67,0:01:47.66,Default,,0,0,0,,Thứ anh hỏi mua không thể tìm được đâu.
+Dialogue: 0,0:02:06.97,0:02:08.64,Default,,0,0,0,,Khi hàng được chuyển đi,
+Dialogue: 0,0:02:09.84,0:02:12.08,Default,,0,0,0,,Tôi sẽ đưa cho anh gấp đôi.
+Dialogue: 0,0:02:39.70,0:02:42.47,Default,,0,0,0,,Đây là hoạt động của các tổ chức nước ngoài.
+Dialogue: 0,0:02:42.59,0:02:44.92,Default,,0,0,0,,Nhưng trong đó có vài điều rất lạ...
+Dialogue: 0,0:02:45.23,0:02:49.71,Default,,0,0,0,,Tất cả tiền của các tổ chức cho vay lãi nặng ở Nhật\Nđểu được tập trung lại.
+Dialogue: 0,0:02:50.39,0:02:52.56,Default,,0,0,0,,Ngài có biết gì về việc đó không ạ?
+Dialogue: 0,0:02:52.68,0:02:53.79,Default,,0,0,0,,Khoảng bao nhiêu tiền?
+Dialogue: 0,0:02:53.91,0:02:55.32,Default,,0,0,0,,200 triệu yên.
+Dialogue: 0,0:02:56.53,0:02:59.07,Default,,0,0,0,,Tôi đã biết tên người chủ tài khoản nhận tiền\Ntại ngân hàng,
+Dialogue: 0,0:02:59.07,0:03:01.02,Default,,0,0,0,,hiện chúng tôi đang cố gắng tìm chi tiết hơn.
+Dialogue: 0,0:03:44.58,0:03:45.41,Default,,0,0,0,,Đứng im!
+Dialogue: 0,0:04:06.80,0:04:08.43,Default,,0,0,0,,Không bắt được mạch của cô ta.
+Dialogue: 0,0:04:08.55,0:04:09.58,Default,,0,0,0,,Tiêm Vasopressin 2CC.
+Dialogue: 0,0:04:09.70,0:04:11.22,Default,,0,0,0,,Chuẩn bị tiêm 2cc Vasopressin.
+Dialogue: 0,0:04:17.58,0:04:18.67,Default,,0,0,0,,Chuyện gì vậy?
+Dialogue: 0,0:06:05.10,0:06:07.14,Default,,0,0,0,,{\i1}Vậy chúng ta nên bắt đầu lại?
+Dialogue: 0,0:06:22.38,0:06:23.82,Default,,0,0,0,,{\i1}Mày là ai?
+Dialogue: 0,0:06:30.21,0:06:32.68,Default,,0,0,0,,{\i1}Nói mau! Mục đích của mày là gì?
+Dialogue: 0,0:06:55.81,0:07:02.52,Default,,0,0,0,,Chúng ta bết được rằng hắn đang tìm mua\Nrất nhiều loại vũ khí.
+Dialogue: 0,0:07:03.06,0:07:06.12,Default,,0,0,0,,Bằng cách nào đó hắn đang cố gắng mua\Ncác vũ khí hạng nặng,
+Dialogue: 0,0:07:06.18,0:07:07.72,Default,,0,0,0,,nhưng nguy hiểm hơn là các loại vũ khí hắn cần.
+Dialogue: 0,0:07:07.94,0:07:11.11,Default,,0,0,0,,Chúng tôi tin rằng hắn ta đang định khủng bố hay ám sát ai đó.
+Dialogue: 0,0:07:21.68,0:07:23.38,Default,,0,0,0,,{\i1}Thực ra mày là ai?
+Dialogue: 0,0:07:28.58,0:07:30.71,Default,,0,0,0,,{\i1}Tại sao mày lại tới Nhật?
+Dialogue: 0,0:07:34.47,0:07:37.13,Default,,0,0,0,,Nói mau! Mày đang làm gì ở đây?
+Dialogue: 0,0:08:02.07,0:08:02.90,Default,,0,0,0,,Đủ rồi.
+Dialogue: 0,0:08:03.02,0:08:03.98,Default,,0,0,0,,Vâng.
+Dialogue: 0,0:08:04.48,0:08:05.18,Default,,0,0,0,,Đủ rồi đó.
+Dialogue: 0,0:08:07.52,0:08:10.27,Default,,0,0,0,,{\i1}Hắn không hề nói gì.
+Dialogue: 0,0:08:10.39,0:08:17.50,Default,,0,0,0,,Anh ta đã vượt ngục 3 lần,mỗi lần vượt ngục\Nnhững người quản giáo đều bị thương rất nặng.
+Dialogue: 0,0:08:21.05,0:08:25.07,Default,,0,0,0,,{\i1}Anh ta hẳn đã được huấn luyện rất tốt.
+Dialogue: 0,0:08:48.63,0:08:49.61,Default,,0,0,0,,Tất cả ra ngoài.
+Dialogue: 0,0:08:49.93,0:08:51.16,Default,,0,0,0,,Anh ta rất nguy hiểm.
+Dialogue: 0,0:08:51.76,0:08:53.00,Default,,0,0,0,,Cứ ra ngoài đi.
+Dialogue: 0,0:09:12.45,0:09:18.81,Default,,0,0,0,,Tên tôi là Sato Erica tới từ bộ phận điều tra\Ntội phạm quốc tế.
+Dialogue: 0,0:09:20.89,0:09:25.08,Default,,0,0,0,,Anh có thể hiểu những điều tôi nói chứ?
+Dialogue: 0,0:09:29.43,0:09:33.69,Default,,0,0,0,,Chúng tôi đã điều tra thân phận của anh...
+Dialogue: 0,0:09:35.69,0:09:39.13,Default,,0,0,0,,nhưng chúng tôi không tìm thấy gì hết.
+Dialogue: 0,0:09:40.21,0:09:44.94,Default,,0,0,0,,Cứ như là anh không hề tồn tại trên thế giới.
+Dialogue: 0,0:09:48.94,0:09:50.36,Default,,0,0,0,,Tại sao lại như vậy?
+Dialogue: 0,0:09:50.61,0:09:53.67,Default,,0,0,0,,Tại sao anh cứ cố gắng vượt ngục khi anh biết\Nlà anh không thể trốn thoát?
+Dialogue: 0,0:09:58.22,0:10:02.93,Default,,0,0,0,,Tôi không phải ở đây để hỏi cung anh.
+Dialogue: 0,0:10:08.28,0:10:13.00,Default,,0,0,0,,Tôi đến để trả tự do cho anh.
+Dialogue: 0,0:10:15.93,0:10:18.90,Default,,0,0,0,,Nếu anh có thể giúp chúng tôi 1 việc,
+Dialogue: 0,0:10:20.39,0:10:22.78,Default,,0,0,0,,anh sẽ được tự do.
+Dialogue: 0,0:10:45.91,0:10:47.60,Default,,0,0,0,,Seung Hee đi đâu rồi?
+Dialogue: 0,0:10:48.79,0:10:50.69,Default,,0,0,0,,Tôi không biết.\NTôi không liên lạc được với cô ấy.
+Dialogue: 0,0:10:50.81,0:10:52.96,Default,,0,0,0,,Cô có biết là Kim Seon Hwa đã trốn thoát rồi không?
+Dialogue: 0,0:10:53.89,0:10:55.35,Default,,0,0,0,,Chẳng phải tôi đã nói với cô rồi sao?
+Dialogue: 0,0:10:55.47,0:10:58.46,Default,,0,0,0,,Tôi chẳng đã nói những hành động của cô\Nsẽ làm cho Seung Hee gặp nguy hiểm rồi mà?
+Dialogue: 0,0:10:59.63,0:11:01.93,Default,,0,0,0,,Nếu có chuyện gì xảy ra với Seung Hee,
+Dialogue: 0,0:11:03.54,0:11:07.55,Default,,0,0,0,,Tất cả đều là tại cô.
+Dialogue: 0,0:11:33.76,0:11:35.75,Default,,0,0,0,,Cô có biết Seung Hee hiện giờ đang ở đâu không ạ?
+Dialogue: 0,0:11:37.02,0:11:40.79,Default,,0,0,0,,Nó đã không về nhà 2 ngày nay rồi.
+Dialogue: 0,0:11:42.36,0:11:45.54,Default,,0,0,0,,Có chuyện gì xảy ra với nó sao?
+Dialogue: 0,0:11:46.64,0:11:49.26,Default,,0,0,0,,Không ạ, không có chuyện gì đâu ạ.\NXin cô đừng lo ạ.
+Dialogue: 0,0:12:04.63,0:12:05.91,Default,,0,0,0,,Đó là Kim Seon Hwa.
+Dialogue: 0,0:12:11.03,0:12:12.09,Default,,0,0,0,,Tôi đây.
+Dialogue: 0,0:12:12.43,0:12:13.88,Default,,0,0,0,,{\i1}Cô đang ở đâu?
+Dialogue: 0,0:12:16.64,0:12:17.84,Default,,0,0,0,,Mẹ tôi...
+Dialogue: 0,0:12:21.32,0:12:23.45,Default,,0,0,0,,và các em tôi...
+Dialogue: 0,0:12:30.19,0:12:33.20,Default,,0,0,0,,có thật là tất cả đã chết hết rồi phải không?
+Dialogue: 0,0:12:35.48,0:12:37.70,Default,,0,0,0,,Chẳng phải anh đã hứa với tôi....
+Dialogue: 0,0:12:42.88,0:12:46.02,Default,,0,0,0,,là sẽ bảo vệ họ cơ mà?
+Dialogue: 0,0:12:54.38,0:12:56.55,Default,,0,0,0,,Seon Hwa à, hãy nghe tôi nói đã.
+Dialogue: 0,0:12:58.76,0:12:59.62,Default,,0,0,0,,{\i1}Kim Seon Hwa.
+Dialogue: 0,0:13:09.45,0:13:12.31,Default,,0,0,0,,Cử 1 người tới Nhật tìm Kim Seon Hwa.
+Dialogue: 0,0:13:12.43,0:13:16.96,Default,,0,0,0,,Với tâm trạng đó, không biết cô ta sẽ làm gì.
+Dialogue: 0,0:13:17.32,0:13:18.48,Default,,0,0,0,,Tôi biết rồi.
+Dialogue: 0,0:13:22.72,0:13:24.35,Default,,0,0,0,,Việc theo dõi Kim Seon Hwa thế nào rồi?
+Dialogue: 0,0:13:24.47,0:13:28.01,Default,,0,0,0,,Chúng ta không thể xác định được.\NCó thể cô ta đã qua biên giới rồi.
+Dialogue: 0,0:13:28.13,0:13:30.13,Default,,0,0,0,,Đã xác định được vị trí của đội trưởng Choi Seung Hee chưa?
+Dialogue: 0,0:13:30.25,0:13:31.10,Default,,0,0,0,,{\i1}Rồi ạ.
+Dialogue: 0,0:13:31.57,0:13:32.37,Default,,0,0,0,,Cô ấy đang ở đâu?
+Dialogue: 0,0:13:32.49,0:13:33.36,Default,,0,0,0,,Cô ấy đang ở Nhật.
+Dialogue: 0,0:13:37.04,0:13:41.29,Default,,0,0,0,,Loại thuốc Kim Seon Hwa đã uống khi bỏ trốn là R-Phen.
+Dialogue: 0,0:13:41.41,0:13:45.76,Default,,0,0,0,,R-Phen?\NĐó là loại thuốc chỉ có của nhân viên NSS.
+Dialogue: 0,0:13:45.88,0:13:47.78,Default,,0,0,0,,Sao Kim Seon Hwa lại...?
+Dialogue: 0,0:13:48.21,0:13:52.62,Default,,0,0,0,,Tôi tin rằng Choi Seung Hee\Nđã đưa cho cô ta khi thẩm vấn.
+Dialogue: 0,0:13:52.98,0:13:55.41,Default,,0,0,0,,Cô ấy đã giúp Kim Seon Hwa trốn thoát,
+Dialogue: 0,0:13:55.53,0:13:57.91,Default,,0,0,0,,và sau đó theo dõi cô ta.
+Dialogue: 0,0:13:58.03,0:14:00.18,Default,,0,0,0,,Tại sao cô ấy lại làm thế chứ?
+Dialogue: 0,0:14:01.90,0:14:03.43,Default,,0,0,0,,Bây giờ cô ấy đang ở đâu?
+Dialogue: 0,0:14:03.55,0:14:05.58,Default,,0,0,0,,Hiện giờ cô ấy đang ở Nhật Bản.
+Dialogue: 0,0:14:09.75,0:14:11.61,Default,,0,0,0,,Chuyện này chỉ chúng ta biết thôi.
+Dialogue: 0,0:14:11.94,0:14:14.41,Default,,0,0,0,,Được chứ?\NCậu hãy đi đưa cô ta về đi.
+Dialogue: 0,0:14:14.53,0:14:16.35,Default,,0,0,0,,Chúng ta phải tìm được cô ta trước khi sự việc lớn hơn.
+Dialogue: 0,0:14:16.47,0:14:17.36,Default,,0,0,0,,Cậu hiểu chứ?
+Dialogue: 0,0:14:19.90,0:14:22.32,Default,,0,0,0,,Seung Hee giúp Kim Seon Hwa bỏ trốn,
+Dialogue: 0,0:14:22.44,0:14:24.28,Default,,0,0,0,,và bây giờ đang đi theo cô ta.
+Dialogue: 0,0:14:25.66,0:14:27.51,Default,,0,0,0,,Không hiểu tại sao cô ấy lại làm thế?
+Dialogue: 0,0:14:27.63,0:14:29.35,Default,,0,0,0,,Bởi vì TK1.
+Dialogue: 0,0:14:29.47,0:14:30.68,Default,,0,0,0,,Kim Hyun Jun à?
+Dialogue: 0,0:14:30.80,0:14:34.94,Default,,0,0,0,,Seung Hee không tin TK1 đã chết.
+Dialogue: 0,0:14:35.27,0:14:40.42,Default,,0,0,0,,Kim Seon Hwa được giao nhiệm vụ bảo vệ Yoon Sung Chul\Nở Hungary và vì 1 vài lý do,
+Dialogue: 0,0:14:40.54,0:14:44.78,Default,,0,0,0,,Seung Hee tin rằng Kim Seon Hwa\Nbiết TK1 đang ở đâu.
+Dialogue: 0,0:14:45.02,0:14:48.65,Default,,0,0,0,,Những điều cô vừa nói với tôi...\Ncó ai biết nữa không?
+Dialogue: 0,0:14:48.77,0:14:49.47,Default,,0,0,0,,không.
+Dialogue: 0,0:14:50.29,0:14:51.34,Default,,0,0,0,,Giữ bí mật đấy.
+Dialogue: 0,0:15:10.77,0:15:12.50,Default,,0,0,0,,Anh ta đâu?
+Dialogue: 0,0:15:18.73,0:15:20.30,Default,,0,0,0,,Anh ta đâu rồi?
+Dialogue: 0,0:15:22.95,0:15:24.11,Default,,0,0,0,,Nói mau.
+Dialogue: 0,0:15:24.73,0:15:25.86,Default,,0,0,0,,Anh ta đâu rồi?
+Dialogue: 0,0:15:28.39,0:15:31.39,Default,,0,0,0,,Anh ta bị phòng điều tra tội phạm quốc tế bắt rồi,
+Dialogue: 0,0:15:31.78,0:15:38.95,Default,,0,0,0,,Akita, đó là nơi được bảo vệ rất nghiêm ngặt.
+Dialogue: 0,0:17:44.37,0:17:48.82,Default,,0,0,0,,{\i1}Chủ tịch đảng xã hội, Ito Masayuki.
+Dialogue: 0,0:17:48.94,0:17:53.61,Default,,0,0,0,,{\i1}Bề ngoài ông ta được tín nhiệm và yêu mến,
+Dialogue: 0,0:17:53.73,0:18:00.98,Default,,0,0,0,,{\i1}nhưng thực ra,\N10 băng đảng Mafia ở Nhật có quan hệ mật thiết với ông ta.
+Dialogue: 0,0:18:02.09,0:18:04.39,Default,,0,0,0,,{\i1}Tên tuổi của ông ta có ảnh hưởng lớn tới mọi người,
+Dialogue: 0,0:18:04.51,0:18:07.10,Default,,0,0,0,,{\i1}ông ta nắm rất nhiều quyền lực.
+Dialogue: 0,0:18:07.22,0:18:10.09,Default,,0,0,0,,{\i1}Nếu anh có thể ám sát ông ta thành công,
+Dialogue: 0,0:18:10.41,0:18:14.63,Default,,0,0,0,,{\i1}anh sẽ được tự do.
+Dialogue: 0,0:19:37.34,0:19:38.52,Default,,0,0,0,,Không sao đâu.
+Dialogue: 0,0:19:54.58,0:19:56.45,Default,,0,0,0,,{\i1}Chỉ vào trán là biểu tượng của thần thánh.
+Dialogue: 0,0:19:57.46,0:20:01.73,Default,,0,0,0,,Tiên sinh ngài sẽ còn chỉ huy trong thời gian dài nữa.
+Dialogue: 0,0:20:15.11,0:20:17.58,Default,,0,0,0,,{\i1}Tuyệt vời! Rất tốt! Rất tốt!
+Dialogue: 0,0:21:51.34,0:21:54.45,Default,,0,0,0,,Tiên sinh, buổi biểu diễn rất tuyệt phải không?
+Dialogue: 0,0:21:54.57,0:21:55.49,Default,,0,0,0,,Tiên sinh!
+Dialogue: 0,0:21:55.61,0:21:57.08,Default,,0,0,0,,Ông ấy bị ám sát rồi!
+Dialogue: 0,0:22:01.91,0:22:03.04,Default,,0,0,0,,Tiên Sinh!
+Dialogue: 0,0:22:11.95,0:22:13.47,Default,,0,0,0,,{\i1}Chúng tôi chưa nhìn thấy hắn.
+Dialogue: 0,0:22:13.73,0:22:15.89,Default,,0,0,0,,Nhìn thấy anh ta thì khử luôn.
+Dialogue: 0,0:22:16.94,0:22:18.81,Default,,0,0,0,,Ý ông là gì khi nói "khử" anh ta?
+Dialogue: 0,0:22:18.93,0:22:21.08,Default,,0,0,0,,Giữ anh ta lại sẽ rất nguy hiểm.
+Dialogue: 0,0:22:21.20,0:22:22.84,Default,,0,0,0,,Nhưng trước đấy chúng ta không thỏa thuận như vậy!
+Dialogue: 0,0:22:22.96,0:22:26.43,Default,,0,0,0,,Dù sao anh ta cũng không hề tồn tại.
+Dialogue: 0,0:23:10.23,0:23:12.39,Default,,0,0,0,,{\i1}Chúng ta mất dấu hắn rồi.
+Dialogue: 0,0:23:13.23,0:23:14.96,Default,,0,0,0,,{\i1}Chúng tôi không tìm thấy hắn.
+Dialogue: 0,0:23:15.08,0:23:17.17,Default,,0,0,0,,{\i1}Chỉ còn lại những người bảo vệ.
+Dialogue: 0,0:23:17.54,0:23:19.09,Default,,0,0,0,,Tìm hắn ngay đi!
+Dialogue: 0,0:23:19.21,0:23:21.31,Default,,0,0,0,,Và đừng để bảo vệ nhìn thấy đó.
+Dialogue: 0,0:23:21.43,0:23:22.92,Default,,0,0,0,,{\i1}Vâng, thưa ngài.
+Dialogue: 0,0:23:23.29,0:23:24.71,Default,,0,0,0,,{\i1}Chúng ta đi.
+Dialogue: 0,0:24:58.42,0:24:59.26,Default,,0,0,0,,{\i1}Yuki.
+Dialogue: 0,0:25:04.65,0:25:05.39,Default,,0,0,0,,Chú!
+Dialogue: 0,0:25:07.30,0:25:08.59,Default,,0,0,0,,Chú đã đi đâu?
+Dialogue: 0,0:25:08.71,0:25:10.67,Default,,0,0,0,,Sao chú bỏ đi mà không nói gì vậy?
+Dialogue: 0,0:25:10.79,0:25:12.30,Default,,0,0,0,,Chú về khi nào vậy?
+Dialogue: 0,0:25:18.45,0:25:19.98,Default,,0,0,0,,Ngày nào cháu cũng đeo nó.
+Dialogue: 0,0:25:20.10,0:25:22.45,Default,,0,0,0,,Và nó giúp cháu nhớ tới chú.
+Dialogue: 0,0:25:23.49,0:25:24.55,Default,,0,0,0,,{\i1}Chú.
+Dialogue: 0,0:25:24.67,0:25:25.77,Default,,0,0,0,,{\i1}Chú.
+Dialogue: 0,0:25:26.92,0:25:27.89,Default,,0,0,0,,{\i1}Chú.
+Dialogue: 0,0:25:29.47,0:25:30.56,Default,,0,0,0,,{\i1}Chú.
+Dialogue: 0,0:25:31.09,0:25:33.20,Default,,0,0,0,,{\i1}Bệnh viện thành phố Kakunodate (Nhật)
+Dialogue: 0,0:26:08.39,0:26:09.51,Default,,0,0,0,,{\i1}Tôi đã kiểm tra.
+Dialogue: 0,0:26:10.67,0:26:12.33,Default,,0,0,0,,Có phải do Seon Hwa làm?
+Dialogue: 0,0:26:13.91,0:26:16.25,Default,,0,0,0,,Tôi bây giờ không muốn cô ta làm ảnh hưởng.
+Dialogue: 0,0:26:16.64,0:26:18.39,Default,,0,0,0,,Trước tiên hãy tìm Seon Hwa.
+Dialogue: 0,0:26:18.79,0:26:19.68,Default,,0,0,0,,Tôi biết rồi.
+Dialogue: 0,0:28:13.02,0:28:16.20,Default,,0,0,0,,Tôi sẽ tha cho cô vì cô đã giúp tôi trốn thoát khi ở Hàn Quốc,\NBây giờ hãy chấm dứt đi.
+Dialogue: 0,0:28:16.32,0:28:17.45,Default,,0,0,0,,Đừng đi theo tôi nữa.
+Dialogue: 0,0:28:17.77,0:28:20.03,Default,,0,0,0,,Cô đang tìm anh Hyun Jun đúng không?
+Dialogue: 0,0:28:21.13,0:28:22.28,Default,,0,0,0,,Anh ấy ở đâu?
+Dialogue: 0,0:28:23.54,0:28:25.02,Default,,0,0,0,,Cô hãy về Hàn Quốc đi.
+Dialogue: 0,0:28:25.96,0:28:30.06,Default,,0,0,0,,Hyun Jun... có phải anh ấy vẫn còn sống đúng không?
+Dialogue: 0,0:30:28.52,0:30:31.20,Default,,0,0,0,,- Anh đang làm gì vậy?\N- Nếu cô ấy chết chúng ta không thể tìm được Hyun Jun!
+Dialogue: 0,0:30:31.32,0:30:32.53,Default,,0,0,0,,Hyun Jun chết rồi.
+Dialogue: 0,0:30:32.95,0:30:34.82,Default,,0,0,0,,{\i1}Mọi người trên thế giới đều biết!
+Dialogue: 0,0:30:34.94,0:30:36.98,Default,,0,0,0,,Chỉ có cô là không biết điều đó.
+Dialogue: 0,0:30:37.60,0:30:38.47,Default,,0,0,0,,Anh ấy còn sống.
+Dialogue: 0,0:30:40.85,0:30:42.21,Default,,0,0,0,,Nhất định là anh ấy còn sống.
+Dialogue: 0,0:31:21.61,0:31:22.57,Default,,0,0,0,,Thuyền trưởng!
+Dialogue: 0,0:31:23.31,0:31:24.01,Default,,0,0,0,,Tôi nhận được thông báo.
+Dialogue: 0,0:31:24.13,0:31:25.39,Default,,0,0,0,,Chuyện gì thế?
+Dialogue: 0,0:31:25.51,0:31:28.95,Default,,0,0,0,,Đây là bức ảnh chụp bán đảo Triều Tiên cách đây\N4 phút.
+Dialogue: 0,0:31:29.60,0:31:33.82,Default,,0,0,0,,{\i1}Có 3 xe của Bắc Hàn đi qua ranh giới\Nquân sự của Nam Hàn.
+Dialogue: 0,0:31:33.94,0:31:38.37,Default,,0,0,0,,{\i1}Có hơn 200 xe đi qua ranh giới mỗi ngày.
+Dialogue: 0,0:31:38.49,0:31:40.69,Default,,0,0,0,,Anh nghĩ cái này là gì mà báo cáo chứ?
+Dialogue: 0,0:31:40.81,0:31:42.22,Default,,0,0,0,,Nhưng lần này rất khác.
+Dialogue: 0,0:31:42.34,0:31:46.56,Default,,0,0,0,,Các xe qua ranh giới mà không cần kiểm soát.
+Dialogue: 0,0:31:46.68,0:31:47.61,Default,,0,0,0,,Cậu nói gì chứ?
+Dialogue: 0,0:31:47.73,0:31:50.27,Default,,0,0,0,,Họ đi qua các điểm kiểm soát mà không chịu\Nbất kỳ sự kiểm soát nào cả.
+Dialogue: 0,0:31:50.39,0:31:55.28,Default,,0,0,0,,Có phải cậu đang nói là Bắc Hàn được Nam Hàn cho phép đi qua?
+Dialogue: 0,0:31:55.40,0:31:57.39,Default,,0,0,0,,Vâng, chính xác là như vậy.
+Dialogue: 0,0:31:57.51,0:32:01.33,Default,,0,0,0,,Nếu như không thông qua hội đàm cấp cao thì\Nchuyện này không thể nào có được.
+Dialogue: 0,0:32:01.45,0:32:05.19,Default,,0,0,0,,Hãy dùng mọi thiết bị để nghe trộm xem đang xảy ra\Nchuyện gì trên xe,
+Dialogue: 0,0:32:05.31,0:32:07.67,Default,,0,0,0,,và tìm thêm bất cứ điều gì chúng ta có thể tìm được.
+Dialogue: 0,0:32:07.79,0:32:09.63,Default,,0,0,0,,Vâng, thưa ngài.
+Dialogue: 0,0:32:19.00,0:32:19.92,Default,,0,0,0,,Thuyền trưởng!
+Dialogue: 0,0:32:20.89,0:32:24.49,Default,,0,0,0,,Sử lý mọi thông tin chúng ta có được trong vòng 24 giờ qua.
+Dialogue: 0,0:32:24.61,0:32:26.70,Default,,0,0,0,,Vâng, thưa ngài tôi sẽ làm ngay.
+Dialogue: 0,0:32:28.53,0:32:29.46,Default,,0,0,0,,{\i1}Đội trưởng!
+Dialogue: 0,0:32:34.37,0:32:35.41,Default,,0,0,0,,Vâng thưa ngài.
+Dialogue: 0,0:32:35.53,0:32:36.58,Default,,0,0,0,,Có thông tin gì mới không?
+Dialogue: 0,0:32:36.70,0:32:37.29,Default,,0,0,0,,Không, thưa ngài.
+Dialogue: 0,0:32:37.41,0:32:39.45,Default,,0,0,0,,Hệ thống có dấu hiệu nào về việc trao đổi thông tin không?
+Dialogue: 0,0:32:39.57,0:32:40.49,Default,,0,0,0,,Không, thưa ngài.
+Dialogue: 0,0:32:40.61,0:32:41.29,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:32:44.32,0:32:46.87,Default,,0,0,0,,Thưa ngài, thiếu tá McClain Hạm đội số 7.
+Dialogue: 0,0:32:46.99,0:32:51.80,Default,,0,0,0,,Phát hiện Bắc Hàn và Nam Hàn đang tiến hành\Nnhững động thái rất bí mật.
+Dialogue: 0,0:32:52.07,0:32:53.12,Default,,0,0,0,,Không, thưa ngài.
+Dialogue: 0,0:32:53.62,0:32:57.56,Default,,0,0,0,,Cả những nước trong liên minh cũng không có\Nbất cứ thông tin nào hết.
+Dialogue: 0,0:32:57.83,0:32:58.78,Default,,0,0,0,,Vâng, thưa ngài.
+Dialogue: 0,0:32:59.14,0:33:00.21,Default,,0,0,0,,Rõ thưa ngài.
+Dialogue: 0,0:33:02.89,0:33:04.27,Default,,0,0,0,,Phái máy bay do thám không người lái.
+Dialogue: 0,0:33:04.39,0:33:05.27,Default,,0,0,0,,{\i1}Vâng, thưa ngài.
+Dialogue: 0,0:34:14.60,0:34:16.09,Default,,0,0,0,,Cảm ơn đã tới.
+Dialogue: 0,0:34:42.74,0:34:46.04,Default,,0,0,0,,Họ đã thông qua an toàn và đang tiến hành tới\Nđịa điểm tiếp theo.
+Dialogue: 0,0:34:48.23,0:34:50.69,Default,,0,0,0,,Ngài nghĩ mọi chuyện sẽ ổn chứ?
+Dialogue: 0,0:34:51.84,0:34:53.51,Default,,0,0,0,,Chúng ta nên...
+Dialogue: 0,0:34:53.63,0:34:56.50,Default,,0,0,0,,hoặc ít ra chúng ta cũng nên nói với người Mỹ chứ?
+Dialogue: 0,0:34:57.07,0:34:59.53,Default,,0,0,0,,Chúng ta có thể tạo ra những hiểu lầm không cần thiết.
+Dialogue: 0,0:34:59.75,0:35:01.79,Default,,0,0,0,,Bắc Hàn hiện đang gặp rất nhiều khó khăn\Nvới khả năng phát triển hạng mục hạt nhân.
+Dialogue: 0,0:35:02.11,0:35:07.95,Default,,0,0,0,,Sau sự kiện Hungary đã gặp phải những\Nđả kích nghiêm trọng.
+Dialogue: 0,0:35:08.26,0:35:14.33,Default,,0,0,0,,Và mọi chuyện trở nên xấu hơn, chúng ta\Ncần trả lời về việc đó.
+Dialogue: 0,0:35:14.45,0:35:17.84,Default,,0,0,0,,Nếu chúng ta không làm điều gì đó, sẽ\Ndấy lên cuộc chiến với người Mỹ.
+Dialogue: 0,0:35:17.96,0:35:24.96,Default,,0,0,0,,Tôi tin rằng đây là thời gian thích hợp để họp\Nmặt hội đàm 2 nước để tìm ra hướng giải quyết.
+Dialogue: 0,0:35:27.39,0:35:32.26,Default,,0,0,0,,Tôi tin rằng Nam Hàn cần tìm ra giải pháp để\Ncó thể thay đổi cục diện của Bắc Hàn.
+Dialogue: 0,0:35:55.15,0:35:56.11,Default,,0,0,0,,Có phải ông cho gọi tôi?
+Dialogue: 0,0:35:57.04,0:36:00.49,Default,,0,0,0,,Cậu hãy dừng mọi hoạt động điều tra\Nđang tiến hành bây giờ đi.
+Dialogue: 0,0:36:02.36,0:36:05.70,Default,,0,0,0,,Có phải ông đang nói là không biết đối tượng\Nđiều tra là ai đấy chứ?
+Dialogue: 0,0:36:06.78,0:36:10.20,Default,,0,0,0,,Chúng ta phải điều tra xem tại sao xe\Ncủa Bắc Hàn lại vượt qua ranh giới,
+Dialogue: 0,0:36:10.32,0:36:12.09,Default,,0,0,0,,và họ đang làm gì ở Seoul.
+Dialogue: 0,0:36:12.21,0:36:13.97,Default,,0,0,0,,Đó là chỉ thị của Nhà Xanh.
+Dialogue: 0,0:36:15.51,0:36:19.38,Default,,0,0,0,,Họ tránh né khỏi NSS, có phải là vì sự kiện Hungary?
+Dialogue: 0,0:36:21.77,0:36:24.57,Default,,0,0,0,,Cậu nghĩ rằng tôi muốn vậy hay sao?
+Dialogue: 0,0:36:26.21,0:36:27.47,Default,,0,0,0,,Cứ làm theo chỉ thị đi.
+Dialogue: 0,0:36:39.53,0:36:42.57,Default,,0,0,0,,Xe của họ đã vào tới Seoul.
+Dialogue: 0,0:36:42.89,0:36:45.59,Default,,0,0,0,,Xem xe hộ tống thuộc cơ quan nào?
+Dialogue: 0,0:36:54.42,0:36:58.02,Default,,0,0,0,,Họ được sử dụng bởi phòng cảnh vệ của\NNhà Xanh.
+Dialogue: 0,0:36:58.14,0:37:01.08,Default,,0,0,0,,Vậy nên điều tra thêm những vị trí bên cạnh Tổng Thống\Nvà những vị trí lân cận.
+Dialogue: 0,0:37:01.20,0:37:05.67,Default,,0,0,0,,Kiểm tra email, fax, tất cả các hoạt động thông tin,\Nđều phải tiến hành nghe lén.
+Dialogue: 0,0:37:12.18,0:37:14.24,Default,,0,0,0,,Dừng tất cả các hoạt động điều tra,
+Dialogue: 0,0:37:14.36,0:37:16.85,Default,,0,0,0,,và hủy bỏ mọi tài liệu chúng ta đã thu thập được.
+Dialogue: 0,0:37:18.06,0:37:19.45,Default,,0,0,0,,Nghe rõ tôi nói rồi chứ?
+Dialogue: 0,0:37:19.79,0:37:20.83,Default,,0,0,0,,Hãy dừng mọi hoạt động điều tra lại.
+Dialogue: 0,0:37:20.95,0:37:23.65,Default,,0,0,0,,Bây giờ xe Bắc Hàn tiến vào Nam Hàn.
+Dialogue: 0,0:37:23.77,0:37:25.67,Default,,0,0,0,,Sao lại bảo chúng tôi dừng điều tra chứ?
+Dialogue: 0,0:37:25.79,0:37:28.14,Default,,0,0,0,,Đây là chỉ thị của Cục Trưởng.
+Dialogue: 0,0:37:28.26,0:37:29.35,Default,,0,0,0,,Dừng lại hết đi.
+Dialogue: 0,0:38:24.81,0:38:26.62,Default,,0,0,0,,Thằng điên đó đang ở đây!
+Dialogue: 0,0:38:29.07,0:38:30.08,Default,,0,0,0,,Súng đâu rồi?
+Dialogue: 0,0:38:30.20,0:38:32.50,Default,,0,0,0,,Họ đã lấy tất cả đi mất rồi!
+Dialogue: 0,0:38:34.14,0:38:35.37,Default,,0,0,0,,Ngăn hắn lại.
+Dialogue: 0,0:38:35.49,0:38:36.33,Default,,0,0,0,,Ngăn hắn lại.
+Dialogue: 0,0:38:36.45,0:38:37.30,Default,,0,0,0,,Vâng ạ.
+Dialogue: 0,0:39:35.02,0:39:36.34,Default,,0,0,0,,Đã lâu rồi không gặp.
+Dialogue: 0,0:39:36.46,0:39:37.51,Default,,0,0,0,,Tao đến để lấy đồ của tao.
+Dialogue: 0,0:39:37.63,0:39:38.70,Default,,0,0,0,,Đồ gì chứ?
+Dialogue: 0,0:39:38.82,0:39:43.30,Default,,0,0,0,,Ồ cái đó...\Ntất nhiên là tôi có rồi.
+Dialogue: 0,0:39:43.42,0:39:48.77,Default,,0,0,0,,Đột nhiên anh mất tích.\NTôi thật sự rất lo cho anh.
+Dialogue: 0,0:39:50.39,0:39:53.64,Default,,0,0,0,,Chúng ta hình như có chút hiểu lầm.
+Dialogue: 0,0:39:53.76,0:39:54.96,Default,,0,0,0,,Câm miệng đi.
+Dialogue: 0,0:39:55.69,0:39:57.03,Default,,0,0,0,,Nó đâu? Đồ của tao đâu.
+Dialogue: 0,0:40:07.80,0:40:09.49,Default,,0,0,0,, ID Đâu rồi?
+Dialogue: 0,0:40:09.61,0:40:13.48,Default,,0,0,0,,Anh không thể mang cái đó lên máy bay được đâu.
+Dialogue: 0,0:40:13.60,0:40:15.67,Default,,0,0,0,,Thuyền cũng vậy thôi.
+Dialogue: 0,0:40:15.79,0:40:18.80,Default,,0,0,0,,Nhưng tôi có cách khác giúp anh đi Hàn Quốc.
+Dialogue: 0,0:40:21.36,0:40:22.74,Default,,0,0,0,,Tôi nói thật đó.
+Dialogue: 0,0:40:22.86,0:40:26.99,Default,,0,0,0,,Tôi không nói dối anh đâu,\Nhãy cho tôi 1 tuần.
+Dialogue: 0,0:40:31.82,0:40:32.98,Default,,0,0,0,,Thật đó.
+Dialogue: 0,0:40:34.96,0:40:36.37,Default,,0,0,0,,Xin hãy tin tôi.
+Dialogue: 0,0:41:08.30,0:41:10.76,Default,,0,0,0,,{\i1}Họ nói rằng tượng đài mang 1 câu chuyện buồn.
+Dialogue: 0,0:41:12.53,0:41:18.29,Default,,0,0,0,,{\i1}Có 1 cô gái sống ở đây tên là Tachiko.
+Dialogue: 0,0:41:18.98,0:41:21.45,Default,,0,0,0,,{\i1}Cô ấy yêu 1 chàng trai tên là Tarou.
+Dialogue: 0,0:41:22.55,0:41:26.99,Default,,0,0,0,,{\i1}Nhưng Tachiko đã uống nhầm phải thuốc thần,
+Dialogue: 0,0:41:28.43,0:41:31.29,Default,,0,0,0,,{\i1}vì thế cô ấy đã rơi vào bùa mê,
+Dialogue: 0,0:41:31.41,0:41:36.65,Default,,0,0,0,,và cô ấy đã biến thành con Rồng canh gác\Ncho hồ Tazawako.
+Dialogue: 0,0:41:38.85,0:41:46.52,Default,,0,0,0,,Tarou cũng đã biến thành rồng và canh gác cho hồ\NTowada.
+Dialogue: 0,0:41:48.88,0:41:51.22,Default,,0,0,0,,2 tình nhân bị chia lìa,
+Dialogue: 0,0:41:51.34,0:41:54.19,Default,,0,0,0,,đều gặp nhau ở đây khi mùa đông đến,
+Dialogue: 0,0:41:54.31,0:41:55.92,Default,,0,0,0,,để trao tình yêu cho nhau.
+Dialogue: 0,0:41:57.47,0:41:59.88,Default,,0,0,0,,Họ nói rằng bởi vì tình yêu bất diệt của họ,
+Dialogue: 0,0:42:01.07,0:42:04.39,Default,,0,0,0,,dù lạnh đến đâu thì hồ cũng không bao\Ngiờ đóng băng.
+Dialogue: 0,0:42:08.42,0:42:09.92,Default,,0,0,0,,Tại sao anh lại cười chứ?
+Dialogue: 0,0:42:11.42,0:42:13.72,Default,,0,0,0,,Nó không buồn mà là đáng sợ.
+Dialogue: 0,0:42:14.73,0:42:15.66,Default,,0,0,0,,Tại sao?
+Dialogue: 0,0:42:17.61,0:42:23.11,Default,,0,0,0,,Vì như em nói, 2 người đó chỉ vì muốn yêu nhau,
+Dialogue: 0,0:42:23.68,0:42:27.11,Default,,0,0,0,,mà họ lại trở thành quái vật ở cùng 1 nơi.
+Dialogue: 0,0:42:29.19,0:42:30.39,Default,,0,0,0,,"Quái Vật"?
+Dialogue: 0,0:42:32.18,0:42:34.89,Default,,0,0,0,,Anh nói đúng, là quái vật.
+Dialogue: 0,0:42:38.11,0:42:40.05,Default,,0,0,0,,Thế nên càng buồn hơn.
+Dialogue: 0,0:42:40.47,0:42:41.70,Default,,0,0,0,,Gì chứ?
+Dialogue: 0,0:42:43.40,0:42:44.79,Default,,0,0,0,,Công việc của chúng ta.
+Dialogue: 0,0:42:46.08,0:42:48.46,Default,,0,0,0,,Bởi vì nếu chúng ta giống như bây giờ,
+Dialogue: 0,0:42:48.87,0:42:53.12,Default,,0,0,0,,em và anh cũng sẽ trở thành quái vật.
+Dialogue: 0,0:43:05.54,0:43:06.95,Default,,0,0,0,,Hay là chúng ta từ bỏ?
+Dialogue: 0,0:43:13.84,0:43:16.41,Default,,0,0,0,,Bây giờ chúng ta còn không thể làm những gì mình muốn.
+Dialogue: 0,0:44:23.34,0:44:24.09,Default,,0,0,0,,Xin chào.
+Dialogue: 0,0:44:24.21,0:44:25.10,Default,,0,0,0,,Xin chào.
+Dialogue: 0,0:44:26.68,0:44:28.79,Default,,0,0,0,,Mời ngồi.
+Dialogue: 0,0:44:35.79,0:44:39.35,Default,,0,0,0,,Xin chào.\NCô muốn dùng gì không?
+Dialogue: 0,0:44:39.47,0:44:40.54,Default,,0,0,0,,Tôi muốn 1 chút rượu Sake.
+Dialogue: 0,0:44:40.66,0:44:41.91,Default,,0,0,0,,Được thôi.
+Dialogue: 0,0:44:49.75,0:44:54.84,Default,,0,0,0,,{\i1}[Hyun Jun và Seung Hee --\Nnhớ lại lúc 2 người cùng đi du lịch]
+Dialogue: 0,0:44:55.11,0:44:57.92,Default,,0,0,0,,Chúng ta chụp 1 tấm hình làm kỷ niệm nhé?
+Dialogue: 0,0:44:58.04,0:45:00.06,Default,,0,0,0,,Em không biết chúng ta là ai sao?
+Dialogue: 0,0:45:00.18,0:45:02.85,Default,,0,0,0,,{\i1}Sao chúng ta có thể chụp hình ở đây được chứ?
+Dialogue: 0,0:45:02.97,0:45:05.78,Default,,0,0,0,,Ở đây có ai biết mình đâu chứ!
+Dialogue: 0,0:45:05.90,0:45:06.69,Default,,0,0,0,,Chúng ta chụp đi.
+Dialogue: 0,0:45:08.17,0:45:08.94,Default,,0,0,0,,Tôi xin lỗi.
+Dialogue: 0,0:45:09.06,0:45:10.15,Default,,0,0,0,,Sẵn sàng chưa...
+Dialogue: 0,0:45:10.27,0:45:10.93,Default,,0,0,0,,Rồi.
+Dialogue: 0,0:45:11.48,0:45:12.60,Default,,0,0,0,,Giúp chúng tôi chụp 1 tấm hình nhé?
+Dialogue: 0,0:45:12.72,0:45:15.41,Default,,0,0,0,,Được thôi.\NNhìn vào đây nào.
+Dialogue: 0,0:45:15.53,0:45:17.25,Default,,0,0,0,,Cười đi.
+Dialogue: 0,0:45:17.55,0:45:19.89,Default,,0,0,0,,1 - 2 - 3!
+Dialogue: 0,0:45:37.66,0:45:39.21,Default,,0,0,0,,Thật là, trẻ con quá.
+Dialogue: 0,0:45:40.48,0:45:42.39,Default,,0,0,0,,Em rất thích mấy thứ trẻ con đấy.
+Dialogue: 0,0:47:14.01,0:47:16.47,Default,,0,0,0,,Xin chào quý khách.
+Dialogue: 0,0:47:27.75,0:47:31.85,Default,,0,0,0,,Tôi nghĩ cô gái ấy vừa mới ở đây.
+Dialogue: 0,0:47:32.27,0:47:34.84,Default,,0,0,0,,{\i1}không lẽ nhớ nhầm sao..?
+Dialogue: 0,0:49:18.41,0:49:23.84,Default,,0,0,0,,Đối với những nước nhòm ngó Triều Tiên thì hôm\Nnay sẽ là 1 ngày bận rộn đấy.
+Dialogue: 0,0:49:23.96,0:49:28.84,Default,,0,0,0,,Tình thế của Triều Tiền thì phải để chủ nhân\N của Triều Tiên quyết định chứ?
+Dialogue: 0,0:49:28.96,0:49:33.23,Default,,0,0,0,,Bọn họ chẳng qua là bên thứ 3 mà thôi.\NNói cho cùng họ cũng chỉ vì lợi ích của họ.
+Dialogue: 0,0:49:33.35,0:49:34.89,Default,,0,0,0,,Tất nhiên rồi, anh nói đúng.
+Dialogue: 0,0:49:35.28,0:49:38.12,Default,,0,0,0,,Chúng ta nói thẳng vào việc chính chứ ạ.
+Dialogue: 0,0:49:39.61,0:49:45.44,Default,,0,0,0,,Nhìn từ góc độ lịch sử, chúng ta là quốc gia bị chia cắt...
+Dialogue: 0,0:49:46.13,0:49:54.54,Default,,0,0,0,,không phải là ý muốn của dân tộc ta.\NĐây thật là một sự thật rất trớ trêu.
+Dialogue: 0,0:49:55.52,0:50:02.29,Default,,0,0,0,,Tôi tin rằng điều này là do kế hoạch\Nthống nhất đất nước lúc ấy không thể thực hiện được.
+Dialogue: 0,0:50:04.25,0:50:08.07,Default,,0,0,0,,Tôi chắc rằng trong quá trình lập kế hoạch thống nhất,\NNam - Bắc đều gặp rất nhiều sự phản đối...
+Dialogue: 0,0:50:08.19,0:50:11.44,Default,,0,0,0,,từ cả trong nước lẫn quốc tế
+Dialogue: 0,0:50:13.38,0:50:16.71,Default,,0,0,0,,Tôi tin rằng điều này đang diễn ra một lần nữa.
+Dialogue: 0,0:50:16.83,0:50:23.23,Default,,0,0,0,,Mỹ, Trung Quốc, Nga và Nhật\Nđều không muốn thấy đất nước ta thống nhất.
+Dialogue: 0,0:50:23.35,0:50:28.41,Default,,0,0,0,,Họ không muốn Nam Triều Tiên theo đuổi\Nchương trình vũ khí hạt nhân như Bắc Triều Tiên.
+Dialogue: 0,0:50:28.53,0:50:35.41,Default,,0,0,0,,Đặc biệt là khi những tên lửa này hiện đã có khả năng\Ncông kích những mục tiêu bên kia Thái Bình Dương.
+Dialogue: 0,0:50:37.97,0:50:40.60,Default,,0,0,0,,Tôi muốn tổ chức 1 cuộc họp với Ủy Viên Trưởng Kim
+Dialogue: 0,0:50:40.72,0:50:43.34,Default,,0,0,0,,và cùng thương lượng kế sách thống nhất.
+Dialogue: 0,0:50:43.86,0:50:46.04,Default,,0,0,0,,Ngài cho rằng có thực hiện được không?
+Dialogue: 0,0:50:54.48,0:50:58.86,Default,,0,0,0,,Ngài có biết khả năng phát triển hạt nhân của\NNam Hàn đã phát triển tới đâu rồi không?
+Dialogue: 0,0:50:59.44,0:51:06.15,Default,,0,0,0,,Không phải Nam Hàn đã bỏ hết toàn bộ kỹ thuật\Nphát triển hạt nhân từ năm 1979 rồi sao?
+Dialogue: 0,0:51:06.27,0:51:07.26,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,0:51:07.38,0:51:11.08,Default,,0,0,0,,Nhưng vẫn còn 1 số tài liệu kỹ thuật phát triển\Nchưa bị mất.
+Dialogue: 0,0:51:12.66,0:51:20.00,Default,,0,0,0,,Chỉ cần có nhu cầu,chúng tôi lúc nào cũng lưu giữ\Ntiềm năng phát triển vũ khí hạt nhân.
+Dialogue: 0,0:51:21.41,0:51:23.46,Default,,0,0,0,,Trong nước có 16 nhà máy công nghiệp nhẹ,
+Dialogue: 0,0:51:23.58,0:51:30.60,Default,,0,0,0,,và 4 nhà máy công nghiệp nặng, hiện đang\Nlưu trữ được khoảng 8000 tấn nguyên liệu hạt nhân.
+Dialogue: 0,0:51:30.72,0:51:37.32,Default,,0,0,0,,Chúng tôi có thể tạo ra 5500 đầu đạn hạt nhân.
+Dialogue: 0,0:51:41.85,0:51:48.19,Default,,0,0,0,,Theo như Ngài nói thì Nam Hàn quả thật có khả năng\Nphát triển vũ khí hạt nhân hơn chúng tôi rất nhiều,
+Dialogue: 0,0:51:48.84,0:51:52.46,Default,,0,0,0,,vì vậy chúng tôi nên sớm từ bỏ là tốt nhất.
+Dialogue: 0,0:51:52.58,0:51:54.98,Default,,0,0,0,,Không, sao Ngài lại nghĩ thế chứ?
+Dialogue: 0,0:51:55.10,0:51:57.01,Default,,0,0,0,,Ý tôi là nếu Bắc Hàn từ bỏ vũ khí hạt nhân thì,
+Dialogue: 0,0:51:57.13,0:52:03.40,Default,,0,0,0,,chúng tôi sẽ giúp đỡ các vị giải quyết những mâu thuẫn\Nnội bộ và độc lập quốc tế mà các vị đang phải đối mặt.
+Dialogue: 0,0:52:03.97,0:52:07.90,Default,,0,0,0,,Xin hãy chuyển những lời của tôi đến Ủy Viên Trưởng Kim.
+Dialogue: 0,0:52:12.88,0:52:13.96,Default,,0,0,0,,Vào đi.
+Dialogue: 0,0:52:19.16,0:52:20.50,Default,,0,0,0,,Có phải anh tìm tôi không?
+Dialogue: 0,0:52:23.12,0:52:28.52,Default,,0,0,0,,Ủy Viên Trưởng có lẽ sẽ chấp nhận đề nghị của\NTổng Thống Nam Hàn.
+Dialogue: 0,0:52:30.40,0:52:32.07,Default,,0,0,0,,{\i1}Cậu nghĩ sao?
+Dialogue: 0,0:52:32.19,0:52:35.14,Default,,0,0,0,,Nếu đây là ý kiến của Ủy Viên Trưởng,
+Dialogue: 0,0:52:35.26,0:52:37.98,Default,,0,0,0,,chúng ta sẽ tiến hành hội đàm song phương với Nam Hàn.
+Dialogue: 0,0:52:38.10,0:52:43.37,Default,,0,0,0,,Tôi muốn biết cậu có suy nghĩ gì về việc này.
+Dialogue: 0,0:52:43.49,0:52:48.52,Default,,0,0,0,,Nếu chúng ta tiến hành hội đàm, chúng ta sẽ bị cuốn\Ntheo Nam Hàn.
+Dialogue: 0,0:52:48.64,0:52:52.41,Default,,0,0,0,,Và nếu điều đó xảy ra,\Nđịa vị của Ủy Viên Trưởng sẽ bị giảm sút.
+Dialogue: 0,0:52:53.74,0:52:55.88,Default,,0,0,0,,Tôi nghĩ rằng anh nên ngăn chặn mọi việc.
+Dialogue: 0,0:52:56.20,0:52:57.48,Default,,0,0,0,,Bằng cách nào chứ?
+Dialogue: 0,0:52:58.86,0:53:00.21,Default,,0,0,0,,{\i1}Dùng cách gì được chứ?
+Dialogue: 0,0:53:08.01,0:53:11.94,Default,,0,0,0,,Thử điều bộ phận hải ngoại mà cậu quản lý xem sao?
+Dialogue: 0,0:53:13.53,0:53:14.41,Default,,0,0,0,,Vâng.
+Dialogue: 0,0:53:16.42,0:53:19.21,Default,,0,0,0,,Cứ giao mọi việc cho tôi.
+Dialogue: 0,0:53:36.08,0:53:37.66,Default,,0,0,0,,Theo tôi.
+Dialogue: 0,0:54:08.94,0:54:10.61,Default,,0,0,0,,Sắp khởi hành rồi đó.
+Dialogue: 0,0:55:08.25,0:55:09.01,Default,,0,0,0,,{\i1}Chú.
+Dialogue: 0,0:55:11.74,0:55:12.48,Default,,0,0,0,,Yuki.
+Dialogue: 0,0:55:14.09,0:55:17.40,Default,,0,0,0,,Cháu sợ lắm.
+Dialogue: 0,0:55:22.50,0:55:24.94,Default,,0,0,0,,Cháu đang ở đâu?
+Dialogue: 0,0:55:25.26,0:55:26.99,Default,,0,0,0,,{\i1}Cháu trốn trong tủ quần áo .
+Dialogue: 0,0:55:27.24,0:55:31.04,Default,,0,0,0,,Yuki. Nghe chú nói.
+Dialogue: 0,0:55:33.86,0:55:35.19,Default,,0,0,0,,Chú sẽ đến ngay.
+Dialogue: 0,0:55:35.31,0:55:41.36,Default,,0,0,0,,Trước khi chú đến cháu cứ ở yên đó
+Dialogue: 0,0:55:42.00,0:55:44.13,Default,,0,0,0,,{\i1}Trốn kỹ vào.
+Dialogue: 0,0:55:48.15,0:55:48.84,Default,,0,0,0,,Yuki.
+Dialogue: 0,0:55:51.69,0:55:52.55,Default,,0,0,0,,Yuki.
+Dialogue: 0,0:55:55.14,0:55:57.47,Default,,0,0,0,,Yuki! Cháu sao rồi?
+Dialogue: 0,0:56:04.80,0:56:06.33,Default,,0,0,0,,Mày là ai?
+Dialogue: 0,0:56:06.92,0:56:11.51,Default,,0,0,0,,Nếu mày mang nó đến thì Yuki sẽ an toàn.
+Dialogue: 0,0:56:12.46,0:56:16.61,Default,,0,0,0,,{\i1}Trong vòng 1 giờ hãy đến cầu Amaga.
+Dialogue: 0,0:56:17.42,0:56:19.37,Default,,0,0,0,,Mày muốn gì?
+Dialogue: 0,0:56:19.49,0:56:21.56,Default,,0,0,0,,Mày muốn tao mang cái gì đến chứ?
+Dialogue: 0,0:56:21.96,0:56:25.87,Default,,0,0,0,,USB mày đã nhận của Hong Seung Ryong...
+Dialogue: 0,0:56:28.52,0:56:30.06,Default,,0,0,0,,{\i1}Mày có 1 giờ.
+Dialogue: 0,0:58:52.69,0:58:53.41,Default,,0,0,0,,Khoan đã.
+Dialogue: 0,0:58:56.86,0:58:57.51,Default,,0,0,0,,Chú ơi.
+Dialogue: 0,0:58:57.93,0:58:59.45,Default,,0,0,0,,Yuki, cháu không sao chứ?
+Dialogue: 0,0:58:59.57,0:59:01.95,Default,,0,0,0,,Đừng sợ.\NMọi chuyện sẽ ổn thôi.
+Dialogue: 0,0:59:04.28,0:59:05.53,Default,,0,0,0,,Vứt súng đi.
+Dialogue: 0,0:59:10.46,0:59:11.49,Default,,0,0,0,,USB.
+Dialogue: 0,0:59:11.61,0:59:13.34,Default,,0,0,0,,Thả nó ra trước đã.
+Dialogue: 0,0:59:45.72,0:59:47.16,Default,,0,0,0,,Mật khẩu là gì.
+Dialogue: 0,0:59:54.17,0:59:55.84,Default,,0,0,0,,SH0615.
+Dialogue: 0,1:00:30.78,1:00:32.21,Default,,0,0,0,,Cúi đầu xuống!
+Dialogue: 0,1:00:50.98,1:00:55.13,Default,,0,0,0,,Phụ đề Việt ngữ: krfilm.net
+Dialogue: 0,1:00:55.25,1:00:58.90,Default,,0,0,0,,Khớp lời thoại: sirius360.
+Dialogue: 0,1:00:59.02,1:01:02.30,Default,,0,0,0,,Typed: doanxem.\N[hdvnbits.org]
+Dialogue: 0,1:02:42.75,1:02:48.55,Default,,0,0,0,,Hết tập 7.
