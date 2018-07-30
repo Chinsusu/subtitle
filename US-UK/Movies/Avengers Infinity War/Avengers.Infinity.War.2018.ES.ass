@@ -1,0 +1,1593 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:25.52,0:00:29.90,Default,,0,0,0,,{\i1}Hablo de la nave de refugiados\Nasgardiana Statesman.{\i0}
+Dialogue: 0,0:00:32.65,0:00:36.11,Default,,0,0,0,,{\i1}Nos atacan. Repito, nos atacan.{\i0}
+Dialogue: 0,0:00:36.28,0:00:39.83,Default,,0,0,0,,{\i1}Los motores no funcionan,\Nfalla el soporte vital.{\i0}
+Dialogue: 0,0:00:39.99,0:00:42.95,Default,,0,0,0,,{\i1}Solicito ayuda\Nde cualquier nave cercana.{\i0}
+Dialogue: 0,0:00:43.12,0:00:46.08,Default,,0,0,0,,{\i1}Estamos a 22 saltos de Asgard.{\i0}
+Dialogue: 0,0:00:47.08,0:00:49.71,Default,,0,0,0,,{\i1}Nuestros tripulantes\Nson familias de Asgard.{\i0}
+Dialogue: 0,0:00:49.79,0:00:51.34,Default,,0,0,0,,{\i1}Tenemos muy pocos soldados.{\i0}
+Dialogue: 0,0:00:51.50,0:00:55.47,Default,,0,0,0,,{\i1}Esta no es una nave de guerra.\NRepito, no es una nave de guerra.{\i0}
+Dialogue: 0,0:01:08.94,0:01:11.94,Default,,0,0,0,,Escúchenme y regocíjense.
+Dialogue: 0,0:01:15.74,0:01:20.74,Default,,0,0,0,,Tuvieron el privilegio\Nde ser salvados por el Gran Titán.
+Dialogue: 0,0:01:23.70,0:01:25.91,Default,,0,0,0,,Quizá crean que es sufrimiento.
+Dialogue: 0,0:01:27.12,0:01:28.12,Default,,0,0,0,,No.
+Dialogue: 0,0:01:29.17,0:01:31.50,Default,,0,0,0,,Es salvación.
+Dialogue: 0,0:01:35.38,0:01:40.93,Default,,0,0,0,,Las balanzas universales se equilibran\Ngracias a su sacrificio.
+Dialogue: 0,0:01:42.56,0:01:44.02,Default,,0,0,0,,Sonrían.
+Dialogue: 0,0:01:45.02,0:01:49.85,Default,,0,0,0,,Incluso en la muerte,\Nse convirtieron en Hijos de Thanos.
+Dialogue: 0,0:02:05.29,0:02:07.33,Default,,0,0,0,,Sé lo que es perder.
+Dialogue: 0,0:02:09.50,0:02:12.46,Default,,0,0,0,,Sentirse tan desesperado\Nque aún teniendo razón...
+Dialogue: 0,0:02:13.21,0:02:15.96,Default,,0,0,0,,igual fracasas.
+Dialogue: 0,0:02:24.06,0:02:25.68,Default,,0,0,0,,Es aterrador.
+Dialogue: 0,0:02:27.02,0:02:28.98,Default,,0,0,0,,Hace que te tiemblen las piernas.
+Dialogue: 0,0:02:31.10,0:02:33.23,Default,,0,0,0,,Pero te pregunto, ¿para qué?
+Dialogue: 0,0:02:34.65,0:02:37.24,Default,,0,0,0,,Aunque le temas y escapes de él...
+Dialogue: 0,0:02:38.28,0:02:40.82,Default,,0,0,0,,el destino llega de todas formas.
+Dialogue: 0,0:02:42.03,0:02:43.87,Default,,0,0,0,,Y ahora, está aquí.
+Dialogue: 0,0:02:44.45,0:02:46.29,Default,,0,0,0,,O debería decir...
+Dialogue: 0,0:02:47.62,0:02:49.12,Default,,0,0,0,,yo estoy aquí.
+Dialogue: 0,0:02:54.54,0:02:55.92,Default,,0,0,0,,Hablas demasiado.
+Dialogue: 0,0:02:57.21,0:02:58.63,Default,,0,0,0,,El Teseracto.
+Dialogue: 0,0:02:59.05,0:03:01.18,Default,,0,0,0,,O la cabeza de tu hermano.
+Dialogue: 0,0:03:05.85,0:03:08.22,Default,,0,0,0,,Imagino que tienes alguna preferencia.
+Dialogue: 0,0:03:09.48,0:03:10.77,Default,,0,0,0,,Ay, sí.
+Dialogue: 0,0:03:13.19,0:03:14.19,Default,,0,0,0,,Mátalo.
+Dialogue: 0,0:03:29.50,0:03:30.58,Default,,0,0,0,,Bueno, ¡detente!
+Dialogue: 0,0:03:34.17,0:03:36.13,Default,,0,0,0,,No tenemos el Teseracto.
+Dialogue: 0,0:03:36.29,0:03:38.09,Default,,0,0,0,,Fue destruido en Asgard.
+Dialogue: 0,0:03:48.93,0:03:51.77,Default,,0,0,0,,Eres realmente el peor hermano.
+Dialogue: 0,0:03:56.86,0:03:58.73,Default,,0,0,0,,Te lo aseguro, hermano...
+Dialogue: 0,0:03:58.90,0:04:00.90,Default,,0,0,0,,viviremos para ver otro día.
+Dialogue: 0,0:04:02.82,0:04:05.78,Default,,0,0,0,,Tu optimismo es infundado,\Nasgardiano.
+Dialogue: 0,0:04:06.16,0:04:09.91,Default,,0,0,0,,Por un lado, no soy asgardiano.
+Dialogue: 0,0:04:10.45,0:04:11.45,Default,,0,0,0,,Y por el otro...
+Dialogue: 0,0:04:13.75,0:04:14.96,Default,,0,0,0,,tenemos a Hulk.
+Dialogue: 0,0:04:27.35,0:04:29.01,Default,,0,0,0,,Déjalo divertirse.
+Dialogue: 0,0:05:21.32,0:05:22.78,Default,,0,0,0,,Padres de todo...
+Dialogue: 0,0:05:24.65,0:05:27.91,Default,,0,0,0,,permitan que fluya la magia negra\Na través de mí por...
+Dialogue: 0,0:05:28.74,0:05:29.82,Default,,0,0,0,,última vez.
+Dialogue: 0,0:05:44.59,0:05:46.13,Default,,0,0,0,,Eso fue un error.
+Dialogue: 0,0:05:52.01,0:05:53.68,Default,,0,0,0,,¡No!
+Dialogue: 0,0:06:02.82,0:06:05.44,Default,,0,0,0,,Vas a morir por eso.
+Dialogue: 0,0:06:16.71,0:06:18.46,Default,,0,0,0,,Mi humilde ser...
+Dialogue: 0,0:06:19.87,0:06:22.17,Default,,0,0,0,,se inclina ante tu grandeza.
+Dialogue: 0,0:06:25.46,0:06:28.68,Default,,0,0,0,,Ningún otro ser ha tenido el poder...
+Dialogue: 0,0:06:29.09,0:06:30.76,Default,,0,0,0,,no, la nobleza...
+Dialogue: 0,0:06:31.14,0:06:35.85,Default,,0,0,0,,para blandir no sólo una,\Nsino dos Gemas del Infinito.
+Dialogue: 0,0:06:39.31,0:06:43.73,Default,,0,0,0,,El universo está al alcance de tu mano.
+Dialogue: 0,0:07:22.98,0:07:25.73,Default,,0,0,0,,En la Tierra hay dos gemas más.
+Dialogue: 0,0:07:27.19,0:07:30.70,Default,,0,0,0,,Encuéntrenlas, hijos míos,\Ny tráiganmelas a Titán.
+Dialogue: 0,0:07:30.99,0:07:32.41,Default,,0,0,0,,Padre, no te fallaremos.
+Dialogue: 0,0:07:32.57,0:07:34.07,Default,,0,0,0,,Si me permiten intervenir.
+Dialogue: 0,0:07:35.24,0:07:38.54,Default,,0,0,0,,Si van a la Tierra,\Nquizá quieran un guía.
+Dialogue: 0,0:07:39.45,0:07:42.08,Default,,0,0,0,,Tengo un poco de experiencia\Nen ese terreno.
+Dialogue: 0,0:07:42.25,0:07:44.46,Default,,0,0,0,,Si consideras experiencia de fracasos.
+Dialogue: 0,0:07:44.63,0:07:47.38,Default,,0,0,0,,Considero experiencia de experiencias.
+Dialogue: 0,0:07:48.59,0:07:50.09,Default,,0,0,0,,Todopoderoso Thanos...
+Dialogue: 0,0:07:50.38,0:07:55.05,Default,,0,0,0,,yo, Loki, príncipe de Asgard...
+Dialogue: 0,0:07:58.85,0:08:00.06,Default,,0,0,0,,hijo de Odín...
+Dialogue: 0,0:08:03.98,0:08:05.90,Default,,0,0,0,,legítimo rey de Jotunheim...
+Dialogue: 0,0:08:06.52,0:08:08.40,Default,,0,0,0,,Dios de las Mentiras...
+Dialogue: 0,0:08:09.28,0:08:10.78,Default,,0,0,0,,por este medio prometo...
+Dialogue: 0,0:08:12.20,0:08:16.07,Default,,0,0,0,,mi inmortal fidelidad.
+Dialogue: 0,0:08:26.63,0:08:28.13,Default,,0,0,0,,¿Inmortal?
+Dialogue: 0,0:08:31.92,0:08:34.59,Default,,0,0,0,,Deberías elegir\Ncon más cuidado tus palabras.
+Dialogue: 0,0:08:56.11,0:08:57.12,Default,,0,0,0,,Tú...
+Dialogue: 0,0:08:58.24,0:08:59.83,Default,,0,0,0,,nunca serás...
+Dialogue: 0,0:09:02.54,0:09:03.62,Default,,0,0,0,,un Dios.
+Dialogue: 0,0:09:13.97,0:09:14.97,Default,,0,0,0,,¡No!
+Dialogue: 0,0:09:29.94,0:09:32.44,Default,,0,0,0,,Esta vez no hay resurrecciones.
+Dialogue: 0,0:09:56.05,0:09:58.22,Default,,0,0,0,,No. Loki.
+Dialogue: 0,0:10:37.01,0:10:39.93,Default,,0,0,0,,{\i1}En serio, ¿no tienes dinero?{\i0}
+Dialogue: 0,0:10:40.09,0:10:43.14,Default,,0,0,0,,Apego a lo material\Nsignifica desapego a lo espiritual.
+Dialogue: 0,0:10:43.30,0:10:44.60,Default,,0,0,0,,Se lo diré a los de la tienda.
+Dialogue: 0,0:10:44.76,0:10:46.64,Default,,0,0,0,,Quizá te hagan un sándwich metafísico.
+Dialogue: 0,0:10:46.81,0:10:48.64,Default,,0,0,0,,Espera. Creo que tengo 200.
+Dialogue: 0,0:10:48.81,0:10:49.81,Default,,0,0,0,,¿Dólares?
+Dialogue: 0,0:10:49.98,0:10:51.31,Default,,0,0,0,,- Rupias.\N- ¿Cuánto es?
+Dialogue: 0,0:10:52.23,0:10:53.31,Default,,0,0,0,,Un dólar y medio.
+Dialogue: 0,0:10:53.48,0:10:54.69,Default,,0,0,0,,¿Qué quieres?
+Dialogue: 0,0:10:55.32,0:10:57.49,Default,,0,0,0,,Me gustaría un sándwich de atún.
+Dialogue: 0,0:11:09.96,0:11:11.92,Default,,0,0,0,,Está viniendo Thanos.
+Dialogue: 0,0:11:12.46,0:11:13.71,Default,,0,0,0,,Está viniendo.
+Dialogue: 0,0:11:17.88,0:11:19.17,Default,,0,0,0,,¿Quién?
+Dialogue: 0,0:11:28.14,0:11:28.93,Default,,0,0,0,,Más despacio.
+Dialogue: 0,0:11:29.10,0:11:30.10,Default,,0,0,0,,- Te explicaré.\N- Divagas.
+Dialogue: 0,0:11:30.14,0:11:30.98,Default,,0,0,0,,- No.\N- No entiendo.
+Dialogue: 0,0:11:31.14,0:11:33.90,Default,,0,0,0,,Estás soñando\Ny en el sueño tienes que orinar.
+Dialogue: 0,0:11:34.06,0:11:35.07,Default,,0,0,0,,- Sí.\N- Bueno.
+Dialogue: 0,0:11:35.23,0:11:37.61,Default,,0,0,0,,"Dios. No hay baño. ¿Qué haré?
+Dialogue: 0,0:11:37.78,0:11:38.78,Default,,0,0,0,,"Alguien mira."
+Dialogue: 0,0:11:38.86,0:11:40.10,Default,,0,0,0,,- "Me orinaré."\N- Despiertas...
+Dialogue: 0,0:11:40.20,0:11:41.82,Default,,0,0,0,,y realmente tienes que orinar.
+Dialogue: 0,0:11:41.99,0:11:43.07,Default,,0,0,0,,- Sí.\N- Sí.
+Dialogue: 0,0:11:43.24,0:11:44.37,Default,,0,0,0,,- Bueno.\N- Todos sueñan eso.
+Dialogue: 0,0:11:44.53,0:11:46.24,Default,,0,0,0,,Sí, es lo que trato de decir.
+Dialogue: 0,0:11:46.58,0:11:50.54,Default,,0,0,0,,Hablando de eso, anoche soñé\Nque teníamos un hijo.
+Dialogue: 0,0:11:51.16,0:11:52.37,Default,,0,0,0,,Fue tan real.
+Dialogue: 0,0:11:52.75,0:11:55.17,Default,,0,0,0,,Lo llamamos como a tu tío excéntrico.\N¿Cómo se llamaba?
+Dialogue: 0,0:11:55.34,0:11:57.59,Default,,0,0,0,,- Sí.\N- ¡Morgan!
+Dialogue: 0,0:11:57.75,0:11:59.38,Default,,0,0,0,,- Y te despertaste...\N- Claro.
+Dialogue: 0,0:11:59.55,0:12:01.13,Default,,0,0,0,,Y creíste que estábamos...
+Dialogue: 0,0:12:01.30,0:12:02.38,Default,,0,0,0,,- Embarazados.\N- Sí.
+Dialogue: 0,0:12:02.55,0:12:03.55,Default,,0,0,0,,- ¿Sí?\N- No.
+Dialogue: 0,0:12:03.59,0:12:04.97,Default,,0,0,0,,Lo soñé. Fue tan real.
+Dialogue: 0,0:12:05.14,0:12:06.47,Default,,0,0,0,,Si querías un hijo...
+Dialogue: 0,0:12:07.14,0:12:08.56,Default,,0,0,0,,no hubieras hecho eso.
+Dialogue: 0,0:12:09.22,0:12:11.10,Default,,0,0,0,,Celebro que lo menciones,\Nporque no es nada.
+Dialogue: 0,0:12:11.27,0:12:12.71,Default,,0,0,0,,Es un alojamiento de nanopartículas.
+Dialogue: 0,0:12:12.85,0:12:15.48,Default,,0,0,0,,- Eso no te ayuda.\N- No, es desmontable.
+Dialogue: 0,0:12:15.65,0:12:17.11,Default,,0,0,0,,No lo necesitas.
+Dialogue: 0,0:12:17.44,0:12:19.69,Default,,0,0,0,,Lo sé, me operaron.\NTrato de protegernos...
+Dialogue: 0,0:12:19.86,0:12:21.49,Default,,0,0,0,,y a futuros hijos, es todo.
+Dialogue: 0,0:12:21.65,0:12:23.15,Default,,0,0,0,,Por si hay un monstruo en el ropero.
+Dialogue: 0,0:12:23.32,0:12:25.24,Default,,0,0,0,,- En lugar de, sabes...\N- Camisas.
+Dialogue: 0,0:12:26.91,0:12:28.37,Default,,0,0,0,,Me conoces tan bien.
+Dialogue: 0,0:12:28.99,0:12:31.16,Default,,0,0,0,,- Dios.\N- Terminas todas mis frases.
+Dialogue: 0,0:12:31.71,0:12:33.58,Default,,0,0,0,,Deberías tener camisas en el ropero.
+Dialogue: 0,0:12:33.96,0:12:34.96,Default,,0,0,0,,Sí.
+Dialogue: 0,0:12:35.79,0:12:37.50,Default,,0,0,0,,No debería haber más sorpresas.
+Dialogue: 0,0:12:37.67,0:12:38.88,Default,,0,0,0,,Hoy iremos a cenar.
+Dialogue: 0,0:12:39.05,0:12:40.63,Default,,0,0,0,,Ostentaremos tu alianza.
+Dialogue: 0,0:12:41.21,0:12:43.55,Default,,0,0,0,,Y no deberíamos tener más sorpresas.
+Dialogue: 0,0:12:43.72,0:12:44.76,Default,,0,0,0,,Debería prometértelo.
+Dialogue: 0,0:12:44.93,0:12:46.22,Default,,0,0,0,,- Sí.\N- Lo haré.
+Dialogue: 0,0:12:48.68,0:12:49.68,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:12:49.81,0:12:50.97,Default,,0,0,0,,Tony Stark.
+Dialogue: 0,0:12:51.14,0:12:54.14,Default,,0,0,0,,Soy el Doctor Stephen Strange.\NVen conmigo.
+Dialogue: 0,0:12:56.77,0:12:58.73,Default,,0,0,0,,Y felicitaciones por la boda.
+Dialogue: 0,0:12:58.90,0:13:00.69,Default,,0,0,0,,Disculpa, ¿regalas tickets?
+Dialogue: 0,0:13:00.86,0:13:02.28,Default,,0,0,0,,Necesitamos tu ayuda.
+Dialogue: 0,0:13:03.07,0:13:06.32,Default,,0,0,0,,El destino del universo está en juego,\Nno exagero.
+Dialogue: 0,0:13:06.49,0:13:07.91,Default,,0,0,0,,Y ¿quiénes son ustedes?
+Dialogue: 0,0:13:09.62,0:13:10.70,Default,,0,0,0,,Hola, Tony.
+Dialogue: 0,0:13:10.87,0:13:11.87,Default,,0,0,0,,Bruce.
+Dialogue: 0,0:13:12.04,0:13:13.66,Default,,0,0,0,,- Pepper.\N- Hola.
+Dialogue: 0,0:13:17.00,0:13:18.29,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:13:20.09,0:13:23.30,Default,,0,0,0,,En los albores del universo,\Nno había nada.
+Dialogue: 0,0:13:23.47,0:13:24.47,Default,,0,0,0,,Luego...
+Dialogue: 0,0:13:26.51,0:13:29.85,Default,,0,0,0,,El Big Bang lanzó\Nseis cristales elementales...
+Dialogue: 0,0:13:30.01,0:13:32.85,Default,,0,0,0,,al universo inmaculado.
+Dialogue: 0,0:13:33.89,0:13:38.44,Default,,0,0,0,,Cada una de esas Gemas del Infinito\Ncontrola un aspecto de la existencia.
+Dialogue: 0,0:13:39.40,0:13:40.57,Default,,0,0,0,,Espacio.
+Dialogue: 0,0:13:41.69,0:13:42.86,Default,,0,0,0,,Realidad.
+Dialogue: 0,0:13:44.49,0:13:45.65,Default,,0,0,0,,Poder.
+Dialogue: 0,0:13:46.86,0:13:48.03,Default,,0,0,0,,Alma.
+Dialogue: 0,0:13:49.16,0:13:50.33,Default,,0,0,0,,Mente.
+Dialogue: 0,0:13:52.24,0:13:53.50,Default,,0,0,0,,Y Tiempo.
+Dialogue: 0,0:14:03.09,0:14:04.26,Default,,0,0,0,,Repíteme su nombre.
+Dialogue: 0,0:14:04.42,0:14:05.63,Default,,0,0,0,,Thanos.
+Dialogue: 0,0:14:05.80,0:14:09.05,Default,,0,0,0,,Es una lacra, Tony.\NInvade planetas. Toma lo que quiere.
+Dialogue: 0,0:14:09.22,0:14:11.35,Default,,0,0,0,,Mata a la mitad de la población.
+Dialogue: 0,0:14:11.51,0:14:13.22,Default,,0,0,0,,Él envió a Loki.
+Dialogue: 0,0:14:13.85,0:14:16.77,Default,,0,0,0,,El ataque a Nueva York, fue él.
+Dialogue: 0,0:14:17.35,0:14:18.48,Default,,0,0,0,,Eso es.
+Dialogue: 0,0:14:19.73,0:14:20.56,Default,,0,0,0,,¿Cuánto tiempo tenemos?
+Dialogue: 0,0:14:20.73,0:14:22.94,Default,,0,0,0,,Nadie sabe. Tiene las del Poder\Ny del Espacio.
+Dialogue: 0,0:14:23.11,0:14:25.74,Default,,0,0,0,,Lo convierte\Nen el más fuerte del universo.
+Dialogue: 0,0:14:25.90,0:14:29.16,Default,,0,0,0,,Si llega a poseer las seis gemas, Tony...
+Dialogue: 0,0:14:29.32,0:14:32.53,Default,,0,0,0,,Podría destruir la vida\Na una escala aún insospechada.
+Dialogue: 0,0:14:32.70,0:14:34.54,Default,,0,0,0,,¿En serio dijiste "aún insospechada"?
+Dialogue: 0,0:14:34.70,0:14:36.75,Default,,0,0,0,,¿En serio te apoyas\Nen el Caldero del Cosmos?
+Dialogue: 0,0:14:36.91,0:14:37.91,Default,,0,0,0,,¿Eso es lo que es?
+Dialogue: 0,0:14:41.17,0:14:43.09,Default,,0,0,0,,Voy a permitirte eso.
+Dialogue: 0,0:14:45.30,0:14:48.22,Default,,0,0,0,,Si precisa las seis,\N¿por qué no escondemos esta?
+Dialogue: 0,0:14:48.38,0:14:49.38,Default,,0,0,0,,No puedo hacerlo.
+Dialogue: 0,0:14:49.55,0:14:52.26,Default,,0,0,0,,Juramos proteger la Gema del Tiempo\Ncon la vida.
+Dialogue: 0,0:14:52.43,0:14:53.60,Default,,0,0,0,,Yo juré dejar los lácteos...
+Dialogue: 0,0:14:53.76,0:14:56.14,Default,,0,0,0,,y luego ponen mi nombre\Na un sabor de helado.
+Dialogue: 0,0:14:56.31,0:14:57.83,Default,,0,0,0,,- Avellanas Locas Stark.\N- No está mal.
+Dialogue: 0,0:14:57.93,0:14:59.31,Default,,0,0,0,,Un poco duras.
+Dialogue: 0,0:14:59.48,0:15:01.02,Default,,0,0,0,,Preferimos el Caramelo Hulk.
+Dialogue: 0,0:15:01.19,0:15:03.57,Default,,0,0,0,,- ¿Eso existe?\N- Da igual. Todo cambia.
+Dialogue: 0,0:15:03.73,0:15:06.48,Default,,0,0,0,,Nuestro juramento de proteger la gema\Nno puede cambiar.
+Dialogue: 0,0:15:06.65,0:15:08.70,Default,,0,0,0,,La gema es\Nnuestra mejor chance contra Thanos.
+Dialogue: 0,0:15:08.86,0:15:11.74,Default,,0,0,0,,También es\Nsu mejor chance contra nosotros.
+Dialogue: 0,0:15:11.91,0:15:13.28,Default,,0,0,0,,Si no hacemos nuestro trabajo.
+Dialogue: 0,0:15:13.45,0:15:16.16,Default,,0,0,0,,¿Cuál es?\NAdemás de hacer animales con globos.
+Dialogue: 0,0:15:17.29,0:15:19.83,Default,,0,0,0,,Proteger tu realidad, tonto.
+Dialogue: 0,0:15:20.00,0:15:22.50,Default,,0,0,0,,Chicos.\N¿Podemos posponer esta discusión?
+Dialogue: 0,0:15:22.67,0:15:25.92,Default,,0,0,0,,El hecho es que tenemos la gema.\NSabemos dónde está.
+Dialogue: 0,0:15:26.30,0:15:28.63,Default,,0,0,0,,Visión anda por ahí\Ncon la Gema de la Mente...
+Dialogue: 0,0:15:28.80,0:15:30.51,Default,,0,0,0,,y tenemos que hallarlo ya.
+Dialogue: 0,0:15:31.30,0:15:32.72,Default,,0,0,0,,Sí, ese es el problema.
+Dialogue: 0,0:15:32.89,0:15:33.89,Default,,0,0,0,,¿Cómo dices?
+Dialogue: 0,0:15:33.93,0:15:37.27,Default,,0,0,0,,Hace dos semanas Visión apagó\Nsu transmisor. Está desconectado.
+Dialogue: 0,0:15:37.43,0:15:38.68,Default,,0,0,0,,- ¿Qué?\N- Sí.
+Dialogue: 0,0:15:38.85,0:15:40.77,Default,,0,0,0,,¿Perdiste otro súper robot?
+Dialogue: 0,0:15:40.94,0:15:43.19,Default,,0,0,0,,No. Él es más que eso. Evoluciona.
+Dialogue: 0,0:15:43.36,0:15:44.81,Default,,0,0,0,,¿Quién podría hallarlo?
+Dialogue: 0,0:15:47.82,0:15:48.82,Default,,0,0,0,,Maldita sea.
+Dialogue: 0,0:15:49.49,0:15:50.49,Default,,0,0,0,,Steve Rogers.
+Dialogue: 0,0:15:50.65,0:15:51.82,Default,,0,0,0,,Grandioso.
+Dialogue: 0,0:15:52.28,0:15:53.49,Default,,0,0,0,,Quizá.
+Dialogue: 0,0:15:54.12,0:15:55.12,Default,,0,0,0,,Pero...
+Dialogue: 0,0:15:58.58,0:15:59.70,Default,,0,0,0,,Llámalo.
+Dialogue: 0,0:16:00.46,0:16:01.75,Default,,0,0,0,,No es tan fácil.
+Dialogue: 0,0:16:02.83,0:16:04.63,Default,,0,0,0,,Hace mucho\Nque no nos ponemos al día, ¿no?
+Dialogue: 0,0:16:04.79,0:16:05.79,Default,,0,0,0,,No.
+Dialogue: 0,0:16:05.84,0:16:07.60,Default,,0,0,0,,Los Vengadores nos separamos.\NEstamos fritos.
+Dialogue: 0,0:16:08.17,0:16:09.26,Default,,0,0,0,,¿Se separaron?
+Dialogue: 0,0:16:11.17,0:16:13.05,Default,,0,0,0,,¿Como los Beatles?
+Dialogue: 0,0:16:13.22,0:16:15.14,Default,,0,0,0,,Cap. y yo estamos peleados.
+Dialogue: 0,0:16:16.14,0:16:17.31,Default,,0,0,0,,No nos hablamos.
+Dialogue: 0,0:16:18.77,0:16:21.27,Default,,0,0,0,,Tony, escúchame.
+Dialogue: 0,0:16:22.35,0:16:23.69,Default,,0,0,0,,Thor murió.
+Dialogue: 0,0:16:25.40,0:16:28.27,Default,,0,0,0,,Viene Thanos.\NNo importa a quién le hables o no.
+Dialogue: 0,0:16:45.54,0:16:46.54,Default,,0,0,0,,Móvil con tapa.
+Dialogue: 0,0:17:07.65,0:17:10.11,Default,,0,0,0,,Doc,\Nno estás moviendo el cabello, ¿no?
+Dialogue: 0,0:17:11.07,0:17:13.28,Default,,0,0,0,,No, ahora no.
+Dialogue: 0,0:17:45.98,0:17:47.27,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,0:17:48.94,0:17:49.94,Default,,0,0,0,,- ¡Ayúdalo!\N- ¡Banner!
+Dialogue: 0,0:17:50.11,0:17:51.69,Default,,0,0,0,,- ¡Wong, apúrate!\N- ¡Ve!
+Dialogue: 0,0:17:51.86,0:17:52.86,Default,,0,0,0,,Viernes, ¿qué veo?
+Dialogue: 0,0:17:52.98,0:17:54.32,Default,,0,0,0,,{\i1}No sé. Estoy en eso.{\i0}
+Dialogue: 0,0:17:54.49,0:17:57.82,Default,,0,0,0,,¡Deberías poner la Gema del Tiempo\Nen tu bolsillo, Doc!
+Dialogue: 0,0:17:57.99,0:17:59.20,Default,,0,0,0,,Quizá quiera usarla.
+Dialogue: 0,0:18:26.64,0:18:28.94,Default,,0,0,0,,Ned.\NPreciso que causes una distracción.
+Dialogue: 0,0:18:29.10,0:18:30.40,Default,,0,0,0,,Santo cielo.
+Dialogue: 0,0:18:30.77,0:18:32.23,Default,,0,0,0,,¡Vamos a morir!
+Dialogue: 0,0:18:32.40,0:18:33.61,Default,,0,0,0,,¡Hay una nave espacial!
+Dialogue: 0,0:18:33.78,0:18:35.49,Default,,0,0,0,,- ¿Qué pasa?\N- ¡Ay, Dios mío!
+Dialogue: 0,0:18:40.66,0:18:41.95,Default,,0,0,0,,SALIDA DE EMERGENCIA
+Dialogue: 0,0:18:44.04,0:18:47.00,Default,,0,0,0,,¿Qué les pasa?\N¿Nunca vieron una nave espacial?
+Dialogue: 0,0:18:59.26,0:19:02.68,Default,,0,0,0,,Viernes, evacua el sur de la calle 43.\NAvisa a los socorristas.
+Dialogue: 0,0:19:02.85,0:19:04.01,Default,,0,0,0,,{\i1}Lo haré.{\i0}
+Dialogue: 0,0:19:32.38,0:19:35.30,Default,,0,0,0,,Escúchenme y regocíjense.
+Dialogue: 0,0:19:36.67,0:19:40.26,Default,,0,0,0,,Están por morir\Na manos de los Hijos de Thanos.
+Dialogue: 0,0:19:41.38,0:19:42.89,Default,,0,0,0,,Sean agradecidos...
+Dialogue: 0,0:19:43.05,0:19:45.60,Default,,0,0,0,,que sus insignificantes vidas\Nahora contribuyen...
+Dialogue: 0,0:19:45.97,0:19:48.73,Default,,0,0,0,,Lo lamento, la Tierra está cerrada hoy.
+Dialogue: 0,0:19:48.89,0:19:51.60,Default,,0,0,0,,Mejor empaquen y váyanse.
+Dialogue: 0,0:19:51.77,0:19:52.90,Default,,0,0,0,,Guardián de la gema.
+Dialogue: 0,0:19:53.86,0:19:56.11,Default,,0,0,0,,¿Este animal parlanchín habla por ti?
+Dialogue: 0,0:19:56.27,0:19:58.07,Default,,0,0,0,,No. Hablo por mí mismo.
+Dialogue: 0,0:19:58.53,0:20:00.95,Default,,0,0,0,,Entran sin permiso en la ciudad\Ny en el planeta.
+Dialogue: 0,0:20:01.95,0:20:03.41,Default,,0,0,0,,Dice que te vayas, Calamardo.
+Dialogue: 0,0:20:03.57,0:20:04.74,Default,,0,0,0,,Me agota.
+Dialogue: 0,0:20:05.62,0:20:06.87,Default,,0,0,0,,Tráeme la gema.
+Dialogue: 0,0:20:08.50,0:20:09.95,Default,,0,0,0,,Banner, ¿quieres participar?
+Dialogue: 0,0:20:11.21,0:20:13.71,Default,,0,0,0,,No. Pero\N¿cuándo consigo lo que quiero?
+Dialogue: 0,0:20:13.88,0:20:14.88,Default,,0,0,0,,Es verdad.
+Dialogue: 0,0:20:15.59,0:20:16.80,Default,,0,0,0,,Bueno. ¡Empuja!
+Dialogue: 0,0:20:16.96,0:20:18.42,Default,,0,0,0,,Pasó mucho tiempo.
+Dialogue: 0,0:20:18.59,0:20:20.09,Default,,0,0,0,,Será bueno tenerte, amigo.
+Dialogue: 0,0:20:20.26,0:20:21.26,Default,,0,0,0,,Bueno.
+Dialogue: 0,0:20:21.34,0:20:24.09,Default,,0,0,0,,Sólo déjame...\NNecesito concentrarme un segundo.
+Dialogue: 0,0:20:24.26,0:20:25.55,Default,,0,0,0,,Vamos, amigo.
+Dialogue: 0,0:20:27.06,0:20:28.06,Default,,0,0,0,,¡Por Dios!
+Dialogue: 0,0:20:29.02,0:20:30.27,Default,,0,0,0,,¿Dónde está tu tipo?
+Dialogue: 0,0:20:31.69,0:20:33.06,Default,,0,0,0,,No sé. Tuvimos una pelea.
+Dialogue: 0,0:20:33.23,0:20:34.41,Default,,0,0,0,,- No hay tiempo para eso.\N- Lo sé.
+Dialogue: 0,0:20:34.44,0:20:35.90,Default,,0,0,0,,Esa es la cosa. Vamos.
+Dialogue: 0,0:20:43.11,0:20:44.28,Default,,0,0,0,,Me haces quedar mal.
+Dialogue: 0,0:20:44.45,0:20:46.37,Default,,0,0,0,,Perdón. O no puedo o no quiere.
+Dialogue: 0,0:20:46.53,0:20:47.37,Default,,0,0,0,,Está bien.
+Dialogue: 0,0:20:47.53,0:20:49.91,Default,,0,0,0,,Retírate. Vigílalo. Gracias.
+Dialogue: 0,0:20:50.08,0:20:51.41,Default,,0,0,0,,- Lo tengo.\N- Maldita sea.
+Dialogue: 0,0:21:19.11,0:21:20.28,Default,,0,0,0,,¿De dónde vino eso?
+Dialogue: 0,0:21:20.44,0:21:22.61,Default,,0,0,0,,{\i1}Es nanotecnología. ¿Te gusta? Algo...{\i0}
+Dialogue: 0,0:21:26.36,0:21:29.91,Default,,0,0,0,,Doctor Banner, si el resto\Nde tu amigo verde no se nos unirá...
+Dialogue: 0,0:21:39.54,0:21:40.84,Default,,0,0,0,,{\i1}Debes sacar esa gema de aquí.{\i0}
+Dialogue: 0,0:21:41.00,0:21:42.30,Default,,0,0,0,,Se queda conmigo.
+Dialogue: 0,0:21:42.46,0:21:43.46,Default,,0,0,0,,Exacto. Adiós.
+Dialogue: 0,0:21:53.14,0:21:54.35,Default,,0,0,0,,Tony, ¿estás bien?
+Dialogue: 0,0:21:54.52,0:21:55.64,Default,,0,0,0,,¿Vamos bien? ¿Mal?
+Dialogue: 0,0:21:55.81,0:21:57.69,Default,,0,0,0,,{\i1}Muy, muy bien. ¿Planeas ayudar?{\i0}
+Dialogue: 0,0:21:57.85,0:21:59.15,Default,,0,0,0,,Trato. No quiere salir.
+Dialogue: 0,0:22:01.02,0:22:02.11,Default,,0,0,0,,{\i1}Martillo.{\i0}
+Dialogue: 0,0:22:09.87,0:22:12.74,Default,,0,0,0,,¡Vamos, Hulk!\N¿Qué me estás haciendo?
+Dialogue: 0,0:22:12.91,0:22:15.04,Default,,0,0,0,,¡Sal!
+Dialogue: 0,0:22:15.21,0:22:17.42,Default,,0,0,0,,¡No!
+Dialogue: 0,0:22:21.29,0:22:23.09,Default,,0,0,0,,¿Qué quieres decir con "no"?
+Dialogue: 0,0:22:28.84,0:22:30.47,Default,,0,0,0,,Hola. ¿Qué tal, Sr. Stark?
+Dialogue: 0,0:22:30.64,0:22:33.43,Default,,0,0,0,,{\i1}- ¿De dónde saliste?\N- De una excursión al MoMA.{\i0}
+Dialogue: 0,0:22:35.48,0:22:36.94,Default,,0,0,0,,¿Qué le pasa a este tipo?
+Dialogue: 0,0:22:38.35,0:22:41.15,Default,,0,0,0,,Vino del espacio a robarle\Nel collar a un hechicero.
+Dialogue: 0,0:23:07.80,0:23:11.47,Default,,0,0,0,,Tus poderes son pintorescos.\NDebes ser popular entre los niños.
+Dialogue: 0,0:23:14.43,0:23:16.22,Default,,0,0,0,,Es un hechizo simple,\Npero inquebrantable.
+Dialogue: 0,0:23:16.39,0:23:18.35,Default,,0,0,0,,Entonces lo quitaré de tu cadáver.
+Dialogue: 0,0:23:31.41,0:23:36.49,Default,,0,0,0,,Te resultará problemático deshacer\Nel hechizo de un muerto.
+Dialogue: 0,0:23:36.66,0:23:38.33,Default,,0,0,0,,Desearás estar muerto.
+Dialogue: 0,0:23:48.76,0:23:49.76,Default,,0,0,0,,¡No!
+Dialogue: 0,0:23:53.76,0:23:55.26,Default,,0,0,0,,{\i1}Ese es el hechicero. Manos a la obra.{\i0}
+Dialogue: 0,0:23:55.43,0:23:56.97,Default,,0,0,0,,¡Entendido!
+Dialogue: 0,0:24:04.69,0:24:05.77,Default,,0,0,0,,Eso no estuvo bien.
+Dialogue: 0,0:24:10.20,0:24:11.20,Default,,0,0,0,,{\i1}¡Te tengo!{\i0}
+Dialogue: 0,0:24:12.53,0:24:13.53,Default,,0,0,0,,¡Espera!
+Dialogue: 0,0:24:21.16,0:24:23.88,Default,,0,0,0,,Sr. Stark, me están subiendo.
+Dialogue: 0,0:24:24.04,0:24:25.34,Default,,0,0,0,,{\i1}Aguanta, chico.{\i0}
+Dialogue: 0,0:24:45.27,0:24:47.02,Default,,0,0,0,,{\i1}Wong, estás invitado a mi boda.{\i0}
+Dialogue: 0,0:24:54.57,0:24:55.70,Default,,0,0,0,,Dame más potencia.
+Dialogue: 0,0:25:04.62,0:25:06.04,Default,,0,0,0,,Abre 17-A.
+Dialogue: 0,0:25:19.06,0:25:20.68,Default,,0,0,0,,Pete, suéltate. Te atraparé.
+Dialogue: 0,0:25:20.85,0:25:22.89,Default,,0,0,0,,¡Dijiste que salve al hechicero!
+Dialogue: 0,0:25:23.31,0:25:24.31,Default,,0,0,0,,No puedo respirar.
+Dialogue: 0,0:25:25.60,0:25:27.27,Default,,0,0,0,,A esta altura te quedas sin aire.
+Dialogue: 0,0:25:28.23,0:25:30.48,Default,,0,0,0,,Sí. Tiene sentido.
+Dialogue: 0,0:25:47.67,0:25:49.67,Default,,0,0,0,,Sr. Stark, huele a nuevo aquí dentro.
+Dialogue: 0,0:25:49.84,0:25:50.84,Default,,0,0,0,,{\i1}Buen viaje.{\i0}
+Dialogue: 0,0:25:50.96,0:25:52.38,Default,,0,0,0,,{\i1}- Viernes, mándalo a casa.\N- Sí.{\i0}
+Dialogue: 0,0:25:53.34,0:25:54.80,Default,,0,0,0,,Ay, ¡vamos!
+Dialogue: 0,0:26:03.22,0:26:05.23,Default,,0,0,0,,{\i1}Jefe, llamada de la Srta. Potts.{\i0}
+Dialogue: 0,0:26:05.39,0:26:07.48,Default,,0,0,0,,{\i1}¿Tony? ¿Qué pasa? ¿Estás bien?{\i0}
+Dialogue: 0,0:26:07.65,0:26:10.32,Default,,0,0,0,,{\i1}Sí. Habría que suspender\Nla reserva para la cena.{\i0}
+Dialogue: 0,0:26:10.48,0:26:11.48,Default,,0,0,0,,{\i1}¿Por qué?{\i0}
+Dialogue: 0,0:26:11.57,0:26:14.57,Default,,0,0,0,,{\i1}Porque probablemente no regrese\Npor un tiempo.{\i0}
+Dialogue: 0,0:26:15.65,0:26:16.91,Default,,0,0,0,,{\i1}Dime que no estás en esa nave.{\i0}
+Dialogue: 0,0:26:17.07,0:26:17.91,Default,,0,0,0,,Sí.
+Dialogue: 0,0:26:18.07,0:26:19.41,Default,,0,0,0,,{\i1}Dime que no estás ahí.{\i0}
+Dialogue: 0,0:26:19.57,0:26:21.16,Default,,0,0,0,,Perdón, cariño.
+Dialogue: 0,0:26:21.33,0:26:23.83,Default,,0,0,0,,{\i1}- Perdón, no sé qué decir.\N- Regresa, Tony.{\i0}
+Dialogue: 0,0:26:24.00,0:26:26.04,Default,,0,0,0,,{\i1}- Pep.\N- Regresa ahora mismo.{\i0}
+Dialogue: 0,0:26:26.21,0:26:27.21,Default,,0,0,0,,{\i1}Regresa.{\i0}
+Dialogue: 0,0:26:27.37,0:26:29.29,Default,,0,0,0,,{\i1}Jefe, la perdemos.{\i0}
+Dialogue: 0,0:26:29.96,0:26:31.50,Default,,0,0,0,,{\i1}A mí también.{\i0}
+Dialogue: 0,0:26:40.60,0:26:41.85,Default,,0,0,0,,¡Dios mío!
+Dialogue: 0,0:26:46.31,0:26:48.27,Default,,0,0,0,,Debí quedarme en el autobús.
+Dialogue: 0,0:27:02.62,0:27:03.99,Default,,0,0,0,,¿Adónde vas?
+Dialogue: 0,0:27:04.29,0:27:05.66,Default,,0,0,0,,Robaron la Gema del Tiempo.
+Dialogue: 0,0:27:05.83,0:27:07.75,Default,,0,0,0,,El Santuario está desprotegido.
+Dialogue: 0,0:27:08.33,0:27:09.83,Default,,0,0,0,,¿Qué vas a hacer?
+Dialogue: 0,0:27:10.63,0:27:12.29,Default,,0,0,0,,Una llamada.
+Dialogue: 0,0:27:25.35,0:27:27.85,Default,,0,0,0,,EL ESPACIO
+Dialogue: 0,0:27:52.58,0:27:53.75,Default,,0,0,0,,¡Cántala, Drax!
+Dialogue: 0,0:28:06.35,0:28:07.72,Default,,0,0,0,,¿Por qué dijiste que lo hacemos?
+Dialogue: 0,0:28:07.89,0:28:10.60,Default,,0,0,0,,Es una señal de auxilio, Rocket.\NAlguien podría estar muriendo.
+Dialogue: 0,0:28:10.77,0:28:12.85,Default,,0,0,0,,Entiendo, ¿pero por qué lo hacemos?
+Dialogue: 0,0:28:13.02,0:28:14.81,Default,,0,0,0,,Porque somos amigables.
+Dialogue: 0,0:28:14.98,0:28:17.73,Default,,0,0,0,,Y quizá, el que sea nos pagará\Npor el esfuerzo.
+Dialogue: 0,0:28:17.90,0:28:20.24,Default,,0,0,0,,- Esa no es la cuestión.\N- No lo es.
+Dialogue: 0,0:28:20.40,0:28:22.11,Default,,0,0,0,,Quiero decir, si no paga...
+Dialogue: 0,0:28:22.28,0:28:23.32,Default,,0,0,0,,Tomamos su nave.
+Dialogue: 0,0:28:23.49,0:28:25.16,Default,,0,0,0,,- ¡Exacto!\N- ¡Bingo!
+Dialogue: 0,0:28:25.33,0:28:26.33,Default,,0,0,0,,¡De acuerdo!
+Dialogue: 0,0:28:29.54,0:28:31.00,Default,,0,0,0,,Estamos llegando.
+Dialogue: 0,0:28:31.41,0:28:33.63,Default,,0,0,0,,Guardianes, podría ser peligroso...
+Dialogue: 0,0:28:33.79,0:28:36.09,Default,,0,0,0,,así que pongamos cara de malos.
+Dialogue: 0,0:28:41.34,0:28:43.97,Default,,0,0,0,,Groot, deja eso, ya.\NNo te lo voy a repetir.
+Dialogue: 0,0:28:44.34,0:28:45.18,Default,,0,0,0,,Groot.
+Dialogue: 0,0:28:45.35,0:28:46.47,Default,,0,0,0,,¡Yo soy Groot!
+Dialogue: 0,0:28:46.64,0:28:47.64,Default,,0,0,0,,¡Tú vocabulario!
+Dialogue: 0,0:28:47.68,0:28:49.02,Default,,0,0,0,,- ¡Oye!\N- Vaya.
+Dialogue: 0,0:28:49.18,0:28:50.85,Default,,0,0,0,,Tienes bellotas, chico.
+Dialogue: 0,0:28:51.02,0:28:53.65,Default,,0,0,0,,Desde que tienes savia, eres insufrible.
+Dialogue: 0,0:28:54.60,0:28:57.86,Default,,0,0,0,,Sigue, y voy a hacer trizas esa cosa.
+Dialogue: 0,0:29:04.78,0:29:06.32,Default,,0,0,0,,¿Qué pasó?
+Dialogue: 0,0:29:10.37,0:29:11.71,Default,,0,0,0,,¡Dios mío!
+Dialogue: 0,0:29:17.29,0:29:19.05,Default,,0,0,0,,Parece que no nos pagarán.
+Dialogue: 0,0:29:21.30,0:29:23.26,Default,,0,0,0,,¡Limpiaparabrisas!
+Dialogue: 0,0:29:23.43,0:29:24.72,Default,,0,0,0,,Quítenlo.
+Dialogue: 0,0:29:31.39,0:29:34.14,Default,,0,0,0,,¿Cómo diablos está vivo este tipo?
+Dialogue: 0,0:29:34.31,0:29:36.10,Default,,0,0,0,,No es un tipo.
+Dialogue: 0,0:29:36.27,0:29:37.81,Default,,0,0,0,,Tú eres un tipo.
+Dialogue: 0,0:29:39.40,0:29:41.19,Default,,0,0,0,,Él es un hombre.
+Dialogue: 0,0:29:41.57,0:29:44.32,Default,,0,0,0,,Un hombre apuesto y musculoso.
+Dialogue: 0,0:29:44.49,0:29:45.49,Default,,0,0,0,,Soy musculoso.
+Dialogue: 0,0:29:45.57,0:29:48.03,Default,,0,0,0,,¿Bromeas, Quill?\NEstás a un sándwich de ser rellenito.
+Dialogue: 0,0:29:48.20,0:29:49.03,Default,,0,0,0,,Sí, claro.
+Dialogue: 0,0:29:49.20,0:29:50.70,Default,,0,0,0,,Sí, Quill. Subiste de peso.
+Dialogue: 0,0:29:50.87,0:29:51.87,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:29:54.04,0:29:55.92,Default,,0,0,0,,Gamora, ¿crees que...?
+Dialogue: 0,0:29:58.21,0:30:01.80,Default,,0,0,0,,Está ansioso, furioso.
+Dialogue: 0,0:30:01.96,0:30:04.84,Default,,0,0,0,,Siente una gran pérdida y culpa.
+Dialogue: 0,0:30:05.72,0:30:08.47,Default,,0,0,0,,Es como si un pirata tuviera un bebé\Ncon un ángel.
+Dialogue: 0,0:30:08.64,0:30:09.64,Default,,0,0,0,,Vaya.
+Dialogue: 0,0:30:09.72,0:30:11.60,Default,,0,0,0,,Es un llamado de atención para mí.
+Dialogue: 0,0:30:11.77,0:30:14.48,Default,,0,0,0,,Conseguiré un aparato de gimnasia.\NMe comprometeré.
+Dialogue: 0,0:30:14.64,0:30:15.64,Default,,0,0,0,,Y mancuernas.
+Dialogue: 0,0:30:15.77,0:30:17.10,Default,,0,0,0,,No se comen, ¿sabes?
+Dialogue: 0,0:30:17.27,0:30:20.48,Default,,0,0,0,,Parece que sus músculos\Nfueran de fibras metálicas de Cotati.
+Dialogue: 0,0:30:20.65,0:30:22.36,Default,,0,0,0,,Deja de masajeárselos.
+Dialogue: 0,0:30:24.32,0:30:25.32,Default,,0,0,0,,Despiértalo.
+Dialogue: 0,0:30:28.24,0:30:29.24,Default,,0,0,0,,Despierta.
+Dialogue: 0,0:30:46.84,0:30:49.09,Default,,0,0,0,,¿Quién diablos son ustedes?
+Dialogue: 0,0:30:51.89,0:30:55.52,Default,,0,0,0,,Desde que conozco a Thanos,\Nél ha tenido un sólo objetivo.
+Dialogue: 0,0:30:55.68,0:30:59.65,Default,,0,0,0,,Equilibrar el universo eliminando\Nla mitad de la vida.
+Dialogue: 0,0:31:00.56,0:31:04.23,Default,,0,0,0,,Solía matar gente planeta por planeta,\Nmatanza por matanza.
+Dialogue: 0,0:31:04.53,0:31:05.90,Default,,0,0,0,,Incluyendo el mío.
+Dialogue: 0,0:31:06.07,0:31:07.65,Default,,0,0,0,,Si consigue las seis gemas...
+Dialogue: 0,0:31:07.82,0:31:10.03,Default,,0,0,0,,podría hacerlo chasqueando los dedos.
+Dialogue: 0,0:31:11.03,0:31:13.62,Default,,0,0,0,,Pareces saber mucho sobre Thanos.
+Dialogue: 0,0:31:13.79,0:31:17.58,Default,,0,0,0,,Gamora es la hija de Thanos.
+Dialogue: 0,0:31:21.63,0:31:23.71,Default,,0,0,0,,Tu padre mató a mi hermano.
+Dialogue: 0,0:31:24.05,0:31:25.26,Default,,0,0,0,,Cielos.
+Dialogue: 0,0:31:25.42,0:31:27.09,Default,,0,0,0,,Padrastro, técnicamente.
+Dialogue: 0,0:31:27.26,0:31:29.18,Default,,0,0,0,,Y ella lo odia tanto como tú.
+Dialogue: 0,0:31:32.89,0:31:34.43,Default,,0,0,0,,La familia puede ser difícil.
+Dialogue: 0,0:31:34.60,0:31:37.77,Default,,0,0,0,,Antes de morir, mi padre me dijo\Nque tenía una media hermana...
+Dialogue: 0,0:31:37.93,0:31:40.19,Default,,0,0,0,,a la que encerró en Hel.
+Dialogue: 0,0:31:40.35,0:31:43.31,Default,,0,0,0,,Y luego ella regresó a casa\Ny me apuñaló el ojo.
+Dialogue: 0,0:31:43.48,0:31:44.77,Default,,0,0,0,,Tuve que matarla.
+Dialogue: 0,0:31:44.94,0:31:48.32,Default,,0,0,0,,Imagino que la vida es difícil, ¿no?\NGira y gira y...
+Dialogue: 0,0:31:49.15,0:31:50.16,Default,,0,0,0,,Siento tu dolor.
+Dialogue: 0,0:31:50.32,0:31:52.62,Default,,0,0,0,,Yo también siento tu dolor, porque...
+Dialogue: 0,0:31:52.78,0:31:55.16,Default,,0,0,0,,No es por competir,\Npero también la pasé mal.
+Dialogue: 0,0:31:55.33,0:31:57.00,Default,,0,0,0,,Mi padre mató a mi madre.
+Dialogue: 0,0:31:57.16,0:31:59.87,Default,,0,0,0,,Y tuve que matar a mi padre. Fue difícil.
+Dialogue: 0,0:32:00.04,0:32:02.92,Default,,0,0,0,,Quizá más difícil\Nque matar a una hermana.
+Dialogue: 0,0:32:03.46,0:32:06.34,Default,,0,0,0,,Además, terminé con mis dos ojos,\Nlo que fue...
+Dialogue: 0,0:32:06.50,0:32:08.21,Default,,0,0,0,,Necesito un martillo, no una cuchara.
+Dialogue: 0,0:32:10.05,0:32:13.14,Default,,0,0,0,,¿Cómo abro esta cosa?\N¿Hay algún tipo de...?
+Dialogue: 0,0:32:13.68,0:32:16.22,Default,,0,0,0,,¿Un código de cuatro números?\NUn cumpleaños.
+Dialogue: 0,0:32:17.31,0:32:19.68,Default,,0,0,0,,- ¿Qué haces?\N- Me llevo su cápsula.
+Dialogue: 0,0:32:21.14,0:32:22.19,Default,,0,0,0,,No.
+Dialogue: 0,0:32:24.31,0:32:28.19,Default,,0,0,0,,Hoy no te llevarás nuestra cápsula.
+Dialogue: 0,0:32:29.86,0:32:32.07,Default,,0,0,0,,Quill, ¿hablas con la voz más grave?
+Dialogue: 0,0:32:33.99,0:32:35.62,Default,,0,0,0,,- No.\N- Sí.
+Dialogue: 0,0:32:35.78,0:32:38.50,Default,,0,0,0,,Imitas al Dios-hombre. Es raro.
+Dialogue: 0,0:32:38.66,0:32:39.83,Default,,0,0,0,,No, no lo imito.
+Dialogue: 0,0:32:40.00,0:32:42.04,Default,,0,0,0,,- ¡Lo hizo otra vez!\N- Es mi voz.
+Dialogue: 0,0:32:48.21,0:32:49.21,Default,,0,0,0,,¿Te burlas de mí?
+Dialogue: 0,0:32:49.67,0:32:52.59,Default,,0,0,0,,- ¿Te burlas de mí?\N- Basta. Lo hiciste otra vez.
+Dialogue: 0,0:32:53.22,0:32:55.18,Default,,0,0,0,,- Trata de imitarme.\N- Deja de hacerlo.
+Dialogue: 0,0:32:55.35,0:32:56.97,Default,,0,0,0,,- ¡Suficiente!\N- Él empezó.
+Dialogue: 0,0:32:57.14,0:32:58.52,Default,,0,0,0,,Debemos parar a Thanos.
+Dialogue: 0,0:32:58.68,0:33:01.31,Default,,0,0,0,,Significa que debemos averiguar\Nadónde irá.
+Dialogue: 0,0:33:01.48,0:33:02.73,Default,,0,0,0,,Knowhere.
+Dialogue: 0,0:33:02.89,0:33:04.56,Default,,0,0,0,,Debe ir a alguna parte.
+Dialogue: 0,0:33:04.73,0:33:06.73,Default,,0,0,0,,No. ¿Knowhere?
+Dialogue: 0,0:33:06.90,0:33:09.57,Default,,0,0,0,,Es un lugar. Estuvimos allí. Apesta.
+Dialogue: 0,0:33:09.73,0:33:12.15,Default,,0,0,0,,- Disculpa, es nuestra comida.\N- Ya no.
+Dialogue: 0,0:33:12.57,0:33:15.74,Default,,0,0,0,,Thor, ¿por qué iría a Knowhere?
+Dialogue: 0,0:33:15.91,0:33:17.08,Default,,0,0,0,,Porque por años...
+Dialogue: 0,0:33:17.24,0:33:20.91,Default,,0,0,0,,el Coleccionista mantuvo allí segura\Nla Gema de la Realidad.
+Dialogue: 0,0:33:21.08,0:33:22.66,Default,,0,0,0,,No está segura con él.
+Dialogue: 0,0:33:22.83,0:33:24.54,Default,,0,0,0,,Sólo un tonto le daría una.
+Dialogue: 0,0:33:24.71,0:33:26.08,Default,,0,0,0,,- O un genio.\N- ¿Cómo sabes?
+Dialogue: 0,0:33:26.25,0:33:28.80,Default,,0,0,0,,¿Que no va por otra gema?
+Dialogue: 0,0:33:28.96,0:33:31.34,Default,,0,0,0,,Hay seis gemas ahí afuera.
+Dialogue: 0,0:33:31.51,0:33:33.72,Default,,0,0,0,,Thanos ya tiene la Gema del Poder...
+Dialogue: 0,0:33:33.88,0:33:37.18,Default,,0,0,0,,porque la robó la semana pasada\Ncuando diezmó Xandar.
+Dialogue: 0,0:33:37.64,0:33:39.68,Default,,0,0,0,,Me robó la Gema del Espacio...
+Dialogue: 0,0:33:39.85,0:33:42.52,Default,,0,0,0,,cuando destruyó mi nave\Ny mató a la mitad de mi gente.
+Dialogue: 0,0:33:42.68,0:33:45.40,Default,,0,0,0,,Las del Tiempo y de la Mente están\Nseguras con los Vengadores.
+Dialogue: 0,0:33:45.73,0:33:46.77,Default,,0,0,0,,¿Los Vengadores?
+Dialogue: 0,0:33:46.86,0:33:48.12,Default,,0,0,0,,Los héroes\Nmás poderosos de la Tierra.
+Dialogue: 0,0:33:48.15,0:33:49.27,Default,,0,0,0,,¿Como Kevin Bacon?
+Dialogue: 0,0:33:49.44,0:33:51.82,Default,,0,0,0,,Quizá se unió. No sé.\NNo voy hace mucho.
+Dialogue: 0,0:33:51.99,0:33:54.20,Default,,0,0,0,,Y la Gema del Alma, nadie la vio.
+Dialogue: 0,0:33:54.36,0:33:55.99,Default,,0,0,0,,Nadie sabe dónde está.
+Dialogue: 0,0:33:56.16,0:33:59.45,Default,,0,0,0,,Y Thanos no puede conseguirla.\NEntonces va a Knowhere.
+Dialogue: 0,0:33:59.62,0:34:02.04,Default,,0,0,0,,Entonces,\Nirá por la Gema de la Realidad.
+Dialogue: 0,0:34:02.20,0:34:03.25,Default,,0,0,0,,De nada.
+Dialogue: 0,0:34:03.41,0:34:04.58,Default,,0,0,0,,Hay que ir a Knowhere.
+Dialogue: 0,0:34:04.75,0:34:08.46,Default,,0,0,0,,Estas equivocada.\NA Nidavellir tenemos que ir.
+Dialogue: 0,0:34:08.92,0:34:10.75,Default,,0,0,0,,- Es una palabra inventada.\N- Todas lo son.
+Dialogue: 0,0:34:10.92,0:34:14.01,Default,,0,0,0,,¿Nidavellir existe? ¿En serio?
+Dialogue: 0,0:34:14.17,0:34:15.80,Default,,0,0,0,,Es un lugar legendario.
+Dialogue: 0,0:34:15.97,0:34:19.51,Default,,0,0,0,,Hacen las armas más horribles\Ny potentes de todo el universo.
+Dialogue: 0,0:34:19.68,0:34:21.72,Default,,0,0,0,,Me gustaría mucho ir, por favor.
+Dialogue: 0,0:34:21.89,0:34:23.93,Default,,0,0,0,,La liebre tiene razón y es el más listo.
+Dialogue: 0,0:34:24.10,0:34:25.14,Default,,0,0,0,,¿Liebre?
+Dialogue: 0,0:34:25.31,0:34:27.56,Default,,0,0,0,,Sólo Eitri el Enano puede hacer\Nel arma que preciso.
+Dialogue: 0,0:34:27.73,0:34:28.94,Default,,0,0,0,,¿Eres el capitán?
+Dialogue: 0,0:34:29.11,0:34:30.11,Default,,0,0,0,,Eres perspicaz.
+Dialogue: 0,0:34:30.27,0:34:33.15,Default,,0,0,0,,Pareces un líder noble.\N¿Te unirías en mi cruzada a Nidavellir?
+Dialogue: 0,0:34:33.32,0:34:36.11,Default,,0,0,0,,Déjame preguntarle al capitán.\NEspera. ¡Soy yo!
+Dialogue: 0,0:34:36.28,0:34:38.03,Default,,0,0,0,,- Sí. Iré.\N- ¡Maravilloso!
+Dialogue: 0,0:34:38.20,0:34:40.20,Default,,0,0,0,,- Yo soy el capitán.\N- Cállate.
+Dialogue: 0,0:34:40.37,0:34:42.08,Default,,0,0,0,,- Esa es mi mochila.\N- Siéntate.
+Dialogue: 0,0:34:42.24,0:34:43.87,Default,,0,0,0,,Mira, esta es mi nave.
+Dialogue: 0,0:34:44.04,0:34:45.79,Default,,0,0,0,,Y no iré a...
+Dialogue: 0,0:34:46.75,0:34:48.88,Default,,0,0,0,,¿De qué clase de arma hablamos?
+Dialogue: 0,0:34:49.04,0:34:50.29,Default,,0,0,0,,La que matará a Thanos.
+Dialogue: 0,0:34:51.13,0:34:52.63,Default,,0,0,0,,¿No deberíamos tener todos una?
+Dialogue: 0,0:34:52.80,0:34:54.84,Default,,0,0,0,,No. No tienen la fuerza para empuñarla.
+Dialogue: 0,0:34:55.01,0:34:57.34,Default,,0,0,0,,Se les derrumbarían los cuerpos\Ny enloquecerían.
+Dialogue: 0,0:34:57.51,0:34:59.43,Default,,0,0,0,,¿Es raro que tenga más ganas?
+Dialogue: 0,0:34:59.59,0:35:00.76,Default,,0,0,0,,Sí, un poco.
+Dialogue: 0,0:35:00.93,0:35:03.85,Default,,0,0,0,,Si no vamos a Knowhere\Ny Thanos obtiene otra gema...
+Dialogue: 0,0:35:04.02,0:35:05.56,Default,,0,0,0,,será demasiado poderoso\Npara detenerlo.
+Dialogue: 0,0:35:05.73,0:35:07.89,Default,,0,0,0,,- Ya lo es.\N- Ya lo resolví.
+Dialogue: 0,0:35:08.06,0:35:11.23,Default,,0,0,0,,Tenemos dos naves\Ny una gran variedad de tontos.
+Dialogue: 0,0:35:11.40,0:35:14.65,Default,,0,0,0,,Groot y yo iremos con el ángel pirata.
+Dialogue: 0,0:35:14.82,0:35:17.65,Default,,0,0,0,,Y los tontos irán a Knowhere\Na intentar detener a Thanos.
+Dialogue: 0,0:35:17.82,0:35:19.74,Default,,0,0,0,,- ¿Bien? Bien.\N- Genial.
+Dialogue: 0,0:35:19.91,0:35:21.20,Default,,0,0,0,,Para que conste...
+Dialogue: 0,0:35:21.95,0:35:24.45,Default,,0,0,0,,Sé que vas con él\Nporque ahí no está Thanos.
+Dialogue: 0,0:35:24.62,0:35:28.33,Default,,0,0,0,,Sabes, no deberías hablarle así\Na tu capitán, Quill.
+Dialogue: 0,0:35:29.29,0:35:30.63,Default,,0,0,0,,Vamos, Groot.
+Dialogue: 0,0:35:31.17,0:35:33.88,Default,,0,0,0,,Deja ese juego. Te pudrirá el cerebro.
+Dialogue: 0,0:35:37.59,0:35:40.43,Default,,0,0,0,,Me despido\Ny les deseo buena suerte, tontos.
+Dialogue: 0,0:35:40.59,0:35:41.72,Default,,0,0,0,,Adiós.
+Dialogue: 0,0:35:56.48,0:35:57.61,Default,,0,0,0,,¿Vis?
+Dialogue: 0,0:35:58.07,0:35:59.99,Default,,0,0,0,,¿Es la gema otra vez?
+Dialogue: 0,0:36:00.16,0:36:01.78,Default,,0,0,0,,Parece que me hablara.
+Dialogue: 0,0:36:02.41,0:36:04.12,Default,,0,0,0,,¿Qué dice?
+Dialogue: 0,0:36:05.04,0:36:07.37,Default,,0,0,0,,No lo sé, pero algo dice.
+Dialogue: 0,0:36:09.75,0:36:10.83,Default,,0,0,0,,Oye.
+Dialogue: 0,0:36:20.68,0:36:23.18,Default,,0,0,0,,Dime lo que sientes.
+Dialogue: 0,0:36:30.19,0:36:32.90,Default,,0,0,0,,Simplemente te siento.
+Dialogue: 0,0:36:40.65,0:36:41.65,Default,,0,0,0,,ESCOCIA
+Dialogue: 0,0:36:41.82,0:36:43.13,Default,,0,0,0,,Sale uno a las 10:00 a Glasgow...
+Dialogue: 0,0:36:43.16,0:36:45.16,Default,,0,0,0,,que nos daría más tiempo juntos.
+Dialogue: 0,0:36:45.33,0:36:46.79,Default,,0,0,0,,¿Y si pierdo ese tren?
+Dialogue: 0,0:36:46.95,0:36:47.95,Default,,0,0,0,,Hay uno a las 11:00.
+Dialogue: 0,0:36:48.12,0:36:50.54,Default,,0,0,0,,¿Y si pierdo todos los trenes?
+Dialogue: 0,0:36:51.92,0:36:53.63,Default,,0,0,0,,¿Y si esta vez no vuelvo?
+Dialogue: 0,0:36:53.79,0:36:55.13,Default,,0,0,0,,Le prometiste a Stark.
+Dialogue: 0,0:36:55.29,0:36:56.46,Default,,0,0,0,,Preferiría prometértelo a ti.
+Dialogue: 0,0:36:56.63,0:36:58.59,Default,,0,0,0,,Hay gente que me espera también.
+Dialogue: 0,0:36:58.76,0:37:00.09,Default,,0,0,0,,Ambos hicimos promesas.
+Dialogue: 0,0:37:00.26,0:37:01.97,Default,,0,0,0,,No el uno al otro.
+Dialogue: 0,0:37:02.55,0:37:03.55,Default,,0,0,0,,Wanda.
+Dialogue: 0,0:37:04.34,0:37:06.68,Default,,0,0,0,,Por dos años,\Nrobamos estos momentos...
+Dialogue: 0,0:37:06.85,0:37:08.89,Default,,0,0,0,,tratando de ver si podría funcionar...
+Dialogue: 0,0:37:09.06,0:37:10.64,Default,,0,0,0,,No lo sé.
+Dialogue: 0,0:37:10.81,0:37:12.77,Default,,0,0,0,,¿Sabes? Hablaré por mí.
+Dialogue: 0,0:37:13.65,0:37:14.65,Default,,0,0,0,,Creo que...
+Dialogue: 0,0:37:14.81,0:37:15.90,Default,,0,0,0,,- Funciona.\N- Sí.
+Dialogue: 0,0:37:16.06,0:37:17.36,Default,,0,0,0,,Funciona.
+Dialogue: 0,0:37:19.82,0:37:21.07,Default,,0,0,0,,Quédate.
+Dialogue: 0,0:37:21.99,0:37:23.66,Default,,0,0,0,,Quédate conmigo.
+Dialogue: 0,0:37:28.41,0:37:31.66,Default,,0,0,0,,O no. Si me estoy extralimitando...
+Dialogue: 0,0:37:33.87,0:37:37.67,Default,,0,0,0,,NUEVA YORK ATACADA\NNOTICIA DE ÚLTIMA HORA
+Dialogue: 0,0:37:38.71,0:37:40.46,Default,,0,0,0,,¿Qué son?
+Dialogue: 0,0:37:40.80,0:37:43.22,Default,,0,0,0,,Lo que me advertía la gema.
+Dialogue: 0,0:37:43.38,0:37:46.43,Default,,0,0,0,,TONY STARK DESAPARECIDO\NINFORME ESPECIAL
+Dialogue: 0,0:37:53.18,0:37:54.52,Default,,0,0,0,,Tengo que irme.
+Dialogue: 0,0:37:54.69,0:37:55.69,Default,,0,0,0,,No, Visión.
+Dialogue: 0,0:37:56.23,0:38:00.36,Default,,0,0,0,,Visión, de ser verdad,\Nquizá ir no sea la mejor idea.
+Dialogue: 0,0:38:01.40,0:38:02.44,Default,,0,0,0,,Wanda, yo...
+Dialogue: 0,0:38:02.61,0:38:03.61,Default,,0,0,0,,¡Visión!
+Dialogue: 0,0:38:32.85,0:38:35.52,Default,,0,0,0,,La espada,\Nno me permite traspasar sólidos.
+Dialogue: 0,0:38:36.44,0:38:38.40,Default,,0,0,0,,- ¿Es posible?\N- Se supone que no.
+Dialogue: 0,0:38:39.48,0:38:41.19,Default,,0,0,0,,Me fallan los sistemas.
+Dialogue: 0,0:38:42.11,0:38:44.78,Default,,0,0,0,,Creo que deberíamos\Nhabernos quedado en cama.
+Dialogue: 0,0:38:47.32,0:38:48.32,Default,,0,0,0,,¡Vis!
+Dialogue: 0,0:38:57.42,0:39:00.79,Default,,0,0,0,,Cede la gema, y ella vive.
+Dialogue: 0,0:39:38.92,0:39:40.13,Default,,0,0,0,,Sin tocar.
+Dialogue: 0,0:39:55.93,0:39:57.18,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:39:57.35,0:39:59.14,Default,,0,0,0,,Vamos, tienes que levantarte.
+Dialogue: 0,0:39:59.31,0:40:01.52,Default,,0,0,0,,Tienes que levantarte. Vamos. Oye.
+Dialogue: 0,0:40:02.61,0:40:04.02,Default,,0,0,0,,Oye. Debemos irnos.
+Dialogue: 0,0:40:05.94,0:40:08.49,Default,,0,0,0,,Vete, por favor.
+Dialogue: 0,0:40:08.65,0:40:10.45,Default,,0,0,0,,Me pediste que me quede.
+Dialogue: 0,0:40:11.70,0:40:12.87,Default,,0,0,0,,- Me quedo.\N- Por favor.
+Dialogue: 0,0:41:24.06,0:41:25.77,Default,,0,0,0,,- Levántate.\N- No puedo.
+Dialogue: 0,0:41:25.94,0:41:28.65,Default,,0,0,0,,No queremos matarte, pero lo haremos.
+Dialogue: 0,0:41:28.82,0:41:30.99,Default,,0,0,0,,Nunca tendrán otra oportunidad.
+Dialogue: 0,0:41:46.96,0:41:48.50,Default,,0,0,0,,¿Puedes pararte?
+Dialogue: 0,0:41:53.26,0:41:54.68,Default,,0,0,0,,Gracias, Capitán.
+Dialogue: 0,0:41:57.39,0:41:59.01,Default,,0,0,0,,Vamos a subirte al avión.
+Dialogue: 0,0:42:02.98,0:42:06.40,Default,,0,0,0,,Creí que teníamos un trato.
+Dialogue: 0,0:42:06.56,0:42:10.28,Default,,0,0,0,,Quédate cerca, repórtate,\Nno corras riesgos.
+Dialogue: 0,0:42:10.44,0:42:11.78,Default,,0,0,0,,Lo lamento.
+Dialogue: 0,0:42:11.94,0:42:13.74,Default,,0,0,0,,Simplemente queríamos tiempo.
+Dialogue: 0,0:42:16.45,0:42:17.70,Default,,0,0,0,,¿Adónde vamos, Cap.?
+Dialogue: 0,0:42:20.54,0:42:22.04,Default,,0,0,0,,A casa.
+Dialogue: 0,0:42:25.62,0:42:27.67,Default,,0,0,0,,Estaremos a salvo.
+Dialogue: 0,0:42:52.23,0:42:53.28,Default,,0,0,0,,{\i1}Zehoberianos.{\i0}
+Dialogue: 0,0:42:53.44,0:42:55.15,Default,,0,0,0,,¡Madre! ¿Dónde está mi madre?
+Dialogue: 0,0:42:55.32,0:42:56.70,Default,,0,0,0,,{\i1}Elijan un lado o mueran.{\i0}
+Dialogue: 0,0:42:56.86,0:42:58.32,Default,,0,0,0,,¡Madre!
+Dialogue: 0,0:42:58.49,0:43:00.66,Default,,0,0,0,,{\i1}Un lado es una revelación...{\i0}
+Dialogue: 0,0:43:00.83,0:43:03.87,Default,,0,0,0,,{\i1}el otro un honor\Nsólo conocido por pocos.{\i0}
+Dialogue: 0,0:43:04.79,0:43:06.25,Default,,0,0,0,,¿Qué pasa, pequeña?
+Dialogue: 0,0:43:06.87,0:43:10.29,Default,,0,0,0,,Mi madre. ¿Dónde está?
+Dialogue: 0,0:43:15.09,0:43:16.30,Default,,0,0,0,,¿Cómo te llamas?
+Dialogue: 0,0:43:17.63,0:43:19.30,Default,,0,0,0,,Gamora.
+Dialogue: 0,0:43:19.80,0:43:21.93,Default,,0,0,0,,Eres una gran luchadora, Gamora.
+Dialogue: 0,0:43:23.47,0:43:24.47,Default,,0,0,0,,Ven.
+Dialogue: 0,0:43:24.85,0:43:25.85,Default,,0,0,0,,Déjame ayudarte.
+Dialogue: 0,0:43:39.36,0:43:40.49,Default,,0,0,0,,Mira.
+Dialogue: 0,0:43:44.16,0:43:45.83,Default,,0,0,0,,Es bonito, ¿no?
+Dialogue: 0,0:43:46.58,0:43:50.04,Default,,0,0,0,,Perfectamente equilibrado,\Ncómo debería ser todo.
+Dialogue: 0,0:43:50.21,0:43:53.96,Default,,0,0,0,,Demasiado de un lado o del otro...
+Dialogue: 0,0:43:57.97,0:44:00.80,Default,,0,0,0,,Ten. Prueba.
+Dialogue: 0,0:44:04.56,0:44:07.64,Default,,0,0,0,,{\i1}Vayan en paz\Ny reúnanse con su creador.{\i0}
+Dialogue: 0,0:44:12.90,0:44:14.44,Default,,0,0,0,,Concéntrate.
+Dialogue: 0,0:44:17.40,0:44:20.20,Default,,0,0,0,,Ahí está. Entendiste.
+Dialogue: 0,0:44:29.71,0:44:30.79,Default,,0,0,0,,Gamora.
+Dialogue: 0,0:44:31.88,0:44:35.21,Default,,0,0,0,,¿Esas granadas te explotan\Nlas canicas o son las de gas?
+Dialogue: 0,0:44:35.38,0:44:38.13,Default,,0,0,0,,Porque pensaba en colgarme\Nun par en el cinto.
+Dialogue: 0,0:44:38.30,0:44:39.30,Default,,0,0,0,,No quiero sí...
+Dialogue: 0,0:44:39.38,0:44:40.63,Default,,0,0,0,,Te pido un favor.
+Dialogue: 0,0:44:41.55,0:44:42.89,Default,,0,0,0,,Sí, por supuesto.
+Dialogue: 0,0:44:44.43,0:44:47.85,Default,,0,0,0,,De una forma u otra,\Nnuestro camino nos lleva a Thanos.
+Dialogue: 0,0:44:49.60,0:44:51.10,Default,,0,0,0,,Para eso son las granadas.
+Dialogue: 0,0:44:52.65,0:44:54.36,Default,,0,0,0,,Perdona. ¿Cuál es el favor?
+Dialogue: 0,0:44:56.69,0:44:57.69,Default,,0,0,0,,Si algo va mal...
+Dialogue: 0,0:44:59.28,0:45:01.45,Default,,0,0,0,,Si me atrapa Thanos...
+Dialogue: 0,0:45:05.99,0:45:07.95,Default,,0,0,0,,quiero que me prometas...
+Dialogue: 0,0:45:09.00,0:45:10.12,Default,,0,0,0,,que me matarás.
+Dialogue: 0,0:45:10.96,0:45:11.96,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:45:15.04,0:45:17.42,Default,,0,0,0,,Sé algo que él no sabe.
+Dialogue: 0,0:45:19.96,0:45:23.64,Default,,0,0,0,,Y si se entera,\Ntodo el universo podría estar en peligro.
+Dialogue: 0,0:45:24.30,0:45:25.39,Default,,0,0,0,,¿Qué sabes?
+Dialogue: 0,0:45:25.55,0:45:27.60,Default,,0,0,0,,Si te lo digo, también lo sabrías.
+Dialogue: 0,0:45:30.64,0:45:32.48,Default,,0,0,0,,Si es tan importante...
+Dialogue: 0,0:45:32.64,0:45:33.64,Default,,0,0,0,,¿no debería?
+Dialogue: 0,0:45:33.77,0:45:34.98,Default,,0,0,0,,Sólo si quieres morir.
+Dialogue: 0,0:45:35.15,0:45:36.73,Default,,0,0,0,,¿Por qué tiene que morir alguien?
+Dialogue: 0,0:45:38.15,0:45:39.15,Default,,0,0,0,,Simplemente...
+Dialogue: 0,0:45:41.57,0:45:44.57,Default,,0,0,0,,Confía en mí.\NY eventualmente mátame.
+Dialogue: 0,0:45:44.74,0:45:47.08,Default,,0,0,0,,Me refiero a que me gustaría.
+Dialogue: 0,0:45:47.24,0:45:49.08,Default,,0,0,0,,En serio. Pero tú...
+Dialogue: 0,0:45:49.24,0:45:50.45,Default,,0,0,0,,Júramelo.
+Dialogue: 0,0:45:53.96,0:45:56.25,Default,,0,0,0,,Júramelo por tu madre.
+Dialogue: 0,0:46:03.43,0:46:04.43,Default,,0,0,0,,Bueno.
+Dialogue: 0,0:46:10.35,0:46:11.47,Default,,0,0,0,,Bueno.
+Dialogue: 0,0:46:28.16,0:46:30.45,Default,,0,0,0,,Amigo. ¿Cuánto estuviste ahí parado?
+Dialogue: 0,0:46:30.62,0:46:31.62,Default,,0,0,0,,Una hora.
+Dialogue: 0,0:46:32.00,0:46:33.25,Default,,0,0,0,,¿Una hora?
+Dialogue: 0,0:46:33.79,0:46:35.08,Default,,0,0,0,,¿Hablas en serio?
+Dialogue: 0,0:46:35.25,0:46:40.17,Default,,0,0,0,,Dominé la habilidad\Nde estar tan increíblemente quieto...
+Dialogue: 0,0:46:41.38,0:46:43.97,Default,,0,0,0,,que me vuelvo invisible a la vista.
+Dialogue: 0,0:46:44.59,0:46:45.59,Default,,0,0,0,,Observen.
+Dialogue: 0,0:46:49.51,0:46:51.10,Default,,0,0,0,,Comes un zarg-nut.
+Dialogue: 0,0:46:51.56,0:46:52.97,Default,,0,0,0,,Pero mi movimiento...
+Dialogue: 0,0:46:53.81,0:46:55.44,Default,,0,0,0,,fue tan lento...
+Dialogue: 0,0:46:56.27,0:46:58.10,Default,,0,0,0,,que es imperceptible.
+Dialogue: 0,0:46:58.27,0:46:59.27,Default,,0,0,0,,No.
+Dialogue: 0,0:47:00.69,0:47:01.69,Default,,0,0,0,,Soy invisible.
+Dialogue: 0,0:47:01.86,0:47:03.03,Default,,0,0,0,,Hola, Drax.
+Dialogue: 0,0:47:05.74,0:47:06.74,Default,,0,0,0,,Maldita sea.
+Dialogue: 0,0:47:26.63,0:47:28.39,Default,,0,0,0,,Este lugar parece desierto.
+Dialogue: 0,0:47:28.55,0:47:31.30,Default,,0,0,0,,Detecto movimiento\Nen el tercer cuadrante.
+Dialogue: 0,0:47:31.47,0:47:33.39,Default,,0,0,0,,Sí, yo también.
+Dialogue: 0,0:47:34.81,0:47:36.27,Default,,0,0,0,,Aterricemos aquí.
+Dialogue: 0,0:47:48.03,0:47:49.57,Default,,0,0,0,,No la tengo.
+Dialogue: 0,0:47:51.70,0:47:54.91,Default,,0,0,0,,Toda la galaxia sabe\Nque venderías a tu hermano...
+Dialogue: 0,0:47:55.08,0:47:56.71,Default,,0,0,0,,sí pensaras que sumaría una baratija...
+Dialogue: 0,0:47:56.87,0:47:58.79,Default,,0,0,0,,a tu patética colección.
+Dialogue: 0,0:48:06.59,0:48:09.01,Default,,0,0,0,,Sé que tienes\Nla Gema de la Realidad, Tivan.
+Dialogue: 0,0:48:09.97,0:48:13.43,Default,,0,0,0,,Si me la das,\Nte ahorrarás mucho sufrimiento.
+Dialogue: 0,0:48:16.68,0:48:18.27,Default,,0,0,0,,Ya te dije.
+Dialogue: 0,0:48:19.06,0:48:20.06,Default,,0,0,0,,La vendí.
+Dialogue: 0,0:48:22.94,0:48:24.94,Default,,0,0,0,,¿Por qué iba a mentir?
+Dialogue: 0,0:48:25.11,0:48:27.32,Default,,0,0,0,,Supongo que es como respirar para ti.
+Dialogue: 0,0:48:28.15,0:48:29.86,Default,,0,0,0,,Es suicida.
+Dialogue: 0,0:48:30.03,0:48:31.53,Default,,0,0,0,,Lo entiendes.
+Dialogue: 0,0:48:32.49,0:48:35.49,Default,,0,0,0,,Ni tú entregarías algo tan preciado.
+Dialogue: 0,0:48:35.66,0:48:37.04,Default,,0,0,0,,No sabía lo que era.
+Dialogue: 0,0:48:37.41,0:48:40.00,Default,,0,0,0,,Entonces eres más tonto\Nde lo que pensaba.
+Dialogue: 0,0:48:40.37,0:48:41.37,Default,,0,0,0,,Es él.
+Dialogue: 0,0:48:41.54,0:48:43.00,Default,,0,0,0,,Última chance, embustero.
+Dialogue: 0,0:48:44.54,0:48:46.50,Default,,0,0,0,,¿Dónde está la gema?
+Dialogue: 0,0:48:46.67,0:48:47.67,Default,,0,0,0,,Hoy...
+Dialogue: 0,0:48:48.21,0:48:49.21,Default,,0,0,0,,Drax.
+Dialogue: 0,0:48:49.26,0:48:51.22,Default,,0,0,0,,Paga las muertes\Nde mi esposa y mi hija.
+Dialogue: 0,0:48:51.38,0:48:52.38,Default,,0,0,0,,Espera, Drax.
+Dialogue: 0,0:48:53.85,0:48:55.22,Default,,0,0,0,,Aún no.
+Dialogue: 0,0:48:55.39,0:48:56.60,Default,,0,0,0,,Drax.
+Dialogue: 0,0:49:00.52,0:49:02.77,Default,,0,0,0,,Drax. Hazme caso.
+Dialogue: 0,0:49:02.94,0:49:05.19,Default,,0,0,0,,Todavía no tiene la gema.
+Dialogue: 0,0:49:05.36,0:49:06.98,Default,,0,0,0,,Con ella podemos detenerlo.
+Dialogue: 0,0:49:07.82,0:49:10.99,Default,,0,0,0,,Primero debemos tener la gema. Sí.
+Dialogue: 0,0:49:11.15,0:49:12.24,Default,,0,0,0,,No.
+Dialogue: 0,0:49:12.41,0:49:15.45,Default,,0,0,0,,No. Por Ovette, por Camaria.
+Dialogue: 0,0:49:15.91,0:49:17.20,Default,,0,0,0,,Duerme.
+Dialogue: 0,0:49:29.13,0:49:30.13,Default,,0,0,0,,Bueno.
+Dialogue: 0,0:49:30.30,0:49:34.39,Default,,0,0,0,,Gamora, Mantis, vayan por la derecha.
+Dialogue: 0,0:49:35.76,0:49:37.01,Default,,0,0,0,,La otra derecha.
+Dialogue: 0,0:50:01.33,0:50:03.04,Default,,0,0,0,,¿Por qué?
+Dialogue: 0,0:50:13.05,0:50:17.10,Default,,0,0,0,,¿Por qué tú, hija?
+Dialogue: 0,0:50:35.74,0:50:36.74,Default,,0,0,0,,Eso fue rápido.
+Dialogue: 0,0:50:42.54,0:50:47.42,Default,,0,0,0,,¡Magnífico!
+Dialogue: 0,0:50:49.75,0:50:52.46,Default,,0,0,0,,{\i1}¿Es tristeza lo que detecto en ti, hija?{\i0}
+Dialogue: 0,0:50:55.59,0:50:58.09,Default,,0,0,0,,{\i1}En mi corazón,\Nsé que todavía te importo.{\i0}
+Dialogue: 0,0:51:05.48,0:51:08.73,Default,,0,0,0,,{\i1}Pero uno nunca está seguro.{\i0}
+Dialogue: 0,0:51:17.95,0:51:20.78,Default,,0,0,0,,{\i1}A menudo,\Nla realidad es decepcionante.{\i0}
+Dialogue: 0,0:51:23.95,0:51:26.21,Default,,0,0,0,,Es decir, lo era.
+Dialogue: 0,0:51:28.25,0:51:29.63,Default,,0,0,0,,Ahora...
+Dialogue: 0,0:51:31.63,0:51:34.42,Default,,0,0,0,,la realidad puede ser como yo quiera.
+Dialogue: 0,0:51:35.97,0:51:37.43,Default,,0,0,0,,Sabías que vendría.
+Dialogue: 0,0:51:37.59,0:51:39.22,Default,,0,0,0,,Contaba con eso.
+Dialogue: 0,0:51:40.01,0:51:42.93,Default,,0,0,0,,Tenemos algo que discutir, pequeña.
+Dialogue: 0,0:51:47.56,0:51:49.27,Default,,0,0,0,,¡Thanos!
+Dialogue: 0,0:51:56.86,0:51:57.90,Default,,0,0,0,,¡No!
+Dialogue: 0,0:52:02.28,0:52:03.87,Default,,0,0,0,,Déjala, Grimace.
+Dialogue: 0,0:52:04.49,0:52:05.49,Default,,0,0,0,,Peter.
+Dialogue: 0,0:52:06.79,0:52:08.04,Default,,0,0,0,,Te dije a la derecha.
+Dialogue: 0,0:52:08.62,0:52:10.00,Default,,0,0,0,,¿Ahora? ¿En serio?
+Dialogue: 0,0:52:10.17,0:52:11.58,Default,,0,0,0,,¡Déjala!
+Dialogue: 0,0:52:12.63,0:52:13.71,Default,,0,0,0,,El novio.
+Dialogue: 0,0:52:13.88,0:52:14.88,Default,,0,0,0,,No.
+Dialogue: 0,0:52:15.05,0:52:18.76,Default,,0,0,0,,Me veo más como un amigo\Ncon derechos, que mata titanes.
+Dialogue: 0,0:52:18.93,0:52:20.97,Default,,0,0,0,,- Suéltala.\N- Peter.
+Dialogue: 0,0:52:21.14,0:52:25.85,Default,,0,0,0,,Te volaré de la cara ese escroto\Nque tienes por mentón.
+Dialogue: 0,0:52:26.43,0:52:27.93,Default,,0,0,0,,A él no.
+Dialogue: 0,0:52:38.40,0:52:42.12,Default,,0,0,0,,Lo prometiste.
+Dialogue: 0,0:52:46.29,0:52:47.50,Default,,0,0,0,,Ay, hija.
+Dialogue: 0,0:52:47.95,0:52:50.46,Default,,0,0,0,,Esperas demasiado de él.
+Dialogue: 0,0:52:54.04,0:52:55.63,Default,,0,0,0,,Te lo pidió, ¿no?
+Dialogue: 0,0:52:59.59,0:53:00.59,Default,,0,0,0,,Hazlo.
+Dialogue: 0,0:53:06.93,0:53:08.35,Default,,0,0,0,,¡Hazlo!
+Dialogue: 0,0:53:15.11,0:53:16.52,Default,,0,0,0,,Por la derecha te dije.
+Dialogue: 0,0:53:18.49,0:53:21.45,Default,,0,0,0,,Te amo más que a nada.
+Dialogue: 0,0:53:24.57,0:53:26.08,Default,,0,0,0,,Yo también te amo.
+Dialogue: 0,0:53:40.38,0:53:41.42,Default,,0,0,0,,Me agrada.
+Dialogue: 0,0:54:12.25,0:54:14.04,Default,,0,0,0,,{\i1}¿No hay noticias de Visión?{\i0}
+Dialogue: 0,0:54:14.21,0:54:16.84,Default,,0,0,0,,Los satélites lo perdieron en Edimburgo.
+Dialogue: 0,0:54:17.46,0:54:20.38,Default,,0,0,0,,{\i1}En un Quinjet robado por cuatro\Nde los criminales más buscados.{\i0}
+Dialogue: 0,0:54:20.84,0:54:24.01,Default,,0,0,0,,Sabe que son criminales\Nsólo porque quiso llamarlos así.
+Dialogue: 0,0:54:24.18,0:54:25.30,Default,,0,0,0,,{\i1}Dios mío, Rhodes.{\i0}
+Dialogue: 0,0:54:25.47,0:54:28.68,Default,,0,0,0,,{\i1}Su talento para las pavadas rivaliza\Ncon el mío.{\i0}
+Dialogue: 0,0:54:28.85,0:54:31.43,Default,,0,0,0,,Si no fuera por esos Acuerdos,\NVisión estaría aquí.
+Dialogue: 0,0:54:32.18,0:54:35.40,Default,,0,0,0,,{\i1}Recuerdo que firmó esos papeles,\Ncoronel.{\i0}
+Dialogue: 0,0:54:35.90,0:54:36.90,Default,,0,0,0,,Correcto.
+Dialogue: 0,0:54:38.90,0:54:40.73,Default,,0,0,0,,Y pagué por eso, estoy seguro.
+Dialogue: 0,0:54:40.90,0:54:42.11,Default,,0,0,0,,{\i1}¿Se arrepiente?{\i0}
+Dialogue: 0,0:54:42.28,0:54:43.99,Default,,0,0,0,,Ya no.
+Dialogue: 0,0:54:49.83,0:54:51.41,Default,,0,0,0,,Señor secretario.
+Dialogue: 0,0:54:55.96,0:54:57.63,Default,,0,0,0,,{\i1}Son audaces.{\i0}
+Dialogue: 0,0:54:58.29,0:54:59.92,Default,,0,0,0,,{\i1}Se los reconozco.{\i0}
+Dialogue: 0,0:55:00.09,0:55:01.84,Default,,0,0,0,,Le sería útil un poco de eso.
+Dialogue: 0,0:55:02.67,0:55:04.92,Default,,0,0,0,,{\i1}El mundo está en peligro.{\i0}
+Dialogue: 0,0:55:05.72,0:55:08.80,Default,,0,0,0,,{\i1}¿Creen que está todo perdonado?{\i0}
+Dialogue: 0,0:55:09.39,0:55:13.48,Default,,0,0,0,,No busco perdón.\NYa no pido más permiso.
+Dialogue: 0,0:55:15.44,0:55:17.48,Default,,0,0,0,,La Tierra perdió a su mejor defensor.
+Dialogue: 0,0:55:17.98,0:55:19.19,Default,,0,0,0,,Vinimos a luchar.
+Dialogue: 0,0:55:20.77,0:55:22.69,Default,,0,0,0,,Y si quiere ser un obstáculo...
+Dialogue: 0,0:55:23.69,0:55:25.61,Default,,0,0,0,,lucharemos con usted también.
+Dialogue: 0,0:55:28.87,0:55:29.87,Default,,0,0,0,,{\i1}Arréstelos.{\i0}
+Dialogue: 0,0:55:30.99,0:55:32.58,Default,,0,0,0,,Estoy en eso.
+Dialogue: 0,0:55:37.67,0:55:39.04,Default,,0,0,0,,Me gané un consejo de guerra.
+Dialogue: 0,0:55:41.50,0:55:42.50,Default,,0,0,0,,Es genial verte, Cap.
+Dialogue: 0,0:55:43.63,0:55:44.92,Default,,0,0,0,,Igualmente, Rhodey.
+Dialogue: 0,0:55:45.47,0:55:46.47,Default,,0,0,0,,Hola.
+Dialogue: 0,0:55:48.13,0:55:50.10,Default,,0,0,0,,Vaya. Chicos...
+Dialogue: 0,0:55:50.93,0:55:52.93,Default,,0,0,0,,se ven muy mal.
+Dialogue: 0,0:55:53.10,0:55:54.68,Default,,0,0,0,,Debieron ser dos años duros.
+Dialogue: 0,0:55:54.85,0:55:57.52,Default,,0,0,0,,Sí, los hoteles no eran cinco estrellas.
+Dialogue: 0,0:55:57.98,0:56:00.15,Default,,0,0,0,,Creo que lucen muy bien.
+Dialogue: 0,0:56:07.24,0:56:09.28,Default,,0,0,0,,Sí, he vuelto.
+Dialogue: 0,0:56:10.95,0:56:11.95,Default,,0,0,0,,Hola, Bruce.
+Dialogue: 0,0:56:17.50,0:56:18.50,Default,,0,0,0,,Nat.
+Dialogue: 0,0:56:21.92,0:56:23.46,Default,,0,0,0,,Esto es incómodo.
+Dialogue: 0,0:56:25.96,0:56:27.51,Default,,0,0,0,,Asumimos que volverán, ¿no?
+Dialogue: 0,0:56:27.67,0:56:28.84,Default,,0,0,0,,Y que pueden hallarnos.
+Dialogue: 0,0:56:29.01,0:56:31.22,Default,,0,0,0,,Precisamos toda la ayuda posible.\N¿Dónde está Clint?
+Dialogue: 0,0:56:31.51,0:56:34.60,Default,,0,0,0,,Luego de los Acuerdos,\Nél y Scott hicieron un trato.
+Dialogue: 0,0:56:34.76,0:56:36.27,Default,,0,0,0,,Tienen arresto domiciliario.
+Dialogue: 0,0:56:36.43,0:56:37.73,Default,,0,0,0,,- ¿Quién es Scott?\N- Ant-Man.
+Dialogue: 0,0:56:37.89,0:56:39.35,Default,,0,0,0,,¿Hay un Ant-Man y un Hombre Araña?
+Dialogue: 0,0:56:40.27,0:56:41.27,Default,,0,0,0,,Bueno, miren.
+Dialogue: 0,0:56:41.40,0:56:44.23,Default,,0,0,0,,Thanos tiene el mayor ejército\Ndel universo...
+Dialogue: 0,0:56:44.40,0:56:47.82,Default,,0,0,0,,y no se detendrá hasta conseguir...
+Dialogue: 0,0:56:49.82,0:56:50.82,Default,,0,0,0,,la gema de Visión.
+Dialogue: 0,0:56:50.86,0:56:52.12,Default,,0,0,0,,Debemos protegerla.
+Dialogue: 0,0:56:52.28,0:56:53.91,Default,,0,0,0,,No, debemos destruirla.
+Dialogue: 0,0:56:56.08,0:56:58.46,Default,,0,0,0,,Pensé mucho en este ente\Nen mi cabeza.
+Dialogue: 0,0:56:58.62,0:57:00.12,Default,,0,0,0,,Sobre su naturaleza.
+Dialogue: 0,0:57:00.67,0:57:02.83,Default,,0,0,0,,Pero también sobre su composición.
+Dialogue: 0,0:57:03.00,0:57:06.92,Default,,0,0,0,,Creo que si la exponemos a una fuente\Nde energía poderosa...
+Dialogue: 0,0:57:07.09,0:57:10.93,Default,,0,0,0,,algo que tenga una firma\Nmuy parecida a la suya, quizá...
+Dialogue: 0,0:57:12.51,0:57:14.68,Default,,0,0,0,,se rompería su integridad molecular.
+Dialogue: 0,0:57:15.22,0:57:17.47,Default,,0,0,0,,Sí, y tú con ella.
+Dialogue: 0,0:57:17.93,0:57:19.39,Default,,0,0,0,,No es una opción.
+Dialogue: 0,0:57:19.56,0:57:22.40,Default,,0,0,0,,Sólo eliminándola\Npodemos asegurarnos
+Dialogue: 0,0:57:22.48,0:57:23.65,Default,,0,0,0,,que Thanos no la consiga.
+Dialogue: 0,0:57:24.19,0:57:26.40,Default,,0,0,0,,Es un precio elevado a pagar.
+Dialogue: 0,0:57:30.90,0:57:33.28,Default,,0,0,0,,Sólo tú tienes el poder de pagarlo.
+Dialogue: 0,0:57:37.54,0:57:39.58,Default,,0,0,0,,Thanos amenaza a medio universo.
+Dialogue: 0,0:57:39.75,0:57:42.29,Default,,0,0,0,,Una vida\Nno puede obstaculizar su derrota.
+Dialogue: 0,0:57:42.46,0:57:43.88,Default,,0,0,0,,Pero debería.
+Dialogue: 0,0:57:46.38,0:57:47.75,Default,,0,0,0,,No intercambiamos vidas.
+Dialogue: 0,0:57:47.92,0:57:49.88,Default,,0,0,0,,Hace 70 años, diste tu vida...
+Dialogue: 0,0:57:50.05,0:57:51.84,Default,,0,0,0,,para salvar ¿a cuántos millones?
+Dialogue: 0,0:57:52.01,0:57:54.05,Default,,0,0,0,,Dime, ¿cuál es la diferencia?
+Dialogue: 0,0:57:54.22,0:57:56.51,Default,,0,0,0,,Porque podrías tener una alternativa.
+Dialogue: 0,0:57:57.81,0:58:01.60,Default,,0,0,0,,Tu mente está hecha\Nde un complejo entramado de capas.
+Dialogue: 0,0:58:01.77,0:58:05.36,Default,,0,0,0,,Jarvis, Ultrón, Tony, yo, la gema.
+Dialogue: 0,0:58:05.52,0:58:08.86,Default,,0,0,0,,Todas mezcladas,\Ncada una aprendiendo de las otras.
+Dialogue: 0,0:58:09.23,0:58:10.99,Default,,0,0,0,,¿Dices que él es más que la gema?
+Dialogue: 0,0:58:11.15,0:58:14.24,Default,,0,0,0,,Digo que si sacamos la gema...
+Dialogue: 0,0:58:14.41,0:58:17.37,Default,,0,0,0,,quedaría mucho de Visión.\NQuizá las mejores partes.
+Dialogue: 0,0:58:17.70,0:58:19.04,Default,,0,0,0,,¿Podemos hacerlo?
+Dialogue: 0,0:58:19.74,0:58:20.79,Default,,0,0,0,,Yo no, aquí no.
+Dialogue: 0,0:58:21.79,0:58:24.58,Default,,0,0,0,,Encuentra rápido\Na la persona y el lugar.
+Dialogue: 0,0:58:24.75,0:58:27.42,Default,,0,0,0,,Ross no dejará\Nque vuelvan a sus cuartos.
+Dialogue: 0,0:58:30.46,0:58:32.05,Default,,0,0,0,,Conozco un lugar.
+Dialogue: 0,0:58:46.94,0:58:49.32,Default,,0,0,0,,Alertamos a la Guardia Real\Ny a las Dora Milaje.
+Dialogue: 0,0:58:49.48,0:58:51.03,Default,,0,0,0,,¿Y a la Tribu Fronteriza?
+Dialogue: 0,0:58:51.48,0:58:53.07,Default,,0,0,0,,A los que quedan.
+Dialogue: 0,0:58:53.36,0:58:55.49,Default,,0,0,0,,Avisa también a los Jabari.
+Dialogue: 0,0:58:55.66,0:58:57.74,Default,,0,0,0,,M'Baku disfruta de una buena pelea.
+Dialogue: 0,0:59:00.04,0:59:01.75,Default,,0,0,0,,¿Y qué hay de este?
+Dialogue: 0,0:59:02.37,0:59:04.50,Default,,0,0,0,,Puede estar harto de la guerra.
+Dialogue: 0,0:59:04.83,0:59:07.88,Default,,0,0,0,,Pero el Lobo Blanco\Nya descansó lo suficiente.
+Dialogue: 0,0:59:30.52,0:59:32.11,Default,,0,0,0,,¿Dónde es el combate?
+Dialogue: 0,0:59:33.03,0:59:34.44,Default,,0,0,0,,Viene en camino.
+Dialogue: 0,0:59:52.84,0:59:55.42,Default,,0,0,0,,En todo el tiempo que serví a Thanos...
+Dialogue: 0,0:59:57.30,0:59:59.30,Default,,0,0,0,,nunca le fallé.
+Dialogue: 0,1:00:04.35,1:00:07.48,Default,,0,0,0,,Si yo llegara\Na nuestro encuentro en Titán...
+Dialogue: 0,1:00:07.64,1:00:11.48,Default,,0,0,0,,con la Gema del Tiempo aún unida\Na tu fastidioso cuerpo...
+Dialogue: 0,1:00:11.65,1:00:14.23,Default,,0,0,0,,me juzgarían.
+Dialogue: 0,1:00:22.83,1:00:24.37,Default,,0,0,0,,Dame...
+Dialogue: 0,1:00:28.37,1:00:29.37,Default,,0,0,0,,la gema.
+Dialogue: 0,1:00:41.80,1:00:44.22,Default,,0,0,0,,Eres una indumentaria muy leal, ¿no?
+Dialogue: 0,1:00:44.39,1:00:46.39,Default,,0,0,0,,Sí, hablando de lealtad...
+Dialogue: 0,1:00:46.98,1:00:47.98,Default,,0,0,0,,¿Qué diab...?
+Dialogue: 0,1:00:48.14,1:00:49.89,Default,,0,0,0,,- Sé qué dirá.\N- No deberías estar aquí.
+Dialogue: 0,1:00:50.06,1:00:51.25,Default,,0,0,0,,- Iba a irme.\N- No quiero oírlo.
+Dialogue: 0,1:00:51.27,1:00:52.83,Default,,0,0,0,,Era un largo trecho y pensé en usted...
+Dialogue: 0,1:00:52.98,1:00:54.83,Default,,0,0,0,,- Y lo oiré.\N- Atascado a un lado de la nave.
+Dialogue: 0,1:00:54.86,1:00:56.90,Default,,0,0,0,,Y este traje es muy intuitivo.
+Dialogue: 0,1:00:57.07,1:00:58.07,Default,,0,0,0,,Maldita sea.
+Dialogue: 0,1:00:58.24,1:01:01.03,Default,,0,0,0,,En todo caso,\Nes su culpa que yo esté aquí.
+Dialogue: 0,1:01:01.20,1:01:02.53,Default,,0,0,0,,- ¿Qué dijiste?\N- Retiro lo dicho.
+Dialogue: 0,1:01:02.70,1:01:03.99,Default,,0,0,0,,Y ahora estoy en el espacio.
+Dialogue: 0,1:01:04.16,1:01:06.58,Default,,0,0,0,,Sí, justo donde\Nno quería que estuvieras.
+Dialogue: 0,1:01:06.75,1:01:08.83,Default,,0,0,0,,No es Coney Island ni una excursión.
+Dialogue: 0,1:01:09.00,1:01:11.04,Default,,0,0,0,,Es un pasaje de ida. ¿Me escuchas?
+Dialogue: 0,1:01:11.21,1:01:12.88,Default,,0,0,0,,- No finjas que lo analizaste.\N- Lo hice.
+Dialogue: 0,1:01:13.04,1:01:14.67,Default,,0,0,0,,No pudiste analizarlo.
+Dialogue: 0,1:01:14.84,1:01:16.48,Default,,0,0,0,,No puedo ser\Nel buen vecino Hombre Araña...
+Dialogue: 0,1:01:16.50,1:01:18.09,Default,,0,0,0,,si no hay vecindario.
+Dialogue: 0,1:01:20.26,1:01:22.80,Default,,0,0,0,,No tiene sentido,\Npero sabe de lo que hablo.
+Dialogue: 0,1:01:25.68,1:01:27.81,Default,,0,0,0,,Vamos. Tenemos un problema.
+Dialogue: 0,1:01:28.85,1:01:30.81,Default,,0,0,0,,¿Lo ves? Está en apuros.\N¿Cuál es tu plan?
+Dialogue: 0,1:01:30.98,1:01:32.15,Default,,0,0,0,,Vamos.
+Dialogue: 0,1:01:32.81,1:01:33.81,Default,,0,0,0,,Bueno...
+Dialogue: 0,1:01:34.52,1:01:37.73,Default,,0,0,0,,{\i1}¿Vio esa película vieja,\NEl regreso?{\i0}
+Dialogue: 0,1:01:41.45,1:01:43.53,Default,,0,0,0,,Son dolorosas, ¿no?
+Dialogue: 0,1:01:44.32,1:01:47.29,Default,,0,0,0,,Fueron designadas originalmente\Npara microcirugía.
+Dialogue: 0,1:01:47.95,1:01:50.04,Default,,0,0,0,,Cada una de ellas...
+Dialogue: 0,1:01:55.13,1:01:57.34,Default,,0,0,0,,podría matar a tu amigo al instante.
+Dialogue: 0,1:01:57.92,1:01:59.55,Default,,0,0,0,,{\i1}No es mi amigo, en realidad.{\i0}
+Dialogue: 0,1:01:59.71,1:02:02.38,Default,,0,0,0,,{\i1}Salvar su vida es cortesía profesional.{\i0}
+Dialogue: 0,1:02:04.18,1:02:05.93,Default,,0,0,0,,No salvaste nada.
+Dialogue: 0,1:02:06.81,1:02:10.10,Default,,0,0,0,,Tus poderes son intrascendentes\Ncomparados al mío.
+Dialogue: 0,1:02:10.52,1:02:12.14,Default,,0,0,0,,Pero el chico vio más filmes.
+Dialogue: 0,1:02:26.32,1:02:28.49,Default,,0,0,0,,¡Sí! Espera. ¿Qué son?
+Dialogue: 0,1:02:44.13,1:02:45.84,Default,,0,0,0,,Hola, no nos presentaron.
+Dialogue: 0,1:02:47.14,1:02:48.22,Default,,0,0,0,,Genial.
+Dialogue: 0,1:02:50.18,1:02:51.64,Default,,0,0,0,,Debemos girar la nave.
+Dialogue: 0,1:02:51.81,1:02:53.85,Default,,0,0,0,,Sí, ahora quiere huir. Gran plan.
+Dialogue: 0,1:02:54.02,1:02:55.40,Default,,0,0,0,,No, quiero proteger la gema.
+Dialogue: 0,1:02:55.56,1:02:58.36,Default,,0,0,0,,Y yo quiero que me agradezcas.\NVamos. Te escucho.
+Dialogue: 0,1:02:58.52,1:03:01.23,Default,,0,0,0,,¿Por qué?\N¿Por casi tirarme al espacio?
+Dialogue: 0,1:03:01.40,1:03:03.65,Default,,0,0,0,,¿Quién te salvó el mágico trasero? Yo.
+Dialogue: 0,1:03:03.82,1:03:06.07,Default,,0,0,0,,No sé cómo te cabe\Nla cabeza en ese casco.
+Dialogue: 0,1:03:06.24,1:03:08.49,Default,,0,0,0,,Admítelo, debiste escabullirte\Ncuando te dije.
+Dialogue: 0,1:03:08.66,1:03:10.16,Default,,0,0,0,,Traté de que te fueras. Te negaste.
+Dialogue: 0,1:03:10.33,1:03:12.25,Default,,0,0,0,,No trabajo para ti\Ncomo los que te rodean.
+Dialogue: 0,1:03:12.41,1:03:15.42,Default,,0,0,0,,Y gracias a eso,\Nestamos en una dona voladora...
+Dialogue: 0,1:03:15.58,1:03:17.25,Default,,0,0,0,,muy lejos de la Tierra, sin respaldo.
+Dialogue: 0,1:03:17.42,1:03:19.34,Default,,0,0,0,,- Yo soy el respaldo.\N- No, eres un polizón.
+Dialogue: 0,1:03:19.50,1:03:20.50,Default,,0,0,0,,Hablamos los adultos.
+Dialogue: 0,1:03:20.67,1:03:23.26,Default,,0,0,0,,Lo siento, su relación me confunde.
+Dialogue: 0,1:03:23.42,1:03:25.05,Default,,0,0,0,,¿Qué es? ¿Tu pupilo?
+Dialogue: 0,1:03:25.22,1:03:26.22,Default,,0,0,0,,No.
+Dialogue: 0,1:03:26.72,1:03:28.60,Default,,0,0,0,,- Soy Peter.\N- Doctor Strange.
+Dialogue: 0,1:03:28.76,1:03:30.01,Default,,0,0,0,,Usas tu nombre ficticio.
+Dialogue: 0,1:03:31.43,1:03:32.64,Default,,0,0,0,,Soy el Hombre Araña.
+Dialogue: 0,1:03:33.60,1:03:36.19,Default,,0,0,0,,La nave corrige su curso.\NEstá en piloto automático.
+Dialogue: 0,1:03:36.35,1:03:38.06,Default,,0,0,0,,¿Podemos controlarla?
+Dialogue: 0,1:03:38.23,1:03:40.15,Default,,0,0,0,,¿Qué nos lleve a casa?
+Dialogue: 0,1:03:43.15,1:03:44.15,Default,,0,0,0,,- ¿Stark?\N- Sí.
+Dialogue: 0,1:03:44.32,1:03:45.57,Default,,0,0,0,,¿Puedes llevarnos a casa?
+Dialogue: 0,1:03:45.74,1:03:46.99,Default,,0,0,0,,Sí, te escuché.
+Dialogue: 0,1:03:48.28,1:03:50.74,Default,,0,0,0,,No estoy seguro que debamos.
+Dialogue: 0,1:03:51.41,1:03:55.54,Default,,0,0,0,,Bajo ninguna circunstancia podemos\Ndarle la Gema del Tiempo a Thanos.
+Dialogue: 0,1:03:55.71,1:03:57.96,Default,,0,0,0,,No entiendes lo que está en juego.
+Dialogue: 0,1:03:58.12,1:04:00.46,Default,,0,0,0,,¿Qué? No. Tú no entiendes...
+Dialogue: 0,1:04:00.63,1:04:03.38,Default,,0,0,0,,que tuve a Thanos en la cabeza\Npor seis años.
+Dialogue: 0,1:04:03.55,1:04:06.76,Default,,0,0,0,,Desde que mandó un ejército\Na Nueva York y ahora regresó.
+Dialogue: 0,1:04:06.93,1:04:08.84,Default,,0,0,0,,Y no sé qué hacer.
+Dialogue: 0,1:04:09.01,1:04:12.06,Default,,0,0,0,,Si es mejor pelear en nuestro territorio\No en el de él...
+Dialogue: 0,1:04:12.22,1:04:15.85,Default,,0,0,0,,pero viste lo que hicieron,\Nlo que pueden hacer.
+Dialogue: 0,1:04:16.02,1:04:18.23,Default,,0,0,0,,Al menos, no lo espera en su territorio.
+Dialogue: 0,1:04:18.40,1:04:21.15,Default,,0,0,0,,Digo que llevemos la pelea a él.
+Dialogue: 0,1:04:21.31,1:04:22.32,Default,,0,0,0,,Doctor.
+Dialogue: 0,1:04:24.03,1:04:25.69,Default,,0,0,0,,¿Estás de acuerdo?
+Dialogue: 0,1:04:28.15,1:04:30.74,Default,,0,0,0,,Está bien, Stark. Vamos a él.
+Dialogue: 0,1:04:31.83,1:04:33.87,Default,,0,0,0,,Pero tienes que entender...
+Dialogue: 0,1:04:34.04,1:04:38.25,Default,,0,0,0,,que entre salvarte a ti, al chico\No a la Gema del Tiempo...
+Dialogue: 0,1:04:38.42,1:04:41.25,Default,,0,0,0,,no voy a dudar en dejarlos morir.
+Dialogue: 0,1:04:42.09,1:04:45.76,Default,,0,0,0,,No puedo,\Nporque el universo depende de eso.
+Dialogue: 0,1:04:46.34,1:04:49.22,Default,,0,0,0,,Excelente. Bien,\Nun modelo de conducta.
+Dialogue: 0,1:04:50.51,1:04:52.01,Default,,0,0,0,,Estamos de acuerdo.
+Dialogue: 0,1:04:53.14,1:04:54.64,Default,,0,0,0,,Bueno, chico.
+Dialogue: 0,1:04:55.93,1:04:56.98,Default,,0,0,0,,Ahora eres un Vengador.
+Dialogue: 0,1:05:33.55,1:05:35.85,Default,,0,0,0,,Se me ocurrió que tendrías hambre.
+Dialogue: 0,1:05:47.98,1:05:49.57,Default,,0,0,0,,Siempre odié esa silla.
+Dialogue: 0,1:05:49.74,1:05:51.78,Default,,0,0,0,,Eso me dijeron.
+Dialogue: 0,1:05:52.45,1:05:56.37,Default,,0,0,0,,Sin embargo, esperaba\Nque te sentaras ahí algún día.
+Dialogue: 0,1:05:57.12,1:05:58.66,Default,,0,0,0,,Odiaba este cuarto.
+Dialogue: 0,1:05:59.54,1:06:00.83,Default,,0,0,0,,Esta nave.
+Dialogue: 0,1:06:01.00,1:06:02.79,Default,,0,0,0,,Odiaba mi vida.
+Dialogue: 0,1:06:07.21,1:06:09.46,Default,,0,0,0,,Eso también me lo habías dicho.
+Dialogue: 0,1:06:12.63,1:06:14.01,Default,,0,0,0,,Día tras día.
+Dialogue: 0,1:06:16.81,1:06:18.77,Default,,0,0,0,,Por casi 20 años.
+Dialogue: 0,1:06:21.31,1:06:23.73,Default,,0,0,0,,Era una niña cuando me llevaste.
+Dialogue: 0,1:06:24.60,1:06:25.94,Default,,0,0,0,,Te salvé.
+Dialogue: 0,1:06:29.44,1:06:30.44,Default,,0,0,0,,No.
+Dialogue: 0,1:06:31.95,1:06:35.49,Default,,0,0,0,,No. Éramos felices en mi planeta natal.
+Dialogue: 0,1:06:35.66,1:06:36.83,Default,,0,0,0,,Acostándose con hambre...
+Dialogue: 0,1:06:37.33,1:06:39.04,Default,,0,0,0,,buscando sobras.
+Dialogue: 0,1:06:39.20,1:06:44.25,Default,,0,0,0,,Tu planeta estaba por derrumbarse.\NYo soy el que lo detuvo.
+Dialogue: 0,1:06:44.71,1:06:46.54,Default,,0,0,0,,¿Sabes qué pasó desde entonces?
+Dialogue: 0,1:06:46.71,1:06:48.34,Default,,0,0,0,,Los niños que nacen...
+Dialogue: 0,1:06:48.92,1:06:52.34,Default,,0,0,0,,tienen estómagos llenos\Ny cielos limpios.
+Dialogue: 0,1:06:52.51,1:06:53.76,Default,,0,0,0,,Es un paraíso.
+Dialogue: 0,1:06:56.43,1:06:58.30,Default,,0,0,0,,Porque mataste a medio planeta.
+Dialogue: 0,1:06:58.47,1:07:01.35,Default,,0,0,0,,Un costo bajo a pagar por la salvación.
+Dialogue: 0,1:07:01.52,1:07:02.52,Default,,0,0,0,,Estás demente.
+Dialogue: 0,1:07:02.68,1:07:04.64,Default,,0,0,0,,Pequeña, es un cálculo fácil.
+Dialogue: 0,1:07:04.81,1:07:07.61,Default,,0,0,0,,El universo y sus recursos son finitos.
+Dialogue: 0,1:07:08.15,1:07:12.15,Default,,0,0,0,,Si la vida no se controla,\Nla vida dejará de existir.
+Dialogue: 0,1:07:12.57,1:07:13.65,Default,,0,0,0,,Debe corregirse.
+Dialogue: 0,1:07:13.82,1:07:15.20,Default,,0,0,0,,¡Eso no lo sabes!
+Dialogue: 0,1:07:16.74,1:07:18.78,Default,,0,0,0,,Soy el único que lo sabe.
+Dialogue: 0,1:07:19.58,1:07:23.79,Default,,0,0,0,,Al menos, soy el único con la voluntad\Npara actuar en consecuencia.
+Dialogue: 0,1:07:25.37,1:07:26.37,Default,,0,0,0,,Por un tiempo...
+Dialogue: 0,1:07:28.96,1:07:33.21,Default,,0,0,0,,tuviste esa misma voluntad...
+Dialogue: 0,1:07:34.80,1:07:37.22,Default,,0,0,0,,mientras luchaste a mi lado.
+Dialogue: 0,1:07:38.09,1:07:39.14,Default,,0,0,0,,Hija.
+Dialogue: 0,1:07:39.93,1:07:41.72,Default,,0,0,0,,No soy tu hija.
+Dialogue: 0,1:07:44.14,1:07:46.90,Default,,0,0,0,,Todo lo que odio de mí\Nme lo enseñaste tú.
+Dialogue: 0,1:07:47.69,1:07:51.44,Default,,0,0,0,,Y haciéndolo, te hice la mujer\Nmás feroz de la galaxia.
+Dialogue: 0,1:07:54.36,1:07:57.20,Default,,0,0,0,,Por eso confié en ti\Npara hallar la Gema del Alma.
+Dialogue: 0,1:08:00.58,1:08:03.04,Default,,0,0,0,,Lamento haberte decepcionado.
+Dialogue: 0,1:08:04.58,1:08:06.37,Default,,0,0,0,,Estoy decepcionado.
+Dialogue: 0,1:08:07.17,1:08:09.63,Default,,0,0,0,,Pero no porque no la hallaste.
+Dialogue: 0,1:08:13.34,1:08:14.96,Default,,0,0,0,,Sino porque lo hiciste.
+Dialogue: 0,1:08:16.42,1:08:18.18,Default,,0,0,0,,Y mentiste.
+Dialogue: 0,1:08:35.28,1:08:36.40,Default,,0,0,0,,Nebula.
+Dialogue: 0,1:08:43.66,1:08:45.00,Default,,0,0,0,,No lo hagas.
+Dialogue: 0,1:08:45.16,1:08:49.17,Default,,0,0,0,,Hace un tiempo, tu hermana\Nse escurrió en esta nave para matarme.
+Dialogue: 0,1:08:49.33,1:08:50.33,Default,,0,0,0,,No lo hagas.
+Dialogue: 0,1:08:50.42,1:08:52.71,Default,,0,0,0,,Y casi tiene éxito.
+Dialogue: 0,1:08:53.38,1:08:54.84,Default,,0,0,0,,Así que la traje aquí.
+Dialogue: 0,1:08:56.38,1:08:57.63,Default,,0,0,0,,Para hablar.
+Dialogue: 0,1:09:05.27,1:09:07.68,Default,,0,0,0,,Detente. Detén esto.
+Dialogue: 0,1:09:13.57,1:09:15.90,Default,,0,0,0,,Te juro por mi vida...
+Dialogue: 0,1:09:16.40,1:09:18.70,Default,,0,0,0,,que nunca hallé la Gema del Alma.
+Dialogue: 0,1:09:22.82,1:09:24.41,Default,,0,0,0,,{\i1}Accediendo a archivos de memoria.{\i0}
+Dialogue: 0,1:09:24.58,1:09:25.91,Default,,0,0,0,,{\i1}Sabes qué está por hacer.{\i0}
+Dialogue: 0,1:09:26.08,1:09:28.66,Default,,0,0,0,,{\i1}Ya está listo y va a buscar las gemas.{\i0}
+Dialogue: 0,1:09:28.83,1:09:29.96,Default,,0,0,0,,{\i1}- Todas.\N- No puede tenerlas.{\i0}
+Dialogue: 0,1:09:30.12,1:09:30.96,Default,,0,0,0,,{\i1}¡Lo hará!{\i0}
+Dialogue: 0,1:09:31.12,1:09:33.13,Default,,0,0,0,,{\i1}No puede, Nebula.{\i0}
+Dialogue: 0,1:09:33.29,1:09:35.59,Default,,0,0,0,,{\i1}Porque hallé el mapa\Nde la Gema del Alma...{\i0}
+Dialogue: 0,1:09:35.75,1:09:38.59,Default,,0,0,0,,{\i1}y lo hice cenizas. Lo quemé.{\i0}
+Dialogue: 0,1:09:43.64,1:09:45.43,Default,,0,0,0,,Eres fuerte.
+Dialogue: 0,1:09:47.47,1:09:48.48,Default,,0,0,0,,Gracias a mí.
+Dialogue: 0,1:09:51.06,1:09:52.65,Default,,0,0,0,,Eres generosa.
+Dialogue: 0,1:09:53.98,1:09:54.98,Default,,0,0,0,,Gracias a mí.
+Dialogue: 0,1:09:56.98,1:09:59.40,Default,,0,0,0,,Pero nunca te enseñé a mentir.
+Dialogue: 0,1:09:59.57,1:10:02.20,Default,,0,0,0,,Por eso lo haces tan mal.
+Dialogue: 0,1:10:04.41,1:10:08.95,Default,,0,0,0,,¿Dónde está la Gema del Alma?
+Dialogue: 0,1:10:26.35,1:10:27.35,Default,,0,0,0,,¡En Vormir!
+Dialogue: 0,1:10:45.49,1:10:47.08,Default,,0,0,0,,La gema está en Vormir.
+Dialogue: 0,1:10:50.37,1:10:52.62,Default,,0,0,0,,Muéstrame.
+Dialogue: 0,1:10:54.67,1:10:56.00,Default,,0,0,0,,Yo soy Groot.
+Dialogue: 0,1:10:56.17,1:10:58.71,Default,,0,0,0,,Orina en el vaso. No estamos mirando.
+Dialogue: 0,1:10:58.88,1:11:01.05,Default,,0,0,0,,¿Una ramita? Todos vimos una ya.
+Dialogue: 0,1:11:01.21,1:11:02.30,Default,,0,0,0,,Yo soy Groot.
+Dialogue: 0,1:11:02.47,1:11:05.09,Default,,0,0,0,,Tronco, tira el contenido\Ny haz otra vez en él.
+Dialogue: 0,1:11:05.39,1:11:06.59,Default,,0,0,0,,¿Hablas Groot?
+Dialogue: 0,1:11:06.76,1:11:08.56,Default,,0,0,0,,Es un curso optativo en Asgard.
+Dialogue: 0,1:11:08.72,1:11:09.76,Default,,0,0,0,,Yo soy Groot.
+Dialogue: 0,1:11:09.93,1:11:11.93,Default,,0,0,0,,Lo sabrás cuando estemos cerca.
+Dialogue: 0,1:11:12.10,1:11:15.98,Default,,0,0,0,,La fragua de Nidavellir usa\Nel poder de una estrella de neutrones.
+Dialogue: 0,1:11:18.82,1:11:20.82,Default,,0,0,0,,Es la cuna de mi martillo.
+Dialogue: 0,1:11:21.53,1:11:23.28,Default,,0,0,0,,Es realmente increíble.
+Dialogue: 0,1:11:29.33,1:11:32.45,Default,,0,0,0,,Bueno, es hora de ser el capitán.
+Dialogue: 0,1:11:37.46,1:11:39.00,Default,,0,0,0,,Tu hermano murió, ¿eh?
+Dialogue: 0,1:11:39.67,1:11:41.50,Default,,0,0,0,,Sí, eso puede ser molesto.
+Dialogue: 0,1:11:42.01,1:11:43.88,Default,,0,0,0,,Ya estuvo muerto antes.
+Dialogue: 0,1:11:45.34,1:11:47.89,Default,,0,0,0,,Pero esta vez,\Ncreo que podría ser cierto.
+Dialogue: 0,1:11:48.35,1:11:50.68,Default,,0,0,0,,¿Y tu hermana y tu papá?
+Dialogue: 0,1:11:50.85,1:11:52.14,Default,,0,0,0,,Ambos están muertos.
+Dialogue: 0,1:11:52.77,1:11:54.43,Default,,0,0,0,,Pero aún tienes madre, ¿no?
+Dialogue: 0,1:11:54.93,1:11:56.19,Default,,0,0,0,,La mató un elfo oscuro.
+Dialogue: 0,1:11:56.35,1:11:57.35,Default,,0,0,0,,¿Un mejor amigo?
+Dialogue: 0,1:11:57.48,1:11:58.81,Default,,0,0,0,,Apuñalado en el corazón.
+Dialogue: 0,1:12:02.19,1:12:05.36,Default,,0,0,0,,¿Seguro que estás listo\Npara esta misión asesina?
+Dialogue: 0,1:12:07.61,1:12:09.07,Default,,0,0,0,,Totalmente.
+Dialogue: 0,1:12:09.24,1:12:12.74,Default,,0,0,0,,Ira, venganza,\Nfuria, pérdida, arrepentimiento...
+Dialogue: 0,1:12:12.91,1:12:15.58,Default,,0,0,0,,son grandes motivadores.\NDespejan la mente.
+Dialogue: 0,1:12:15.75,1:12:17.37,Default,,0,0,0,,Estoy listo para ir.
+Dialogue: 0,1:12:18.04,1:12:20.21,Default,,0,0,0,,Sí, pero hablamos de Thanos...
+Dialogue: 0,1:12:20.67,1:12:22.96,Default,,0,0,0,,es el más fuerte que existe.
+Dialogue: 0,1:12:23.13,1:12:25.17,Default,,0,0,0,,- Nunca luchó conmigo.\N- Sí, lo hizo.
+Dialogue: 0,1:12:25.34,1:12:26.88,Default,,0,0,0,,Nunca luchó conmigo dos veces.
+Dialogue: 0,1:12:27.51,1:12:29.26,Default,,0,0,0,,No olvides que tendré martillo nuevo.
+Dialogue: 0,1:12:29.43,1:12:31.68,Default,,0,0,0,,Mejor que sea un buen martillo.
+Dialogue: 0,1:12:35.81,1:12:38.19,Default,,0,0,0,,Sabes, tengo 1500 años.
+Dialogue: 0,1:12:38.85,1:12:40.90,Default,,0,0,0,,Maté 3000 enemigos.
+Dialogue: 0,1:12:41.06,1:12:44.11,Default,,0,0,0,,Y cada uno podría\Nhaberme matado, pero ninguno pudo.
+Dialogue: 0,1:12:44.78,1:12:47.70,Default,,0,0,0,,Estoy vivo porque lo quiere el destino.
+Dialogue: 0,1:12:47.86,1:12:50.66,Default,,0,0,0,,Thanos es el último\Nen una larga lista de malditos...
+Dialogue: 0,1:12:50.82,1:12:52.70,Default,,0,0,0,,y será el último en sentir mi venganza.
+Dialogue: 0,1:12:52.87,1:12:54.66,Default,,0,0,0,,Así lo quiere el destino.
+Dialogue: 0,1:12:56.16,1:12:58.00,Default,,0,0,0,,¿Y si te equivocas?
+Dialogue: 0,1:13:01.29,1:13:03.09,Default,,0,0,0,,Si me equivoco, entonces...
+Dialogue: 0,1:13:04.34,1:13:05.92,Default,,0,0,0,,¿qué más podría perder?
+Dialogue: 0,1:13:19.73,1:13:23.31,Default,,0,0,0,,Yo podría perder mucho.\NPersonalmente, podría perder mucho.
+Dialogue: 0,1:13:27.11,1:13:28.11,Default,,0,0,0,,Bueno.
+Dialogue: 0,1:13:31.20,1:13:33.28,Default,,0,0,0,,Si el destino quiere que lo mates...
+Dialogue: 0,1:13:33.45,1:13:35.16,Default,,0,0,0,,precisarás más de un ojo.
+Dialogue: 0,1:13:35.33,1:13:37.33,Default,,0,0,0,,- ¿Qué es?\N- ¿Qué parece?
+Dialogue: 0,1:13:37.66,1:13:40.08,Default,,0,0,0,,Le gané una apuesta\Na un tonto en Contraxia.
+Dialogue: 0,1:13:40.42,1:13:41.50,Default,,0,0,0,,¿Te dio el ojo?
+Dialogue: 0,1:13:41.67,1:13:42.79,Default,,0,0,0,,Me dio 100 créditos.
+Dialogue: 0,1:13:42.96,1:13:45.92,Default,,0,0,0,,Me escurrí en su cuarto esa noche\Ny le robé el ojo.
+Dialogue: 0,1:13:47.84,1:13:49.09,Default,,0,0,0,,Gracias, dulce liebre.
+Dialogue: 0,1:13:57.39,1:13:58.89,Default,,0,0,0,,Yo lo hubiera lavado.
+Dialogue: 0,1:14:00.14,1:14:02.65,Default,,0,0,0,,El único modo de sacarlo\Nde ahí fue en mi...
+Dialogue: 0,1:14:03.98,1:14:05.07,Default,,0,0,0,,¡Ya llegamos!
+Dialogue: 0,1:14:09.07,1:14:10.20,Default,,0,0,0,,Creo que no funciona.
+Dialogue: 0,1:14:10.36,1:14:11.53,Default,,0,0,0,,Parece todo oscuro.
+Dialogue: 0,1:14:13.99,1:14:15.70,Default,,0,0,0,,No es el ojo.
+Dialogue: 0,1:14:29.05,1:14:30.42,Default,,0,0,0,,Algo anda mal.
+Dialogue: 0,1:14:31.22,1:14:32.76,Default,,0,0,0,,La estrella se extinguió.
+Dialogue: 0,1:14:33.89,1:14:35.18,Default,,0,0,0,,Y los anillos están helados.
+Dialogue: 0,1:14:56.32,1:14:59.62,Default,,0,0,0,,Ojalá esos enanos sean mejores\Nforjando que limpiando.
+Dialogue: 0,1:15:04.87,1:15:07.96,Default,,0,0,0,,Quizá se dieron cuenta de que viven\Nen un basurero en el espacio.
+Dialogue: 0,1:15:08.13,1:15:11.09,Default,,0,0,0,,Esta fragua no se apagó en siglos.
+Dialogue: 0,1:15:13.38,1:15:16.01,Default,,0,0,0,,Dijiste que Thanos\Ntenía una manopla, ¿no?
+Dialogue: 0,1:15:16.18,1:15:17.35,Default,,0,0,0,,Sí, ¿por qué?
+Dialogue: 0,1:15:17.51,1:15:19.56,Default,,0,0,0,,¿Se parecía a eso?
+Dialogue: 0,1:15:22.98,1:15:24.73,Default,,0,0,0,,Yo soy Groot.
+Dialogue: 0,1:15:24.89,1:15:26.40,Default,,0,0,0,,Regresen a la cápsula.
+Dialogue: 0,1:15:30.48,1:15:31.48,Default,,0,0,0,,Eitri, ¡espera!
+Dialogue: 0,1:15:32.44,1:15:33.45,Default,,0,0,0,,¡Detente!
+Dialogue: 0,1:15:34.36,1:15:35.36,Default,,0,0,0,,Detente.
+Dialogue: 0,1:15:36.24,1:15:37.24,Default,,0,0,0,,¿Thor?
+Dialogue: 0,1:15:40.41,1:15:41.79,Default,,0,0,0,,¿Qué pasó aquí?
+Dialogue: 0,1:15:42.20,1:15:44.50,Default,,0,0,0,,Tenías que protegernos.
+Dialogue: 0,1:15:45.42,1:15:48.04,Default,,0,0,0,,Asgard tenía que protegernos.
+Dialogue: 0,1:15:48.21,1:15:50.42,Default,,0,0,0,,Asgard está destruida.
+Dialogue: 0,1:15:52.67,1:15:56.51,Default,,0,0,0,,Eitri, el guante. ¿Qué hiciste?
+Dialogue: 0,1:16:09.27,1:16:12.28,Default,,0,0,0,,En este anillo vivían 300 enanos.
+Dialogue: 0,1:16:13.65,1:16:16.57,Default,,0,0,0,,Creí que si hacía lo que me pedía,\Nestarían a salvo.
+Dialogue: 0,1:16:19.07,1:16:20.53,Default,,0,0,0,,Hice lo que él quería.
+Dialogue: 0,1:16:22.24,1:16:26.58,Default,,0,0,0,,Un dispositivo capaz de aprovechar\Nel poder de las gemas.
+Dialogue: 0,1:16:31.13,1:16:33.71,Default,,0,0,0,,Y de todos modos los mató a todos.
+Dialogue: 0,1:16:35.80,1:16:37.59,Default,,0,0,0,,A todos salvo a mí.
+Dialogue: 0,1:16:38.68,1:16:40.55,Default,,0,0,0,,"Tú vida te pertenece", dijo.
+Dialogue: 0,1:16:41.85,1:16:45.81,Default,,0,0,0,,"Pero tus manos son sólo mías."
+Dialogue: 0,1:16:46.77,1:16:48.77,Default,,0,0,0,,Eitri, no se trata de tus manos.
+Dialogue: 0,1:16:49.90,1:16:52.98,Default,,0,0,0,,Cada arma que diseñaste,\Ncada hacha, martillo, espada...
+Dialogue: 0,1:16:53.15,1:16:55.36,Default,,0,0,0,,la tienes en la cabeza.
+Dialogue: 0,1:16:56.24,1:16:58.15,Default,,0,0,0,,Sé lo que es perder la esperanza.
+Dialogue: 0,1:16:58.32,1:16:59.86,Default,,0,0,0,,Confía en mí, lo sé.
+Dialogue: 0,1:17:00.32,1:17:05.04,Default,,0,0,0,,Pero tú y yo juntos\Npodemos matar a Thanos.
+Dialogue: 0,1:17:45.54,1:17:47.83,Default,,0,0,0,,Escucha con atención, Mantis.
+Dialogue: 0,1:17:48.00,1:17:50.21,Default,,0,0,0,,Necesito que me veas en Titán.
+Dialogue: 0,1:17:56.96,1:17:57.96,Default,,0,0,0,,Oye, ¿qué pasa?
+Dialogue: 0,1:17:58.05,1:17:59.26,Default,,0,0,0,,Creo que llegamos.
+Dialogue: 0,1:17:59.42,1:18:01.89,Default,,0,0,0,,No creo que esta nave\Nse estacione sola.
+Dialogue: 0,1:18:03.64,1:18:06.31,Default,,0,0,0,,Mete la mano\Nen el cardán de dirección y ciérralo.
+Dialogue: 0,1:18:07.97,1:18:09.02,Default,,0,0,0,,- ¿Entendiste?\N- Sí.
+Dialogue: 0,1:18:09.18,1:18:11.22,Default,,0,0,0,,Fue hecha para un grandulón,\Ndebemos moverla juntos.
+Dialogue: 0,1:18:11.31,1:18:12.31,Default,,0,0,0,,Bueno. Listo.
+Dialogue: 0,1:18:16.86,1:18:17.86,Default,,0,0,0,,Deberíamos virar.
+Dialogue: 0,1:18:18.03,1:18:19.28,Default,,0,0,0,,¡Vire!
+Dialogue: 0,1:18:43.09,1:18:47.14,Default,,0,0,0,,TITÁN
+Dialogue: 0,1:18:49.22,1:18:50.73,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,1:18:52.23,1:18:53.48,Default,,0,0,0,,Eso estuvo cerca.
+Dialogue: 0,1:18:54.85,1:18:56.11,Default,,0,0,0,,Te debo una.
+Dialogue: 0,1:18:56.61,1:19:00.53,Default,,0,0,0,,{\i1}Si los aliens me implantan\Nhuevos en el pecho o algo así...{\i0}
+Dialogue: 0,1:19:00.69,1:19:01.82,Default,,0,0,0,,perdonen si como a alguno.
+Dialogue: 0,1:19:01.99,1:19:05.41,Default,,0,0,0,,No quiero otra referencia\Na la cultura pop el resto del viaje.
+Dialogue: 0,1:19:05.57,1:19:07.53,Default,,0,0,0,,- ¿Sí?\N- Trato de decir que viene algo.
+Dialogue: 0,1:19:14.96,1:19:16.04,Default,,0,0,0,,¡Thanos!
+Dialogue: 0,1:19:37.36,1:19:38.86,Default,,0,0,0,,¡No me pongas huevos!
+Dialogue: 0,1:19:41.07,1:19:42.82,Default,,0,0,0,,Abajo, payaso.
+Dialogue: 0,1:19:48.03,1:19:50.12,Default,,0,0,0,,Muere, ¡manto de muerte!
+Dialogue: 0,1:19:56.04,1:19:58.96,Default,,0,0,0,,Quédense todos donde están.\NCálmense.
+Dialogue: 0,1:20:00.17,1:20:02.17,Default,,0,0,0,,Se los preguntaré una sola vez.
+Dialogue: 0,1:20:02.92,1:20:04.17,Default,,0,0,0,,¿Dónde está Gamora?
+Dialogue: 0,1:20:04.34,1:20:06.84,Default,,0,0,0,,Sí. Mejor, pregunto yo.\N¿Quién es Gamora?
+Dialogue: 0,1:20:07.14,1:20:09.93,Default,,0,0,0,,Mejor, yo pregunto.\N¿Por qué es Gamora?
+Dialogue: 0,1:20:10.10,1:20:13.35,Default,,0,0,0,,Díganme dónde está,\No juro que freiré a este engendro.
+Dialogue: 0,1:20:13.52,1:20:16.35,Default,,0,0,0,,Adelante. Le disparas al mío\Ny yo le dispararé a él. ¡Vamos!
+Dialogue: 0,1:20:16.94,1:20:19.52,Default,,0,0,0,,¡Hazlo, Quill! Puedo soportarlo.
+Dialogue: 0,1:20:19.69,1:20:21.69,Default,,0,0,0,,- ¡No puede!\N- Tiene razón. No puedes.
+Dialogue: 0,1:20:21.86,1:20:23.90,Default,,0,0,0,,¿Sí? ¿No me dirás dónde está? Bien.
+Dialogue: 0,1:20:24.07,1:20:27.03,Default,,0,0,0,,Los mataré y se lo sacaré a Thanos\Na los golpes.
+Dialogue: 0,1:20:27.20,1:20:28.20,Default,,0,0,0,,Empezando contigo.
+Dialogue: 0,1:20:28.28,1:20:31.53,Default,,0,0,0,,Espera, ¿qué? ¿Thanos?\NDéjame preguntarte algo.
+Dialogue: 0,1:20:32.04,1:20:33.70,Default,,0,0,0,,¿A qué maestro sirves?
+Dialogue: 0,1:20:33.87,1:20:36.67,Default,,0,0,0,,¿A qué maestro sirvo?\N¿Debo responder, "Jesús"?
+Dialogue: 0,1:20:37.96,1:20:39.67,Default,,0,0,0,,- Eres de la Tierra.\N- No, de Missouri.
+Dialogue: 0,1:20:39.83,1:20:41.17,Default,,0,0,0,,Está en la Tierra, tonto.
+Dialogue: 0,1:20:41.34,1:20:42.38,Default,,0,0,0,,¿Por qué nos hostigan?
+Dialogue: 0,1:20:42.55,1:20:44.30,Default,,0,0,0,,¿No están con Thanos?
+Dialogue: 0,1:20:44.80,1:20:46.59,Default,,0,0,0,,¿Con Thanos?
+Dialogue: 0,1:20:47.18,1:20:49.76,Default,,0,0,0,,No, vine aquí a matar a Thanos.
+Dialogue: 0,1:20:49.93,1:20:51.76,Default,,0,0,0,,Se llevó a mi chica. ¿Quiénes son?
+Dialogue: 0,1:20:52.60,1:20:54.06,Default,,0,0,0,,Somos los Vengadores, amigo.
+Dialogue: 0,1:20:54.22,1:20:56.69,Default,,0,0,0,,Son esos de los que nos habló Thor.
+Dialogue: 0,1:20:56.85,1:20:58.02,Default,,0,0,0,,¿Conocen a Thor?
+Dialogue: 0,1:20:58.19,1:21:01.82,Default,,0,0,0,,Sí. Tipo alto, no tan apuesto,\Nque necesitaba que lo salvaran.
+Dialogue: 0,1:21:01.98,1:21:03.65,Default,,0,0,0,,¿Dónde está ahora?
+Dialogue: 0,1:21:18.71,1:21:20.58,Default,,0,0,0,,¿El plan es golpearlo con un ladrillo?
+Dialogue: 0,1:21:20.75,1:21:21.96,Default,,0,0,0,,Es un molde.
+Dialogue: 0,1:21:22.79,1:21:23.79,Default,,0,0,0,,Un arma de reyes.
+Dialogue: 0,1:21:24.67,1:21:27.01,Default,,0,0,0,,Destinada a ser la mayor de Asgard.
+Dialogue: 0,1:21:27.63,1:21:30.51,Default,,0,0,0,,Teóricamente, hasta podría convocar\Nal Bifrost.
+Dialogue: 0,1:21:30.68,1:21:32.14,Default,,0,0,0,,¿Tiene un nombre?
+Dialogue: 0,1:21:33.39,1:21:34.56,Default,,0,0,0,,Rompe-Tormentas.
+Dialogue: 0,1:21:35.02,1:21:36.14,Default,,0,0,0,,Es algo exagerado.
+Dialogue: 0,1:21:38.18,1:21:39.27,Default,,0,0,0,,¿Cómo la hacemos?
+Dialogue: 0,1:21:41.10,1:21:43.31,Default,,0,0,0,,Deberán volver a encender la fragua.
+Dialogue: 0,1:21:44.27,1:21:46.48,Default,,0,0,0,,Despertar el núcleo\Nde una estrella agonizante.
+Dialogue: 0,1:21:49.11,1:21:51.74,Default,,0,0,0,,Liebre, enciende la cápsula.
+Dialogue: 0,1:21:55.37,1:21:57.37,Default,,0,0,0,,¿Qué diablos pasó en este planeta?
+Dialogue: 0,1:21:57.54,1:22:01.62,Default,,0,0,0,,Está ocho grados fuera de su eje.\NLa fuerza gravitatoria es inconsistente.
+Dialogue: 0,1:22:02.96,1:22:05.75,Default,,0,0,0,,Sí, tenemos una ventaja.\NÉl vendrá a nosotros.
+Dialogue: 0,1:22:06.71,1:22:09.34,Default,,0,0,0,,Lo aprovecharemos.\NBien, tengo un plan.
+Dialogue: 0,1:22:09.51,1:22:10.76,Default,,0,0,0,,Al menos el principio de uno.
+Dialogue: 0,1:22:10.93,1:22:13.55,Default,,0,0,0,,Lo atraemos, lo sujetamos,\Ntomamos lo que precisamos.
+Dialogue: 0,1:22:13.72,1:22:16.51,Default,,0,0,0,,No peleamos mucho.\NQueremos la manopla.
+Dialogue: 0,1:22:17.10,1:22:18.10,Default,,0,0,0,,¿Bostezas?
+Dialogue: 0,1:22:19.56,1:22:21.73,Default,,0,0,0,,¿En medio de mi explicación?
+Dialogue: 0,1:22:21.90,1:22:22.90,Default,,0,0,0,,¿Oíste lo que dije?
+Dialogue: 0,1:22:23.69,1:22:25.94,Default,,0,0,0,,"Precisamos un plan".
+Dialogue: 0,1:22:26.11,1:22:27.23,Default,,0,0,0,,Mr. Músculo está confundido.
+Dialogue: 0,1:22:27.36,1:22:30.20,Default,,0,0,0,,Lo que menos hacen\Nes "no improvisar".
+Dialogue: 0,1:22:30.36,1:22:31.86,Default,,0,0,0,,¿Qué es lo que hacen?
+Dialogue: 0,1:22:32.03,1:22:33.62,Default,,0,0,0,,Patear nombres, anotar traseros.
+Dialogue: 0,1:22:33.78,1:22:35.03,Default,,0,0,0,,Sí, correcto.
+Dialogue: 0,1:22:41.75,1:22:43.08,Default,,0,0,0,,Vengan aquí, por favor.
+Dialogue: 0,1:22:43.50,1:22:45.42,Default,,0,0,0,,Sr. Lord, ¿los pones en círculo?
+Dialogue: 0,1:22:45.59,1:22:47.75,Default,,0,0,0,,"Sr. Lord." Star-Lord está bien.
+Dialogue: 0,1:22:50.47,1:22:51.76,Default,,0,0,0,,Debemos unirnos.
+Dialogue: 0,1:22:51.93,1:22:53.55,Default,,0,0,0,,Si vamos haciéndonos los intrépidos...
+Dialogue: 0,1:22:53.72,1:22:56.01,Default,,0,0,0,,Amigo, no nos llames intrépidos.
+Dialogue: 0,1:22:56.18,1:22:57.35,Default,,0,0,0,,No sabemos qué es.
+Dialogue: 0,1:22:57.76,1:23:00.35,Default,,0,0,0,,Somos optimistas, sí. Me gusta tu plan.
+Dialogue: 0,1:23:00.52,1:23:02.98,Default,,0,0,0,,Salvo que apesta, déjame planearlo...
+Dialogue: 0,1:23:03.14,1:23:05.06,Default,,0,0,0,,y así, quizá sea muy bueno.
+Dialogue: 0,1:23:05.23,1:23:07.19,Default,,0,0,0,,Dile del duelo de baile\Npara salvar al universo.
+Dialogue: 0,1:23:07.36,1:23:08.40,Default,,0,0,0,,¿Qué duelo de baile?
+Dialogue: 0,1:23:08.57,1:23:09.57,Default,,0,0,0,,No es nada.
+Dialogue: 0,1:23:09.65,1:23:10.69,Default,,0,0,0,,{\i1}¿Como en Footloose?{\i0}
+Dialogue: 0,1:23:10.86,1:23:12.24,Default,,0,0,0,,{\i1}Sí, como en Footloose.{\i0}
+Dialogue: 0,1:23:12.78,1:23:14.28,Default,,0,0,0,,¿Aún es la película más grandiosa?
+Dialogue: 0,1:23:14.45,1:23:15.57,Default,,0,0,0,,Nunca lo fue.
+Dialogue: 0,1:23:15.74,1:23:17.08,Default,,0,0,0,,- No lo alientes.\N- Bueno.
+Dialogue: 0,1:23:17.24,1:23:18.58,Default,,0,0,0,,Flash Gordon no nos ayudará.
+Dialogue: 0,1:23:18.74,1:23:21.04,Default,,0,0,0,,¿Flash Gordon? Eso es un halago.
+Dialogue: 0,1:23:21.62,1:23:23.12,Default,,0,0,0,,No olvides, soy mitad humano.
+Dialogue: 0,1:23:23.29,1:23:24.83,Default,,0,0,0,,Ese 50% que tengo de tonto...
+Dialogue: 0,1:23:26.04,1:23:27.04,Default,,0,0,0,,es tu 100%
+Dialogue: 0,1:23:27.21,1:23:29.25,Default,,0,0,0,,- Tus cuentas me abruman.\N- Disculpen.
+Dialogue: 0,1:23:30.84,1:23:34.26,Default,,0,0,0,,Pero ¿tu amigo hace eso a menudo?
+Dialogue: 0,1:23:35.68,1:23:37.97,Default,,0,0,0,,Strange, ¿estás bien?
+Dialogue: 0,1:23:48.19,1:23:50.03,Default,,0,0,0,,- Regresaste. Estás bien.\N- Hola.
+Dialogue: 0,1:23:50.19,1:23:51.19,Default,,0,0,0,,¿Qué fue eso?
+Dialogue: 0,1:23:51.69,1:23:55.36,Default,,0,0,0,,Fui más adelante en el tiempo\Ny vi los futuros alternativos.
+Dialogue: 0,1:23:56.24,1:23:59.70,Default,,0,0,0,,Para ver los resultados posibles\Ndel conflicto inminente.
+Dialogue: 0,1:24:00.45,1:24:01.79,Default,,0,0,0,,¿Cuántos viste?
+Dialogue: 0,1:24:01.95,1:24:04.21,Default,,0,0,0,,14.000.605.
+Dialogue: 0,1:24:05.87,1:24:07.29,Default,,0,0,0,,¿En cuántos ganamos?
+Dialogue: 0,1:24:12.05,1:24:13.21,Default,,0,0,0,,En uno.
+Dialogue: 0,1:24:35.11,1:24:38.11,Default,,0,0,0,,Mejor que la gema esté ahí arriba.
+Dialogue: 0,1:24:39.99,1:24:42.04,Default,,0,0,0,,Por el bien de tu hermana.
+Dialogue: 0,1:25:02.93,1:25:07.69,Default,,0,0,0,,Bienvenido, Thanos, hijo de Alars.
+Dialogue: 0,1:25:09.77,1:25:13.02,Default,,0,0,0,,Gamora, hija de Thanos.
+Dialogue: 0,1:25:13.19,1:25:14.36,Default,,0,0,0,,¿Nos conoces?
+Dialogue: 0,1:25:14.53,1:25:19.07,Default,,0,0,0,,Conocer a todos a los que su viaje\Ntrae aquí es mi maldición.
+Dialogue: 0,1:25:19.57,1:25:21.24,Default,,0,0,0,,¿Dónde está la Gema del Alma?
+Dialogue: 0,1:25:21.95,1:25:23.62,Default,,0,0,0,,Deberías saber...
+Dialogue: 0,1:25:24.29,1:25:27.41,Default,,0,0,0,,que tiene un alto precio.
+Dialogue: 0,1:25:28.75,1:25:30.33,Default,,0,0,0,,Estoy listo.
+Dialogue: 0,1:25:32.79,1:25:35.21,Default,,0,0,0,,Al principio, todos pensamos lo mismo.
+Dialogue: 0,1:25:39.76,1:25:42.05,Default,,0,0,0,,Estamos todos equivocados.
+Dialogue: 0,1:25:53.65,1:25:55.98,Default,,0,0,0,,¿Cómo conoces tan bien este lugar?
+Dialogue: 0,1:25:56.15,1:26:00.49,Default,,0,0,0,,Hace toda una vida,\Nyo también busqué las gemas.
+Dialogue: 0,1:26:00.95,1:26:03.66,Default,,0,0,0,,Hasta tuve una en la mano.
+Dialogue: 0,1:26:03.83,1:26:07.87,Default,,0,0,0,,Pero me expulsó, desterrándome aquí.
+Dialogue: 0,1:26:08.04,1:26:12.08,Default,,0,0,0,,Guiando a otros a un tesoro\Nque no puedo poseer.
+Dialogue: 0,1:26:20.80,1:26:23.72,Default,,0,0,0,,Lo que buscas está delante de ti.
+Dialogue: 0,1:26:24.68,1:26:26.81,Default,,0,0,0,,Al igual que lo que temes.
+Dialogue: 0,1:26:27.56,1:26:29.02,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 0,1:26:29.52,1:26:31.06,Default,,0,0,0,,El precio a pagar.
+Dialogue: 0,1:26:31.23,1:26:35.86,Default,,0,0,0,,La del Alma ocupa un lugar especial\Nentre las Gemas del Infinito.
+Dialogue: 0,1:26:36.86,1:26:40.95,Default,,0,0,0,,Se podría decir\Nque tiene cierta sabiduría.
+Dialogue: 0,1:26:42.32,1:26:44.16,Default,,0,0,0,,Dime qué necesita.
+Dialogue: 0,1:26:44.32,1:26:47.87,Default,,0,0,0,,Para asegurarse de que\Nquien la posea...
+Dialogue: 0,1:26:48.04,1:26:50.58,Default,,0,0,0,,entiende su poder...
+Dialogue: 0,1:26:51.54,1:26:55.29,Default,,0,0,0,,la gema exige un sacrificio.
+Dialogue: 0,1:26:55.46,1:26:57.00,Default,,0,0,0,,¿De qué?
+Dialogue: 0,1:26:57.42,1:27:01.88,Default,,0,0,0,,Para tomar la gema,\Ndebes perder a quien amas.
+Dialogue: 0,1:27:04.80,1:27:06.10,Default,,0,0,0,,Un alma...
+Dialogue: 0,1:27:06.76,1:27:08.01,Default,,0,0,0,,por otra.
+Dialogue: 0,1:27:23.74,1:27:26.07,Default,,0,0,0,,Toda mi vida soñé con el día...
+Dialogue: 0,1:27:27.03,1:27:28.41,Default,,0,0,0,,el momento...
+Dialogue: 0,1:27:29.74,1:27:31.83,Default,,0,0,0,,en que tuvieras tu merecido.
+Dialogue: 0,1:27:34.04,1:27:36.33,Default,,0,0,0,,Y siempre estuve muy decepcionada.
+Dialogue: 0,1:27:39.92,1:27:41.38,Default,,0,0,0,,Pero ahora...
+Dialogue: 0,1:27:45.34,1:27:48.43,Default,,0,0,0,,Matas y torturas...
+Dialogue: 0,1:27:50.39,1:27:52.39,Default,,0,0,0,,y lo llamas piedad.
+Dialogue: 0,1:27:56.48,1:27:58.57,Default,,0,0,0,,El universo te juzgó.
+Dialogue: 0,1:28:00.15,1:28:04.61,Default,,0,0,0,,Le pediste un premio, y te lo negó.
+Dialogue: 0,1:28:06.16,1:28:07.66,Default,,0,0,0,,Fracasaste.
+Dialogue: 0,1:28:09.03,1:28:10.91,Default,,0,0,0,,¿Y quieres saber por qué?
+Dialogue: 0,1:28:11.87,1:28:13.71,Default,,0,0,0,,Porque no amas nada.
+Dialogue: 0,1:28:14.41,1:28:16.04,Default,,0,0,0,,A nadie.
+Dialogue: 0,1:28:21.67,1:28:22.84,Default,,0,0,0,,No.
+Dialogue: 0,1:28:27.47,1:28:28.47,Default,,0,0,0,,¿En serio?
+Dialogue: 0,1:28:29.51,1:28:30.60,Default,,0,0,0,,¿Lágrimas?
+Dialogue: 0,1:28:31.39,1:28:33.35,Default,,0,0,0,,No son por él.
+Dialogue: 0,1:28:47.61,1:28:48.82,Default,,0,0,0,,No.
+Dialogue: 0,1:28:50.33,1:28:51.74,Default,,0,0,0,,Esto no es amor.
+Dialogue: 0,1:28:52.62,1:28:55.29,Default,,0,0,0,,Ya ignoré mi destino una vez.
+Dialogue: 0,1:28:57.75,1:28:59.92,Default,,0,0,0,,No puedo hacerlo otra vez.
+Dialogue: 0,1:29:00.42,1:29:03.80,Default,,0,0,0,,Ni siquiera por ti.
+Dialogue: 0,1:29:27.99,1:29:30.37,Default,,0,0,0,,Lo siento, pequeña.
+Dialogue: 0,1:29:34.20,1:29:35.45,Default,,0,0,0,,¡No!
+Dialogue: 0,1:31:13.05,1:31:15.89,Default,,0,0,0,,Desciende a 2600, pon rumbo 0-3-0.
+Dialogue: 0,1:31:16.05,1:31:17.31,Default,,0,0,0,,Ojalá tengas razón.
+Dialogue: 0,1:31:17.47,1:31:20.35,Default,,0,0,0,,O aterrizaremos mucho más rápido\Nde lo que quieres.
+Dialogue: 0,1:31:36.07,1:31:38.58,Default,,0,0,0,,Cuando dijiste\Nque abriríamos Wakanda al mundo...
+Dialogue: 0,1:31:38.74,1:31:41.00,Default,,0,0,0,,no imaginé esto.
+Dialogue: 0,1:31:41.16,1:31:43.12,Default,,0,0,0,,¿Qué imaginaste?
+Dialogue: 0,1:31:43.29,1:31:44.42,Default,,0,0,0,,Las Olimpiadas.
+Dialogue: 0,1:31:44.58,1:31:46.33,Default,,0,0,0,,Quizá hasta un Starbucks.
+Dialogue: 0,1:32:00.56,1:32:01.93,Default,,0,0,0,,¿Debemos inclinarnos?
+Dialogue: 0,1:32:02.10,1:32:03.35,Default,,0,0,0,,Sí, es un rey.
+Dialogue: 0,1:32:03.69,1:32:05.69,Default,,0,0,0,,Siempre te estoy agradeciendo algo.
+Dialogue: 0,1:32:07.52,1:32:08.98,Default,,0,0,0,,¿Qué haces?
+Dialogue: 0,1:32:09.40,1:32:11.07,Default,,0,0,0,,Aquí no nos inclinamos.
+Dialogue: 0,1:32:11.23,1:32:13.49,Default,,0,0,0,,¿Qué tan grande sería el ataque?
+Dialogue: 0,1:32:13.65,1:32:16.66,Default,,0,0,0,,Señor, deberían esperar\Nun ataque bastante grande.
+Dialogue: 0,1:32:16.82,1:32:17.82,Default,,0,0,0,,¿Cómo vamos?
+Dialogue: 0,1:32:17.91,1:32:22.91,Default,,0,0,0,,Contarán con mi Guardia Real,\Nla Tribu Fronteriza, las Dora Milaje, y...
+Dialogue: 0,1:32:23.87,1:32:26.79,Default,,0,0,0,,Un hombre de 100 años semiestable.
+Dialogue: 0,1:32:29.67,1:32:30.84,Default,,0,0,0,,¿Cómo estás, Buck?
+Dialogue: 0,1:32:31.00,1:32:34.13,Default,,0,0,0,,Nada mal, para el fin del mundo.
+Dialogue: 0,1:32:47.31,1:32:49.40,Default,,0,0,0,,La estructura es polimórfica.
+Dialogue: 0,1:32:49.86,1:32:52.73,Default,,0,0,0,,Tuvimos que unir cada neurona\Nen forma no secuencial.
+Dialogue: 0,1:32:53.15,1:32:55.57,Default,,0,0,0,,¿Por qué no reprogramaron\Nlas sinapsis
+Dialogue: 0,1:32:55.65,1:32:57.20,Default,,0,0,0,,para trabajar en conjunto?
+Dialogue: 0,1:32:58.28,1:33:01.53,Default,,0,0,0,,Porque no pensamos en eso.
+Dialogue: 0,1:33:01.95,1:33:03.24,Default,,0,0,0,,Lo hiciste lo mejor posible.
+Dialogue: 0,1:33:03.41,1:33:04.62,Default,,0,0,0,,¿Puedes hacerlo?
+Dialogue: 0,1:33:05.54,1:33:08.83,Default,,0,0,0,,Sí, pero hay más de dos billones\Nde neuronas aquí.
+Dialogue: 0,1:33:09.00,1:33:12.17,Default,,0,0,0,,Un desajuste causaría\Nun fallo en cascada de los circuitos.
+Dialogue: 0,1:33:12.55,1:33:13.63,Default,,0,0,0,,Llevará tiempo.
+Dialogue: 0,1:33:15.34,1:33:16.34,Default,,0,0,0,,¿Cuánto?
+Dialogue: 0,1:33:16.47,1:33:17.68,Default,,0,0,0,,Tanto como puedas darme.
+Dialogue: 0,1:33:22.35,1:33:24.56,Default,,0,0,0,,Algo entró a la atmósfera.
+Dialogue: 0,1:33:41.41,1:33:43.70,Default,,0,0,0,,Oye, Cap., tenemos un problema.
+Dialogue: 0,1:33:53.21,1:33:55.05,Default,,0,0,0,,Dios, me encanta este lugar.
+Dialogue: 0,1:33:55.21,1:33:58.84,Default,,0,0,0,,{\i1}Aún no empiecen a celebrar.\NLlegan más afuera de la cúpula.{\i0}
+Dialogue: 0,1:34:18.24,1:34:19.24,Default,,0,0,0,,Es muy tarde.
+Dialogue: 0,1:34:20.20,1:34:21.45,Default,,0,0,0,,Debemos destruir la gema.
+Dialogue: 0,1:34:22.03,1:34:23.66,Default,,0,0,0,,Visión, regresa a la mesa.
+Dialogue: 0,1:34:23.83,1:34:25.16,Default,,0,0,0,,Los retendremos.
+Dialogue: 0,1:34:25.33,1:34:28.75,Default,,0,0,0,,Wanda, tan pronto como esa gema\Nesté fuera de su cabeza...
+Dialogue: 0,1:34:28.91,1:34:29.91,Default,,0,0,0,,la destruyes.
+Dialogue: 0,1:34:30.33,1:34:31.42,Default,,0,0,0,,Lo haré.
+Dialogue: 0,1:34:31.58,1:34:34.38,Default,,0,0,0,,Evacuen la ciudad.\NActiven todas las defensas.
+Dialogue: 0,1:34:35.13,1:34:36.59,Default,,0,0,0,,Y consíganle un escudo a él.
+Dialogue: 0,1:34:47.02,1:34:49.31,Default,,0,0,0,,{\i1}No creo que entiendas la física de esto.{\i0}
+Dialogue: 0,1:34:49.48,1:34:51.94,Default,,0,0,0,,{\i1}Esos anillos son enormes.\NSi quieres moverlos...{\i0}
+Dialogue: 0,1:34:52.10,1:34:54.56,Default,,0,0,0,,{\i1}precisarás algo mucho más grande.{\i0}
+Dialogue: 0,1:34:54.73,1:34:56.82,Default,,0,0,0,,{\i1}- Déjamelo a mí.\N- ¿Dejártelo a ti?{\i0}
+Dialogue: 0,1:34:56.98,1:35:00.11,Default,,0,0,0,,Amigo, estás en el espacio.\NSólo tienes una soga y...
+Dialogue: 0,1:35:08.54,1:35:09.54,Default,,0,0,0,,{\i1}¡Enciende los motores!{\i0}
+Dialogue: 0,1:35:27.10,1:35:29.77,Default,,0,0,0,,¡Más potencia, liebre!
+Dialogue: 0,1:36:01.21,1:36:03.01,Default,,0,0,0,,Bien hecho, muchacho.
+Dialogue: 0,1:36:04.80,1:36:06.72,Default,,0,0,0,,Eso es Nidavellir.
+Dialogue: 0,1:36:26.87,1:36:27.87,Default,,0,0,0,,Maldición.
+Dialogue: 0,1:36:28.20,1:36:29.74,Default,,0,0,0,,¿Por qué dices "maldición"?
+Dialogue: 0,1:36:29.91,1:36:31.79,Default,,0,0,0,,{\i1}- El mecanismo está dañado.\N- ¿Qué?{\i0}
+Dialogue: 0,1:36:31.95,1:36:33.96,Default,,0,0,0,,No puedo calentar el metal\Ncon el iris cerrado.
+Dialogue: 0,1:36:34.12,1:36:35.42,Default,,0,0,0,,¿Cuánto llevará calentarlo?
+Dialogue: 0,1:36:35.87,1:36:38.25,Default,,0,0,0,,Unos minutos, quizás más. ¿Por qué?
+Dialogue: 0,1:36:40.25,1:36:41.30,Default,,0,0,0,,Lo mantendré abierto.
+Dialogue: 0,1:36:41.46,1:36:42.59,Default,,0,0,0,,Es suicida.
+Dialogue: 0,1:36:42.76,1:36:45.18,Default,,0,0,0,,Como enfrentar a Thanos sin el hacha.
+Dialogue: 0,1:36:54.98,1:36:56.02,Default,,0,0,0,,¿Cómo vamos, Bruce?
+Dialogue: 0,1:36:56.19,1:36:57.85,Default,,0,0,0,,Sí, voy tomándole la mano.
+Dialogue: 0,1:37:01.61,1:37:05.24,Default,,0,0,0,,Es increíble. Es como ser Hulk sin...
+Dialogue: 0,1:37:09.07,1:37:11.28,Default,,0,0,0,,{\i1}Estoy bien.{\i0}
+Dialogue: 0,1:37:12.79,1:37:14.87,Default,,0,0,0,,Detecto dos firmas de calor\Ntras los árboles.
+Dialogue: 0,1:37:43.32,1:37:45.53,Default,,0,0,0,,Gracias por unirte a nosotros.
+Dialogue: 0,1:37:45.99,1:37:47.07,Default,,0,0,0,,Por supuesto, hermano.
+Dialogue: 0,1:38:07.51,1:38:09.13,Default,,0,0,0,,¿Dónde está tu otro amigo?
+Dialogue: 0,1:38:09.88,1:38:12.26,Default,,0,0,0,,Con tu vida, pagarás la de él.
+Dialogue: 0,1:38:13.26,1:38:15.72,Default,,0,0,0,,Thanos tendrá esa gema.
+Dialogue: 0,1:38:16.22,1:38:17.68,Default,,0,0,0,,Eso no va a pasar.
+Dialogue: 0,1:38:17.85,1:38:20.15,Default,,0,0,0,,Ahora están en Wakanda.
+Dialogue: 0,1:38:20.31,1:38:23.77,Default,,0,0,0,,Lo único que tendrá Thanos\Nserá polvo y sangre.
+Dialogue: 0,1:38:27.03,1:38:29.11,Default,,0,0,0,,Tenemos sangre de sobra.
+Dialogue: 0,1:38:40.33,1:38:41.88,Default,,0,0,0,,¿Se rindieron?
+Dialogue: 0,1:38:42.67,1:38:43.67,Default,,0,0,0,,No exactamente.
+Dialogue: 0,1:39:10.70,1:39:12.11,Default,,0,0,0,,¿Qué te pasa?
+Dialogue: 0,1:39:15.08,1:39:16.70,Default,,0,0,0,,Parece que la hicimos enojar.
+Dialogue: 0,1:39:27.46,1:39:29.01,Default,,0,0,0,,Se matan ellos mismos.
+Dialogue: 0,1:40:05.25,1:40:06.84,Default,,0,0,0,,¿Ves sus dientes?
+Dialogue: 0,1:40:07.00,1:40:08.80,Default,,0,0,0,,Atrás, Sam. Te chamuscarás las alas.
+Dialogue: 0,1:40:21.52,1:40:24.06,Default,,0,0,0,,{\i1}Si esas cosas rodean el perímetro\Ny entran por detrás...{\i0}
+Dialogue: 0,1:40:24.23,1:40:26.02,Default,,0,0,0,,{\i1}no hay nada entre ellos y Visión.{\i0}
+Dialogue: 0,1:40:26.40,1:40:28.15,Default,,0,0,0,,Entonces los mantenemos adelante.
+Dialogue: 0,1:40:28.31,1:40:29.69,Default,,0,0,0,,¿Cómo lo hacemos?
+Dialogue: 0,1:40:32.07,1:40:33.70,Default,,0,0,0,,Abrimos la barrera.
+Dialogue: 0,1:40:35.95,1:40:40.08,Default,,0,0,0,,Cuando dé la señal,\Nabran la Sección 17 Noroeste.
+Dialogue: 0,1:40:40.41,1:40:44.04,Default,,0,0,0,,{\i1}Solicito confirmación, mi rey.\N¿Dijo que abra la barrera?{\i0}
+Dialogue: 0,1:40:44.21,1:40:45.42,Default,,0,0,0,,A mi señal.
+Dialogue: 0,1:40:45.67,1:40:47.54,Default,,0,0,0,,Esto será el fin de Wakanda.
+Dialogue: 0,1:40:48.88,1:40:52.30,Default,,0,0,0,,Entonces será el final más noble\Nde la historia.
+Dialogue: 0,1:41:05.14,1:41:06.73,Default,,0,0,0,,¡Viva Wakanda!
+Dialogue: 0,1:41:19.32,1:41:20.32,Default,,0,0,0,,¡Ahora!
+Dialogue: 0,1:41:50.48,1:41:51.90,Default,,0,0,0,,¿Cuánto falta, Shuri?
+Dialogue: 0,1:41:52.07,1:41:53.61,Default,,0,0,0,,Apenas empecé, hermano.
+Dialogue: 0,1:41:53.78,1:41:55.61,Default,,0,0,0,,Será mejor que te apures.
+Dialogue: 0,1:42:02.66,1:42:04.54,Default,,0,0,0,,Padres de todo, denme fortaleza.
+Dialogue: 0,1:42:04.70,1:42:06.50,Default,,0,0,0,,¿Entiendes, muchacho?
+Dialogue: 0,1:42:06.66,1:42:09.67,Default,,0,0,0,,Estás por soportar\Ntoda la fuerza de una estrella.
+Dialogue: 0,1:42:10.63,1:42:12.04,Default,,0,0,0,,Va a matarte.
+Dialogue: 0,1:42:12.71,1:42:14.17,Default,,0,0,0,,Sólo si muero.
+Dialogue: 0,1:42:15.21,1:42:16.21,Default,,0,0,0,,Sí.
+Dialogue: 0,1:42:16.72,1:42:19.47,Default,,0,0,0,,Eso es lo que significa "matarte".
+Dialogue: 0,1:42:47.45,1:42:49.37,Default,,0,0,0,,¡Mantenlo así, Thor!
+Dialogue: 0,1:43:39.84,1:43:41.80,Default,,0,0,0,,¡Thor! Di algo. Vamos.
+Dialogue: 0,1:43:42.72,1:43:43.72,Default,,0,0,0,,Thor, ¿estás bien?
+Dialogue: 0,1:43:49.39,1:43:50.68,Default,,0,0,0,,Creo que agoniza.
+Dialogue: 0,1:43:50.85,1:43:52.81,Default,,0,0,0,,¡Necesita el hacha!
+Dialogue: 0,1:43:54.27,1:43:55.61,Default,,0,0,0,,¿Dónde está el mango?
+Dialogue: 0,1:43:58.65,1:44:00.99,Default,,0,0,0,,Tronco,\N¡ayúdame a encontrar el mango!
+Dialogue: 0,1:45:09.85,1:45:12.06,Default,,0,0,0,,¡Hay demasiados!
+Dialogue: 0,1:45:39.42,1:45:41.88,Default,,0,0,0,,¡Están acabados!
+Dialogue: 0,1:45:45.26,1:45:47.26,Default,,0,0,0,,¡Quiero a Thanos!
+Dialogue: 0,1:46:20.00,1:46:21.50,Default,,0,0,0,,Ay, sí.
+Dialogue: 0,1:46:24.63,1:46:26.63,Default,,0,0,0,,Tú pareces más un Thanos.
+Dialogue: 0,1:46:28.97,1:46:31.14,Default,,0,0,0,,Supongo que Maw murió.
+Dialogue: 0,1:46:33.43,1:46:35.89,Default,,0,0,0,,Este día exige un alto precio.
+Dialogue: 0,1:46:37.60,1:46:39.77,Default,,0,0,0,,Aún así, él cumplió su misión.
+Dialogue: 0,1:46:40.23,1:46:41.73,Default,,0,0,0,,Vas a arrepentirte.
+Dialogue: 0,1:46:42.56,1:46:45.44,Default,,0,0,0,,Te puso frente\Nal Maestro de las Artes Místicas.
+Dialogue: 0,1:46:48.61,1:46:51.07,Default,,0,0,0,,¿Y dónde crees que te puso a ti?
+Dialogue: 0,1:46:52.16,1:46:54.87,Default,,0,0,0,,Déjame adivinar. ¿En tu hogar?
+Dialogue: 0,1:46:59.25,1:47:00.54,Default,,0,0,0,,Lo era.
+Dialogue: 0,1:47:03.29,1:47:04.71,Default,,0,0,0,,Y era hermoso.
+Dialogue: 0,1:47:07.34,1:47:09.80,Default,,0,0,0,,Titán era como la mayoría\Nde los planetas.
+Dialogue: 0,1:47:09.97,1:47:12.84,Default,,0,0,0,,Muchas bocas que alimentar,\Ny no había para todos.
+Dialogue: 0,1:47:13.01,1:47:16.26,Default,,0,0,0,,Y al enfrentarnos a la extinción,\Nofrecí una solución.
+Dialogue: 0,1:47:17.27,1:47:18.48,Default,,0,0,0,,El genocidio.
+Dialogue: 0,1:47:19.18,1:47:23.27,Default,,0,0,0,,Pero aleatorio, objetivo,\Npara ricos y pobres por igual.
+Dialogue: 0,1:47:24.61,1:47:26.78,Default,,0,0,0,,Me llamaron loco.
+Dialogue: 0,1:47:27.48,1:47:29.74,Default,,0,0,0,,Y aconteció lo que predije.
+Dialogue: 0,1:47:32.45,1:47:34.45,Default,,0,0,0,,Felicitaciones, eres profeta.
+Dialogue: 0,1:47:35.03,1:47:36.24,Default,,0,0,0,,Soy un sobreviviente.
+Dialogue: 0,1:47:36.41,1:47:38.62,Default,,0,0,0,,Que quiere matar a billones.
+Dialogue: 0,1:47:38.79,1:47:40.29,Default,,0,0,0,,Con las seis gemas,
+Dialogue: 0,1:47:40.37,1:47:42.50,Default,,0,0,0,,simplemente podría\Nchasquear los dedos.
+Dialogue: 0,1:47:43.04,1:47:47.75,Default,,0,0,0,,Todos dejarían de existir.\NA eso lo llamo... Piedad.
+Dialogue: 0,1:47:49.84,1:47:51.34,Default,,0,0,0,,¿Y luego qué?
+Dialogue: 0,1:47:52.68,1:47:54.18,Default,,0,0,0,,Podría descansar...
+Dialogue: 0,1:47:54.97,1:47:58.10,Default,,0,0,0,,y contemplar la salida del sol\Nen un universo agradecido.
+Dialogue: 0,1:47:59.27,1:48:02.81,Default,,0,0,0,,Las decisiones más difíciles\Nrequieren las voluntades más fuertes.
+Dialogue: 0,1:48:03.65,1:48:08.36,Default,,0,0,0,,Creo que verás\Nque nuestra voluntad es igual a la tuya.
+Dialogue: 0,1:48:09.82,1:48:10.82,Default,,0,0,0,,¿Nuestra?
+Dialogue: 0,1:48:16.87,1:48:18.28,Default,,0,0,0,,Pan comido, Quill.
+Dialogue: 0,1:48:18.45,1:48:20.70,Default,,0,0,0,,Si tu objetivo era enfadarlo.
+Dialogue: 0,1:48:58.87,1:49:00.08,Default,,0,0,0,,¡Bum!
+Dialogue: 0,1:49:01.16,1:49:03.04,Default,,0,0,0,,No lo dejes cerrar el puño.
+Dialogue: 0,1:49:07.25,1:49:08.25,Default,,0,0,0,,Magia.
+Dialogue: 0,1:49:08.88,1:49:09.88,Default,,0,0,0,,Más magia.
+Dialogue: 0,1:49:10.71,1:49:11.71,Default,,0,0,0,,Magia con patadas.
+Dialogue: 0,1:49:12.34,1:49:13.34,Default,,0,0,0,,Magia con...
+Dialogue: 0,1:49:14.67,1:49:15.67,Default,,0,0,0,,¡Insecto!
+Dialogue: 0,1:49:53.38,1:49:54.51,Default,,0,0,0,,Vaya, vaya.
+Dialogue: 0,1:49:54.67,1:49:55.72,Default,,0,0,0,,Debiste matarme.
+Dialogue: 0,1:49:55.88,1:49:57.59,Default,,0,0,0,,Habría sido un desperdicio de piezas.
+Dialogue: 0,1:50:03.22,1:50:04.35,Default,,0,0,0,,¿Dónde está Gamora?
+Dialogue: 0,1:50:45.85,1:50:46.85,Default,,0,0,0,,{\i1}Mantenlo dormido.{\i0}
+Dialogue: 0,1:50:46.89,1:50:49.52,Default,,0,0,0,,Date prisa. Es muy fuerte.
+Dialogue: 0,1:50:49.69,1:50:51.73,Default,,0,0,0,,Parker, ¡ayuda! Ven aquí.
+Dialogue: 0,1:50:51.90,1:50:54.19,Default,,0,0,0,,{\i1}No puede retenerlo mucho más tiempo.{\i0}
+Dialogue: 0,1:50:59.70,1:51:00.74,Default,,0,0,0,,Debemos abrirle los dedos.
+Dialogue: 0,1:51:00.86,1:51:03.28,Default,,0,0,0,,Creí que serías más difícil de atrapar.\NY fue mi plan.
+Dialogue: 0,1:51:04.62,1:51:06.33,Default,,0,0,0,,Ahora no eres tan fuerte, ¿no?
+Dialogue: 0,1:51:06.83,1:51:08.58,Default,,0,0,0,,¿Dónde está Gamora?
+Dialogue: 0,1:51:09.58,1:51:10.62,Default,,0,0,0,,Mi Gamora.
+Dialogue: 0,1:51:10.79,1:51:12.83,Default,,0,0,0,,No, ¡tonterías!
+Dialogue: 0,1:51:13.13,1:51:14.42,Default,,0,0,0,,¿Dónde está?
+Dialogue: 0,1:51:15.50,1:51:16.80,Default,,0,0,0,,Está angustiado.
+Dialogue: 0,1:51:17.51,1:51:18.63,Default,,0,0,0,,Mejor.
+Dialogue: 0,1:51:20.80,1:51:21.93,Default,,0,0,0,,Llora una muerte.
+Dialogue: 0,1:51:22.47,1:51:26.10,Default,,0,0,0,,¿A quién tiene que llorar\Neste monstruo?
+Dialogue: 0,1:51:26.97,1:51:27.97,Default,,0,0,0,,A Gamora.
+Dialogue: 0,1:51:31.77,1:51:32.77,Default,,0,0,0,,¿Qué?
+Dialogue: 0,1:51:33.19,1:51:34.69,Default,,0,0,0,,La llevó a Vormir.
+Dialogue: 0,1:51:35.32,1:51:37.28,Default,,0,0,0,,Regresó con la Gema del Alma.
+Dialogue: 0,1:51:38.07,1:51:39.57,Default,,0,0,0,,Pero ella no regresó.
+Dialogue: 0,1:51:41.49,1:51:44.66,Default,,0,0,0,,Quill, cálmate ahora mismo.\N¿Entiendes?
+Dialogue: 0,1:51:45.53,1:51:49.00,Default,,0,0,0,,No. No lo enfrentes. ¡Casi terminamos!
+Dialogue: 0,1:51:50.41,1:51:51.41,Default,,0,0,0,,Dime que miente.
+Dialogue: 0,1:51:53.71,1:51:56.50,Default,,0,0,0,,Maldito, ¡dime que no lo hiciste!
+Dialogue: 0,1:51:57.96,1:52:01.38,Default,,0,0,0,,Tuve que hacerlo.
+Dialogue: 0,1:52:02.13,1:52:03.55,Default,,0,0,0,,No, no lo hiciste.
+Dialogue: 0,1:52:04.01,1:52:05.43,Default,,0,0,0,,No lo hiciste.
+Dialogue: 0,1:52:09.27,1:52:10.60,Default,,0,0,0,,- ¡No lo hiciste!\N- ¡Quill!
+Dialogue: 0,1:52:10.77,1:52:12.56,Default,,0,0,0,,Oye, ¡detente!
+Dialogue: 0,1:52:13.27,1:52:14.27,Default,,0,0,0,,{\i1}¡Detente!{\i0}
+Dialogue: 0,1:52:14.40,1:52:16.23,Default,,0,0,0,,Está saliendo. ¡Lo tengo!
+Dialogue: 0,1:52:19.86,1:52:20.86,Default,,0,0,0,,¡Ay, Dios!
+Dialogue: 0,1:53:20.09,1:53:22.42,Default,,0,0,0,,¡Prueben un poco, perros espaciales!
+Dialogue: 0,1:53:25.76,1:53:28.35,Default,,0,0,0,,¡Vamos! ¡Prueben un poco!
+Dialogue: 0,1:53:28.51,1:53:30.43,Default,,0,0,0,,¡Vamos! ¡Prueben un poco!
+Dialogue: 0,1:53:30.68,1:53:31.81,Default,,0,0,0,,¿Cuánto por el arma?
+Dialogue: 0,1:53:31.97,1:53:32.97,Default,,0,0,0,,No la vendo.
+Dialogue: 0,1:53:33.35,1:53:35.23,Default,,0,0,0,,Bueno. ¿Cuánto por el brazo?
+Dialogue: 0,1:53:37.10,1:53:39.11,Default,,0,0,0,,Conseguiré ese brazo.
+Dialogue: 0,1:53:47.99,1:53:48.99,Default,,0,0,0,,¿Nuevo corte de pelo?
+Dialogue: 0,1:53:49.37,1:53:50.66,Default,,0,0,0,,Me copiaste la barba.
+Dialogue: 0,1:53:53.29,1:53:55.04,Default,,0,0,0,,A propósito, es mi amigo, Tronco.
+Dialogue: 0,1:53:55.96,1:53:57.87,Default,,0,0,0,,Yo soy Groot.
+Dialogue: 0,1:53:58.88,1:54:00.34,Default,,0,0,0,,Yo soy Steve Rogers.
+Dialogue: 0,1:54:20.40,1:54:22.57,Default,,0,0,0,,¡Retrocedan, ahora!
+Dialogue: 0,1:54:31.99,1:54:33.70,Default,,0,0,0,,Concentra el fuego a la izquierda, Sam.
+Dialogue: 0,1:54:34.29,1:54:35.41,Default,,0,0,0,,{\i1}Eso hago.{\i0}
+Dialogue: 0,1:54:59.31,1:55:00.94,Default,,0,0,0,,¿Por qué estaba arriba?
+Dialogue: 0,1:55:01.90,1:55:04.77,Default,,0,0,0,,Ella está en el campo. Tómala.
+Dialogue: 0,1:55:36.39,1:55:38.52,Default,,0,0,0,,Chicos,\Ntenemos un problema con Visión.
+Dialogue: 0,1:55:41.27,1:55:42.65,Default,,0,0,0,,¡Qué alguien vaya con Visión!
+Dialogue: 0,1:55:43.40,1:55:44.23,Default,,0,0,0,,{\i1}¡Voy yo!{\i0}
+Dialogue: 0,1:55:44.40,1:55:45.40,Default,,0,0,0,,Allá voy.
+Dialogue: 0,1:55:50.57,1:55:53.41,Default,,0,0,0,,Morirá sólo. Como tú.
+Dialogue: 0,1:55:53.57,1:55:54.87,Default,,0,0,0,,No está sola.
+Dialogue: 0,1:56:21.10,1:56:22.81,Default,,0,0,0,,{\i1}No, no lo harán.{\i0}
+Dialogue: 0,1:56:22.98,1:56:24.44,Default,,0,0,0,,No será como Nueva York.
+Dialogue: 0,1:56:24.60,1:56:26.90,Default,,0,0,0,,Este traje ya superó a Hulk.
+Dialogue: 0,1:56:27.07,1:56:28.07,Default,,0,0,0,,{\i1}¿Qué? ¡No!{\i0}
+Dialogue: 0,1:56:31.82,1:56:34.53,Default,,0,0,0,,{\i1}¡Chicos!\N¡Visión necesita ayuda! ¡Ahora!{\i0}
+Dialogue: 0,1:56:36.53,1:56:40.12,Default,,0,0,0,,¿Hulk? Sé que te gusta entrar\Nen el último segundo.
+Dialogue: 0,1:56:40.29,1:56:42.91,Default,,0,0,0,,Llegó la hora, amigo.\NEs el último segundo.
+Dialogue: 0,1:56:47.38,1:56:48.92,Default,,0,0,0,,¡Hulk!
+Dialogue: 0,1:56:49.96,1:56:50.96,Default,,0,0,0,,¡Hulk!
+Dialogue: 0,1:56:51.97,1:56:54.13,Default,,0,0,0,,¡No!
+Dialogue: 0,1:56:54.30,1:56:57.05,Default,,0,0,0,,¡Jódete, maldito grande y verde!
+Dialogue: 0,1:56:57.22,1:56:58.39,Default,,0,0,0,,¡Lo haré yo sólo!
+Dialogue: 0,1:56:59.35,1:57:01.18,Default,,0,0,0,,{\i1}¡Vamos! ¡Sí!{\i0}
+Dialogue: 0,1:57:14.07,1:57:15.11,Default,,0,0,0,,{\i1}¡Adiós!{\i0}
+Dialogue: 0,1:57:26.67,1:57:29.17,Default,,0,0,0,,Hulk, tú y yo tenemos\Nmucho que resolver.
+Dialogue: 0,1:57:40.22,1:57:42.10,Default,,0,0,0,,Te creía fantástico, máquina.
+Dialogue: 0,1:57:43.06,1:57:45.60,Default,,0,0,0,,Pero agonizas como cualquier hombre.
+Dialogue: 0,1:57:54.19,1:57:55.45,Default,,0,0,0,,¡Sal de aquí!
+Dialogue: 0,1:57:58.99,1:57:59.99,Default,,0,0,0,,¡Vete!
+Dialogue: 0,1:58:18.64,1:58:20.30,Default,,0,0,0,,Eso fue realmente asqueroso.
+Dialogue: 0,1:58:47.46,1:58:48.54,Default,,0,0,0,,Dije que te fueras.
+Dialogue: 0,1:58:50.13,1:58:51.88,Default,,0,0,0,,No intercambiamos vidas, Capitán.
+Dialogue: 0,1:59:03.30,1:59:05.39,Default,,0,0,0,,Te tengo.
+Dialogue: 0,1:59:05.64,1:59:07.64,Default,,0,0,0,,Perdón,\Nno recuerdo los nombres de nadie.
+Dialogue: 0,1:59:52.90,1:59:54.40,Default,,0,0,0,,Eres muy listo, hechicero.
+Dialogue: 0,1:59:56.48,1:59:59.40,Default,,0,0,0,,Sin embargo,\Nnunca usaste tu mejor arma.
+Dialogue: 0,2:00:02.82,2:00:03.82,Default,,0,0,0,,Una falsa.
+Dialogue: 0,2:00:11.79,2:00:15.25,Default,,0,0,0,,Si me tiras otra luna, voy a enojarme.
+Dialogue: 0,2:00:15.42,2:00:16.59,Default,,0,0,0,,Stark.
+Dialogue: 0,2:00:16.75,2:00:17.84,Default,,0,0,0,,¿Me conoces?
+Dialogue: 0,2:00:18.46,2:00:19.59,Default,,0,0,0,,Sí.
+Dialogue: 0,2:00:20.13,2:00:23.26,Default,,0,0,0,,No eres el único\Ncon la maldición del conocimiento.
+Dialogue: 0,2:00:24.18,2:00:25.51,Default,,0,0,0,,Mi única maldición eres tú.
+Dialogue: 0,2:00:28.10,2:00:29.10,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,2:00:57.04,2:00:59.00,Default,,0,0,0,,Tanto esfuerzo por una gota de sangre.
+Dialogue: 0,2:01:43.05,2:01:44.84,Default,,0,0,0,,Mereces mi respeto, Stark.
+Dialogue: 0,2:01:46.51,2:01:49.68,Default,,0,0,0,,Cuando termine,\Nla mitad de la humanidad aún vivirá.
+Dialogue: 0,2:01:55.23,2:01:57.31,Default,,0,0,0,,Espero que te recuerden.
+Dialogue: 0,2:02:07.32,2:02:08.32,Default,,0,0,0,,Detente.
+Dialogue: 0,2:02:14.54,2:02:15.54,Default,,0,0,0,,Déjalo vivir...
+Dialogue: 0,2:02:17.33,2:02:19.08,Default,,0,0,0,,y te daré la gema.
+Dialogue: 0,2:02:22.63,2:02:23.92,Default,,0,0,0,,Sin trucos.
+Dialogue: 0,2:02:28.72,2:02:29.72,Default,,0,0,0,,No.
+Dialogue: 0,2:03:21.15,2:03:22.86,Default,,0,0,0,,Falta sólo una más.
+Dialogue: 0,2:03:32.74,2:03:34.16,Default,,0,0,0,,¿Dónde está?
+Dialogue: 0,2:03:43.13,2:03:44.50,Default,,0,0,0,,¿Perdimos?
+Dialogue: 0,2:03:48.42,2:03:50.34,Default,,0,0,0,,¿Por qué lo hiciste?
+Dialogue: 0,2:03:53.68,2:03:55.93,Default,,0,0,0,,Entramos en la fase final.
+Dialogue: 0,2:04:21.96,2:04:23.33,Default,,0,0,0,,¿Estás bien?
+Dialogue: 0,2:04:25.29,2:04:27.00,Default,,0,0,0,,¿Qué? ¿Qué pasa?
+Dialogue: 0,2:04:29.17,2:04:30.30,Default,,0,0,0,,Está aquí.
+Dialogue: 0,2:04:41.31,2:04:44.35,Default,,0,0,0,,Todos, vengan donde estoy.\NLlegan enemigos.
+Dialogue: 0,2:04:47.11,2:04:49.07,Default,,0,0,0,,¿Qué te pasa?
+Dialogue: 0,2:05:14.76,2:05:15.76,Default,,0,0,0,,Cap.
+Dialogue: 0,2:05:16.34,2:05:17.80,Default,,0,0,0,,Es él.
+Dialogue: 0,2:05:19.85,2:05:22.43,Default,,0,0,0,,Miren detenidamente. Estén atentos.
+Dialogue: 0,2:05:47.17,2:05:48.17,Default,,0,0,0,,Wanda.
+Dialogue: 0,2:05:49.04,2:05:50.34,Default,,0,0,0,,Llegó la hora.
+Dialogue: 0,2:05:50.50,2:05:51.50,Default,,0,0,0,,No.
+Dialogue: 0,2:05:51.67,2:05:53.88,Default,,0,0,0,,No pueden detenerlo, nosotros sí.
+Dialogue: 0,2:05:54.05,2:05:55.47,Default,,0,0,0,,Mírame.
+Dialogue: 0,2:05:55.63,2:05:56.80,Default,,0,0,0,,Puedes destruir la gema.
+Dialogue: 0,2:05:56.97,2:05:59.10,Default,,0,0,0,,- No.\N- Debes hacerlo. Por favor, Wanda.
+Dialogue: 0,2:06:01.10,2:06:03.68,Default,,0,0,0,,Se nos acaba el tiempo.
+Dialogue: 0,2:06:04.48,2:06:05.60,Default,,0,0,0,,No puedo.
+Dialogue: 0,2:06:05.77,2:06:07.19,Default,,0,0,0,,Sí, puedes.
+Dialogue: 0,2:06:07.85,2:06:09.11,Default,,0,0,0,,Puedes.
+Dialogue: 0,2:06:10.61,2:06:12.90,Default,,0,0,0,,Si obtiene la gema,\Nperece medio universo.
+Dialogue: 0,2:06:15.28,2:06:16.78,Default,,0,0,0,,No es justo.
+Dialogue: 0,2:06:17.99,2:06:19.57,Default,,0,0,0,,No deberías hacerlo tú, pero es así.
+Dialogue: 0,2:06:21.53,2:06:22.99,Default,,0,0,0,,Está bien.
+Dialogue: 0,2:06:24.41,2:06:26.12,Default,,0,0,0,,Nunca podrías lastimarme.
+Dialogue: 0,2:06:35.17,2:06:36.97,Default,,0,0,0,,Simplemente te siento.
+Dialogue: 0,2:08:00.09,2:08:01.22,Default,,0,0,0,,Está bien.
+Dialogue: 0,2:08:11.14,2:08:12.48,Default,,0,0,0,,Está bien.
+Dialogue: 0,2:08:16.82,2:08:17.90,Default,,0,0,0,,Te amo.
+Dialogue: 0,2:08:47.22,2:08:49.35,Default,,0,0,0,,Lo entiendo, hija mía.
+Dialogue: 0,2:08:50.89,2:08:52.52,Default,,0,0,0,,Mejor que nadie.
+Dialogue: 0,2:08:54.19,2:08:56.11,Default,,0,0,0,,No eres capaz de entenderlo.
+Dialogue: 0,2:09:00.94,2:09:03.95,Default,,0,0,0,,Hoy perdí más de lo que te imaginas.
+Dialogue: 0,2:09:05.74,2:09:08.37,Default,,0,0,0,,Pero no es tiempo para llorar.
+Dialogue: 0,2:09:10.62,2:09:14.62,Default,,0,0,0,,Ahora... No existe el tiempo.
+Dialogue: 0,2:09:37.94,2:09:38.94,Default,,0,0,0,,¡No!
+Dialogue: 0,2:10:36.92,2:10:38.38,Default,,0,0,0,,Te dije...
+Dialogue: 0,2:10:39.75,2:10:41.59,Default,,0,0,0,,que morirías por eso.
+Dialogue: 0,2:10:55.93,2:10:57.69,Default,,0,0,0,,Deberías...
+Dialogue: 0,2:11:00.31,2:11:01.77,Default,,0,0,0,,Tú...
+Dialogue: 0,2:11:04.28,2:11:07.53,Default,,0,0,0,,Deberías haberme dado en la cabeza.
+Dialogue: 0,2:11:09.45,2:11:10.45,Default,,0,0,0,,¡No!
+Dialogue: 0,2:11:43.86,2:11:45.07,Default,,0,0,0,,¿Hija?
+Dialogue: 0,2:11:52.70,2:11:54.08,Default,,0,0,0,,¿Lo hiciste?
+Dialogue: 0,2:11:55.99,2:11:57.00,Default,,0,0,0,,Sí.
+Dialogue: 0,2:12:05.42,2:12:07.01,Default,,0,0,0,,¿Cuánto te costó?
+Dialogue: 0,2:12:10.72,2:12:12.22,Default,,0,0,0,,Todo.
+Dialogue: 0,2:12:22.48,2:12:24.02,Default,,0,0,0,,¿Qué hiciste?
+Dialogue: 0,2:12:25.27,2:12:26.78,Default,,0,0,0,,¿Qué hiciste?
+Dialogue: 0,2:12:40.41,2:12:41.79,Default,,0,0,0,,¿Adónde se fue?
+Dialogue: 0,2:12:44.88,2:12:45.88,Default,,0,0,0,,Thor.
+Dialogue: 0,2:12:49.09,2:12:50.72,Default,,0,0,0,,¿Adónde se fue?
+Dialogue: 0,2:12:50.88,2:12:52.13,Default,,0,0,0,,¿Steve?
+Dialogue: 0,2:13:26.96,2:13:29.25,Default,,0,0,0,,Levántate, general. ¡Levántate!
+Dialogue: 0,2:13:29.84,2:13:31.72,Default,,0,0,0,,No es lugar para morir.
+Dialogue: 0,2:13:46.31,2:13:48.23,Default,,0,0,0,,Yo soy Groot.
+Dialogue: 0,2:13:50.40,2:13:52.49,Default,,0,0,0,,¡No!
+Dialogue: 0,2:13:53.32,2:13:56.16,Default,,0,0,0,,¡Groot! No.
+Dialogue: 0,2:14:09.59,2:14:10.75,Default,,0,0,0,,¡Sam!
+Dialogue: 0,2:14:14.80,2:14:16.55,Default,,0,0,0,,Sam, ¿dónde estás?
+Dialogue: 0,2:14:25.77,2:14:27.98,Default,,0,0,0,,Algo pasa.
+Dialogue: 0,2:14:40.12,2:14:41.28,Default,,0,0,0,,¿Quill?
+Dialogue: 0,2:14:48.67,2:14:49.79,Default,,0,0,0,,Quieto, Quill.
+Dialogue: 0,2:14:49.96,2:14:51.13,Default,,0,0,0,,Hombre.
+Dialogue: 0,2:14:55.30,2:14:56.30,Default,,0,0,0,,Tony.
+Dialogue: 0,2:14:59.84,2:15:02.31,Default,,0,0,0,,No había otra manera.
+Dialogue: 0,2:15:08.14,2:15:09.14,Default,,0,0,0,,¿Sr. Stark?
+Dialogue: 0,2:15:13.44,2:15:14.78,Default,,0,0,0,,No me siento muy bien.
+Dialogue: 0,2:15:17.03,2:15:18.95,Default,,0,0,0,,- Estás bien.\N- No sé qué pasa.
+Dialogue: 0,2:15:19.11,2:15:20.11,Default,,0,0,0,,No sé...
+Dialogue: 0,2:15:22.41,2:15:25.29,Default,,0,0,0,,No quiero morir, señor. Por favor.
+Dialogue: 0,2:15:25.45,2:15:28.16,Default,,0,0,0,,Por favor, no quiero morir.
+Dialogue: 0,2:15:32.71,2:15:34.21,Default,,0,0,0,,Lo lamento.
+Dialogue: 0,2:15:49.06,2:15:50.52,Default,,0,0,0,,Lo hizo.
+Dialogue: 0,2:16:15.30,2:16:18.51,Default,,0,0,0,,¿Qué es esto? ¿Qué diablos pasa?
+Dialogue: 0,2:16:35.40,2:16:37.15,Default,,0,0,0,,¡Dios mío!
+Dialogue: 0,2:27:33.43,2:27:34.77,Default,,0,0,0,,{\i1}¿Aún sin noticias de Stark?{\i0}
+Dialogue: 0,2:27:34.93,2:27:36.18,Default,,0,0,0,,{\i1}No, aún no.{\i0}
+Dialogue: 0,2:27:36.35,2:27:38.35,Default,,0,0,0,,{\i1}Observamos los satélites\Nen ambos hemisferios,{\i0}
+Dialogue: 0,2:27:38.44,2:27:39.60,Default,,0,0,0,,{\i1}no hay nada aún.{\i0}
+Dialogue: 0,2:27:40.61,2:27:41.65,Default,,0,0,0,,¿Qué es?
+Dialogue: 0,2:27:41.82,2:27:44.15,Default,,0,0,0,,Varias naves desconocidas\Nsobre Wakanda.
+Dialogue: 0,2:27:44.32,2:27:46.24,Default,,0,0,0,,¿La misma firma energética\Nque en Nueva York?
+Dialogue: 0,2:27:46.40,2:27:47.74,Default,,0,0,0,,Diez veces mayor.
+Dialogue: 0,2:27:49.24,2:27:51.20,Default,,0,0,0,,- Dile a Klein que lo veremos...\N- ¡Nick!
+Dialogue: 0,2:28:05.13,2:28:06.42,Default,,0,0,0,,¿Están bien?
+Dialogue: 0,2:28:07.42,2:28:09.18,Default,,0,0,0,,No hay nadie aquí.
+Dialogue: 0,2:28:18.73,2:28:20.23,Default,,0,0,0,,Llama a Control.
+Dialogue: 0,2:28:20.98,2:28:22.27,Default,,0,0,0,,Código rojo.
+Dialogue: 0,2:28:22.94,2:28:23.94,Default,,0,0,0,,Nick.
+Dialogue: 0,2:28:25.61,2:28:26.61,Default,,0,0,0,,Hill.
+Dialogue: 0,2:28:41.54,2:28:42.71,Default,,0,0,0,,Ay, no.
+Dialogue: 0,2:28:44.34,2:28:45.34,Default,,0,0,0,,Hijo de...
+Dialogue: 0,2:28:51.34,2:28:57.22,Default,,0,0,0,,{\i1}ENVIANDO...{\i0}
+Dialogue: 0,2:29:15.28,2:29:17.29,Default,,0,0,0,,{\i1}THANOS regresará...{\i0}
