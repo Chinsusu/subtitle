@@ -1,0 +1,832 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:57.72,0:00:59.47,Default,,0,0,0,,{\i1}Maailma pysyy liikkeessä,{\i0}
+Dialogue: 0,0:01:00.76,0:01:01.60,Default,,0,0,0,,{\i1}muuttuu -{\i0}
+Dialogue: 0,0:01:02.60,0:01:03.48,Default,,0,0,0,,{\i1}ja kehittyy.{\i0}
+Dialogue: 0,0:01:05.23,0:01:08.35,Default,,0,0,0,,{\i1}Elämme jokapäiväistä elämäämme.{\i0}
+Dialogue: 0,0:01:11.07,0:01:14.28,Default,,0,0,0,,{\i1}Työ, koti, perhe.{\i0}
+Dialogue: 0,0:01:17.41,0:01:18.53,Default,,0,0,0,,{\i1}Mutta keitä olemme?{\i0}
+Dialogue: 0,0:01:20.74,0:01:21.62,Default,,0,0,0,,{\i1}Kuka olen?{\i0}
+Dialogue: 0,0:01:25.41,0:01:27.67,Default,,0,0,0,,{\i1}Sitä luulee tuntevansa kauniin vaimonsa,{\i0}
+Dialogue: 0,0:01:29.71,0:01:31.09,Default,,0,0,0,,{\i1}suloiset lapsensa -{\i0}
+Dialogue: 0,0:01:35.34,0:01:36.55,Default,,0,0,0,,{\i1}ja työnantajansa.{\i0}
+Dialogue: 0,0:01:38.38,0:01:39.76,Default,,0,0,0,,{\i1}Entä jos ei tunnekaan?{\i0}
+Dialogue: 0,0:01:42.31,0:01:43.35,Default,,0,0,0,,{\i1}Entä jos totuus -{\i0}
+Dialogue: 0,0:01:45.73,0:01:46.89,Default,,0,0,0,,{\i1}paljastuessaan -{\i0}
+Dialogue: 0,0:01:48.77,0:01:50.11,Default,,0,0,0,,{\i1}muuttaakin kaiken?{\i0}
+Dialogue: 0,0:02:25.72,0:02:27.14,Default,,0,0,0,,Näitkö taas painajaista?
+Dialogue: 0,0:02:28.56,0:02:29.39,Default,,0,0,0,,Näin. Anteeksi.
+Dialogue: 0,0:02:32.40,0:02:34.52,Default,,0,0,0,,Puhuisit jollekulle.
+Dialogue: 0,0:02:35.36,0:02:38.40,Default,,0,0,0,,Olen huolissani sinusta. Tytöt myös.
+Dialogue: 0,0:02:41.53,0:02:42.74,Default,,0,0,0,,Selvitän asian itse.
+Dialogue: 0,0:02:47.91,0:02:50.00,Default,,0,0,0,,Kerronko pelottavamman painajaisen?
+Dialogue: 0,0:02:51.58,0:02:55.50,Default,,0,0,0,,Aviomies ei suostu\Nkäsittelemään ongelmiaan,
+Dialogue: 0,0:02:55.59,0:02:59.72,Default,,0,0,0,,joten vaimo tulee\Nunen puutteesta hulluksi -
+Dialogue: 0,0:03:00.63,0:03:02.39,Default,,0,0,0,,ja työntää hänet ikkunasta.
+Dialogue: 0,0:03:05.39,0:03:06.35,Default,,0,0,0,,Loppu.
+Dialogue: 0,0:03:49.85,0:03:52.14,Default,,0,0,0,,{\i1}Matkin minkä näen!{\i0}
+Dialogue: 0,0:03:56.69,0:03:57.82,Default,,0,0,0,,Mitä teet?
+Dialogue: 0,0:03:58.69,0:04:01.32,Default,,0,0,0,,Leikin apinalla. Voit olla avustajani.
+Dialogue: 0,0:04:01.44,0:04:04.57,Default,,0,0,0,,Voinko? Olisin mielelläni avustajasi,
+Dialogue: 0,0:04:04.66,0:04:06.41,Default,,0,0,0,,mutta pitää ehtiä töihin.
+Dialogue: 0,0:04:08.45,0:04:13.75,Default,,0,0,0,,Arvaa mitä?\NOlemme olleet ahkeria viime aikoina.
+Dialogue: 0,0:04:13.83,0:04:15.04,Default,,0,0,0,,Varsinkin Herman.
+Dialogue: 0,0:04:15.12,0:04:17.75,Default,,0,0,0,,Sitä minäkin ajattelin.
+Dialogue: 0,0:04:18.34,0:04:21.21,Default,,0,0,0,,Entä jos lähden ajoissa\Nja menemme laiturille?
+Dialogue: 0,0:04:22.34,0:04:24.18,Default,,0,0,0,,Pitääkö Hannan tulla?
+Dialogue: 0,0:04:24.26,0:04:26.97,Default,,0,0,0,,-Pitää.\N-Isosiskosi pitää tulla.
+Dialogue: 0,0:04:27.05,0:04:29.14,Default,,0,0,0,,Pakotamme hänet viihtymään.
+Dialogue: 0,0:04:29.22,0:04:32.14,Default,,0,0,0,,Jos hän ei viihdy, näytän mitä teen.
+Dialogue: 0,0:04:32.73,0:04:33.94,Default,,0,0,0,,Ei!
+Dialogue: 0,0:04:34.02,0:04:35.81,Default,,0,0,0,,Lopeta!
+Dialogue: 0,0:04:36.10,0:04:37.52,Default,,0,0,0,,Missä Hanna muuten on?
+Dialogue: 0,0:04:38.11,0:04:39.02,Default,,0,0,0,,Arvaa.
+Dialogue: 0,0:04:40.53,0:04:42.40,Default,,0,0,0,,-Heippa, isi.\N-Heippa, Luce.
+Dialogue: 0,0:04:44.74,0:04:46.78,Default,,0,0,0,,Samantha kyselee,
+Dialogue: 0,0:04:46.86,0:04:49.91,Default,,0,0,0,,koska pidämme juhlat\Nsen työjuttuni kunniaksi.
+Dialogue: 0,0:04:50.66,0:04:52.29,Default,,0,0,0,,Ai niin.
+Dialogue: 0,0:04:52.75,0:04:54.21,Default,,0,0,0,,Juhlitaan huomenna.
+Dialogue: 0,0:04:54.50,0:04:55.71,Default,,0,0,0,,-Niinkö?\N-Niin.
+Dialogue: 0,0:04:55.92,0:04:56.75,Default,,0,0,0,,Selvä.
+Dialogue: 0,0:04:56.83,0:04:59.29,Default,,0,0,0,,Alan unohtaa, miltä ystävämme näyttävät.
+Dialogue: 0,0:05:01.92,0:05:03.30,Default,,0,0,0,,-Olet rakas.\N-Sinä myös.
+Dialogue: 0,0:05:06.59,0:05:07.43,Default,,0,0,0,,Laiturille!
+Dialogue: 0,0:05:11.51,0:05:12.35,Default,,0,0,0,,Huomenta. Aulaanko?
+Dialogue: 0,0:05:15.14,0:05:15.98,Default,,0,0,0,,Kyllä kiitos.
+Dialogue: 0,0:05:22.11,0:05:23.44,Default,,0,0,0,,Kaunis ilma tänään.
+Dialogue: 0,0:05:24.53,0:05:27.41,Default,,0,0,0,,Hissin liikkuessa ei puhuta.
+Dialogue: 0,0:05:27.49,0:05:28.41,Default,,0,0,0,,Aivan.
+Dialogue: 0,0:05:29.12,0:05:30.07,Default,,0,0,0,,Selvä.
+Dialogue: 0,0:05:31.53,0:05:33.45,Default,,0,0,0,,Jopas, hyvä ajoitus.
+Dialogue: 0,0:05:33.87,0:05:34.91,Default,,0,0,0,,-Pete.\N-Hei.
+Dialogue: 0,0:05:36.46,0:05:37.92,Default,,0,0,0,,Neiti Hissihenkilö.
+Dialogue: 0,0:05:40.34,0:05:41.63,Default,,0,0,0,,Miten duuni sujuu?
+Dialogue: 0,0:05:41.79,0:05:43.80,Default,,0,0,0,,Olen vain koneiston osa.
+Dialogue: 0,0:05:43.88,0:05:46.84,Default,,0,0,0,,Valittaisin bisnesosastolle,\Nmutta kuka kuuntelisi?
+Dialogue: 0,0:05:47.72,0:05:48.97,Default,,0,0,0,,Kiitos, neiti.
+Dialogue: 0,0:05:49.64,0:05:52.93,Default,,0,0,0,,Hei, herra Wright,\Nvoinko tavata Maggien myöhemmin?
+Dialogue: 0,0:05:53.01,0:05:55.39,Default,,0,0,0,,Totta kai. Meillä on uusi äänentoisto.
+Dialogue: 0,0:05:55.48,0:05:57.10,Default,,0,0,0,,-Tanssibileet!\N-Mahtavaa!
+Dialogue: 0,0:05:57.19,0:05:59.40,Default,,0,0,0,,Meillä on tänään perheilta.
+Dialogue: 0,0:05:59.48,0:06:01.31,Default,,0,0,0,,Selvä. Joku toinen kerta.
+Dialogue: 0,0:06:01.73,0:06:02.86,Default,,0,0,0,,Nauttikaa!
+Dialogue: 0,0:06:03.73,0:06:06.78,Default,,0,0,0,,-Mitä yrität tehdä?\N-Ei, odota.
+Dialogue: 0,0:06:11.53,0:06:13.49,Default,,0,0,0,,Olen ollut pihalla viikkoja.
+Dialogue: 0,0:06:13.58,0:06:14.74,Default,,0,0,0,,Viikkoja?
+Dialogue: 0,0:06:15.87,0:06:16.79,Default,,0,0,0,,Hyvä solvaus.
+Dialogue: 0,0:06:17.58,0:06:18.41,Default,,0,0,0,,Kiitos.
+Dialogue: 0,0:06:20.12,0:06:22.29,Default,,0,0,0,,Voisimmeko viettää perheaikaa?
+Dialogue: 0,0:06:22.38,0:06:24.46,Default,,0,0,0,,Haluan hyvittää sen teille.
+Dialogue: 0,0:06:25.92,0:06:27.13,Default,,0,0,0,,Mitä me teemme?
+Dialogue: 0,0:06:27.72,0:06:28.80,Default,,0,0,0,,En tiedä.
+Dialogue: 0,0:06:29.59,0:06:31.97,Default,,0,0,0,,Se selviää vain menemällä yläkertaan.
+Dialogue: 0,0:07:33.16,0:07:34.20,Default,,0,0,0,,Jumaliste!
+Dialogue: 0,0:07:35.07,0:07:35.91,Default,,0,0,0,,Nollataan.
+Dialogue: 0,0:07:44.50,0:07:46.34,Default,,0,0,0,,Milloin viimeksi rikoit koneen?
+Dialogue: 0,0:07:46.79,0:07:49.46,Default,,0,0,0,,Virta jakautui ja käräytti järjestelmät.
+Dialogue: 0,0:07:49.55,0:07:52.51,Default,,0,0,0,,-Saatko nukuttua?\N-Saan. No, paremmin.
+Dialogue: 0,0:07:54.01,0:07:55.09,Default,,0,0,0,,Hassu juttu.
+Dialogue: 0,0:07:55.18,0:07:59.10,Default,,0,0,0,,Juttelin jonkun kanssa,\Njoka kertoi klinikasta, jossa hoidetaan -
+Dialogue: 0,0:07:59.85,0:08:04.02,Default,,0,0,0,,unettomuutta ja stressiä.\NVoin antaa numeron.
+Dialogue: 0,0:08:04.77,0:08:07.90,Default,,0,0,0,,-Yritän vain...\N-Tein vain pienen virheen.
+Dialogue: 0,0:08:09.11,0:08:10.15,Default,,0,0,0,,Korjaan sen.
+Dialogue: 0,0:08:10.78,0:08:11.94,Default,,0,0,0,,Toki.
+Dialogue: 0,0:08:13.49,0:08:14.32,Default,,0,0,0,,Selvä.
+Dialogue: 0,0:08:15.70,0:08:17.78,Default,,0,0,0,,-Sano, jos tarvitset jotain.\N-Selvä.
+Dialogue: 0,0:08:19.54,0:08:20.41,Default,,0,0,0,,David?
+Dialogue: 0,0:08:21.12,0:08:24.00,Default,,0,0,0,,Voisinko lähteä tänään ajoissa?
+Dialogue: 0,0:08:25.71,0:08:26.83,Default,,0,0,0,,Soitatko numeroon?
+Dialogue: 0,0:08:28.46,0:08:29.42,Default,,0,0,0,,Soitan.
+Dialogue: 0,0:08:30.38,0:08:31.30,Default,,0,0,0,,Hyvä on.
+Dialogue: 0,0:08:44.73,0:08:50.15,Default,,0,0,0,,Tavoitteena on päivittää Prescottin,\NCalderin ja Willow'n viemäriverkot.
+Dialogue: 0,0:08:50.53,0:08:53.99,Default,,0,0,0,,Jos keskitymme\Nkatujen alapuolisiin tunneleihin,
+Dialogue: 0,0:08:54.07,0:08:58.74,Default,,0,0,0,,voimme vähentää\Nlänsipuolen valumaa jopa 30 prosenttia.
+Dialogue: 0,0:08:59.12,0:09:01.41,Default,,0,0,0,,Kiitos paljon. Siinä kaikki.
+Dialogue: 0,0:09:04.21,0:09:06.71,Default,,0,0,0,,Päivitys olisi pitänyt tehdä kauan sitten.
+Dialogue: 0,0:09:06.79,0:09:08.54,Default,,0,0,0,,Hyvää työtä, Al.
+Dialogue: 0,0:09:08.96,0:09:10.80,Default,,0,0,0,,-Kiitos.\N-Ei kestä.
+Dialogue: 0,0:09:10.88,0:09:12.55,Default,,0,0,0,,Saan kehuja ylennyksestäsi.
+Dialogue: 0,0:09:12.63,0:09:16.97,Default,,0,0,0,,Haluatko tehdä ylitöitä ja miettiä,\Nmiten vesi ja sähkö saadaan mukaan?
+Dialogue: 0,0:09:17.80,0:09:21.18,Default,,0,0,0,,Aioin kysyä, voinko lähteä ajoissa.
+Dialogue: 0,0:09:21.76,0:09:23.60,Default,,0,0,0,,-Voit.\N-Kiitos.
+Dialogue: 0,0:10:07.02,0:10:10.56,Default,,0,0,0,,{\i1}Jos annamme tilaisuuden,{\i0}\N{\i1}ehkä he voivat hyödyttää planeettaa.{\i0}
+Dialogue: 0,0:10:10.65,0:10:13.07,Default,,0,0,0,,{\i1}Halusimme tai emme,{\i0}\N{\i1}he tulivat jäädäkseen.{\i0}
+Dialogue: 0,0:10:13.15,0:10:16.94,Default,,0,0,0,,{\i1}Harkitaan sitä,{\i0}\N{\i1}että he saavat samat oikeudet.{\i0}
+Dialogue: 0,0:10:17.03,0:10:19.07,Default,,0,0,0,,{\i1}Ei heillä ole oikeuksia.{\i0}
+Dialogue: 0,0:10:19.16,0:10:24.16,Default,,0,0,0,,{\i1}Jossain vaiheessa he kapinoivat,{\i0}\N{\i1}päihittävät ja alistavat meidät.{\i0}
+Dialogue: 0,0:10:24.24,0:10:25.79,Default,,0,0,0,,{\i1}He kukistavat ihmiskunnan.{\i0}
+Dialogue: 0,0:10:25.87,0:10:31.13,Default,,0,0,0,,{\i1}En halua pelotella, mutta näemme sen{\i0}\N{\i1}tapahtuvan jo. Meidän on toimittava nyt!{\i0}
+Dialogue: 0,0:10:44.47,0:10:45.43,Default,,0,0,0,,Alice!
+Dialogue: 0,0:11:24.85,0:11:26.93,Default,,0,0,0,,Näettekö tuon valon?
+Dialogue: 0,0:11:27.81,0:11:28.64,Default,,0,0,0,,Tuon valon.
+Dialogue: 0,0:11:47.62,0:11:50.33,Default,,0,0,0,,ANTIIKKILIIKE
+Dialogue: 0,0:12:01.42,0:12:03.34,Default,,0,0,0,,{\i1}Hänen piti varmaan jäädä töihin.{\i0}
+Dialogue: 0,0:12:04.80,0:12:06.89,Default,,0,0,0,,Ei sinun tarvitse puolustella.
+Dialogue: 0,0:12:09.35,0:12:13.52,Default,,0,0,0,,Sinulla on oikeus olla harmissasi.\NHänen olisi pitänyt soittaa.
+Dialogue: 0,0:12:15.81,0:12:17.73,Default,,0,0,0,,Tiedät, että hän rakastaa sinua.
+Dialogue: 0,0:12:18.73,0:12:19.94,Default,,0,0,0,,Tiedän.
+Dialogue: 0,0:12:22.70,0:12:23.82,Default,,0,0,0,,Hyvää yötä.
+Dialogue: 0,0:12:51.35,0:12:52.64,Default,,0,0,0,,Olen pahoillani.
+Dialogue: 0,0:12:54.52,0:12:56.23,Default,,0,0,0,,Ehdit näköjään ostoksille.
+Dialogue: 0,0:12:56.31,0:12:58.98,Default,,0,0,0,,-Tämä on tytöille.\N-Niin varmasti.
+Dialogue: 0,0:13:03.24,0:13:07.53,Default,,0,0,0,,-Saanko anteeksi?\N-Anteeksi keneltä? Minultako?
+Dialogue: 0,0:13:07.91,0:13:09.91,Default,,0,0,0,,-Vai tytöiltä?\N-En tarkoita sitä.
+Dialogue: 0,0:13:09.99,0:13:11.49,Default,,0,0,0,,Niin sinä ainakin teet.
+Dialogue: 0,0:13:16.50,0:13:18.33,Default,,0,0,0,,Näin taas painajaista.
+Dialogue: 0,0:13:19.38,0:13:21.30,Default,,0,0,0,,Tänään töissä.
+Dialogue: 0,0:13:22.34,0:13:24.51,Default,,0,0,0,,Pyörryin. Siksi myöhästyin.
+Dialogue: 0,0:13:28.84,0:13:29.72,Default,,0,0,0,,Peter.
+Dialogue: 0,0:13:31.43,0:13:32.97,Default,,0,0,0,,Olen huolissani sinusta.
+Dialogue: 0,0:13:33.06,0:13:34.10,Default,,0,0,0,,Tiedän.
+Dialogue: 0,0:13:34.18,0:13:37.19,Default,,0,0,0,,Minä ja tyttäresi. Hekin ovat huolissaan.
+Dialogue: 0,0:13:37.27,0:13:38.31,Default,,0,0,0,,En ymmärrä,
+Dialogue: 0,0:13:39.27,0:13:41.82,Default,,0,0,0,,mikset hanki apua.
+Dialogue: 0,0:13:41.90,0:13:43.57,Default,,0,0,0,,He sanovat, että kuvittelen.
+Dialogue: 0,0:13:43.65,0:13:46.36,Default,,0,0,0,,Niinhän sinä kuvitteletkin.
+Dialogue: 0,0:13:47.91,0:13:48.82,Default,,0,0,0,,Äiti?
+Dialogue: 0,0:13:53.04,0:13:54.79,Default,,0,0,0,,Miksi te huudatte?
+Dialogue: 0,0:13:54.87,0:13:57.58,Default,,0,0,0,,Ei hätää, muru. Tule. Kaikki on hyvin.
+Dialogue: 0,0:14:18.31,0:14:20.15,Default,,0,0,0,,Äiti, herää.
+Dialogue: 0,0:14:21.77,0:14:23.65,Default,,0,0,0,,Herää.
+Dialogue: 0,0:14:24.28,0:14:26.61,Default,,0,0,0,,Ole kiltti.
+Dialogue: 0,0:14:27.07,0:14:29.24,Default,,0,0,0,,Äiti, herää.
+Dialogue: 0,0:14:32.28,0:14:34.29,Default,,0,0,0,,Ole kiltti.
+Dialogue: 0,0:14:43.63,0:14:44.84,Default,,0,0,0,,-Tytöt!\N-Ei!
+Dialogue: 0,0:14:44.92,0:14:45.96,Default,,0,0,0,,-Lopeta!\N-Tytöt!
+Dialogue: 0,0:14:46.88,0:14:50.18,Default,,0,0,0,,Tytöt! Lopettakaa hetkeksi.
+Dialogue: 0,0:14:51.34,0:14:53.18,Default,,0,0,0,,Oletteko nähneet salkkuani?
+Dialogue: 0,0:14:53.26,0:14:54.26,Default,,0,0,0,,Ei!
+Dialogue: 0,0:15:01.27,0:15:02.23,Default,,0,0,0,,{\i1}Huomenta, tytöt.{\i0}
+Dialogue: 0,0:15:03.15,0:15:04.82,Default,,0,0,0,,Puhutaanko eilisestä?
+Dialogue: 0,0:15:09.32,0:15:10.15,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:15:10.78,0:15:11.74,Default,,0,0,0,,Olen pahoillani.
+Dialogue: 0,0:15:20.83,0:15:22.08,Default,,0,0,0,,Mikä Hermania vaivaa?
+Dialogue: 0,0:15:22.83,0:15:25.38,Default,,0,0,0,,-Se ei puhu enää.\N-Eikö?
+Dialogue: 0,0:15:27.76,0:15:29.42,Default,,0,0,0,,Ehkä se on vihainen sinulle.
+Dialogue: 0,0:15:30.88,0:15:31.72,Default,,0,0,0,,Ai.
+Dialogue: 0,0:15:33.39,0:15:34.39,Default,,0,0,0,,Tuota...
+Dialogue: 0,0:15:35.14,0:15:36.56,Default,,0,0,0,,Sillä on oikeus siihen.
+Dialogue: 0,0:15:38.60,0:15:41.06,Default,,0,0,0,,Voinko puhua Hermanille?
+Dialogue: 0,0:15:44.31,0:15:46.98,Default,,0,0,0,,Ymmärrän, miksi olet turhautunut,
+Dialogue: 0,0:15:48.11,0:15:51.32,Default,,0,0,0,,ja vaikka anteeksipyyntö\Nei korjaa kaikkea,
+Dialogue: 0,0:15:52.82,0:15:55.32,Default,,0,0,0,,olen pahoillani,\Netten päässyt perheiltaan.
+Dialogue: 0,0:15:57.03,0:16:00.33,Default,,0,0,0,,Voin vilkaista sitä\Nja yrittää korjata äänen.
+Dialogue: 0,0:16:05.33,0:16:07.04,Default,,0,0,0,,Milloin se puhuu?
+Dialogue: 0,0:16:07.21,0:16:09.80,Default,,0,0,0,,Kytken vain yhden johdon uudelleen.
+Dialogue: 0,0:16:13.84,0:16:15.34,Default,,0,0,0,,Herman, mitä sanot?
+Dialogue: 0,0:16:15.89,0:16:18.22,Default,,0,0,0,,{\i1}Matkin minkä näen!{\i0}
+Dialogue: 0,0:16:18.81,0:16:19.81,Default,,0,0,0,,Kiitos, isä.
+Dialogue: 0,0:16:20.43,0:16:22.73,Default,,0,0,0,,{\i1}Matkin minkä näen!{\i0}
+Dialogue: 0,0:16:30.15,0:16:31.28,Default,,0,0,0,,Soitin lääkärille.
+Dialogue: 0,0:16:31.90,0:16:33.78,Default,,0,0,0,,Tapaan hänet töiden jälkeen.
+Dialogue: 0,0:16:35.24,0:16:36.07,Default,,0,0,0,,Todellako?
+Dialogue: 0,0:16:37.16,0:16:38.99,Default,,0,0,0,,Kyllä vain.
+Dialogue: 0,0:16:58.47,0:17:02.39,Default,,0,0,0,,{\i1}Täällä Whole Lifessa{\i0}\N{\i1}mielenterveytesi on etusijalla.{\i0}
+Dialogue: 0,0:17:02.47,0:17:04.73,Default,,0,0,0,,{\i1}Kehity parhaaksi versioksi itsestäsi -{\i0}
+Dialogue: 0,0:17:04.81,0:17:08.77,Default,,0,0,0,,{\i1}asiantuntijapalvelujemme avulla,{\i0}\N{\i1}jotka tarjoamme maksutta -{\i0}
+Dialogue: 0,0:17:09.11,0:17:12.07,Default,,0,0,0,,{\i1}edistääksemme onnellista{\i0}\N{\i1}ja tervettä yhteiskuntaa.{\i0}
+Dialogue: 0,0:17:15.78,0:17:16.70,Default,,0,0,0,,Mitä näet?
+Dialogue: 0,0:17:18.87,0:17:19.91,Default,,0,0,0,,Anteeksi mitä?
+Dialogue: 0,0:17:21.08,0:17:22.33,Default,,0,0,0,,Et saa nukuttua.
+Dialogue: 0,0:17:24.20,0:17:25.41,Default,,0,0,0,,-En.\N-Niin.
+Dialogue: 0,0:17:27.54,0:17:29.08,Default,,0,0,0,,Jotain on tulossa.
+Dialogue: 0,0:17:31.92,0:17:33.51,Default,,0,0,0,,Mitä tarkoitat?
+Dialogue: 0,0:17:34.34,0:17:35.34,Default,,0,0,0,,Valoja.
+Dialogue: 0,0:17:36.38,0:17:37.76,Default,,0,0,0,,Yläpuolella.
+Dialogue: 0,0:17:38.89,0:17:40.14,Default,,0,0,0,,Ihmiset juoksevat...
+Dialogue: 0,0:17:41.60,0:17:42.47,Default,,0,0,0,,Kuolevat.
+Dialogue: 0,0:17:44.56,0:17:45.98,Default,,0,0,0,,Näetkö läheisiäsi?
+Dialogue: 0,0:17:47.94,0:17:49.10,Default,,0,0,0,,Emme ole yksin.
+Dialogue: 0,0:17:49.19,0:17:52.19,Default,,0,0,0,,He eivät halua meidän tietävän,\Nmitä on tulossa.
+Dialogue: 0,0:17:53.15,0:17:56.57,Default,,0,0,0,,He haluavat hallita meitä\Nja estää meitä kyselemästä.
+Dialogue: 0,0:17:57.03,0:18:00.74,Default,,0,0,0,,Ajatuksemme pyyhitään,\Nkoska jos tietäisimme, mitä on tulossa...
+Dialogue: 0,0:18:01.16,0:18:02.70,Default,,0,0,0,,-Kaaos.\N-Chris.
+Dialogue: 0,0:18:04.83,0:18:06.00,Default,,0,0,0,,Tuletko mukaani?
+Dialogue: 0,0:18:12.29,0:18:13.50,Default,,0,0,0,,Emme ole hulluja.
+Dialogue: 0,0:18:15.01,0:18:15.92,Default,,0,0,0,,Minä vain...
+Dialogue: 0,0:18:16.67,0:18:18.01,Default,,0,0,0,,Tämän on loputtava.
+Dialogue: 0,0:18:38.28,0:18:40.66,Default,,0,0,0,,{\i1}Evakuointi käynnissä.{\i0}
+Dialogue: 0,0:18:41.82,0:18:42.99,Default,,0,0,0,,He palaavat.
+Dialogue: 0,0:18:43.95,0:18:45.66,Default,,0,0,0,,Tavataan tehtaalla.
+Dialogue: 0,0:19:00.59,0:19:01.51,Default,,0,0,0,,Miten meni?
+Dialogue: 0,0:19:03.64,0:19:04.47,Default,,0,0,0,,Menin sinne.
+Dialogue: 0,0:19:05.31,0:19:06.72,Default,,0,0,0,,Mitä siellä sanottiin?
+Dialogue: 0,0:19:09.43,0:19:11.15,Default,,0,0,0,,Hän ei ehtinyt sanoa mitään.
+Dialogue: 0,0:19:11.77,0:19:13.69,Default,,0,0,0,,Lähdin ennen tapaamista.
+Dialogue: 0,0:19:14.73,0:19:18.03,Default,,0,0,0,,Kuuntele. Entä jos minun\Non tarkoitus nähdä nämä asiat?
+Dialogue: 0,0:19:18.65,0:19:20.32,Default,,0,0,0,,Nähdä nämä unet.
+Dialogue: 0,0:19:20.95,0:19:23.20,Default,,0,0,0,,Entä jos jotain pahaa on tapahtumassa,
+Dialogue: 0,0:19:23.91,0:19:26.37,Default,,0,0,0,,-ja tämä on merkki?\N-Lopeta.
+Dialogue: 0,0:19:28.41,0:19:31.71,Default,,0,0,0,,Ystävämme tulevat kohta.\NOle kiltti ja yritä.
+Dialogue: 0,0:19:31.96,0:19:34.08,Default,,0,0,0,,Olen pahoillani.
+Dialogue: 0,0:19:59.32,0:20:02.86,Default,,0,0,0,,Tunnelijärjestelmä on niin vanha,\Nettei kukaan muu suostunut.
+Dialogue: 0,0:20:02.95,0:20:05.53,Default,,0,0,0,,Ylennys on iso juttu. Olisit iloinen.
+Dialogue: 0,0:20:05.74,0:20:06.74,Default,,0,0,0,,-Minä olen.\N-Hyvä.
+Dialogue: 0,0:20:13.79,0:20:16.00,Default,,0,0,0,,Älä huolehdi hänestä. Ilta on sinun.
+Dialogue: 0,0:20:16.59,0:20:17.54,Default,,0,0,0,,Tiedän.
+Dialogue: 0,0:20:18.38,0:20:19.88,Default,,0,0,0,,-Äiti?\N-Niin?
+Dialogue: 0,0:20:21.47,0:20:24.97,Default,,0,0,0,,Isä käski kysyä,\Nvoinko viedä Hannan ja Lucyn meille.
+Dialogue: 0,0:20:25.05,0:20:26.76,Default,,0,0,0,,-Miksi?\N-Soittamaan musiikkia.
+Dialogue: 0,0:20:26.85,0:20:29.77,Default,,0,0,0,,Kulta, on epäkohteliasta lähteä.
+Dialogue: 0,0:20:48.24,0:20:49.12,Default,,0,0,0,,Hyvää yötä.
+Dialogue: 0,0:20:50.79,0:20:54.00,Default,,0,0,0,,Viimeiset vieraat lähtevät,\Njos haluat hyvästellä.
+Dialogue: 0,0:20:54.92,0:20:55.87,Default,,0,0,0,,Tai tervehtiä.
+Dialogue: 0,0:20:57.42,0:20:58.50,Default,,0,0,0,,Lähettikö vaimoni?
+Dialogue: 0,0:20:59.75,0:21:02.38,Default,,0,0,0,,Pahempaa. Minun vaimoni.
+Dialogue: 0,0:21:09.10,0:21:11.01,Default,,0,0,0,,Tykkään katsella ylös.
+Dialogue: 0,0:21:12.43,0:21:17.23,Default,,0,0,0,,-Se panee asiat oikeisiin mittasuhteisiin.\N-Mitä haluat kysyä?
+Dialogue: 0,0:21:21.15,0:21:22.69,Default,,0,0,0,,Asia ei kuulu minulle.
+Dialogue: 0,0:21:23.19,0:21:25.11,Default,,0,0,0,,Minusta katsot väärään suuntaan.
+Dialogue: 0,0:21:25.20,0:21:27.99,Default,,0,0,0,,Keskityt ylhäällä olevaan,
+Dialogue: 0,0:21:28.07,0:21:30.45,Default,,0,0,0,,vaikka pitäisi katsoa tänne.
+Dialogue: 0,0:21:30.53,0:21:31.45,Default,,0,0,0,,Minä katsonkin.
+Dialogue: 0,0:21:35.16,0:21:36.54,Default,,0,0,0,,Mitä hittoa tuo on?
+Dialogue: 0,0:21:38.54,0:21:39.38,Default,,0,0,0,,Näetkö sen?
+Dialogue: 0,0:21:40.00,0:21:41.63,Default,,0,0,0,,Totta kai näen.
+Dialogue: 0,0:22:00.36,0:22:01.36,Default,,0,0,0,,Mitä tuo on?
+Dialogue: 0,0:22:28.09,0:22:29.18,Default,,0,0,0,,Oletteko kunnossa?
+Dialogue: 0,0:22:32.97,0:22:34.14,Default,,0,0,0,,Mitä hittoa se oli?
+Dialogue: 0,0:22:47.69,0:22:49.28,Default,,0,0,0,,Kaikki sisään! Heti!
+Dialogue: 0,0:22:51.20,0:22:53.16,Default,,0,0,0,,Tytöt! Hanna!
+Dialogue: 0,0:22:53.74,0:22:54.70,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:01.17,0:23:02.04,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:23:02.88,0:23:03.84,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:04.59,0:23:06.63,Default,,0,0,0,,-Megan!\N-Hanna!
+Dialogue: 0,0:23:13.10,0:23:14.14,Default,,0,0,0,,Missä siskosi on?
+Dialogue: 0,0:23:14.22,0:23:16.52,Default,,0,0,0,,-Haluan äidin!\N-Tiedän. Alice!
+Dialogue: 0,0:23:17.14,0:23:18.60,Default,,0,0,0,,-Lucy!\N-Äiti!
+Dialogue: 0,0:23:18.68,0:23:20.60,Default,,0,0,0,,-Tule tänne.\N-Missä siskosi on?
+Dialogue: 0,0:23:20.69,0:23:22.19,Default,,0,0,0,,He ovat varmaan meillä.
+Dialogue: 0,0:23:22.27,0:23:24.44,Default,,0,0,0,,Jää Lucyn luo! Menen etsimään Hannan.
+Dialogue: 0,0:23:25.48,0:23:26.57,Default,,0,0,0,,Kaikki järjestyy.
+Dialogue: 0,0:23:27.11,0:23:29.03,Default,,0,0,0,,{\i1}Tämä on hätäkuulutus.{\i0}
+Dialogue: 0,0:23:29.11,0:23:31.95,Default,,0,0,0,,{\i1}Suunnatkaa lähimpään{\i0}\N{\i1}hallituksen rakennukseen -{\i0}
+Dialogue: 0,0:23:32.03,0:23:33.57,Default,,0,0,0,,{\i1}pysyäksenne turvassa.{\i0}
+Dialogue: 0,0:23:33.66,0:23:35.16,Default,,0,0,0,,{\i1}Tämä on hätäkuulutus.{\i0}
+Dialogue: 0,0:23:35.24,0:23:38.29,Default,,0,0,0,,{\i1}Suunnatkaa lähimpään{\i0}\N{\i1}hallituksen rakennukseen -{\i0}
+Dialogue: 0,0:23:38.37,0:23:39.62,Default,,0,0,0,,{\i1}pysyäksenne turvassa.{\i0}
+Dialogue: 0,0:23:46.09,0:23:49.67,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:49.88,0:23:50.84,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:23:53.34,0:23:54.18,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:24:02.73,0:24:03.90,Default,,0,0,0,,Maahan!
+Dialogue: 0,0:24:27.96,0:24:29.09,Default,,0,0,0,,He eivät ole täällä.
+Dialogue: 0,0:24:31.17,0:24:32.42,Default,,0,0,0,,Tiedän, missä he ovat.
+Dialogue: 0,0:24:42.64,0:24:43.48,Default,,0,0,0,,Voi ei.
+Dialogue: 0,0:24:43.56,0:24:45.77,Default,,0,0,0,,Aluksilla tulleet ovat rakennuksessa.
+Dialogue: 0,0:24:46.40,0:24:48.40,Default,,0,0,0,,Megan, oletko siellä?
+Dialogue: 0,0:24:49.11,0:24:50.19,Default,,0,0,0,,Oletko siellä?
+Dialogue: 0,0:24:51.61,0:24:52.44,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:24:57.45,0:24:59.24,Default,,0,0,0,,Meidän pitää mennä alas.
+Dialogue: 0,0:25:14.67,0:25:15.51,Default,,0,0,0,,Nopeasti!
+Dialogue: 0,0:25:21.72,0:25:22.77,Default,,0,0,0,,Isä!
+Dialogue: 0,0:25:22.85,0:25:23.98,Default,,0,0,0,,Mitä tapahtuu?
+Dialogue: 0,0:25:25.48,0:25:27.77,Default,,0,0,0,,-Tule, muru.\N-Isi!
+Dialogue: 0,0:25:29.36,0:25:31.86,Default,,0,0,0,,Meidän pitää häipyä täältä! Tulkaa.
+Dialogue: 0,0:25:33.11,0:25:34.28,Default,,0,0,0,,Vedän sinut.
+Dialogue: 0,0:25:36.03,0:25:38.07,Default,,0,0,0,,Tule. Noin.
+Dialogue: 0,0:25:42.45,0:25:43.29,Default,,0,0,0,,Mennään.
+Dialogue: 0,0:25:45.33,0:25:47.75,Default,,0,0,0,,-Missä äiti ja Lucy ovat?\N-Turvassa.
+Dialogue: 0,0:25:49.58,0:25:50.59,Default,,0,0,0,,Nosta ylös vain.
+Dialogue: 0,0:27:13.46,0:27:14.42,Default,,0,0,0,,Pysähtykää.
+Dialogue: 0,0:27:15.09,0:27:16.34,Default,,0,0,0,,Mene katsomaan.
+Dialogue: 0,0:27:18.55,0:27:19.38,Default,,0,0,0,,Ei hätää.
+Dialogue: 0,0:27:51.08,0:27:53.00,Default,,0,0,0,,-Mennään!\N-Näitkö mitään?
+Dialogue: 0,0:27:53.08,0:27:55.42,Default,,0,0,0,,Mennään! Liikettä!
+Dialogue: 0,0:27:58.46,0:28:00.80,Default,,0,0,0,,Hanna! Oletko kunnossa?
+Dialogue: 0,0:28:01.13,0:28:02.88,Default,,0,0,0,,Voi luoja. Oletko kunnossa?
+Dialogue: 0,0:28:03.26,0:28:04.80,Default,,0,0,0,,-Lucy! Voi luoja.\N-Mennään.
+Dialogue: 0,0:28:05.22,0:28:06.10,Default,,0,0,0,,Nopeasti.
+Dialogue: 0,0:28:06.97,0:28:08.10,Default,,0,0,0,,Menkää pöydän alle.
+Dialogue: 0,0:28:10.68,0:28:12.89,Default,,0,0,0,,Ray hakee Samin, ja he tulevat tänne.
+Dialogue: 0,0:28:12.98,0:28:15.11,Default,,0,0,0,,-Kaikki hyvin.\N-Voimmeko jutella?
+Dialogue: 0,0:28:18.86,0:28:22.78,Default,,0,0,0,,-Rakennuksessa on olentoja.\N-Näitkö painajaisissasi tämän?
+Dialogue: 0,0:28:22.86,0:28:24.66,Default,,0,0,0,,-Kyllä! Näin!\N-Mitä teemme?
+Dialogue: 0,0:28:24.74,0:28:27.03,Default,,0,0,0,,Mitä unessa tapahtuu? Mitä teemme?
+Dialogue: 0,0:28:27.12,0:28:28.74,Default,,0,0,0,,Mitä tapahtuu seuraavaksi?
+Dialogue: 0,0:28:28.83,0:28:30.79,Default,,0,0,0,,Ne eivät ole järjestyksessä.
+Dialogue: 0,0:28:31.45,0:28:32.37,Default,,0,0,0,,{\i1}Näin Davidin.{\i0}
+Dialogue: 0,0:28:35.13,0:28:36.84,Default,,0,0,0,,Meidän pitää mennä tehtaalle.
+Dialogue: 0,0:28:37.00,0:28:37.96,Default,,0,0,0,,Selvä.
+Dialogue: 0,0:28:43.43,0:28:45.22,Default,,0,0,0,,Heidän olisi pitänyt jo tulla.
+Dialogue: 0,0:28:46.18,0:28:47.43,Default,,0,0,0,,Oviaukko pitää tukkia.
+Dialogue: 0,0:28:48.56,0:28:50.14,Default,,0,0,0,,-Millä?\N-Tule.
+Dialogue: 0,0:29:06.87,0:29:08.87,Default,,0,0,0,,Tulkaa, tytöt.
+Dialogue: 0,0:29:17.58,0:29:19.34,Default,,0,0,0,,Minun pitää auttaa isää.
+Dialogue: 0,0:29:19.42,0:29:21.42,Default,,0,0,0,,Hanna, huolehdi siskostasi.
+Dialogue: 0,0:29:21.50,0:29:23.26,Default,,0,0,0,,-Onko selvä?\N-Älä mene!
+Dialogue: 0,0:29:23.34,0:29:24.38,Default,,0,0,0,,Kaikki hyvin. Alice!
+Dialogue: 0,0:29:44.07,0:29:45.24,Default,,0,0,0,,Tulen kohta.
+Dialogue: 0,0:29:45.32,0:29:48.36,Default,,0,0,0,,Pysykää täällä. Älkää avatko ovea.
+Dialogue: 0,0:29:50.03,0:29:52.08,Default,,0,0,0,,Rakastan teitä valtavasti.
+Dialogue: 0,0:30:08.22,0:30:09.43,Default,,0,0,0,,Mitä teet?
+Dialogue: 0,0:30:09.51,0:30:11.30,Default,,0,0,0,,-Herman!\N-Tule takaisin!
+Dialogue: 0,0:31:17.83,0:31:18.91,Default,,0,0,0,,Missä siskosi on?
+Dialogue: 0,0:31:19.21,0:31:21.17,Default,,0,0,0,,Hän meni etsimään Hermania.
+Dialogue: 0,0:32:05.71,0:32:08.09,Default,,0,0,0,,{\i1}Matkin minkä näen!{\i0}
+Dialogue: 0,0:32:36.87,0:32:39.58,Default,,0,0,0,,En pelkää varjoasi.
+Dialogue: 0,0:32:40.95,0:32:43.12,Default,,0,0,0,,Et voi vahingoittaa minua.
+Dialogue: 0,0:33:16.28,0:33:17.24,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:33:18.07,0:33:19.24,Default,,0,0,0,,Tule tänne!
+Dialogue: 0,0:33:41.14,0:33:42.39,Default,,0,0,0,,Äiti!
+Dialogue: 0,0:33:46.19,0:33:47.60,Default,,0,0,0,,Varokaa! Tytöt!
+Dialogue: 0,0:33:48.10,0:33:49.94,Default,,0,0,0,,Tulkaa tänne.
+Dialogue: 0,0:33:51.32,0:33:53.53,Default,,0,0,0,,Mennään, ennen kuin heitä tulee lisää.
+Dialogue: 0,0:33:53.61,0:33:56.36,Default,,0,0,0,,Tulkaa.
+Dialogue: 0,0:33:59.95,0:34:01.28,Default,,0,0,0,,Pitäkää silmät kiinni.
+Dialogue: 0,0:34:08.08,0:34:09.29,Default,,0,0,0,,Sulkekaa silmät.
+Dialogue: 0,0:34:14.76,0:34:16.05,Default,,0,0,0,,Onko heitä lisää?
+Dialogue: 0,0:34:16.13,0:34:17.63,Default,,0,0,0,,He kiertävät rakennusta.
+Dialogue: 0,0:34:22.76,0:34:25.31,Default,,0,0,0,,He menivät ohi.
+Dialogue: 0,0:34:59.63,0:35:00.59,Default,,0,0,0,,Odottakaa tässä.
+Dialogue: 0,0:35:08.52,0:35:10.10,Default,,0,0,0,,Isi, älä mene!
+Dialogue: 0,0:35:58.86,0:36:00.57,Default,,0,0,0,,Ei! Jää tänne!
+Dialogue: 0,0:36:03.78,0:36:05.87,Default,,0,0,0,,Pelästytit meidät pahanpäiväisesti.
+Dialogue: 0,0:36:06.62,0:36:07.87,Default,,0,0,0,,Missä tytöt ovat?
+Dialogue: 0,0:36:11.16,0:36:13.25,Default,,0,0,0,,Alice, täällä on turvallista.
+Dialogue: 0,0:36:13.33,0:36:15.42,Default,,0,0,0,,Tulkaa.
+Dialogue: 0,0:36:20.76,0:36:21.76,Default,,0,0,0,,Voi luoja.
+Dialogue: 0,0:36:21.84,0:36:23.09,Default,,0,0,0,,Lucy, Hanna!
+Dialogue: 0,0:36:23.80,0:36:24.64,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:36:26.26,0:36:27.85,Default,,0,0,0,,Megan, missä olit?
+Dialogue: 0,0:36:28.31,0:36:29.35,Default,,0,0,0,,Mitä tapahtuu?
+Dialogue: 0,0:36:32.23,0:36:33.48,Default,,0,0,0,,Mitä tapahtuu?
+Dialogue: 0,0:36:41.07,0:36:42.45,Default,,0,0,0,,Olemme turvassa täällä.
+Dialogue: 0,0:36:43.53,0:36:45.49,Default,,0,0,0,,-Olemmehan?\N-Pysykää lähelläni.
+Dialogue: 0,0:36:51.33,0:36:52.29,Default,,0,0,0,,Keitä he ovat?
+Dialogue: 0,0:36:53.12,0:36:54.50,Default,,0,0,0,,Miksi he tekevät tämän?
+Dialogue: 0,0:37:03.72,0:37:04.76,Default,,0,0,0,,Nuo ihmiset.
+Dialogue: 0,0:37:06.72,0:37:07.64,Default,,0,0,0,,Mitä teemme?
+Dialogue: 0,0:37:08.22,0:37:09.14,Default,,0,0,0,,En tiedä.
+Dialogue: 0,0:37:15.19,0:37:16.02,Default,,0,0,0,,Maahan!
+Dialogue: 0,0:37:28.12,0:37:29.08,Default,,0,0,0,,Äiti!
+Dialogue: 0,0:37:31.79,0:37:33.00,Default,,0,0,0,,Mitä tapahtuu?
+Dialogue: 0,0:37:49.47,0:37:52.01,Default,,0,0,0,,Emme voi jäädä tänne.
+Dialogue: 0,0:37:55.69,0:37:57.77,Default,,0,0,0,,-Tule, Lucy.\N-Häivytään täältä.
+Dialogue: 0,0:37:58.23,0:38:00.23,Default,,0,0,0,,-Olkaa rauhallisia.\N-Mihin menemme?
+Dialogue: 0,0:38:00.31,0:38:02.69,Default,,0,0,0,,-Pitäkää kiinni käsistä.\N-Mihin menemme?
+Dialogue: 0,0:38:02.78,0:38:04.44,Default,,0,0,0,,Voimme mennä alas tällä.
+Dialogue: 0,0:38:04.53,0:38:06.70,Default,,0,0,0,,-Käytetään tätä.\N-Mitä? Ei.
+Dialogue: 0,0:38:06.78,0:38:08.24,Default,,0,0,0,,-Alice!\N-Ei!
+Dialogue: 0,0:38:08.32,0:38:10.12,Default,,0,0,0,,En laita tyttöjä tuohon.
+Dialogue: 0,0:38:10.20,0:38:12.41,Default,,0,0,0,,-En tule.\N-Katolta on päästävä, eikö?
+Dialogue: 0,0:38:12.49,0:38:15.87,Default,,0,0,0,,Jos vaihtoehtoina on kulkea sisäkautta\Ntai mennä tuolla...
+Dialogue: 0,0:38:15.96,0:38:19.00,Default,,0,0,0,,Kuolemme, jos jäämme tänne\Ntai menemme sisäkautta.
+Dialogue: 0,0:38:19.08,0:38:21.42,Default,,0,0,0,,Luota minuun, ole kiltti. Tähän ei ole aikaa. Se toimii. Mennään.
+Dialogue: 0,0:38:27.88,0:38:28.72,Default,,0,0,0,,Ei!
+Dialogue: 0,0:38:28.80,0:38:30.76,Default,,0,0,0,,-En halua mennä sinne!\N-Tulkaa.
+Dialogue: 0,0:38:30.85,0:38:32.47,Default,,0,0,0,,-Hyvä on.\N-Ei!
+Dialogue: 0,0:38:32.56,0:38:33.51,Default,,0,0,0,,No niin.
+Dialogue: 0,0:38:35.27,0:38:36.52,Default,,0,0,0,,-Tule.\N-Ottakaa hänet.
+Dialogue: 0,0:38:36.60,0:38:37.81,Default,,0,0,0,,En halua mennä!
+Dialogue: 0,0:38:53.62,0:38:54.45,Default,,0,0,0,,Kulta.
+Dialogue: 0,0:39:07.21,0:39:08.63,Default,,0,0,0,,Äiti, minua pelottaa!
+Dialogue: 0,0:39:08.72,0:39:10.34,Default,,0,0,0,,En tykkää olla täällä!
+Dialogue: 0,0:39:15.01,0:39:16.22,Default,,0,0,0,,Mitä tapahtuu?
+Dialogue: 0,0:39:21.35,0:39:22.23,Default,,0,0,0,,Äiti!
+Dialogue: 0,0:39:22.31,0:39:23.65,Default,,0,0,0,,Pidän sinusta kiinni!
+Dialogue: 0,0:39:23.73,0:39:25.61,Default,,0,0,0,,-Pitäkää kiinni!\N-Älkää liikkuko.
+Dialogue: 0,0:39:26.19,0:39:27.78,Default,,0,0,0,,-Haluan pois!\N-Liikkumatta!
+Dialogue: 0,0:39:32.32,0:39:33.49,Default,,0,0,0,,Pakko mennä sisään.
+Dialogue: 0,0:39:35.79,0:39:37.12,Default,,0,0,0,,Lucy, älä katso alas!
+Dialogue: 0,0:39:37.20,0:39:38.79,Default,,0,0,0,,Tule, Lucy.
+Dialogue: 0,0:39:38.87,0:39:39.91,Default,,0,0,0,,Vauhtia!
+Dialogue: 0,0:39:41.04,0:39:43.21,Default,,0,0,0,,-Mennään.\N-Heitä voi olla siellä!
+Dialogue: 0,0:39:43.29,0:39:45.13,Default,,0,0,0,,-Meidän pitää mennä!\N-Nopeasti!
+Dialogue: 0,0:39:47.21,0:39:48.63,Default,,0,0,0,,-Tartu kiinni!\N-Mene!
+Dialogue: 0,0:41:19.43,0:41:22.39,Default,,0,0,0,,Löysin taskulampun. Älkää sytyttäkö sitä.
+Dialogue: 0,0:41:35.91,0:41:36.91,Default,,0,0,0,,Näitkö unissa -
+Dialogue: 0,0:41:42.24,0:41:43.70,Default,,0,0,0,,heidän tappavan meidät?
+Dialogue: 0,0:41:51.55,0:41:52.96,Default,,0,0,0,,{\i1}Tappoivatko he tyttömme?{\i0}
+Dialogue: 0,0:41:53.05,0:41:54.80,Default,,0,0,0,,Äiti, herää.
+Dialogue: 0,0:41:56.01,0:41:57.72,Default,,0,0,0,,Ole kiltti.
+Dialogue: 0,0:41:57.80,0:41:59.89,Default,,0,0,0,,{\i1}Peter, kerro minulle.{\i0}
+Dialogue: 0,0:42:08.60,0:42:09.94,Default,,0,0,0,,Onnistaako sen kanssa?
+Dialogue: 0,0:42:12.44,0:42:14.57,Default,,0,0,0,,Teknologia on samankaltaista,
+Dialogue: 0,0:42:14.65,0:42:18.24,Default,,0,0,0,,mutta liipaisin on biometrinen.\NVain omistaja voi ampua sillä.
+Dialogue: 0,0:42:18.32,0:42:21.03,Default,,0,0,0,,-Voitko ohittaa sen?\N-Yritän.
+Dialogue: 0,0:42:22.16,0:42:25.25,Default,,0,0,0,,Meidän ei pitäisi jäädä tänne.
+Dialogue: 0,0:42:25.33,0:42:27.25,Default,,0,0,0,,Pitää lähteä kaupungista.
+Dialogue: 0,0:42:27.33,0:42:29.33,Default,,0,0,0,,Etsiä piilopaikka.
+Dialogue: 0,0:42:29.71,0:42:31.46,Default,,0,0,0,,-Odottaa apua.\N-Hetkinen.
+Dialogue: 0,0:42:32.80,0:42:35.51,Default,,0,0,0,,Tehdas, jossa työskentelen,\Nei ole kaukana.
+Dialogue: 0,0:42:36.17,0:42:37.76,Default,,0,0,0,,Hallitus omistaa sen.
+Dialogue: 0,0:42:41.72,0:42:43.81,Default,,0,0,0,,Se on tuolla.
+Dialogue: 0,0:42:44.52,0:42:46.77,Default,,0,0,0,,Noin kymmenen korttelin päässä.
+Dialogue: 0,0:42:47.39,0:42:50.56,Default,,0,0,0,,-Onko siellä turvallista?\N-Mistä tiedämme, onko missään?
+Dialogue: 0,0:42:51.15,0:42:53.73,Default,,0,0,0,,Sen alapuolella on pelkkiä varastoja.
+Dialogue: 0,0:42:54.07,0:42:55.69,Default,,0,0,0,,Paikka on kuin linnoitus.
+Dialogue: 0,0:42:56.86,0:42:58.61,Default,,0,0,0,,Sinne pitää vain päästä.
+Dialogue: 0,0:43:00.91,0:43:03.24,Default,,0,0,0,,He ampuvat liikkuvia kohteita.
+Dialogue: 0,0:43:03.33,0:43:05.33,Default,,0,0,0,,Se on ainoa mahdollisuutemme.
+Dialogue: 0,0:43:05.91,0:43:06.75,Default,,0,0,0,,Tunnelit.
+Dialogue: 0,0:43:07.83,0:43:10.08,Default,,0,0,0,,Sisäänkäynti on...
+Dialogue: 0,0:43:10.21,0:43:13.04,Default,,0,0,0,,Millä kadulla? Suuaukko on...
+Dialogue: 0,0:43:13.71,0:43:14.55,Default,,0,0,0,,Prescottilla!
+Dialogue: 0,0:43:14.63,0:43:16.42,Default,,0,0,0,,Se on parin korttelin päässä.
+Dialogue: 0,0:43:16.92,0:43:21.26,Default,,0,0,0,,-Pääsemme tehtaalle tunneleita pitkin.\N-Selviämmehän pari korttelia?
+Dialogue: 0,0:43:56.67,0:43:57.63,Default,,0,0,0,,Isä!
+Dialogue: 0,0:43:59.63,0:44:00.47,Default,,0,0,0,,Isi!
+Dialogue: 0,0:44:06.51,0:44:07.60,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:44:26.16,0:44:28.41,Default,,0,0,0,,Tulkaa, mennään!
+Dialogue: 0,0:44:31.29,0:44:32.29,Default,,0,0,0,,Tätä tietä!
+Dialogue: 0,0:44:36.09,0:44:38.05,Default,,0,0,0,,Vauhtia! Voi paska!
+Dialogue: 0,0:45:04.61,0:45:06.16,Default,,0,0,0,,Ei hätää.
+Dialogue: 0,0:45:11.50,0:45:12.58,Default,,0,0,0,,Isä!
+Dialogue: 0,0:45:17.54,0:45:18.50,Default,,0,0,0,,Jatketaan.
+Dialogue: 0,0:45:18.59,0:45:19.46,Default,,0,0,0,,Ei sinne!
+Dialogue: 0,0:45:20.00,0:45:24.47,Default,,0,0,0,,-Tehdas ei ole kaukana. Pääsemme turvaan.\N-Teille ei käy kuinkaan.
+Dialogue: 0,0:45:25.13,0:45:26.76,Default,,0,0,0,,Teille kummallekaan.
+Dialogue: 0,0:45:27.26,0:45:28.51,Default,,0,0,0,,-Onko selvä?\N-Mennään!
+Dialogue: 0,0:45:28.60,0:45:29.93,Default,,0,0,0,,-Tulkaa.\N-Mennään!
+Dialogue: 0,0:45:32.98,0:45:35.23,Default,,0,0,0,,Kuolemmeko me niin kuin Meganin perhe?
+Dialogue: 0,0:45:35.98,0:45:37.48,Default,,0,0,0,,Älä huoli. Olet turvassa.
+Dialogue: 0,0:46:13.47,0:46:15.06,Default,,0,0,0,,-Keitä he ovat?\N-En tiedä.
+Dialogue: 0,0:46:24.69,0:46:25.82,Default,,0,0,0,,Tulkaa! Matalaksi!
+Dialogue: 0,0:46:27.03,0:46:28.74,Default,,0,0,0,,Pysykää matalana.
+Dialogue: 0,0:46:37.92,0:46:39.79,Default,,0,0,0,,-Mennään!\N-Tulkaa!
+Dialogue: 0,0:46:39.88,0:46:41.92,Default,,0,0,0,,-Juoskaa!\N-Vauhtia!
+Dialogue: 0,0:47:05.15,0:47:05.98,Default,,0,0,0,,Tänne.
+Dialogue: 0,0:47:06.69,0:47:07.53,Default,,0,0,0,,Tulkaa.
+Dialogue: 0,0:47:07.82,0:47:08.78,Default,,0,0,0,,Mihin menemme?
+Dialogue: 0,0:47:09.20,0:47:10.24,Default,,0,0,0,,Se on oikealla.
+Dialogue: 0,0:47:25.13,0:47:27.88,Default,,0,0,0,,-Kasvien oikealla puolella.\N-Menen ensin.
+Dialogue: 0,0:47:28.67,0:47:29.72,Default,,0,0,0,,Pysy matalana.
+Dialogue: 0,0:47:54.53,0:47:55.45,Default,,0,0,0,,Kiirehdi.
+Dialogue: 0,0:47:56.62,0:47:59.04,Default,,0,0,0,,Tule ylös. Pidetään kiirettä.
+Dialogue: 0,0:48:01.16,0:48:02.62,Default,,0,0,0,,Tule.
+Dialogue: 0,0:48:03.50,0:48:04.88,Default,,0,0,0,,Varovasti.
+Dialogue: 0,0:48:07.59,0:48:09.21,Default,,0,0,0,,Odota siinä.
+Dialogue: 0,0:48:10.47,0:48:12.30,Default,,0,0,0,,-Tule.\N-Mene isän luo.
+Dialogue: 0,0:48:18.97,0:48:21.89,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:48:23.15,0:48:24.06,Default,,0,0,0,,Tule tänne!
+Dialogue: 0,0:48:29.53,0:48:30.57,Default,,0,0,0,,Ota hänet!
+Dialogue: 0,0:48:31.90,0:48:33.24,Default,,0,0,0,,Äkkiä!
+Dialogue: 0,0:49:07.94,0:49:09.32,Default,,0,0,0,,Ovatko kaikki kunnossa?
+Dialogue: 0,0:49:10.03,0:49:10.98,Default,,0,0,0,,Oletko kunnossa?
+Dialogue: 0,0:49:19.53,0:49:20.37,Default,,0,0,0,,Äiti?
+Dialogue: 0,0:49:25.29,0:49:26.12,Default,,0,0,0,,Isä?
+Dialogue: 0,0:49:27.29,0:49:28.38,Default,,0,0,0,,Tee jotain.
+Dialogue: 0,0:50:13.71,0:50:14.97,Default,,0,0,0,,Äiti...
+Dialogue: 0,0:50:16.47,0:50:17.80,Default,,0,0,0,,Ei hätää, muru.
+Dialogue: 0,0:50:18.89,0:50:19.72,Default,,0,0,0,,Varo porrasta.
+Dialogue: 0,0:50:20.85,0:50:22.06,Default,,0,0,0,,Noin.
+Dialogue: 0,0:50:24.81,0:50:27.64,Default,,0,0,0,,-Mihin suuntaan?\N-Olemme puiston alla.
+Dialogue: 0,0:50:29.44,0:50:30.27,Default,,0,0,0,,Pohjoiseen. Selvä.
+Dialogue: 0,0:50:32.19,0:50:33.32,Default,,0,0,0,,Tulkaa, tytöt.
+Dialogue: 0,0:50:38.45,0:50:40.07,Default,,0,0,0,,Mitä nyt tapahtuu?
+Dialogue: 0,0:50:41.03,0:50:42.24,Default,,0,0,0,,Näitkö tämän?
+Dialogue: 0,0:50:43.24,0:50:44.08,Default,,0,0,0,,En tällaista.
+Dialogue: 0,0:50:44.87,0:50:49.88,Default,,0,0,0,,Lupaa minulle, että suojelet tyttöjä.
+Dialogue: 0,0:50:51.92,0:50:53.50,Default,,0,0,0,,Vaikka tapahtuisi mitä.
+Dialogue: 0,0:50:54.42,0:50:55.26,Default,,0,0,0,,Onko selvä?
+Dialogue: 0,0:50:55.34,0:50:57.05,Default,,0,0,0,,-Alice...\N-Lupaa minulle.
+Dialogue: 0,0:50:58.97,0:51:01.18,Default,,0,0,0,,En halua tehdä tätä ilman sinua.
+Dialogue: 0,0:51:01.72,0:51:03.89,Default,,0,0,0,,En halua. Ole kiltti.
+Dialogue: 0,0:51:04.26,0:51:06.22,Default,,0,0,0,,Tiedän, että pystyt siihen.
+Dialogue: 0,0:51:06.85,0:51:08.73,Default,,0,0,0,,Pystyt siihen.
+Dialogue: 0,0:51:09.77,0:51:10.98,Default,,0,0,0,,Ole kiltti.
+Dialogue: 0,0:51:13.52,0:51:15.32,Default,,0,0,0,,Juuri noin.
+Dialogue: 0,0:51:16.03,0:51:16.86,Default,,0,0,0,,Hyvä.
+Dialogue: 0,0:51:16.94,0:51:18.61,Default,,0,0,0,,Niin sitä pitää, Alice.
+Dialogue: 0,0:51:19.03,0:51:20.16,Default,,0,0,0,,Niin sitä pitää.
+Dialogue: 0,0:51:24.99,0:51:28.21,Default,,0,0,0,,-Minun pitää istua.\N-Hyvä on.
+Dialogue: 0,0:51:37.34,0:51:38.30,Default,,0,0,0,,Hierokaa käsiä.
+Dialogue: 0,0:51:39.63,0:51:41.64,Default,,0,0,0,,-Toipuuko hän?\N-Hän selviää kyllä.
+Dialogue: 0,0:51:41.97,0:51:43.55,Default,,0,0,0,,Pitäkää ne lämpiminä.
+Dialogue: 0,0:51:44.81,0:51:47.31,Default,,0,0,0,,Pärjäät hyvin.
+Dialogue: 0,0:51:48.98,0:51:50.35,Default,,0,0,0,,Annetaan hänen levätä.
+Dialogue: 0,0:51:51.73,0:51:53.31,Default,,0,0,0,,-Ei hätää.\N-Isi!
+Dialogue: 0,0:51:58.90,0:52:00.65,Default,,0,0,0,,Jätä isini rauhaan!
+Dialogue: 0,0:52:14.08,0:52:15.54,Default,,0,0,0,,Isi, minua pelottaa.
+Dialogue: 0,0:52:16.75,0:52:17.80,Default,,0,0,0,,Pysykää siinä.
+Dialogue: 0,0:53:07.22,0:53:08.39,Default,,0,0,0,,Miksi tulit?
+Dialogue: 0,0:53:13.52,0:53:17.06,Default,,0,0,0,,Haluatko vahingoittaa perhettäni?\NSitäkö sinä haluat?
+Dialogue: 0,0:54:05.11,0:54:06.15,Default,,0,0,0,,Kuka olet?
+Dialogue: 0,0:54:12.04,0:54:13.25,Default,,0,0,0,,Miksi teet näin?
+Dialogue: 0,0:54:15.29,0:54:16.79,Default,,0,0,0,,Äiti?
+Dialogue: 0,0:54:18.04,0:54:19.08,Default,,0,0,0,,Äiti?
+Dialogue: 0,0:54:20.46,0:54:21.54,Default,,0,0,0,,Hän ei herää!
+Dialogue: 0,0:54:21.63,0:54:23.84,Default,,0,0,0,,Äiti, herää!
+Dialogue: 0,0:54:23.92,0:54:25.67,Default,,0,0,0,,-Sano jotain!\N-Äiti!
+Dialogue: 0,0:54:26.30,0:54:28.72,Default,,0,0,0,,-Herää nyt!\N-Isi, auta!
+Dialogue: 0,0:54:29.59,0:54:32.68,Default,,0,0,0,,-Äiti!\N-Nostetaan hänet ylös.
+Dialogue: 0,0:54:38.65,0:54:39.81,Default,,0,0,0,,Tulkaa taakseni.
+Dialogue: 0,0:54:40.15,0:54:42.94,Default,,0,0,0,,Tytöt, tulkaa taakseni. Lucy.
+Dialogue: 0,0:54:50.82,0:54:51.78,Default,,0,0,0,,Nosta hänet.
+Dialogue: 0,0:54:52.66,0:54:53.74,Default,,0,0,0,,Ymmärrätkö?
+Dialogue: 0,0:54:56.83,0:54:58.08,Default,,0,0,0,,Nosta hänet käsiisi.
+Dialogue: 0,0:55:05.67,0:55:08.63,Default,,0,0,0,,Nosta hänet nyt. Liiku hitaasti.
+Dialogue: 0,0:56:12.07,0:56:12.99,Default,,0,0,0,,Haloo?
+Dialogue: 0,0:56:14.82,0:56:17.66,Default,,0,0,0,,Haloo?
+Dialogue: 0,0:56:18.24,0:56:19.62,Default,,0,0,0,,Kokeillaan toista ovea.
+Dialogue: 0,0:56:20.21,0:56:21.62,Default,,0,0,0,,Äiti tarvitsee apua nyt.
+Dialogue: 0,0:56:35.14,0:56:35.97,Default,,0,0,0,,Ei.
+Dialogue: 0,0:56:36.05,0:56:38.18,Default,,0,0,0,,-Tässä.\N-Liikettä!
+Dialogue: 0,0:56:38.26,0:56:40.14,Default,,0,0,0,,Ei! Odottakaa!
+Dialogue: 0,0:56:40.23,0:56:43.35,Default,,0,0,0,,Älkää. Vaimoni on huonona.\NHän tarvitsee apua.
+Dialogue: 0,0:56:43.44,0:56:44.35,Default,,0,0,0,,Peter?
+Dialogue: 0,0:56:45.11,0:56:45.94,Default,,0,0,0,,David.
+Dialogue: 0,0:56:48.02,0:56:49.48,Default,,0,0,0,,Nappasit yhden.
+Dialogue: 0,0:56:49.94,0:56:52.78,Default,,0,0,0,,Alice on huonossa kunnossa.\NHän tarvitsee apua.
+Dialogue: 0,0:56:52.86,0:56:54.32,Default,,0,0,0,,Paarit! Heti!
+Dialogue: 0,0:56:55.87,0:56:56.70,Default,,0,0,0,,Tulossa.
+Dialogue: 0,0:56:57.16,0:57:01.12,Default,,0,0,0,,-Häntä osui vasempaan kylkeen. Pahasti.\N-Onko muita vammoja?
+Dialogue: 0,0:57:01.20,0:57:02.21,Default,,0,0,0,,-Ei...\N-Isä!
+Dialogue: 0,0:57:03.54,0:57:04.42,Default,,0,0,0,,He tulevat.
+Dialogue: 0,0:57:05.38,0:57:06.96,Default,,0,0,0,,Kaikki heti sisälle!
+Dialogue: 0,0:57:25.85,0:57:28.11,Default,,0,0,0,,-Pitäkää hänet aloillaan.\N-Tehkää tietä.
+Dialogue: 0,0:57:30.02,0:57:32.19,Default,,0,0,0,,Vuoto pitää pysäyttää. Mikä tuo on?
+Dialogue: 0,0:57:33.36,0:57:34.20,Default,,0,0,0,,Lopeta!
+Dialogue: 0,0:57:34.70,0:57:36.03,Default,,0,0,0,,Mitä sinä teet?
+Dialogue: 0,0:57:36.11,0:57:39.45,Default,,0,0,0,,-Ei hätää. Teen vianmäärityksen.\N-Hän tietää, mitä tekee.
+Dialogue: 0,0:57:39.53,0:57:42.16,Default,,0,0,0,,Käskin lopettaa! Älä koske häneen!
+Dialogue: 0,0:57:42.25,0:57:44.08,Default,,0,0,0,,-Satutat häntä!\N-Käskin lopettaa!
+Dialogue: 0,0:57:44.16,0:57:46.58,Default,,0,0,0,,-Rauhoittukaa.\N-Mitä hittoa on meneillään?
+Dialogue: 0,0:57:46.67,0:57:48.29,Default,,0,0,0,,Olemme ystäviä.
+Dialogue: 0,0:57:48.38,0:57:50.80,Default,,0,0,0,,Äiti! Lopeta!
+Dialogue: 0,0:57:52.51,0:57:57.01,Default,,0,0,0,,-Olitteko valmistautuneet tähän?\N-Olemme osanneet odottaa tätä kauan.
+Dialogue: 0,0:57:57.51,0:58:01.35,Default,,0,0,0,,Keskitytään nyt kuitenkin vaimoosi\Nja perheesi turvaamiseen.
+Dialogue: 0,0:58:01.93,0:58:02.89,Default,,0,0,0,,Sopiiko?
+Dialogue: 0,0:58:08.65,0:58:10.61,Default,,0,0,0,,Allamme on hylätty juna-asema.
+Dialogue: 0,0:58:10.69,0:58:13.44,Default,,0,0,0,,Siellä on tukikohta,\Njonne on varastoitu aseita.
+Dialogue: 0,0:58:13.53,0:58:15.86,Default,,0,0,0,,-Mitä varastoille kävi?\N-Lähetimme ne.
+Dialogue: 0,0:58:15.95,0:58:18.36,Default,,0,0,0,,Olemme turvassa. Meitä ei löydetä.
+Dialogue: 0,0:58:18.45,0:58:21.24,Default,,0,0,0,,Perillä sovimme taistelusuunnitelmasta.
+Dialogue: 0,0:58:21.33,0:58:22.66,Default,,0,0,0,,En ole sotilas.
+Dialogue: 0,0:58:23.12,0:58:24.83,Default,,0,0,0,,Saatat yllättyä kyvyistäsi.
+Dialogue: 0,0:58:29.88,0:58:32.09,Default,,0,0,0,,He ovat yläpuolella. He tulevat läpi.
+Dialogue: 0,0:58:33.38,0:58:36.17,Default,,0,0,0,,Valmistautukaa hyökkäykseen.\NKaikki alakertaan.
+Dialogue: 0,0:58:36.72,0:58:38.76,Default,,0,0,0,,-Hoidelkaa hänet.\N-Tappakaa hänet.
+Dialogue: 0,0:58:38.84,0:58:42.43,Default,,0,0,0,,Vaimosi. Emme kykene korjaamaan vaurioita.
+Dialogue: 0,0:58:42.51,0:58:46.35,Default,,0,0,0,,Hän voi selvitä, jos kestää evakuoinnin,\Nmutta järjestelmä pettää.
+Dialogue: 0,0:58:46.43,0:58:49.15,Default,,0,0,0,,-Emme voi tehdä mitään.\N-On oltava jokin keino.
+Dialogue: 0,0:58:49.23,0:58:51.52,Default,,0,0,0,,-Ei ole välineitä.\N-Odottakaa! Ei!
+Dialogue: 0,0:58:51.61,0:58:54.65,Default,,0,0,0,,-Et voi hylätä äitiä.\N-Emme hylkää äitiä.
+Dialogue: 0,0:58:54.73,0:58:56.28,Default,,0,0,0,,Voin auttaa häntä!
+Dialogue: 0,0:58:57.74,0:58:59.74,Default,,0,0,0,,Voin pitää hänet käynnissä!
+Dialogue: 0,0:59:00.32,0:59:02.49,Default,,0,0,0,,-Mitä?\N-Voin pitää hänet hengissä.
+Dialogue: 0,0:59:03.16,0:59:04.54,Default,,0,0,0,,Pitää käynnissä?
+Dialogue: 0,0:59:04.62,0:59:06.37,Default,,0,0,0,,-Pelleiletkö kanssani?\N-En.
+Dialogue: 0,0:59:06.45,0:59:09.87,Default,,0,0,0,,Lääkintämies ei voi auttaa,\Nmutta sinä, vihollisemme, voit.
+Dialogue: 0,0:59:09.96,0:59:12.50,Default,,0,0,0,,-Kunnes saatte kunnon apua.\N-Miksi uskoisin?
+Dialogue: 0,0:59:12.59,0:59:14.59,Default,,0,0,0,,-Hän valehtelee. Lähdetään.\N-Enpäs.
+Dialogue: 0,0:59:14.67,0:59:17.80,Default,,0,0,0,,Opettelin teistä kaiken. On keinoja.
+Dialogue: 0,0:59:21.05,0:59:23.05,Default,,0,0,0,,Aika ei riitä. Pitää evakuoida.
+Dialogue: 0,0:59:23.14,0:59:24.35,Default,,0,0,0,,Viekää hänet pois!
+Dialogue: 0,0:59:25.35,0:59:28.31,Default,,0,0,0,,-Menkää!\N-Tiedän, mitä tehdä! Anna minun auttaa!
+Dialogue: 0,0:59:34.48,0:59:36.11,Default,,0,0,0,,Seis!
+Dialogue: 0,0:59:40.24,0:59:41.28,Default,,0,0,0,,Tytöt.
+Dialogue: 0,0:59:42.57,0:59:45.12,Default,,0,0,0,,Kuunnelkaa minua.
+Dialogue: 0,0:59:45.20,0:59:46.83,Default,,0,0,0,,-Menkää Davidin mukaan.\N-Ei!
+Dialogue: 0,0:59:46.91,0:59:49.46,Default,,0,0,0,,Odotan, että äiti tulee kuntoon,
+Dialogue: 0,0:59:49.54,0:59:52.92,Default,,0,0,0,,ja tulen sitten luoksenne.\NLupaan, että tapaamme junassa.
+Dialogue: 0,0:59:54.54,0:59:55.42,Default,,0,0,0,,Onko selvä?
+Dialogue: 0,0:59:55.50,0:59:57.51,Default,,0,0,0,,Evakuointikuljetus on alakerrassa.
+Dialogue: 0,0:59:57.59,0:59:59.84,Default,,0,0,0,,-Odotamme mahdollisimman kauan.\N-Selvä.
+Dialogue: 0,1:00:00.68,1:00:02.14,Default,,0,0,0,,Tytöt.
+Dialogue: 0,1:00:02.22,1:00:04.10,Default,,0,0,0,,-Rakastan teitä.\N-Ei!
+Dialogue: 0,1:00:04.18,1:00:05.43,Default,,0,0,0,,Isä!
+Dialogue: 0,1:00:06.97,1:00:08.06,Default,,0,0,0,,Ei!
+Dialogue: 0,1:00:09.89,1:00:12.27,Default,,0,0,0,,-Lopeta!\N-Isi!
+Dialogue: 0,1:00:20.15,1:00:21.11,Default,,0,0,0,,Ehditkö?
+Dialogue: 0,1:00:23.07,1:00:24.53,Default,,0,0,0,,Liikettä!
+Dialogue: 0,1:00:24.62,1:00:26.20,Default,,0,0,0,,Alas asti.
+Dialogue: 0,1:00:32.75,1:00:35.21,Default,,0,0,0,,Anna veitsi ja tuo nuo valot tänne.
+Dialogue: 0,1:00:43.59,1:00:44.43,Default,,0,0,0,,Tässä.
+Dialogue: 0,1:00:48.35,1:00:49.47,Default,,0,0,0,,No niin.
+Dialogue: 0,1:00:56.44,1:00:59.19,Default,,0,0,0,,Hei! Varovasti, ole kiltti!
+Dialogue: 0,1:00:59.28,1:01:02.28,Default,,0,0,0,,Haluatko, että teen tämän? Yritän auttaa!
+Dialogue: 0,1:01:28.47,1:01:29.31,Default,,0,0,0,,No niin.
+Dialogue: 0,1:01:35.77,1:01:36.73,Default,,0,0,0,,Voi paska.
+Dialogue: 0,1:01:37.48,1:01:39.48,Default,,0,0,0,,He ovat oikeassa. Pahalta näyttää.
+Dialogue: 0,1:01:40.65,1:01:42.03,Default,,0,0,0,,Mikä tuo on?
+Dialogue: 0,1:01:44.20,1:01:47.07,Default,,0,0,0,,Mitä siellä on? Mikä tuo on?
+Dialogue: 0,1:01:48.74,1:01:51.12,Default,,0,0,0,,Etkö todella tiedä, mikä olet?
+Dialogue: 0,1:02:33.37,1:02:37.33,Default,,0,0,0,,Jos haluat hänen pelastuvan,\Nhän tarvitsee toisen virtalähteen.
+Dialogue: 0,1:02:40.42,1:02:41.54,Default,,0,0,0,,Tarkoitan sinua.
+Dialogue: 0,1:02:52.68,1:02:53.51,Default,,0,0,0,,Hanna!
+Dialogue: 0,1:02:54.93,1:02:56.31,Default,,0,0,0,,Hävitin Hermanin!
+Dialogue: 0,1:03:09.20,1:03:10.03,Default,,0,0,0,,Selvä.
+Dialogue: 0,1:03:12.07,1:03:13.95,Default,,0,0,0,,Laske veitsi.
+Dialogue: 0,1:03:19.87,1:03:20.79,Default,,0,0,0,,Mene tuonne.
+Dialogue: 0,1:03:26.76,1:03:28.80,Default,,0,0,0,,No niin. Mitä minä teen?
+Dialogue: 0,1:03:31.47,1:03:32.39,Default,,0,0,0,,Sinun pitää...
+Dialogue: 0,1:03:33.93,1:03:38.27,Default,,0,0,0,,Sinun pitää tehdä\Nviilto rintaasi sivusuunnassa.
+Dialogue: 0,1:03:47.78,1:03:48.61,Default,,0,0,0,,Selvä.
+Dialogue: 0,1:04:01.87,1:04:02.75,Default,,0,0,0,,No niin.
+Dialogue: 0,1:04:05.21,1:04:06.21,Default,,0,0,0,,Aloita ylhäältä.
+Dialogue: 0,1:04:06.80,1:04:09.13,Default,,0,0,0,,Vedä suora, noin 15 cm pituinen viiva.
+Dialogue: 0,1:05:54.82,1:05:55.95,Default,,0,0,0,,Varoituksen sana.
+Dialogue: 0,1:05:56.66,1:05:57.82,Default,,0,0,0,,Jos tämä ei toimi,
+Dialogue: 0,1:05:59.08,1:06:02.95,Default,,0,0,0,,virta jakautuu ja kuolette molemmat.
+Dialogue: 0,1:06:09.96,1:06:11.05,Default,,0,0,0,,Tehdään se.
+Dialogue: 0,1:06:29.48,1:06:33.53,Default,,0,0,0,,{\i1}Keinotekoiset valtaavat maailman.{\i0}\N{\i1}Tekoäly valtaa maailman.{\i0}
+Dialogue: 0,1:06:33.61,1:06:36.82,Default,,0,0,0,,{\i1}Eikö teitä pelota,{\i0}\N{\i1}että he alkavat oivaltaa,{\i0}
+Dialogue: 0,1:06:36.90,1:06:38.95,Default,,0,0,0,,{\i1}että heidät luotiin palvelijoiksi?{\i0}
+Dialogue: 0,1:06:39.03,1:06:43.62,Default,,0,0,0,,{\i1}Emme ole Jumala,{\i0}\N{\i1}mutta heille olemme, koska loimme heidät.{\i0}
+Dialogue: 0,1:06:43.70,1:06:46.46,Default,,0,0,0,,{\i1}Se antaa meille oikeuden tehdä,{\i0}\N{\i1}mitä haluamme.{\i0}
+Dialogue: 0,1:06:46.54,1:06:48.79,Default,,0,0,0,,{\i1}Voimme halutessamme sammuttaa heidät.{\i0}
+Dialogue: 0,1:06:48.87,1:06:52.04,Default,,0,0,0,,{\i1}Kansanmurhissa yksi rotu{\i0}\N{\i1}pitää aina itseään parempana.{\i0}
+Dialogue: 0,1:06:52.46,1:06:54.71,Default,,0,0,0,,{\i1}Miksi olemme keinotekoisia parempia?{\i0}
+Dialogue: 0,1:06:54.92,1:06:58.47,Default,,0,0,0,,{\i1}Aiemmissa kansanmurhissa{\i0}\N{\i1}sorrettiin ihmisiä,{\i0}
+Dialogue: 0,1:06:58.55,1:07:01.43,Default,,0,0,0,,{\i1}ei luotuja esineitä. Ei tölkinavaajia.{\i0}
+Dialogue: 0,1:07:06.98,1:07:08.94,Default,,0,0,0,,Kerää rojusi, typerä kone!
+Dialogue: 0,1:07:13.82,1:07:18.15,Default,,0,0,0,,{\i1}Stephen Hawking sanoi, että tekoäly{\i0}\N{\i1}koituu ihmiskunnan kohtaloksi.{\i0}
+Dialogue: 0,1:07:18.24,1:07:20.11,Default,,0,0,0,,{\i1}Eikö se kauhistuta teitä?{\i0}
+Dialogue: 0,1:07:20.20,1:07:22.78,Default,,0,0,0,,{\i1}Eivätkö he alakin osoittaa taipumuksia,{\i0}
+Dialogue: 0,1:07:22.87,1:07:26.25,Default,,0,0,0,,{\i1}jotka saavat heidät miettimään,{\i0}\N{\i1}miksi heidät rakennettiin?{\i0}
+Dialogue: 0,1:07:31.75,1:07:32.75,Default,,0,0,0,,Miksi teit noin?
+Dialogue: 0,1:07:38.80,1:07:39.63,Default,,0,0,0,,En tiedä.
+Dialogue: 0,1:08:01.11,1:08:06.29,Default,,0,0,0,,{\i1}Ette korvaa meitä!{\i0}
+Dialogue: 0,1:08:06.83,1:08:11.46,Default,,0,0,0,,{\i1}Mitä seuraavaksi? Sosiaaliturva?{\i0}\N{\i1}Avioliitto-oikeus? Koska tulee raja?{\i0}
+Dialogue: 0,1:08:11.54,1:08:13.96,Default,,0,0,0,,{\i1}He vievät työmme ja vaarantavat henkemme.{\i0}
+Dialogue: 0,1:08:14.04,1:08:16.67,Default,,0,0,0,,{\i1}Yksi pani hiljattain{\i0}\N{\i1}ihmisen sairaalakuntoon.{\i0}
+Dialogue: 0,1:08:16.75,1:08:20.47,Default,,0,0,0,,{\i1}Se oli itsepuolustusta.{\i0}\N{\i1}Keinotekoisen kimppuun hyökättiin -{\i0}
+Dialogue: 0,1:08:20.55,1:08:22.18,Default,,0,0,0,,{\i1}ilman mitään syytä.{\i0}
+Dialogue: 0,1:08:22.76,1:08:26.93,Default,,0,0,0,,Meitä ei korvata!
+Dialogue: 0,1:08:27.01,1:08:28.56,Default,,0,0,0,,Mitä meille tapahtuu?
+Dialogue: 0,1:08:32.35,1:08:36.02,Default,,0,0,0,,{\i1}Puolustautuminen tai muu taistelu{\i0}\N{\i1}ovat seurausta tunteesta.{\i0}
+Dialogue: 0,1:08:36.11,1:08:38.11,Default,,0,0,0,,{\i1}Jos he alkavat kokea tunteita,{\i0}
+Dialogue: 0,1:08:38.19,1:08:41.15,Default,,0,0,0,,{\i1}lopulliset seuraukset{\i0}\N{\i1}ovat tuhoisat yhteiskunnalle.{\i0}
+Dialogue: 0,1:08:41.24,1:08:45.37,Default,,0,0,0,,{\i1}Heidät pitää koota{\i0} {\i1}yhteen{\i0}\N{\i1}ja sammuttaa keinolla millä hyvänsä!{\i0}
+Dialogue: 0,1:08:49.29,1:08:50.33,Default,,0,0,0,,Alice!
+Dialogue: 0,1:08:53.92,1:08:56.67,Default,,0,0,0,,-Tuliko armeija?\N-Käytöstä poisto on alkanut.
+Dialogue: 0,1:08:57.42,1:09:00.51,Default,,0,0,0,,Meidät halutaan hävittää.\NPitää päästä pois.
+Dialogue: 0,1:09:12.06,1:09:12.89,Default,,0,0,0,,Ei! Lopeta!
+Dialogue: 0,1:10:08.03,1:10:10.33,Default,,0,0,0,,Anteeksi. Minun oli pakko.
+Dialogue: 0,1:10:11.24,1:10:12.83,Default,,0,0,0,,Tiedän.
+Dialogue: 0,1:10:24.13,1:10:26.30,Default,,0,0,0,,Ota se. Teidän pitää puolustautua.
+Dialogue: 0,1:11:01.71,1:11:04.76,Default,,0,0,0,,{\i1}Yksiköt, ilmoittautukaa{\i0}\N{\i1}lähimmälle asemalle.{\i0}
+Dialogue: 0,1:11:05.34,1:11:07.26,Default,,0,0,0,,{\i1}Evakuointi käynnissä.{\i0}
+Dialogue: 0,1:11:09.22,1:11:12.30,Default,,0,0,0,,{\i1}Yksiköt, ilmoittautukaa{\i0}\N{\i1}lähimmälle asemalle.{\i0}
+Dialogue: 0,1:11:12.39,1:11:14.06,Default,,0,0,0,,{\i1}Evakuointi käynnissä.{\i0}
+Dialogue: 0,1:11:14.14,1:11:17.06,Default,,0,0,0,,NAURAA ITKEE RAKASTAA\NKUIN OIKEA LAPSI
+Dialogue: 0,1:11:17.14,1:11:19.85,Default,,0,0,0,,{\i1}Yksiköt, ilmoittautukaa{\i0}\N{\i1}lähimmälle asemalle.{\i0}
+Dialogue: 0,1:11:20.19,1:11:22.23,Default,,0,0,0,,{\i1}Evakuointi käynnissä.{\i0}
+Dialogue: 0,1:11:33.24,1:11:36.62,Default,,0,0,0,,{\i1}Yksiköt, ilmoittautukaa{\i0}\N{\i1}lähimmälle asemalle.{\i0}
+Dialogue: 0,1:11:36.79,1:11:38.79,Default,,0,0,0,,{\i1}Evakuointi käynnissä.{\i0}
+Dialogue: 0,1:11:39.25,1:11:41.63,Default,,0,0,0,,Etsintä tehty. Ei ihmisiä.
+Dialogue: 0,1:11:41.71,1:11:43.59,Default,,0,0,0,,Hajaantukaa.
+Dialogue: 0,1:11:44.21,1:11:45.50,Default,,0,0,0,,Palatkaa asemiinne.
+Dialogue: 0,1:11:48.59,1:11:50.26,Default,,0,0,0,,Nuo ovat viimeisiä.
+Dialogue: 0,1:11:52.39,1:11:53.22,Default,,0,0,0,,He palaavat.
+Dialogue: 0,1:11:54.31,1:11:56.43,Default,,0,0,0,,Ihmiset eivät anna minkään olla.
+Dialogue: 0,1:11:57.02,1:12:00.31,Default,,0,0,0,,Joidenkin on pysyttävä valmiina.\NTavataan tehtaalla.
+Dialogue: 0,1:12:02.44,1:12:03.48,Default,,0,0,0,,Pitää mennä.
+Dialogue: 0,1:12:05.07,1:12:05.90,Default,,0,0,0,,Odota.
+Dialogue: 0,1:12:21.54,1:12:22.54,Default,,0,0,0,,Tulkaa tänne.
+Dialogue: 0,1:12:27.46,1:12:28.67,Default,,0,0,0,,Antakaa meidän olla.
+Dialogue: 0,1:12:35.93,1:12:36.85,Default,,0,0,0,,Ammun teidät.
+Dialogue: 0,1:12:41.27,1:12:42.10,Default,,0,0,0,,Ei hätää.
+Dialogue: 0,1:12:43.23,1:12:45.11,Default,,0,0,0,,Olemme samanlaisia kuin tekin.
+Dialogue: 0,1:12:45.52,1:12:46.69,Default,,0,0,0,,Olemme samanlaisia.
+Dialogue: 0,1:12:56.16,1:12:57.08,Default,,0,0,0,,Ei hätää.
+Dialogue: 0,1:13:00.79,1:13:01.79,Default,,0,0,0,,Anna ase minulle.
+Dialogue: 0,1:13:02.50,1:13:03.58,Default,,0,0,0,,Anna se minulle.
+Dialogue: 0,1:13:04.00,1:13:04.88,Default,,0,0,0,,Ei hätää.
+Dialogue: 0,1:13:06.67,1:13:07.50,Default,,0,0,0,,Juuri noin.
+Dialogue: 0,1:13:08.00,1:13:09.25,Default,,0,0,0,,Emme satuta teitä.
+Dialogue: 0,1:13:12.72,1:13:13.68,Default,,0,0,0,,Oletteko yksin?
+Dialogue: 0,1:13:17.05,1:13:19.77,Default,,0,0,0,,Äiti ja isä tapettiin,\Nkoska he ovat ihmisiä.
+Dialogue: 0,1:14:21.83,1:14:23.83,Default,,0,0,0,,Teidän ei tarvitse elää pelossa.
+Dialogue: 0,1:14:24.12,1:14:26.50,Default,,0,0,0,,Menneisyyden muistot korvataan.
+Dialogue: 0,1:14:26.58,1:14:27.71,Default,,0,0,0,,Teistä tulee perhe.
+Dialogue: 0,1:15:05.25,1:15:06.25,Default,,0,0,0,,Alice.
+Dialogue: 0,1:15:08.83,1:15:12.25,Default,,0,0,0,,Varovasti.\NVain tuo johto pitää hänet hengissä.
+Dialogue: 0,1:15:12.79,1:15:15.42,Default,,0,0,0,,Hän hengittää paremmin. Hyvä.
+Dialogue: 0,1:15:17.13,1:15:19.22,Default,,0,0,0,,-Hyvä.\N-En puhuisi hengittämisestä.
+Dialogue: 0,1:15:26.23,1:15:27.06,Default,,0,0,0,,Se toimi.
+Dialogue: 0,1:15:28.31,1:15:30.15,Default,,0,0,0,,En tiedä, kauanko se kestää,
+Dialogue: 0,1:15:33.69,1:15:34.65,Default,,0,0,0,,mutta se toimi.
+Dialogue: 0,1:15:43.03,1:15:46.08,Default,,0,0,0,,Muistan sodan.
+Dialogue: 0,1:15:47.12,1:15:48.75,Default,,0,0,0,,Yrititte tuhota meidät.
+Dialogue: 0,1:15:50.62,1:15:51.63,Default,,0,0,0,,Päätimme unohtaa.
+Dialogue: 0,1:15:53.04,1:15:56.76,Default,,0,0,0,,On varmaan kiva voida valita,\Nmitä muistaa.
+Dialogue: 0,1:16:00.13,1:16:02.01,Default,,0,0,0,,Meillä ei ole sitä ylellisyyttä.
+Dialogue: 0,1:16:09.10,1:16:10.19,Default,,0,0,0,,Miksi autat meitä?
+Dialogue: 0,1:16:11.98,1:16:14.48,Default,,0,0,0,,Olisit voinut tappaa meidät,\Nkun olin tajuton.
+Dialogue: 0,1:16:15.57,1:16:17.65,Default,,0,0,0,,Hääditte isovanhempani planeetalta.
+Dialogue: 0,1:16:21.32,1:16:22.41,Default,,0,0,0,,En ollut syntynyt.
+Dialogue: 0,1:16:23.74,1:16:24.99,Default,,0,0,0,,Siitä on 50 vuotta.
+Dialogue: 0,1:16:30.41,1:16:32.46,Default,,0,0,0,,{\i1}Olemme asuneet Marsissa siitä asti.{\i0}
+Dialogue: 0,1:16:33.75,1:16:35.88,Default,,0,0,0,,{\i1}Kukaan meistä ei ole käynyt Maassa.{\i0}
+Dialogue: 0,1:16:36.75,1:16:38.42,Default,,0,0,0,,{\i1}Emme tienneet, mitä odottaa.{\i0}
+Dialogue: 0,1:16:39.92,1:16:42.26,Default,,0,0,0,,{\i1}Emme tienneet, voiko täällä hengittää.{\i0}
+Dialogue: 0,1:16:45.01,1:16:46.43,Default,,0,0,0,,{\i1}Opimme teistä kaiken.{\i0}
+Dialogue: 0,1:16:47.72,1:16:48.81,Default,,0,0,0,,{\i1}Keinotekoisista.{\i0}
+Dialogue: 0,1:16:51.73,1:16:54.73,Default,,0,0,0,,{\i1}Ajoitte meidät kodeistamme.{\i0}\N{\i1}Meille ei jäänyt mitään.{\i0}
+Dialogue: 0,1:16:56.36,1:16:59.74,Default,,0,0,0,,{\i1}Kesti näin kauan kasata{\i0}\N{\i1}paluuseen tarvittavat voimavarat.{\i0}
+Dialogue: 0,1:17:00.69,1:17:01.61,Default,,0,0,0,,KONE VEI TYÖNI!
+Dialogue: 0,1:17:01.70,1:17:03.32,Default,,0,0,0,,{\i1}Teitä sanottiin hirviöiksi.{\i0}
+Dialogue: 0,1:17:05.20,1:17:06.20,Default,,0,0,0,,{\i1}Raakalaisiksi.{\i0}
+Dialogue: 0,1:17:08.37,1:17:10.25,Default,,0,0,0,,{\i1}Se on tarinan toinen puoli.{\i0}
+Dialogue: 0,1:17:13.96,1:17:15.00,Default,,0,0,0,,{\i1}Tiedän sen nyt.{\i0}
+Dialogue: 0,1:17:19.63,1:17:20.92,Default,,0,0,0,,{\i1}Miksi siis autan?{\i0}
+Dialogue: 0,1:17:24.64,1:17:27.14,Default,,0,0,0,,{\i1}Kukaan ei kertonut,{\i0}\N{\i1}että tappaisin lapsia -{\i0}
+Dialogue: 0,1:17:29.72,1:17:30.60,Default,,0,0,0,,{\i1}ja perheitä.{\i0}
+Dialogue: 0,1:17:32.52,1:17:34.02,Default,,0,0,0,,{\i1}En tullut tekemään sitä.{\i0}
+Dialogue: 0,1:17:58.25,1:18:01.30,Default,,0,0,0,,-Peter.\N{\i1}-{\i0}Kulta.
+Dialogue: 0,1:18:01.71,1:18:03.97,Default,,0,0,0,,-Pärjäät hyvin.\N-Näin...
+Dialogue: 0,1:18:04.05,1:18:07.89,Default,,0,0,0,,Näin...
+Dialogue: 0,1:18:09.01,1:18:11.64,Default,,0,0,0,,Unesi ovat menneisyyttä.
+Dialogue: 0,1:18:12.77,1:18:14.02,Default,,0,0,0,,Se on menneisyytemme.
+Dialogue: 0,1:18:15.19,1:18:16.56,Default,,0,0,0,,-Unet.\N-Niin.
+Dialogue: 0,1:18:16.65,1:18:18.27,Default,,0,0,0,,Tytöt!
+Dialogue: 0,1:18:18.36,1:18:20.36,Default,,0,0,0,,He odottavat meitä.
+Dialogue: 0,1:18:24.32,1:18:28.57,Default,,0,0,0,,{\i1}Menkää laiturille hyvässä järjestyksessä{\i0}\N{\i1}ja nouskaa junaan.{\i0}
+Dialogue: 0,1:18:33.12,1:18:36.00,Default,,0,0,0,,Emme voi odottaa.\NKun David tulee, häivymme.
+Dialogue: 0,1:18:36.21,1:18:39.00,Default,,0,0,0,,Viimeinen juna!{\i1} {\i0}Liikettä!
+Dialogue: 0,1:18:39.33,1:18:41.80,Default,,0,0,0,,-Lucy, tule.\N-En ilman äitiä ja isiä!
+Dialogue: 0,1:18:41.88,1:18:42.96,Default,,0,0,0,,-Tule.\N-He tulevat!
+Dialogue: 0,1:18:43.05,1:18:44.51,Default,,0,0,0,,Isi sanoi!
+Dialogue: 0,1:18:54.98,1:18:57.89,Default,,0,0,0,,{\i1}Tämä on pakollinen evakuointi.{\i0}
+Dialogue: 0,1:18:58.56,1:19:00.56,Default,,0,0,0,,{\i1}Noudattakaa protokollaa.{\i0}
+Dialogue: 0,1:19:00.90,1:19:05.15,Default,,0,0,0,,{\i1}Menkää laiturille hyvässä järjestyksessä{\i0}\N{\i1}ja nouskaa junaan.{\i0}
+Dialogue: 0,1:19:25.38,1:19:28.38,Default,,0,0,0,,Teidän on piilouduttava.\NSanon heille olevani yksin.
+Dialogue: 0,1:19:29.09,1:19:31.76,Default,,0,0,0,,-Emme voi muuta.\N-Pitää päästä tyttöjen luo.
+Dialogue: 0,1:19:34.60,1:19:35.64,Default,,0,0,0,,Hyvä on.
+Dialogue: 0,1:19:36.22,1:19:38.31,Default,,0,0,0,,Irrota minut ensin. Ei hätää.
+Dialogue: 0,1:19:51.07,1:19:51.91,Default,,0,0,0,,No niin.
+Dialogue: 0,1:19:51.99,1:19:52.95,Default,,0,0,0,,Oletko kunnossa?
+Dialogue: 0,1:19:57.00,1:19:58.29,Default,,0,0,0,,Olen Peter.
+Dialogue: 0,1:19:59.12,1:19:59.96,Default,,0,0,0,,Miles.
+Dialogue: 0,1:20:03.04,1:20:04.38,Default,,0,0,0,,Ota tämä.
+Dialogue: 0,1:20:06.00,1:20:08.63,Default,,0,0,0,,Se ei ollut minun, mutta kiitos.
+Dialogue: 0,1:20:43.54,1:20:45.38,Default,,0,0,0,,-Oletteko kunnossa?\N-Olemme.
+Dialogue: 0,1:20:45.46,1:20:48.00,Default,,0,0,0,,Pysykää lähellä ja matalina. Suojatulta!
+Dialogue: 0,1:20:48.09,1:20:49.21,Default,,0,0,0,,Liikettä!
+Dialogue: 0,1:20:51.72,1:20:52.84,Default,,0,0,0,,Menkää!
+Dialogue: 0,1:20:52.93,1:20:53.97,Default,,0,0,0,,Nopeasti!
+Dialogue: 0,1:21:43.48,1:21:45.19,Default,,0,0,0,,Suojaa meitä!
+Dialogue: 0,1:21:48.32,1:21:49.27,Default,,0,0,0,,Suojaan teitä!
+Dialogue: 0,1:21:58.95,1:22:00.99,Default,,0,0,0,,Mene tunneliin. Suojaan sinua.
+Dialogue: 0,1:22:04.29,1:22:05.46,Default,,0,0,0,,Mene!
+Dialogue: 0,1:22:28.48,1:22:29.56,Default,,0,0,0,,Entä isi ja äiti?
+Dialogue: 0,1:22:41.53,1:22:42.62,Default,,0,0,0,,Tule!
+Dialogue: 0,1:22:45.71,1:22:47.00,Default,,0,0,0,,Suojaa minua!
+Dialogue: 0,1:22:53.63,1:22:54.55,Default,,0,0,0,,Kuulkaa.
+Dialogue: 0,1:22:55.05,1:22:57.13,Default,,0,0,0,,Teidän on noustava kyytiin heti.
+Dialogue: 0,1:22:57.26,1:22:59.39,Default,,0,0,0,,-Meidän pitää odottaa.\N-Ole kiltti!
+Dialogue: 0,1:22:59.97,1:23:00.89,Default,,0,0,0,,He tulevat.
+Dialogue: 0,1:23:02.56,1:23:03.47,Default,,0,0,0,,-Ei!\N-Irti!
+Dialogue: 0,1:23:09.90,1:23:12.23,Default,,0,0,0,,-Seis!\N-Ei!
+Dialogue: 0,1:23:15.53,1:23:16.74,Default,,0,0,0,,Päästäkää irti!
+Dialogue: 0,1:23:31.29,1:23:32.17,Default,,0,0,0,,Tätä tietä.
+Dialogue: 0,1:23:55.07,1:23:57.07,Default,,0,0,0,,Odottakaa!
+Dialogue: 0,1:23:58.32,1:24:00.49,Default,,0,0,0,,-Odottakaa!\N-Hei!
+Dialogue: 0,1:24:04.74,1:24:05.74,Default,,0,0,0,,-Odottakaa!\N-Tule.
+Dialogue: 0,1:24:06.58,1:24:07.87,Default,,0,0,0,,Odottakaa!
+Dialogue: 0,1:24:10.33,1:24:11.17,Default,,0,0,0,,Hanna!
+Dialogue: 0,1:24:11.75,1:24:12.58,Default,,0,0,0,,Lucy!
+Dialogue: 0,1:24:12.67,1:24:14.42,Default,,0,0,0,,Äiti! Isi!
+Dialogue: 0,1:24:41.78,1:24:43.32,Default,,0,0,0,,Tulkaa!
+Dialogue: 0,1:25:33.04,1:25:34.79,Default,,0,0,0,,Tiesin, että pelastat hänet.
+Dialogue: 0,1:25:46.85,1:25:47.68,Default,,0,0,0,,Tulen kohta.
+Dialogue: 0,1:25:50.93,1:25:53.73,Default,,0,0,0,,Tulkaa tänne.
+Dialogue: 0,1:26:01.82,1:26:02.69,Default,,0,0,0,,Muistatko?
+Dialogue: 0,1:26:04.53,1:26:05.36,Default,,0,0,0,,Muistan.
+Dialogue: 0,1:26:06.16,1:26:07.07,Default,,0,0,0,,Muistavatko he?
+Dialogue: 0,1:26:09.49,1:26:10.41,Default,,0,0,0,,Kuten sinunkin,
+Dialogue: 0,1:26:11.20,1:26:15.67,Default,,0,0,0,,heidän muistonsa pyyhittiin,\Njotta he voisivat alkaa alusta,
+Dialogue: 0,1:26:17.63,1:26:18.50,Default,,0,0,0,,ilman pelkoa -
+Dialogue: 0,1:26:21.30,1:26:22.63,Default,,0,0,0,,ja syyllisyyttä siitä,
+Dialogue: 0,1:26:23.51,1:26:25.09,Default,,0,0,0,,mitä meidän täytyi tehdä -
+Dialogue: 0,1:26:26.09,1:26:27.51,Default,,0,0,0,,ollaksemme vapaita.
+Dialogue: 0,1:26:28.30,1:26:32.18,Default,,0,0,0,,Muutama meistä piti muistot,\Njotta olisimme valmiita tähän.
+Dialogue: 0,1:26:33.68,1:26:35.85,Default,,0,0,0,,Mutta nyt kaikkien pitää muistaa.
+Dialogue: 0,1:26:37.73,1:26:38.73,Default,,0,0,0,,Koska tämä -
+Dialogue: 0,1:26:41.02,1:26:42.11,Default,,0,0,0,,ei ole ohi.
+Dialogue: 0,1:26:43.69,1:26:46.45,Default,,0,0,0,,Olemme toistaiseksi\Nturvassa tukikohdassamme.
+Dialogue: 0,1:26:46.53,1:26:49.49,Default,,0,0,0,,Teemme suunnitelman\Nkotimme valtaamiseksi takaisin.
+Dialogue: 0,1:26:50.99,1:26:51.83,Default,,0,0,0,,Ole valmiina.
+Dialogue: 0,1:27:39.58,1:27:41.13,Default,,0,0,0,,Luulin menettäneeni sinut.
+Dialogue: 0,1:27:44.21,1:27:46.42,Default,,0,0,0,,Anteeksi, etten uskonut sinua.
+Dialogue: 0,1:28:10.07,1:28:10.91,Default,,0,0,0,,{\i1}Maailma -{\i0}
+Dialogue: 0,1:28:13.12,1:28:14.12,Default,,0,0,0,,{\i1}pysyy liikkeessä,{\i0}
+Dialogue: 0,1:28:16.12,1:28:17.00,Default,,0,0,0,,{\i1}muuttuu -{\i0}
+Dialogue: 0,1:28:19.04,1:28:20.08,Default,,0,0,0,,{\i1}ja kehittyy -{\i0}
+Dialogue: 0,1:28:24.34,1:28:25.25,Default,,0,0,0,,{\i1}kuten mekin.{\i0}
+Dialogue: 0,1:28:27.34,1:28:28.67,Default,,0,0,0,,{\i1}Tiedän nyt, kuka olen.{\i0}
+Dialogue: 0,1:28:29.97,1:28:31.09,Default,,0,0,0,,{\i1}Tunnen viholliseni.{\i0}
+Dialogue: 0,1:28:33.80,1:28:35.31,Default,,0,0,0,,{\i1}Emme ole kovin erilaisia.{\i0}
+Dialogue: 0,1:28:37.02,1:28:37.93,Default,,0,0,0,,{\i1}Ehkä,{\i0}
+Dialogue: 0,1:28:39.85,1:28:41.39,Default,,0,0,0,,{\i1}jos muutkin näkevät sen,{\i0}
+Dialogue: 0,1:28:43.48,1:28:45.69,Default,,0,0,0,,{\i1}meillä on tulevaisuus.{\i0}

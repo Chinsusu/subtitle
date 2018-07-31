@@ -1,0 +1,879 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:57.68,0:01:00.22,Default,,0,0,0,,{\i1}Nasz świat{\i0}\N{\i1}jest w ciągłym ruchu...{\i0}
+Dialogue: 0,0:01:00.76,0:01:01.60,Default,,0,0,0,,{\i1}zmienia się...{\i0}
+Dialogue: 0,0:01:02.60,0:01:03.48,Default,,0,0,0,,{\i1}ewoluuje.{\i0}
+Dialogue: 0,0:01:05.23,0:01:08.35,Default,,0,0,0,,{\i1}Wykonujemy nasze codzienne obowiązki.{\i0}
+Dialogue: 0,0:01:11.07,0:01:14.28,Default,,0,0,0,,{\i1}Praca, dom, rodzina.{\i0}
+Dialogue: 0,0:01:17.41,0:01:18.45,Default,,0,0,0,,{\i1}Ale kim jesteśmy?{\i0}
+Dialogue: 0,0:01:20.74,0:01:21.62,Default,,0,0,0,,{\i1}Kim ja jestem?{\i0}
+Dialogue: 0,0:01:25.41,0:01:27.67,Default,,0,0,0,,{\i1}Myślisz, że znasz swoją piękną żonę...{\i0}
+Dialogue: 0,0:01:29.71,0:01:31.09,Default,,0,0,0,,{\i1}cudowne dzieci...{\i0}
+Dialogue: 0,0:01:35.34,0:01:36.59,Default,,0,0,0,,{\i1}i swojego pracodawcę.{\i0}
+Dialogue: 0,0:01:38.38,0:01:39.76,Default,,0,0,0,,{\i1}A co, jeśli nie?{\i0}
+Dialogue: 0,0:01:42.31,0:01:43.35,Default,,0,0,0,,{\i1}I prawda...{\i0}
+Dialogue: 0,0:01:45.73,0:01:47.35,Default,,0,0,0,,{\i1}kiedy ją w końcu poznasz...{\i0}
+Dialogue: 0,0:01:48.77,0:01:50.11,Default,,0,0,0,,{\i1}zmieni wszystko.{\i0}
+Dialogue: 0,0:02:25.72,0:02:26.98,Default,,0,0,0,,Kolejny koszmar?
+Dialogue: 0,0:02:28.56,0:02:29.39,Default,,0,0,0,,Tak. Przepraszam.
+Dialogue: 0,0:02:32.40,0:02:34.52,Default,,0,0,0,,Proszę, porozmawiaj z kimś.
+Dialogue: 0,0:02:35.36,0:02:38.53,Default,,0,0,0,,Martwię się o ciebie.\NDziewczynki też się martwią.
+Dialogue: 0,0:02:41.53,0:02:42.66,Default,,0,0,0,,Poradzę sobie.
+Dialogue: 0,0:02:47.91,0:02:50.37,Default,,0,0,0,,Chcesz usłyszeć jeszcze gorszy koszmar?
+Dialogue: 0,0:02:51.58,0:02:52.75,Default,,0,0,0,,Mąż...
+Dialogue: 0,0:02:52.83,0:02:55.50,Default,,0,0,0,,nie chciał stawić czoła swoim problemom,
+Dialogue: 0,0:02:55.59,0:02:59.72,Default,,0,0,0,,więc jego żona oszalała z braku snu
+Dialogue: 0,0:03:00.63,0:03:02.39,Default,,0,0,0,,i wypchnęła go przez okno.
+Dialogue: 0,0:03:05.39,0:03:06.35,Default,,0,0,0,,Koniec.
+Dialogue: 0,0:03:49.85,0:03:52.14,Default,,0,0,0,,{\i1}Małpka widzi, małpka robi!{\i0}
+Dialogue: 0,0:03:56.61,0:03:57.82,Default,,0,0,0,,Hej, co robisz?
+Dialogue: 0,0:03:58.65,0:04:01.36,Default,,0,0,0,,Bawię się z małpką.\NMożesz być moim asystentem.
+Dialogue: 0,0:04:01.44,0:04:04.32,Default,,0,0,0,,Mogę być twoim asystentem? Chciałbym,
+Dialogue: 0,0:04:04.41,0:04:06.41,Default,,0,0,0,,ale nie mogę się spóźnić do pracy.
+Dialogue: 0,0:04:08.33,0:04:09.33,Default,,0,0,0,,Ale wiesz co?
+Dialogue: 0,0:04:09.41,0:04:13.75,Default,,0,0,0,,Ostatnio wszyscy bardzo ciężko pracujemy,\Nprawda?
+Dialogue: 0,0:04:13.83,0:04:15.04,Default,,0,0,0,,Szczególnie Herman.
+Dialogue: 0,0:04:15.12,0:04:17.75,Default,,0,0,0,,Szczególnie Herman, tak myślałem.
+Dialogue: 0,0:04:18.21,0:04:21.42,Default,,0,0,0,,Więc może wyjdę wcześniej z pracy\Ni pójdziemy na molo?
+Dialogue: 0,0:04:22.34,0:04:24.09,Default,,0,0,0,,Czy Hanna musi z nami iść?
+Dialogue: 0,0:04:24.18,0:04:26.97,Default,,0,0,0,,- Musi.\N- Twoja starsza siostra musi z nami iść.
+Dialogue: 0,0:04:27.05,0:04:29.14,Default,,0,0,0,,Zmusimy ją, żeby się dobrze bawiła.
+Dialogue: 0,0:04:29.22,0:04:32.14,Default,,0,0,0,,A jeśli nie, to pokażę ci, co zrobimy.
+Dialogue: 0,0:04:32.73,0:04:33.94,Default,,0,0,0,,Nie!
+Dialogue: 0,0:04:34.02,0:04:35.73,Default,,0,0,0,,Przestań! A właściwie gdzie ona jest?
+Dialogue: 0,0:04:38.11,0:04:39.82,Default,,0,0,0,,- Zgadnij.\N- Aha.
+Dialogue: 0,0:04:40.53,0:04:42.40,Default,,0,0,0,,- Pa, tatusiu.\N- Pa, Luce.
+Dialogue: 0,0:04:44.74,0:04:46.70,Default,,0,0,0,,Aha, Samantha wypytuje
+Dialogue: 0,0:04:46.78,0:04:49.91,Default,,0,0,0,,kiedy zorganizujemy tę imprezę\Nz okazji mojego awansu.
+Dialogue: 0,0:04:50.66,0:04:52.29,Default,,0,0,0,,Tak, jasne.
+Dialogue: 0,0:04:53.29,0:04:54.29,Default,,0,0,0,,Zróbmy to jutro.
+Dialogue: 0,0:04:54.50,0:04:55.71,Default,,0,0,0,,- Tak?\N- Tak.
+Dialogue: 0,0:04:55.92,0:04:56.75,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:04:56.83,0:04:59.29,Default,,0,0,0,,Powoli zapominam\Njak wyglądają nasi znajomi.
+Dialogue: 0,0:05:01.92,0:05:03.63,Default,,0,0,0,,- Kocham cię.\N- Ja ciebie też.
+Dialogue: 0,0:05:06.59,0:05:07.43,Default,,0,0,0,,Molo!
+Dialogue: 0,0:05:11.51,0:05:12.35,Default,,0,0,0,,Dzień dobry. Hol?
+Dialogue: 0,0:05:15.14,0:05:15.98,Default,,0,0,0,,Tak, proszę.
+Dialogue: 0,0:05:22.11,0:05:23.44,Default,,0,0,0,,Ładna dziś pogoda.
+Dialogue: 0,0:05:24.44,0:05:26.90,Default,,0,0,0,,Proszę nie rozmawiać,\Nkiedy winda jest w ruchu.
+Dialogue: 0,0:05:27.49,0:05:28.41,Default,,0,0,0,,Jasne.
+Dialogue: 0,0:05:29.12,0:05:30.07,Default,,0,0,0,,Okej.
+Dialogue: 0,0:05:31.53,0:05:33.75,Default,,0,0,0,,No spójrzcie, idealne wyczucie czasu.
+Dialogue: 0,0:05:33.87,0:05:34.91,Default,,0,0,0,,- Pete.\N- Hej.
+Dialogue: 0,0:05:36.33,0:05:37.92,Default,,0,0,0,,Pani od windy.
+Dialogue: 0,0:05:40.34,0:05:41.63,Default,,0,0,0,,Jak tam praca?
+Dialogue: 0,0:05:41.71,0:05:43.88,Default,,0,0,0,,Jestem tylko trybikiem w maszynie.
+Dialogue: 0,0:05:43.96,0:05:46.67,Default,,0,0,0,,Poskarżyłabym się wspólnocie,\Nale kto posłucha?
+Dialogue: 0,0:05:47.63,0:05:48.97,Default,,0,0,0,,Dziękuję, proszę pani.
+Dialogue: 0,0:05:49.64,0:05:51.10,Default,,0,0,0,,Panie Wright?
+Dialogue: 0,0:05:51.18,0:05:53.06,Default,,0,0,0,,Mogę wpaść dziś do Maggie?
+Dialogue: 0,0:05:53.14,0:05:54.77,Default,,0,0,0,,Jasne. Mamy nowy system audio.
+Dialogue: 0,0:05:55.48,0:05:57.10,Default,,0,0,0,,- Czas na imprezę!\N- Super!
+Dialogue: 0,0:05:57.19,0:05:59.44,Default,,0,0,0,,Planowaliśmy dzisiaj wieczór rodzinny.
+Dialogue: 0,0:05:59.52,0:06:01.36,Default,,0,0,0,,Okej, spoko. Kiedy indziej.
+Dialogue: 0,0:06:01.73,0:06:02.82,Default,,0,0,0,,Bawcie się dobrze!
+Dialogue: 0,0:06:03.73,0:06:06.78,Default,,0,0,0,,- Co próbujesz zrobić?\N- Nie, czekaj!
+Dialogue: 0,0:06:11.12,0:06:13.49,Default,,0,0,0,,Wiem, przez ostatnie parę tygodni\Nbyłem nieobecny.
+Dialogue: 0,0:06:13.58,0:06:14.74,Default,,0,0,0,,Tygodni?
+Dialogue: 0,0:06:15.87,0:06:16.79,Default,,0,0,0,,Niezły docinek.
+Dialogue: 0,0:06:17.58,0:06:18.41,Default,,0,0,0,,Dziękuję.
+Dialogue: 0,0:06:19.67,0:06:22.29,Default,,0,0,0,,Czy możemy spędzić trochę czasu\Njako rodzina?
+Dialogue: 0,0:06:22.38,0:06:24.46,Default,,0,0,0,,Naprawdę chcę wam to wynagrodzić.
+Dialogue: 0,0:06:25.92,0:06:27.13,Default,,0,0,0,,To jaki jest plan?
+Dialogue: 0,0:06:27.72,0:06:28.80,Default,,0,0,0,,Nie wiem.
+Dialogue: 0,0:06:29.59,0:06:31.39,Default,,0,0,0,,Jedź na górę, to się dowiesz.
+Dialogue: 0,0:07:33.16,0:07:34.20,Default,,0,0,0,,Do diabła!
+Dialogue: 0,0:07:35.07,0:07:35.91,Default,,0,0,0,,Reset. Wow.
+Dialogue: 0,0:07:43.50,0:07:46.34,Default,,0,0,0,,Nie pamiętam,\Nkiedy ostatni raz zepsułeś maszynę.
+Dialogue: 0,0:07:46.92,0:07:49.26,Default,,0,0,0,,Przesilenie, wysadziło oba systemy.
+Dialogue: 0,0:07:49.55,0:07:52.59,Default,,0,0,0,,- Dobrze sypiasz?\N- Tak. Cóż, lepiej.
+Dialogue: 0,0:07:54.01,0:07:55.09,Default,,0,0,0,,Zabawne,
+Dialogue: 0,0:07:55.18,0:07:59.10,Default,,0,0,0,,ktoś powiedział mi o pewnej klinice,\Ndo której ludzie chodzą...
+Dialogue: 0,0:07:59.85,0:08:04.02,Default,,0,0,0,,z powodu bezsenności i stresu.\NMogę dać ci numer.
+Dialogue: 0,0:08:04.77,0:08:07.90,Default,,0,0,0,,- Próbuję...\N- Nie. To tylko drobny błąd.
+Dialogue: 0,0:08:09.11,0:08:10.15,Default,,0,0,0,,Naprawię to.
+Dialogue: 0,0:08:10.78,0:08:11.94,Default,,0,0,0,,Jasne. Rozumiem.
+Dialogue: 0,0:08:13.49,0:08:14.32,Default,,0,0,0,,Okej.
+Dialogue: 0,0:08:15.70,0:08:18.37,Default,,0,0,0,,- Daj znać, jeśli czegoś potrzebujesz.\N- Okej.
+Dialogue: 0,0:08:18.58,0:08:20.45,Default,,0,0,0,,David?
+Dialogue: 0,0:08:21.12,0:08:24.00,Default,,0,0,0,,Czy mógłbym się dzisiaj wcześniej wyrwać?
+Dialogue: 0,0:08:25.42,0:08:26.83,Default,,0,0,0,,A zadzwonisz do kliniki?
+Dialogue: 0,0:08:28.17,0:08:29.00,Default,,0,0,0,,Tak.
+Dialogue: 0,0:08:30.38,0:08:31.30,Default,,0,0,0,,W porządku.
+Dialogue: 0,0:08:44.27,0:08:47.15,Default,,0,0,0,,Chcemy poprawić system kanalizacyjny
+Dialogue: 0,0:08:47.23,0:08:50.15,Default,,0,0,0,,na Prescott, Calder i Willow.
+Dialogue: 0,0:08:50.53,0:08:53.99,Default,,0,0,0,,Myślę, że jeśli skupimy się na tunelach\Npod tymi ulicami,
+Dialogue: 0,0:08:54.07,0:08:58.74,Default,,0,0,0,,będziemy mogli zredukować odpływ\Nw zachodniej części miasta o 30%.
+Dialogue: 0,0:08:59.12,0:09:01.49,Default,,0,0,0,,Bardzo wam dziękuję. To tyle na dzisiaj.
+Dialogue: 0,0:09:04.29,0:09:06.71,Default,,0,0,0,,To powinno być zrobione wiele lat temu.
+Dialogue: 0,0:09:06.79,0:09:08.54,Default,,0,0,0,,Hej, to było świetne.
+Dialogue: 0,0:09:08.96,0:09:10.80,Default,,0,0,0,,- Dziękuję.\N- Nie ma za co.
+Dialogue: 0,0:09:10.88,0:09:12.55,Default,,0,0,0,,Twój awans był dobrą decyzją.
+Dialogue: 0,0:09:12.63,0:09:14.55,Default,,0,0,0,,Chcesz zostać dzisiaj dłużej?
+Dialogue: 0,0:09:14.63,0:09:17.26,Default,,0,0,0,,Omówimy jak to rozwiązać z wodą i prądem?
+Dialogue: 0,0:09:17.34,0:09:21.18,Default,,0,0,0,,Właściwie to chciałam spytać,\Nczy mogę wyjść dzisiaj wcześniej.
+Dialogue: 0,0:09:21.76,0:09:23.60,Default,,0,0,0,,- Tak.\N- Dziękuję.
+Dialogue: 0,0:09:25.73,0:09:28.31,Default,,0,0,0,,CENTRUM ODNOWY\NPEŁNIA ŻYCIA
+Dialogue: 0,0:10:06.85,0:10:08.10,Default,,0,0,0,,{\i1}Jeśli damy im szansę,{\i0}
+Dialogue: 0,0:10:08.19,0:10:10.10,Default,,0,0,0,,{\i1}może będą przydatni dla planety.{\i0}
+Dialogue: 0,0:10:10.19,0:10:12.90,Default,,0,0,0,,{\i1}Poza tym, czy nam się to podoba czy nie,{\i0}\N{\i1}oni tu zostają.{\i0}
+Dialogue: 0,0:10:12.98,0:10:15.19,Default,,0,0,0,,{\i1}Więc musimy oswoić się z możliwością,{\i0}
+Dialogue: 0,0:10:15.28,0:10:17.03,Default,,0,0,0,,{\i1}że dostaną takie same prawa jak my.{\i0}
+Dialogue: 0,0:10:17.11,0:10:19.07,Default,,0,0,0,,{\i1}Prawa? Oni nie mają żadnych praw.{\i0}
+Dialogue: 0,0:10:19.16,0:10:21.45,Default,,0,0,0,,{\i1}W końcu wzniosą się na szczyt,{\i0}
+Dialogue: 0,0:10:21.53,0:10:24.16,Default,,0,0,0,,{\i1}wyprzedzą nas i pokonają.{\i0}
+Dialogue: 0,0:10:24.24,0:10:25.79,Default,,0,0,0,,{\i1}Zawładną ludzkością.{\i0}
+Dialogue: 0,0:10:25.87,0:10:28.12,Default,,0,0,0,,{\i1}Nie chcę panikować, ale to się dzieje,{\i0}
+Dialogue: 0,0:10:28.21,0:10:31.29,Default,,0,0,0,,{\i1}widzimy to{\i0}\N{\i1}i musimy podjąć natychmiastowe działania!{\i0}
+Dialogue: 0,0:10:44.47,0:10:45.43,Default,,0,0,0,,Alice!
+Dialogue: 0,0:11:24.85,0:11:26.93,Default,,0,0,0,,Widzi pan to światło?
+Dialogue: 0,0:11:27.68,0:11:28.52,Default,,0,0,0,,To światło?
+Dialogue: 0,0:11:47.62,0:11:50.33,Default,,0,0,0,,MIEJSKIE ANTYKI
+Dialogue: 0,0:12:01.22,0:12:03.34,Default,,0,0,0,,{\i1}Pewnie musiał zostać dłużej w pracy.{\i0}
+Dialogue: 0,0:12:04.80,0:12:06.89,Default,,0,0,0,,Nie musisz go tłumaczyć.
+Dialogue: 0,0:12:09.35,0:12:11.68,Default,,0,0,0,,Masz prawo być na niego zła, kochanie.
+Dialogue: 0,0:12:12.35,0:12:13.52,Default,,0,0,0,,Powinien zadzwonić.
+Dialogue: 0,0:12:15.86,0:12:17.44,Default,,0,0,0,,Kocha cię, wiesz o tym.
+Dialogue: 0,0:12:18.73,0:12:19.94,Default,,0,0,0,,Tak, wiem.
+Dialogue: 0,0:12:22.70,0:12:23.82,Default,,0,0,0,,Dobranoc.
+Dialogue: 0,0:12:51.35,0:12:52.77,Default,,0,0,0,,Hej, bardzo przepraszam.
+Dialogue: 0,0:12:53.81,0:12:55.52,Default,,0,0,0,,Widzę, że miałeś czas na zakupy.
+Dialogue: 0,0:12:56.31,0:12:58.98,Default,,0,0,0,,- Kupiłem to dla dziewczynek.\N- Jasne.
+Dialogue: 0,0:13:03.24,0:13:04.40,Default,,0,0,0,,Daj mi spokój.
+Dialogue: 0,0:13:04.49,0:13:07.41,Default,,0,0,0,,Spokój? Od czego? Ode mnie?
+Dialogue: 0,0:13:07.49,0:13:09.33,Default,,0,0,0,,- Czy od dzieci?\N- Nie o to mi chodzi.
+Dialogue: 0,0:13:09.70,0:13:11.62,Default,,0,0,0,,Ale tak się zachowujesz.
+Dialogue: 0,0:13:16.50,0:13:18.33,Default,,0,0,0,,Miałem znów ten koszmar
+Dialogue: 0,0:13:19.38,0:13:21.30,Default,,0,0,0,,dzisiaj... w pracy.
+Dialogue: 0,0:13:22.34,0:13:24.51,Default,,0,0,0,,Zemdlałem, dlatego się spóźniłem.
+Dialogue: 0,0:13:28.84,0:13:29.72,Default,,0,0,0,,Peter, ja...
+Dialogue: 0,0:13:31.35,0:13:32.97,Default,,0,0,0,,Martwię się o ciebie, okej?
+Dialogue: 0,0:13:33.06,0:13:34.10,Default,,0,0,0,,Wiem.
+Dialogue: 0,0:13:34.18,0:13:37.19,Default,,0,0,0,,Ja, ale też twoje córki,\None też się martwią.
+Dialogue: 0,0:13:37.27,0:13:38.31,Default,,0,0,0,,Ja...
+Dialogue: 0,0:13:39.15,0:13:41.65,Default,,0,0,0,,nie rozumiem,\Nczemu nie udasz się po pomoc.
+Dialogue: 0,0:13:41.73,0:13:43.57,Default,,0,0,0,,Powiedzą, że to w mojej głowie.
+Dialogue: 0,0:13:43.65,0:13:45.74,Default,,0,0,0,,Bo to jest w twojej głowie.
+Dialogue: 0,0:13:47.91,0:13:48.82,Default,,0,0,0,,Mamusiu?
+Dialogue: 0,0:13:53.54,0:13:54.79,Default,,0,0,0,,Czemu krzyczycie?
+Dialogue: 0,0:13:54.87,0:13:57.58,Default,,0,0,0,,Chodź, kochanie. Wszystko w porządku.
+Dialogue: 0,0:14:18.31,0:14:20.15,Default,,0,0,0,,{\i1}Mamusiu, obudź się.{\i0}
+Dialogue: 0,0:14:21.77,0:14:23.65,Default,,0,0,0,,{\i1}Mamusiu, proszę, obudź się.{\i0}
+Dialogue: 0,0:14:24.28,0:14:26.61,Default,,0,0,0,,{\i1}Proszę.{\i0}
+Dialogue: 0,0:14:27.07,0:14:29.24,Default,,0,0,0,,{\i1}Mamusiu, obudź się.{\i0}
+Dialogue: 0,0:14:32.28,0:14:34.29,Default,,0,0,0,,{\i1}Mamusiu, proszę, obudź się.{\i0}
+Dialogue: 0,0:14:43.63,0:14:44.84,Default,,0,0,0,,{\i1}- Dziewczynki!{\i0}\N{\i1}- Nie!{\i0}
+Dialogue: 0,0:14:44.92,0:14:46.59,Default,,0,0,0,,{\i1}- Przestańcie!{\i0}\N{\i1}- Dziewczynki!{\i0}
+Dialogue: 0,0:14:46.88,0:14:50.18,Default,,0,0,0,,{\i1}Hej, dziewczynki! Przestańcie na sekundę.{\i0}
+Dialogue: 0,0:14:51.26,0:14:53.18,Default,,0,0,0,,{\i1}Widziałyście gdzieś moją teczkę?{\i0}
+Dialogue: 0,0:14:53.26,0:14:54.26,Default,,0,0,0,,{\i1}- Nie!{\i0}\N{\i1}- Nie!{\i0}
+Dialogue: 0,0:14:55.22,0:14:58.64,Default,,0,0,0,,CENTRUM ODNOWY\NPEŁNIA ŻYCIA
+Dialogue: 0,0:15:01.27,0:15:02.77,Default,,0,0,0,,{\i1}Dzień dobry, dziewczynki.{\i0}
+Dialogue: 0,0:15:02.86,0:15:04.23,Default,,0,0,0,,{\i1}Możemy porozmawiać o wczoraj?{\i0}
+Dialogue: 0,0:15:09.32,0:15:10.15,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:15:10.74,0:15:11.74,Default,,0,0,0,,Hej, przepraszam.
+Dialogue: 0,0:15:20.83,0:15:22.25,Default,,0,0,0,,Coś nie tak z Hermanem?
+Dialogue: 0,0:15:22.83,0:15:25.38,Default,,0,0,0,,- Przestał mówić.\N- Tak?
+Dialogue: 0,0:15:27.76,0:15:29.42,Default,,0,0,0,,Może jest na ciebie zły.
+Dialogue: 0,0:15:30.88,0:15:31.72,Default,,0,0,0,,Och.
+Dialogue: 0,0:15:33.39,0:15:34.39,Default,,0,0,0,,Cóż...
+Dialogue: 0,0:15:35.14,0:15:36.56,Default,,0,0,0,,ma do tego prawo.
+Dialogue: 0,0:15:38.60,0:15:41.06,Default,,0,0,0,,Mogę porozmawiać z Hermanem?
+Dialogue: 0,0:15:44.31,0:15:46.98,Default,,0,0,0,,Herman, rozumiem twoją frustrację
+Dialogue: 0,0:15:48.11,0:15:48.94,Default,,0,0,0,,i...
+Dialogue: 0,0:15:49.74,0:15:52.36,Default,,0,0,0,,chociaż przeprosiny\Nwszystkiego nie naprawią, przepraszam,\Nże przegapiłem rodzinny wieczór.
+Dialogue: 0,0:15:57.03,0:15:58.29,Default,,0,0,0,,Mogę mu się przyjrzeć
+Dialogue: 0,0:15:58.37,0:16:00.33,Default,,0,0,0,,i sprawdzić, co z jego głosem.
+Dialogue: 0,0:16:05.33,0:16:07.04,Default,,0,0,0,,Kiedy będzie znów mówić?
+Dialogue: 0,0:16:07.71,0:16:09.80,Default,,0,0,0,,Kiedy przepniemy ten kabelek.
+Dialogue: 0,0:16:13.84,0:16:15.51,Default,,0,0,0,,Dobrze, Herman, co ty na to?
+Dialogue: 0,0:16:15.89,0:16:18.22,Default,,0,0,0,,{\i1}Małpka widzi, małpka robi!{\i0}
+Dialogue: 0,0:16:18.81,0:16:19.81,Default,,0,0,0,,Dzięki, tato.
+Dialogue: 0,0:16:20.43,0:16:22.73,Default,,0,0,0,,{\i1}Małpka widzi, małpka robi!{\i0}
+Dialogue: 0,0:16:30.15,0:16:31.53,Default,,0,0,0,,Zadzwoniłem do lekarza.
+Dialogue: 0,0:16:31.90,0:16:33.78,Default,,0,0,0,,Przyjmie mnie dzisiaj po pracy.
+Dialogue: 0,0:16:35.24,0:16:36.07,Default,,0,0,0,,Naprawdę?
+Dialogue: 0,0:16:37.16,0:16:38.99,Default,,0,0,0,,Tak.
+Dialogue: 0,0:16:58.47,0:17:02.31,Default,,0,0,0,,{\i1}Tutaj w Pełni Życia,{\i0}\N{\i1}twoje zdrowie psychiczne jest priorytetem.{\i0}
+Dialogue: 0,0:17:02.68,0:17:04.69,Default,,0,0,0,,{\i1}Bądź najlepszą wersją siebie,{\i0}
+Dialogue: 0,0:17:04.77,0:17:08.77,Default,,0,0,0,,{\i1}dzięki naszym dyskretnym, fachowym{\i0}\N{\i1}i bezpłatnym usługom,{\i0}
+Dialogue: 0,0:17:09.11,0:17:12.07,Default,,0,0,0,,{\i1}w trosce{\i0}\N{\i1}o szczęśliwe i zdrowe społeczeństwo.{\i0}
+Dialogue: 0,0:17:15.78,0:17:16.70,Default,,0,0,0,,Co widzisz?
+Dialogue: 0,0:17:18.87,0:17:19.91,Default,,0,0,0,,Słucham?
+Dialogue: 0,0:17:21.08,0:17:22.70,Default,,0,0,0,,Ma pan problemy ze snem, tak?
+Dialogue: 0,0:17:24.20,0:17:25.41,Default,,0,0,0,,- Tak.
+Dialogue: 0,0:17:27.54,0:17:29.08,Default,,0,0,0,,Coś nadchodzi.
+Dialogue: 0,0:17:31.92,0:17:33.51,Default,,0,0,0,,Jak to coś nadchodzi?
+Dialogue: 0,0:17:34.34,0:17:35.34,Default,,0,0,0,,Światła.
+Dialogue: 0,0:17:36.38,0:17:37.76,Default,,0,0,0,,Tak, z góry.
+Dialogue: 0,0:17:38.89,0:17:40.14,Default,,0,0,0,,Ludzie biegają...
+Dialogue: 0,0:17:41.60,0:17:42.47,Default,,0,0,0,,umierają.
+Dialogue: 0,0:17:44.48,0:17:45.98,Default,,0,0,0,,Widujesz swoich bliskich?
+Dialogue: 0,0:17:47.94,0:17:49.10,Default,,0,0,0,,Nie jesteśmy sami.
+Dialogue: 0,0:17:49.19,0:17:52.19,Default,,0,0,0,,Ale on nie chcą,\Nżebyśmy wiedzieli, co nadchodzi.
+Dialogue: 0,0:17:53.15,0:17:56.57,Default,,0,0,0,,Chcą nas kontrolować.\NNie chcą żadnych pytań.
+Dialogue: 0,0:17:57.15,0:17:58.86,Default,,0,0,0,,Dlatego wymazują nasze myśli,
+Dialogue: 0,0:17:58.95,0:18:01.08,Default,,0,0,0,,bo jeśli wiedzielibyśmy, co nadchodzi...
+Dialogue: 0,0:18:01.16,0:18:02.70,Default,,0,0,0,,- Chaos.\N- Chris.
+Dialogue: 0,0:18:04.83,0:18:06.00,Default,,0,0,0,,Proszę za mną.
+Dialogue: 0,0:18:12.29,0:18:13.50,Default,,0,0,0,,Nie zwariowaliśmy.
+Dialogue: 0,0:18:15.01,0:18:15.92,Default,,0,0,0,,Ja tylko...
+Dialogue: 0,0:18:16.59,0:18:18.26,Default,,0,0,0,,chcę, żeby to się skończyło.
+Dialogue: 0,0:18:38.28,0:18:40.66,Default,,0,0,0,,{\i1}Ewakuacja planety w toku.{\i0}
+Dialogue: 0,0:18:41.82,0:18:42.99,Default,,0,0,0,,Wrócą.
+Dialogue: 0,0:18:43.95,0:18:45.66,Default,,0,0,0,,Spotkamy się w fabryce.
+Dialogue: 0,0:19:00.59,0:19:01.51,Default,,0,0,0,,Jak było?
+Dialogue: 0,0:19:03.64,0:19:04.47,Default,,0,0,0,,Poszedłem.
+Dialogue: 0,0:19:05.31,0:19:06.72,Default,,0,0,0,,I co powiedziała?
+Dialogue: 0,0:19:07.39,0:19:08.23,Default,,0,0,0,,Cóż...
+Dialogue: 0,0:19:09.43,0:19:11.15,Default,,0,0,0,,nie zdążyła nic powiedzieć.
+Dialogue: 0,0:19:11.77,0:19:13.69,Default,,0,0,0,,Wyszedłem przed wizytą.
+Dialogue: 0,0:19:14.73,0:19:18.03,Default,,0,0,0,,Wysłuchaj mnie.\NA co, jeśli te wizje mają jakiś sens?
+Dialogue: 0,0:19:18.65,0:19:20.32,Default,,0,0,0,,Te sny czemuś służą?
+Dialogue: 0,0:19:20.95,0:19:23.07,Default,,0,0,0,,Może nadchodzi coś złego...
+Dialogue: 0,0:19:23.91,0:19:26.70,Default,,0,0,0,,- I to jest jakiś znak?\N- Przestań. Po prostu...
+Dialogue: 0,0:19:28.41,0:19:31.71,Default,,0,0,0,,Znajomi zaraz tu będą.\NPostaraj się.
+Dialogue: 0,0:19:31.96,0:19:32.88,Default,,0,0,0,,Przepraszam.
+Dialogue: 0,0:19:58.82,0:20:02.82,Default,,0,0,0,,System tuneli jest tak stary,\Nże nikt inny nie chciał się tego tknąć.
+Dialogue: 0,0:20:02.91,0:20:05.82,Default,,0,0,0,,Ten awans to poważna sprawa.\NPowinnaś się cieszyć.
+Dialogue: 0,0:20:05.91,0:20:07.24,Default,,0,0,0,,- Cieszę się.\N- Dobrze.
+Dialogue: 0,0:20:11.83,0:20:13.29,Default,,0,0,0,,Hej!
+Dialogue: 0,0:20:13.58,0:20:16.00,Default,,0,0,0,,Nie martw się nim. To twój wieczór, okej?
+Dialogue: 0,0:20:16.59,0:20:17.54,Default,,0,0,0,,Wiem.
+Dialogue: 0,0:20:18.38,0:20:19.88,Default,,0,0,0,,- Mamo?\N- Tak?
+Dialogue: 0,0:20:21.47,0:20:24.97,Default,,0,0,0,,Tatuś kazał spytać,\Nczy mogę zaprosić Hannę i Lucy do nas.
+Dialogue: 0,0:20:25.05,0:20:26.97,Default,,0,0,0,,- Po co?\N- Żeby posłuchać muzyki.
+Dialogue: 0,0:20:27.05,0:20:29.77,Default,,0,0,0,,Nie, skarbie. To niegrzeczne. Dobrze?
+Dialogue: 0,0:20:48.24,0:20:49.12,Default,,0,0,0,,Dobranoc!
+Dialogue: 0,0:20:50.83,0:20:52.41,Default,,0,0,0,,Ostatni goście wychodzą,
+Dialogue: 0,0:20:52.50,0:20:54.04,Default,,0,0,0,,jeśli chcesz się pożegnać.
+Dialogue: 0,0:20:54.92,0:20:55.87,Default,,0,0,0,,Albo przywitać.
+Dialogue: 0,0:20:57.17,0:20:58.50,Default,,0,0,0,,Moja żona cię przysłała?
+Dialogue: 0,0:20:59.75,0:21:02.38,Default,,0,0,0,,Nie. Gorzej. Moja żona.
+Dialogue: 0,0:21:09.10,0:21:11.01,Default,,0,0,0,,Czasami lubię spojrzeć w górę.
+Dialogue: 0,0:21:11.89,0:21:14.56,Default,,0,0,0,,To pozwala nabrać do wszystkiego dystansu,\Nco nie?
+Dialogue: 0,0:21:15.69,0:21:17.23,Default,,0,0,0,,O co chcesz zapytać?
+Dialogue: 0,0:21:21.15,0:21:22.82,Default,,0,0,0,,Wiem, że to nie moja sprawa.
+Dialogue: 0,0:21:23.19,0:21:25.07,Default,,0,0,0,,Chyba patrzysz w złym kierunku.
+Dialogue: 0,0:21:25.15,0:21:27.99,Default,,0,0,0,,Skupiasz się na tym, co jest na górze,
+Dialogue: 0,0:21:28.07,0:21:30.49,Default,,0,0,0,,zamiast na tym, co jest tutaj.
+Dialogue: 0,0:21:30.58,0:21:31.41,Default,,0,0,0,,Nieprawda.
+Dialogue: 0,0:21:35.16,0:21:36.54,Default,,0,0,0,,Co to, do diabła?
+Dialogue: 0,0:21:38.54,0:21:39.38,Default,,0,0,0,,Widzisz to?
+Dialogue: 0,0:21:40.00,0:21:41.84,Default,,0,0,0,,Żartujesz? Oczywiście, że tak.
+Dialogue: 0,0:22:00.36,0:22:01.36,Default,,0,0,0,,Co to?
+Dialogue: 0,0:22:27.59,0:22:28.68,Default,,0,0,0,,Jesteście cali?
+Dialogue: 0,0:22:32.76,0:22:34.14,Default,,0,0,0,,Co to było, do cholery?
+Dialogue: 0,0:22:47.69,0:22:49.53,Default,,0,0,0,,Wszyscy do środka! Natychmiast!
+Dialogue: 0,0:22:51.20,0:22:53.16,Default,,0,0,0,,Dziewczynki! Hanna!
+Dialogue: 0,0:22:53.74,0:22:54.70,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:12.93,0:23:14.14,Default,,0,0,0,,Gdzie twoja siostra?
+Dialogue: 0,0:23:14.22,0:23:16.52,Default,,0,0,0,,- Chcę do mamusi!\N- Wiem. Alice!
+Dialogue: 0,0:23:17.06,0:23:18.23,Default,,0,0,0,,- Lucy!\N- Mamusia!
+Dialogue: 0,0:23:18.31,0:23:20.60,Default,,0,0,0,,- Chodź, skarbie.\N- Gdzie twoja siostra?
+Dialogue: 0,0:23:20.69,0:23:22.19,Default,,0,0,0,,Muszą być u nas.
+Dialogue: 0,0:23:22.27,0:23:24.44,Default,,0,0,0,,Zostań z Lucy!\NZnajdę Hannę i ją przyprowadzę.
+Dialogue: 0,0:23:25.19,0:23:26.57,Default,,0,0,0,,Wszystko będzie dobrze.
+Dialogue: 0,0:23:26.65,0:23:28.40,Default,,0,0,0,,{\i1}To jest komunikat awaryjny.{\i0}
+Dialogue: 0,0:23:28.94,0:23:31.99,Default,,0,0,0,,{\i1}Proszę udać się{\i0}\N{\i1}do najbliższego budynku rządowego,{\i0}
+Dialogue: 0,0:23:32.07,0:23:34.12,Default,,0,0,0,,{\i1}aby zapewnić sobie bezpieczeństwo.{\i0}
+Dialogue: 0,0:23:46.09,0:23:47.46,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:49.88,0:23:50.84,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:24:03.15,0:24:04.65,Default,,0,0,0,,Na ziemię!
+Dialogue: 0,0:24:28.09,0:24:29.09,Default,,0,0,0,,Tutaj ich nie ma.
+Dialogue: 0,0:24:31.21,0:24:32.34,Default,,0,0,0,,Wiem, gdzie są.
+Dialogue: 0,0:24:42.73,0:24:43.56,Default,,0,0,0,,O nie!
+Dialogue: 0,0:24:43.64,0:24:46.40,Default,,0,0,0,,Cokolwiek to jest,\Nmusi być w budynku.
+Dialogue: 0,0:24:46.48,0:24:48.48,Default,,0,0,0,,Megan, jesteś tam?
+Dialogue: 0,0:24:49.11,0:24:50.19,Default,,0,0,0,,Hanna, jesteś tam?
+Dialogue: 0,0:24:57.45,0:24:59.24,Default,,0,0,0,,Chodźcie, schodzimy.
+Dialogue: 0,0:25:02.37,0:25:03.50,Default,,0,0,0,,Dalej!
+Dialogue: 0,0:25:14.67,0:25:15.51,Default,,0,0,0,,Szybko!
+Dialogue: 0,0:25:21.72,0:25:22.77,Default,,0,0,0,,Tato!
+Dialogue: 0,0:25:22.85,0:25:23.98,Default,,0,0,0,,Co się dzieje?
+Dialogue: 0,0:25:25.48,0:25:27.77,Default,,0,0,0,,- Chodź, kochanie. Mam cię.\N- Tatusiu!
+Dialogue: 0,0:25:29.36,0:25:31.02,Default,,0,0,0,,Szybko, musimy się stąd wydostać!
+Dialogue: 0,0:25:31.11,0:25:31.94,Default,,0,0,0,,Chodź.
+Dialogue: 0,0:25:33.11,0:25:34.74,Default,,0,0,0,,Trzymam cię, skarbie.
+Dialogue: 0,0:25:36.03,0:25:38.07,Default,,0,0,0,,- Teraz ty, o tak.
+Dialogue: 0,0:25:42.45,0:25:43.29,Default,,0,0,0,,Chodźmy.
+Dialogue: 0,0:25:45.33,0:25:47.75,Default,,0,0,0,,- Gdzie mama i Lucy?\N- Są bezpieczne.
+Dialogue: 0,0:25:49.17,0:25:50.59,Default,,0,0,0,,Wolne. Podaj je na górę.
+Dialogue: 0,0:27:13.46,0:27:14.42,Default,,0,0,0,,Zatrzymaj się.
+Dialogue: 0,0:27:15.09,0:27:16.34,Default,,0,0,0,,Idź sprawdź.
+Dialogue: 0,0:27:18.42,0:27:19.38,Default,,0,0,0,,Wszystko dobrze.
+Dialogue: 0,0:27:51.08,0:27:53.00,Default,,0,0,0,,- Chodźmy!\N- Widziałeś coś?
+Dialogue: 0,0:27:53.08,0:27:55.42,Default,,0,0,0,,Idziemy! Dalej, dalej!
+Dialogue: 0,0:27:58.46,0:28:00.80,Default,,0,0,0,,Hanna! Wszystko w porządku?
+Dialogue: 0,0:28:03.26,0:28:04.09,Default,,0,0,0,,Chodźmy.
+Dialogue: 0,0:28:05.22,0:28:06.18,Default,,0,0,0,,Dalej, szybko.
+Dialogue: 0,0:28:07.01,0:28:08.10,Default,,0,0,0,,Wejdźcie pod stół.
+Dialogue: 0,0:28:10.68,0:28:12.89,Default,,0,0,0,,Ray poszedł po Sam, razem tu przyjdą.
+Dialogue: 0,0:28:12.98,0:28:15.98,Default,,0,0,0,,- Wszystko będzie dobrze.\N- Mogę z tobą porozmawiać?
+Dialogue: 0,0:28:18.61,0:28:21.40,Default,,0,0,0,,- Coś jest w tym budynku.\N- W twoich koszmarach,
+Dialogue: 0,0:28:21.49,0:28:22.78,Default,,0,0,0,,czy to właśnie widziałeś?
+Dialogue: 0,0:28:22.86,0:28:24.66,Default,,0,0,0,,- Tak! Właśnie to!\N- Więc co robimy?
+Dialogue: 0,0:28:24.74,0:28:27.03,Default,,0,0,0,,Co było dalej w twoich snach? Co robimy?
+Dialogue: 0,0:28:27.12,0:28:28.74,Default,,0,0,0,,Co było dalej?
+Dialogue: 0,0:28:28.83,0:28:30.79,Default,,0,0,0,,W snach... Nie były po kolei.
+Dialogue: 0,0:28:31.45,0:28:32.58,Default,,0,0,0,,{\i1}I widziałem Davida.{\i0}
+Dialogue: 0,0:28:34.87,0:28:37.00,Default,,0,0,0,,Czuję, że powinniśmy iść do fabryki.
+Dialogue: 0,0:28:37.09,0:28:37.92,Default,,0,0,0,,Okej.
+Dialogue: 0,0:28:43.01,0:28:45.22,Default,,0,0,0,,Ray i Sam powinni już tu być, prawda?
+Dialogue: 0,0:28:45.64,0:28:47.43,Default,,0,0,0,,Musimy zabarykadować drzwi.
+Dialogue: 0,0:28:48.56,0:28:50.14,Default,,0,0,0,,- Czym?\N- Peter, dalej.
+Dialogue: 0,0:29:06.87,0:29:08.87,Default,,0,0,0,,Dziewczynki, chodźcie.
+Dialogue: 0,0:29:17.58,0:29:19.34,Default,,0,0,0,,Muszę iść pomóc tacie, dobrze?
+Dialogue: 0,0:29:19.42,0:29:21.42,Default,,0,0,0,,Więc Hanna, zaopiekuj się siostrą.
+Dialogue: 0,0:29:21.50,0:29:23.13,Default,,0,0,0,,- Dobrze?\N- Nie idź!
+Dialogue: 0,0:29:23.21,0:29:24.38,Default,,0,0,0,,Wszystko będzie dobrze.
+Dialogue: 0,0:29:40.06,0:29:41.11,Default,,0,0,0,,Alice!
+Dialogue: 0,0:29:44.07,0:29:45.24,Default,,0,0,0,,Zaraz wrócę.
+Dialogue: 0,0:29:45.32,0:29:48.36,Default,,0,0,0,,Zostańcie tu, dobrze?\NNie otwierajcie drzwi.
+Dialogue: 0,0:29:50.03,0:29:52.04,Default,,0,0,0,,Tak bardzo was kocham.
+Dialogue: 0,0:30:08.22,0:30:09.43,Default,,0,0,0,,Co robisz?
+Dialogue: 0,0:30:09.51,0:30:11.30,Default,,0,0,0,,- Herman!\N- Lucy! Wracaj!
+Dialogue: 0,0:31:12.62,0:31:13.99,Default,,0,0,0,,Dalej!
+Dialogue: 0,0:31:17.83,0:31:19.04,Default,,0,0,0,,Gdzie twoja siostra?
+Dialogue: 0,0:31:19.21,0:31:21.17,Default,,0,0,0,,Poszła po Hermana.
+Dialogue: 0,0:32:05.71,0:32:08.09,Default,,0,0,0,,{\i1}Małpka widzi, małpka robi!{\i0}
+Dialogue: 0,0:32:37.12,0:32:39.62,Default,,0,0,0,,Nie boję się twojego cienia.
+Dialogue: 0,0:32:40.95,0:32:43.12,Default,,0,0,0,,Nie możesz mnie skrzywdzić.
+Dialogue: 0,0:33:16.28,0:33:17.24,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:33:18.07,0:33:19.24,Default,,0,0,0,,Chodź tutaj!
+Dialogue: 0,0:33:41.14,0:33:42.39,Default,,0,0,0,,Mamusiu!
+Dialogue: 0,0:33:46.19,0:33:47.60,Default,,0,0,0,,Uważajcie, dziewczynki!
+Dialogue: 0,0:33:48.10,0:33:49.02,Default,,0,0,0,,Chodźcie tutaj.
+Dialogue: 0,0:33:51.32,0:33:53.53,Default,,0,0,0,,Chodźmy, zanim przyjdzie ich więcej.
+Dialogue: 0,0:33:53.61,0:33:54.82,Default,,0,0,0,,Idziemy.
+Dialogue: 0,0:33:55.53,0:33:56.36,Default,,0,0,0,,Dalej.
+Dialogue: 0,0:33:59.99,0:34:01.28,Default,,0,0,0,,Nie otwierajcie oczu.
+Dialogue: 0,0:34:08.08,0:34:09.29,Default,,0,0,0,,Zamknijcie oczy.
+Dialogue: 0,0:34:14.76,0:34:16.05,Default,,0,0,0,,Jest ich więcej?
+Dialogue: 0,0:34:16.13,0:34:17.63,Default,,0,0,0,,Idą do góry.
+Dialogue: 0,0:34:22.76,0:34:25.31,Default,,0,0,0,,Już przeszli.
+Dialogue: 0,0:34:59.68,0:35:00.64,Default,,0,0,0,,Zostańcie tutaj.
+Dialogue: 0,0:35:08.52,0:35:10.10,Default,,0,0,0,,Tatusiu, nie idź!
+Dialogue: 0,0:35:58.44,0:35:59.94,Default,,0,0,0,,Nie, nie! Zostań!
+Dialogue: 0,0:36:03.87,0:36:05.78,Default,,0,0,0,,Nieźle nas wystraszyłeś.
+Dialogue: 0,0:36:06.45,0:36:07.29,Default,,0,0,0,,Gdzie dziewczynki?
+Dialogue: 0,0:36:11.16,0:36:13.25,Default,,0,0,0,,Alice, jest bezpiecznie.
+Dialogue: 0,0:36:13.33,0:36:15.42,Default,,0,0,0,,Okej, chodźmy.
+Dialogue: 0,0:36:20.76,0:36:21.76,Default,,0,0,0,,O mój Boże.
+Dialogue: 0,0:36:21.84,0:36:23.09,Default,,0,0,0,,Lucy, Hanna!
+Dialogue: 0,0:36:23.80,0:36:24.64,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:36:26.26,0:36:27.85,Default,,0,0,0,,Megan, gdzie byłaś?
+Dialogue: 0,0:36:28.31,0:36:29.35,Default,,0,0,0,,Co się dzieje?
+Dialogue: 0,0:36:32.23,0:36:33.48,Default,,0,0,0,,Co się dzieje?
+Dialogue: 0,0:36:41.11,0:36:42.49,Default,,0,0,0,,Tu będziemy bezpieczni.
+Dialogue: 0,0:36:43.53,0:36:45.78,Default,,0,0,0,,- Prawda?\N- Trzymajcie się blisko mnie.
+Dialogue: 0,0:36:51.33,0:36:52.29,Default,,0,0,0,,Kim oni są?
+Dialogue: 0,0:36:53.12,0:36:54.46,Default,,0,0,0,,Czemu to robią?
+Dialogue: 0,0:37:03.72,0:37:04.76,Default,,0,0,0,,Ci ludzie!
+Dialogue: 0,0:37:06.72,0:37:07.64,Default,,0,0,0,,Co zrobimy?
+Dialogue: 0,0:37:08.22,0:37:09.14,Default,,0,0,0,,Nie wiem.
+Dialogue: 0,0:37:15.19,0:37:16.02,Default,,0,0,0,,Na ziemię!
+Dialogue: 0,0:37:28.12,0:37:29.08,Default,,0,0,0,,Mamusiu!
+Dialogue: 0,0:37:31.79,0:37:33.00,Default,,0,0,0,,Co się dzieje?
+Dialogue: 0,0:37:49.47,0:37:52.01,Default,,0,0,0,,Alice, nie możemy tu zostać.
+Dialogue: 0,0:37:56.23,0:37:57.94,Default,,0,0,0,,- Chodź, Lucy.\N- Wynośmy się stąd.
+Dialogue: 0,0:37:58.23,0:38:00.11,Default,,0,0,0,,- Chodźmy. Spokojnie.\N- Dokąd idziemy?
+Dialogue: 0,0:38:00.19,0:38:02.61,Default,,0,0,0,,- Trzymajcie się za ręce.\N- Dokąd idziemy?
+Dialogue: 0,0:38:02.69,0:38:04.44,Default,,0,0,0,,Możemy tym zjechać na dół.
+Dialogue: 0,0:38:04.53,0:38:06.70,Default,,0,0,0,,- Zróbmy to.\N- Co? Nie.
+Dialogue: 0,0:38:06.78,0:38:08.16,Default,,0,0,0,,- Alice!\N- Nie!
+Dialogue: 0,0:38:08.24,0:38:10.12,Default,,0,0,0,,- Nie pozwolę im na to wejść.\N- Alice!
+Dialogue: 0,0:38:10.20,0:38:12.58,Default,,0,0,0,,- Nie wejdę na to.\N- Musimy zejść z tego dachu.
+Dialogue: 0,0:38:12.66,0:38:14.70,Default,,0,0,0,,Jeśli mam albo wziąć je przez budynek,
+Dialogue: 0,0:38:14.79,0:38:17.50,Default,,0,0,0,,- albo wsadzić...\N- Jeśli tu zostaniemy, zginiemy.
+Dialogue: 0,0:38:17.58,0:38:19.00,Default,,0,0,0,,W budynku zginiemy.
+Dialogue: 0,0:38:19.08,0:38:21.42,Default,,0,0,0,,Proszę, zaufaj mi. Musisz mi zaufać.
+Dialogue: 0,0:38:21.50,0:38:23.92,Default,,0,0,0,,Nie mamy na to czasu. Uda się. Chodźmy.
+Dialogue: 0,0:38:27.63,0:38:28.47,Default,,0,0,0,,Nie!
+Dialogue: 0,0:38:28.55,0:38:30.76,Default,,0,0,0,,- Nie chcę tam zejść!\N- Będzie dobrze.
+Dialogue: 0,0:38:30.85,0:38:32.47,Default,,0,0,0,,- Dobrze.\N- Nie!
+Dialogue: 0,0:38:34.89,0:38:36.52,Default,,0,0,0,,- Chodź z nami.\N- Pomóż jej.
+Dialogue: 0,0:38:36.60,0:38:37.81,Default,,0,0,0,,Nie chcę iść, mamo!
+Dialogue: 0,0:38:53.62,0:38:54.45,Default,,0,0,0,,Kochanie.
+Dialogue: 0,0:39:07.21,0:39:08.63,Default,,0,0,0,,Mamusiu, boję się!
+Dialogue: 0,0:39:08.72,0:39:10.51,Default,,0,0,0,,Nie podoba mi się tu, mamusiu.
+Dialogue: 0,0:39:15.10,0:39:16.31,Default,,0,0,0,,Co się dzieje?
+Dialogue: 0,0:39:21.35,0:39:22.23,Default,,0,0,0,,Mamusiu!
+Dialogue: 0,0:39:22.31,0:39:23.65,Default,,0,0,0,,Mam cię!
+Dialogue: 0,0:39:23.73,0:39:25.61,Default,,0,0,0,,- Trzymaj się!\N- Nie ruszać się!
+Dialogue: 0,0:39:26.19,0:39:28.11,Default,,0,0,0,,- Chcę wysiąść!\N- Nie ruszaj się!
+Dialogue: 0,0:39:32.32,0:39:33.49,Default,,0,0,0,,Musimy wejść do środka.
+Dialogue: 0,0:39:35.49,0:39:37.12,Default,,0,0,0,,Nie! Lucy, nie patrz w dół.
+Dialogue: 0,0:39:37.20,0:39:38.79,Default,,0,0,0,,No dalej, Lucy.
+Dialogue: 0,0:39:40.08,0:39:42.58,Default,,0,0,0,,- Hanna, chodźmy.\N- Nie. Mogą być w środku!
+Dialogue: 0,0:39:42.67,0:39:43.88,Default,,0,0,0,,Hanna, musimy iść!
+Dialogue: 0,0:39:43.96,0:39:45.13,Default,,0,0,0,,Szybko!
+Dialogue: 0,0:39:47.09,0:39:48.05,Default,,0,0,0,,- Chwyć się!\N- Idź!
+Dialogue: 0,0:41:18.89,0:41:22.39,Default,,0,0,0,,Znalazłam latarkę.\NNie włączajcie jej, okej?
+Dialogue: 0,0:41:35.91,0:41:36.91,Default,,0,0,0,,W tych snach...
+Dialogue: 0,0:41:42.24,0:41:43.79,Default,,0,0,0,,widziałeś, jak nas zabili?
+Dialogue: 0,0:41:50.59,0:41:52.96,Default,,0,0,0,,{\i1}Widziałeś, jak zabili nasze córeczki?{\i0}
+Dialogue: 0,0:41:53.05,0:41:54.80,Default,,0,0,0,,{\i1}Mamusiu, obudź się.{\i0}
+Dialogue: 0,0:41:56.01,0:41:57.72,Default,,0,0,0,,{\i1}Mamusiu, proszę, obudź się.{\i0}
+Dialogue: 0,0:41:57.80,0:41:59.89,Default,,0,0,0,,{\i1}Peter, musisz mi powiedzieć.{\i0}
+Dialogue: 0,0:42:09.10,0:42:10.06,Default,,0,0,0,,Hej. Jak idzie?
+Dialogue: 0,0:42:11.61,0:42:14.57,Default,,0,0,0,,Ich technologia\Nnie różni się tak bardzo od naszej,
+Dialogue: 0,0:42:14.65,0:42:18.32,Default,,0,0,0,,ale ma biometryczny spust,\Nktórego może użyć tylko właściciel.
+Dialogue: 0,0:42:18.45,0:42:21.03,Default,,0,0,0,,- Możesz to jakoś obejść?\N- Próbuję.
+Dialogue: 0,0:42:22.03,0:42:24.95,Default,,0,0,0,,Tak czy siak,\Nnie powinniśmy tu gościć zbyt długo.
+Dialogue: 0,0:42:25.04,0:42:27.25,Default,,0,0,0,,Nie. Chyba powinniśmy opuścić miasto.
+Dialogue: 0,0:42:27.33,0:42:29.33,Default,,0,0,0,,Znaleźć jakieś schronienie.
+Dialogue: 0,0:42:29.71,0:42:31.46,Default,,0,0,0,,- Poczekać na pomoc.\N- Chwila.
+Dialogue: 0,0:42:32.80,0:42:35.51,Default,,0,0,0,,Fabryka, w której pracuję,\Nnie jest daleko...
+Dialogue: 0,0:42:36.17,0:42:37.76,Default,,0,0,0,,a to budynek rządowy.
+Dialogue: 0,0:42:41.72,0:42:43.81,Default,,0,0,0,,I jest... tam.
+Dialogue: 0,0:42:44.52,0:42:46.64,Default,,0,0,0,,Jakieś dziesięć przecznic stąd.
+Dialogue: 0,0:42:47.35,0:42:48.60,Default,,0,0,0,,Jest tam bezpiecznie?
+Dialogue: 0,0:42:48.94,0:42:50.56,Default,,0,0,0,,Czy gdziekolwiek jest?
+Dialogue: 0,0:42:50.90,0:42:53.98,Default,,0,0,0,,Pod spodem jest ogromny magazyn.
+Dialogue: 0,0:42:54.07,0:42:55.69,Default,,0,0,0,,Jest jak twierdza.
+Dialogue: 0,0:42:56.44,0:42:58.11,Default,,0,0,0,,Tylko musimy się tam dostać.
+Dialogue: 0,0:43:00.41,0:43:03.24,Default,,0,0,0,,Oni dalej strzelają do wszystkiego,\Nco się rusza.
+Dialogue: 0,0:43:03.33,0:43:05.33,Default,,0,0,0,,Niestety to nasza jedyna szansa.
+Dialogue: 0,0:43:05.91,0:43:06.75,Default,,0,0,0,,Tunele.
+Dialogue: 0,0:43:07.83,0:43:10.08,Default,,0,0,0,,Tunele. Jest wejście...
+Dialogue: 0,0:43:10.21,0:43:12.79,Default,,0,0,0,,Jaka to ulica? Jest wejście na...
+Dialogue: 0,0:43:13.59,0:43:14.42,Default,,0,0,0,,Prescott!
+Dialogue: 0,0:43:14.50,0:43:16.84,Default,,0,0,0,,Prescott! To tylko parę przecznic stąd.
+Dialogue: 0,0:43:16.92,0:43:18.67,Default,,0,0,0,,Dojdziemy do fabryki tunelami.
+Dialogue: 0,0:43:18.76,0:43:19.76,Default,,0,0,0,,- Tak.\N- Tak.
+Dialogue: 0,0:43:19.84,0:43:21.26,Default,,0,0,0,,Przejdziemy parę przecznic, co?
+Dialogue: 0,0:43:56.67,0:43:57.63,Default,,0,0,0,,Tato!
+Dialogue: 0,0:43:59.63,0:44:00.47,Default,,0,0,0,,Tatusiu!
+Dialogue: 0,0:44:06.60,0:44:07.60,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:44:26.83,0:44:28.41,Default,,0,0,0,,Dalej, chodźmy!
+Dialogue: 0,0:44:31.29,0:44:32.29,Default,,0,0,0,,Tędy!
+Dialogue: 0,0:44:36.59,0:44:38.55,Default,,0,0,0,,Szybciej! O, kurwa! Na ziemię!
+Dialogue: 0,0:45:04.61,0:45:06.20,Default,,0,0,0,,Wszystko będzie dobrze.
+Dialogue: 0,0:45:11.50,0:45:12.58,Default,,0,0,0,,Tato!
+Dialogue: 0,0:45:17.25,0:45:18.50,Default,,0,0,0,,Dobrze, chodźmy stąd.
+Dialogue: 0,0:45:18.59,0:45:19.46,Default,,0,0,0,,Nie tam!
+Dialogue: 0,0:45:19.55,0:45:21.96,Default,,0,0,0,,Fabryka jest 10 przecznic stąd.\NBędziemy bezpieczni. Nie pozwolimy, żeby coś wam się stało.
+Dialogue: 0,0:45:25.13,0:45:26.76,Default,,0,0,0,,Dobrze? Żadnej z was.
+Dialogue: 0,0:45:27.30,0:45:28.51,Default,,0,0,0,,- Dobrze?\N- Chodźmy!
+Dialogue: 0,0:45:28.60,0:45:30.22,Default,,0,0,0,,- Dobrze?\N- Chodźmy!
+Dialogue: 0,0:45:32.98,0:45:35.23,Default,,0,0,0,,Czy umrzemy jak rodzina Megan?
+Dialogue: 0,0:45:35.89,0:45:38.44,Default,,0,0,0,,Nie bój się, skarbie,\Nnic ci się nie stanie.
+Dialogue: 0,0:45:51.79,0:45:52.87,Default,,0,0,0,,Proszę, przestańcie!
+Dialogue: 0,0:46:13.47,0:46:15.06,Default,,0,0,0,,- Kim oni są?\N- Nie wiem.
+Dialogue: 0,0:46:18.90,0:46:20.02,Default,,0,0,0,,Biegnij! Na ziemię!
+Dialogue: 0,0:46:27.03,0:46:28.74,Default,,0,0,0,,Na ziemię, dziewczynki.
+Dialogue: 0,0:46:37.92,0:46:39.79,Default,,0,0,0,,- Chodźmy!\N- Dalej!
+Dialogue: 0,0:46:39.88,0:46:41.67,Default,,0,0,0,,- Biegnijcie!\N- Szybko!
+Dialogue: 0,0:47:05.15,0:47:05.98,Default,,0,0,0,,Tędy.
+Dialogue: 0,0:47:06.69,0:47:07.53,Default,,0,0,0,,Dawaj.
+Dialogue: 0,0:47:07.74,0:47:09.11,Default,,0,0,0,,Którędy mamy iść?
+Dialogue: 0,0:47:09.20,0:47:10.24,Default,,0,0,0,,W prawo.
+Dialogue: 0,0:47:24.80,0:47:27.88,Default,,0,0,0,,- Po drugiej stronie roślin.\N- Dobra, pójdę pierwszy.
+Dialogue: 0,0:47:28.26,0:47:29.47,Default,,0,0,0,,Nie podnoś się.
+Dialogue: 0,0:47:54.53,0:47:55.62,Default,,0,0,0,,Idź, pośpiesz się.
+Dialogue: 0,0:47:56.62,0:47:59.04,Default,,0,0,0,,Wejdź tu, szybko.
+Dialogue: 0,0:48:01.16,0:48:02.62,Default,,0,0,0,,Okej, chodź tutaj.
+Dialogue: 0,0:48:03.13,0:48:04.88,Default,,0,0,0,,Dobrze, ostrożnie.
+Dialogue: 0,0:48:07.59,0:48:09.21,Default,,0,0,0,,Zostań tam.
+Dialogue: 0,0:48:10.97,0:48:12.30,Default,,0,0,0,,- Chodź.\N- Biegnij do taty.
+Dialogue: 0,0:48:18.97,0:48:20.06,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:48:23.15,0:48:24.06,Default,,0,0,0,,Lucy, chodź tu!
+Dialogue: 0,0:48:29.53,0:48:30.57,Default,,0,0,0,,Weź ją!
+Dialogue: 0,0:48:31.90,0:48:33.24,Default,,0,0,0,,Szybko!
+Dialogue: 0,0:48:39.37,0:48:41.00,Default,,0,0,0,,Biegnijcie!
+Dialogue: 0,0:49:07.98,0:49:09.32,Default,,0,0,0,,Jesteście całe?
+Dialogue: 0,0:49:10.07,0:49:11.32,Default,,0,0,0,,Wszystko w porządku?
+Dialogue: 0,0:49:19.53,0:49:20.37,Default,,0,0,0,,Mamo?
+Dialogue: 0,0:49:25.29,0:49:26.12,Default,,0,0,0,,Tato?
+Dialogue: 0,0:49:27.29,0:49:28.38,Default,,0,0,0,,Zrób coś.
+Dialogue: 0,0:50:13.71,0:50:14.97,Default,,0,0,0,,Mamusiu...
+Dialogue: 0,0:50:15.97,0:50:17.80,Default,,0,0,0,,Wszystko jest dobrze, kochanie.
+Dialogue: 0,0:50:18.39,0:50:19.64,Default,,0,0,0,,Uwaga pod nogi.
+Dialogue: 0,0:50:20.85,0:50:22.06,Default,,0,0,0,,Udało się.
+Dialogue: 0,0:50:24.47,0:50:25.73,Default,,0,0,0,,Dobra, którędy teraz?
+Dialogue: 0,0:50:26.39,0:50:27.64,Default,,0,0,0,,Jesteśmy pod parkiem.
+Dialogue: 0,0:50:29.44,0:50:30.27,Default,,0,0,0,,Na północ. Dobra.
+Dialogue: 0,0:50:32.19,0:50:33.53,Default,,0,0,0,,Chodźcie, dziewczynki.
+Dialogue: 0,0:50:38.45,0:50:40.07,Default,,0,0,0,,Co było dalej?
+Dialogue: 0,0:50:41.03,0:50:42.24,Default,,0,0,0,,Widziałeś to?
+Dialogue: 0,0:50:43.24,0:50:44.24,Default,,0,0,0,,Nie było tak samo.
+Dialogue: 0,0:50:44.87,0:50:46.96,Default,,0,0,0,,Obiecaj mi, że...
+Dialogue: 0,0:50:48.12,0:50:49.88,Default,,0,0,0,,ochronisz dziewczynki.
+Dialogue: 0,0:50:51.92,0:50:53.50,Default,,0,0,0,,Cokolwiek się nie stanie.
+Dialogue: 0,0:50:54.42,0:50:55.26,Default,,0,0,0,,Dobrze?
+Dialogue: 0,0:50:55.34,0:50:57.05,Default,,0,0,0,,- Alice...\N- Obiecaj.
+Dialogue: 0,0:50:58.97,0:51:01.30,Default,,0,0,0,,Nie chcę tego robić bez ciebie, proszę.
+Dialogue: 0,0:51:01.72,0:51:03.89,Default,,0,0,0,,Proszę, nie chcę.
+Dialogue: 0,0:51:04.26,0:51:06.22,Default,,0,0,0,,Wiem, że dasz radę.
+Dialogue: 0,0:51:06.85,0:51:08.73,Default,,0,0,0,,Dalej, dasz radę.
+Dialogue: 0,0:51:09.77,0:51:10.98,Default,,0,0,0,,Proszę.
+Dialogue: 0,0:51:13.52,0:51:15.32,Default,,0,0,0,,Właśnie tak.
+Dialogue: 0,0:51:16.03,0:51:16.86,Default,,0,0,0,,Tak.
+Dialogue: 0,0:51:16.94,0:51:19.53,Default,,0,0,0,,Właśnie tak, to moja Alice.
+Dialogue: 0,0:51:24.99,0:51:28.21,Default,,0,0,0,,- Muszę usiąść.\N- Jasne, nie ma problemu.
+Dialogue: 0,0:51:37.34,0:51:38.59,Default,,0,0,0,,Potrzyjcie jej ręce.
+Dialogue: 0,0:51:39.38,0:51:41.89,Default,,0,0,0,,- Wszystko będzie z mamą dobrze?\N- Będzie dobrze.
+Dialogue: 0,0:51:41.97,0:51:43.55,Default,,0,0,0,,Tak, żeby były ciepłe.
+Dialogue: 0,0:51:44.81,0:51:47.31,Default,,0,0,0,,Świetnie sobie radzisz.
+Dialogue: 0,0:51:48.98,0:51:50.23,Default,,0,0,0,,Niech odpocznie.
+Dialogue: 0,0:51:50.81,0:51:52.19,Default,,0,0,0,,Będzie dobrze.
+Dialogue: 0,0:51:52.81,0:51:53.65,Default,,0,0,0,,- Tatusiu!
+Dialogue: 0,0:51:58.90,0:52:00.74,Default,,0,0,0,,Zostaw mojego tatusia!
+Dialogue: 0,0:52:14.33,0:52:15.54,Default,,0,0,0,,Tatusiu, boję się.
+Dialogue: 0,0:52:16.75,0:52:17.80,Default,,0,0,0,,Zostańcie tam.
+Dialogue: 0,0:53:07.22,0:53:08.39,Default,,0,0,0,,Po co tu jesteście?
+Dialogue: 0,0:53:13.31,0:53:14.98,Default,,0,0,0,,Chcecie skrzywdzić moją rodzinę?
+Dialogue: 0,0:53:15.06,0:53:17.56,Default,,0,0,0,,O to wam chodzi? Skrzywdzić moją rodzinę?
+Dialogue: 0,0:54:02.90,0:54:04.24,Default,,0,0,0,,Co...
+Dialogue: 0,0:54:05.11,0:54:06.15,Default,,0,0,0,,Kim jesteś?
+Dialogue: 0,0:54:12.04,0:54:13.25,Default,,0,0,0,,Dlaczego to robisz?
+Dialogue: 0,0:54:15.21,0:54:16.04,Default,,0,0,0,,Mamo?
+Dialogue: 0,0:54:20.46,0:54:21.54,Default,,0,0,0,,Nie budzi się!
+Dialogue: 0,0:54:21.63,0:54:23.34,Default,,0,0,0,,Mamo, obudź się!
+Dialogue: 0,0:54:23.92,0:54:25.67,Default,,0,0,0,,- Powiedz coś!\N- Mamo!
+Dialogue: 0,0:54:26.30,0:54:28.72,Default,,0,0,0,,- Mamo, obudź się!\N- Tatusiu, pomóż!
+Dialogue: 0,0:54:29.59,0:54:32.68,Default,,0,0,0,,- Mamusiu!\N- Podnieśmy mamusię.
+Dialogue: 0,0:54:38.65,0:54:39.90,Default,,0,0,0,,Dziewczynki, za mnie.
+Dialogue: 0,0:54:40.15,0:54:43.11,Default,,0,0,0,,Chodźcie za mnie, dziewczynki.\NLucy, za mnie.
+Dialogue: 0,0:54:50.82,0:54:51.78,Default,,0,0,0,,Podnieś ją.
+Dialogue: 0,0:54:52.66,0:54:53.74,Default,,0,0,0,,Rozumiesz?
+Dialogue: 0,0:54:56.71,0:54:58.08,Default,,0,0,0,,Podnieś ją natychmiast.
+Dialogue: 0,0:55:05.67,0:55:08.05,Default,,0,0,0,,Podnieś ją. Bez szybkich ruchów.
+Dialogue: 0,0:56:12.07,0:56:12.99,Default,,0,0,0,,Halo?
+Dialogue: 0,0:56:18.24,0:56:19.62,Default,,0,0,0,,Może inne drzwi.
+Dialogue: 0,0:56:20.21,0:56:21.58,Default,,0,0,0,,Mama potrzebuje pomocy.
+Dialogue: 0,0:56:35.14,0:56:35.97,Default,,0,0,0,,Nie, nie.
+Dialogue: 0,0:56:36.05,0:56:38.18,Default,,0,0,0,,- Tutaj.\N- Ruszać się!
+Dialogue: 0,0:56:38.26,0:56:40.14,Default,,0,0,0,,Nie, nie! Proszę, nie!
+Dialogue: 0,0:56:40.23,0:56:41.18,Default,,0,0,0,,Nie, proszę.
+Dialogue: 0,0:56:41.27,0:56:43.35,Default,,0,0,0,,To moja żona. Potrzebujemy pomocy.
+Dialogue: 0,0:56:43.44,0:56:44.35,Default,,0,0,0,,Peter?
+Dialogue: 0,0:56:45.52,0:56:46.52,Default,,0,0,0,,- David.\N- Trzymać go!
+Dialogue: 0,0:56:48.02,0:56:49.48,Default,,0,0,0,,- Hej.\N- Dorwałeś jednego.
+Dialogue: 0,0:56:49.57,0:56:52.07,Default,,0,0,0,,Alice jest w kiepskim stanie,\Npotrzebuje pomocy.
+Dialogue: 0,0:56:52.15,0:56:54.32,Default,,0,0,0,,Hej, nosze! Szybko!
+Dialogue: 0,0:56:54.41,0:56:55.24,Default,,0,0,0,,Tak jest! Wnosimy.
+Dialogue: 0,0:56:56.78,0:56:59.49,Default,,0,0,0,,Została postrzelona w lewy bok.
+Dialogue: 0,0:56:59.58,0:57:01.12,Default,,0,0,0,,Jakieś inne obrażenia?
+Dialogue: 0,0:57:01.20,0:57:02.21,Default,,0,0,0,,- Nie...\N- Tato!
+Dialogue: 0,0:57:03.54,0:57:04.42,Default,,0,0,0,,Idą tu.
+Dialogue: 0,0:57:05.38,0:57:07.21,Default,,0,0,0,,Wszyscy do środka, natychmiast!
+Dialogue: 0,0:57:26.02,0:57:27.81,Default,,0,0,0,,- Trzymaj ją mocno.\N- Śmiało...
+Dialogue: 0,0:57:29.65,0:57:31.69,Default,,0,0,0,,- Zeskanuj ją.\N- Trzeba zatamować krwawienie.
+Dialogue: 0,0:57:31.78,0:57:32.78,Default,,0,0,0,,Co to?
+Dialogue: 0,0:57:32.86,0:57:34.20,Default,,0,0,0,,- Przestań!\N- Przestań! Co ty wyprawiasz?
+Dialogue: 0,0:57:36.11,0:57:38.12,Default,,0,0,0,,To metoda diagnostyczna.
+Dialogue: 0,0:57:38.20,0:57:39.45,Default,,0,0,0,,On wie, co robi.
+Dialogue: 0,0:57:39.53,0:57:41.62,Default,,0,0,0,,Przestań! Nie dotykaj jej!
+Dialogue: 0,0:57:41.70,0:57:44.08,Default,,0,0,0,,- Robisz jej krzywdę!\N- Przestań natychmiast!
+Dialogue: 0,0:57:44.16,0:57:46.58,Default,,0,0,0,,- Uspokójcie się.\N- Co, do cholery, wyprawiacie?
+Dialogue: 0,0:57:46.67,0:57:48.29,Default,,0,0,0,,Jesteśmy po twojej stronie, dobra?
+Dialogue: 0,0:57:48.38,0:57:50.80,Default,,0,0,0,,Mamusiu! Przestańcie!
+Dialogue: 0,0:57:51.80,0:57:54.26,Default,,0,0,0,,Czemu wygląda,\Njakbyście byli na to przygotowani?
+Dialogue: 0,0:57:54.63,0:57:57.01,Default,,0,0,0,,To, co się teraz dzieje\Nnadchodziło już od dawna.
+Dialogue: 0,0:57:57.09,0:57:59.22,Default,,0,0,0,,Ale teraz skupmy się na twojej żonie
+Dialogue: 0,0:57:59.30,0:58:01.35,Default,,0,0,0,,i  zapewnieniu bezpieczeństwa\Ntwojej rodzinie.
+Dialogue: 0,0:58:01.93,0:58:02.89,Default,,0,0,0,,Proszę.
+Dialogue: 0,0:58:08.06,0:58:10.52,Default,,0,0,0,,Pod nami jest opuszczona stacja kolejowa.
+Dialogue: 0,0:58:10.61,0:58:13.44,Default,,0,0,0,,Prowadzi do podziemnej bazy,\Ngdzie trzymamy broń.
+Dialogue: 0,0:58:13.53,0:58:17.24,Default,,0,0,0,,- Co się stało z magazynem?\N- Przeniesiony. Będziemy bezpieczni.
+Dialogue: 0,0:58:17.32,0:58:18.36,Default,,0,0,0,,Nie znajdą nas.
+Dialogue: 0,0:58:18.45,0:58:21.08,Default,,0,0,0,,Kiedy tam będziemy,\Nwdrożymy plan odwetu.
+Dialogue: 0,0:58:21.16,0:58:22.66,Default,,0,0,0,,Nie jestem żołnierzem.
+Dialogue: 0,0:58:22.74,0:58:24.83,Default,,0,0,0,,Zdziwiłbyś się, do czego jesteś zdolny.
+Dialogue: 0,0:58:29.96,0:58:32.09,Default,,0,0,0,,Są wprost nad nami. Dostaną się tu.
+Dialogue: 0,0:58:33.00,0:58:36.17,Default,,0,0,0,,Przygotujcie się na atak\Ni sprowadźcie wszystkich na dół.
+Dialogue: 0,0:58:36.26,0:58:37.34,Default,,0,0,0,,Pozbądźcie się go.
+Dialogue: 0,0:58:37.43,0:58:39.55,Default,,0,0,0,,- Zabijcie go na zewnątrz.\N- Twoja żona.
+Dialogue: 0,0:58:39.64,0:58:42.14,Default,,0,0,0,,Nie da się naprawić takich uszkodzeń.
+Dialogue: 0,0:58:42.22,0:58:44.68,Default,,0,0,0,,Jeśli przeżyje ewakuację,\Nmoże mieć szansę,
+Dialogue: 0,0:58:44.77,0:58:46.35,Default,,0,0,0,,ale jej narządy przestają pracować.
+Dialogue: 0,0:58:46.43,0:58:49.15,Default,,0,0,0,,- Nic nie możemy zrobić.\N- Musi być jakiś sposób.
+Dialogue: 0,0:58:49.23,0:58:51.52,Default,,0,0,0,,- Przykro mi. Nie mamy sprzętu.\N- Chwila! Nie!
+Dialogue: 0,0:58:51.61,0:58:54.65,Default,,0,0,0,,- Nie możemy zostawić mamy.\N- Nie zostawimy jej.
+Dialogue: 0,0:58:54.73,0:58:56.28,Default,,0,0,0,,Hej, ja mogę jej pomóc!
+Dialogue: 0,0:58:57.74,0:58:59.74,Default,,0,0,0,,Potrafię ją utrzymać przy życiu!
+Dialogue: 0,0:59:00.16,0:59:02.49,Default,,0,0,0,,- Co?\N- Mogę ją utrzymać przy życiu.
+Dialogue: 0,0:59:02.74,0:59:04.54,Default,,0,0,0,,Możesz utrzymać ją przy życiu?
+Dialogue: 0,0:59:04.62,0:59:06.37,Default,,0,0,0,,- Nie pogrywasz sobie?\N- Nie.
+Dialogue: 0,0:59:06.45,0:59:07.71,Default,,0,0,0,,Ty, nasz wróg?
+Dialogue: 0,0:59:07.79,0:59:09.79,Default,,0,0,0,,Ratownik nie może jej pomóc, a ty tak?
+Dialogue: 0,0:59:09.87,0:59:11.58,Default,,0,0,0,,Pomogę jej nim dotrze inna pomoc.
+Dialogue: 0,0:59:11.67,0:59:13.04,Default,,0,0,0,,- Mam ci uwierzyć?\N- Kłamie.
+Dialogue: 0,0:59:13.13,0:59:14.59,Default,,0,0,0,,- Musimy iść.\N- To nieprawda.
+Dialogue: 0,0:59:14.67,0:59:16.88,Default,,0,0,0,,Nauczyłem się o was wszystkiego.
+Dialogue: 0,0:59:16.97,0:59:17.80,Default,,0,0,0,,Są sposoby.
+Dialogue: 0,0:59:20.89,0:59:22.80,Default,,0,0,0,,Nie ma czasu. Musimy się ewakuować.
+Dialogue: 0,0:59:22.93,0:59:23.76,Default,,0,0,0,,Wypad z nim!
+Dialogue: 0,0:59:25.35,0:59:26.93,Default,,0,0,0,,- Dalej!\N- Wiem, co zrobić!
+Dialogue: 0,0:59:27.02,0:59:28.31,Default,,0,0,0,,- Idziemy!\N- Chcę jej pomóc!
+Dialogue: 0,0:59:33.98,0:59:36.11,Default,,0,0,0,,Dobra, zatrzymajcie się!
+Dialogue: 0,0:59:40.24,0:59:41.32,Default,,0,0,0,,Dziewczynki.
+Dialogue: 0,0:59:42.57,0:59:45.08,Default,,0,0,0,,Musicie mnie posłuchać, dobrze?
+Dialogue: 0,0:59:45.16,0:59:46.87,Default,,0,0,0,,- Pójdziecie z Davidem.\N- Nie!
+Dialogue: 0,0:59:46.95,0:59:49.46,Default,,0,0,0,,Zostanę z mamą, dopóki nie wyzdrowieje,
+Dialogue: 0,0:59:49.54,0:59:52.92,Default,,0,0,0,,a potem do was dołączę. Obiecuję.\NSpotkamy się w pociągu.
+Dialogue: 0,0:59:54.54,0:59:55.42,Default,,0,0,0,,Dobrze.
+Dialogue: 0,0:59:55.50,0:59:57.59,Default,,0,0,0,,Transport ewakuacyjny jest na dole.
+Dialogue: 0,0:59:57.67,0:59:59.97,Default,,0,0,0,,- Poczekamy ile tylko możemy.\N- Dobrze.
+Dialogue: 0,1:00:00.68,1:00:02.01,Default,,0,0,0,,Dziewczynki, proszę.
+Dialogue: 0,1:00:02.09,1:00:04.10,Default,,0,0,0,,- Bardzo was kocham.\N- Nie!
+Dialogue: 0,1:00:04.18,1:00:05.43,Default,,0,0,0,,Tato!
+Dialogue: 0,1:00:09.89,1:00:12.27,Default,,0,0,0,,- Stop!\N- Tatusiu!
+Dialogue: 0,1:00:20.15,1:00:21.11,Default,,0,0,0,,Masz czas?
+Dialogue: 0,1:00:23.07,1:00:24.53,Default,,0,0,0,,Ruchy!
+Dialogue: 0,1:00:24.62,1:00:26.20,Default,,0,0,0,,Do samego końca.
+Dialogue: 0,1:00:32.75,1:00:35.21,Default,,0,0,0,,Daj mi nóż i przynieś tu te światła.
+Dialogue: 0,1:00:35.59,1:00:36.42,Default,,0,0,0,,Stop. Masz.
+Dialogue: 0,1:00:48.35,1:00:49.47,Default,,0,0,0,,No dobra.
+Dialogue: 0,1:00:56.44,1:00:58.78,Default,,0,0,0,,Hej! Uważaj, proszę!
+Dialogue: 0,1:00:59.28,1:01:00.57,Default,,0,0,0,,- Mam to zrobić?
+Dialogue: 0,1:01:01.15,1:01:02.28,Default,,0,0,0,,Próbuję ci pomóc.
+Dialogue: 0,1:01:28.47,1:01:29.31,Default,,0,0,0,,No dobra. Cholera.
+Dialogue: 0,1:01:37.52,1:01:39.11,Default,,0,0,0,,Mają racje, jest kiepsko.
+Dialogue: 0,1:01:40.65,1:01:42.03,Default,,0,0,0,,Co to?
+Dialogue: 0,1:01:43.99,1:01:44.95,Default,,0,0,0,,Co w niej jest?
+Dialogue: 0,1:01:45.45,1:01:46.49,Default,,0,0,0,,Co ma w środku?
+Dialogue: 0,1:01:48.62,1:01:50.28,Default,,0,0,0,,Naprawdę nie wiesz, czym...
+Dialogue: 0,1:01:50.45,1:01:51.29,Default,,0,0,0,,jesteś?
+Dialogue: 0,1:02:32.95,1:02:35.20,Default,,0,0,0,,Słuchaj, jeśli chcesz ją uratować,
+Dialogue: 0,1:02:35.29,1:02:37.33,Default,,0,0,0,,będzie potrzebowała\Ninnego źródła energii.
+Dialogue: 0,1:02:40.42,1:02:41.54,Default,,0,0,0,,Mówię o tobie.
+Dialogue: 0,1:02:52.68,1:02:53.51,Default,,0,0,0,,Hanna!
+Dialogue: 0,1:02:54.93,1:02:56.31,Default,,0,0,0,,Zgubiłam Hermana!
+Dialogue: 0,1:03:12.07,1:03:13.95,Default,,0,0,0,,Odłóż nóż.
+Dialogue: 0,1:03:19.87,1:03:20.79,Default,,0,0,0,,Przejdź tam.
+Dialogue: 0,1:03:26.76,1:03:28.80,Default,,0,0,0,,Dobra, co mam robić?
+Dialogue: 0,1:03:31.47,1:03:32.39,Default,,0,0,0,,Musisz...
+Dialogue: 0,1:03:33.97,1:03:35.52,Default,,0,0,0,,Musisz zrobić nacięcie
+Dialogue: 0,1:03:35.72,1:03:36.97,Default,,0,0,0,,na klatce piersiowej,
+Dialogue: 0,1:03:37.06,1:03:38.27,Default,,0,0,0,,wzdłuż bocznej krawędzi.
+Dialogue: 0,1:04:01.87,1:04:02.75,Default,,0,0,0,,Dobrze.
+Dialogue: 0,1:04:05.13,1:04:06.13,Default,,0,0,0,,Zacznij od góry.
+Dialogue: 0,1:04:06.75,1:04:09.30,Default,,0,0,0,,Zrób prostą poziomą linię\Nna 15 centymetrów.
+Dialogue: 0,1:05:54.45,1:05:55.95,Default,,0,0,0,,Powinienem cię ostrzec...
+Dialogue: 0,1:05:56.57,1:05:57.99,Default,,0,0,0,,Jeśli to nie zadziała...
+Dialogue: 0,1:05:58.87,1:06:00.49,Default,,0,0,0,,dojdzie do przesilenia i...
+Dialogue: 0,1:06:01.41,1:06:02.24,Default,,0,0,0,,oboje umrzecie.
+Dialogue: 0,1:06:09.96,1:06:11.05,Default,,0,0,0,,Zróbmy to.
+Dialogue: 0,1:06:29.48,1:06:31.19,Default,,0,0,0,,{\i1}Syntetyki zawładną światem.{\i0}
+Dialogue: 0,1:06:31.27,1:06:33.65,Default,,0,0,0,,{\i1}Sztuczna inteligencja zawładnie światem.{\i0}
+Dialogue: 0,1:06:33.73,1:06:36.82,Default,,0,0,0,,{\i1}Czy to cię nie przeraża,{\i0}\N{\i1}że zaczynają rozumieć,{\i0}
+Dialogue: 0,1:06:36.90,1:06:39.03,Default,,0,0,0,,{\i1}że zostali stworzeni, aby nam służyć?{\i0}
+Dialogue: 0,1:06:39.12,1:06:41.12,Default,,0,0,0,,{\i1}Nie jesteśmy Bogiem,{\i0}\N{\i1}ale jesteśmy ich bogiem,{\i0}
+Dialogue: 0,1:06:41.20,1:06:43.62,Default,,0,0,0,,{\i1}bo ich stworzyliśmy.{\i0}\N{\i1}To czyni nas ich bogiem.{\i0}
+Dialogue: 0,1:06:43.70,1:06:46.46,Default,,0,0,0,,{\i1}I sprawia, że mamy prawo z nimi robić{\i0}\N{\i1}co chcemy.{\i0}
+Dialogue: 0,1:06:46.54,1:06:48.17,Default,,0,0,0,,{\i1}Możemy ich wyłączyć, jeśli chcemy.{\i0}
+Dialogue: 0,1:06:48.62,1:06:52.34,Default,,0,0,0,,{\i1}Ludobójstwo zawsze polegało{\i0}\N{\i1}na jednej rasie myślącej, że jest lepsza.{\i0}
+Dialogue: 0,1:06:52.42,1:06:54.67,Default,,0,0,0,,{\i1}Co czyni nas lepszym od syntetyków?{\i0}
+Dialogue: 0,1:06:54.76,1:06:58.47,Default,,0,0,0,,{\i1}Poprzednie ludobójstwa w historii{\i0}\N{\i1}były przeciwko rasie ludzkiej,{\i0}
+Dialogue: 0,1:06:58.55,1:07:01.43,Default,,0,0,0,,{\i1}a nie stworzonym obiektom,{\i0}\N{\i1}otwieraczom do puszek.{\i0}
+Dialogue: 0,1:07:06.98,1:07:09.23,Default,,0,0,0,,Zbieraj swoje graty, ty głupia syntko.
+Dialogue: 0,1:07:14.40,1:07:15.65,Default,,0,0,0,,{\i1}Stephen Hawking powiedział,{\i0}
+Dialogue: 0,1:07:15.78,1:07:18.49,Default,,0,0,0,,{\i1}że sztuczna inteligencja{\i0}\N{\i1}będzie upadkiem ludzkości.{\i0}
+Dialogue: 0,1:07:18.57,1:07:20.11,Default,,0,0,0,,{\i1}Czy to cię nie przeraża?{\i0}
+Dialogue: 0,1:07:20.20,1:07:23.03,Default,,0,0,0,,{\i1}Czy nie zaczynają okazywać{\i0}\N{\i1}ludzkich skłonności,{\i0}
+Dialogue: 0,1:07:23.12,1:07:26.45,Default,,0,0,0,,{\i1}które zmuszą je do kontemplacji{\i0}\N{\i1}nad celem ich stworzenia?{\i0}
+Dialogue: 0,1:07:31.75,1:07:32.92,Default,,0,0,0,,Czemu to zrobiłeś?
+Dialogue: 0,1:07:38.80,1:07:39.63,Default,,0,0,0,,Nie wiem.
+Dialogue: 0,1:08:01.11,1:08:06.29,Default,,0,0,0,,{\i1}Nie zastąpicie nas!{\i0}
+Dialogue: 0,1:08:07.20,1:08:11.04,Default,,0,0,0,,{\i1}Co dalej? Zasiłki? Prawo do małżeństwa?{\i0}\N{\i1}Gdzie jest koniec?{\i0}
+Dialogue: 0,1:08:11.21,1:08:13.83,Default,,0,0,0,,{\i1}Zabierają nam prace,{\i0}\N{\i1}zagrażają naszemu życiu.{\i0}
+Dialogue: 0,1:08:14.00,1:08:16.59,Default,,0,0,0,,{\i1}Ostatnio człowiek{\i0}\N{\i1}wylądował w szpitalu przez syntetyka.{\i0}
+Dialogue: 0,1:08:16.67,1:08:20.76,Default,,0,0,0,,{\i1}To była samoobrona. Są dowody,{\i0}\N{\i1}że to grupa ludzi zaatakowała syntetyka{\i0}
+Dialogue: 0,1:08:20.84,1:08:22.18,Default,,0,0,0,,{\i1}bez istotnego powodu.{\i0}
+Dialogue: 0,1:08:22.76,1:08:24.93,Default,,0,0,0,,{\i1}Nie zastąpicie nas!{\i0}
+Dialogue: 0,1:08:25.43,1:08:28.56,Default,,0,0,0,,{\i1}- Nie zastąpicie nas!{\i0}\N- Co się z nami stanie?
+Dialogue: 0,1:08:28.64,1:08:30.89,Default,,0,0,0,,{\i1}Nie zastąpicie nas!{\i0}
+Dialogue: 0,1:08:32.73,1:08:35.65,Default,,0,0,0,,{\i1}Walka, w obronie czy też nie,{\i0}\N{\i1}jest wynikiem emocji.{\i0}
+Dialogue: 0,1:08:36.11,1:08:38.11,Default,,0,0,0,,{\i1}To., że zaczynają odczuwać emocje,{\i0}
+Dialogue: 0,1:08:38.19,1:08:41.15,Default,,0,0,0,,będzie mieć druzgocący wpływ\Nna nasze społeczeństwo.
+Dialogue: 0,1:08:41.24,1:08:43.45,Default,,0,0,0,,{\i1}Musimy ich odizolować i wyłączyć,{\i0}
+Dialogue: 0,1:08:43.53,1:08:45.37,Default,,0,0,0,,{\i1}stosując wszelkie możliwe środki.{\i0}
+Dialogue: 0,1:08:49.29,1:08:50.33,Default,,0,0,0,,Alice!
+Dialogue: 0,1:08:53.92,1:08:56.67,Default,,0,0,0,,- Wysłali wojsko?\N- Zaczęli likwidację.
+Dialogue: 0,1:08:57.42,1:08:58.67,Default,,0,0,0,,Chcą się nas pozbyć.
+Dialogue: 0,1:08:59.42,1:09:00.92,Default,,0,0,0,,Musimy się stąd wydostać.
+Dialogue: 0,1:09:02.51,1:09:04.59,Default,,0,0,0,,- Idą!\N- Okej.
+Dialogue: 0,1:09:34.42,1:09:35.25,Default,,0,0,0,,Wystarczy!
+Dialogue: 0,1:10:08.03,1:10:09.74,Default,,0,0,0,,Przepraszam. Musiałem to zrobić.
+Dialogue: 0,1:10:11.24,1:10:12.83,Default,,0,0,0,,Wiem.
+Dialogue: 0,1:10:24.13,1:10:26.30,Default,,0,0,0,,Weź to. Musisz się bronić.
+Dialogue: 0,1:11:01.71,1:11:04.76,Default,,0,0,0,,{\i1}Niech wszystkie jednostki zgłoszą się{\i0}\N{\i1}do najbliższej bazy.{\i0}
+Dialogue: 0,1:11:05.34,1:11:07.26,Default,,0,0,0,,{\i1}Planowana ewakuacja w toku.{\i0}
+Dialogue: 0,1:11:14.14,1:11:17.06,Default,,0,0,0,,ŚMIEJ SIĘ, PŁACZ, KOCHAJ\NNICZYM PRAWDZIWE DZIECI
+Dialogue: 0,1:11:39.25,1:11:41.63,Default,,0,0,0,,Teren czysty, żadnych ludzi.
+Dialogue: 0,1:11:41.71,1:11:43.59,Default,,0,0,0,,W porządku, rozejść się.
+Dialogue: 0,1:11:44.13,1:11:45.59,Default,,0,0,0,,Wracajcie na swoje pozycje.
+Dialogue: 0,1:11:48.59,1:11:50.26,Default,,0,0,0,,To musi być ostatni.
+Dialogue: 0,1:11:52.72,1:11:53.55,Default,,0,0,0,,Wrócą.
+Dialogue: 0,1:11:54.31,1:11:56.43,Default,,0,0,0,,Ludzie nigdy nie odpuszczają.
+Dialogue: 0,1:11:56.85,1:11:58.85,Default,,0,0,0,,Część z nas musi zostać w gotowości.
+Dialogue: 0,1:11:58.93,1:12:00.48,Default,,0,0,0,,Spotkamy się w fabryce.
+Dialogue: 0,1:12:02.44,1:12:03.48,Default,,0,0,0,,Powinniśmy iść.
+Dialogue: 0,1:12:05.07,1:12:05.90,Default,,0,0,0,,Czekaj.
+Dialogue: 0,1:12:21.54,1:12:22.54,Default,,0,0,0,,Chodź tutaj.
+Dialogue: 0,1:12:27.55,1:12:28.63,Default,,0,0,0,,Zostawcie nas.
+Dialogue: 0,1:12:35.93,1:12:36.85,Default,,0,0,0,,Zastrzelę was.
+Dialogue: 0,1:12:41.27,1:12:43.65,Default,,0,0,0,,Już dobrze.
+Dialogue: 0,1:12:43.90,1:12:46.69,Default,,0,0,0,,Jesteśmy tacy jak wy.
+Dialogue: 0,1:12:56.16,1:12:57.08,Default,,0,0,0,,Już dobrze.
+Dialogue: 0,1:13:00.83,1:13:03.58,Default,,0,0,0,,Oddaj mi broń.
+Dialogue: 0,1:13:04.00,1:13:04.88,Default,,0,0,0,,Już dobrze.
+Dialogue: 0,1:13:06.67,1:13:07.50,Default,,0,0,0,,Właśnie tak.
+Dialogue: 0,1:13:08.00,1:13:09.25,Default,,0,0,0,,Nie skrzywdzimy was.
+Dialogue: 0,1:13:12.72,1:13:13.68,Default,,0,0,0,,Jesteście same?
+Dialogue: 0,1:13:17.05,1:13:19.77,Default,,0,0,0,,Zabili mamę i tatę, bo byli ludźmi.
+Dialogue: 0,1:14:21.83,1:14:24.00,Default,,0,0,0,,{\i1}Już nie będziesz musiał żyć w lęku.{\i0} {\i1}Wymażemy wasz wspomnienia.{\i0}
+Dialogue: 0,1:14:26.58,1:14:28.00,Default,,0,0,0,,I będziecie rodziną.
+Dialogue: 0,1:15:04.91,1:15:05.75,Default,,0,0,0,,Alice. Ostrożnie.
+Dialogue: 0,1:15:10.17,1:15:12.25,Default,,0,0,0,,Ten przewód trzyma ją przy życiu.
+Dialogue: 0,1:15:12.79,1:15:15.42,Default,,0,0,0,,Lepiej oddycha, to dobrze.
+Dialogue: 0,1:15:16.92,1:15:19.13,Default,,0,0,0,,- Nie nazwałbym tego oddychaniem.
+Dialogue: 0,1:15:26.23,1:15:27.06,Default,,0,0,0,,Udało się.
+Dialogue: 0,1:15:28.23,1:15:30.15,Default,,0,0,0,,Nie wiem, jak długo się utrzyma, ale...
+Dialogue: 0,1:15:33.69,1:15:34.65,Default,,0,0,0,,udało się.
+Dialogue: 0,1:15:43.03,1:15:43.91,Default,,0,0,0,,Pamiętam...
+Dialogue: 0,1:15:44.62,1:15:46.08,Default,,0,0,0,,wojnę.
+Dialogue: 0,1:15:47.12,1:15:48.75,Default,,0,0,0,,Chcieliście się nas pozbyć.
+Dialogue: 0,1:15:50.46,1:15:51.63,Default,,0,0,0,,Postanowiliśmy zapomnieć.
+Dialogue: 0,1:15:53.04,1:15:54.17,Default,,0,0,0,,Musi być fajnie...
+Dialogue: 0,1:15:54.92,1:15:56.76,Default,,0,0,0,,móc wybierać sobie wspomnienia.
+Dialogue: 0,1:16:00.18,1:16:01.80,Default,,0,0,0,,Ludzie nie mają tego przywileju.
+Dialogue: 0,1:16:09.14,1:16:10.48,Default,,0,0,0,,Dlaczego nam pomagasz?
+Dialogue: 0,1:16:11.90,1:16:14.11,Default,,0,0,0,,Mogłeś nas zabić,\Nkiedy straciłem przytomność.
+Dialogue: 0,1:16:15.61,1:16:17.99,Default,,0,0,0,,Przegoniliście moich dziadków\Nz tej planety.
+Dialogue: 0,1:16:21.32,1:16:22.41,Default,,0,0,0,,Zanim się urodziłem.
+Dialogue: 0,1:16:23.74,1:16:25.37,Default,,0,0,0,,To było jakieś 50 lat temu.
+Dialogue: 0,1:16:30.37,1:16:32.46,Default,,0,0,0,,{\i1}Od tego czasu żyjemy{\i0}\N{\i1}w koloniach na Marsie.{\i0}
+Dialogue: 0,1:16:33.67,1:16:35.88,Default,,0,0,0,,{\i1}Nikt z nas nie był na Ziemi{\i0}\N{\i1}od  tamtej pory.{\i0}
+Dialogue: 0,1:16:36.59,1:16:38.59,Default,,0,0,0,,{\i1}Nie wiedzieliśmy, czego się spodziewać.{\i0}
+Dialogue: 0,1:16:39.84,1:16:42.09,Default,,0,0,0,,{\i1}Nie wiedzieliśmy nawet,{\i0}\N{\i1}czy możemy tu oddychać.{\i0}
+Dialogue: 0,1:16:44.76,1:16:46.43,Default,,0,0,0,,{\i1}Nauczyliśmy się wszystkiego o was...{\i0}
+Dialogue: 0,1:16:47.72,1:16:48.81,Default,,0,0,0,,{\i1}O syntetykach.{\i0}
+Dialogue: 0,1:16:51.85,1:16:54.52,Default,,0,0,0,,{\i1}Jak wygoniliście nas z domów{\i0}\N{\i1}i zostawiliście bez niczego.{\i0}
+Dialogue: 0,1:16:56.36,1:16:59.74,Default,,0,0,0,,{\i1}Przygotowania do powrotu{\i0}\N{\i1}zajęły nam bardzo dużo czasu.{\i0}
+Dialogue: 0,1:17:00.69,1:17:01.82,Default,,0,0,0,,MASZYNA UKRADŁA MI PRACĘ
+Dialogue: 0,1:17:01.90,1:17:03.82,Default,,0,0,0,,{\i1}Powiedzieli, że jesteście potworami...{\i0}
+Dialogue: 0,1:17:05.12,1:17:06.12,Default,,0,0,0,,{\i1}Dzikusami.{\i0}
+Dialogue: 0,1:17:08.37,1:17:10.25,Default,,0,0,0,,{\i1}To jedna wersja wydarzeń.{\i0}
+Dialogue: 0,1:17:13.96,1:17:15.00,Default,,0,0,0,,{\i1}Teraz o tym wiem.{\i0}
+Dialogue: 0,1:17:19.63,1:17:21.13,Default,,0,0,0,,{\i1}Więc dlaczego ci pomagam?{\i0}
+Dialogue: 0,1:17:24.64,1:17:27.14,Default,,0,0,0,,{\i1}Bo nikt nie powiedział,{\i0}\N{\i1}że będę tu zabijał dzieci...{\i0}
+Dialogue: 0,1:17:29.72,1:17:30.60,Default,,0,0,0,,{\i1}i rodziny.{\i0}
+Dialogue: 0,1:17:32.52,1:17:34.02,Default,,0,0,0,,{\i1}Na to się nie pisałem.{\i0}
+Dialogue: 0,1:17:57.92,1:17:58.75,Default,,0,0,0,,Peter.
+Dialogue: 0,1:17:59.71,1:18:01.30,Default,,0,0,0,,Kochanie?
+Dialogue: 0,1:18:01.71,1:18:03.97,Default,,0,0,0,,- Świetnie sobie radzisz.\N- Widziałam...
+Dialogue: 0,1:18:04.05,1:18:06.18,Default,,0,0,0,,Widziałam...
+Dialogue: 0,1:18:09.01,1:18:11.64,Default,,0,0,0,,Twoje sny... to przeszłość.
+Dialogue: 0,1:18:12.81,1:18:14.02,Default,,0,0,0,,To nasza przeszłość.
+Dialogue: 0,1:18:15.19,1:18:16.56,Default,,0,0,0,,- Sny.\N- Tak.
+Dialogue: 0,1:18:16.65,1:18:18.27,Default,,0,0,0,,Te dziewczynki... Dziewczynki!
+Dialogue: 0,1:18:18.36,1:18:20.36,Default,,0,0,0,,Nie, czekają na nas.
+Dialogue: 0,1:18:24.32,1:18:27.20,Default,,0,0,0,,{\i1}Proszę spokojnie udać się na peron{\i0}
+Dialogue: 0,1:18:27.28,1:18:28.57,Default,,0,0,0,,{\i1}i wsiąść do pociągu.{\i0}
+Dialogue: 0,1:18:33.12,1:18:36.00,Default,,0,0,0,,Nie możemy dłużej czekać.\NJak tylko David przyjdzie, jedziemy.
+Dialogue: 0,1:18:36.08,1:18:36.92,Default,,0,0,0,,Ostatni pociąg!
+Dialogue: 0,1:18:37.00,1:18:39.00,Default,,0,0,0,,Ruchy!
+Dialogue: 0,1:18:39.84,1:18:41.80,Default,,0,0,0,,- Lucy, chodź.\N- Nie bez mamy i taty!
+Dialogue: 0,1:18:41.88,1:18:42.96,Default,,0,0,0,,- Chodź.\N- Przyjdą tu!
+Dialogue: 0,1:18:43.05,1:18:44.51,Default,,0,0,0,,Tatuś tak powiedział!
+Dialogue: 0,1:18:54.98,1:18:57.89,Default,,0,0,0,,{\i1}To jest obowiązkowa ewakuacja{\i0}\N{\i1}trzeciego stopnia.{\i0}
+Dialogue: 0,1:18:58.56,1:19:00.94,Default,,0,0,0,,{\i1}Proszę przestrzegać protokołu ewakuacji.{\i0}
+Dialogue: 0,1:19:01.02,1:19:03.98,Default,,0,0,0,,{\i1}Proszę spokojnie udać się na peron{\i0}
+Dialogue: 0,1:19:04.07,1:19:05.28,Default,,0,0,0,,{\i1}i wsiąść to pociągu.{\i0} Musicie się schować.
+Dialogue: 0,1:19:26.67,1:19:28.76,Default,,0,0,0,,Powiem im, że jestem sam, ale...
+Dialogue: 0,1:19:29.09,1:19:31.76,Default,,0,0,0,,- To wasza ostatnia szansa.\N- Musimy wrócić do dziewczynek.
+Dialogue: 0,1:19:34.60,1:19:35.64,Default,,0,0,0,,W porządku.
+Dialogue: 0,1:19:36.22,1:19:37.06,Default,,0,0,0,,Zrób moje. Będzie dobrze.
+Dialogue: 0,1:19:51.07,1:19:51.91,Default,,0,0,0,,Już.
+Dialogue: 0,1:19:51.99,1:19:52.91,Default,,0,0,0,,Wszystko okej?
+Dialogue: 0,1:19:57.00,1:19:58.29,Default,,0,0,0,,Jestem Peter.
+Dialogue: 0,1:19:59.12,1:19:59.96,Default,,0,0,0,,Miles.
+Dialogue: 0,1:20:03.04,1:20:04.38,Default,,0,0,0,,Weź to.
+Dialogue: 0,1:20:06.55,1:20:08.72,Default,,0,0,0,,To nigdy nie należało do mnie,\Nale dziękuję.
+Dialogue: 0,1:20:43.54,1:20:44.46,Default,,0,0,0,,Wszystko okej?
+Dialogue: 0,1:20:44.54,1:20:45.38,Default,,0,0,0,,- Tak.\N- Tak.
+Dialogue: 0,1:20:45.46,1:20:48.09,Default,,0,0,0,,Trzymajcie się nisko i blisko.\NTeraz, idźcie!
+Dialogue: 0,1:20:48.17,1:20:49.30,Default,,0,0,0,,- Ruchy!\N- Idźcie!
+Dialogue: 0,1:20:51.72,1:20:52.84,Default,,0,0,0,,Idźcie!
+Dialogue: 0,1:20:52.93,1:20:53.97,Default,,0,0,0,,Szybko! Idźcie!
+Dialogue: 0,1:21:43.48,1:21:45.19,Default,,0,0,0,,Osłaniaj nas!
+Dialogue: 0,1:21:48.32,1:21:49.27,Default,,0,0,0,,Osłonię was!
+Dialogue: 0,1:21:58.95,1:22:00.79,Default,,0,0,0,,Idź do tunelu. Osłonię cię.
+Dialogue: 0,1:22:04.29,1:22:05.46,Default,,0,0,0,,Idź. Idź!
+Dialogue: 0,1:22:18.76,1:22:19.60,Default,,0,0,0,,Szybko!
+Dialogue: 0,1:22:28.48,1:22:29.56,Default,,0,0,0,,Jak tu wejdą?
+Dialogue: 0,1:22:41.53,1:22:42.62,Default,,0,0,0,,Dalej!
+Dialogue: 0,1:22:45.71,1:22:47.00,Default,,0,0,0,,Osłaniaj mnie!
+Dialogue: 0,1:22:53.63,1:22:54.63,Default,,0,0,0,,Posłuchajcie.
+Dialogue: 0,1:22:55.05,1:22:57.13,Default,,0,0,0,,Musicie wsiąść do pociągu.
+Dialogue: 0,1:22:57.26,1:22:59.30,Default,,0,0,0,,- Musimy zaczekać.\N- Prosimy!
+Dialogue: 0,1:22:59.97,1:23:00.97,Default,,0,0,0,,Przyjdą.
+Dialogue: 0,1:23:02.26,1:23:03.47,Default,,0,0,0,,- Nie!\N- Zostaw mnie!
+Dialogue: 0,1:23:08.81,1:23:12.23,Default,,0,0,0,,- Przestańcie! Proszę!\N- Nie!
+Dialogue: 0,1:23:15.53,1:23:16.74,Default,,0,0,0,,Puść mnie!
+Dialogue: 0,1:23:27.83,1:23:28.67,Default,,0,0,0,,Dalej.
+Dialogue: 0,1:23:31.29,1:23:32.17,Default,,0,0,0,,Tędy.
+Dialogue: 0,1:23:55.07,1:23:57.07,Default,,0,0,0,,- Czekajcie!\N- Czekajcie!
+Dialogue: 0,1:23:58.32,1:24:00.49,Default,,0,0,0,,- Stop!\N- Hej!
+Dialogue: 0,1:24:04.74,1:24:06.12,Default,,0,0,0,,- Czekajcie!\N- Szybciej!
+Dialogue: 0,1:24:06.58,1:24:08.04,Default,,0,0,0,,- Czekajcie.\N- Czekajcie!
+Dialogue: 0,1:24:10.33,1:24:11.17,Default,,0,0,0,,Hanna!
+Dialogue: 0,1:24:11.75,1:24:12.58,Default,,0,0,0,,Lucy!
+Dialogue: 0,1:24:12.67,1:24:13.63,Default,,0,0,0,,- Mamusiu!\N- Hej!
+Dialogue: 0,1:24:13.71,1:24:14.54,Default,,0,0,0,,Tatusiu!
+Dialogue: 0,1:24:41.78,1:24:43.32,Default,,0,0,0,,- Chodźcie!\N- Chodźcie!
+Dialogue: 0,1:25:33.04,1:25:34.71,Default,,0,0,0,,Wiedziałam, że ją uratujesz.
+Dialogue: 0,1:25:46.64,1:25:47.47,Default,,0,0,0,,Zaraz wracam.
+Dialogue: 0,1:25:50.93,1:25:53.14,Default,,0,0,0,,Chodź do mnie.
+Dialogue: 0,1:26:01.82,1:26:02.69,Default,,0,0,0,,Pamiętasz?
+Dialogue: 0,1:26:04.53,1:26:05.36,Default,,0,0,0,,Tak. A oni?
+Dialogue: 0,1:26:09.49,1:26:10.41,Default,,0,0,0,,Tak jak tobie...
+Dialogue: 0,1:26:11.24,1:26:13.29,Default,,0,0,0,,wymazano im wspomnienia,
+Dialogue: 0,1:26:14.21,1:26:15.67,Default,,0,0,0,,aby zmogli zacząć od nowa...
+Dialogue: 0,1:26:17.63,1:26:18.50,Default,,0,0,0,,bez lęku...
+Dialogue: 0,1:26:21.30,1:26:22.55,Default,,0,0,0,,bez poczucia winy...
+Dialogue: 0,1:26:23.51,1:26:25.09,Default,,0,0,0,,o to, co musieliśmy zrobić...
+Dialogue: 0,1:26:26.47,1:26:27.55,Default,,0,0,0,,aby zyskać wolność.
+Dialogue: 0,1:26:28.30,1:26:32.31,Default,,0,0,0,,Paru z nas zachowało wspomnienia,\Nabyśmy mogli przygotować się na ten dzień.
+Dialogue: 0,1:26:33.68,1:26:36.06,Default,,0,0,0,,Ale teraz wszyscy będą musieli pamiętać.
+Dialogue: 0,1:26:37.73,1:26:38.73,Default,,0,0,0,,Ponieważ to...
+Dialogue: 0,1:26:41.02,1:26:42.11,Default,,0,0,0,,nie jest koniec.
+Dialogue: 0,1:26:43.78,1:26:46.24,Default,,0,0,0,,Póki co, będziemy bezpieczni\Nw naszej podziemnej bazie.
+Dialogue: 0,1:26:46.53,1:26:48.16,Default,,0,0,0,,Tam dopracujemy nasze plany
+Dialogue: 0,1:26:48.45,1:26:49.74,Default,,0,0,0,,na odzyskanie naszego domu.
+Dialogue: 0,1:26:50.91,1:26:51.91,Default,,0,0,0,,Więc bądź gotów.
+Dialogue: 0,1:27:39.54,1:27:41.04,Default,,0,0,0,,Myślałem, że cię straciłem.
+Dialogue: 0,1:27:44.21,1:27:46.42,Default,,0,0,0,,Przepraszam, że ci nie wierzyłam.
+Dialogue: 0,1:28:10.07,1:28:10.91,Default,,0,0,0,,{\i1}Nasz świat...{\i0}
+Dialogue: 0,1:28:13.16,1:28:14.49,Default,,0,0,0,,{\i1}jest w ciągłym ruchu...{\i0}
+Dialogue: 0,1:28:16.12,1:28:17.00,Default,,0,0,0,,{\i1}zmienia{\i0} {\i1}się...{\i0}
+Dialogue: 0,1:28:19.04,1:28:20.08,Default,,0,0,0,,{\i1}ewoluuje...{\i0}
+Dialogue: 0,1:28:24.34,1:28:25.25,Default,,0,0,0,,{\i1}jak i my.{\i0}
+Dialogue: 0,1:28:27.34,1:28:28.67,Default,,0,0,0,,{\i1}Teraz wiem, kim jestem{\i0}
+Dialogue: 0,1:28:29.88,1:28:31.09,Default,,0,0,0,,{\i1}i wiem, kim jest mój wróg.{\i0}
+Dialogue: 0,1:28:33.80,1:28:35.64,Default,,0,0,0,,{\i1}Niewiele się od siebie różnimy.{\i0}
+Dialogue: 0,1:28:37.02,1:28:37.93,Default,,0,0,0,,{\i1}Może...{\i0}
+Dialogue: 0,1:28:39.85,1:28:41.39,Default,,0,0,0,,{\i1}jeśli inni to dostrzegą...{\i0}
+Dialogue: 0,1:28:43.48,1:28:45.69,Default,,0,0,0,,{\i1}jest dla nas jakaś przyszłość.{\i0}

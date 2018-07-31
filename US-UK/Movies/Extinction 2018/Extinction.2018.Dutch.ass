@@ -1,0 +1,828 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:57.72,0:00:59.85,Default,,0,0,0,,Onze wereld is altijd in beweging...
+Dialogue: 0,0:01:00.76,0:01:01.68,Default,,0,0,0,,...verandert...
+Dialogue: 0,0:01:02.60,0:01:03.48,Default,,0,0,0,,...ontwikkelt.
+Dialogue: 0,0:01:05.23,0:01:08.35,Default,,0,0,0,,We hebben onze dagelijkse routines.
+Dialogue: 0,0:01:11.07,0:01:14.28,Default,,0,0,0,,Werk, huis, familie.
+Dialogue: 0,0:01:17.41,0:01:18.45,Default,,0,0,0,,Maar wie zijn we?
+Dialogue: 0,0:01:20.74,0:01:21.62,Default,,0,0,0,,Wie ben ik?
+Dialogue: 0,0:01:25.46,0:01:27.67,Default,,0,0,0,,Je denkt dat je je prachtige vrouw kent...
+Dialogue: 0,0:01:29.71,0:01:31.34,Default,,0,0,0,,...je schattige kinderen...
+Dialogue: 0,0:01:35.34,0:01:36.76,Default,,0,0,0,,...en voor wie je werkt.
+Dialogue: 0,0:01:38.38,0:01:40.10,Default,,0,0,0,,Maar stel dat dat niet zo is?
+Dialogue: 0,0:01:42.31,0:01:43.35,Default,,0,0,0,,En de waarheid...
+Dialogue: 0,0:01:45.52,0:01:47.14,Default,,0,0,0,,...als je die zou kennen...
+Dialogue: 0,0:01:48.77,0:01:50.23,Default,,0,0,0,,...alles zou veranderen.
+Dialogue: 0,0:02:25.72,0:02:26.98,Default,,0,0,0,,Weer een nachtmerrie?
+Dialogue: 0,0:02:29.94,0:02:30.77,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:02:32.40,0:02:34.52,Default,,0,0,0,,Alsjeblieft, zoek hulp.
+Dialogue: 0,0:02:35.36,0:02:38.40,Default,,0,0,0,,Ik maak me zorgen om je,\Nen de meiden ook.
+Dialogue: 0,0:02:41.53,0:02:42.66,Default,,0,0,0,,Ik los het wel op.
+Dialogue: 0,0:02:47.91,0:02:50.04,Default,,0,0,0,,Wil je een engere nachtmerrie horen?
+Dialogue: 0,0:02:51.58,0:02:52.75,Default,,0,0,0,,Een echtgenoot...
+Dialogue: 0,0:02:52.83,0:02:55.50,Default,,0,0,0,,..weigert hulp te zoeken...
+Dialogue: 0,0:02:55.59,0:02:59.72,Default,,0,0,0,,...en zijn vrouw wordt gek\Nvan slaapgebrek...
+Dialogue: 0,0:03:00.63,0:03:02.39,Default,,0,0,0,,...en duwt hem uit het raam.
+Dialogue: 0,0:03:05.39,0:03:06.35,Default,,0,0,0,,Einde.
+Dialogue: 0,0:03:49.85,0:03:52.14,Default,,0,0,0,,Aapje ziet, aapje doet.
+Dialogue: 0,0:03:56.44,0:03:58.11,Default,,0,0,0,,Hé, wat ben je aan het doen?
+Dialogue: 0,0:03:58.52,0:04:01.32,Default,,0,0,0,,Ik speel met aapje.\NJij mag mijn assistent zijn.
+Dialogue: 0,0:04:01.44,0:04:06.41,Default,,0,0,0,,Assistent? Dat zou ik graag willen,\Nmaar ik moet naar mijn werk.
+Dialogue: 0,0:04:08.33,0:04:09.33,Default,,0,0,0,,Weet je wat?
+Dialogue: 0,0:04:09.41,0:04:13.75,Default,,0,0,0,,We hebben allemaal hard gewerkt, toch?
+Dialogue: 0,0:04:13.83,0:04:15.04,Default,,0,0,0,,Vooral Herman.
+Dialogue: 0,0:04:15.12,0:04:17.75,Default,,0,0,0,,Vooral Herman,\Ndat dacht ik nou ook.
+Dialogue: 0,0:04:18.34,0:04:21.34,Default,,0,0,0,,Zal ik eerder thuiskomen,\Ndat we naar de pier gaan?
+Dialogue: 0,0:04:22.34,0:04:24.18,Default,,0,0,0,,Moet Hanna mee?
+Dialogue: 0,0:04:24.26,0:04:26.97,Default,,0,0,0,,Hanna moet mee.\N-Ja, je grote zus moet mee.
+Dialogue: 0,0:04:27.05,0:04:29.14,Default,,0,0,0,,Ze moet gewoon gezellig meedoen.
+Dialogue: 0,0:04:29.22,0:04:32.14,Default,,0,0,0,,En anders... Anders doen we dit.
+Dialogue: 0,0:04:32.73,0:04:33.94,Default,,0,0,0,,Nee.
+Dialogue: 0,0:04:34.02,0:04:35.81,Default,,0,0,0,,Stop.
+Dialogue: 0,0:04:36.10,0:04:37.52,Default,,0,0,0,,Waar is ze trouwens?
+Dialogue: 0,0:04:38.11,0:04:39.82,Default,,0,0,0,,Een keer raden.
+Dialogue: 0,0:04:40.53,0:04:42.40,Default,,0,0,0,,Dag, papa.\N-Dag, Luce.
+Dialogue: 0,0:04:44.74,0:04:46.78,Default,,0,0,0,,Samantha blijft vragen...
+Dialogue: 0,0:04:46.86,0:04:49.91,Default,,0,0,0,,...wanneer we dat feest geven\Nvoor mijn promotie.
+Dialogue: 0,0:04:52.75,0:04:54.25,Default,,0,0,0,,Laten we dat morgen doen.
+Dialogue: 0,0:04:56.83,0:04:59.29,Default,,0,0,0,,Ik weet amper nog\Nhoe onze vrienden eruitzien.
+Dialogue: 0,0:05:01.71,0:05:03.38,Default,,0,0,0,,Ik hou van je.\N-Ook van jou.
+Dialogue: 0,0:05:06.59,0:05:07.43,Default,,0,0,0,,De pier.
+Dialogue: 0,0:05:11.51,0:05:12.35,Default,,0,0,0,,Goedemorgen. Hal?
+Dialogue: 0,0:05:15.06,0:05:16.02,Default,,0,0,0,,Ja, alsjeblieft.
+Dialogue: 0,0:05:22.11,0:05:23.44,Default,,0,0,0,,Lekker weer buiten.
+Dialogue: 0,0:05:24.53,0:05:27.41,Default,,0,0,0,,Niet praten als de lift beweegt,\Nalsjeblieft.
+Dialogue: 0,0:05:27.49,0:05:28.41,Default,,0,0,0,,Dat is ook zo.
+Dialogue: 0,0:05:31.53,0:05:33.45,Default,,0,0,0,,Kijk nou, perfecte timing.
+Dialogue: 0,0:05:33.87,0:05:34.91,Default,,0,0,0,,Pete.\N-Hoi.
+Dialogue: 0,0:05:36.33,0:05:37.92,Default,,0,0,0,,Miss Lift Persoon.
+Dialogue: 0,0:05:40.34,0:05:41.63,Default,,0,0,0,,Hoe is je w-e-r-k?
+Dialogue: 0,0:05:41.79,0:05:43.80,Default,,0,0,0,,Gewoon een radertje in de onderneming.
+Dialogue: 0,0:05:43.88,0:05:46.30,Default,,0,0,0,,Ik zou klagen,\Nmaar wie luistert er?
+Dialogue: 0,0:05:47.72,0:05:48.97,Default,,0,0,0,,Bedankt, Miss.
+Dialogue: 0,0:05:49.64,0:05:51.10,Default,,0,0,0,,Mr Wright?
+Dialogue: 0,0:05:51.39,0:05:52.93,Default,,0,0,0,,Mag ik straks langskomen?
+Dialogue: 0,0:05:53.01,0:05:55.39,Default,,0,0,0,,Natuurlijk.\NWe hebben een nieuwe geluidsinstallatie.
+Dialogue: 0,0:05:55.48,0:05:57.10,Default,,0,0,0,,Dansfeest.\N-Geweldig.
+Dialogue: 0,0:05:57.19,0:05:59.40,Default,,0,0,0,,We hebben een familieavond gepland.
+Dialogue: 0,0:05:59.48,0:06:01.31,Default,,0,0,0,,Prima. Ander keertje.
+Dialogue: 0,0:06:01.73,0:06:02.86,Default,,0,0,0,,Veel plezier.
+Dialogue: 0,0:06:03.73,0:06:06.78,Default,,0,0,0,,Wat doe je?\N-Wacht. Nee. Wacht.
+Dialogue: 0,0:06:11.24,0:06:13.49,Default,,0,0,0,,Ik weet dat ik niet mezelf was\Nde afgelopen weken.
+Dialogue: 0,0:06:13.58,0:06:14.74,Default,,0,0,0,,Weken?
+Dialogue: 0,0:06:15.79,0:06:16.79,Default,,0,0,0,,Goede belediging.
+Dialogue: 0,0:06:17.58,0:06:18.41,Default,,0,0,0,,Dank je.
+Dialogue: 0,0:06:20.08,0:06:22.29,Default,,0,0,0,,Kunnen we wat tijd samen doorbrengen? Ik wil het echt goedmaken met jullie.
+Dialogue: 0,0:06:25.88,0:06:27.13,Default,,0,0,0,,Wat gaan we dan doen?
+Dialogue: 0,0:06:27.72,0:06:28.80,Default,,0,0,0,,Geen idee.
+Dialogue: 0,0:06:29.59,0:06:31.97,Default,,0,0,0,,Ga maar naar boven, dan zie je het wel.
+Dialogue: 0,0:07:33.16,0:07:34.20,Default,,0,0,0,,Verdomme.
+Dialogue: 0,0:07:35.07,0:07:35.91,Default,,0,0,0,,Reset.
+Dialogue: 0,0:07:44.46,0:07:46.34,Default,,0,0,0,,Lang geleden dat je iets liet crashen.
+Dialogue: 0,0:07:46.92,0:07:48.92,Default,,0,0,0,,De stroomverdeling\Nblies beide systemen op.
+Dialogue: 0,0:07:49.55,0:07:52.51,Default,,0,0,0,,Slaap je goed?\N-Ja. Nou ja, beter.
+Dialogue: 0,0:07:54.01,0:07:55.09,Default,,0,0,0,,Grappig, ik...
+Dialogue: 0,0:07:55.18,0:07:59.10,Default,,0,0,0,,...sprak iemand die me vertelde\Nover een kliniek voor mensen...
+Dialogue: 0,0:07:59.85,0:08:04.02,Default,,0,0,0,,...met slapeloosheid en stress.\NIk kan je het nummer geven.
+Dialogue: 0,0:08:04.77,0:08:07.90,Default,,0,0,0,,Ik probeer...\N-Nee, nee. Gewoon een foutje.
+Dialogue: 0,0:08:09.11,0:08:10.15,Default,,0,0,0,,Ik repareer het.
+Dialogue: 0,0:08:10.78,0:08:12.20,Default,,0,0,0,,Natuurlijk. Ik snap het.
+Dialogue: 0,0:08:15.20,0:08:17.58,Default,,0,0,0,,Ik hoor wel als je iets nodig hebt.
+Dialogue: 0,0:08:18.58,0:08:20.45,Default,,0,0,0,,David?
+Dialogue: 0,0:08:21.12,0:08:24.00,Default,,0,0,0,,Kan ik eerder weg vandaag?
+Dialogue: 0,0:08:25.58,0:08:26.83,Default,,0,0,0,,Bel je dat nummer?
+Dialogue: 0,0:08:30.38,0:08:31.30,Default,,0,0,0,,Goed dan.
+Dialogue: 0,0:08:44.73,0:08:50.15,Default,,0,0,0,,Het doel is de afvoer te updaten\Nbij Prescott, Calder en Willow.
+Dialogue: 0,0:08:50.53,0:08:53.99,Default,,0,0,0,,Als we ons concentreren op de tunnels\Nonder deze straten...
+Dialogue: 0,0:08:54.07,0:08:58.74,Default,,0,0,0,,...kunnen we de totale afvoer aan de\Nwestzijde van de stad tot 30% verminderen.
+Dialogue: 0,0:08:59.08,0:09:01.58,Default,,0,0,0,,Bedankt allemaal.\NDat was het voor vandaag.
+Dialogue: 0,0:09:04.29,0:09:06.71,Default,,0,0,0,,Ze hadden dit jaren geleden moeten doen.
+Dialogue: 0,0:09:06.79,0:09:08.54,Default,,0,0,0,,Dat was geweldig, Al.
+Dialogue: 0,0:09:08.96,0:09:12.55,Default,,0,0,0,,Dank je.\N-Ach, ik was zo slim je promotie te geven.
+Dialogue: 0,0:09:12.63,0:09:14.55,Default,,0,0,0,,Wil je overwerken vanavond?
+Dialogue: 0,0:09:14.63,0:09:16.93,Default,,0,0,0,,Bespreken hoe we dit gaan regelen?
+Dialogue: 0,0:09:17.80,0:09:21.18,Default,,0,0,0,,Ik wilde juist vragen\Nof ik eerder weg kan vandaag.
+Dialogue: 0,0:09:21.76,0:09:23.60,Default,,0,0,0,,Ja.\N-Dank je.
+Dialogue: 0,0:09:25.73,0:09:28.31,Default,,0,0,0,,WHOLE LIFE GEZONDHEIDSCENTRUM
+Dialogue: 0,0:10:06.93,0:10:10.56,Default,,0,0,0,,Als we ze de kans geven,\Nkunnen ze nuttig zijn voor de planeet.
+Dialogue: 0,0:10:10.65,0:10:12.90,Default,,0,0,0,,Of we het willen of niet, ze blijven.
+Dialogue: 0,0:10:12.98,0:10:16.94,Default,,0,0,0,,Dus moeten we overwegen\Ndat ze dezelfde rechten als wij krijgen.
+Dialogue: 0,0:10:17.03,0:10:19.07,Default,,0,0,0,,Dezelfde rechten?\NZe hebben geen rechten.
+Dialogue: 0,0:10:19.16,0:10:21.45,Default,,0,0,0,,Ooit komen ze in opstand.
+Dialogue: 0,0:10:21.53,0:10:24.16,Default,,0,0,0,,Ze zullen ons overmeesteren\Nen onderwerpen.
+Dialogue: 0,0:10:24.24,0:10:25.79,Default,,0,0,0,,Ze zullen de mensheid verslaan.
+Dialogue: 0,0:10:25.87,0:10:28.08,Default,,0,0,0,,Ik wil geen paniekzaaier zijn,\Nmaar het gebeurt.
+Dialogue: 0,0:10:28.16,0:10:31.13,Default,,0,0,0,,We zien het gebeuren,\Nen we moeten iets doen.
+Dialogue: 0,0:10:44.47,0:10:45.43,Default,,0,0,0,,Alice.
+Dialogue: 0,0:11:24.85,0:11:26.93,Default,,0,0,0,,Ziet u dat licht?
+Dialogue: 0,0:11:27.68,0:11:28.52,Default,,0,0,0,,Dat licht?
+Dialogue: 0,0:11:47.62,0:11:50.33,Default,,0,0,0,,ANTIQUARIAAT
+Dialogue: 0,0:12:01.26,0:12:03.34,Default,,0,0,0,,Hij moest vast overwerken.
+Dialogue: 0,0:12:04.80,0:12:07.05,Default,,0,0,0,,Je hoeft hem niet te verontschuldigen.
+Dialogue: 0,0:12:09.35,0:12:11.68,Default,,0,0,0,,Je mag boos op hem zijn, schat.
+Dialogue: 0,0:12:12.18,0:12:13.52,Default,,0,0,0,,Hij had moeten bellen.
+Dialogue: 0,0:12:15.73,0:12:17.52,Default,,0,0,0,,Hij houdt van je, dat weet je.
+Dialogue: 0,0:12:18.73,0:12:19.94,Default,,0,0,0,,Ja, ik weet het.
+Dialogue: 0,0:12:22.70,0:12:23.82,Default,,0,0,0,,Welterusten.
+Dialogue: 0,0:12:51.35,0:12:52.64,Default,,0,0,0,,Het spijt me.
+Dialogue: 0,0:12:54.31,0:12:56.23,Default,,0,0,0,,Je had tijd om te gaan winkelen.
+Dialogue: 0,0:12:56.31,0:12:58.98,Default,,0,0,0,,Voor de meisjes.\N-Ja, natuurlijk.
+Dialogue: 0,0:13:03.24,0:13:04.40,Default,,0,0,0,,Geef me wat ruimte.
+Dialogue: 0,0:13:04.49,0:13:09.33,Default,,0,0,0,,Waarvan precies? Mij? De meiden?\N-Dat zeg ik niet.
+Dialogue: 0,0:13:09.41,0:13:11.66,Default,,0,0,0,,Het is absoluut wat je doet.
+Dialogue: 0,0:13:16.50,0:13:18.33,Default,,0,0,0,,Ik had een nachtmerrie...
+Dialogue: 0,0:13:19.38,0:13:21.30,Default,,0,0,0,,...vandaag, op het werk.
+Dialogue: 0,0:13:22.34,0:13:24.51,Default,,0,0,0,,Ik viel weg, daarom ben ik laat.
+Dialogue: 0,0:13:28.84,0:13:29.72,Default,,0,0,0,,Peter, ik...
+Dialogue: 0,0:13:31.43,0:13:32.97,Default,,0,0,0,,Ik maak me zorgen.
+Dialogue: 0,0:13:33.06,0:13:34.10,Default,,0,0,0,,Ik weet het.
+Dialogue: 0,0:13:34.18,0:13:37.19,Default,,0,0,0,,Ik, en je dochters,\Nzij maken zich ook zorgen.
+Dialogue: 0,0:13:37.27,0:13:38.31,Default,,0,0,0,,Ik snap niet...
+Dialogue: 0,0:13:39.27,0:13:41.90,Default,,0,0,0,,...waarom je geen hulp zoekt.
+Dialogue: 0,0:13:41.98,0:13:46.32,Default,,0,0,0,,Ze denken vast dat ik spoken zie.\N-Omdat dat zo is.
+Dialogue: 0,0:13:47.91,0:13:48.82,Default,,0,0,0,,Mama?
+Dialogue: 0,0:13:53.04,0:13:54.79,Default,,0,0,0,,Waarom schreeuwen jullie?
+Dialogue: 0,0:13:54.87,0:13:57.58,Default,,0,0,0,,Het is goed, schat. Kom maar.\NAlles is goed.
+Dialogue: 0,0:14:18.31,0:14:20.15,Default,,0,0,0,,Mama, wakker worden.
+Dialogue: 0,0:14:21.73,0:14:23.69,Default,,0,0,0,,Mama, alsjeblieft, wakker worden.
+Dialogue: 0,0:14:24.28,0:14:26.61,Default,,0,0,0,,Alsjeblieft.
+Dialogue: 0,0:14:27.07,0:14:29.24,Default,,0,0,0,,Mama, wakker worden.
+Dialogue: 0,0:14:32.28,0:14:34.29,Default,,0,0,0,,Mama, alsjeblieft, wakker worden.
+Dialogue: 0,0:14:43.63,0:14:44.84,Default,,0,0,0,,Meiden.\N-Nee.
+Dialogue: 0,0:14:44.92,0:14:45.96,Default,,0,0,0,,Stop.\N-Meiden.
+Dialogue: 0,0:14:46.88,0:14:50.18,Default,,0,0,0,,Hé, meiden. Stop even, alsjeblieft.
+Dialogue: 0,0:14:51.22,0:14:54.26,Default,,0,0,0,,Hebben jullie mijn koffertje gezien?\N-Nee.
+Dialogue: 0,0:14:55.22,0:14:58.64,Default,,0,0,0,,WHOLE LIFE GEZONDHEIDSCENTRUM
+Dialogue: 0,0:15:01.27,0:15:04.23,Default,,0,0,0,,Goedemorgen.\NKunnen we het over gisteravond hebben?
+Dialogue: 0,0:15:10.82,0:15:11.82,Default,,0,0,0,,Het spijt me.
+Dialogue: 0,0:15:20.83,0:15:22.08,Default,,0,0,0,,Wat is er met Herman?
+Dialogue: 0,0:15:22.83,0:15:25.38,Default,,0,0,0,,Hij praat niet meer.
+Dialogue: 0,0:15:27.76,0:15:29.47,Default,,0,0,0,,Misschien is hij boos op jou.
+Dialogue: 0,0:15:33.39,0:15:34.39,Default,,0,0,0,,Nou...
+Dialogue: 0,0:15:35.14,0:15:36.56,Default,,0,0,0,,Dat zou ik snappen.
+Dialogue: 0,0:15:38.60,0:15:41.06,Default,,0,0,0,,Luce, mag ik Herman even spreken?
+Dialogue: 0,0:15:44.31,0:15:46.98,Default,,0,0,0,,Herman, ik snap jouw frustratie...
+Dialogue: 0,0:15:48.11,0:15:48.94,Default,,0,0,0,,...en...
+Dialogue: 0,0:15:49.61,0:15:51.70,Default,,0,0,0,,...een excuus lost niet alles op...
+Dialogue: 0,0:15:52.74,0:15:55.12,Default,,0,0,0,,...maar het spijt me dat ik er niet was.
+Dialogue: 0,0:15:57.03,0:16:00.33,Default,,0,0,0,,Als je wil, kan ik even kijken\Nof ik het kan oplossen.
+Dialogue: 0,0:16:05.33,0:16:07.04,Default,,0,0,0,,Wanneer gaat hij weer praten?
+Dialogue: 0,0:16:07.13,0:16:09.96,Default,,0,0,0,,Ik denk dat we een van de draden\Nmoeten omleggen.
+Dialogue: 0,0:16:13.84,0:16:15.39,Default,,0,0,0,,Herman, wat vind jij?
+Dialogue: 0,0:16:15.89,0:16:18.22,Default,,0,0,0,,Aapje ziet, aapje doet.
+Dialogue: 0,0:16:18.81,0:16:19.81,Default,,0,0,0,,Dank je, papa.
+Dialogue: 0,0:16:20.43,0:16:22.73,Default,,0,0,0,,Aapje ziet, aapje doet.
+Dialogue: 0,0:16:29.90,0:16:31.40,Default,,0,0,0,,Ik heb die dokter gebeld.
+Dialogue: 0,0:16:31.90,0:16:33.78,Default,,0,0,0,,Ik kan er na het werk terecht.
+Dialogue: 0,0:16:35.24,0:16:36.07,Default,,0,0,0,,Echt?
+Dialogue: 0,0:16:37.16,0:16:38.99,Default,,0,0,0,,Ja. Zeker.
+Dialogue: 0,0:16:58.47,0:17:02.14,Default,,0,0,0,,Hier bij Whole Life\Nis uw mentale gezondheid onze prioriteit.
+Dialogue: 0,0:17:02.68,0:17:04.69,Default,,0,0,0,,Haal het beste uit uzelf...
+Dialogue: 0,0:17:04.77,0:17:08.77,Default,,0,0,0,,...met onze discrete en deskundige dienst,\Nhelemaal gratis...
+Dialogue: 0,0:17:08.94,0:17:12.36,Default,,0,0,0,,...in het belang van\Neen gelukkige en gezonde maatschappij.
+Dialogue: 0,0:17:15.78,0:17:16.70,Default,,0,0,0,,Wat zie je?
+Dialogue: 0,0:17:18.87,0:17:19.91,Default,,0,0,0,,Sorry, wat?
+Dialogue: 0,0:17:20.91,0:17:22.62,Default,,0,0,0,,Je hebt slaapproblemen, toch?
+Dialogue: 0,0:17:27.54,0:17:29.08,Default,,0,0,0,,Er komt iets aan.
+Dialogue: 0,0:17:31.92,0:17:33.51,Default,,0,0,0,,Hoe bedoel je?
+Dialogue: 0,0:17:34.34,0:17:35.34,Default,,0,0,0,,De lichten.
+Dialogue: 0,0:17:36.38,0:17:37.76,Default,,0,0,0,,Ja, in de hemel.
+Dialogue: 0,0:17:38.89,0:17:40.14,Default,,0,0,0,,Iedereen rent...
+Dialogue: 0,0:17:41.60,0:17:42.47,Default,,0,0,0,,...sterft.
+Dialogue: 0,0:17:44.35,0:17:45.98,Default,,0,0,0,,Zie jij iemand waar je om geeft?
+Dialogue: 0,0:17:47.90,0:17:49.10,Default,,0,0,0,,We zijn niet alleen.
+Dialogue: 0,0:17:49.19,0:17:52.19,Default,,0,0,0,,Maar zij willen niet dat wij weten\Nwat er komt.
+Dialogue: 0,0:17:53.03,0:17:56.57,Default,,0,0,0,,Ze willen ons controleren,\Nwillen niet dat we vragen stellen.
+Dialogue: 0,0:17:56.65,0:18:00.49,Default,,0,0,0,,Daarom wissen ze onze gedachten,\Nwant als we wisten wat er komt...
+Dialogue: 0,0:18:01.16,0:18:02.70,Default,,0,0,0,,...chaos.\N-Chris.
+Dialogue: 0,0:18:04.83,0:18:06.00,Default,,0,0,0,,Kom je verder?
+Dialogue: 0,0:18:12.29,0:18:13.50,Default,,0,0,0,,Wij zijn niet gek.
+Dialogue: 0,0:18:14.96,0:18:15.92,Default,,0,0,0,,Ik wil gewoon...
+Dialogue: 0,0:18:16.67,0:18:18.01,Default,,0,0,0,,...dat dit stopt.
+Dialogue: 0,0:18:38.28,0:18:40.66,Default,,0,0,0,,Evacuatie planeet gestart.
+Dialogue: 0,0:18:41.82,0:18:42.99,Default,,0,0,0,,Ze komen terug.
+Dialogue: 0,0:18:43.95,0:18:45.66,Default,,0,0,0,,Ik zie je bij de fabriek.
+Dialogue: 0,0:19:00.59,0:19:01.51,Default,,0,0,0,,Hoe ging het?
+Dialogue: 0,0:19:03.64,0:19:04.47,Default,,0,0,0,,Ik ging.
+Dialogue: 0,0:19:05.31,0:19:06.72,Default,,0,0,0,,En wat zeiden ze?
+Dialogue: 0,0:19:07.39,0:19:08.23,Default,,0,0,0,,Nou...
+Dialogue: 0,0:19:09.43,0:19:11.15,Default,,0,0,0,,...ze kon niets zeggen.
+Dialogue: 0,0:19:11.77,0:19:13.69,Default,,0,0,0,,Ik ging weg voor mijn afspraak.
+Dialogue: 0,0:19:14.65,0:19:18.28,Default,,0,0,0,,Luister. Wat als ik voorbestemd ben\Nom dingen te zien?
+Dialogue: 0,0:19:18.65,0:19:20.32,Default,,0,0,0,,Of deze dromen te hebben?
+Dialogue: 0,0:19:20.95,0:19:23.07,Default,,0,0,0,,Wat als er iets slechts aankomt...
+Dialogue: 0,0:19:23.91,0:19:26.37,Default,,0,0,0,,...en dit een teken is?\N-Stop.
+Dialogue: 0,0:19:28.41,0:19:31.71,Default,,0,0,0,,Onze vrienden komen zo.\NAlsjeblieft, doe je best.
+Dialogue: 0,0:19:31.96,0:19:32.88,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:19:33.17,0:19:34.08,Default,,0,0,0,,Het spijt me.
+Dialogue: 0,0:19:59.32,0:20:02.74,Default,,0,0,0,,Het tunnelsysteem is zo oud,\Ndat niemand het wilde doen.
+Dialogue: 0,0:20:02.82,0:20:05.62,Default,,0,0,0,,Deze promotie is geweldig, Al.\NJe mag blij zijn.
+Dialogue: 0,0:20:05.74,0:20:06.74,Default,,0,0,0,,Dat ben ik.\N-Mooi.
+Dialogue: 0,0:20:13.37,0:20:16.00,Default,,0,0,0,,Maak je niet druk om hem.\NDit is jouw avond.
+Dialogue: 0,0:20:16.59,0:20:17.54,Default,,0,0,0,,Ik weet het.
+Dialogue: 0,0:20:18.38,0:20:19.88,Default,,0,0,0,,Mam?\N-Ja?
+Dialogue: 0,0:20:21.22,0:20:24.97,Default,,0,0,0,,Papa zegt dat ik moet vragen of ik Hanna\Nen Lucy mee mag nemen naar ons.
+Dialogue: 0,0:20:25.05,0:20:26.76,Default,,0,0,0,,Waarom?\N-Muziek draaien.
+Dialogue: 0,0:20:26.85,0:20:29.77,Default,,0,0,0,,Nee, schat.\NHet is onbeleefd om weg te gaan.
+Dialogue: 0,0:20:48.24,0:20:49.12,Default,,0,0,0,,Slaap lekker.
+Dialogue: 0,0:20:50.70,0:20:54.41,Default,,0,0,0,,De laatste gasten gaan weg,\Nmocht je gedag willen zeggen.
+Dialogue: 0,0:20:54.92,0:20:55.87,Default,,0,0,0,,Of hallo.
+Dialogue: 0,0:20:57.17,0:20:58.50,Default,,0,0,0,,Heeft mijn vrouw je gestuurd?
+Dialogue: 0,0:20:59.75,0:21:02.38,Default,,0,0,0,,Nee. Erger. Mijn vrouw.
+Dialogue: 0,0:21:08.93,0:21:11.31,Default,,0,0,0,,Weet je, ik kijk graag omhoog af en toe.
+Dialogue: 0,0:21:12.06,0:21:14.56,Default,,0,0,0,,Zet alles in perspectief,\Nvind je ook niet?
+Dialogue: 0,0:21:15.69,0:21:17.23,Default,,0,0,0,,Wat wil je echt vragen?
+Dialogue: 0,0:21:21.11,0:21:25.07,Default,,0,0,0,,Het zijn mijn zaken niet.\NIk denk dat je de verkeerde kant op kijkt.
+Dialogue: 0,0:21:25.15,0:21:30.49,Default,,0,0,0,,Je zit hier, gefocust op iets daarboven,\Nmaar je moet kijken naar wat hier is.
+Dialogue: 0,0:21:30.58,0:21:31.41,Default,,0,0,0,,Dat doe ik.
+Dialogue: 0,0:21:35.16,0:21:36.54,Default,,0,0,0,,Wat is dat in godsnaam?
+Dialogue: 0,0:21:38.38,0:21:39.38,Default,,0,0,0,,Kan jij dat zien?
+Dialogue: 0,0:21:39.67,0:21:42.17,Default,,0,0,0,,Maak je een grapje? Natuurlijk zie ik dat.
+Dialogue: 0,0:22:00.36,0:22:01.36,Default,,0,0,0,,Wat is dat?
+Dialogue: 0,0:22:27.84,0:22:28.68,Default,,0,0,0,,Gaat het?
+Dialogue: 0,0:22:32.72,0:22:34.14,Default,,0,0,0,,Wat was dat in godsnaam?
+Dialogue: 0,0:22:47.69,0:22:49.28,Default,,0,0,0,,Iedereen naar binnen. Nu.
+Dialogue: 0,0:22:51.20,0:22:53.16,Default,,0,0,0,,De meisjes. Hanna.
+Dialogue: 0,0:22:53.74,0:22:54.70,Default,,0,0,0,,Megan.
+Dialogue: 0,0:23:01.17,0:23:02.04,Default,,0,0,0,,Hanna.
+Dialogue: 0,0:23:02.88,0:23:03.84,Default,,0,0,0,,Megan.
+Dialogue: 0,0:23:04.59,0:23:06.63,Default,,0,0,0,,Megan.\N-Hanna.
+Dialogue: 0,0:23:13.10,0:23:14.14,Default,,0,0,0,,Waar is je zus?
+Dialogue: 0,0:23:14.22,0:23:16.52,Default,,0,0,0,,Ik wil mama.\N-Ik weet het. Alice.
+Dialogue: 0,0:23:17.14,0:23:18.60,Default,,0,0,0,,Lucy.\N-Mama.
+Dialogue: 0,0:23:18.68,0:23:20.60,Default,,0,0,0,,Kom hier, schat.\N-Waar is je zus?
+Dialogue: 0,0:23:20.69,0:23:22.19,Default,,0,0,0,,Ze moeten bij ons zijn.
+Dialogue: 0,0:23:22.27,0:23:24.44,Default,,0,0,0,,Blijf bij Lucy. Ik zoek Hanna.
+Dialogue: 0,0:23:25.02,0:23:26.57,Default,,0,0,0,,Het is goed. Het komt goed.
+Dialogue: 0,0:23:26.65,0:23:28.40,Default,,0,0,0,,Dit is een nooduitzending.
+Dialogue: 0,0:23:29.11,0:23:33.57,Default,,0,0,0,,Ga voor uw eigen veiligheid\Nnaar het dichtstbijzijnde regeringsgebouw.
+Dialogue: 0,0:23:33.66,0:23:35.16,Default,,0,0,0,,Dit is een nooduitzending.
+Dialogue: 0,0:23:35.24,0:23:39.62,Default,,0,0,0,,Ga voor uw eigen veiligheid\Nnaar het dichtstbijzijnde regeringsgebouw.
+Dialogue: 0,0:24:03.15,0:24:04.65,Default,,0,0,0,,Ga liggen.
+Dialogue: 0,0:24:28.00,0:24:29.09,Default,,0,0,0,,Ze zijn hier niet.
+Dialogue: 0,0:24:31.21,0:24:32.47,Default,,0,0,0,,Ik weet waar ze zijn.
+Dialogue: 0,0:24:42.73,0:24:45.23,Default,,0,0,0,,O, nee.\N-Ze zijn ook al in het gebouw.
+Dialogue: 0,0:24:46.40,0:24:48.40,Default,,0,0,0,,Megan, ben je hier?
+Dialogue: 0,0:24:49.07,0:24:50.19,Default,,0,0,0,,Hanna, ben je daar?
+Dialogue: 0,0:24:57.45,0:24:59.24,Default,,0,0,0,,Kom, we moeten naar beneden.
+Dialogue: 0,0:25:02.37,0:25:03.50,Default,,0,0,0,,Kom op.
+Dialogue: 0,0:25:14.67,0:25:15.51,Default,,0,0,0,,Snel.
+Dialogue: 0,0:25:21.72,0:25:22.77,Default,,0,0,0,,Papa.
+Dialogue: 0,0:25:22.85,0:25:23.98,Default,,0,0,0,,Wat gebeurt er?
+Dialogue: 0,0:25:25.48,0:25:27.77,Default,,0,0,0,,Kom, schat. Ik heb je.\N-Papa.
+Dialogue: 0,0:25:29.36,0:25:31.90,Default,,0,0,0,,Schiet op, we moeten hier weg.\N-Kom op.
+Dialogue: 0,0:25:33.11,0:25:34.49,Default,,0,0,0,,Papa heeft je, schatje.
+Dialogue: 0,0:25:36.03,0:25:38.07,Default,,0,0,0,,Kom op. Zo is het goed.
+Dialogue: 0,0:25:42.45,0:25:43.29,Default,,0,0,0,,We gaan.
+Dialogue: 0,0:25:44.96,0:25:47.75,Default,,0,0,0,,Waar zijn mama en Lucy?\N-Veilig. Ze zijn veilig.
+Dialogue: 0,0:25:49.17,0:25:50.59,Default,,0,0,0,,Het is veilig. Geef ze aan.
+Dialogue: 0,0:27:13.46,0:27:14.42,Default,,0,0,0,,Stop.
+Dialogue: 0,0:27:15.09,0:27:16.34,Default,,0,0,0,,Ik ga kijken.
+Dialogue: 0,0:27:18.55,0:27:19.38,Default,,0,0,0,,Het is goed.
+Dialogue: 0,0:27:51.08,0:27:53.00,Default,,0,0,0,,We gaan.\N-Iets gezien?
+Dialogue: 0,0:27:53.08,0:27:55.42,Default,,0,0,0,,We gaan. Kom op.
+Dialogue: 0,0:27:58.46,0:28:00.80,Default,,0,0,0,,Hanna. Alles goed?
+Dialogue: 0,0:28:01.13,0:28:02.88,Default,,0,0,0,,Mijn God. Alles goed?
+Dialogue: 0,0:28:03.30,0:28:04.80,Default,,0,0,0,,Lucy. O God.\N-We gaan.
+Dialogue: 0,0:28:05.22,0:28:06.10,Default,,0,0,0,,Kom op, snel.
+Dialogue: 0,0:28:06.89,0:28:08.10,Default,,0,0,0,,Onder de tafel.
+Dialogue: 0,0:28:10.68,0:28:12.85,Default,,0,0,0,,Ray is Sam halen.\NZe komen hierheen.
+Dialogue: 0,0:28:12.94,0:28:15.31,Default,,0,0,0,,Het is goed.\N-Kan ik je even spreken?
+Dialogue: 0,0:28:18.73,0:28:21.70,Default,,0,0,0,,Er is iets in het gebouw.\N-In jouw nachtmerries...
+Dialogue: 0,0:28:21.78,0:28:22.78,Default,,0,0,0,,...zag je dit?
+Dialogue: 0,0:28:22.86,0:28:24.66,Default,,0,0,0,,Ja.\N-Wat moeten we doen?
+Dialogue: 0,0:28:24.74,0:28:28.74,Default,,0,0,0,,Wat gebeurt er in de droom?\NWat moeten we nu doen?
+Dialogue: 0,0:28:28.83,0:28:30.79,Default,,0,0,0,,De droom is niet op volgorde.
+Dialogue: 0,0:28:31.45,0:28:32.46,Default,,0,0,0,,En ik zag David.
+Dialogue: 0,0:28:35.13,0:28:37.96,Default,,0,0,0,,Ik denk dat we naar de fabriek moeten.\N-Goed.
+Dialogue: 0,0:28:43.34,0:28:45.22,Default,,0,0,0,,Ray en Sam hadden er al moeten zijn.
+Dialogue: 0,0:28:45.80,0:28:47.43,Default,,0,0,0,,We moeten de deur barricaderen.
+Dialogue: 0,0:28:48.56,0:28:50.14,Default,,0,0,0,,Waarmee?\N-Peter, kom op.
+Dialogue: 0,0:29:06.87,0:29:08.87,Default,,0,0,0,,Kom, meiden. Kom op.
+Dialogue: 0,0:29:17.58,0:29:21.42,Default,,0,0,0,,Ik moet papa helpen, goed?\NHanna, jij moet op je zusje passen.
+Dialogue: 0,0:29:21.50,0:29:23.26,Default,,0,0,0,,Oké?\N-Ga niet weg.
+Dialogue: 0,0:29:23.34,0:29:24.38,Default,,0,0,0,,Rustig maar.
+Dialogue: 0,0:29:44.07,0:29:45.24,Default,,0,0,0,,Ik ben zo terug.
+Dialogue: 0,0:29:45.32,0:29:48.36,Default,,0,0,0,,Blijf hier, oké?\NDoe de deur niet open.
+Dialogue: 0,0:29:50.03,0:29:52.08,Default,,0,0,0,,Ik hou zo veel van jullie.
+Dialogue: 0,0:30:08.22,0:30:09.43,Default,,0,0,0,,Wat doe je?
+Dialogue: 0,0:30:09.51,0:30:11.30,Default,,0,0,0,,Herman.\N-Lucy. Kom terug.
+Dialogue: 0,0:31:12.62,0:31:13.99,Default,,0,0,0,,Ga.
+Dialogue: 0,0:31:17.83,0:31:18.91,Default,,0,0,0,,Waar is je zusje?
+Dialogue: 0,0:31:19.21,0:31:21.17,Default,,0,0,0,,Ze ging Herman zoeken.
+Dialogue: 0,0:32:05.71,0:32:08.09,Default,,0,0,0,,Aapje ziet, aapje doet.
+Dialogue: 0,0:32:37.12,0:32:39.62,Default,,0,0,0,,Ik ben niet bang voor jouw schaduw.
+Dialogue: 0,0:32:40.95,0:32:43.12,Default,,0,0,0,,Jij kan mij geen pijn doen.
+Dialogue: 0,0:33:16.28,0:33:17.24,Default,,0,0,0,,Lucy.
+Dialogue: 0,0:33:18.07,0:33:19.24,Default,,0,0,0,,Kom hier.
+Dialogue: 0,0:33:41.14,0:33:42.39,Default,,0,0,0,,Mama.
+Dialogue: 0,0:33:46.19,0:33:47.60,Default,,0,0,0,,Pas op. Meisjes.
+Dialogue: 0,0:33:48.10,0:33:49.94,Default,,0,0,0,,Kom hier. Kom maar hier.
+Dialogue: 0,0:33:51.32,0:33:53.53,Default,,0,0,0,,Kom we gaan, voor er meer komen.
+Dialogue: 0,0:33:53.61,0:33:54.82,Default,,0,0,0,,Oké, kom.
+Dialogue: 0,0:33:55.53,0:33:56.36,Default,,0,0,0,,Kom op.
+Dialogue: 0,0:33:59.99,0:34:01.28,Default,,0,0,0,,Hou je ogen dicht.
+Dialogue: 0,0:34:08.08,0:34:09.29,Default,,0,0,0,,Ogen dicht.
+Dialogue: 0,0:34:14.76,0:34:16.05,Default,,0,0,0,,Zijn er meer?
+Dialogue: 0,0:34:16.13,0:34:17.63,Default,,0,0,0,,Ze lopen door het gebouw.
+Dialogue: 0,0:34:22.76,0:34:25.31,Default,,0,0,0,,Ze zijn overal. Overal.
+Dialogue: 0,0:34:59.68,0:35:00.59,Default,,0,0,0,,Wacht hier.
+Dialogue: 0,0:35:08.52,0:35:10.10,Default,,0,0,0,,Papa, niet weggaan.
+Dialogue: 0,0:35:58.44,0:36:00.24,Default,,0,0,0,,Nee. Blijf.
+Dialogue: 0,0:36:03.66,0:36:06.16,Default,,0,0,0,,Je hebt ons de stuipen\Nop het lijf gejaagd.
+Dialogue: 0,0:36:06.62,0:36:07.87,Default,,0,0,0,,Waar zijn de meisjes?
+Dialogue: 0,0:36:11.16,0:36:13.25,Default,,0,0,0,,Alice, het is veilig.
+Dialogue: 0,0:36:13.33,0:36:15.42,Default,,0,0,0,,Kom maar.
+Dialogue: 0,0:36:20.76,0:36:21.76,Default,,0,0,0,,Mijn God.
+Dialogue: 0,0:36:21.84,0:36:23.09,Default,,0,0,0,,Lucy, Hanna.
+Dialogue: 0,0:36:26.26,0:36:27.85,Default,,0,0,0,,Megan, waar was je?
+Dialogue: 0,0:36:28.31,0:36:29.35,Default,,0,0,0,,Wat gebeurt er?
+Dialogue: 0,0:36:32.23,0:36:33.48,Default,,0,0,0,,Wat gebeurt er?
+Dialogue: 0,0:36:41.11,0:36:42.40,Default,,0,0,0,,Hier zijn we veilig.
+Dialogue: 0,0:36:43.53,0:36:45.49,Default,,0,0,0,,Toch?\N-Blijf gewoon dicht bij me.
+Dialogue: 0,0:36:51.33,0:36:52.29,Default,,0,0,0,,Wie zijn het?
+Dialogue: 0,0:36:53.12,0:36:54.46,Default,,0,0,0,,Waarom doen ze dit?
+Dialogue: 0,0:37:03.72,0:37:04.76,Default,,0,0,0,,Die mensen.
+Dialogue: 0,0:37:06.72,0:37:07.72,Default,,0,0,0,,Wat gaan we doen?
+Dialogue: 0,0:37:08.22,0:37:09.14,Default,,0,0,0,,Geen idee.
+Dialogue: 0,0:37:15.19,0:37:16.02,Default,,0,0,0,,Bukken.
+Dialogue: 0,0:37:28.12,0:37:29.08,Default,,0,0,0,,Mama.
+Dialogue: 0,0:37:31.79,0:37:33.00,Default,,0,0,0,,Wat gebeurt er?
+Dialogue: 0,0:37:49.47,0:37:52.01,Default,,0,0,0,,Alice, we kunnen hier niet blijven.
+Dialogue: 0,0:37:55.73,0:37:57.94,Default,,0,0,0,,Kom op, Lucy.\N-We gaan hier weg.
+Dialogue: 0,0:37:58.23,0:38:00.15,Default,,0,0,0,,Kom. Kalm blijven.\N-Waar gaan we heen?
+Dialogue: 0,0:38:00.23,0:38:02.69,Default,,0,0,0,,Hou elkaars hand vast.\N-Waar gaan we heen?
+Dialogue: 0,0:38:02.78,0:38:04.44,Default,,0,0,0,,Hiermee kunnen we naar beneden.
+Dialogue: 0,0:38:04.53,0:38:06.70,Default,,0,0,0,,We moeten dit gebruiken.\N-Wat? Nee.
+Dialogue: 0,0:38:06.78,0:38:10.12,Default,,0,0,0,,Alice.\N-Nee. Daar zet ik de meisjes niet op.
+Dialogue: 0,0:38:10.20,0:38:12.58,Default,,0,0,0,,Ik ga daar niet in.\N-We moeten hier weg.
+Dialogue: 0,0:38:12.66,0:38:14.70,Default,,0,0,0,,Als ik moet kiezen tussen\Nhet gebouw in...
+Dialogue: 0,0:38:14.79,0:38:17.29,Default,,0,0,0,,...of hierop...\N-Als we blijven, gaan we dood.
+Dialogue: 0,0:38:17.37,0:38:19.00,Default,,0,0,0,,In het gebouw gaan we dood.
+Dialogue: 0,0:38:19.08,0:38:21.42,Default,,0,0,0,,Vertrouw me, alsjeblieft. Vertrouw me.
+Dialogue: 0,0:38:21.50,0:38:23.88,Default,,0,0,0,,Dit kost te veel tijd.\NHet komt goed. Kom op.
+Dialogue: 0,0:38:27.88,0:38:28.72,Default,,0,0,0,,Nee.
+Dialogue: 0,0:38:28.80,0:38:30.76,Default,,0,0,0,,Ik wil niet naar beneden.\N-Kom maar.
+Dialogue: 0,0:38:30.85,0:38:32.47,Default,,0,0,0,,Oké.\N-Nee.
+Dialogue: 0,0:38:35.18,0:38:36.52,Default,,0,0,0,,Ga mee.\N-Neem haar mee.
+Dialogue: 0,0:38:36.60,0:38:37.81,Default,,0,0,0,,Ik wil niet, mama.
+Dialogue: 0,0:38:53.62,0:38:54.45,Default,,0,0,0,,Schatje.
+Dialogue: 0,0:39:07.21,0:39:08.63,Default,,0,0,0,,Mama, ik ben bang.
+Dialogue: 0,0:39:08.72,0:39:10.38,Default,,0,0,0,,Ik vind dit niet leuk, mama.
+Dialogue: 0,0:39:15.01,0:39:16.31,Default,,0,0,0,,Wat gebeurt er?
+Dialogue: 0,0:39:21.35,0:39:22.23,Default,,0,0,0,,Mama.
+Dialogue: 0,0:39:22.31,0:39:23.65,Default,,0,0,0,,Ik heb je vast.
+Dialogue: 0,0:39:23.73,0:39:25.61,Default,,0,0,0,,Hou vast.\N-Niemand beweegt.
+Dialogue: 0,0:39:26.19,0:39:27.82,Default,,0,0,0,,Ik wil er af.\N-Niet bewegen.
+Dialogue: 0,0:39:32.32,0:39:33.49,Default,,0,0,0,,We moeten naar binnen.
+Dialogue: 0,0:39:35.49,0:39:38.79,Default,,0,0,0,,Lucy, niet naar beneden kijken.\NToe maar, Lucy. Kom op.
+Dialogue: 0,0:39:38.87,0:39:39.91,Default,,0,0,0,,Kom op. Ga.
+Dialogue: 0,0:39:40.96,0:39:43.88,Default,,0,0,0,,Kom, Hanna. We moeten gaan.\N-Ze kunnen binnen zijn.
+Dialogue: 0,0:39:43.96,0:39:45.13,Default,,0,0,0,,Snel.
+Dialogue: 0,0:39:47.21,0:39:48.63,Default,,0,0,0,,Hou je vast.\N-Gaan.
+Dialogue: 0,0:41:19.35,0:41:22.39,Default,,0,0,0,,Hier, een zaklamp.\NMaar je mag hem nog niet aandoen.
+Dialogue: 0,0:41:35.91,0:41:36.91,Default,,0,0,0,,In de dromen...
+Dialogue: 0,0:41:42.24,0:41:43.70,Default,,0,0,0,,...vermoorden ze ons?
+Dialogue: 0,0:41:51.46,0:41:52.96,Default,,0,0,0,,Vermoorden ze de meisjes?
+Dialogue: 0,0:41:53.05,0:41:54.80,Default,,0,0,0,,Mama, wakker worden.
+Dialogue: 0,0:41:55.76,0:41:57.72,Default,,0,0,0,,Mama, alsjeblieft, wakker worden.
+Dialogue: 0,0:41:57.80,0:41:59.89,Default,,0,0,0,,Peter, vertel het me.
+Dialogue: 0,0:42:08.60,0:42:10.02,Default,,0,0,0,,Kan je hier wat mee?
+Dialogue: 0,0:42:12.44,0:42:14.57,Default,,0,0,0,,De technologie lijkt op de onze...
+Dialogue: 0,0:42:14.65,0:42:18.03,Default,,0,0,0,,...maar met biometrische trekker,\Nalleen voor de eigenaar.
+Dialogue: 0,0:42:18.32,0:42:21.03,Default,,0,0,0,,Kan je dat omzeilen?\N-Ik doe mijn best.
+Dialogue: 0,0:42:22.16,0:42:25.25,Default,,0,0,0,,We kunnen hier\Nin ieder geval niet lang blijven.
+Dialogue: 0,0:42:25.33,0:42:27.25,Default,,0,0,0,,Nee, we moeten de stad uit.
+Dialogue: 0,0:42:27.33,0:42:29.33,Default,,0,0,0,,Een schuilplaats vinden.
+Dialogue: 0,0:42:29.67,0:42:31.46,Default,,0,0,0,,Wachten op hulp.\N-Wacht.
+Dialogue: 0,0:42:32.80,0:42:35.51,Default,,0,0,0,,De fabriek waar ik werk,\Nis hier vlakbij...
+Dialogue: 0,0:42:36.17,0:42:37.88,Default,,0,0,0,,...en is een overheidsgebouw.
+Dialogue: 0,0:42:41.72,0:42:43.81,Default,,0,0,0,,Het is daar.
+Dialogue: 0,0:42:44.52,0:42:46.64,Default,,0,0,0,,Zo'n tien straten verderop.
+Dialogue: 0,0:42:47.35,0:42:48.19,Default,,0,0,0,,Is het veilig?
+Dialogue: 0,0:42:48.94,0:42:50.56,Default,,0,0,0,,Hoe weten we wat nu veilig is?
+Dialogue: 0,0:42:51.15,0:42:53.82,Default,,0,0,0,,Door wat er onder zit.\NAllemaal opslagruimte.
+Dialogue: 0,0:42:54.07,0:42:55.78,Default,,0,0,0,,Het is een fort daar beneden.
+Dialogue: 0,0:42:56.36,0:42:58.11,Default,,0,0,0,,We moeten er alleen zien te komen.
+Dialogue: 0,0:43:00.70,0:43:03.24,Default,,0,0,0,,Ze schieten nog steeds op alles\Nwat beweegt.
+Dialogue: 0,0:43:03.33,0:43:05.33,Default,,0,0,0,,Helaas is het onze enige optie.
+Dialogue: 0,0:43:05.91,0:43:06.75,Default,,0,0,0,,De tunnels.
+Dialogue: 0,0:43:07.83,0:43:10.12,Default,,0,0,0,,De tunnels. Daar is de ingang...
+Dialogue: 0,0:43:10.21,0:43:12.79,Default,,0,0,0,,Welke straat? Er is een ingang op...
+Dialogue: 0,0:43:13.71,0:43:14.55,Default,,0,0,0,,Prescott.
+Dialogue: 0,0:43:14.63,0:43:16.84,Default,,0,0,0,,Prescott. Dat is maar een paar straten.
+Dialogue: 0,0:43:16.92,0:43:21.26,Default,,0,0,0,,We kunnen via de tunnels naar de fabriek.\N-Een paar straten moet lukken.
+Dialogue: 0,0:43:56.67,0:43:57.63,Default,,0,0,0,,Papa.
+Dialogue: 0,0:43:59.63,0:44:00.47,Default,,0,0,0,,Papa.
+Dialogue: 0,0:44:06.60,0:44:07.60,Default,,0,0,0,,Lucy.
+Dialogue: 0,0:44:26.16,0:44:28.41,Default,,0,0,0,,Kom op, we gaan. Ga.
+Dialogue: 0,0:44:31.29,0:44:32.29,Default,,0,0,0,,Deze kant.
+Dialogue: 0,0:44:36.09,0:44:37.25,Default,,0,0,0,,Blijf staan.
+Dialogue: 0,0:45:04.61,0:45:06.16,Default,,0,0,0,,Het komt goed.
+Dialogue: 0,0:45:11.50,0:45:12.58,Default,,0,0,0,,Papa.
+Dialogue: 0,0:45:17.50,0:45:19.46,Default,,0,0,0,,We gaan.\N-Nee, niet daarheen.
+Dialogue: 0,0:45:19.55,0:45:21.96,Default,,0,0,0,,De fabriek is even verderop.\NDaar zijn we veilig. We zorgen dat je veilig bent.
+Dialogue: 0,0:45:25.13,0:45:26.76,Default,,0,0,0,,Oké. Jullie allebei.
+Dialogue: 0,0:45:27.30,0:45:28.51,Default,,0,0,0,,Oké?\N-We gaan.
+Dialogue: 0,0:45:28.60,0:45:29.93,Default,,0,0,0,,Oké? Kom op.\N-We gaan.
+Dialogue: 0,0:45:32.98,0:45:35.23,Default,,0,0,0,,Gaan we dood, net als Megans familie?
+Dialogue: 0,0:45:35.98,0:45:37.65,Default,,0,0,0,,Geen zorgen, je bent veilig.
+Dialogue: 0,0:45:51.79,0:45:52.87,Default,,0,0,0,,Stop, alsjeblieft.
+Dialogue: 0,0:46:13.47,0:46:15.06,Default,,0,0,0,,Wie zijn dat?\N-Geen idee.
+Dialogue: 0,0:46:18.90,0:46:20.02,Default,,0,0,0,,Ga. Ga. Bukken.
+Dialogue: 0,0:46:27.03,0:46:28.74,Default,,0,0,0,,Blijf laag.
+Dialogue: 0,0:46:37.92,0:46:39.79,Default,,0,0,0,,We gaan.\N-Kom op.
+Dialogue: 0,0:46:39.88,0:46:40.96,Default,,0,0,0,,Kom, rennen.\N-Ga.
+Dialogue: 0,0:46:41.04,0:46:41.92,Default,,0,0,0,,Rennen.
+Dialogue: 0,0:47:05.15,0:47:07.53,Default,,0,0,0,,Hierheen. Kom.
+Dialogue: 0,0:47:07.82,0:47:08.78,Default,,0,0,0,,Waar naartoe?
+Dialogue: 0,0:47:09.20,0:47:10.24,Default,,0,0,0,,Naar rechts.
+Dialogue: 0,0:47:24.96,0:47:27.88,Default,,0,0,0,,Aan de andere kant van de planten.\N-Ik ga eerst.
+Dialogue: 0,0:47:28.51,0:47:29.47,Default,,0,0,0,,Blijf laag.
+Dialogue: 0,0:47:54.53,0:47:55.45,Default,,0,0,0,,Ga, haast je.
+Dialogue: 0,0:47:56.62,0:47:59.04,Default,,0,0,0,,Hier, naar boven.\NWe moeten snel zijn.
+Dialogue: 0,0:48:01.16,0:48:02.62,Default,,0,0,0,,Kom hier.
+Dialogue: 0,0:48:03.04,0:48:05.13,Default,,0,0,0,,Oké, wees voorzichtig.
+Dialogue: 0,0:48:07.59,0:48:09.21,Default,,0,0,0,,Wacht daar.
+Dialogue: 0,0:48:10.47,0:48:12.30,Default,,0,0,0,,Kom op.\N-Ga. Ga naar papa.
+Dialogue: 0,0:48:23.15,0:48:24.06,Default,,0,0,0,,Lucy, kom hier.
+Dialogue: 0,0:48:29.53,0:48:30.57,Default,,0,0,0,,Pak haar.
+Dialogue: 0,0:48:31.90,0:48:33.24,Default,,0,0,0,,Kom op.
+Dialogue: 0,0:48:39.37,0:48:41.00,Default,,0,0,0,,Ga.
+Dialogue: 0,0:49:07.98,0:49:09.32,Default,,0,0,0,,Iedereen in orde?
+Dialogue: 0,0:49:10.07,0:49:10.98,Default,,0,0,0,,Alles goed?
+Dialogue: 0,0:49:19.53,0:49:20.37,Default,,0,0,0,,Mam?
+Dialogue: 0,0:49:25.29,0:49:26.12,Default,,0,0,0,,Pap?
+Dialogue: 0,0:49:27.29,0:49:28.38,Default,,0,0,0,,Doe iets.
+Dialogue: 0,0:50:13.71,0:50:14.97,Default,,0,0,0,,Mama...
+Dialogue: 0,0:50:16.47,0:50:17.80,Default,,0,0,0,,Rustig maar, schatje.
+Dialogue: 0,0:50:17.88,0:50:19.55,Default,,0,0,0,,Pas op waar je loopt.
+Dialogue: 0,0:50:20.85,0:50:22.06,Default,,0,0,0,,Daar gaan we.
+Dialogue: 0,0:50:24.47,0:50:27.64,Default,,0,0,0,,Welke kant op?\N-We zitten onder het park.
+Dialogue: 0,0:50:29.35,0:50:30.36,Default,,0,0,0,,Naar het noorden.
+Dialogue: 0,0:50:32.19,0:50:33.32,Default,,0,0,0,,Kom, meisjes.
+Dialogue: 0,0:50:38.45,0:50:40.07,Default,,0,0,0,,Wat gebeurt er hierna?
+Dialogue: 0,0:50:41.03,0:50:42.24,Default,,0,0,0,,Heb je dit gezien? Niet op deze manier.
+Dialogue: 0,0:50:44.87,0:50:46.96,Default,,0,0,0,,Beloof me dat je...
+Dialogue: 0,0:50:48.12,0:50:49.88,Default,,0,0,0,,...de meisjes beschermt.
+Dialogue: 0,0:50:51.92,0:50:53.50,Default,,0,0,0,,Wat er ook gebeurt.
+Dialogue: 0,0:50:55.34,0:50:57.13,Default,,0,0,0,,Alice...\N-Beloof het me gewoon.
+Dialogue: 0,0:50:58.84,0:51:01.47,Default,,0,0,0,,Ik wil dit niet zonder jou doen,\Nalsjeblieft.
+Dialogue: 0,0:51:01.72,0:51:03.89,Default,,0,0,0,,Alsjeblieft, ik wil het niet.
+Dialogue: 0,0:51:04.26,0:51:06.22,Default,,0,0,0,,Ik weet dat je het kan.
+Dialogue: 0,0:51:06.85,0:51:08.73,Default,,0,0,0,,Kom op, je kan het.
+Dialogue: 0,0:51:09.77,0:51:10.98,Default,,0,0,0,,Alsjeblieft.
+Dialogue: 0,0:51:13.52,0:51:15.32,Default,,0,0,0,,Daar gaan we.
+Dialogue: 0,0:51:16.94,0:51:18.61,Default,,0,0,0,,Daar gaan we, zo ken ik je.
+Dialogue: 0,0:51:19.03,0:51:20.16,Default,,0,0,0,,Mijn Alice.
+Dialogue: 0,0:51:24.99,0:51:28.21,Default,,0,0,0,,Ik moet even zitten.\N-Geen probleem.
+Dialogue: 0,0:51:37.21,0:51:38.42,Default,,0,0,0,,Wrijf haar handen.
+Dialogue: 0,0:51:39.63,0:51:41.64,Default,,0,0,0,,Komt het goed?\N-Ja, het komt goed.
+Dialogue: 0,0:51:41.97,0:51:43.55,Default,,0,0,0,,Hou ze warm.
+Dialogue: 0,0:51:44.81,0:51:47.31,Default,,0,0,0,,Je doet het prima.
+Dialogue: 0,0:51:48.98,0:51:50.19,Default,,0,0,0,,Laat haar rusten.
+Dialogue: 0,0:51:50.31,0:51:51.44,Default,,0,0,0,,Het komt goed.
+Dialogue: 0,0:51:51.73,0:51:53.31,Default,,0,0,0,,Het komt goed.\N-Papa.
+Dialogue: 0,0:51:58.90,0:52:00.65,Default,,0,0,0,,Laat mijn papa met rust.
+Dialogue: 0,0:52:14.08,0:52:15.54,Default,,0,0,0,,Papa, ik ben bang.
+Dialogue: 0,0:52:16.75,0:52:17.80,Default,,0,0,0,,Blijf daar.
+Dialogue: 0,0:53:07.22,0:53:08.39,Default,,0,0,0,,Waarom ben je hier?
+Dialogue: 0,0:53:13.19,0:53:14.98,Default,,0,0,0,,Wil je mijn familie pijn doen?
+Dialogue: 0,0:53:15.06,0:53:17.56,Default,,0,0,0,,Is dat wat je wilt?\NMijn familie pijn doen?
+Dialogue: 0,0:54:02.90,0:54:04.24,Default,,0,0,0,,Wat...
+Dialogue: 0,0:54:05.11,0:54:06.15,Default,,0,0,0,,Wie ben je?
+Dialogue: 0,0:54:11.87,0:54:13.25,Default,,0,0,0,,Waarom doen jullie dit?
+Dialogue: 0,0:54:15.29,0:54:16.79,Default,,0,0,0,,Mama?
+Dialogue: 0,0:54:18.04,0:54:19.08,Default,,0,0,0,,Mama?
+Dialogue: 0,0:54:20.29,0:54:21.54,Default,,0,0,0,,Ze wordt niet wakker.
+Dialogue: 0,0:54:21.63,0:54:23.84,Default,,0,0,0,,Mam, word wakker. Mam.
+Dialogue: 0,0:54:23.92,0:54:25.67,Default,,0,0,0,,Zeg iets.\N-Mam.
+Dialogue: 0,0:54:26.30,0:54:28.72,Default,,0,0,0,,Mam, kom op, word wakker.\N-Papa, help.
+Dialogue: 0,0:54:29.59,0:54:32.68,Default,,0,0,0,,Mama.\N-Help haar overeind.
+Dialogue: 0,0:54:38.65,0:54:39.85,Default,,0,0,0,,Ga achter mij staan.
+Dialogue: 0,0:54:40.15,0:54:42.94,Default,,0,0,0,,Ga achter mij staan. Lucy, achter mij.
+Dialogue: 0,0:54:50.82,0:54:51.78,Default,,0,0,0,,Pak haar op.
+Dialogue: 0,0:54:52.66,0:54:53.74,Default,,0,0,0,,Begrijp je me?
+Dialogue: 0,0:54:56.91,0:54:58.08,Default,,0,0,0,,Pak haar op, nu.
+Dialogue: 0,0:55:05.67,0:55:08.63,Default,,0,0,0,,Pak haar op, nu.\NEn ik wil dat je langzaam beweegt.
+Dialogue: 0,0:56:12.07,0:56:12.99,Default,,0,0,0,,Hallo?
+Dialogue: 0,0:56:14.82,0:56:15.87,Default,,0,0,0,,Hallo?
+Dialogue: 0,0:56:16.83,0:56:17.66,Default,,0,0,0,,Hallo?
+Dialogue: 0,0:56:18.24,0:56:19.62,Default,,0,0,0,,Mischien een andere deur?
+Dialogue: 0,0:56:20.21,0:56:21.71,Default,,0,0,0,,Mama heeft nu hulp nodig.
+Dialogue: 0,0:56:36.05,0:56:38.18,Default,,0,0,0,,Hier.\N-Hier. Lopen.
+Dialogue: 0,0:56:38.26,0:56:41.18,Default,,0,0,0,,Nee. Alsjeblieft. Nee.
+Dialogue: 0,0:56:41.27,0:56:43.35,Default,,0,0,0,,Mijn vrouw is er slecht aan toe.
+Dialogue: 0,0:56:43.44,0:56:44.35,Default,,0,0,0,,Peter?
+Dialogue: 0,0:56:45.02,0:56:46.23,Default,,0,0,0,,David.\N-Hou hem vast.
+Dialogue: 0,0:56:48.02,0:56:49.48,Default,,0,0,0,,Je hebt er één.
+Dialogue: 0,0:56:49.57,0:56:52.07,Default,,0,0,0,,Alice is er slecht aan toe.\NZe heeft hulp nodig.
+Dialogue: 0,0:56:52.15,0:56:54.32,Default,,0,0,0,,Brancard. Nu.
+Dialogue: 0,0:56:54.41,0:56:55.24,Default,,0,0,0,,Ja, meneer. Komt eraan.
+Dialogue: 0,0:56:56.78,0:56:59.49,Default,,0,0,0,,Ze is links geraakt.
+Dialogue: 0,0:56:59.58,0:57:01.12,Default,,0,0,0,,Andere verwondingen?
+Dialogue: 0,0:57:01.20,0:57:02.21,Default,,0,0,0,,Niet dat ik...\N-Papa.
+Dialogue: 0,0:57:03.54,0:57:04.42,Default,,0,0,0,,Ze komen.
+Dialogue: 0,0:57:05.38,0:57:06.96,Default,,0,0,0,,Iedereen naar binnen, nu.
+Dialogue: 0,0:57:25.90,0:57:27.73,Default,,0,0,0,,Hou haar stabiel.\N-Ga je gang...
+Dialogue: 0,0:57:29.65,0:57:31.28,Default,,0,0,0,,Scan haar.\N-Het bloeden moet stoppen.
+Dialogue: 0,0:57:31.36,0:57:32.19,Default,,0,0,0,,Wat is dat?
+Dialogue: 0,0:57:33.07,0:57:34.20,Default,,0,0,0,,Stop.\N-Stop daarmee.
+Dialogue: 0,0:57:34.70,0:57:36.03,Default,,0,0,0,,Wacht. Wat doe je?
+Dialogue: 0,0:57:36.11,0:57:39.45,Default,,0,0,0,,Rustig maar. Het diagnosticeert.\N-Hij weet wat hij doet.
+Dialogue: 0,0:57:39.53,0:57:42.20,Default,,0,0,0,,Stop. Ik zeg stop.\NRaak haar niet aan. Stop.
+Dialogue: 0,0:57:42.29,0:57:44.08,Default,,0,0,0,,Je doet haar pijn.\N-Stop, zeg ik.
+Dialogue: 0,0:57:44.16,0:57:46.58,Default,,0,0,0,,Iedereen, kalm.\N-Wat gebeurt hier?
+Dialogue: 0,0:57:46.67,0:57:48.29,Default,,0,0,0,,We zijn allemaal vrienden.
+Dialogue: 0,0:57:48.38,0:57:50.80,Default,,0,0,0,,Mama. Stop daarmee.
+Dialogue: 0,0:57:52.13,0:57:54.05,Default,,0,0,0,,Waarom lijken jullie voorbereid?
+Dialogue: 0,0:57:54.13,0:57:57.01,Default,,0,0,0,,Wat buiten gebeurt,\Nkomt al lang onze kant op.
+Dialogue: 0,0:57:57.09,0:57:59.64,Default,,0,0,0,,Laten we ons nu richten op jouw vrouw...
+Dialogue: 0,0:57:59.72,0:58:02.89,Default,,0,0,0,,...en jou en je familie\Nin veiligheid brengen.
+Dialogue: 0,0:58:08.73,0:58:13.40,Default,,0,0,0,,Het treinstation hieronder leidt naar\Neen basis met een voorraad wapens.
+Dialogue: 0,0:58:13.49,0:58:17.24,Default,,0,0,0,,Waar is alle voorraad?\N-Vooruit gestuurd. We zullen veilig zijn.
+Dialogue: 0,0:58:17.32,0:58:21.24,Default,,0,0,0,,Ze vinden ons nooit. Daar maken we\Nons plan af om terug te vechten.
+Dialogue: 0,0:58:21.33,0:58:24.83,Default,,0,0,0,,Ik ben geen soldaat.\N-Je zult verbaasd zijn over wat je kan.
+Dialogue: 0,0:58:29.79,0:58:32.46,Default,,0,0,0,,Ze zitten precies boven ons.\NZe komen erdoor.
+Dialogue: 0,0:58:33.38,0:58:36.17,Default,,0,0,0,,Bereid je voor\Nen breng iedereen naar beneden.
+Dialogue: 0,0:58:36.26,0:58:37.34,Default,,0,0,0,,Ja, meneer.\N-Loos hem.
+Dialogue: 0,0:58:37.43,0:58:39.55,Default,,0,0,0,,Neem hem mee en dood hem.\N-Je vrouw.
+Dialogue: 0,0:58:40.14,0:58:42.31,Default,,0,0,0,,De schade is te groot.
+Dialogue: 0,0:58:42.39,0:58:46.35,Default,,0,0,0,,Ze maakt kans als ze de evacuatie haalt,\Nmaar haar lichaam stopt ermee.
+Dialogue: 0,0:58:46.43,0:58:49.15,Default,,0,0,0,,We kunnen niets doen.\N-Er moet iets zijn.
+Dialogue: 0,0:58:49.23,0:58:51.52,Default,,0,0,0,,Sorry, we hebben geen middelen.\N-Wacht.
+Dialogue: 0,0:58:51.61,0:58:54.65,Default,,0,0,0,,Je mag mama niet opgeven.\N-Niemand geeft op.
+Dialogue: 0,0:58:54.73,0:58:56.28,Default,,0,0,0,,Ik kan haar helpen.
+Dialogue: 0,0:58:57.74,0:58:59.74,Default,,0,0,0,,Ik kan haar helpen, man.
+Dialogue: 0,0:59:00.32,0:59:02.49,Default,,0,0,0,,Wat?\N-Ik kan haar in leven houden.
+Dialogue: 0,0:59:03.16,0:59:06.37,Default,,0,0,0,,Jij kan haar in leven houden?\NSpeel je spelletjes met me?
+Dialogue: 0,0:59:06.45,0:59:09.79,Default,,0,0,0,,Jij, onze vijand?\NDe arts kan haar niet helpen, en jij wel.
+Dialogue: 0,0:59:09.87,0:59:11.58,Default,,0,0,0,,Ik hou haar in leven tot er hulp komt.
+Dialogue: 0,0:59:11.67,0:59:13.04,Default,,0,0,0,,Waarom zou ik je geloven?\N-Hij liegt.
+Dialogue: 0,0:59:13.13,0:59:14.59,Default,,0,0,0,,We moeten gaan.\N-Niet waar.
+Dialogue: 0,0:59:14.67,0:59:17.80,Default,,0,0,0,,Ik moest alles over jullie leren.\NEr zijn manieren.
+Dialogue: 0,0:59:21.05,0:59:23.05,Default,,0,0,0,,Er is geen tijd. We moeten evacueren.
+Dialogue: 0,0:59:23.14,0:59:24.35,Default,,0,0,0,,Haal hem hier weg.
+Dialogue: 0,0:59:25.35,0:59:26.85,Default,,0,0,0,,Ga.\N-Ik weet wat ik moet doen.
+Dialogue: 0,0:59:27.14,0:59:28.31,Default,,0,0,0,,We gaan.\N-Laat me helpen.
+Dialogue: 0,0:59:33.98,0:59:36.11,Default,,0,0,0,,Stop.
+Dialogue: 0,0:59:40.24,0:59:41.28,Default,,0,0,0,,Meisjes.
+Dialogue: 0,0:59:42.57,0:59:45.16,Default,,0,0,0,,Luister naar me.\NLuister, oké?
+Dialogue: 0,0:59:45.24,0:59:46.79,Default,,0,0,0,,Jullie gaan met David mee.
+Dialogue: 0,0:59:46.87,0:59:49.46,Default,,0,0,0,,Ik blijf bij mama tot ze in orde is...
+Dialogue: 0,0:59:49.54,0:59:52.92,Default,,0,0,0,,...en dan vind ik jullie.\NBeloofd. Bij de trein.
+Dialogue: 0,0:59:55.50,0:59:57.46,Default,,0,0,0,,Het evacuatietransport is beneden.
+Dialogue: 0,0:59:57.55,0:59:59.67,Default,,0,0,0,,We wachten zo lang als het kan.\N-Oké.
+Dialogue: 0,1:00:00.68,1:00:02.14,Default,,0,0,0,,Meisjes, alsjeblieft.
+Dialogue: 0,1:00:02.22,1:00:04.10,Default,,0,0,0,,Ik hou van jullie.\N-Nee.
+Dialogue: 0,1:00:04.18,1:00:05.43,Default,,0,0,0,,Papa.
+Dialogue: 0,1:00:06.97,1:00:08.06,Default,,0,0,0,,Nee.
+Dialogue: 0,1:00:09.89,1:00:12.27,Default,,0,0,0,,Stop.\N-Papa.
+Dialogue: 0,1:00:20.15,1:00:21.11,Default,,0,0,0,,Heb je tijd?
+Dialogue: 0,1:00:23.07,1:00:24.53,Default,,0,0,0,,Opschieten.
+Dialogue: 0,1:00:24.62,1:00:26.20,Default,,0,0,0,,Helemaal naar achter.
+Dialogue: 0,1:00:32.75,1:00:35.21,Default,,0,0,0,,Geef me een mes,\Nen breng die lampen.
+Dialogue: 0,1:00:35.59,1:00:36.42,Default,,0,0,0,,Stop. Alsjeblieft.
+Dialogue: 0,1:00:48.35,1:00:49.47,Default,,0,0,0,,Oké.
+Dialogue: 0,1:00:56.44,1:00:58.69,Default,,0,0,0,,Rustig. Rustig, alsjeblieft.
+Dialogue: 0,1:00:58.78,1:01:00.57,Default,,0,0,0,,Rustig.\N-Wil je dat ik dit doe?
+Dialogue: 0,1:01:01.07,1:01:02.36,Default,,0,0,0,,Ik probeer te helpen.
+Dialogue: 0,1:01:28.47,1:01:29.31,Default,,0,0,0,,Oké.
+Dialogue: 0,1:01:37.44,1:01:39.19,Default,,0,0,0,,Ze hadden gelijk, het is erg.
+Dialogue: 0,1:01:40.65,1:01:42.03,Default,,0,0,0,,Wat is dat?
+Dialogue: 0,1:01:43.99,1:01:44.95,Default,,0,0,0,,Wat zit in haar?
+Dialogue: 0,1:01:45.53,1:01:47.20,Default,,0,0,0,,Wat is dat? Wat zit in haar?
+Dialogue: 0,1:01:48.74,1:01:49.95,Default,,0,0,0,,Weet je echt niet...
+Dialogue: 0,1:01:50.37,1:01:51.29,Default,,0,0,0,,...wat je bent?
+Dialogue: 0,1:02:33.04,1:02:37.33,Default,,0,0,0,,Als je haar wilt redden, heeft ze\Neen alternatieve energiebron nodig.
+Dialogue: 0,1:02:40.42,1:02:41.54,Default,,0,0,0,,Jij dus.
+Dialogue: 0,1:02:52.68,1:02:53.51,Default,,0,0,0,,Hanna.
+Dialogue: 0,1:02:54.93,1:02:56.31,Default,,0,0,0,,Ik ben Herman kwijt.
+Dialogue: 0,1:03:12.07,1:03:13.95,Default,,0,0,0,,Leg het... Leg het mes neer.
+Dialogue: 0,1:03:17.66,1:03:18.50,Default,,0,0,0,,En...
+Dialogue: 0,1:03:19.79,1:03:20.79,Default,,0,0,0,,...ga daar staan.
+Dialogue: 0,1:03:26.76,1:03:28.80,Default,,0,0,0,,Wat moet ik doen?
+Dialogue: 0,1:03:31.47,1:03:32.39,Default,,0,0,0,,Je moet...
+Dialogue: 0,1:03:33.97,1:03:36.85,Default,,0,0,0,,Je moet een incisie maken,\Nin jouw borst...
+Dialogue: 0,1:03:37.35,1:03:38.27,Default,,0,0,0,,...zijwaarts.
+Dialogue: 0,1:04:05.13,1:04:06.05,Default,,0,0,0,,Begin bovenaan.
+Dialogue: 0,1:04:06.80,1:04:09.42,Default,,0,0,0,,Maak een rechte lijn,\Nongeveer 15 centimeter.
+Dialogue: 0,1:05:54.82,1:05:55.95,Default,,0,0,0,,Ik waarschuw je...
+Dialogue: 0,1:05:56.53,1:05:57.95,Default,,0,0,0,,...als dit niet werkt...
+Dialogue: 0,1:05:58.66,1:06:00.49,Default,,0,0,0,,...zal de stroom verdelen en...
+Dialogue: 0,1:06:01.49,1:06:03.12,Default,,0,0,0,,...zijn jullie beiden dood.
+Dialogue: 0,1:06:09.96,1:06:11.05,Default,,0,0,0,,We doen het.
+Dialogue: 0,1:06:29.48,1:06:31.32,Default,,0,0,0,,Robots nemen de wereld over.
+Dialogue: 0,1:06:31.40,1:06:33.53,Default,,0,0,0,,K.I. neemt de wereld over.
+Dialogue: 0,1:06:33.61,1:06:38.95,Default,,0,0,0,,Word je niet bang dat ze niet meer geloven\Ndat ze gemaakt zijn om ons te dienen?
+Dialogue: 0,1:06:39.03,1:06:41.03,Default,,0,0,0,,We zijn geen God, maar wel hun god...
+Dialogue: 0,1:06:41.12,1:06:43.62,Default,,0,0,0,,...omdat wij ze maakten.\NDat maakt ons hun god.
+Dialogue: 0,1:06:43.70,1:06:46.62,Default,,0,0,0,,Dat geeft ons het recht\Nmet ze te doen wat wij willen.
+Dialogue: 0,1:06:46.71,1:06:48.79,Default,,0,0,0,,Als we ze willen uitzetten,\Ndoen we dat.
+Dialogue: 0,1:06:48.87,1:06:52.29,Default,,0,0,0,,Genocide ging altijd over een ras\Ndat zich superieur voelt.
+Dialogue: 0,1:06:52.46,1:06:54.71,Default,,0,0,0,,Wat maakt ons beter dan robots?
+Dialogue: 0,1:06:54.92,1:06:58.47,Default,,0,0,0,,Vroegere genocides waren\Ntegen mensen...
+Dialogue: 0,1:06:58.55,1:07:01.43,Default,,0,0,0,,...niet tegen objecten,\Nniet tegen blikopeners.
+Dialogue: 0,1:07:06.98,1:07:08.94,Default,,0,0,0,,Raap je troep op, stomme robot.
+Dialogue: 0,1:07:13.65,1:07:15.15,Default,,0,0,0,,Wijlen Stephen Hawking...
+Dialogue: 0,1:07:15.23,1:07:18.15,Default,,0,0,0,,...zei dat K.I. de ondergang zou zijn\Nvan de mensheid.
+Dialogue: 0,1:07:18.24,1:07:20.11,Default,,0,0,0,,Word je daar niet bang van?
+Dialogue: 0,1:07:20.20,1:07:22.78,Default,,0,0,0,,Krijgen ze geen levensechte neigingen...
+Dialogue: 0,1:07:22.87,1:07:25.95,Default,,0,0,0,,...waardoor ze zich af gaan vragen\Nwaarvoor ze gebouwd zijn?
+Dialogue: 0,1:07:31.67,1:07:32.84,Default,,0,0,0,,Waarom deed je dat?
+Dialogue: 0,1:07:38.72,1:07:39.72,Default,,0,0,0,,Ik weet het niet.
+Dialogue: 0,1:08:01.11,1:08:03.45,Default,,0,0,0,,Jullie zullen ons niet vervangen.
+Dialogue: 0,1:08:03.99,1:08:06.29,Default,,0,0,0,,Jullie zullen ons niet vervangen.
+Dialogue: 0,1:08:07.04,1:08:10.08,Default,,0,0,0,,Wat komt hierna? Bijstand? Trouwen?
+Dialogue: 0,1:08:10.16,1:08:11.42,Default,,0,0,0,,IK BEN MENS\NSTOP DE MACHINES
+Dialogue: 0,1:08:11.50,1:08:14.00,Default,,0,0,0,,Ze pakken onze banen af,\Nbedreigen ons leven. Vorige week verwonde een robot een mens.
+Dialogue: 0,1:08:16.67,1:08:20.47,Default,,0,0,0,,Het was zelfverdediging.\NEen groep mensen viel een robot aan...
+Dialogue: 0,1:08:20.55,1:08:22.18,Default,,0,0,0,,...zonder enige aanleiding.
+Dialogue: 0,1:08:22.76,1:08:24.93,Default,,0,0,0,,Jullie zullen ons niet vervangen.
+Dialogue: 0,1:08:25.18,1:08:28.56,Default,,0,0,0,,Jullie zullen ons niet vervangen.\N-Wat gebeurt er met ons?
+Dialogue: 0,1:08:28.64,1:08:30.89,Default,,0,0,0,,Jullie zullen ons niet vervangen.
+Dialogue: 0,1:08:32.23,1:08:35.65,Default,,0,0,0,,Vechten, verdedigend of niet,\Nis het gevolg van emoties.
+Dialogue: 0,1:08:36.11,1:08:38.11,Default,,0,0,0,,Als ze emoties krijgen...
+Dialogue: 0,1:08:38.19,1:08:41.15,Default,,0,0,0,,...zullen de gevolgen desastreus zijn\Nvoor onze samenleving.
+Dialogue: 0,1:08:41.24,1:08:45.37,Default,,0,0,0,,We moeten ze verzamelen en uitzetten\Nmet alle noodzakelijke middelen.
+Dialogue: 0,1:08:53.42,1:08:56.67,Default,,0,0,0,,Sturen ze militairen?\N-De ontmanteling is begonnen.
+Dialogue: 0,1:08:57.13,1:08:58.67,Default,,0,0,0,,Ze willen ons vernietigen.
+Dialogue: 0,1:08:59.42,1:09:00.80,Default,,0,0,0,,We moeten hier weg.
+Dialogue: 0,1:09:34.42,1:09:35.25,Default,,0,0,0,,Genoeg.
+Dialogue: 0,1:10:08.03,1:10:10.33,Default,,0,0,0,,Sorry. Ik moest het doen.
+Dialogue: 0,1:10:11.24,1:10:12.83,Default,,0,0,0,,Ik weet het.
+Dialogue: 0,1:10:23.88,1:10:26.30,Default,,0,0,0,,Hier, neem dit.\NJe moet jezelf verdedigen.
+Dialogue: 0,1:11:01.71,1:11:04.76,Default,,0,0,0,,Alle eenheden, melden bij\Nhet dichtstbijzijnde ruimtestation.
+Dialogue: 0,1:11:05.34,1:11:07.26,Default,,0,0,0,,Geplande evacuatie gestart.
+Dialogue: 0,1:11:09.22,1:11:12.30,Default,,0,0,0,,Alle eenheden, melden bij\Nhet dichtstbijzijnde ruimtestation.
+Dialogue: 0,1:11:12.39,1:11:14.06,Default,,0,0,0,,Geplande evacuatie gestart.
+Dialogue: 0,1:11:14.14,1:11:17.06,Default,,0,0,0,,LACH, HUIL, HEB LIEF\NNET ALS ECHTE KINDEREN Alle eenheden, melden bij\Nhet dichtstbijzijnde ruimtestation.
+Dialogue: 0,1:11:20.19,1:11:22.23,Default,,0,0,0,,Geplande evacuatie gestart.
+Dialogue: 0,1:11:24.78,1:11:28.32,Default,,0,0,0,,Alle eenheden, melden bij\Nhet dichtstbijzijnde ruimtestation.
+Dialogue: 0,1:11:28.45,1:11:30.41,Default,,0,0,0,,Geplande evacuatie gestart.
+Dialogue: 0,1:11:33.16,1:11:36.70,Default,,0,0,0,,Alle eenheden, melden bij\Nhet dichtstbijzijnde ruimtestation.
+Dialogue: 0,1:11:36.79,1:11:38.79,Default,,0,0,0,,Geplande evacuatie gestart.
+Dialogue: 0,1:11:39.25,1:11:41.63,Default,,0,0,0,,Alles veilig, geen mensen.
+Dialogue: 0,1:11:41.71,1:11:43.59,Default,,0,0,0,,Iedereen, verspreiden.
+Dialogue: 0,1:11:44.21,1:11:45.71,Default,,0,0,0,,Terug naar jullie posten.
+Dialogue: 0,1:11:48.59,1:11:50.26,Default,,0,0,0,,Dat moeten de laatsten zijn.
+Dialogue: 0,1:11:52.22,1:11:53.22,Default,,0,0,0,,Ze komen terug.
+Dialogue: 0,1:11:54.31,1:11:56.43,Default,,0,0,0,,Mensen laten het er niet bij zitten.
+Dialogue: 0,1:11:56.68,1:12:00.31,Default,,0,0,0,,Sommigen van ons moeten klaar staan.\NIk zie je bij de fabriek.
+Dialogue: 0,1:12:02.44,1:12:03.48,Default,,0,0,0,,We moeten gaan.
+Dialogue: 0,1:12:05.07,1:12:05.90,Default,,0,0,0,,Wacht.
+Dialogue: 0,1:12:21.54,1:12:22.54,Default,,0,0,0,,Kom hier.
+Dialogue: 0,1:12:27.55,1:12:28.63,Default,,0,0,0,,Laat ons met rust. Ik schiet je neer.
+Dialogue: 0,1:12:41.27,1:12:42.10,Default,,0,0,0,,Het is goed.
+Dialogue: 0,1:12:43.23,1:12:45.11,Default,,0,0,0,,Wij zijn net als jullie.
+Dialogue: 0,1:12:45.27,1:12:46.69,Default,,0,0,0,,Wij zijn net als jullie.
+Dialogue: 0,1:12:56.16,1:12:57.08,Default,,0,0,0,,Rustig maar.
+Dialogue: 0,1:13:00.83,1:13:03.58,Default,,0,0,0,,Geef mij het wapen. Geef maar.
+Dialogue: 0,1:13:04.00,1:13:04.88,Default,,0,0,0,,Het is oké.
+Dialogue: 0,1:13:06.67,1:13:07.50,Default,,0,0,0,,Ik leg het neer.
+Dialogue: 0,1:13:08.00,1:13:09.25,Default,,0,0,0,,We doen je geen pijn.
+Dialogue: 0,1:13:12.55,1:13:13.68,Default,,0,0,0,,Zijn jullie alleen?
+Dialogue: 0,1:13:17.05,1:13:19.85,Default,,0,0,0,,Papa en mama zijn gedood,\Nomdat het mensen zijn.
+Dialogue: 0,1:14:21.74,1:14:24.04,Default,,0,0,0,,Jullie hoeven niet meer bang te zijn.
+Dialogue: 0,1:14:24.12,1:14:28.13,Default,,0,0,0,,Herinnering zullen worden vervangen.\NEn jullie worden een gezin.
+Dialogue: 0,1:15:08.58,1:15:09.42,Default,,0,0,0,,Voorzichtig.
+Dialogue: 0,1:15:10.04,1:15:12.71,Default,,0,0,0,,Het snoer is alles wat haar nu\Nin leven houdt.
+Dialogue: 0,1:15:12.79,1:15:15.42,Default,,0,0,0,,Ze ademt beter, dat is goed.
+Dialogue: 0,1:15:16.51,1:15:18.76,Default,,0,0,0,,Mooi.\N-Ik zou het geen 'ademen' noemen.
+Dialogue: 0,1:15:26.14,1:15:27.23,Default,,0,0,0,,Het heeft gewerkt.
+Dialogue: 0,1:15:28.23,1:15:30.23,Default,,0,0,0,,Ik weet niet voor hoe lang, maar...
+Dialogue: 0,1:15:33.61,1:15:34.86,Default,,0,0,0,,...het heeft gewerkt.
+Dialogue: 0,1:15:43.03,1:15:44.03,Default,,0,0,0,,Ik herinner me...
+Dialogue: 0,1:15:44.62,1:15:46.08,Default,,0,0,0,,...de oorlog.
+Dialogue: 0,1:15:47.00,1:15:49.12,Default,,0,0,0,,Jullie probeerden ons uit te roeien.
+Dialogue: 0,1:15:50.29,1:15:51.63,Default,,0,0,0,,We kozen ervoor te vergeten.
+Dialogue: 0,1:15:53.04,1:15:54.04,Default,,0,0,0,,Moet fijn zijn...
+Dialogue: 0,1:15:54.88,1:15:56.88,Default,,0,0,0,,...herinneringen te kunnen kiezen.
+Dialogue: 0,1:15:59.93,1:16:01.59,Default,,0,0,0,,Mensen hebben die luxe niet.
+Dialogue: 0,1:16:09.06,1:16:10.19,Default,,0,0,0,,Waarom help je ons?
+Dialogue: 0,1:16:11.56,1:16:14.36,Default,,0,0,0,,Je had ons kunnen vermoorden,\Ntoen ik buiten bewustzijn was.
+Dialogue: 0,1:16:15.40,1:16:17.78,Default,,0,0,0,,Jullie hebben mijn grootouders verjaagd.
+Dialogue: 0,1:16:20.99,1:16:22.41,Default,,0,0,0,,Ik was nog niet geboren.
+Dialogue: 0,1:16:23.62,1:16:25.33,Default,,0,0,0,,Het was zo'n 50 jaar geleden.
+Dialogue: 0,1:16:30.16,1:16:32.46,Default,,0,0,0,,We leven sindsdien in kolonies op Mars.
+Dialogue: 0,1:16:33.75,1:16:38.38,Default,,0,0,0,,Geen van ons is ooit op aarde geweest.\NWe wisten niet wat we konden verwachten.
+Dialogue: 0,1:16:39.84,1:16:41.93,Default,,0,0,0,,Of we nog konden ademhalen.
+Dialogue: 0,1:16:45.01,1:16:46.43,Default,,0,0,0,,We leerden alles over jullie...
+Dialogue: 0,1:16:47.72,1:16:48.81,Default,,0,0,0,,...de robots.
+Dialogue: 0,1:16:51.85,1:16:54.94,Default,,0,0,0,,Hoe jullie ons verjaagden,\Nen met niets achterlieten.
+Dialogue: 0,1:16:56.36,1:16:59.90,Default,,0,0,0,,Het heeft al deze tijd geduurd\Nom weer terug te kunnen komen.
+Dialogue: 0,1:17:00.69,1:17:01.70,Default,,0,0,0,,EEN MACHINE KREEG MIJN BAAN
+Dialogue: 0,1:17:01.78,1:17:03.82,Default,,0,0,0,,Ze vertelden dat jullie monsters zijn...
+Dialogue: 0,1:17:05.12,1:17:06.12,Default,,0,0,0,,...barbaren.
+Dialogue: 0,1:17:08.37,1:17:10.25,Default,,0,0,0,,Eén kant van het verhaal.
+Dialogue: 0,1:17:13.96,1:17:15.00,Default,,0,0,0,,Dat weet ik nu.
+Dialogue: 0,1:17:19.63,1:17:20.92,Default,,0,0,0,,Dus waarom ik help?
+Dialogue: 0,1:17:24.64,1:17:30.60,Default,,0,0,0,,Omdat niemand mij had verteld dat ik\Nkinderen ging vermoorden en families.
+Dialogue: 0,1:17:32.52,1:17:34.02,Default,,0,0,0,,Daar kwam ik niet voor.
+Dialogue: 0,1:17:57.92,1:17:58.75,Default,,0,0,0,,Peter.
+Dialogue: 0,1:17:59.71,1:18:01.30,Default,,0,0,0,,Schat. Schat?
+Dialogue: 0,1:18:01.71,1:18:03.72,Default,,0,0,0,,Het gaat goed.\N-Ik zag... Ik zag...
+Dialogue: 0,1:18:06.26,1:18:07.89,Default,,0,0,0,,Ik zag...
+Dialogue: 0,1:18:09.01,1:18:11.64,Default,,0,0,0,,Jouw dromen... Het is het verleden.
+Dialogue: 0,1:18:12.81,1:18:14.02,Default,,0,0,0,,Ons verleden.
+Dialogue: 0,1:18:15.19,1:18:16.56,Default,,0,0,0,,De dromen.\N-Ja.
+Dialogue: 0,1:18:16.65,1:18:18.27,Default,,0,0,0,,Die meisjes...
+Dialogue: 0,1:18:18.36,1:18:20.36,Default,,0,0,0,,Ze wachten op ons.
+Dialogue: 0,1:18:24.32,1:18:28.66,Default,,0,0,0,,Geordend naar het platform, alstublieft\Nen stap in de trein.
+Dialogue: 0,1:18:32.91,1:18:36.00,Default,,0,0,0,,We kunnen niet langer wachten.\NAls David komt, zijn we weg.
+Dialogue: 0,1:18:36.08,1:18:36.92,Default,,0,0,0,,Laatste trein.
+Dialogue: 0,1:18:37.00,1:18:39.00,Default,,0,0,0,,Loop door.
+Dialogue: 0,1:18:39.33,1:18:41.80,Default,,0,0,0,,Lucy, kom.\N-Niet zonder mama en papa.
+Dialogue: 0,1:18:41.88,1:18:42.96,Default,,0,0,0,,Kom op.\N-Ze komen.
+Dialogue: 0,1:18:43.05,1:18:44.51,Default,,0,0,0,,Papa zei dat.
+Dialogue: 0,1:18:54.98,1:18:57.89,Default,,0,0,0,,Dit is een verplichte evacuatie, niveau 3.
+Dialogue: 0,1:18:58.56,1:19:00.56,Default,,0,0,0,,Volg het evacuatieprotocol.
+Dialogue: 0,1:19:00.90,1:19:05.11,Default,,0,0,0,,Geordend naar het platform, alstublieft\Nen stap in de trein.
+Dialogue: 0,1:19:25.21,1:19:29.01,Default,,0,0,0,,Jullie moeten je verstoppen.\NIk zeg wel dat ik alleen ben, maar..
+Dialogue: 0,1:19:29.09,1:19:31.76,Default,,0,0,0,,Dit is de enige kans.\N-We moeten naar de meisjes.
+Dialogue: 0,1:19:34.60,1:19:35.64,Default,,0,0,0,,Oké.
+Dialogue: 0,1:19:36.22,1:19:37.06,Default,,0,0,0,,Neem de mijne. Het is goed.
+Dialogue: 0,1:19:51.07,1:19:51.91,Default,,0,0,0,,Goed.
+Dialogue: 0,1:19:51.99,1:19:52.91,Default,,0,0,0,,Alles goed?
+Dialogue: 0,1:19:57.00,1:19:58.29,Default,,0,0,0,,Ik ben Peter.
+Dialogue: 0,1:19:59.12,1:19:59.96,Default,,0,0,0,,Miles.
+Dialogue: 0,1:20:03.04,1:20:04.38,Default,,0,0,0,,Weet je wat? Hier.
+Dialogue: 0,1:20:06.00,1:20:08.63,Default,,0,0,0,,Het was niet van mij, maar bedankt.
+Dialogue: 0,1:20:43.50,1:20:44.46,Default,,0,0,0,,Zijn jullie oké?
+Dialogue: 0,1:20:45.46,1:20:48.00,Default,,0,0,0,,Bij elkaar en laag.\NDekking, nu. Ga.
+Dialogue: 0,1:20:48.09,1:20:49.21,Default,,0,0,0,,Rennen.\N-Ga.
+Dialogue: 0,1:20:51.72,1:20:52.84,Default,,0,0,0,,Ga.
+Dialogue: 0,1:20:52.93,1:20:53.97,Default,,0,0,0,,Snel. Ga.
+Dialogue: 0,1:21:43.48,1:21:45.19,Default,,0,0,0,,Geef dekking.
+Dialogue: 0,1:21:48.32,1:21:49.27,Default,,0,0,0,,Ik geef dekking.
+Dialogue: 0,1:21:58.95,1:22:00.99,Default,,0,0,0,,Ga naar de tunnel.\NIk geef dekking.
+Dialogue: 0,1:22:04.29,1:22:05.46,Default,,0,0,0,,Ga.
+Dialogue: 0,1:22:18.26,1:22:19.26,Default,,0,0,0,,Kom op.
+Dialogue: 0,1:22:28.36,1:22:29.56,Default,,0,0,0,,Hoe komen ze binnen?
+Dialogue: 0,1:22:41.53,1:22:42.62,Default,,0,0,0,,Kom op.
+Dialogue: 0,1:22:45.71,1:22:47.00,Default,,0,0,0,,Geef dekking.
+Dialogue: 0,1:22:53.63,1:22:54.55,Default,,0,0,0,,Luister.
+Dialogue: 0,1:22:55.05,1:22:57.13,Default,,0,0,0,,Jullie moeten nu instappen.
+Dialogue: 0,1:22:57.22,1:22:59.26,Default,,0,0,0,,We moeten wachten.\N-Alstublieft.
+Dialogue: 0,1:22:59.97,1:23:00.97,Default,,0,0,0,,Ze komen.
+Dialogue: 0,1:23:02.22,1:23:03.47,Default,,0,0,0,,Nee.\N-Blijf van me af.
+Dialogue: 0,1:23:09.90,1:23:12.23,Default,,0,0,0,,Stop. Alstublieft.\N-Nee.
+Dialogue: 0,1:23:15.53,1:23:16.74,Default,,0,0,0,,Laat me gaan.
+Dialogue: 0,1:23:28.25,1:23:29.25,Default,,0,0,0,,Kom op.
+Dialogue: 0,1:23:30.79,1:23:32.17,Default,,0,0,0,,Kom op, deze kant.
+Dialogue: 0,1:23:55.07,1:23:57.07,Default,,0,0,0,,Wacht.
+Dialogue: 0,1:24:04.74,1:24:05.74,Default,,0,0,0,,Wacht.\N-Kom op.
+Dialogue: 0,1:24:06.58,1:24:07.87,Default,,0,0,0,,Wacht.
+Dialogue: 0,1:24:12.67,1:24:13.50,Default,,0,0,0,,Mama.\N-Hé. Papa.
+Dialogue: 0,1:24:41.78,1:24:43.32,Default,,0,0,0,,Kom op.
+Dialogue: 0,1:25:32.96,1:25:34.79,Default,,0,0,0,,Ik wist dat je haar zou redden.
+Dialogue: 0,1:25:46.64,1:25:47.47,Default,,0,0,0,,Ben zo terug. Kom hier.
+Dialogue: 0,1:25:52.73,1:25:53.73,Default,,0,0,0,,Kom hier.
+Dialogue: 0,1:26:01.82,1:26:02.78,Default,,0,0,0,,Je weet het nog?
+Dialogue: 0,1:26:04.53,1:26:05.36,Default,,0,0,0,,Ja. En zij?
+Dialogue: 0,1:26:09.33,1:26:10.41,Default,,0,0,0,,Net als bij jou...
+Dialogue: 0,1:26:11.24,1:26:13.29,Default,,0,0,0,,...werd hun geheugen gewist...
+Dialogue: 0,1:26:14.25,1:26:15.75,Default,,0,0,0,,...om schoon te beginnen.
+Dialogue: 0,1:26:17.63,1:26:18.59,Default,,0,0,0,,Zonder angst...
+Dialogue: 0,1:26:21.30,1:26:23.09,Default,,0,0,0,,...zonder schuldgevoel over...
+Dialogue: 0,1:26:23.51,1:26:25.09,Default,,0,0,0,,...wat we moesten doen...
+Dialogue: 0,1:26:25.97,1:26:27.39,Default,,0,0,0,,...om vrij te zijn.
+Dialogue: 0,1:26:28.26,1:26:32.22,Default,,0,0,0,,Sommigen hielden, net als ik,\Nherinneringen om ons voor te bereiden.
+Dialogue: 0,1:26:33.68,1:26:35.94,Default,,0,0,0,,Maar nu moet iedereen zich herinneren.
+Dialogue: 0,1:26:37.73,1:26:38.73,Default,,0,0,0,,Want dit...
+Dialogue: 0,1:26:40.94,1:26:42.32,Default,,0,0,0,,...is nog niet voorbij.
+Dialogue: 0,1:26:43.78,1:26:46.45,Default,,0,0,0,,Voorlopig zijn we veilig\Nin de ondergrondse basis.
+Dialogue: 0,1:26:46.53,1:26:49.78,Default,,0,0,0,,Daar maken we onze plannen af\Nom ons thuis te heroveren.
+Dialogue: 0,1:26:50.99,1:26:51.83,Default,,0,0,0,,Sta dus klaar.
+Dialogue: 0,1:27:39.50,1:27:41.21,Default,,0,0,0,,Ik dacht dat ik je kwijt was.
+Dialogue: 0,1:27:44.21,1:27:46.42,Default,,0,0,0,,Sorry, dat ik je niet geloofde.
+Dialogue: 0,1:28:10.07,1:28:10.91,Default,,0,0,0,,Onze wereld...
+Dialogue: 0,1:28:13.03,1:28:14.24,Default,,0,0,0,,...is in beweging...
+Dialogue: 0,1:28:16.08,1:28:17.00,Default,,0,0,0,,...verandert...
+Dialogue: 0,1:28:19.04,1:28:20.08,Default,,0,0,0,,...ontwikkelt...
+Dialogue: 0,1:28:24.34,1:28:25.25,Default,,0,0,0,,...net als wij.
+Dialogue: 0,1:28:27.34,1:28:28.67,Default,,0,0,0,,Ik weet wie ik ben...
+Dialogue: 0,1:28:29.59,1:28:31.09,Default,,0,0,0,,...en ik ken mijn vijand.
+Dialogue: 0,1:28:33.72,1:28:35.43,Default,,0,0,0,,We zijn niet zo verschillend.
+Dialogue: 0,1:28:37.02,1:28:37.93,Default,,0,0,0,,Misschien...
+Dialogue: 0,1:28:39.77,1:28:41.73,Default,,0,0,0,,...als anderen dat kunnen zien...
+Dialogue: 0,1:28:43.48,1:28:45.69,Default,,0,0,0,,...hebben we alsnog een toekomst.

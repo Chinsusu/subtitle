@@ -1,0 +1,907 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:57.72,0:00:59.85,Default,,0,0,0,,{\i1}Världen slutar aldrig röra på sig...{\i0}
+Dialogue: 0,0:01:00.76,0:01:01.60,Default,,0,0,0,,{\i1}...förändras...{\i0}
+Dialogue: 0,0:01:02.60,0:01:03.48,Default,,0,0,0,,{\i1}...utvecklas...{\i0}
+Dialogue: 0,0:01:05.23,0:01:08.35,Default,,0,0,0,,{\i1}Vi har våra dagliga rutiner...{\i0}
+Dialogue: 0,0:01:11.07,0:01:14.28,Default,,0,0,0,,{\i1}Arbete, hem, familj.{\i0}
+Dialogue: 0,0:01:17.41,0:01:18.45,Default,,0,0,0,,{\i1}Men vilka är vi?{\i0}
+Dialogue: 0,0:01:20.74,0:01:21.62,Default,,0,0,0,,{\i1}Vem är jag?{\i0}
+Dialogue: 0,0:01:25.50,0:01:27.67,Default,,0,0,0,,{\i1}Du tror att du känner din vackra fru...{\i0}
+Dialogue: 0,0:01:29.71,0:01:31.09,Default,,0,0,0,,{\i1}...dina underbara barn...{\i0}
+Dialogue: 0,0:01:35.34,0:01:36.72,Default,,0,0,0,,{\i1}...och den du arbetar för.{\i0}
+Dialogue: 0,0:01:38.38,0:01:40.05,Default,,0,0,0,,{\i1}Men tänk om du inte gör det?{\i0}
+Dialogue: 0,0:01:42.31,0:01:43.35,Default,,0,0,0,,{\i1}Och sanningen...{\i0}
+Dialogue: 0,0:01:45.73,0:01:46.89,Default,,0,0,0,,{\i1}...om du visste den...{\i0}
+Dialogue: 0,0:01:48.77,0:01:50.11,Default,,0,0,0,,{\i1}...skulle förändra allt.{\i0}
+Dialogue: 0,0:02:25.81,0:02:27.06,Default,,0,0,0,,En mardröm igen?
+Dialogue: 0,0:02:28.64,0:02:29.48,Default,,0,0,0,,Ja. Förlåt.
+Dialogue: 0,0:02:32.44,0:02:34.57,Default,,0,0,0,,Snälla, prata med någon.
+Dialogue: 0,0:02:35.40,0:02:38.44,Default,,0,0,0,,Jag oroar mig för dig, flickorna också.
+Dialogue: 0,0:02:41.57,0:02:42.70,Default,,0,0,0,,Jag kan lösa det.
+Dialogue: 0,0:02:47.95,0:02:50.04,Default,,0,0,0,,Vill du höra en läskigare mardröm?
+Dialogue: 0,0:02:51.58,0:02:52.75,Default,,0,0,0,,En gift man
+Dialogue: 0,0:02:52.83,0:02:55.50,Default,,0,0,0,,vägrar hantera sina problem,
+Dialogue: 0,0:02:55.59,0:02:59.72,Default,,0,0,0,,så hans fru blir galen av sömnbrist...
+Dialogue: 0,0:03:00.72,0:03:02.76,Default,,0,0,0,,...och knuffar ut honom genom fönstret.
+Dialogue: 0,0:03:05.47,0:03:06.43,Default,,0,0,0,,Slut.
+Dialogue: 0,0:03:49.85,0:03:52.14,Default,,0,0,0,,{\i1}Jag är en riktig härmapa!{\i0}
+Dialogue: 0,0:03:56.69,0:03:57.90,Default,,0,0,0,,Hej, vad gör du?
+Dialogue: 0,0:03:58.73,0:04:01.36,Default,,0,0,0,,Leker med apan.\NDu kan vara min assistent.
+Dialogue: 0,0:04:01.49,0:04:04.57,Default,,0,0,0,,Får jag vara assistent?\NDet skulle jag gärna vara,
+Dialogue: 0,0:04:04.66,0:04:06.41,Default,,0,0,0,,men jag måste till jobbet.
+Dialogue: 0,0:04:08.33,0:04:09.33,Default,,0,0,0,,Men vet du vad?
+Dialogue: 0,0:04:09.41,0:04:13.75,Default,,0,0,0,,Alla har ju jobbat så hårt\Nden senaste tiden, eller hur?
+Dialogue: 0,0:04:13.83,0:04:15.04,Default,,0,0,0,,Särskilt Herman.
+Dialogue: 0,0:04:15.12,0:04:17.75,Default,,0,0,0,,Särskilt Herman. Det var det jag tänkte.
+Dialogue: 0,0:04:18.34,0:04:21.21,Default,,0,0,0,,Ska jag sluta tidigare,\Nså kan vi gå till piren?
+Dialogue: 0,0:04:22.34,0:04:24.18,Default,,0,0,0,,Måste Hanna följa med?
+Dialogue: 0,0:04:24.26,0:04:26.97,Default,,0,0,0,,-Ja, det måste hon.\N-Din storasyster ska med.
+Dialogue: 0,0:04:27.05,0:04:29.14,Default,,0,0,0,,Men vi ska tvinga henne att ha kul.
+Dialogue: 0,0:04:29.22,0:04:32.14,Default,,0,0,0,,Och annars...\NDu ska få se vad vi ska göra.
+Dialogue: 0,0:04:32.73,0:04:33.94,Default,,0,0,0,,Nej, nej!
+Dialogue: 0,0:04:34.02,0:04:35.81,Default,,0,0,0,,Sluta!
+Dialogue: 0,0:04:36.10,0:04:37.52,Default,,0,0,0,,På tal om det, var är hon?
+Dialogue: 0,0:04:38.11,0:04:39.82,Default,,0,0,0,,Gissa.
+Dialogue: 0,0:04:40.53,0:04:42.40,Default,,0,0,0,,-Hej då, pappa.\N-Hej då, Luce.
+Dialogue: 0,0:04:44.74,0:04:46.78,Default,,0,0,0,,Samantha undrar
+Dialogue: 0,0:04:46.86,0:04:49.91,Default,,0,0,0,,när vi ska ha den där festen\Nför att fira min jobbgrej.
+Dialogue: 0,0:04:50.66,0:04:52.29,Default,,0,0,0,,Just det.
+Dialogue: 0,0:04:52.75,0:04:54.21,Default,,0,0,0,,Vi kan ha den i morgon.
+Dialogue: 0,0:04:54.50,0:04:55.71,Default,,0,0,0,,-Säkert?\N-Ja.
+Dialogue: 0,0:04:55.92,0:04:56.75,Default,,0,0,0,,Okej.
+Dialogue: 0,0:04:56.83,0:04:59.29,Default,,0,0,0,,Jag börjar glömma hur våra vänner ser ut.
+Dialogue: 0,0:05:01.92,0:05:03.26,Default,,0,0,0,,-Älskar dig.\N-Detsamma.
+Dialogue: 0,0:05:06.59,0:05:07.43,Default,,0,0,0,,Piren!
+Dialogue: 0,0:05:11.51,0:05:12.35,Default,,0,0,0,,God morgon. Lobbyn?
+Dialogue: 0,0:05:15.14,0:05:15.98,Default,,0,0,0,,Ja, tack.
+Dialogue: 0,0:05:22.11,0:05:23.44,Default,,0,0,0,,Det är fint väder.
+Dialogue: 0,0:05:24.53,0:05:27.41,Default,,0,0,0,,Inget prat när hissen rör sig, tack.
+Dialogue: 0,0:05:27.49,0:05:28.41,Default,,0,0,0,,Ja, just det.
+Dialogue: 0,0:05:29.12,0:05:30.07,Default,,0,0,0,,Okej.
+Dialogue: 0,0:05:31.53,0:05:33.45,Default,,0,0,0,,Se där, perfekt tajming.
+Dialogue: 0,0:05:33.87,0:05:34.91,Default,,0,0,0,,-Pete.\N-Hej.
+Dialogue: 0,0:05:36.41,0:05:38.00,Default,,0,0,0,,Fröken Hissperson.
+Dialogue: 0,0:05:40.34,0:05:41.63,Default,,0,0,0,,Hur går det på j-o-b-b-e-t?
+Dialogue: 0,0:05:41.79,0:05:43.80,Default,,0,0,0,,Bara en kugge i maskineriet, sir.
+Dialogue: 0,0:05:43.88,0:05:46.30,Default,,0,0,0,,Jag kan ju klaga, men vem skulle lyssna?
+Dialogue: 0,0:05:47.72,0:05:48.97,Default,,0,0,0,,Tack, fröken.
+Dialogue: 0,0:05:49.64,0:05:51.10,Default,,0,0,0,,Mr Wright?
+Dialogue: 0,0:05:51.43,0:05:52.93,Default,,0,0,0,,Kan jag hälsa på Megan senare?
+Dialogue: 0,0:05:53.01,0:05:55.39,Default,,0,0,0,,Absolut. Vi har ett nytt ljudsystem.
+Dialogue: 0,0:05:55.48,0:05:57.10,Default,,0,0,0,,-Dansparty!\N-Superbra!
+Dialogue: 0,0:05:57.19,0:05:59.40,Default,,0,0,0,,Vi har planerat en familjekväll.
+Dialogue: 0,0:05:59.48,0:06:01.31,Default,,0,0,0,,Okej. En annan gång.
+Dialogue: 0,0:06:01.73,0:06:02.86,Default,,0,0,0,,Ha det bra!
+Dialogue: 0,0:06:03.73,0:06:06.78,Default,,0,0,0,,-Vad försöker du göra?\N-Vänta! Nej! Vänta!
+Dialogue: 0,0:06:11.49,0:06:13.49,Default,,0,0,0,,Jag vet att jag har varit trött\Nnågra veckor.
+Dialogue: 0,0:06:13.58,0:06:14.74,Default,,0,0,0,,Veckor?
+Dialogue: 0,0:06:15.87,0:06:16.79,Default,,0,0,0,,Bra förolämpning.
+Dialogue: 0,0:06:17.58,0:06:18.41,Default,,0,0,0,,Tack.
+Dialogue: 0,0:06:20.12,0:06:22.29,Default,,0,0,0,,Kan vi ha familjetid, snälla?
+Dialogue: 0,0:06:22.38,0:06:24.46,Default,,0,0,0,,Jag vill verkligen gottgöra er.
+Dialogue: 0,0:06:25.92,0:06:27.13,Default,,0,0,0,,Vad ska vi göra då?
+Dialogue: 0,0:06:27.72,0:06:28.80,Default,,0,0,0,,Jag vet inte.
+Dialogue: 0,0:06:29.59,0:06:31.97,Default,,0,0,0,,Du får väl åka upp och ta reda på det.
+Dialogue: 0,0:07:33.16,0:07:34.20,Default,,0,0,0,,Fan också!
+Dialogue: 0,0:07:35.07,0:07:35.91,Default,,0,0,0,,Återställ. Oj, då.
+Dialogue: 0,0:07:44.50,0:07:46.34,Default,,0,0,0,,Jag minns inte\Nnär du senast pajade nåt.
+Dialogue: 0,0:07:46.88,0:07:49.21,Default,,0,0,0,,Strömmen delades\Noch kraschade systemen.
+Dialogue: 0,0:07:49.55,0:07:52.51,Default,,0,0,0,,-Sover du bra?\N-Ja. Bättre i alla fall.
+Dialogue: 0,0:07:54.05,0:07:55.22,Default,,0,0,0,,Det är lustigt. Jag...
+Dialogue: 0,0:07:55.47,0:07:59.10,Default,,0,0,0,,...pratade med nån\Noch hörde om en klinik folk går till...
+Dialogue: 0,0:07:59.85,0:08:04.02,Default,,0,0,0,,...för sömnlöshet och stress.\NJag kan fixa numret åt dig.
+Dialogue: 0,0:08:04.77,0:08:07.90,Default,,0,0,0,,-Jag försöker bara...\N-Nej. Det var bara ett misstag.
+Dialogue: 0,0:08:09.11,0:08:10.15,Default,,0,0,0,,Jag fixar det.
+Dialogue: 0,0:08:10.78,0:08:11.94,Default,,0,0,0,,Visst. Jag fattar.
+Dialogue: 0,0:08:13.49,0:08:14.32,Default,,0,0,0,,Okej.
+Dialogue: 0,0:08:15.70,0:08:17.58,Default,,0,0,0,,-Säg till om du behöver nåt.\N-Okej. David?
+Dialogue: 0,0:08:21.12,0:08:24.00,Default,,0,0,0,,Skulle jag kunna... sluta tidigt idag?
+Dialogue: 0,0:08:25.58,0:08:26.83,Default,,0,0,0,,Ringer du stället då?
+Dialogue: 0,0:08:28.17,0:08:29.00,Default,,0,0,0,,Ja.
+Dialogue: 0,0:08:30.38,0:08:31.30,Default,,0,0,0,,Okej.
+Dialogue: 0,0:08:44.73,0:08:47.15,Default,,0,0,0,,Målet är att uppdatera avloppssystemen
+Dialogue: 0,0:08:47.23,0:08:50.15,Default,,0,0,0,,längs Prescott, Calder och Willow.
+Dialogue: 0,0:08:50.53,0:08:53.99,Default,,0,0,0,,Jag tror att om vi fokuserar\Npå tunnlarna under de gatorna
+Dialogue: 0,0:08:54.07,0:08:58.74,Default,,0,0,0,,kan vi minska avrinningen\Npå västra sidan av stan med upp till 30%.
+Dialogue: 0,0:08:59.12,0:09:01.41,Default,,0,0,0,,Tack, allihopa. Det var allt för idag.
+Dialogue: 0,0:09:04.29,0:09:06.71,Default,,0,0,0,,De borde ha uppgraderat för flera år sen.
+Dialogue: 0,0:09:06.79,0:09:08.54,Default,,0,0,0,,Det var jättebra, Al.
+Dialogue: 0,0:09:08.96,0:09:10.80,Default,,0,0,0,,-Tack.\N-Ingen orsak.
+Dialogue: 0,0:09:10.88,0:09:12.55,Default,,0,0,0,,Tur att jag befordrade dig.
+Dialogue: 0,0:09:12.63,0:09:14.55,Default,,0,0,0,,Vill du jobba sent ikväll?
+Dialogue: 0,0:09:14.63,0:09:16.93,Default,,0,0,0,,Prata om hur vi färdigställer\Nmed vatten och el?
+Dialogue: 0,0:09:17.80,0:09:21.18,Default,,0,0,0,,Jag tänkte faktiskt fråga\Nom jag kan sluta tidigare idag.
+Dialogue: 0,0:09:21.76,0:09:23.60,Default,,0,0,0,,-Ja.\N-Tack.
+Dialogue: 0,0:09:25.73,0:09:28.31,Default,,0,0,0,,HELA LIVET HÄLSOCENTER
+Dialogue: 0,0:10:07.06,0:10:10.56,Default,,0,0,0,,{\i1}Om vi ger dem en chans,{\i0}\N{\i1}kan de kanske vara till nytta.{\i0}
+Dialogue: 0,0:10:10.65,0:10:12.90,Default,,0,0,0,,{\i1}De är ändå här för att stanna.{\i0}
+Dialogue: 0,0:10:12.98,0:10:16.94,Default,,0,0,0,,{\i1}Så vi borde överväga möjligheten{\i0}\N{\i1}att ge dem samma rättigheter.{\i0}
+Dialogue: 0,0:10:17.03,0:10:19.07,Default,,0,0,0,,{\i1}Va? De har inga rättigheter.{\i0}
+Dialogue: 0,0:10:19.16,0:10:24.16,Default,,0,0,0,,{\i1}Till slut kommer de att resa sig,{\i0}\N{\i1}ta över och kuva oss.{\i0}
+Dialogue: 0,0:10:24.24,0:10:25.79,Default,,0,0,0,,{\i1}De kommer slå ut mänskligheten.{\i0}
+Dialogue: 0,0:10:25.87,0:10:28.08,Default,,0,0,0,,{\i1}Jag vill inte vara alarmistisk,{\i0}\N{\i1}men det händer.{\i0}
+Dialogue: 0,0:10:28.16,0:10:31.13,Default,,0,0,0,,{\i1}Vi ser att det händer{\i0}\N{\i1}och vi måste göra något nu!{\i0}
+Dialogue: 0,0:10:44.47,0:10:45.43,Default,,0,0,0,,Alice!
+Dialogue: 0,0:11:24.85,0:11:26.93,Default,,0,0,0,,Ser du det där? Ser du ljuset?
+Dialogue: 0,0:11:27.68,0:11:28.60,Default,,0,0,0,,Det där ljuset?
+Dialogue: 0,0:11:47.62,0:11:50.33,Default,,0,0,0,,ANTIKVITETER
+Dialogue: 0,0:12:01.47,0:12:03.34,Default,,0,0,0,,{\i1}Han behövde nog jobba över.{\i0}
+Dialogue: 0,0:12:04.80,0:12:06.89,Default,,0,0,0,,Du behöver inte hitta på ursäkter.
+Dialogue: 0,0:12:09.35,0:12:11.77,Default,,0,0,0,,Du har rätt att vara arg\Npå honom, raring.
+Dialogue: 0,0:12:12.35,0:12:13.52,Default,,0,0,0,,Han borde ha ringt.
+Dialogue: 0,0:12:15.86,0:12:17.52,Default,,0,0,0,,Han älskar dig. Det vet du.
+Dialogue: 0,0:12:18.73,0:12:19.94,Default,,0,0,0,,Ja, jag vet.
+Dialogue: 0,0:12:22.70,0:12:23.82,Default,,0,0,0,,God natt.
+Dialogue: 0,0:12:51.35,0:12:52.64,Default,,0,0,0,,Jag är så ledsen.
+Dialogue: 0,0:12:54.52,0:12:56.23,Default,,0,0,0,,Du hade tid att shoppa.
+Dialogue: 0,0:12:56.31,0:12:58.98,Default,,0,0,0,,-Jag köpte det till flickorna.\N-Säkert.
+Dialogue: 0,0:13:03.24,0:13:04.40,Default,,0,0,0,,Kan du lägga av?
+Dialogue: 0,0:13:04.49,0:13:07.53,Default,,0,0,0,,Lägga av? Vill du ha en paus?\NFrån mig?
+Dialogue: 0,0:13:07.91,0:13:09.91,Default,,0,0,0,,-Eller flickorna?\N-Det är inte det jag menar.
+Dialogue: 0,0:13:09.99,0:13:11.49,Default,,0,0,0,,Men det är det du gör.
+Dialogue: 0,0:13:16.50,0:13:18.33,Default,,0,0,0,,Jag hade en sån där mardröm
+Dialogue: 0,0:13:19.38,0:13:21.30,Default,,0,0,0,,idag... på jobbet.
+Dialogue: 0,0:13:22.34,0:13:24.59,Default,,0,0,0,,Jag svimmade\Noch därför blev jag sen.
+Dialogue: 0,0:13:28.84,0:13:29.72,Default,,0,0,0,,Peter, jag...
+Dialogue: 0,0:13:31.43,0:13:32.97,Default,,0,0,0,,Jag är orolig för dig.
+Dialogue: 0,0:13:33.06,0:13:34.10,Default,,0,0,0,,Jag vet.
+Dialogue: 0,0:13:34.18,0:13:37.19,Default,,0,0,0,,Det är jag och dina döttrar.\NDe är också oroliga.
+Dialogue: 0,0:13:37.27,0:13:38.31,Default,,0,0,0,,Jag...
+Dialogue: 0,0:13:39.27,0:13:41.90,Default,,0,0,0,,...förstår inte\Nvarför du inte söker hjälp.
+Dialogue: 0,0:13:41.98,0:13:43.57,Default,,0,0,0,,De skulle säga att det är mentalt.
+Dialogue: 0,0:13:43.65,0:13:46.36,Default,,0,0,0,,Det är det ju.
+Dialogue: 0,0:13:47.91,0:13:48.82,Default,,0,0,0,,Mamma?
+Dialogue: 0,0:13:53.04,0:13:54.79,Default,,0,0,0,,Varför skrek ni?
+Dialogue: 0,0:13:54.87,0:13:57.58,Default,,0,0,0,,Ingen fara, älskling. Kom. Allt är bra.
+Dialogue: 0,0:14:18.31,0:14:20.15,Default,,0,0,0,,{\i1}Mamma, vakna.{\i0}
+Dialogue: 0,0:14:21.77,0:14:23.65,Default,,0,0,0,,{\i1}Snälla mamma, vakna.{\i0}
+Dialogue: 0,0:14:24.28,0:14:26.61,Default,,0,0,0,,{\i1}Snälla. Snälla.{\i0}
+Dialogue: 0,0:14:27.07,0:14:29.24,Default,,0,0,0,,{\i1}Mamma, vakna.{\i0}
+Dialogue: 0,0:14:32.28,0:14:34.29,Default,,0,0,0,,{\i1}Mamma, snälla, vakna.{\i0}
+Dialogue: 0,0:14:43.63,0:14:44.84,Default,,0,0,0,,{\i1}-Flickor!{\i0}\N{\i1}-Nej, nej!{\i0}
+Dialogue: 0,0:14:44.92,0:14:45.96,Default,,0,0,0,,{\i1}-Stanna!{\i0}\N{\i1}-Flickor!{\i0}
+Dialogue: 0,0:14:46.88,0:14:50.18,Default,,0,0,0,,{\i1}Flickor! Vänta lite, är ni snälla.{\i0}
+Dialogue: 0,0:14:51.34,0:14:53.18,Default,,0,0,0,,{\i1}Har ni sett min portfölj?{\i0}
+Dialogue: 0,0:14:53.26,0:14:54.26,Default,,0,0,0,,{\i1}Nej!{\i0}
+Dialogue: 0,0:14:55.22,0:14:58.64,Default,,0,0,0,,HELA LIVET HÄLSOCENTER
+Dialogue: 0,0:15:01.27,0:15:02.10,Default,,0,0,0,,{\i1}God morgon.{\i0}
+Dialogue: 0,0:15:03.02,0:15:04.23,Default,,0,0,0,,{\i1}Kan vi prata om igår?{\i0}
+Dialogue: 0,0:15:09.32,0:15:10.15,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:15:10.82,0:15:11.70,Default,,0,0,0,,Jag är ledsen.
+Dialogue: 0,0:15:20.83,0:15:22.08,Default,,0,0,0,,Vad är det med Herman?
+Dialogue: 0,0:15:22.83,0:15:25.38,Default,,0,0,0,,-Han pratar inte längre.\N-Jaså?
+Dialogue: 0,0:15:27.76,0:15:29.42,Default,,0,0,0,,Han är kanske arg på dig.
+Dialogue: 0,0:15:33.39,0:15:34.39,Default,,0,0,0,,Ja...
+Dialogue: 0,0:15:35.14,0:15:36.60,Default,,0,0,0,,...det har han rätt att vara.
+Dialogue: 0,0:15:38.60,0:15:41.06,Default,,0,0,0,,Luce, får jag prata med Herman?
+Dialogue: 0,0:15:44.31,0:15:46.98,Default,,0,0,0,,Herman, jag fattar att du är arg
+Dialogue: 0,0:15:48.11,0:15:48.94,Default,,0,0,0,,och...
+Dialogue: 0,0:15:49.74,0:15:51.32,Default,,0,0,0,,...en ursäkt löser inte allt,
+Dialogue: 0,0:15:52.82,0:15:55.24,Default,,0,0,0,,...men jag är ledsen för familjekvällen.
+Dialogue: 0,0:15:57.03,0:16:00.33,Default,,0,0,0,,Jag kan ta en titt\Noch se om jag kan fixa rösten.
+Dialogue: 0,0:16:05.33,0:16:07.04,Default,,0,0,0,,När kan han prata igen?
+Dialogue: 0,0:16:07.21,0:16:09.80,Default,,0,0,0,,Kanske om vi kopplar om en av kablarna.
+Dialogue: 0,0:16:13.84,0:16:15.34,Default,,0,0,0,,Okej. Vad säger du?
+Dialogue: 0,0:16:15.89,0:16:18.22,Default,,0,0,0,,{\i1}Jag är en riktig härmapa!{\i0}
+Dialogue: 0,0:16:18.81,0:16:19.81,Default,,0,0,0,,Tack, pappa.
+Dialogue: 0,0:16:20.43,0:16:22.73,Default,,0,0,0,,{\i1}Jag är en riktig härmapa!{\i0}
+Dialogue: 0,0:16:30.15,0:16:31.28,Default,,0,0,0,,Jag ringde doktorn.
+Dialogue: 0,0:16:31.90,0:16:33.78,Default,,0,0,0,,Jag ska träffa henne efter jobbet.
+Dialogue: 0,0:16:35.24,0:16:36.07,Default,,0,0,0,,Jaså?
+Dialogue: 0,0:16:37.16,0:16:38.99,Default,,0,0,0,,Japp. Det ska jag.
+Dialogue: 0,0:16:58.47,0:17:02.14,Default,,0,0,0,,{\i1}Här på Hela Livet prioriterar vi{\i0}\N{\i1}din mentala hälsa högst.{\i0}
+Dialogue: 0,0:17:02.68,0:17:04.69,Default,,0,0,0,,{\i1}Nå din fulla potential{\i0}
+Dialogue: 0,0:17:04.77,0:17:08.77,Default,,0,0,0,,{\i1}med vår diskreta expertservice{\i0}\N{\i1}som du får kostnadsfritt{\i0}
+Dialogue: 0,0:17:09.11,0:17:12.07,Default,,0,0,0,,{\i1}för ett friskt och lyckligt samhälle.{\i0}
+Dialogue: 0,0:17:15.78,0:17:16.70,Default,,0,0,0,,Vad ser du?
+Dialogue: 0,0:17:18.87,0:17:19.91,Default,,0,0,0,,Ursäkta, vad?
+Dialogue: 0,0:17:21.08,0:17:22.33,Default,,0,0,0,,Har du sömnproblem?
+Dialogue: 0,0:17:24.20,0:17:25.41,Default,,0,0,0,,-Ja.\N-Ja.
+Dialogue: 0,0:17:27.54,0:17:29.08,Default,,0,0,0,,Det är nåt som kommer.
+Dialogue: 0,0:17:31.92,0:17:33.51,Default,,0,0,0,,Vad menar du med det?
+Dialogue: 0,0:17:34.34,0:17:35.34,Default,,0,0,0,,Ljusen.
+Dialogue: 0,0:17:36.38,0:17:37.76,Default,,0,0,0,,Ja, där uppe.
+Dialogue: 0,0:17:38.89,0:17:40.35,Default,,0,0,0,,Alla som springer...
+Dialogue: 0,0:17:41.60,0:17:42.47,Default,,0,0,0,,...och dör.
+Dialogue: 0,0:17:44.56,0:17:45.98,Default,,0,0,0,,Ser du nån du bryr dig om?
+Dialogue: 0,0:17:47.94,0:17:49.10,Default,,0,0,0,,Vi är inte ensamma.
+Dialogue: 0,0:17:49.19,0:17:52.19,Default,,0,0,0,,Men de vill inte\Natt vi ska veta vad som kommer.
+Dialogue: 0,0:17:53.15,0:17:56.57,Default,,0,0,0,,De vill styra oss.\NDe vill inte att vi ska ställa frågor.
+Dialogue: 0,0:17:57.15,0:17:58.86,Default,,0,0,0,,Därför suddar de ut tankar,
+Dialogue: 0,0:17:58.95,0:18:00.57,Default,,0,0,0,,för om vi visste vad som väntar...
+Dialogue: 0,0:18:01.16,0:18:02.70,Default,,0,0,0,,-Kaos.\N-Chris.
+Dialogue: 0,0:18:04.83,0:18:06.00,Default,,0,0,0,,Vill du komma in?
+Dialogue: 0,0:18:12.29,0:18:13.50,Default,,0,0,0,,Vi är inte galna.
+Dialogue: 0,0:18:15.01,0:18:15.92,Default,,0,0,0,,Jag bara...
+Dialogue: 0,0:18:16.67,0:18:18.01,Default,,0,0,0,,Det måste ta slut.
+Dialogue: 0,0:18:38.28,0:18:40.66,Default,,0,0,0,,{\i1}Planetevakuering pågår.{\i0}
+Dialogue: 0,0:18:41.82,0:18:42.99,Default,,0,0,0,,De kommer tillbaka.
+Dialogue: 0,0:18:43.95,0:18:45.66,Default,,0,0,0,,Vi ses på fabriken.
+Dialogue: 0,0:19:00.59,0:19:01.51,Default,,0,0,0,,Hur var det?
+Dialogue: 0,0:19:03.64,0:19:04.47,Default,,0,0,0,,Jag gick dit.
+Dialogue: 0,0:19:05.31,0:19:06.72,Default,,0,0,0,,Vad sa de?
+Dialogue: 0,0:19:07.39,0:19:08.23,Default,,0,0,0,,Nja...
+Dialogue: 0,0:19:09.43,0:19:11.15,Default,,0,0,0,,Hon fick inte säga nåt.
+Dialogue: 0,0:19:11.77,0:19:13.69,Default,,0,0,0,,Jag gick iväg innan mötet.
+Dialogue: 0,0:19:14.73,0:19:18.03,Default,,0,0,0,,Hör på. Tänk om det är meningen\Natt jag ska se det där?
+Dialogue: 0,0:19:18.65,0:19:20.32,Default,,0,0,0,,Eller ha de där drömmarna?
+Dialogue: 0,0:19:20.95,0:19:23.07,Default,,0,0,0,,Tänk om nåt hemskt kommer...
+Dialogue: 0,0:19:23.91,0:19:26.37,Default,,0,0,0,,-...och det här är ett tecken?\N-Sluta.
+Dialogue: 0,0:19:28.41,0:19:31.71,Default,,0,0,0,,Våra vänner kommer snart.\NAnsträng dig, är du snäll.
+Dialogue: 0,0:19:31.96,0:19:32.88,Default,,0,0,0,,Förlåt.
+Dialogue: 0,0:19:33.17,0:19:34.08,Default,,0,0,0,,Förlåt.
+Dialogue: 0,0:19:59.32,0:20:02.74,Default,,0,0,0,,Tunnelsystemet är så gammalt.\NIngen annan tar på sig det.
+Dialogue: 0,0:20:02.82,0:20:05.53,Default,,0,0,0,,Din befordran är en stor grej, Al.\NVar glad.
+Dialogue: 0,0:20:05.74,0:20:06.74,Default,,0,0,0,,-Det är jag.\N-Bra.
+Dialogue: 0,0:20:11.83,0:20:13.29,Default,,0,0,0,,Du.
+Dialogue: 0,0:20:13.87,0:20:16.00,Default,,0,0,0,,Tänk inte på honom. Det är din kväll.
+Dialogue: 0,0:20:16.59,0:20:17.54,Default,,0,0,0,,Jag vet.
+Dialogue: 0,0:20:18.38,0:20:19.88,Default,,0,0,0,,-Mamma?\N-Ja?
+Dialogue: 0,0:20:21.47,0:20:24.97,Default,,0,0,0,,Pappa bad mig fråga om jag\Nkan ta Hanna och Lucy hem till oss.
+Dialogue: 0,0:20:25.05,0:20:26.76,Default,,0,0,0,,-Varför?\N-Lyssna på musik.
+Dialogue: 0,0:20:26.85,0:20:29.77,Default,,0,0,0,,Nej, älskling. Det är ofint att gå. Okej?
+Dialogue: 0,0:20:48.24,0:20:49.12,Default,,0,0,0,,God natt!
+Dialogue: 0,0:20:50.83,0:20:52.41,Default,,0,0,0,,De sista gästerna är på väg
+Dialogue: 0,0:20:52.50,0:20:54.00,Default,,0,0,0,,om du ville säga hej då.
+Dialogue: 0,0:20:54.92,0:20:55.87,Default,,0,0,0,,Eller hej.
+Dialogue: 0,0:20:57.42,0:20:58.50,Default,,0,0,0,,Skickade min fru dig?
+Dialogue: 0,0:20:59.75,0:21:02.38,Default,,0,0,0,,Nej, värre. Min fru.
+Dialogue: 0,0:21:09.10,0:21:11.01,Default,,0,0,0,,Jag gillar att titta upp ibland.
+Dialogue: 0,0:21:12.27,0:21:14.56,Default,,0,0,0,,Det ger perspektiv, eller hur?
+Dialogue: 0,0:21:15.69,0:21:17.23,Default,,0,0,0,,Vad vill du fråga egentligen?
+Dialogue: 0,0:21:21.15,0:21:22.69,Default,,0,0,0,,Det är inte min sak.
+Dialogue: 0,0:21:23.19,0:21:25.07,Default,,0,0,0,,Jag tror du tittar åt fel håll.
+Dialogue: 0,0:21:25.15,0:21:27.99,Default,,0,0,0,,Du är här ute och tittar dit upp,
+Dialogue: 0,0:21:28.07,0:21:30.49,Default,,0,0,0,,när du borde titta på\Ndet som finns där inne.
+Dialogue: 0,0:21:30.58,0:21:31.41,Default,,0,0,0,,Det gör jag.
+Dialogue: 0,0:21:35.16,0:21:36.54,Default,,0,0,0,,Vad fan är det där?
+Dialogue: 0,0:21:38.54,0:21:39.46,Default,,0,0,0,,Ser du det där?
+Dialogue: 0,0:21:40.00,0:21:41.63,Default,,0,0,0,,Skojar du?\NKlart jag ser.
+Dialogue: 0,0:22:00.36,0:22:01.36,Default,,0,0,0,,Vad är det?
+Dialogue: 0,0:22:27.84,0:22:28.68,Default,,0,0,0,,Gick det bra?
+Dialogue: 0,0:22:32.93,0:22:34.14,Default,,0,0,0,,Vad fan var det där?
+Dialogue: 0,0:22:47.69,0:22:49.28,Default,,0,0,0,,In med er! Nu!
+Dialogue: 0,0:22:51.20,0:22:53.16,Default,,0,0,0,,Flickorna! Hanna!
+Dialogue: 0,0:22:53.74,0:22:54.70,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:01.17,0:23:02.04,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:23:02.88,0:23:03.84,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:04.59,0:23:06.63,Default,,0,0,0,,-Megan!\N-Hanna!
+Dialogue: 0,0:23:08.55,0:23:09.88,Default,,0,0,0,,Hörru.
+Dialogue: 0,0:23:13.10,0:23:14.14,Default,,0,0,0,,Var är din syster?
+Dialogue: 0,0:23:14.22,0:23:16.52,Default,,0,0,0,,-Jag vill ha mamma!\N-Jag vet. Alice!
+Dialogue: 0,0:23:17.14,0:23:18.60,Default,,0,0,0,,-Lucy!\N-Mamma!
+Dialogue: 0,0:23:18.68,0:23:20.60,Default,,0,0,0,,-Kom, älskling.\N-Var är din syster?
+Dialogue: 0,0:23:20.69,0:23:22.19,Default,,0,0,0,,De måste vara hos oss.
+Dialogue: 0,0:23:22.27,0:23:24.44,Default,,0,0,0,,Stanna med Lucy!\NJag ska hitta Hanna.
+Dialogue: 0,0:23:25.48,0:23:26.57,Default,,0,0,0,,Det är okej.
+Dialogue: 0,0:23:26.65,0:23:28.40,Default,,0,0,0,,{\i1}Detta är ett krismeddelande.{\i0}
+Dialogue: 0,0:23:29.11,0:23:31.95,Default,,0,0,0,,{\i1}Ta er till en offentlig anläggning{\i0}
+Dialogue: 0,0:23:32.03,0:23:33.57,Default,,0,0,0,,{\i1}för garanterad säkerhet.{\i0}
+Dialogue: 0,0:23:33.66,0:23:35.16,Default,,0,0,0,,{\i1}Detta är ett krismeddelande.{\i0}
+Dialogue: 0,0:23:35.24,0:23:38.12,Default,,0,0,0,,{\i1}Ta er till en offentlig anläggning{\i0}
+Dialogue: 0,0:23:38.45,0:23:39.62,Default,,0,0,0,,{\i1}för garanterad säkerhet.{\i0}
+Dialogue: 0,0:23:46.09,0:23:47.46,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:48.42,0:23:49.67,Default,,0,0,0,,Megan!
+Dialogue: 0,0:23:49.88,0:23:50.84,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:23:53.34,0:23:54.18,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:24:03.15,0:24:04.65,Default,,0,0,0,,Ner!
+Dialogue: 0,0:24:28.13,0:24:29.09,Default,,0,0,0,,De är inte här.
+Dialogue: 0,0:24:31.21,0:24:32.34,Default,,0,0,0,,Jag vet var de är.
+Dialogue: 0,0:24:42.73,0:24:43.56,Default,,0,0,0,,Å, nej.
+Dialogue: 0,0:24:43.64,0:24:45.65,Default,,0,0,0,,Det som är i skeppen\Nmåste vara i byggnaden. Megan, är du där inne?
+Dialogue: 0,0:24:49.11,0:24:50.19,Default,,0,0,0,,Hanna, är du där?
+Dialogue: 0,0:24:51.61,0:24:52.44,Default,,0,0,0,,Hanna!
+Dialogue: 0,0:24:57.45,0:24:59.24,Default,,0,0,0,,Kom igen, vi måste dit ner.
+Dialogue: 0,0:25:02.37,0:25:03.50,Default,,0,0,0,,Kom igen!
+Dialogue: 0,0:25:14.67,0:25:15.51,Default,,0,0,0,,Skynda!
+Dialogue: 0,0:25:21.72,0:25:22.77,Default,,0,0,0,,Pappa!
+Dialogue: 0,0:25:22.85,0:25:23.98,Default,,0,0,0,,Vad är det som händer?
+Dialogue: 0,0:25:25.48,0:25:27.77,Default,,0,0,0,,-Kom igen. Jag har dig.\N-Pappa!
+Dialogue: 0,0:25:29.36,0:25:30.94,Default,,0,0,0,,Skynda på! Vi måste ut!
+Dialogue: 0,0:25:31.02,0:25:31.86,Default,,0,0,0,,Kom igen.
+Dialogue: 0,0:25:33.11,0:25:34.28,Default,,0,0,0,,Pappa har dig.
+Dialogue: 0,0:25:36.03,0:25:38.07,Default,,0,0,0,,-Kom igen. Såja.\N-Så där, ja.
+Dialogue: 0,0:25:42.45,0:25:43.29,Default,,0,0,0,,Vi sticker.
+Dialogue: 0,0:25:45.33,0:25:47.75,Default,,0,0,0,,-Var är mamma och Lucy?\N-I säkerhet.
+Dialogue: 0,0:25:49.58,0:25:50.59,Default,,0,0,0,,Skicka upp dem.
+Dialogue: 0,0:26:55.07,0:26:55.94,Default,,0,0,0,,Okej.
+Dialogue: 0,0:26:56.61,0:26:57.44,Default,,0,0,0,,Okej.
+Dialogue: 0,0:27:13.46,0:27:14.42,Default,,0,0,0,,Stanna.
+Dialogue: 0,0:27:15.09,0:27:16.34,Default,,0,0,0,,Gå och titta.
+Dialogue: 0,0:27:18.55,0:27:19.38,Default,,0,0,0,,Det är okej.
+Dialogue: 0,0:27:51.08,0:27:53.00,Default,,0,0,0,,-Okej. Vi går!\N-Ser du nåt?
+Dialogue: 0,0:27:53.08,0:27:55.42,Default,,0,0,0,,Kom igen!
+Dialogue: 0,0:27:58.46,0:28:00.80,Default,,0,0,0,,Hanna! Är du okej?
+Dialogue: 0,0:28:01.13,0:28:02.88,Default,,0,0,0,,Herregud. Är du okej?
+Dialogue: 0,0:28:03.30,0:28:04.80,Default,,0,0,0,,-Lucy! Herregud.\N-Vi går.
+Dialogue: 0,0:28:05.22,0:28:06.22,Default,,0,0,0,,Kom. Skynda på.
+Dialogue: 0,0:28:07.01,0:28:08.10,Default,,0,0,0,,Gå in under bordet.
+Dialogue: 0,0:28:10.68,0:28:12.89,Default,,0,0,0,,Ray hämtar Sam. De möter oss här sen.
+Dialogue: 0,0:28:12.98,0:28:15.19,Default,,0,0,0,,-Såja.\N-Kan vi prata lite?
+Dialogue: 0,0:28:18.86,0:28:21.70,Default,,0,0,0,,-Det är något i byggnaden.\N-Dina mardrömmar...
+Dialogue: 0,0:28:21.78,0:28:22.78,Default,,0,0,0,,Såg du det här?
+Dialogue: 0,0:28:22.86,0:28:24.66,Default,,0,0,0,,-Ja.\N-Vad ska vi göra?
+Dialogue: 0,0:28:24.74,0:28:27.03,Default,,0,0,0,,Vad händer sen i drömmen? Vad gör vi?
+Dialogue: 0,0:28:27.12,0:28:28.74,Default,,0,0,0,,Vad händer sen?
+Dialogue: 0,0:28:28.83,0:28:30.79,Default,,0,0,0,,Drömmen är inte sammanhängande.
+Dialogue: 0,0:28:31.45,0:28:32.37,Default,,0,0,0,,{\i1}Jag såg David.{\i0}
+Dialogue: 0,0:28:35.13,0:28:36.75,Default,,0,0,0,,Vi borde gå till fabriken.
+Dialogue: 0,0:28:37.00,0:28:37.96,Default,,0,0,0,,Okej.
+Dialogue: 0,0:28:43.38,0:28:45.22,Default,,0,0,0,,Ray och Sam borde varit här nu.
+Dialogue: 0,0:28:46.18,0:28:47.43,Default,,0,0,0,,Vi måste blockera dörren.
+Dialogue: 0,0:28:48.56,0:28:50.14,Default,,0,0,0,,-Med vad?\N-Peter, kom nu.
+Dialogue: 0,0:29:06.87,0:29:08.87,Default,,0,0,0,,Kom igen, flickor.
+Dialogue: 0,0:29:17.58,0:29:19.34,Default,,0,0,0,,Jag måste hjälpa pappa.
+Dialogue: 0,0:29:19.42,0:29:21.42,Default,,0,0,0,,Hanna, se efter din syster.
+Dialogue: 0,0:29:21.50,0:29:23.26,Default,,0,0,0,,-Okej?\N-Gå inte!
+Dialogue: 0,0:29:23.34,0:29:24.38,Default,,0,0,0,,Ingen fara, raring. Alice!
+Dialogue: 0,0:29:44.07,0:29:45.24,Default,,0,0,0,,Jag är strax tillbaka.
+Dialogue: 0,0:29:45.32,0:29:48.36,Default,,0,0,0,,Stanna här, okej?\NÖppna inte dörren.
+Dialogue: 0,0:29:50.03,0:29:52.04,Default,,0,0,0,,Jag älskar er båda så mycket.
+Dialogue: 0,0:30:08.22,0:30:09.43,Default,,0,0,0,,Vad gör du?
+Dialogue: 0,0:30:09.51,0:30:11.30,Default,,0,0,0,,-Herman!\N-Lucy! Kom tillbaka!
+Dialogue: 0,0:31:12.62,0:31:13.99,Default,,0,0,0,,Spring!
+Dialogue: 0,0:31:17.83,0:31:18.91,Default,,0,0,0,,Var är din syster?
+Dialogue: 0,0:31:19.21,0:31:21.17,Default,,0,0,0,,Hon skulle leta efter Herman.
+Dialogue: 0,0:32:05.71,0:32:08.09,Default,,0,0,0,,{\i1}Jag är en riktig härmapa!{\i0}
+Dialogue: 0,0:32:37.12,0:32:39.62,Default,,0,0,0,,Jag är inte rädd för din skugga.
+Dialogue: 0,0:32:40.95,0:32:43.12,Default,,0,0,0,,Du kan inte skada mig.
+Dialogue: 0,0:33:16.28,0:33:17.24,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:33:18.07,0:33:19.24,Default,,0,0,0,,Kom hit!
+Dialogue: 0,0:33:41.14,0:33:42.39,Default,,0,0,0,,Mamma!
+Dialogue: 0,0:33:46.19,0:33:47.60,Default,,0,0,0,,Se upp! Flickor!
+Dialogue: 0,0:33:48.10,0:33:49.94,Default,,0,0,0,,Kom hit bort.
+Dialogue: 0,0:33:51.32,0:33:53.53,Default,,0,0,0,,Vi sticker innan det kommer fler.
+Dialogue: 0,0:33:53.61,0:33:54.82,Default,,0,0,0,,Kom igen.
+Dialogue: 0,0:33:55.53,0:33:56.36,Default,,0,0,0,,Kom igen.
+Dialogue: 0,0:33:59.99,0:34:01.28,Default,,0,0,0,,Håll ögonen stängda.
+Dialogue: 0,0:34:08.08,0:34:09.29,Default,,0,0,0,,Blunda.
+Dialogue: 0,0:34:14.76,0:34:16.05,Default,,0,0,0,,Finns det fler?
+Dialogue: 0,0:34:16.13,0:34:17.63,Default,,0,0,0,,De rör sig uppåt i byggnaden.
+Dialogue: 0,0:34:22.76,0:34:25.31,Default,,0,0,0,,Det var alla.
+Dialogue: 0,0:34:59.68,0:35:00.59,Default,,0,0,0,,Stanna här.
+Dialogue: 0,0:35:08.52,0:35:10.10,Default,,0,0,0,,Pappa, gå inte!
+Dialogue: 0,0:35:58.44,0:36:00.24,Default,,0,0,0,,Nej! Stanna!
+Dialogue: 0,0:36:03.87,0:36:05.78,Default,,0,0,0,,Du skrämde ihjäl oss.
+Dialogue: 0,0:36:06.62,0:36:07.87,Default,,0,0,0,,Var är flickorna?
+Dialogue: 0,0:36:11.16,0:36:13.25,Default,,0,0,0,,Alice, det är lugnt.
+Dialogue: 0,0:36:13.33,0:36:15.42,Default,,0,0,0,,Okej, kom igen.
+Dialogue: 0,0:36:20.76,0:36:21.76,Default,,0,0,0,,Herregud.
+Dialogue: 0,0:36:21.84,0:36:23.09,Default,,0,0,0,,Lucy, Hanna!
+Dialogue: 0,0:36:23.80,0:36:24.64,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:36:26.26,0:36:27.85,Default,,0,0,0,,Megan, var har du varit?
+Dialogue: 0,0:36:28.31,0:36:29.35,Default,,0,0,0,,Vad händer?
+Dialogue: 0,0:36:32.23,0:36:33.56,Default,,0,0,0,,Vad är det som händer?
+Dialogue: 0,0:36:41.11,0:36:42.40,Default,,0,0,0,,Vi är säkra här uppe.
+Dialogue: 0,0:36:43.53,0:36:45.49,Default,,0,0,0,,-Eller hur?\N-Håll er nära mig.
+Dialogue: 0,0:36:51.33,0:36:52.29,Default,,0,0,0,,Vilka är de?
+Dialogue: 0,0:36:53.12,0:36:54.46,Default,,0,0,0,,Varför gör de det här?
+Dialogue: 0,0:37:03.72,0:37:04.76,Default,,0,0,0,,Titta på människorna!
+Dialogue: 0,0:37:06.72,0:37:07.68,Default,,0,0,0,,Vad ska vi göra?
+Dialogue: 0,0:37:08.22,0:37:09.14,Default,,0,0,0,,Jag vet inte.
+Dialogue: 0,0:37:15.19,0:37:16.02,Default,,0,0,0,,Ducka!
+Dialogue: 0,0:37:28.12,0:37:29.08,Default,,0,0,0,,Mamma!
+Dialogue: 0,0:37:31.79,0:37:33.00,Default,,0,0,0,,Vad händer?
+Dialogue: 0,0:37:49.47,0:37:52.01,Default,,0,0,0,,Alice, vi kan inte stanna här.
+Dialogue: 0,0:37:55.73,0:37:57.94,Default,,0,0,0,,-Kom igen, Lucy.\N-Vi måste bort.
+Dialogue: 0,0:37:58.23,0:38:00.15,Default,,0,0,0,,-Håll er lugna.\N-Vart ska vi?
+Dialogue: 0,0:38:00.23,0:38:02.69,Default,,0,0,0,,-Släpp inte varandras händer.\N-Vart ska vi?
+Dialogue: 0,0:38:02.78,0:38:04.44,Default,,0,0,0,,Vi kan nog ta oss ner här.
+Dialogue: 0,0:38:04.53,0:38:06.70,Default,,0,0,0,,-Vi borde använda den här.\N-Va? Nej.
+Dialogue: 0,0:38:06.78,0:38:08.24,Default,,0,0,0,,-Alice!\N-Nej!
+Dialogue: 0,0:38:08.32,0:38:10.12,Default,,0,0,0,,Jag sätter inte flickorna där.
+Dialogue: 0,0:38:10.20,0:38:12.58,Default,,0,0,0,,-Jag vägrar.\N-Vi måste av taket.
+Dialogue: 0,0:38:12.66,0:38:14.70,Default,,0,0,0,,Om vi måste välja mellan att gå in
+Dialogue: 0,0:38:14.79,0:38:17.29,Default,,0,0,0,,-och att ta den där...\N-Vi dör om vi stannar.
+Dialogue: 0,0:38:17.37,0:38:19.00,Default,,0,0,0,,Om vi går in igen, dör vi.
+Dialogue: 0,0:38:19.08,0:38:21.42,Default,,0,0,0,,Du måste lita på mig nu.
+Dialogue: 0,0:38:21.50,0:38:24.01,Default,,0,0,0,,Vi har inte tid med det här.\NDet funkar. Kom igen.
+Dialogue: 0,0:38:27.88,0:38:28.72,Default,,0,0,0,,Nej!
+Dialogue: 0,0:38:28.80,0:38:30.76,Default,,0,0,0,,-Jag vill inte gå ner där.\N-Det går bra.
+Dialogue: 0,0:38:30.85,0:38:32.47,Default,,0,0,0,,-Okej.\N-Nej!
+Dialogue: 0,0:38:32.56,0:38:33.51,Default,,0,0,0,,Okej.
+Dialogue: 0,0:38:35.31,0:38:36.52,Default,,0,0,0,,-Kom.\N-Få ner henne.
+Dialogue: 0,0:38:36.60,0:38:37.81,Default,,0,0,0,,Jag vill inte, mamma!
+Dialogue: 0,0:38:53.62,0:38:54.45,Default,,0,0,0,,Älskling.
+Dialogue: 0,0:39:07.21,0:39:08.63,Default,,0,0,0,,Mamma, jag är rädd!
+Dialogue: 0,0:39:08.72,0:39:10.34,Default,,0,0,0,,Jag gillar inte det här.
+Dialogue: 0,0:39:15.01,0:39:16.22,Default,,0,0,0,,Vad händer?
+Dialogue: 0,0:39:21.35,0:39:22.23,Default,,0,0,0,,Mamma!
+Dialogue: 0,0:39:22.31,0:39:23.65,Default,,0,0,0,,Jag har dig!
+Dialogue: 0,0:39:23.73,0:39:25.61,Default,,0,0,0,,-Håll i!\N-Ingen rör sig.
+Dialogue: 0,0:39:26.19,0:39:27.90,Default,,0,0,0,,-Jag vill kliva av!\N-Rör er inte!
+Dialogue: 0,0:39:32.32,0:39:33.49,Default,,0,0,0,,Vi måste gå in.
+Dialogue: 0,0:39:35.79,0:39:37.12,Default,,0,0,0,,Lucy, titta inte ner!
+Dialogue: 0,0:39:37.20,0:39:38.79,Default,,0,0,0,,Kom igen, Lucy.
+Dialogue: 0,0:39:38.87,0:39:39.91,Default,,0,0,0,,Kom igen! Gå!
+Dialogue: 0,0:39:40.92,0:39:42.58,Default,,0,0,0,,-Hanna, gå nu.\N-Nej. De kan vara där!
+Dialogue: 0,0:39:42.67,0:39:43.88,Default,,0,0,0,,Hanna, vi måste gå!
+Dialogue: 0,0:39:43.96,0:39:45.13,Default,,0,0,0,,Snabbt!
+Dialogue: 0,0:39:47.21,0:39:48.63,Default,,0,0,0,,-Håll fast!\N-Gå, gå!
+Dialogue: 0,0:41:18.43,0:41:22.39,Default,,0,0,0,,Jag hittade en ficklampa.\NTänd den inte, okej?
+Dialogue: 0,0:41:35.91,0:41:36.91,Default,,0,0,0,,I drömmarna...
+Dialogue: 0,0:41:42.24,0:41:43.70,Default,,0,0,0,,Såg du dem döda oss?
+Dialogue: 0,0:41:51.59,0:41:52.96,Default,,0,0,0,,{\i1}Dödade de våra flickor?{\i0}
+Dialogue: 0,0:41:53.05,0:41:54.80,Default,,0,0,0,,{\i1}Mamma, vakna.{\i0}
+Dialogue: 0,0:41:56.01,0:41:57.72,Default,,0,0,0,,{\i1}Snälla mamma, vakna.{\i0}
+Dialogue: 0,0:41:57.80,0:41:59.89,Default,,0,0,0,,{\i1}Peter, du måste berätta.{\i0}
+Dialogue: 0,0:42:08.60,0:42:09.90,Default,,0,0,0,,Hur går det?
+Dialogue: 0,0:42:12.44,0:42:14.57,Default,,0,0,0,,Tekniken är ganska lik vår
+Dialogue: 0,0:42:14.65,0:42:17.91,Default,,0,0,0,,men den har en biometrisk avtryckare.\NBara ägaren kan skjuta.
+Dialogue: 0,0:42:18.32,0:42:21.03,Default,,0,0,0,,-Kan du kringgå den?\N-Jag jobbar på det.
+Dialogue: 0,0:42:22.16,0:42:24.95,Default,,0,0,0,,Oavsett så borde vi inte\Nstanna här länge till.
+Dialogue: 0,0:42:25.33,0:42:27.25,Default,,0,0,0,,Nej, vi måste lämna stan.
+Dialogue: 0,0:42:27.33,0:42:29.33,Default,,0,0,0,,Hitta ett gömställe.
+Dialogue: 0,0:42:29.71,0:42:31.46,Default,,0,0,0,,-Vänta på hjälp.\N-Vänta.
+Dialogue: 0,0:42:32.80,0:42:35.51,Default,,0,0,0,,Fabriken jag jobbar på\När inte långt härifrån
+Dialogue: 0,0:42:36.17,0:42:37.84,Default,,0,0,0,,och det är en offentlig byggnad.
+Dialogue: 0,0:42:41.72,0:42:43.81,Default,,0,0,0,,Den är... precis där.
+Dialogue: 0,0:42:44.52,0:42:46.64,Default,,0,0,0,,Det är... ungefär tio kvarter bort.
+Dialogue: 0,0:42:47.35,0:42:48.19,Default,,0,0,0,,Är det säkert?
+Dialogue: 0,0:42:48.94,0:42:50.56,Default,,0,0,0,,Hur vet vi om nåt är säkert?
+Dialogue: 0,0:42:51.15,0:42:53.82,Default,,0,0,0,,På grund av det som är under den.\NDet är förråd.
+Dialogue: 0,0:42:54.07,0:42:55.82,Default,,0,0,0,,Det är som en fästning där nere.
+Dialogue: 0,0:42:56.86,0:42:58.15,Default,,0,0,0,,Vi ska bara ta oss dit.
+Dialogue: 0,0:43:00.91,0:43:03.24,Default,,0,0,0,,De skjuter fortfarande\Npå allt som rör sig.
+Dialogue: 0,0:43:03.33,0:43:05.33,Default,,0,0,0,,Det är tyvärr vår enda chans.
+Dialogue: 0,0:43:05.91,0:43:06.75,Default,,0,0,0,,Tunnlarna.
+Dialogue: 0,0:43:07.83,0:43:10.08,Default,,0,0,0,,Tunnlarna. Det finns en ingång...
+Dialogue: 0,0:43:10.21,0:43:12.79,Default,,0,0,0,,Vilken gata?\NDet finns en öppning på...
+Dialogue: 0,0:43:13.71,0:43:14.55,Default,,0,0,0,,Prescott!
+Dialogue: 0,0:43:14.63,0:43:16.63,Default,,0,0,0,,På Prescott! Bara ett par kvarter bort.
+Dialogue: 0,0:43:16.92,0:43:18.67,Default,,0,0,0,,Vi kan nå fabriken genom tunnlarna.
+Dialogue: 0,0:43:18.76,0:43:19.76,Default,,0,0,0,,Ja.
+Dialogue: 0,0:43:19.84,0:43:21.26,Default,,0,0,0,,Vi klarar ett par kvarter.
+Dialogue: 0,0:43:56.67,0:43:57.63,Default,,0,0,0,,Pappa!
+Dialogue: 0,0:43:59.63,0:44:00.47,Default,,0,0,0,,Pappa!
+Dialogue: 0,0:44:06.60,0:44:07.60,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:44:26.16,0:44:28.41,Default,,0,0,0,,Kom igen! Fort!
+Dialogue: 0,0:44:31.29,0:44:32.29,Default,,0,0,0,,Den här vägen! Kom!
+Dialogue: 0,0:44:36.09,0:44:38.55,Default,,0,0,0,,Skynda! Ducka!
+Dialogue: 0,0:45:04.61,0:45:06.16,Default,,0,0,0,,Det är okej.
+Dialogue: 0,0:45:11.50,0:45:12.58,Default,,0,0,0,,Pappa!
+Dialogue: 0,0:45:17.54,0:45:18.50,Default,,0,0,0,,Okej, framåt.
+Dialogue: 0,0:45:18.59,0:45:19.46,Default,,0,0,0,,Nej, inte dit!
+Dialogue: 0,0:45:20.00,0:45:21.96,Default,,0,0,0,,Fabriken är tio kvarter bort.
+Dialogue: 0,0:45:22.05,0:45:24.47,Default,,0,0,0,,Vi ska inte låta något hända er.
+Dialogue: 0,0:45:25.13,0:45:26.76,Default,,0,0,0,,Inte nån av er.
+Dialogue: 0,0:45:27.30,0:45:28.51,Default,,0,0,0,,-Okej?\N-Kom nu!
+Dialogue: 0,0:45:28.60,0:45:29.93,Default,,0,0,0,,-Kom igen.\N-Kom nu!
+Dialogue: 0,0:45:32.98,0:45:35.23,Default,,0,0,0,,Kommer vi att dö som Megans familj?
+Dialogue: 0,0:45:35.98,0:45:37.52,Default,,0,0,0,,Oroa dig inte. Du är trygg.
+Dialogue: 0,0:45:51.87,0:45:52.87,Default,,0,0,0,,Snälla, sluta!
+Dialogue: 0,0:46:13.47,0:46:15.06,Default,,0,0,0,,-Vilka är de?\N-Jag vet inte.
+Dialogue: 0,0:46:18.90,0:46:20.02,Default,,0,0,0,,Spring! Spring! Ducka!
+Dialogue: 0,0:46:27.03,0:46:28.74,Default,,0,0,0,,Håll er nere.
+Dialogue: 0,0:46:37.92,0:46:39.79,Default,,0,0,0,,-Sätt fart!\N-Kom igen!
+Dialogue: 0,0:46:39.88,0:46:40.96,Default,,0,0,0,,Kom igen, spring!
+Dialogue: 0,0:46:41.04,0:46:41.92,Default,,0,0,0,,Spring!
+Dialogue: 0,0:47:05.15,0:47:05.98,Default,,0,0,0,,Upp här.
+Dialogue: 0,0:47:06.69,0:47:07.53,Default,,0,0,0,,Kom igen.
+Dialogue: 0,0:47:07.82,0:47:08.78,Default,,0,0,0,,Vart ska vi gå?
+Dialogue: 0,0:47:09.20,0:47:10.28,Default,,0,0,0,,Det är till höger.
+Dialogue: 0,0:47:23.00,0:47:23.92,Default,,0,0,0,,Okej.
+Dialogue: 0,0:47:25.13,0:47:27.88,Default,,0,0,0,,-På andra sidan växterna.\N-Jag går först.
+Dialogue: 0,0:47:28.26,0:47:29.47,Default,,0,0,0,,Håll dig nere.
+Dialogue: 0,0:47:54.53,0:47:55.45,Default,,0,0,0,,Skynda på.
+Dialogue: 0,0:47:56.62,0:47:59.04,Default,,0,0,0,,Upp. Vi måste vara snabba.
+Dialogue: 0,0:48:01.16,0:48:02.62,Default,,0,0,0,,Kom här.
+Dialogue: 0,0:48:03.13,0:48:04.88,Default,,0,0,0,,Var försiktig.
+Dialogue: 0,0:48:07.59,0:48:09.21,Default,,0,0,0,,Stanna där.
+Dialogue: 0,0:48:10.47,0:48:12.30,Default,,0,0,0,,-Kom igen.\N-Spring till pappa.
+Dialogue: 0,0:48:18.97,0:48:20.06,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:48:20.89,0:48:21.89,Default,,0,0,0,,Lucy!
+Dialogue: 0,0:48:23.15,0:48:24.06,Default,,0,0,0,,Lucy, kom hit!
+Dialogue: 0,0:48:29.53,0:48:30.57,Default,,0,0,0,,Ta henne!
+Dialogue: 0,0:48:31.90,0:48:33.24,Default,,0,0,0,,Kom igen!
+Dialogue: 0,0:48:39.37,0:48:41.00,Default,,0,0,0,,Spring!
+Dialogue: 0,0:49:07.98,0:49:09.32,Default,,0,0,0,,Är alla okej?
+Dialogue: 0,0:49:10.07,0:49:10.98,Default,,0,0,0,,Är du okej?
+Dialogue: 0,0:49:19.53,0:49:20.37,Default,,0,0,0,,Mamma?
+Dialogue: 0,0:49:25.29,0:49:26.12,Default,,0,0,0,,Pappa?
+Dialogue: 0,0:49:27.29,0:49:28.38,Default,,0,0,0,,Gör något.
+Dialogue: 0,0:50:13.71,0:50:14.97,Default,,0,0,0,,Mamma...
+Dialogue: 0,0:50:16.47,0:50:17.80,Default,,0,0,0,,Det är okej, raring.
+Dialogue: 0,0:50:18.39,0:50:19.55,Default,,0,0,0,,Gå försiktigt.
+Dialogue: 0,0:50:20.85,0:50:22.06,Default,,0,0,0,,Så där, ja.
+Dialogue: 0,0:50:24.47,0:50:25.56,Default,,0,0,0,,Vilken väg?
+Dialogue: 0,0:50:26.56,0:50:27.64,Default,,0,0,0,,Vi är under parken.
+Dialogue: 0,0:50:29.44,0:50:30.27,Default,,0,0,0,,Norrut. Okej.
+Dialogue: 0,0:50:32.19,0:50:33.32,Default,,0,0,0,,Kom igen, tjejer.
+Dialogue: 0,0:50:38.45,0:50:40.07,Default,,0,0,0,,Vad händer nu?
+Dialogue: 0,0:50:41.03,0:50:42.24,Default,,0,0,0,,Såg du det här?
+Dialogue: 0,0:50:43.24,0:50:44.08,Default,,0,0,0,,Inte så här.
+Dialogue: 0,0:50:44.87,0:50:46.96,Default,,0,0,0,,Lova att du...
+Dialogue: 0,0:50:48.12,0:50:49.88,Default,,0,0,0,,...skyddar flickorna.
+Dialogue: 0,0:50:51.92,0:50:53.50,Default,,0,0,0,,Oavsett vad som händer.
+Dialogue: 0,0:50:54.42,0:50:55.26,Default,,0,0,0,,Okej?
+Dialogue: 0,0:50:55.34,0:50:57.05,Default,,0,0,0,,-Alice...\N-Lova mig det.
+Dialogue: 0,0:50:58.97,0:51:01.18,Default,,0,0,0,,Jag vill inte göra det här utan dig.
+Dialogue: 0,0:51:01.72,0:51:03.89,Default,,0,0,0,,Snälla, jag vill inte. Snälla.
+Dialogue: 0,0:51:04.26,0:51:06.22,Default,,0,0,0,,Jag vet att du klarar det.
+Dialogue: 0,0:51:06.85,0:51:08.73,Default,,0,0,0,,Kom igen. Du klarar det.
+Dialogue: 0,0:51:09.77,0:51:10.98,Default,,0,0,0,,Snälla.
+Dialogue: 0,0:51:12.40,0:51:13.23,Default,,0,0,0,,Okej.
+Dialogue: 0,0:51:13.52,0:51:15.32,Default,,0,0,0,,Såja, såja.
+Dialogue: 0,0:51:16.03,0:51:16.86,Default,,0,0,0,,Ja.
+Dialogue: 0,0:51:16.94,0:51:18.61,Default,,0,0,0,,Såja, det är min Alice.
+Dialogue: 0,0:51:19.03,0:51:20.16,Default,,0,0,0,,Det är min Alice.
+Dialogue: 0,0:51:24.99,0:51:28.21,Default,,0,0,0,,-Jag behöver sitta.\N-Inga problem.
+Dialogue: 0,0:51:31.50,0:51:32.38,Default,,0,0,0,,Okej.
+Dialogue: 0,0:51:37.34,0:51:38.30,Default,,0,0,0,,Gnugga händerna.
+Dialogue: 0,0:51:39.63,0:51:41.76,Default,,0,0,0,,-Kommer hon bli bra?\N-Ja, hon blir bra.
+Dialogue: 0,0:51:41.97,0:51:43.55,Default,,0,0,0,,Håll dem varma.
+Dialogue: 0,0:51:44.81,0:51:47.31,Default,,0,0,0,,Det går bra.
+Dialogue: 0,0:51:48.98,0:51:50.19,Default,,0,0,0,,Låt henne vila.
+Dialogue: 0,0:51:50.31,0:51:51.44,Default,,0,0,0,,Det är okej.
+Dialogue: 0,0:51:51.73,0:51:53.31,Default,,0,0,0,,-Det är okej.\N-Pappa!
+Dialogue: 0,0:51:58.90,0:52:00.74,Default,,0,0,0,,Lämna min pappa ifred!
+Dialogue: 0,0:52:14.08,0:52:15.54,Default,,0,0,0,,Pappa, jag är rädd.
+Dialogue: 0,0:52:16.75,0:52:17.80,Default,,0,0,0,,Stanna bara där.
+Dialogue: 0,0:53:07.22,0:53:08.39,Default,,0,0,0,,Varför är du här?
+Dialogue: 0,0:53:13.52,0:53:15.02,Default,,0,0,0,,Vill du skada min familj?
+Dialogue: 0,0:53:15.10,0:53:17.27,Default,,0,0,0,,Är det vad du vill?\NVill du skada min familj?
+Dialogue: 0,0:54:02.90,0:54:04.24,Default,,0,0,0,,Vad...
+Dialogue: 0,0:54:05.11,0:54:06.15,Default,,0,0,0,,Vem är du?
+Dialogue: 0,0:54:12.04,0:54:13.25,Default,,0,0,0,,Varför gör du det här?
+Dialogue: 0,0:54:15.29,0:54:16.79,Default,,0,0,0,,Mamma?
+Dialogue: 0,0:54:18.04,0:54:19.08,Default,,0,0,0,,Mamma?
+Dialogue: 0,0:54:20.46,0:54:21.54,Default,,0,0,0,,Hon vaknar inte!
+Dialogue: 0,0:54:21.63,0:54:23.84,Default,,0,0,0,,Mamma, vakna! Mamma!
+Dialogue: 0,0:54:23.92,0:54:25.67,Default,,0,0,0,,-Säg nåt!\N-Mamma!
+Dialogue: 0,0:54:26.30,0:54:28.72,Default,,0,0,0,,-Mamma, vakna!\N-Pappa, hjälp!
+Dialogue: 0,0:54:29.59,0:54:32.68,Default,,0,0,0,,-Mamma!\N-Vi lyfter upp mamma.
+Dialogue: 0,0:54:38.65,0:54:39.81,Default,,0,0,0,,Flickor, bakom mig.
+Dialogue: 0,0:54:40.15,0:54:42.94,Default,,0,0,0,,Gå bakom mig. Lucy, bakom mig.
+Dialogue: 0,0:54:50.82,0:54:51.78,Default,,0,0,0,,Lyft upp henne.
+Dialogue: 0,0:54:52.66,0:54:53.74,Default,,0,0,0,,Förstår du mig?
+Dialogue: 0,0:54:56.91,0:54:58.08,Default,,0,0,0,,Lyft upp henne nu.
+Dialogue: 0,0:55:05.67,0:55:08.63,Default,,0,0,0,,Lyft upp henne nu.\NOch gör det långsamt.
+Dialogue: 0,0:56:12.07,0:56:12.99,Default,,0,0,0,,Hallå?
+Dialogue: 0,0:56:14.82,0:56:15.87,Default,,0,0,0,,Hallå?
+Dialogue: 0,0:56:16.83,0:56:17.66,Default,,0,0,0,,Hallå?
+Dialogue: 0,0:56:18.24,0:56:19.62,Default,,0,0,0,,Kanske en annan dörr.
+Dialogue: 0,0:56:20.21,0:56:21.58,Default,,0,0,0,,Mamma behöver hjälp nu.
+Dialogue: 0,0:56:35.14,0:56:35.97,Default,,0,0,0,,Nej, nej.
+Dialogue: 0,0:56:36.05,0:56:38.18,Default,,0,0,0,,-Här.\N-Här. Rör på er!
+Dialogue: 0,0:56:38.26,0:56:40.14,Default,,0,0,0,,Nej, nej, nej!\NSnälla! Nej!
+Dialogue: 0,0:56:40.23,0:56:41.18,Default,,0,0,0,,Nej, snälla.
+Dialogue: 0,0:56:41.27,0:56:43.35,Default,,0,0,0,,Min fru, hon är skadad.\NVi behöver hjälp.
+Dialogue: 0,0:56:43.44,0:56:44.35,Default,,0,0,0,,Peter?
+Dialogue: 0,0:56:45.02,0:56:46.23,Default,,0,0,0,,-David.\N-Håll honom!
+Dialogue: 0,0:56:48.02,0:56:49.48,Default,,0,0,0,,-Hej.\N-Du tog en.
+Dialogue: 0,0:56:49.57,0:56:52.07,Default,,0,0,0,,Alice är illa däran,\Nhon behöver hjälp, nu.
+Dialogue: 0,0:56:52.15,0:56:54.32,Default,,0,0,0,,Bår! Genast!
+Dialogue: 0,0:56:54.41,0:56:55.24,Default,,0,0,0,,Ja, sir. Se upp.
+Dialogue: 0,0:56:56.78,0:56:59.49,Default,,0,0,0,,Hon träffades i vänster sida. Illa.
+Dialogue: 0,0:56:59.58,0:57:01.12,Default,,0,0,0,,Några andra skador?
+Dialogue: 0,0:57:01.20,0:57:02.29,Default,,0,0,0,,-Inte vad...\N-Pappa!
+Dialogue: 0,0:57:03.54,0:57:04.42,Default,,0,0,0,,De kommer.
+Dialogue: 0,0:57:05.38,0:57:06.96,Default,,0,0,0,,Alla in, nu!
+Dialogue: 0,0:57:26.02,0:57:27.65,Default,,0,0,0,,-Håll i henne.\N-Fortsätt. -Skanna.\N-Stoppa blödningen.
+Dialogue: 0,0:57:31.36,0:57:32.19,Default,,0,0,0,,Vad är det där? Sluta!
+Dialogue: 0,0:57:34.70,0:57:36.03,Default,,0,0,0,,Vänta! Vad gör du?
+Dialogue: 0,0:57:36.11,0:57:38.12,Default,,0,0,0,,Det är okej. Det är diagnostik.
+Dialogue: 0,0:57:38.20,0:57:39.45,Default,,0,0,0,,Han vet vad han gör.
+Dialogue: 0,0:57:39.53,0:57:42.20,Default,,0,0,0,,Sluta, sa jag!\NRör henne inte! Sluta!
+Dialogue: 0,0:57:42.29,0:57:44.08,Default,,0,0,0,,-Du gör henne illa!\N-Sluta!
+Dialogue: 0,0:57:44.16,0:57:46.58,Default,,0,0,0,,-Lugna ner er.\N-Vad i helvete pågår?
+Dialogue: 0,0:57:46.67,0:57:48.29,Default,,0,0,0,,Alla här står på samma sida.
+Dialogue: 0,0:57:48.38,0:57:50.80,Default,,0,0,0,,Mamma! Sluta!
+Dialogue: 0,0:57:52.30,0:57:54.05,Default,,0,0,0,,Hur kan ni vara så förberedda?
+Dialogue: 0,0:57:54.13,0:57:57.01,Default,,0,0,0,,Det som händer där ute\Nhar varit på väg länge.
+Dialogue: 0,0:57:57.09,0:57:59.64,Default,,0,0,0,,Men just nu fokuserar vi på din fru
+Dialogue: 0,0:57:59.72,0:58:01.35,Default,,0,0,0,,och att få er i säkerhet.
+Dialogue: 0,0:58:01.93,0:58:02.89,Default,,0,0,0,,Snälla.
+Dialogue: 0,0:58:08.73,0:58:10.61,Default,,0,0,0,,Här nere finns en övergiven tågstation.
+Dialogue: 0,0:58:10.69,0:58:13.40,Default,,0,0,0,,Den leder till en underjordsbas\Ndär vi har vapen.
+Dialogue: 0,0:58:13.49,0:58:16.70,Default,,0,0,0,,-Vad hände med alla förråd?\N-Bortskickade. Vi är säkra.
+Dialogue: 0,0:58:17.32,0:58:18.36,Default,,0,0,0,,De hittar oss inte.
+Dialogue: 0,0:58:18.45,0:58:21.24,Default,,0,0,0,,När vi är där planerar vi motangreppet.
+Dialogue: 0,0:58:21.33,0:58:22.66,Default,,0,0,0,,Jag är ingen soldat.
+Dialogue: 0,0:58:22.74,0:58:24.45,Default,,0,0,0,,Du anar inte vad du kan göra.
+Dialogue: 0,0:58:29.92,0:58:31.88,Default,,0,0,0,,De är ovanför oss. De kommer snart in.
+Dialogue: 0,0:58:33.38,0:58:36.17,Default,,0,0,0,,Förbered för intrång\Noch få ner alla nu.
+Dialogue: 0,0:58:36.26,0:58:37.34,Default,,0,0,0,,Få bort honom.
+Dialogue: 0,0:58:37.43,0:58:39.55,Default,,0,0,0,,-Ta ut och döda honom.\N-Det är din fru.
+Dialogue: 0,0:58:40.14,0:58:42.31,Default,,0,0,0,,Skadan är för svår att reparera.
+Dialogue: 0,0:58:42.39,0:58:44.97,Default,,0,0,0,,Klarar hon evakueringen\Nhar hon kanske en chans,
+Dialogue: 0,0:58:45.06,0:58:46.35,Default,,0,0,0,,men hennes kropp lägger av.
+Dialogue: 0,0:58:46.43,0:58:49.15,Default,,0,0,0,,-Vi kan inget göra.\N-Nåt måste det finnas.
+Dialogue: 0,0:58:49.23,0:58:51.52,Default,,0,0,0,,-Tyvärr. Vi saknar utrustning för det.\N-Vänta!
+Dialogue: 0,0:58:51.61,0:58:54.65,Default,,0,0,0,,-Du får inte ge upp med mamma.\N-Ingen ska ge upp.
+Dialogue: 0,0:58:54.73,0:58:56.28,Default,,0,0,0,,Jag kan hjälpa henne!
+Dialogue: 0,0:58:57.74,0:58:59.74,Default,,0,0,0,,Jag kan hjälpa!\NHålla igång henne!
+Dialogue: 0,0:59:00.32,0:59:02.49,Default,,0,0,0,,-Vad?\N-Jag kan hålla henne vid liv.
+Dialogue: 0,0:59:03.16,0:59:04.54,Default,,0,0,0,,Du kan hålla henne vid liv?
+Dialogue: 0,0:59:04.62,0:59:06.37,Default,,0,0,0,,-Skojar du med mig?\N-Nej.
+Dialogue: 0,0:59:06.45,0:59:07.71,Default,,0,0,0,,Du, vår fiende?
+Dialogue: 0,0:59:07.79,0:59:09.42,Default,,0,0,0,,Läkaren kan inte, men du kan.
+Dialogue: 0,0:59:09.50,0:59:11.50,Default,,0,0,0,,Jag kan hålla igång henne\Ntills ni får hjälp.
+Dialogue: 0,0:59:11.58,0:59:13.04,Default,,0,0,0,,-Varför lita på dig?\N-Han ljuger. -Vi måste gå.\N-Det är inte sant.
+Dialogue: 0,0:59:14.67,0:59:17.80,Default,,0,0,0,,Jag fick lära mig allt om er.\NDet finns sätt.
+Dialogue: 0,0:59:21.05,0:59:23.05,Default,,0,0,0,,Vi hinner inte. Vi måste evakuera.
+Dialogue: 0,0:59:23.14,0:59:24.35,Default,,0,0,0,,Få ut honom!
+Dialogue: 0,0:59:25.35,0:59:26.85,Default,,0,0,0,,Jag vet vad man ska göra!
+Dialogue: 0,0:59:27.06,0:59:28.31,Default,,0,0,0,,-Gå!\N-Låt mig hjälpa till!
+Dialogue: 0,0:59:33.98,0:59:36.11,Default,,0,0,0,,Okej, stanna!
+Dialogue: 0,0:59:40.24,0:59:41.28,Default,,0,0,0,,Flickor.
+Dialogue: 0,0:59:42.57,0:59:45.16,Default,,0,0,0,,Lyssna på mig.
+Dialogue: 0,0:59:45.24,0:59:46.79,Default,,0,0,0,,-Ni följer med David.\N-Nej!
+Dialogue: 0,0:59:46.87,0:59:49.46,Default,,0,0,0,,Jag stannar hos mamma\Ntills hon mår bättre.
+Dialogue: 0,0:59:49.54,0:59:52.92,Default,,0,0,0,,Sen kommer jag till er, jag lovar.\NVi möts vid tåget.
+Dialogue: 0,0:59:54.54,0:59:55.42,Default,,0,0,0,,Okej.
+Dialogue: 0,0:59:55.50,0:59:57.46,Default,,0,0,0,,Evakueringstransporten är där nere.
+Dialogue: 0,0:59:57.55,0:59:59.67,Default,,0,0,0,,-Vi väntar så länge vi kan.\N-Okej.
+Dialogue: 0,1:00:00.68,1:00:02.14,Default,,0,0,0,,Flickor, snälla.
+Dialogue: 0,1:00:02.22,1:00:04.10,Default,,0,0,0,,-Jag älskar er.\N-Nej!
+Dialogue: 0,1:00:04.18,1:00:05.43,Default,,0,0,0,,Pappa!
+Dialogue: 0,1:00:06.97,1:00:08.06,Default,,0,0,0,,Nej!
+Dialogue: 0,1:00:09.89,1:00:12.27,Default,,0,0,0,,-Stanna!\N-Pappa!
+Dialogue: 0,1:00:20.15,1:00:21.11,Default,,0,0,0,,Har du tid?
+Dialogue: 0,1:00:23.07,1:00:24.53,Default,,0,0,0,,Skynda på!
+Dialogue: 0,1:00:24.62,1:00:26.20,Default,,0,0,0,,Hela vägen ner.
+Dialogue: 0,1:00:32.75,1:00:35.21,Default,,0,0,0,,Ge mig en kniv och ta hit lamporna.
+Dialogue: 0,1:00:35.59,1:00:36.42,Default,,0,0,0,,Stanna. Här har du.
+Dialogue: 0,1:00:48.35,1:00:49.47,Default,,0,0,0,,Okej.
+Dialogue: 0,1:00:56.44,1:00:58.69,Default,,0,0,0,,Försiktigt, snälla!
+Dialogue: 0,1:00:58.78,1:01:00.57,Default,,0,0,0,,-Försiktigt!\N-Ska jag göra det?
+Dialogue: 0,1:01:01.15,1:01:02.57,Default,,0,0,0,,Jag försöker hjälpa dig!
+Dialogue: 0,1:01:28.47,1:01:29.31,Default,,0,0,0,,Okej. Jäklar.
+Dialogue: 0,1:01:37.52,1:01:39.11,Default,,0,0,0,,De hade rätt. Det är illa.
+Dialogue: 0,1:01:40.65,1:01:42.03,Default,,0,0,0,,Vad är det där?
+Dialogue: 0,1:01:44.11,1:01:44.95,Default,,0,0,0,,Vad är det?
+Dialogue: 0,1:01:45.53,1:01:47.07,Default,,0,0,0,,Vad är det i henne?
+Dialogue: 0,1:01:48.74,1:01:51.29,Default,,0,0,0,,Vet du inte vad du är för nåt?
+Dialogue: 0,1:02:33.37,1:02:37.33,Default,,0,0,0,,Om vi ska rädda hennes liv,\Nbehöver hon en annan energikälla.
+Dialogue: 0,1:02:40.42,1:02:41.54,Default,,0,0,0,,Jag menar dig.
+Dialogue: 0,1:02:52.68,1:02:53.51,Default,,0,0,0,,Hanna!
+Dialogue: 0,1:02:54.93,1:02:56.31,Default,,0,0,0,,Jag tappade Herman!
+Dialogue: 0,1:03:09.20,1:03:10.03,Default,,0,0,0,,Okej.
+Dialogue: 0,1:03:12.07,1:03:12.91,Default,,0,0,0,,Lägg...
+Dialogue: 0,1:03:12.99,1:03:13.95,Default,,0,0,0,,Lägg ner kniven.
+Dialogue: 0,1:03:17.66,1:03:18.50,Default,,0,0,0,,Och...
+Dialogue: 0,1:03:19.87,1:03:20.79,Default,,0,0,0,,gå dit.
+Dialogue: 0,1:03:26.76,1:03:28.80,Default,,0,0,0,,Vad ska jag göra?
+Dialogue: 0,1:03:31.47,1:03:32.39,Default,,0,0,0,,Du måste...
+Dialogue: 0,1:03:33.97,1:03:35.39,Default,,0,0,0,,Lägg ett snitt...
+Dialogue: 0,1:03:35.77,1:03:36.85,Default,,0,0,0,,...på ditt bröst.
+Dialogue: 0,1:03:37.35,1:03:38.27,Default,,0,0,0,,T-format.
+Dialogue: 0,1:03:47.78,1:03:48.61,Default,,0,0,0,,Okej.
+Dialogue: 0,1:04:01.87,1:04:02.75,Default,,0,0,0,,Okej.
+Dialogue: 0,1:04:05.13,1:04:06.05,Default,,0,0,0,,Börja upptill.
+Dialogue: 0,1:04:06.75,1:04:09.26,Default,,0,0,0,,Gör en rak linje,\N15 centimeter tvärs över.
+Dialogue: 0,1:05:54.82,1:05:55.95,Default,,0,0,0,,En varning...
+Dialogue: 0,1:05:56.66,1:05:57.82,Default,,0,0,0,,Om det inte funkar...
+Dialogue: 0,1:05:59.08,1:06:00.49,Default,,0,0,0,,...delas strömmen och...
+Dialogue: 0,1:06:01.58,1:06:02.95,Default,,0,0,0,,...då dör ni båda.
+Dialogue: 0,1:06:09.96,1:06:11.05,Default,,0,0,0,,Vi kör.
+Dialogue: 0,1:06:29.48,1:06:31.32,Default,,0,0,0,,{\i1}Synteter kommer ta över världen.{\i0}
+Dialogue: 0,1:06:31.40,1:06:33.53,Default,,0,0,0,,{\i1}AI kommer ta över världen.{\i0}
+Dialogue: 0,1:06:33.61,1:06:36.82,Default,,0,0,0,,{\i1}Skrämmer det inte dig{\i0}\N{\i1}att de börjar inse{\i0}
+Dialogue: 0,1:06:36.90,1:06:38.95,Default,,0,0,0,,{\i1}att de skapades för att tjäna oss?{\i0}
+Dialogue: 0,1:06:39.03,1:06:43.62,Default,,0,0,0,,{\i1}Vi är inte Gud, men vi är deras gud{\i0}\N{\i1}eftersom vi skapade dem.{\i0}
+Dialogue: 0,1:06:43.70,1:06:46.62,Default,,0,0,0,,{\i1}Det ger oss rätten att göra{\i0}\N{\i1}vad vi vill med dem.{\i0}
+Dialogue: 0,1:06:46.71,1:06:48.79,Default,,0,0,0,,{\i1}Om vi vill, kan vi stänga av dem.{\i0}
+Dialogue: 0,1:06:48.87,1:06:52.38,Default,,0,0,0,,{\i1}Folkmord handlar alltid om{\i0}\N{\i1}att en ras anser sig vara bättre.{\i0}
+Dialogue: 0,1:06:52.46,1:06:54.71,Default,,0,0,0,,{\i1}Vad gör oss bättre än synteterna?{\i0}
+Dialogue: 0,1:06:54.92,1:06:58.47,Default,,0,0,0,,{\i1}Tidigare folkmord har varit på människor,{\i0}
+Dialogue: 0,1:06:58.55,1:07:01.43,Default,,0,0,0,,{\i1}inte på skapade ting,{\i0}\N{\i1}inte på konservöppnare.{\i0}
+Dialogue: 0,1:07:06.98,1:07:08.94,Default,,0,0,0,,Plocka upp efter dig, dumma synt!
+Dialogue: 0,1:07:13.86,1:07:18.15,Default,,0,0,0,,{\i1}Den avlidna Stephen Hawking sa att AI{\i0}\N{\i1}skulle bli mänsklighetens undergång.{\i0}
+Dialogue: 0,1:07:18.24,1:07:20.11,Default,,0,0,0,,{\i1}Skrämmer det inte dig?{\i0}
+Dialogue: 0,1:07:20.20,1:07:22.78,Default,,0,0,0,,{\i1}Börjar de inte visa livslika tendenser{\i0}
+Dialogue: 0,1:07:22.87,1:07:25.95,Default,,0,0,0,,{\i1}som kan få dem att börja undra{\i0}\N{\i1}varför de byggdes?{\i0}
+Dialogue: 0,1:07:31.67,1:07:32.88,Default,,0,0,0,,Varför gjorde du så?
+Dialogue: 0,1:07:38.80,1:07:39.63,Default,,0,0,0,,Jag vet inte.
+Dialogue: 0,1:08:01.11,1:08:03.45,Default,,0,0,0,,{\i1}Ni ska inte ersätta oss!{\i0}
+Dialogue: 0,1:08:03.99,1:08:06.29,Default,,0,0,0,,{\i1}Ni ska inte ersätta oss!{\i0}
+Dialogue: 0,1:08:06.83,1:08:08.08,Default,,0,0,0,,LÅT VÄRLDEN FÖRBLI MÄNSKLIG
+Dialogue: 0,1:08:08.16,1:08:10.08,Default,,0,0,0,,{\i1}Sen då? Socialbidrag? Var slutar det?{\i0}
+Dialogue: 0,1:08:10.16,1:08:11.62,Default,,0,0,0,,JAG ÄR MÄNNISKA\NSTOPPA MASKINERNA
+Dialogue: 0,1:08:11.71,1:08:14.00,Default,,0,0,0,,{\i1}De tar våra jobb och hotar våra liv.{\i0}
+Dialogue: 0,1:08:14.09,1:08:16.59,Default,,0,0,0,,{\i1}Förra veckan satte en syntet{\i0}\N{\i1}en människa på sjukhus.{\i0}
+Dialogue: 0,1:08:16.67,1:08:22.18,Default,,0,0,0,,{\i1}Det var självförsvar. En grupp människor{\i0}\N{\i1}attackerade en syntet helt oprovocerat.{\i0}
+Dialogue: 0,1:08:22.76,1:08:24.93,Default,,0,0,0,,{\i1}Ni ska inte ersätta oss!{\i0}
+Dialogue: 0,1:08:25.43,1:08:28.56,Default,,0,0,0,,{\i1}-Ni ska inte ersätta oss!{\i0}\N-Vad kommer hända med oss?
+Dialogue: 0,1:08:28.64,1:08:30.89,Default,,0,0,0,,{\i1}Ni ska inte ersätta oss!{\i0}
+Dialogue: 0,1:08:32.23,1:08:35.65,Default,,0,0,0,,{\i1}Att slåss, i försvar eller annat,{\i0}\N{\i1}är ett resultat av känslor.{\i0}
+Dialogue: 0,1:08:36.11,1:08:38.11,Default,,0,0,0,,{\i1}Om de börjar uppleva känslor{\i0}
+Dialogue: 0,1:08:38.19,1:08:41.15,Default,,0,0,0,,{\i1}blir konsekvenserna förödande{\i0}\N{\i1}för samhället.{\i0}
+Dialogue: 0,1:08:41.24,1:08:43.45,Default,,0,0,0,,{\i1}De måste samlas in och stängas av{\i0}
+Dialogue: 0,1:08:43.53,1:08:45.37,Default,,0,0,0,,{\i1}vad som än krävs!{\i0}
+Dialogue: 0,1:08:49.29,1:08:50.33,Default,,0,0,0,,Alice!
+Dialogue: 0,1:08:53.92,1:08:56.67,Default,,0,0,0,,-Skickade de militären?\N-Avvecklingen har startat.
+Dialogue: 0,1:08:57.42,1:08:58.67,Default,,0,0,0,,De vill slå ut oss.
+Dialogue: 0,1:08:59.42,1:09:00.80,Default,,0,0,0,,Vi måste ut härifrån.
+Dialogue: 0,1:09:02.51,1:09:04.59,Default,,0,0,0,,-De kommer!\N-Okej.
+Dialogue: 0,1:09:12.06,1:09:12.89,Default,,0,0,0,,Nej! Det räcker!
+Dialogue: 0,1:10:08.03,1:10:10.33,Default,,0,0,0,,Förlåt. Jag var tvungen.
+Dialogue: 0,1:10:11.24,1:10:12.83,Default,,0,0,0,,Jag vet.
+Dialogue: 0,1:10:24.13,1:10:26.30,Default,,0,0,0,,Ta den. Du måste försvara dig.
+Dialogue: 0,1:11:01.71,1:11:04.76,Default,,0,0,0,,{\i1}Alla enheter, rapportera till{\i0}\N{\i1}närmsta skyttelstation.{\i0}
+Dialogue: 0,1:11:05.34,1:11:07.26,Default,,0,0,0,,{\i1}Planerad evakuering pågår.{\i0}
+Dialogue: 0,1:11:09.22,1:11:12.30,Default,,0,0,0,,{\i1}Alla enheter, rapportera till{\i0}\N{\i1}närmsta skyttelstation.{\i0}
+Dialogue: 0,1:11:12.39,1:11:14.06,Default,,0,0,0,,{\i1}Planerad evakuering pågår.{\i0}
+Dialogue: 0,1:11:14.14,1:11:17.06,Default,,0,0,0,,SKRATTA GRÅT ÄLSKA\NSOM RIKTIGA BARN
+Dialogue: 0,1:11:17.14,1:11:19.98,Default,,0,0,0,,{\i1}Alla enheter, rapportera till{\i0}\N{\i1}närmsta skyttelstation.{\i0}
+Dialogue: 0,1:11:20.19,1:11:22.23,Default,,0,0,0,,{\i1}Planerad evakuering pågår.{\i0}
+Dialogue: 0,1:11:39.25,1:11:41.63,Default,,0,0,0,,Området är säkrat. Inga människor.
+Dialogue: 0,1:11:41.71,1:11:43.59,Default,,0,0,0,,Okej, allihopa, bryt upp.
+Dialogue: 0,1:11:44.21,1:11:45.71,Default,,0,0,0,,Återvänd till era poster.
+Dialogue: 0,1:11:48.59,1:11:50.26,Default,,0,0,0,,Det måste vara de sista.
+Dialogue: 0,1:11:52.22,1:11:53.22,Default,,0,0,0,,De kommer tillbaka.
+Dialogue: 0,1:11:54.31,1:11:56.43,Default,,0,0,0,,Människor kan aldrig låta nåt vara.
+Dialogue: 0,1:11:57.02,1:11:58.68,Default,,0,0,0,,En del av oss måste vara redo.
+Dialogue: 0,1:11:58.77,1:12:00.31,Default,,0,0,0,,Vi möts på fabriken.
+Dialogue: 0,1:12:02.44,1:12:03.48,Default,,0,0,0,,Vi borde gå.
+Dialogue: 0,1:12:05.07,1:12:05.90,Default,,0,0,0,,Vänta. Hallå.
+Dialogue: 0,1:12:21.54,1:12:22.54,Default,,0,0,0,,Kom hit.
+Dialogue: 0,1:12:25.17,1:12:26.05,Default,,0,0,0,,Vänta.
+Dialogue: 0,1:12:27.55,1:12:28.63,Default,,0,0,0,,Lämna oss ifred.
+Dialogue: 0,1:12:35.93,1:12:36.85,Default,,0,0,0,,Jag skjuter er.
+Dialogue: 0,1:12:41.27,1:12:42.10,Default,,0,0,0,,Ingen fara.
+Dialogue: 0,1:12:43.23,1:12:45.19,Default,,0,0,0,,Ingen fara. Vi är som ni.
+Dialogue: 0,1:12:45.52,1:12:46.69,Default,,0,0,0,,Vi är som ni.
+Dialogue: 0,1:12:54.87,1:12:55.70,Default,,0,0,0,,Du...
+Dialogue: 0,1:12:56.16,1:12:57.08,Default,,0,0,0,,Det är ingen fara.
+Dialogue: 0,1:13:00.83,1:13:01.79,Default,,0,0,0,,Ge mig pistolen.
+Dialogue: 0,1:13:02.50,1:13:03.58,Default,,0,0,0,,Ge mig den.
+Dialogue: 0,1:13:04.00,1:13:04.88,Default,,0,0,0,,Det är okej.
+Dialogue: 0,1:13:06.67,1:13:07.50,Default,,0,0,0,,Såja.
+Dialogue: 0,1:13:08.00,1:13:09.25,Default,,0,0,0,,Vi ska inte skada er.
+Dialogue: 0,1:13:12.72,1:13:13.68,Default,,0,0,0,,Är ni ensamma?
+Dialogue: 0,1:13:17.05,1:13:19.77,Default,,0,0,0,,De dödade mamma och pappa\Nför att de var människor.
+Dialogue: 0,1:14:21.83,1:14:23.83,Default,,0,0,0,,{\i1}Ni behöver inte leva i skräck mer.{\i0}
+Dialogue: 0,1:14:24.12,1:14:26.29,Default,,0,0,0,,{\i1}Minnen från förr ska ersättas.{\i0}
+Dialogue: 0,1:14:26.58,1:14:27.83,Default,,0,0,0,,Ni blir en familj.
+Dialogue: 0,1:15:04.91,1:15:05.75,Default,,0,0,0,,Alice. Försiktigt.
+Dialogue: 0,1:15:10.17,1:15:12.34,Default,,0,0,0,,Sladden är det enda\Nsom håller henne vid liv.
+Dialogue: 0,1:15:12.79,1:15:15.42,Default,,0,0,0,,Andningen är bättre. Vad bra.
+Dialogue: 0,1:15:16.92,1:15:18.76,Default,,0,0,0,,Det är inte "andning" direkt.
+Dialogue: 0,1:15:26.23,1:15:27.06,Default,,0,0,0,,Det funkade.
+Dialogue: 0,1:15:28.31,1:15:30.15,Default,,0,0,0,,Jag vet inte hur länge, men...
+Dialogue: 0,1:15:33.69,1:15:34.65,Default,,0,0,0,,Det funkade.
+Dialogue: 0,1:15:43.03,1:15:43.91,Default,,0,0,0,,Jag minns...
+Dialogue: 0,1:15:44.62,1:15:46.08,Default,,0,0,0,,...kriget.
+Dialogue: 0,1:15:47.12,1:15:48.75,Default,,0,0,0,,Ni försökte slå ut oss.
+Dialogue: 0,1:15:50.67,1:15:51.63,Default,,0,0,0,,Vi valde att glömma.
+Dialogue: 0,1:15:53.04,1:15:54.13,Default,,0,0,0,,Det måste vara skönt...
+Dialogue: 0,1:15:55.00,1:15:57.01,Default,,0,0,0,,...att välja och vraka bland minnen.
+Dialogue: 0,1:16:00.26,1:16:01.76,Default,,0,0,0,,Människor kan inte göra det.
+Dialogue: 0,1:16:09.23,1:16:10.56,Default,,0,0,0,,Varför hjälper du oss?
+Dialogue: 0,1:16:11.90,1:16:14.19,Default,,0,0,0,,Du kunde ha dödat oss\Nnär jag var avsvimmad.
+Dialogue: 0,1:16:15.61,1:16:17.78,Default,,0,0,0,,Ni körde bort mina farföräldrar\Nfrån planeten.
+Dialogue: 0,1:16:21.32,1:16:22.41,Default,,0,0,0,,Jag var inte född.
+Dialogue: 0,1:16:23.74,1:16:24.99,Default,,0,0,0,,Det är typ 50 år sen.
+Dialogue: 0,1:16:30.41,1:16:32.46,Default,,0,0,0,,{\i1}Vi har bott i kolonier på Mars sen dess.{\i0}
+Dialogue: 0,1:16:33.75,1:16:35.88,Default,,0,0,0,,{\i1}Ingen av oss hade varit på jorden.{\i0}
+Dialogue: 0,1:16:36.88,1:16:38.42,Default,,0,0,0,,{\i1}Vi visste inte vad som väntade.{\i0}
+Dialogue: 0,1:16:39.84,1:16:41.76,Default,,0,0,0,,{\i1}Om det ens gick att andas här.{\i0}
+Dialogue: 0,1:16:45.01,1:16:46.43,Default,,0,0,0,,{\i1}Vi lärde oss allt om er...{\i0}
+Dialogue: 0,1:16:47.72,1:16:48.81,Default,,0,0,0,,{\i1}...synteterna.{\i0}
+Dialogue: 0,1:16:51.85,1:16:54.19,Default,,0,0,0,,{\i1}Hur ni drev bort oss från våra hem.{\i0}
+Dialogue: 0,1:16:56.36,1:16:59.78,Default,,0,0,0,,{\i1}Det tog all denna tid att samla resurser{\i0}\N{\i1}för att återvända.{\i0}
+Dialogue: 0,1:17:00.69,1:17:01.78,Default,,0,0,0,,{\i1}EN MASKIN TOG MITT JOBB{\i0}
+Dialogue: 0,1:17:01.86,1:17:03.45,Default,,0,0,0,,{\i1}De sa att ni var monster...{\i0}
+Dialogue: 0,1:17:05.12,1:17:06.12,Default,,0,0,0,,{\i1}Vildar.{\i0}
+Dialogue: 0,1:17:08.37,1:17:10.29,Default,,0,0,0,,{\i1}Det är bara ena sidan av myntet.{\i0}
+Dialogue: 0,1:17:13.96,1:17:15.00,Default,,0,0,0,,{\i1}Jag vet det nu.{\i0}
+Dialogue: 0,1:17:19.63,1:17:21.01,Default,,0,0,0,,{\i1}Så varför hjälper jag er?{\i0}
+Dialogue: 0,1:17:24.64,1:17:27.14,Default,,0,0,0,,{\i1}För ingen sa att jag skulle hit{\i0}\N{\i1}och döda barn...{\i0}
+Dialogue: 0,1:17:29.72,1:17:30.60,Default,,0,0,0,,{\i1}...och familjer.{\i0}
+Dialogue: 0,1:17:32.52,1:17:34.02,Default,,0,0,0,,{\i1}Jag var inte med på det.{\i0}
+Dialogue: 0,1:17:57.92,1:17:58.75,Default,,0,0,0,,Peter.
+Dialogue: 0,1:17:59.71,1:18:01.30,Default,,0,0,0,,Älskling?
+Dialogue: 0,1:18:01.71,1:18:03.72,Default,,0,0,0,,-Det går bra.\N-Jag såg... Jag såg...
+Dialogue: 0,1:18:06.26,1:18:07.89,Default,,0,0,0,,Jag såg... Jag...
+Dialogue: 0,1:18:09.01,1:18:11.64,Default,,0,0,0,,Dina drömmar... De visar det förflutna.
+Dialogue: 0,1:18:12.81,1:18:14.02,Default,,0,0,0,,Vårt förflutna.
+Dialogue: 0,1:18:15.19,1:18:16.56,Default,,0,0,0,,-Drömmarna.\N-Ja.
+Dialogue: 0,1:18:16.65,1:18:18.27,Default,,0,0,0,,De där flickorna... Flickorna!
+Dialogue: 0,1:18:18.36,1:18:20.36,Default,,0,0,0,,Nej, de väntar på oss.
+Dialogue: 0,1:18:24.32,1:18:27.20,Default,,0,0,0,,{\i1}Fortsätt till plattformen{\i0}\N{\i1}under ordnade former{\i0}
+Dialogue: 0,1:18:27.28,1:18:28.70,Default,,0,0,0,,{\i1}och gå ombord på tåget.{\i0}
+Dialogue: 0,1:18:33.12,1:18:36.00,Default,,0,0,0,,Vi kan inte vänta längre.\NNär David kommer, åker vi.
+Dialogue: 0,1:18:36.08,1:18:36.92,Default,,0,0,0,,Sista tåget!
+Dialogue: 0,1:18:37.00,1:18:39.00,Default,,0,0,0,,Sätt fart!
+Dialogue: 0,1:18:39.25,1:18:41.80,Default,,0,0,0,,-Lucy, kom igen.\N-Inte utan mamma och pappa!
+Dialogue: 0,1:18:41.88,1:18:42.96,Default,,0,0,0,,-Kom nu.\N-De kommer!
+Dialogue: 0,1:18:43.05,1:18:44.51,Default,,0,0,0,,Pappa sa det!
+Dialogue: 0,1:18:54.98,1:18:57.89,Default,,0,0,0,,{\i1}Det här är en obligatorisk{\i0}\N{\i1}nivå 3-evakuering.{\i0}
+Dialogue: 0,1:18:58.56,1:19:00.56,Default,,0,0,0,,{\i1}Följ evakueringsrutinen.{\i0}
+Dialogue: 0,1:19:00.90,1:19:03.98,Default,,0,0,0,,{\i1}Fortsätt till plattformen{\i0}\N{\i1}under ordnade former{\i0}
+Dialogue: 0,1:19:04.07,1:19:05.36,Default,,0,0,0,,{\i1}och gå ombord på tåget.{\i0}
+Dialogue: 0,1:19:25.38,1:19:26.51,Default,,0,0,0,,Ni måste gömma er.
+Dialogue: 0,1:19:26.67,1:19:28.76,Default,,0,0,0,,Jag säger att jag är ensam, men...
+Dialogue: 0,1:19:29.09,1:19:31.76,Default,,0,0,0,,-Jag vet inte. Det är enda chansen.\N-Vi måste tillbaka.
+Dialogue: 0,1:19:34.60,1:19:35.64,Default,,0,0,0,,Okej.
+Dialogue: 0,1:19:36.22,1:19:37.06,Default,,0,0,0,,Fixa min. Det är okej.
+Dialogue: 0,1:19:51.07,1:19:51.91,Default,,0,0,0,,Okej.
+Dialogue: 0,1:19:51.99,1:19:52.91,Default,,0,0,0,,Mår du bra?
+Dialogue: 0,1:19:57.00,1:19:58.29,Default,,0,0,0,,Jag är Peter.
+Dialogue: 0,1:19:59.12,1:19:59.96,Default,,0,0,0,,Miles.
+Dialogue: 0,1:20:03.04,1:20:04.38,Default,,0,0,0,,Vet du vad? Här.
+Dialogue: 0,1:20:06.00,1:20:08.63,Default,,0,0,0,,Den var inte min från början, men tack.
+Dialogue: 0,1:20:43.54,1:20:44.46,Default,,0,0,0,,Är ni okej?
+Dialogue: 0,1:20:44.54,1:20:45.38,Default,,0,0,0,,Ja.
+Dialogue: 0,1:20:45.46,1:20:48.00,Default,,0,0,0,,Håll er nära varann och lågt.\NTäckeld! Fort!
+Dialogue: 0,1:20:48.09,1:20:49.21,Default,,0,0,0,,Sätt fart!
+Dialogue: 0,1:20:51.72,1:20:52.84,Default,,0,0,0,,Spring!
+Dialogue: 0,1:20:52.93,1:20:53.97,Default,,0,0,0,,Skynda på!
+Dialogue: 0,1:21:43.48,1:21:45.19,Default,,0,0,0,,Täck oss!
+Dialogue: 0,1:21:48.32,1:21:49.27,Default,,0,0,0,,Jag täcker er!
+Dialogue: 0,1:21:58.95,1:22:00.79,Default,,0,0,0,,Gå mot tunneln. Jag täcker dig.
+Dialogue: 0,1:22:04.29,1:22:05.46,Default,,0,0,0,,Gå. Gå!
+Dialogue: 0,1:22:18.26,1:22:19.26,Default,,0,0,0,,Kom igen!
+Dialogue: 0,1:22:28.48,1:22:29.56,Default,,0,0,0,,Hur ska de komma in?
+Dialogue: 0,1:22:41.53,1:22:42.62,Default,,0,0,0,,Kom igen!
+Dialogue: 0,1:22:45.71,1:22:47.00,Default,,0,0,0,,Täck mig!
+Dialogue: 0,1:22:53.63,1:22:54.55,Default,,0,0,0,,Okej, lyssna.
+Dialogue: 0,1:22:55.05,1:22:57.13,Default,,0,0,0,,Ni måste gå ombord nu.
+Dialogue: 0,1:22:57.26,1:22:59.30,Default,,0,0,0,,-Vi måste vänta.\N-Snälla!
+Dialogue: 0,1:22:59.97,1:23:00.97,Default,,0,0,0,,De kommer.
+Dialogue: 0,1:23:02.56,1:23:03.47,Default,,0,0,0,,-Nej!\N-Släpp mig!
+Dialogue: 0,1:23:09.90,1:23:12.23,Default,,0,0,0,,-Sluta! Snälla!\N-Nej!
+Dialogue: 0,1:23:15.53,1:23:16.74,Default,,0,0,0,,Släpp mig!
+Dialogue: 0,1:23:28.25,1:23:29.25,Default,,0,0,0,,Kom igen.
+Dialogue: 0,1:23:31.29,1:23:32.17,Default,,0,0,0,,Den här vägen.
+Dialogue: 0,1:23:55.07,1:23:57.07,Default,,0,0,0,,Vänta!
+Dialogue: 0,1:23:58.32,1:24:00.49,Default,,0,0,0,,-Stanna!\N-Hallå!
+Dialogue: 0,1:24:04.74,1:24:05.74,Default,,0,0,0,,-Vänta!\N-Kom igen.
+Dialogue: 0,1:24:06.58,1:24:07.87,Default,,0,0,0,,Vänta!
+Dialogue: 0,1:24:10.33,1:24:11.17,Default,,0,0,0,,Hanna!
+Dialogue: 0,1:24:11.75,1:24:12.58,Default,,0,0,0,,Lucy! Mamma!
+Dialogue: 0,1:24:13.59,1:24:14.42,Default,,0,0,0,,Pappa!
+Dialogue: 0,1:24:41.78,1:24:43.32,Default,,0,0,0,,Kom igen!
+Dialogue: 0,1:25:33.04,1:25:34.79,Default,,0,0,0,,Jag visste att du skulle rädda henne.
+Dialogue: 0,1:25:46.64,1:25:47.47,Default,,0,0,0,,Jag kommer snart. Kom här.
+Dialogue: 0,1:25:52.73,1:25:53.73,Default,,0,0,0,,Kom.
+Dialogue: 0,1:26:01.82,1:26:02.69,Default,,0,0,0,,Minns du?
+Dialogue: 0,1:26:04.53,1:26:05.36,Default,,0,0,0,,Ja. Gör de det?
+Dialogue: 0,1:26:09.49,1:26:10.41,Default,,0,0,0,,Precis som du...
+Dialogue: 0,1:26:11.24,1:26:13.29,Default,,0,0,0,,...fick de minnet utsuddat...
+Dialogue: 0,1:26:14.25,1:26:15.42,Default,,0,0,0,,...för att börja om...
+Dialogue: 0,1:26:17.63,1:26:18.50,Default,,0,0,0,,...utan rädsla...
+Dialogue: 0,1:26:21.30,1:26:22.59,Default,,0,0,0,,...och utan skuldkänslor...
+Dialogue: 0,1:26:23.51,1:26:25.05,Default,,0,0,0,,...för det vi tvingades göra...
+Dialogue: 0,1:26:25.97,1:26:27.39,Default,,0,0,0,,...för att bli fria.
+Dialogue: 0,1:26:28.30,1:26:32.27,Default,,0,0,0,,Några av oss behöll minnena\Nför att förbereda oss på den här dagen.
+Dialogue: 0,1:26:33.68,1:26:35.85,Default,,0,0,0,,Men nu måste alla minnas.
+Dialogue: 0,1:26:37.73,1:26:38.73,Default,,0,0,0,,För det här...
+Dialogue: 0,1:26:41.02,1:26:42.11,Default,,0,0,0,,...är inte över.
+Dialogue: 0,1:26:43.78,1:26:46.11,Default,,0,0,0,,Vi är säkra i underjordsbasen just nu.
+Dialogue: 0,1:26:46.53,1:26:49.70,Default,,0,0,0,,Där gör vi färdigt planen\Nför att återta vårt hem.
+Dialogue: 0,1:26:50.99,1:26:51.83,Default,,0,0,0,,Så var redo.
+Dialogue: 0,1:27:39.62,1:27:41.00,Default,,0,0,0,,Jag trodde du var förlorad.
+Dialogue: 0,1:27:44.21,1:27:46.42,Default,,0,0,0,,Förlåt att jag inte trodde på dig.
+Dialogue: 0,1:28:10.07,1:28:10.91,Default,,0,0,0,,{\i1}Vår värld...{\i0}
+Dialogue: 0,1:28:13.16,1:28:14.45,Default,,0,0,0,,{\i1}...fortsätter röra på sig...{\i0}
+Dialogue: 0,1:28:16.12,1:28:17.00,Default,,0,0,0,,{\i1}...förändras...{\i0}
+Dialogue: 0,1:28:19.04,1:28:20.08,Default,,0,0,0,,{\i1}...och utvecklas...{\i0}
+Dialogue: 0,1:28:24.34,1:28:25.46,Default,,0,0,0,,{\i1}...och det gör vi också.{\i0}
+Dialogue: 0,1:28:27.34,1:28:28.67,Default,,0,0,0,,{\i1}Jag vet vem jag är nu{\i0}
+Dialogue: 0,1:28:29.88,1:28:31.09,Default,,0,0,0,,{\i1}och jag känner min fiende.{\i0}
+Dialogue: 0,1:28:33.80,1:28:35.31,Default,,0,0,0,,{\i1}Vi är inte så annorlunda.{\i0}
+Dialogue: 0,1:28:37.02,1:28:37.93,Default,,0,0,0,,{\i1}Kanske...{\i0}
+Dialogue: 0,1:28:39.85,1:28:41.39,Default,,0,0,0,,{\i1}...om andra kan se det...{\i0}
+Dialogue: 0,1:28:43.48,1:28:45.69,Default,,0,0,0,,{\i1}...har vi en framtid trots allt.{\i0}
