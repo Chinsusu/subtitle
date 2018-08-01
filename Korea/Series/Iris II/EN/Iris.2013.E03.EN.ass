@@ -1,0 +1,538 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:03.00,0:00:09.00,Default,,0,0,0,,VAV STUDIO .:. VIETTORRENT.VN\Nwww.facebook.com/VAV.AudioViet
+Dialogue: 0,0:00:09.01,0:00:16.00,Default,,0,0,0,,VAV STUDIO\N© Copyright 2013, All rights reserved
+Dialogue: 0,0:00:16.01,0:00:23.00,Default,,0,0,0,,Cảm ơn các nhà tài trợ đã donate để VAV\Ncó kinh phí thực hiện Thuyết minh phim.
+Dialogue: 0,0:00:23.01,0:00:30.00,Default,,0,0,0,,Việc chia sẻ trong cộng đồng\Nphải được sự đồng ý của VAV.
+Dialogue: 0,0:00:51.88,0:00:57.00,Default,,0,0,0,,Subtitles by DramaFever
+Dialogue: 0,0:01:22.92,0:01:25.11,Default,,0,0,0,,We've come to escort you out, sir.
+Dialogue: 0,0:01:56.83,0:01:57.96,Default,,0,0,0,,- Code nine.\N- Copy.
+Dialogue: 0,0:02:04.26,0:02:08.64,Default,,0,0,0,,What kind of work did you do\Nprior to your imprisonment?
+Dialogue: 0,0:02:12.49,0:02:14.76,Default,,0,0,0,,Where is the nearest safety house?
+Dialogue: 0,0:02:14.76,0:02:18.24,Default,,0,0,0,,- It's the Camp KC.\N- We can't keep him here.
+Dialogue: 0,0:02:18.24,0:02:21.37,Default,,0,0,0,,Move him there and the A team should take\Ncharge of the security and interrogation.
+Dialogue: 0,0:02:21.37,0:02:22.53,Default,,0,0,0,,Yes.
+Dialogue: 0,0:02:23.36,0:02:25.36,Default,,0,0,0,,{\i1}[Episode 2]{\i0}
+Dialogue: 0,0:03:06.82,0:03:08.92,Default,,0,0,0,,The 21st hour security status check. F1?
+Dialogue: 0,0:03:08.92,0:03:10.99,Default,,0,0,0,,- F1, all clear.\N- F2?
+Dialogue: 0,0:03:10.99,0:03:12.89,Default,,0,0,0,,- F2, all clear.\N- B1?
+Dialogue: 0,0:03:12.89,0:03:14.46,Default,,0,0,0,,B1, all clear.
+Dialogue: 0,0:03:14.70,0:03:16.26,Default,,0,0,0,,- D2?\N- D2, all clear.
+Dialogue: 0,0:03:17.10,0:03:22.87,Default,,0,0,0,,To be honest, I don't\Nunderstand why you're still alive.
+Dialogue: 0,0:03:22.87,0:03:26.13,Default,,0,0,0,,You betrayed your own country\Nand your organization.
+Dialogue: 0,0:03:26.13,0:03:29.39,Default,,0,0,0,,You're a monster who\Nmurdered your fellow agents.
+Dialogue: 0,0:03:29.39,0:03:35.03,Default,,0,0,0,,I entered the\NCentral Intelligence Service in 1972.
+Dialogue: 0,0:03:35.54,0:03:38.74,Default,,0,0,0,,So I've lived in the battlefield of\Nshadow warfare for over 40 years.
+Dialogue: 0,0:03:38.74,0:03:41.91,Default,,0,0,0,,Everything that the NSS does is illegal.
+Dialogue: 0,0:03:41.91,0:03:44.39,Default,,0,0,0,,Don't tell me that you didn't know that.
+Dialogue: 0,0:03:44.52,0:03:47.45,Default,,0,0,0,,From the beginning, the purpose\Nof a secret agency was to
+Dialogue: 0,0:03:47.45,0:03:52.54,Default,,0,0,0,,eliminate any dangerous element\Nthat threatens the national security.
+Dialogue: 0,0:03:52.55,0:03:55.97,Default,,0,0,0,,You delude yourself in thinking that\Nyou're still living in the cold war era.
+Dialogue: 0,0:03:55.97,0:04:01.40,Default,,0,0,0,,Don't you know? Now we're living in\Nthe era of communication and harmony.
+Dialogue: 0,0:04:01.70,0:04:03.92,Default,,0,0,0,,Do you really believe that?
+Dialogue: 0,0:04:12.89,0:04:18.73,Default,,0,0,0,,Your attention had been so fixated on the\NUnha-3 missile disguised as a carrier rocket...
+Dialogue: 0,0:04:18.73,0:04:21.77,Default,,0,0,0,,that you don't recognize the\Nconnection between
+Dialogue: 0,0:04:21.77,0:04:25.65,Default,,0,0,0,,North Korea and Iran pushing for\Ntheir nuclear proliferation goal.
+Dialogue: 0,0:04:44.42,0:04:45.58,Default,,0,0,0,,All clear.
+Dialogue: 0,0:04:46.53,0:04:49.63,Default,,0,0,0,,'Where there is no guidance,\Na nation falls...
+Dialogue: 0,0:04:49.63,0:04:52.37,Default,,0,0,0,,but in an abundance of counselors,\Nthere is safety.'
+Dialogue: 0,0:04:52.37,0:04:55.35,Default,,0,0,0,,Among the secret agencies in the world...
+Dialogue: 0,0:04:55.35,0:04:58.58,Default,,0,0,0,,the only one that's effectively\Nfunctioning is Mossad from Israel.
+Dialogue: 0,0:04:58.93,0:05:03.14,Default,,0,0,0,,Within two or three years, they assassinated\Nfour Iranian nuclear physicists.
+Dialogue: 0,0:05:03.14,0:05:08.02,Default,,0,0,0,,They also discovered the evidence that\NNorth Korea sold their nuclear technology to Syria.
+Dialogue: 0,0:05:08.54,0:05:11.91,Default,,0,0,0,,That should be the NSS's role.
+Dialogue: 0,0:05:12.74,0:05:17.80,Default,,0,0,0,,For the security of the nation and its\Npeople, they carry out shadow warfare.
+Dialogue: 0,0:05:18.53,0:05:22.95,Default,,0,0,0,,Surfing the internet and\Ncracking down on smuggling...
+Dialogue: 0,0:05:23.46,0:05:26.20,Default,,0,0,0,,It's not an agency for those\Nmundane things.
+Dialogue: 0,0:05:27.19,0:05:35.18,Default,,0,0,0,,I don't want some human trash\Nlike you talking about the NSS.
+Dialogue: 0,0:05:39.09,0:05:40.84,Default,,0,0,0,,Let's move.
+Dialogue: 0,0:05:45.34,0:05:48.43,Default,,0,0,0,,So the reason why you\Nsurrendered to the NSS is...
+Dialogue: 0,0:05:48.43,0:05:53.57,Default,,0,0,0,,because you were afraid IRIS would\Neliminate you. Isn't that right?
+Dialogue: 0,0:05:53.71,0:05:56.25,Default,,0,0,0,,You still have a long way to go,\NChief Park.
+Dialogue: 0,0:05:57.03,0:06:00.03,Default,,0,0,0,,IRIS can never kill me.
+Dialogue: 0,0:06:15.68,0:06:17.95,Default,,0,0,0,,Why can't they kill you?
+Dialogue: 0,0:06:18.87,0:06:22.87,Default,,0,0,0,,What does IRIS want from you?
+Dialogue: 0,0:06:23.29,0:06:31.61,Default,,0,0,0,,And you know damn well why we are fussing\Nover these newspapers looking for things.
+Dialogue: 0,0:06:37.72,0:06:42.53,Default,,0,0,0,,That's the problem you need\Nto solve yourself.
+Dialogue: 0,0:07:33.71,0:07:36.27,Default,,0,0,0,,No need for greetings\Nsince you're all working.
+Dialogue: 0,0:07:36.56,0:07:39.45,Default,,0,0,0,,Where is Section Chief Park Joon Han?\NHe's not answering his phone.
+Dialogue: 0,0:07:39.96,0:07:42.23,Default,,0,0,0,,He's at the Camp KC.
+Dialogue: 0,0:07:43.05,0:07:44.61,Default,,0,0,0,,What's the situation there?
+Dialogue: 0,0:07:44.61,0:07:46.60,Default,,0,0,0,,Did they find out anything\Nfrom Baek San?
+Dialogue: 0,0:07:46.66,0:07:47.92,Default,,0,0,0,,Not yet.
+Dialogue: 0,0:08:52.07,0:08:53.25,Default,,0,0,0,,Flare!
+Dialogue: 0,0:09:09.53,0:09:12.15,Default,,0,0,0,,- What's going on?\N- The safety house has been discovered.
+Dialogue: 0,0:09:12.15,0:09:14.71,Default,,0,0,0,,All communications, including\Ncell phones, have been disabled.
+Dialogue: 0,0:09:18.47,0:09:23.24,Default,,0,0,0,,IRIS seems to have left\Na shadow behind at the NSS.
+Dialogue: 0,0:09:35.03,0:09:36.60,Default,,0,0,0,,C4.
+Dialogue: 0,0:09:41.64,0:09:43.60,Default,,0,0,0,,- You do it.\N- Yes, sir.
+Dialogue: 0,0:10:14.45,0:10:16.10,Default,,0,0,0,,Find the target.
+Dialogue: 0,0:10:19.77,0:10:21.47,Default,,0,0,0,,What the hell is this?
+Dialogue: 0,0:10:22.07,0:10:24.85,Default,,0,0,0,,Find all the vehicles that approached the\Nhouse within the last hour and trace them.
+Dialogue: 0,0:10:24.95,0:10:27.11,Default,,0,0,0,,Mi Jin, contact the deputy director!
+Dialogue: 0,0:10:27.11,0:10:28.91,Default,,0,0,0,,Someone hacked into the server.
+Dialogue: 0,0:10:28.94,0:10:30.73,Default,,0,0,0,,Secure Baek San to safety.
+Dialogue: 0,0:10:30.91,0:10:34.43,Default,,0,0,0,,Send the SWAT team and also call the\Nnearest police station for backup.
+Dialogue: 0,0:12:15.72,0:12:16.76,Default,,0,0,0,,Go.
+Dialogue: 0,0:13:26.29,0:13:27.89,Default,,0,0,0,,Leave!
+Dialogue: 0,0:13:56.66,0:13:57.74,Default,,0,0,0,,Go. Go.
+Dialogue: 0,0:14:01.53,0:14:03.50,Default,,0,0,0,,- Did you locate the vehicle?\N- Two vehicles went out.
+Dialogue: 0,0:14:03.50,0:14:05.16,Default,,0,0,0,,Transmit a signal for the car that left first.
+Dialogue: 0,0:15:00.79,0:15:01.90,Default,,0,0,0,,{\i1}[1709 Corps]{\i0}
+Dialogue: 0,0:15:17.56,0:15:19.66,Default,,0,0,0,,Head back to the base.
+Dialogue: 0,0:15:42.12,0:15:45.08,Default,,0,0,0,,Requesting emergency manual 76.
+Dialogue: 0,0:15:45.93,0:15:47.73,Default,,0,0,0,,Emergency manual 76.
+Dialogue: 0,0:16:38.53,0:16:40.37,Default,,0,0,0,,Are you awake now?
+Dialogue: 0,0:16:41.27,0:16:44.09,Default,,0,0,0,,Please go back to your room.\NI'll bring your attending physician.
+Dialogue: 0,0:16:44.09,0:16:46.04,Default,,0,0,0,,No, I need to go now.
+Dialogue: 0,0:16:46.04,0:16:47.61,Default,,0,0,0,,Would you bring me my clothes?
+Dialogue: 0,0:16:47.66,0:16:49.78,Default,,0,0,0,,Then please sit here and wait.
+Dialogue: 0,0:16:49.92,0:16:52.03,Default,,0,0,0,,I'll bring your doctor now.
+Dialogue: 0,0:16:53.89,0:16:56.49,Default,,0,0,0,,Do you have to be somewhere\Nin a rush?
+Dialogue: 0,0:16:57.09,0:16:59.62,Default,,0,0,0,,Had I known you were awake,\NI'd have brought you a cup.
+Dialogue: 0,0:16:59.92,0:17:03.04,Default,,0,0,0,,They've safely removed the\Nbullet near the bone.
+Dialogue: 0,0:17:03.04,0:17:06.06,Default,,0,0,0,,It's fortunate that your bone\Nwasn't damaged too much.
+Dialogue: 0,0:17:06.44,0:17:09.11,Default,,0,0,0,,But it'll be better if you don't\Nhandle guns for a while.
+Dialogue: 0,0:17:10.01,0:17:12.53,Default,,0,0,0,,I heard you are called, 'Top Gun'.
+Dialogue: 0,0:17:12.62,0:17:14.04,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:17:14.33,0:17:19.51,Default,,0,0,0,,I guess you can say I'm the kind-hearted boss\Nwho came to visit one of her injured agents.
+Dialogue: 0,0:17:20.39,0:17:23.35,Default,,0,0,0,,I'm the new Deputy Director, Choi Min.
+Dialogue: 0,0:17:23.83,0:17:24.93,Default,,0,0,0,,Yes.
+Dialogue: 0,0:17:25.85,0:17:28.81,Default,,0,0,0,,- I'm sorry.\N- No, that's okay. Have a seat.
+Dialogue: 0,0:17:34.40,0:17:36.27,Default,,0,0,0,,By any chance...
+Dialogue: 0,0:17:36.27,0:17:41.35,Default,,0,0,0,,other than me, was there anyone else\Nwho got hurt because of Baek San?
+Dialogue: 0,0:17:44.55,0:17:46.92,Default,,0,0,0,,There has been an accident.
+Dialogue: 0,0:18:11.87,0:18:14.44,Default,,0,0,0,,{\i1}Thank you.{\i0}
+Dialogue: 0,0:18:15.16,0:18:17.34,Default,,0,0,0,,Where is Baek San now?
+Dialogue: 0,0:18:18.26,0:18:20.12,Default,,0,0,0,,You don't trust me?
+Dialogue: 0,0:18:20.12,0:18:22.85,Default,,0,0,0,,Why he surrendered to the NSS....
+Dialogue: 0,0:18:22.85,0:18:25.35,Default,,0,0,0,,What he was looking for on\Nthe Russian daily...
+Dialogue: 0,0:18:25.99,0:18:29.79,Default,,0,0,0,,We must make him talk.
+Dialogue: 0,0:18:30.30,0:18:32.74,Default,,0,0,0,,Otherwise, Section Chief Park...
+Dialogue: 0,0:18:36.84,0:18:40.48,Default,,0,0,0,,Section Chief Park's death will\Nmean nothing.
+Dialogue: 0,0:19:44.46,0:19:48.55,Default,,0,0,0,,His eyebrows were a little darker.\NAnd make his nose a little higher.
+Dialogue: 0,0:19:48.55,0:19:51.62,Default,,0,0,0,,Alright. Okay. Like... like this?
+Dialogue: 0,0:19:52.29,0:19:55.15,Default,,0,0,0,,I think the features are pretty similar.
+Dialogue: 0,0:20:03.36,0:20:04.89,Default,,0,0,0,,Did it come out?
+Dialogue: 0,0:20:05.22,0:20:06.77,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:20:10.71,0:20:12.10,Default,,0,0,0,,Hey, Hyun Woo...
+Dialogue: 0,0:20:12.20,0:20:15.31,Default,,0,0,0,,In 2009, there could have been\Nnuclear terrorism in Seoul.
+Dialogue: 0,0:20:15.31,0:20:16.53,Default,,0,0,0,,What?
+Dialogue: 0,0:20:16.53,0:20:20.05,Default,,0,0,0,,That was before I joined the NSS\Nso I didn't get to experience it.
+Dialogue: 0,0:20:20.57,0:20:23.77,Default,,0,0,0,,But I learned this from reading\Nthe report for the recent incident.
+Dialogue: 0,0:20:23.77,0:20:28.17,Default,,0,0,0,,The terrorists were highly trained North Korean\Nsecurity personnel and the mastermind was
+Dialogue: 0,0:20:28.18,0:20:30.93,Default,,0,0,0,,receiving support from IRIS and that was...
+Dialogue: 0,0:20:32.08,0:20:33.93,Default,,0,0,0,,Lieutenant General Yum Gi Hoon.
+Dialogue: 0,0:20:33.93,0:20:35.82,Default,,0,0,0,,Then the object was...
+Dialogue: 0,0:20:35.98,0:20:41.08,Default,,0,0,0,,Start a war and while dealing with it...\Nhe intended to take over the power.
+Dialogue: 0,0:20:41.53,0:20:46.84,Default,,0,0,0,,IRIS has never shown\Nitself since that incident.
+Dialogue: 0,0:20:46.92,0:20:49.47,Default,,0,0,0,,But it's showing itself again now.
+Dialogue: 0,0:20:49.47,0:20:50.93,Default,,0,0,0,,There must be a reason.
+Dialogue: 0,0:20:50.93,0:20:52.80,Default,,0,0,0,,I wonder...
+Dialogue: 0,0:20:54.10,0:20:56.14,Default,,0,0,0,,what that reason is?
+Dialogue: 0,0:20:58.93,0:21:01.28,Default,,0,0,0,,Attention please.\NSomeone's here.
+Dialogue: 0,0:21:01.42,0:21:03.27,Default,,0,0,0,,Hey, look who's here.
+Dialogue: 0,0:21:03.36,0:21:04.73,Default,,0,0,0,,How are you feeling?
+Dialogue: 0,0:21:04.73,0:21:06.72,Default,,0,0,0,,I'm relieved that you've recovered.
+Dialogue: 0,0:21:07.02,0:21:08.42,Default,,0,0,0,,I'm completely fine now.
+Dialogue: 0,0:21:09.99,0:21:15.14,Default,,0,0,0,,But please spare me from going out on\Nthe field with Seo Hyun Woo for a while.
+Dialogue: 0,0:21:15.96,0:21:17.16,Default,,0,0,0,,She means it.
+Dialogue: 0,0:21:18.80,0:21:20.14,Default,,0,0,0,,Come over here.
+Dialogue: 0,0:21:23.97,0:21:27.37,Default,,0,0,0,,I'm surprised that you\Nare leading the NSS now.
+Dialogue: 0,0:21:28.22,0:21:29.74,Default,,0,0,0,,Why is that?
+Dialogue: 0,0:21:29.74,0:21:32.70,Default,,0,0,0,,When you were at the\NNational Intelligence Service...
+Dialogue: 0,0:21:32.70,0:21:35.43,Default,,0,0,0,,you wanted to shut down the NSS.
+Dialogue: 0,0:21:35.61,0:21:37.92,Default,,0,0,0,,What if I haven't changed my mind?
+Dialogue: 0,0:21:38.67,0:21:43.23,Default,,0,0,0,,First, IRIS continues to look for you.
+Dialogue: 0,0:21:43.23,0:21:48.60,Default,,0,0,0,,Second, you want to get away from IRIS\Neven if that means imprisonment.
+Dialogue: 0,0:21:48.60,0:21:54.32,Default,,0,0,0,,Therefore you have the key\Nto something IRIS wants.
+Dialogue: 0,0:21:54.65,0:21:56.06,Default,,0,0,0,,What do you think?
+Dialogue: 0,0:21:56.44,0:21:59.82,Default,,0,0,0,,You bring in your net a little to easily.
+Dialogue: 0,0:22:00.39,0:22:04.54,Default,,0,0,0,,It could just be a jellyfish or\Nstarfish caught in the net.
+Dialogue: 0,0:22:04.85,0:22:10.43,Default,,0,0,0,,If you want a real big catch,\Nyou'll need some more patience.
+Dialogue: 0,0:22:13.57,0:22:17.42,Default,,0,0,0,,Sure, why not.\NYou are the bait anyway.
+Dialogue: 0,0:22:17.60,0:22:20.50,Default,,0,0,0,,Dead bait won't do you any good.
+Dialogue: 0,0:22:20.94,0:22:25.21,Default,,0,0,0,,So you'll have to protect me thoroughly.
+Dialogue: 0,0:22:27.84,0:22:29.58,Default,,0,0,0,,Jung Yoo Gun.
+Dialogue: 0,0:22:30.11,0:22:32.86,Default,,0,0,0,,I'd like to speak to him.
+Dialogue: 0,0:22:33.85,0:22:39.91,Default,,0,0,0,,Who knows? He may be the bait\Nfor making me talk.
+Dialogue: 0,0:23:02.28,0:23:04.75,Default,,0,0,0,,Hi. Hi, excuse me.
+Dialogue: 0,0:23:05.22,0:23:10.21,Default,,0,0,0,,These pills are made out of\Nground male frogs in heat.
+Dialogue: 0,0:23:10.21,0:23:15.47,Default,,0,0,0,,If you take one of these, for three\Ndays and four nights, you'll never tire out.
+Dialogue: 0,0:23:15.47,0:23:18.79,Default,,0,0,0,,You probably didn't score that many\Npoints on your first night.
+Dialogue: 0,0:23:18.79,0:23:23.34,Default,,0,0,0,,Your flight was right after the ceremony\Nso I'm sure your first night wasn't much.
+Dialogue: 0,0:23:25.04,0:23:28.10,Default,,0,0,0,,I charge $100 to the Chinese\Nand Japanese people.
+Dialogue: 0,0:23:28.10,0:23:31.42,Default,,0,0,0,,Special half-off discount for you guys,\Nso just give me 50 bucks.
+Dialogue: 0,0:23:32.76,0:23:34.25,Default,,0,0,0,,Give it to me.
+Dialogue: 0,0:23:43.40,0:23:45.53,Default,,0,0,0,,Move over! Move!
+Dialogue: 0,0:23:46.21,0:23:48.62,Default,,0,0,0,,Move! Get out of my way!
+Dialogue: 0,0:25:42.25,0:25:43.75,Default,,0,0,0,,You again?
+Dialogue: 0,0:25:46.91,0:25:50.63,Default,,0,0,0,,Anyway, how the hell did you\Nget in here?
+Dialogue: 0,0:25:51.62,0:25:54.78,Default,,0,0,0,,I told you I'm not going with you.
+Dialogue: 0,0:25:56.17,0:25:58.57,Default,,0,0,0,,How many times do I have to tell you?
+Dialogue: 0,0:26:17.55,0:26:19.03,Default,,0,0,0,,I'm hungry, too.
+Dialogue: 0,0:26:19.54,0:26:22.08,Default,,0,0,0,,Then why didn't you buy your\Nfood on your way here?
+Dialogue: 0,0:26:26.94,0:26:28.53,Default,,0,0,0,,I can't eat because you are\Ngiving me indigestion.
+Dialogue: 0,0:26:28.53,0:26:31.74,Default,,0,0,0,,I can't even swallow my food.\NSo stop looking at me.
+Dialogue: 0,0:26:37.50,0:26:41.71,Default,,0,0,0,,Don't you need money? I'm sure you\Ndidn't escape the North to live like this.
+Dialogue: 0,0:26:41.99,0:26:43.57,Default,,0,0,0,,What's wrong with the way I live?
+Dialogue: 0,0:26:43.74,0:26:47.76,Default,,0,0,0,,You keep on talking about money. And\Nyou may think I'm strapped for cash...
+Dialogue: 0,0:26:47.76,0:26:49.66,Default,,0,0,0,,but I also have ambition.
+Dialogue: 0,0:26:49.91,0:26:51.66,Default,,0,0,0,,I'm saying I have a dream.
+Dialogue: 0,0:26:51.82,0:26:56.18,Default,,0,0,0,,Once I save enough money, I'll start\Nimporting used cars from South Korea.
+Dialogue: 0,0:26:56.18,0:27:00.93,Default,,0,0,0,,And I'm going to become a cool\Nused car dealer here in Siem Reap.
+Dialogue: 0,0:27:01.43,0:27:03.55,Default,,0,0,0,,- You'll see.\N- When?
+Dialogue: 0,0:27:03.55,0:27:06.09,Default,,0,0,0,,When would you have\Nsaved enough to become a dealer?
+Dialogue: 0,0:27:06.18,0:27:08.32,Default,,0,0,0,,Fine. You keep on talking\Nabout big money.
+Dialogue: 0,0:27:08.96,0:27:11.25,Default,,0,0,0,,So how much are you willing\Nto give me?
+Dialogue: 0,0:27:12.94,0:27:14.14,Default,,0,0,0,,Will you do it?
+Dialogue: 0,0:27:14.14,0:27:16.36,Default,,0,0,0,,If it's all cash at once,\Nyou have a deal.
+Dialogue: 0,0:27:16.83,0:27:19.25,Default,,0,0,0,,First...
+Dialogue: 0,0:27:19.25,0:27:21.74,Default,,0,0,0,,let me hear what it's about.
+Dialogue: 0,0:27:23.15,0:27:26.05,Default,,0,0,0,,It's a mission I received from IRIS.
+Dialogue: 0,0:27:28.24,0:27:30.24,Default,,0,0,0,,IRIS?
+Dialogue: 0,0:27:31.37,0:27:35.35,Default,,0,0,0,,Are you running an errand\Nfor a florist or a cafe or something?
+Dialogue: 0,0:27:38.51,0:27:40.67,Default,,0,0,0,,You've completely gone insane.
+Dialogue: 0,0:27:49.25,0:27:51.14,Default,,0,0,0,,Yun Hwa.
+Dialogue: 0,0:27:51.57,0:27:53.63,Default,,0,0,0,,I can't do it.
+Dialogue: 0,0:27:54.70,0:27:56.86,Default,,0,0,0,,You shouldn't do it either.
+Dialogue: 0,0:27:57.13,0:27:59.56,Default,,0,0,0,,Do you know what kind of\Nplace that is?
+Dialogue: 0,0:27:59.59,0:28:04.55,Default,,0,0,0,,Also... do not come and see me again,\Nunless you leave IRIS.
+Dialogue: 0,0:28:06.74,0:28:08.00,Default,,0,0,0,,Hey! Hey! Hey!
+Dialogue: 0,0:28:08.00,0:28:11.49,Default,,0,0,0,,Come and take a look at my computer.\NMy connection just cut off all of a sudden.
+Dialogue: 0,0:28:11.49,0:28:13.28,Default,,0,0,0,,We don't have any connection either.
+Dialogue: 0,0:28:13.28,0:28:14.58,Default,,0,0,0,,What?
+Dialogue: 0,0:28:14.58,0:28:16.46,Default,,0,0,0,,There was a security level\Nclearance adjustment.
+Dialogue: 0,0:28:16.46,0:28:18.87,Default,,0,0,0,,Now there are only a few who have the\Naccess to the DVs inside the agency.
+Dialogue: 0,0:28:18.87,0:28:21.47,Default,,0,0,0,,They've blocked out all outside\Nconnections including the internet.
+Dialogue: 0,0:28:21.47,0:28:25.92,Default,,0,0,0,,I'm not sure how we're going to get\Nanything done without the internet.
+Dialogue: 0,0:28:26.00,0:28:30.72,Default,,0,0,0,,Finally, the time has come\Nfor me to retire.
+Dialogue: 0,0:28:40.15,0:28:42.38,Default,,0,0,0,,What did they say?\NIs everything okay?
+Dialogue: 0,0:28:43.01,0:28:45.22,Default,,0,0,0,,They said I should be fine\Nafter some physical therapy.
+Dialogue: 0,0:28:45.61,0:28:48.02,Default,,0,0,0,,By the way, why did you come\Nall the way here?
+Dialogue: 0,0:28:48.02,0:28:50.28,Default,,0,0,0,,I just wanted to see how you were.
+Dialogue: 0,0:28:50.30,0:28:51.73,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:28:54.14,0:28:58.05,Default,,0,0,0,,Don't hold a gun and\Ndon't even drive for a while.
+Dialogue: 0,0:28:58.28,0:29:00.48,Default,,0,0,0,,I'll drive you to work and\Nbring you home.
+Dialogue: 0,0:29:00.48,0:29:02.84,Default,,0,0,0,,I said I'm really fine.
+Dialogue: 0,0:29:02.84,0:29:05.10,Default,,0,0,0,,You don't need to do that, Team Leader.
+Dialogue: 0,0:29:12.61,0:29:14.30,Default,,0,0,0,,Soo Yun.
+Dialogue: 0,0:29:15.40,0:29:21.38,Default,,0,0,0,,Just this once...\Ncan you put my heart more at ease?
+Dialogue: 0,0:29:23.78,0:29:28.33,Default,,0,0,0,,My mom tells me I should quit the NSS\Nand come down to Jeju Island to get married.
+Dialogue: 0,0:29:28.72,0:29:31.54,Default,,0,0,0,,At this rate, she thought I might\Nend up as a spinster ghost.
+Dialogue: 0,0:29:34.00,0:29:35.83,Default,,0,0,0,,No, you can't become a ghost.
+Dialogue: 0,0:29:35.83,0:29:37.78,Default,,0,0,0,,I'm not joking.
+Dialogue: 0,0:30:00.65,0:30:02.26,Default,,0,0,0,,The Deputy Director wants to see you.
+Dialogue: 0,0:30:02.48,0:30:04.52,Default,,0,0,0,,- Right now?\N- Yes.
+Dialogue: 0,0:30:05.03,0:30:06.40,Default,,0,0,0,,Okay.
+Dialogue: 0,0:30:10.55,0:30:12.44,Default,,0,0,0,,Can I talk to you for a minute?
+Dialogue: 0,0:30:12.44,0:30:13.94,Default,,0,0,0,,Sure.
+Dialogue: 0,0:30:19.45,0:30:23.60,Default,,0,0,0,,I was just unpacking my things\Ndelivered from the States. Have a seat.
+Dialogue: 0,0:30:32.52,0:30:36.98,Default,,0,0,0,,I saw that you haven't been with\Nthe NSS for that long.
+Dialogue: 0,0:30:37.38,0:30:40.14,Default,,0,0,0,,Yes, it's been little over\Nthree years now.
+Dialogue: 0,0:30:41.15,0:30:43.45,Default,,0,0,0,,- Before, you were in the police force?\N- Yes.
+Dialogue: 0,0:30:43.82,0:30:49.89,Default,,0,0,0,,You may be aware of this already\Nbut there is a problem at the NSS.
+Dialogue: 0,0:30:49.89,0:30:51.17,Default,,0,0,0,,I know.
+Dialogue: 0,0:30:51.17,0:30:55.17,Default,,0,0,0,,Breaking into the safety house can't be\Ndone so easily without help from the inside.
+Dialogue: 0,0:30:55.17,0:30:58.91,Default,,0,0,0,,You are the only survivor from\Nthe safety house incident.
+Dialogue: 0,0:30:58.91,0:31:01.04,Default,,0,0,0,,Am I correct?
+Dialogue: 0,0:31:02.48,0:31:03.70,Default,,0,0,0,,Yes.
+Dialogue: 0,0:31:04.38,0:31:06.37,Default,,0,0,0,,I do not doubt you.
+Dialogue: 0,0:31:06.37,0:31:10.77,Default,,0,0,0,,If you were responsible, you either would\Nhave killed Baek San or let him escape.
+Dialogue: 0,0:31:10.77,0:31:14.15,Default,,0,0,0,,Is that why you've raised\Nthe security clearance level?
+Dialogue: 0,0:31:14.15,0:31:18.51,Default,,0,0,0,,The security clearance level two is applied\Nonly to code black or red situations.
+Dialogue: 0,0:31:18.51,0:31:20.73,Default,,0,0,0,,That may achieve the\Ndesired security level but...
+Dialogue: 0,0:31:20.73,0:31:25.46,Default,,0,0,0,,it'll slow down the response time from the\Nsituation room to the field during a mission.
+Dialogue: 0,0:31:28.24,0:31:31.92,Default,,0,0,0,,I wish you wouldn't assume that\NI don't know about field work.
+Dialogue: 0,0:31:32.86,0:31:39.46,Default,,0,0,0,,Terrorists no longer use email or cellphones\Nto exchange their secret information.
+Dialogue: 0,0:31:39.46,0:31:41.28,Default,,0,0,0,,Because it will be too easily discovered.
+Dialogue: 0,0:31:41.28,0:31:44.00,Default,,0,0,0,,They started exchanging information\Nusing primitive communication methods.
+Dialogue: 0,0:31:44.00,0:31:48.12,Default,,0,0,0,,They even make explosives that are\Nnot affected by electronic signals.
+Dialogue: 0,0:31:48.81,0:31:51.84,Default,,0,0,0,,We have to deal with highly-evolved\Nterrorists like that now.
+Dialogue: 0,0:31:51.84,0:31:56.23,Default,,0,0,0,,Even security's sake, it's not advisable\Nto put limitations on the situation room...
+Dialogue: 0,0:31:56.23,0:31:58.13,Default,,0,0,0,,They'll be much more free now.
+Dialogue: 0,0:31:59.13,0:32:04.06,Default,,0,0,0,,If you want to catch your enemy,\Nyou need to think and act like your enemy.
+Dialogue: 0,0:32:04.06,0:32:06.39,Default,,0,0,0,,There are two advantages to\Ninformation control.
+Dialogue: 0,0:32:06.39,0:32:10.93,Default,,0,0,0,,First, it'll prevent the intelligence leak.\NAnd the other is...
+Dialogue: 0,0:32:10.93,0:32:16.51,Default,,0,0,0,,the ones with authorization will\Nhave much more power.
+Dialogue: 0,0:32:17.88,0:32:22.49,Default,,0,0,0,,You are among those who have\Nthe authorization.
+Dialogue: 0,0:32:28.88,0:32:30.48,Default,,0,0,0,,Are you really feeling better?
+Dialogue: 0,0:32:30.48,0:32:33.30,Default,,0,0,0,,Yeah, I've been to the hospital\Nwith the Team Leader already.
+Dialogue: 0,0:32:33.30,0:32:34.78,Default,,0,0,0,,They said everything was fine.
+Dialogue: 0,0:32:34.79,0:32:38.06,Default,,0,0,0,,If you need to go to the hospital,\Nlet me know. I'll take you there.
+Dialogue: 0,0:32:38.06,0:32:41.76,Default,,0,0,0,,Wow, it's not so bad to get\Nhurt once in a while.
+Dialogue: 0,0:32:42.11,0:32:45.23,Default,,0,0,0,,- Everyone is being so attentive.\N- I'm sorry.
+Dialogue: 0,0:32:46.38,0:32:48.07,Default,,0,0,0,,Because of me...
+Dialogue: 0,0:32:52.63,0:32:55.24,Default,,0,0,0,,I'm... really okay.
+Dialogue: 0,0:32:55.24,0:32:57.13,Default,,0,0,0,,Stop blaming yourself now, okay?
+Dialogue: 0,0:33:01.05,0:33:04.03,Default,,0,0,0,,Do I have to give you private\Nshooting lessons or something?
+Dialogue: 0,0:33:04.03,0:33:07.84,Default,,0,0,0,,No, next time, I'll just get\Nout of the way quickly.
+Dialogue: 0,0:33:07.84,0:33:10.94,Default,,0,0,0,,I'll practice ducking and\Ngetting out the way.
+Dialogue: 0,0:33:12.33,0:33:15.70,Default,,0,0,0,,That's right. Now that you\Nare smiling, it's more like you.
+Dialogue: 0,0:33:15.70,0:33:18.96,Default,,0,0,0,,You are rather handsome now that\NI look at you up close.
+Dialogue: 0,0:33:18.96,0:33:20.77,Default,,0,0,0,,- Really?\N- Yeah.
+Dialogue: 0,0:33:20.77,0:33:22.60,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:33:23.04,0:33:24.73,Default,,0,0,0,,You're finally back.
+Dialogue: 0,0:33:26.80,0:33:28.21,Default,,0,0,0,,What are you guys talking about?
+Dialogue: 0,0:33:28.49,0:33:30.78,Default,,0,0,0,,She says I'm handsome.
+Dialogue: 0,0:33:32.57,0:33:33.97,Default,,0,0,0,,Hold on.
+Dialogue: 0,0:33:35.68,0:33:37.29,Default,,0,0,0,,Yes.
+Dialogue: 0,0:33:40.94,0:33:43.29,Default,,0,0,0,,Baek San wishes to see you.
+Dialogue: 0,0:33:43.29,0:33:49.33,Default,,0,0,0,,Don't try to get information out of him.
+Dialogue: 0,0:33:49.33,0:33:51.23,Default,,0,0,0,,Just become his conversational partner.
+Dialogue: 0,0:33:51.23,0:33:55.39,Default,,0,0,0,,If he says too much,\Nhe might make a mistake.
+Dialogue: 0,0:33:58.64,0:34:00.84,Default,,0,0,0,,You should take advantage of\Nthat moment.
+Dialogue: 0,0:34:11.35,0:34:14.94,Default,,0,0,0,,It feels stifling to be confined\Nfor so long.
+Dialogue: 0,0:34:15.56,0:34:19.07,Default,,0,0,0,,I'd like to get some fresh air.
+Dialogue: 0,0:34:20.61,0:34:22.53,Default,,0,0,0,,Is that possible?
+Dialogue: 0,0:34:34.01,0:34:37.33,Default,,0,0,0,,What do you think about shadows?
+Dialogue: 0,0:34:37.33,0:34:42.84,Default,,0,0,0,,I'm asking you whether you know when\Nthe shadows move and change.
+Dialogue: 0,0:34:45.54,0:34:48.09,Default,,0,0,0,,If the owner moves, it'll move.
+Dialogue: 0,0:34:48.09,0:34:53.87,Default,,0,0,0,,If the owner changes his hairstyle\Nor clothes, it'll change also.
+Dialogue: 0,0:34:55.94,0:34:58.26,Default,,0,0,0,,Then what about this?
+Dialogue: 0,0:34:58.70,0:35:01.63,Default,,0,0,0,,The owner hasn't changed at all...
+Dialogue: 0,0:35:01.63,0:35:07.30,Default,,0,0,0,,but the shadow changes depending on\Nwhether it's cast on a flat or rocky surface.
+Dialogue: 0,0:35:09.11,0:35:15.11,Default,,0,0,0,,Depending on the shape the world takes on,\Neach shadow will take a different form.
+Dialogue: 0,0:35:16.03,0:35:18.03,Default,,0,0,0,,Do you understand?
+Dialogue: 0,0:35:18.86,0:35:20.15,Default,,0,0,0,,Yes.
+Dialogue: 0,0:35:25.22,0:35:28.01,Default,,0,0,0,,I used to be like you before.
+Dialogue: 0,0:35:28.45,0:35:34.85,Default,,0,0,0,,You remind me of someone\NI used to know before.
+Dialogue: 0,0:35:34.85,0:35:37.65,Default,,0,0,0,,I have many memories of that person.
+Dialogue: 0,0:35:37.65,0:35:42.21,Default,,0,0,0,,Actually, that person told\Nme about shadows.
+Dialogue: 0,0:35:45.06,0:35:50.19,Default,,0,0,0,,Soon, there will be high-level talk between\Nthe North and the South held in Hungary.
+Dialogue: 0,0:35:50.57,0:35:56.32,Default,,0,0,0,,Four years ago, North Korea's prime minister,\NYoon Sung Chul, was assassinated there.
+Dialogue: 0,0:35:56.32,0:36:02.07,Default,,0,0,0,,I wonder why they decided to gather at\Nthe place they failed the meeting once before?
+Dialogue: 0,0:36:02.73,0:36:09.82,Default,,0,0,0,,Do you realize that there are also hawks and\Ndoves in the North just as here and the U.S.?
+Dialogue: 0,0:36:09.82,0:36:14.82,Default,,0,0,0,,There exists military hard-liners as well\Nas the moderates in the North.
+Dialogue: 0,0:36:15.20,0:36:19.45,Default,,0,0,0,,Several months ago, they succeeded in\Nlaunching a long distance ballistic missile.
+Dialogue: 0,0:36:19.45,0:36:22.66,Default,,0,0,0,,Now, they want to have a\Ntalk with us again.
+Dialogue: 0,0:36:23.16,0:36:25.89,Default,,0,0,0,,Those two are two different powers.
+Dialogue: 0,0:36:26.16,0:36:31.20,Default,,0,0,0,,The representatives from the North and\NSouth participating in this talk...
+Dialogue: 0,0:36:31.20,0:36:35.33,Default,,0,0,0,,will be typical of 'doves' in\Neach country.
+Dialogue: 0,0:36:35.40,0:36:40.03,Default,,0,0,0,,The South might select\Nformer president Jo Myung Ho.
+Dialogue: 0,0:36:40.03,0:36:44.31,Default,,0,0,0,,Why are you giving me this\Nkind of information?
+Dialogue: 0,0:36:45.34,0:36:50.70,Default,,0,0,0,,Since you saved my life,\NI'm only trying to pay back my dues.
+Dialogue: 0,0:36:51.41,0:36:57.89,Default,,0,0,0,,Listen. I'm not sure whether it'll target\Nthe North, the South or both...
+Dialogue: 0,0:36:57.89,0:37:01.83,Default,,0,0,0,,but something big is going to\Nhappen in Hungary.
+Dialogue: 0,0:37:04.14,0:37:09.56,Default,,0,0,0,,With this, I'll consider I've paid\Nmy debt I owe you for saving my life.
+Dialogue: 0,0:37:17.44,0:37:20.29,Default,,0,0,0,,The fact that Baek San knows\Nabout the secret talk...
+Dialogue: 0,0:37:20.29,0:37:22.25,Default,,0,0,0,,how do you interpret that?
+Dialogue: 0,0:37:24.66,0:37:29.17,Default,,0,0,0,,I'll discuss the talk schedule\Nwith the Chief of Staff.
+Dialogue: 0,0:37:29.51,0:37:32.35,Default,,0,0,0,,Prepare to brief us during our\Nmorning meeting.
+Dialogue: 0,0:38:10.99,0:38:12.47,Default,,0,0,0,,{\i1}No excuses.{\i0}
+Dialogue: 0,0:38:12.47,0:38:17.28,Default,,0,0,0,,{\i1}If I had known there was a hidden\Npassage, none of this would've happened.{\i0}
+Dialogue: 0,0:38:17.39,0:38:19.48,Default,,0,0,0,,{\i1}Last chance.{\i0}
+Dialogue: 0,0:38:54.05,0:38:56.27,Default,,0,0,0,,Who was it?
+Dialogue: 0,0:39:00.82,0:39:03.38,Default,,0,0,0,,I told you it was my cousin.
+Dialogue: 0,0:39:03.38,0:39:06.27,Default,,0,0,0,,He came from New York\Nnot too long ago.
+Dialogue: 0,0:39:06.27,0:39:09.23,Default,,0,0,0,,He always asks everything\Nabout housework.
+Dialogue: 0,0:39:09.75,0:39:12.68,Default,,0,0,0,,Did you say he lived alone?
+Dialogue: 0,0:39:12.68,0:39:14.75,Default,,0,0,0,,Yes.
+Dialogue: 0,0:40:14.60,0:40:17.45,Default,,0,0,0,,When did you get here?\NYou didn't even make a sound.
+Dialogue: 0,0:40:24.62,0:40:27.01,Default,,0,0,0,,I told you not to handle guns\Nfor a while.
+Dialogue: 0,0:40:27.01,0:40:31.88,Default,,0,0,0,,Ah, I felt better today so I tried it out\Nfor the first time since the injury.
+Dialogue: 0,0:40:31.93,0:40:36.14,Default,,0,0,0,,Ah, I know you come here first\Nas soon as you get to work.
+Dialogue: 0,0:40:36.14,0:40:37.85,Default,,0,0,0,,So I don't know what you're\Ntalking about.
+Dialogue: 0,0:40:37.96,0:40:39.82,Default,,0,0,0,,I got caught.
+Dialogue: 0,0:40:44.08,0:40:47.74,Default,,0,0,0,,Ever since I started shooting,\NI think I became like this.
+Dialogue: 0,0:40:47.74,0:40:52.64,Default,,0,0,0,,If things don't go the way I want,\NI get so anxious.
+Dialogue: 0,0:40:54.72,0:40:56.75,Default,,0,0,0,,Miss Ji Soo Yun.
+Dialogue: 0,0:40:57.80,0:41:00.16,Default,,0,0,0,,Do you need your\NTeam Leader's advice?
+Dialogue: 0,0:41:00.16,0:41:04.78,Default,,0,0,0,,If not, do you need to be\Ncomforted by your boyfriend?
+Dialogue: 0,0:41:05.82,0:41:08.22,Default,,0,0,0,,I need both.
+Dialogue: 0,0:41:14.60,0:41:17.99,Default,,0,0,0,,There is no place to hide here.
+Dialogue: 0,0:41:19.95,0:41:21.95,Default,,0,0,0,,Let's go in.
+Dialogue: 0,0:41:26.98,0:41:32.23,Default,,0,0,0,,But we can't just blindly trust the words from\NBaek San who's been imprisoned for treason.
+Dialogue: 0,0:41:32.23,0:41:34.05,Default,,0,0,0,,He might be making stuff up.
+Dialogue: 0,0:41:34.05,0:41:35.06,Default,,0,0,0,,That's impossible.
+Dialogue: 0,0:41:35.06,0:41:39.75,Default,,0,0,0,,This talk was initiated as top secret, so\Nthere aren't many agencies who know about it.
+Dialogue: 0,0:41:39.75,0:41:42.02,Default,,0,0,0,,The talk schedule and representative\Nhave been finalized only recently.
+Dialogue: 0,0:41:42.02,0:41:45.16,Default,,0,0,0,,I'm sure he has an information source\Nwe don't know about.
+Dialogue: 0,0:41:45.36,0:41:50.08,Default,,0,0,0,,There might really be some secret code in\Nthe newspapers he's been reading.
+Dialogue: 0,0:41:50.08,0:41:52.10,Default,,0,0,0,,We might be getting jerked around by him.
+Dialogue: 0,0:41:52.10,0:41:57.09,Default,,0,0,0,,If Baek San knows about that talk,\Nthen IRIS probably knows a lot more.
+Dialogue: 0,0:41:59.09,0:42:01.34,Default,,0,0,0,,How many people were going to be sent\Nto support the presidential security staff?
+Dialogue: 0,0:42:01.34,0:42:03.77,Default,,0,0,0,,Including myself, it'll be Kang Byung Jin\Nand Kim Ji Won from the A Team.
+Dialogue: 0,0:42:03.77,0:42:07.58,Default,,0,0,0,,Since it's being planned as top secret,\Nthey didn't request for many personnel.
+Dialogue: 0,0:42:10.91,0:42:12.03,Default,,0,0,0,,Okay!
+Dialogue: 0,0:42:12.24,0:42:17.34,Default,,0,0,0,,All the field agents from the A Team are\Nto join the security staff during the talks.
+Dialogue: 0,0:42:17.34,0:42:18.63,Default,,0,0,0,,Yes.
+Dialogue: 0,0:42:21.32,0:42:23.59,Default,,0,0,0,,Go ahead and eat.\NI'm going to go soon.
+Dialogue: 0,0:42:33.46,0:42:35.14,Default,,0,0,0,,Let's not go.
+Dialogue: 0,0:42:36.03,0:42:38.18,Default,,0,0,0,,It could be really dangerous\Nthis time.
+Dialogue: 0,0:42:38.76,0:42:41.71,Default,,0,0,0,,Was there anything the A Team\Ndid that was not dangerous?
+Dialogue: 0,0:42:42.26,0:42:44.48,Default,,0,0,0,,It hasn't been that long since\Nyou recovered.
+Dialogue: 0,0:42:44.48,0:42:47.84,Default,,0,0,0,,I eat really well\Nand I'm super healthy.
+Dialogue: 0,0:42:48.32,0:42:50.66,Default,,0,0,0,,Do I have to finish\Nanother plate for you to believe me?
+Dialogue: 0,0:42:51.23,0:42:52.94,Default,,0,0,0,,Soo Yun.
+Dialogue: 0,0:42:52.94,0:42:56.88,Default,,0,0,0,,Before you started at the NSS,\NI promised something to the Deputy Chief.
+Dialogue: 0,0:42:58.99,0:43:02.61,Default,,0,0,0,,I promised him I'd protect you\Nso you don't get hurt.
+Dialogue: 0,0:43:03.70,0:43:06.79,Default,,0,0,0,,But I already broke that promise once.
+Dialogue: 0,0:43:07.94,0:43:10.23,Default,,0,0,0,,No more.
+Dialogue: 0,0:43:17.71,0:43:21.07,Default,,0,0,0,,If that place is as\Ndangerous as you said...
+Dialogue: 0,0:43:21.54,0:43:26.43,Default,,0,0,0,,do you think I'll be able to relax\Nhere all by myself?
+Dialogue: 0,0:43:27.94,0:43:32.59,Default,,0,0,0,,And also, I need to be\Naround you to be protected.
+Dialogue: 0,0:43:33.33,0:43:35.72,Default,,0,0,0,,I'm going.
+Dialogue: 0,0:43:37.79,0:43:39.84,Default,,0,0,0,,Take me with you.
+Dialogue: 0,0:43:40.45,0:43:42.74,Default,,0,0,0,,Take me. Take me. Take me.
+Dialogue: 0,0:43:48.34,0:43:50.65,Default,,0,0,0,,- Promise?\N- I don't know.
+Dialogue: 0,0:46:15.43,0:46:17.74,Default,,0,0,0,,Budapest is known for its\Ncongested streets.
+Dialogue: 0,0:46:17.74,0:46:22.50,Default,,0,0,0,,From the airport to our destination,\Nthe Hotel, it will take over an hour.
+Dialogue: 0,0:46:22.50,0:46:24.05,Default,,0,0,0,,The travel time is a bit long.
+Dialogue: 0,0:46:24.05,0:46:26.23,Default,,0,0,0,,The security will be taken care of by\Nthe security staff...
+Dialogue: 0,0:46:26.23,0:46:29.66,Default,,0,0,0,,Do we just need to be in charge of the\Ncommunication security and press control?
+Dialogue: 0,0:46:29.66,0:46:31.98,Default,,0,0,0,,There is one more thing this time.
+Dialogue: 0,0:46:31.98,0:46:35.70,Default,,0,0,0,,We need to wire-tap our talk partner.
+Dialogue: 0,0:46:35.70,0:46:36.82,Default,,0,0,0,,Excuse me?
+Dialogue: 0,0:46:36.82,0:46:38.55,Default,,0,0,0,,We are going to wire-tap the\NNorth Korean staff?
+Dialogue: 0,0:46:38.55,0:46:42.72,Default,,0,0,0,,In addition to their security staff...\Nwe'll need to wire-tap their rooms, too.
+Dialogue: 0,0:46:42.72,0:46:46.56,Default,,0,0,0,,You must immediately report any information\Nthat'll give our country an advantage.
+Dialogue: 0,0:46:47.47,0:46:49.54,Default,,0,0,0,,This is an open secret in our world.
+Dialogue: 0,0:46:49.54,0:46:52.26,Default,,0,0,0,,But the most important thing is...
+Dialogue: 0,0:46:52.26,0:46:55.32,Default,,0,0,0,,we can't let our information\Nleak to the other side.
+Dialogue: 0,0:46:56.35,0:46:58.14,Default,,0,0,0,,So be alert.
+Dialogue: 0,0:46:58.29,0:47:00.02,Default,,0,0,0,,Yes, I understand.
+Dialogue: 0,0:47:04.09,0:47:06.43,Default,,0,0,0,,- I asked to make it thorough.\N- Yes.
+Dialogue: 0,0:47:07.43,0:47:11.22,Default,,0,0,0,,And also what I mentioned at\Nthe cabinet meeting...
+Dialogue: 0,0:47:18.98,0:47:22.39,Default,,0,0,0,,I think it's about time I\Nstopped doing this.
+Dialogue: 0,0:47:22.93,0:47:24.59,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:47:25.02,0:47:28.57,Default,,0,0,0,,Try spending so much time with the\Nformer and current presidents.
+Dialogue: 0,0:47:28.57,0:47:30.96,Default,,0,0,0,,I've done this for too long.
+Dialogue: 0,0:47:31.25,0:47:33.32,Default,,0,0,0,,Would you like some vodka?
+Dialogue: 0,0:47:35.11,0:47:36.54,Default,,0,0,0,,I need to get back in there.
+Dialogue: 0,0:47:36.54,0:47:40.10,Default,,0,0,0,,By the way, why did you decide to\Njoin this schedule?
+Dialogue: 0,0:47:40.10,0:47:44.50,Default,,0,0,0,,This was something the former\Npresident has pushed for until the end.
+Dialogue: 0,0:47:45.24,0:47:49.05,Default,,0,0,0,,And the new president asked me to join,\Ngiving us this presidential plane to use.
+Dialogue: 0,0:47:49.11,0:47:50.65,Default,,0,0,0,,So I had no say in this.
+Dialogue: 0,0:47:50.65,0:47:55.60,Default,,0,0,0,,I understand President Ha Seung Jin has\Na different opinion about this talk.
+Dialogue: 0,0:47:55.72,0:47:58.24,Default,,0,0,0,,Didn't you come here to\Ncheck that out?
+Dialogue: 0,0:48:01.72,0:48:03.96,Default,,0,0,0,,That's right.
+Dialogue: 0,0:48:03.96,0:48:08.03,Default,,0,0,0,,You used to be pretty close\Nto President Ha Seung Jin.
+Dialogue: 0,0:48:09.32,0:48:13.68,Default,,0,0,0,,The road map he envisions is very different\Nthan that of former President Jo Myung Ho.
+Dialogue: 0,0:48:13.68,0:48:16.76,Default,,0,0,0,,Unless there is a premise of\Nstopping the nuclear testing...
+Dialogue: 0,0:48:16.76,0:48:19.17,Default,,0,0,0,,he won't give them any support\Nwhatsoever.
+Dialogue: 0,0:48:20.07,0:48:23.32,Default,,0,0,0,,It's not the carrot and stick approach\Nbut it's the exact opposite.
+Dialogue: 0,0:48:23.32,0:48:27.14,Default,,0,0,0,,The North won't be too thrilled\Nabout that.
+Dialogue: 0,0:48:27.14,0:48:29.79,Default,,0,0,0,,Last winter, after they succeeded\Nin launching their missile...
+Dialogue: 0,0:48:29.86,0:48:33.30,Default,,0,0,0,,the North was close to developing ICBM.\N(Inter Continental Ballistic Missiles)
+Dialogue: 0,0:48:33.31,0:48:37.16,Default,,0,0,0,,If they succeed in making a nuclear arm\Nand also achieve its miniaturization...
+Dialogue: 0,0:48:37.16,0:48:39.04,Default,,0,0,0,,things will become much\Nmore serious.
+Dialogue: 0,0:48:39.65,0:48:47.14,Default,,0,0,0,,I believe the President has given the\Nformer president special terms for negotiation.
+Dialogue: 0,0:48:49.22,0:48:51.58,Default,,0,0,0,,It's not going to be that easy.
+Dialogue: 0,0:48:54.06,0:48:56.67,Default,,0,0,0,,Ah, how is the NSS?
+Dialogue: 0,0:48:57.49,0:48:59.33,Default,,0,0,0,,You are okay with the Director?
+Dialogue: 0,0:49:14.16,0:49:19.50,Default,,0,0,0,,I'm not sure whether it'll target\Nthe North, the South or both...
+Dialogue: 0,0:49:19.50,0:49:22.77,Default,,0,0,0,,but something big is going to\Nhappen in Hungary.
+Dialogue: 0,0:49:23.59,0:49:25.41,Default,,0,0,0,,What are you thinking about?
+Dialogue: 0,0:49:31.63,0:49:36.53,Default,,0,0,0,,Do you think IRIS... will show up?
+Dialogue: 0,0:49:38.10,0:49:42.07,Default,,0,0,0,,They'll show up alright.\NBut the question is...
+Dialogue: 0,0:49:42.79,0:49:44.81,Default,,0,0,0,,how?
+Dialogue: 0,0:49:45.66,0:49:47.41,Default,,0,0,0,,The question is how?
+Dialogue: 0,0:49:47.59,0:49:49.16,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:49:49.35,0:49:52.91,Default,,0,0,0,,After looking at the incident\Nreports involving IRIS...
+Dialogue: 0,0:49:53.72,0:49:57.27,Default,,0,0,0,,I noticed it would always use\Ntwo forces at odds...
+Dialogue: 0,0:49:57.27,0:50:01.44,Default,,0,0,0,,to fight each other to achieve its means\Nwithout getting themselves directly involved.
+Dialogue: 0,0:50:01.44,0:50:04.27,Default,,0,0,0,,Then this time...
+Dialogue: 0,0:50:04.27,0:50:07.53,Default,,0,0,0,,the North and the South\Ncould have a conflict.
+Dialogue: 0,0:50:08.96,0:50:12.05,Default,,0,0,0,,Then do we have two enemies now?
+Dialogue: 0,0:50:13.80,0:50:16.40,Default,,0,0,0,,One is North Korea...
+Dialogue: 0,0:50:17.66,0:50:20.52,Default,,0,0,0,,and the other is IRIS.
+Dialogue: 0,0:50:24.39,0:50:26.47,Default,,0,0,0,,What are you two doing?
+Dialogue: 0,0:50:26.47,0:50:28.61,Default,,0,0,0,,You were talking behind my back,\Nweren't you?
+Dialogue: 0,0:50:31.77,0:50:33.88,Default,,0,0,0,,I guess it's true.
+Dialogue: 0,0:50:34.50,0:50:36.93,Default,,0,0,0,,What is it, you two?
+Dialogue: 0,0:50:38.81,0:50:40.53,Default,,0,0,0,,{\i1}We'll be landing shortly.{\i0}
+Dialogue: 0,0:50:40.53,0:50:42.06,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:50:42.10,0:50:45.55,Default,,0,0,0,,{\i1}Please return to your seat and\Nput on your seat belt.{\i0}
+Dialogue: 0,0:50:45.55,0:50:47.05,Default,,0,0,0,,{\i1}Thank you.{\i0}
+Dialogue: 0,0:52:53.27,0:52:57.07,Default,,0,0,0,,The NSS has decided to join the party.
+Dialogue: 0,0:52:57.32,0:53:00.22,Default,,0,0,0,,I've made the necessary adjustments.
+Dialogue: 0,0:53:00.54,0:53:04.63,Default,,0,0,0,,No worries.\NWe're on the guest list.
+Dialogue: 0,0:53:13.81,0:53:16.07,Default,,0,0,0,,The first two are blanks.
+Dialogue: 0,0:53:17.29,0:53:19.43,Default,,0,0,0,,Hey, Sesame Leaf.\NHow long would it take to set it?
+Dialogue: 0,0:53:19.43,0:53:22.69,Default,,0,0,0,,First, I need to check\N105 frequencies individually.
+Dialogue: 0,0:53:22.69,0:53:24.73,Default,,0,0,0,,- And then...\N- So how long?
+Dialogue: 0,0:53:24.73,0:53:27.09,Default,,0,0,0,,It'll take at least five hours.
+Dialogue: 0,0:53:27.09,0:53:29.72,Default,,0,0,0,,If you say five hours, that means\Nit'll be done in three hours.
+Dialogue: 0,0:53:29.80,0:53:33.36,Default,,0,0,0,,Anyway, finish it within three hours.\NOrder anything you want from room service.
+Dialogue: 0,0:53:34.11,0:53:36.02,Default,,0,0,0,,Work hard.
+Dialogue: 0,0:53:36.24,0:53:37.85,Default,,0,0,0,,How can I do this in three hours?
+Dialogue: 0,0:53:41.83,0:53:45.15,Default,,0,0,0,,I heard the head of the North Korean\NSecurity Guard has changed.
+Dialogue: 0,0:53:45.15,0:53:46.53,Default,,0,0,0,,It's him.
+Dialogue: 0,0:53:47.84,0:53:53.47,Default,,0,0,0,,Four years ago, North Korean Prime Minister\NYoon Sung Chul was assassinated here in Budapest.
+Dialogue: 0,0:53:54.25,0:53:58.49,Default,,0,0,0,,At the time, Park Chul Young was a part of the\Nsecurity force assigned to protect Yoon Sung Chul.
+Dialogue: 0,0:53:58.93,0:54:02.73,Default,,0,0,0,,That's where Yoon Sung Chul\Nwas assassinated.
+Dialogue: 0,0:54:03.21,0:54:05.64,Default,,0,0,0,,I heard that from Baek San.
+Dialogue: 0,0:54:05.64,0:54:09.74,Default,,0,0,0,,But when I looked through the incident\Nfile at the time, I couldn't find anything.
+Dialogue: 0,0:54:10.20,0:54:11.44,Default,,0,0,0,,You won't be able to.
+Dialogue: 0,0:54:11.44,0:54:14.31,Default,,0,0,0,,Access to the information related\Nto that incident is prohibited.
+Dialogue: 0,0:54:14.31,0:54:18.08,Default,,0,0,0,,The President issued a special order being\Nmindful of North and South relations.
+Dialogue: 0,0:54:18.08,0:54:19.52,Default,,0,0,0,,The President?
+Dialogue: 0,0:54:19.52,0:54:23.91,Default,,0,0,0,,Former President Jo Myung Ho, who's\Nthe South's representative for this talk.
+Dialogue: 0,0:54:24.97,0:54:29.64,Default,,0,0,0,,This talk was supposed to\Nbe held in Russia.
+Dialogue: 0,0:54:29.64,0:54:35.54,Default,,0,0,0,,But through some military lines in the North,\Nthe meeting place suddenly changed to Hungary.
+Dialogue: 0,0:54:35.93,0:54:39.87,Default,,0,0,0,,As soon as the place for the talk\Nwas changed to Hungary...
+Dialogue: 0,0:54:39.87,0:54:43.32,Default,,0,0,0,,apparently, Park Chul Young volunteered\Nto be the head of the security staff.
+Dialogue: 0,0:54:43.32,0:54:46.08,Default,,0,0,0,,With the former Director\NBaek San's warning...
+Dialogue: 0,0:54:46.08,0:54:49.59,Default,,0,0,0,,considering all the circumstances,\NI think some kind of plot is being hatched.
+Dialogue: 0,0:54:50.02,0:54:55.48,Default,,0,0,0,,Park Chul Young may be anticipating\Nsomething bad happening here again.
+Dialogue: 0,0:55:10.03,0:55:12.30,Default,,0,0,0,,Are there any dead spots on the CCTV?
+Dialogue: 0,0:55:12.51,0:55:13.91,Default,,0,0,0,,No, sir.
+Dialogue: 0,0:55:14.08,0:55:15.86,Default,,0,0,0,,You can monitor every location from here.
+Dialogue: 0,0:55:16.08,0:55:17.65,Default,,0,0,0,,Okay, fine.
+Dialogue: 0,0:55:17.79,0:55:19.91,Default,,0,0,0,,- Good job.\N- Thank you, sir.
+Dialogue: 0,0:55:22.04,0:55:25.49,Default,,0,0,0,,I need to check all the cabinets.\NCan you please open the door for me?
+Dialogue: 0,0:55:26.05,0:55:29.54,Default,,0,0,0,,There are two ways.\NOne for deliveries and one for the office.
+Dialogue: 0,0:55:29.54,0:55:31.67,Default,,0,0,0,,Run a security status check and\Nreport back to me with the updates.
+Dialogue: 0,0:55:31.67,0:55:33.14,Default,,0,0,0,,Yes, I understand.
+Dialogue: 0,0:55:49.41,0:55:52.05,Default,,0,0,0,,Try closing in on point B in the A5 area.
+Dialogue: 0,0:56:06.31,0:56:08.47,Default,,0,0,0,,We've finished checking the area here.
+Dialogue: 0,0:56:10.22,0:56:15.00,Default,,0,0,0,,I heard we have a friendly\Nrelationship with Park Chul Young.
+Dialogue: 0,0:56:15.44,0:56:19.71,Default,,0,0,0,,But that's the part that bothers me.
+Dialogue: 0,0:56:19.71,0:56:21.94,Default,,0,0,0,,The original North Korean Head of\NSecurity was Kim Young Duk.
+Dialogue: 0,0:56:21.94,0:56:23.99,Default,,0,0,0,,He is well known as one of the\Nmilitary hard-liners.
+Dialogue: 0,0:56:23.99,0:56:28.64,Default,,0,0,0,,And the ones who changed the place for this\Ntalk to Hungary were the military hard-liners.
+Dialogue: 0,0:56:28.64,0:56:33.62,Default,,0,0,0,,You mean the two lines within the North Korean\Nmilitary are showing off their power through this talk?
+Dialogue: 0,0:56:34.86,0:56:40.89,Default,,0,0,0,,Park Chul Young wishes this talk to\Ncome to a success more than anybody.
+Dialogue: 0,0:56:41.15,0:56:45.95,Default,,0,0,0,,Then the ones who wish this talk fails are the\Nones who want to bring down Park Chul Young.
+Dialogue: 0,0:56:48.69,0:56:51.72,Default,,0,0,0,,Go sightseeing around the city\Nfor little while.
+Dialogue: 0,0:59:42.08,0:59:48.65,Default,,0,0,0,,Subtitles by DramaFever
+Dialogue: 0,1:00:02.59,1:00:04.66,Default,,0,0,0,,Nothing will happen tomorrow, right?
+Dialogue: 0,1:00:04.66,1:00:07.19,Default,,0,0,0,,Nothing will happen, but be careful.
+Dialogue: 0,1:00:07.19,1:00:11.07,Default,,0,0,0,,If we organize a unification committee,\Nhe'll be the first President.
+Dialogue: 0,1:00:11.07,1:00:13.95,Default,,0,0,0,,There's a high chance he'll become\Na target for the opposition.
+Dialogue: 0,1:00:16.77,1:00:19.10,Default,,0,0,0,,- What's the woman's name?\N- It's Mei, M-E-I.
+Dialogue: 0,1:00:26.02,1:00:28.27,Default,,0,0,0,,- I brought your shirt.\N- What's going on?
+Dialogue: 0,1:00:28.28,1:00:30.04,Default,,0,0,0,,Send her in.
+Dialogue: 0,1:00:30.72,1:00:31.72,Default,,0,0,0,,It's a different person.
+Dialogue: 0,1:00:31.72,1:00:33.50,Default,,0,0,0,,I can go in for a minute?
+Dialogue: 0,1:00:35.43,1:00:38.24,Default,,0,0,0,,I said you are not allowed to enter.\NBack off.
+Dialogue: 0,1:00:40.02,1:00:43.49,Default,,0,0,0,,There are two assassins.\NOne of them is identified as a woman.
+Dialogue: 0,1:00:46.09,1:00:47.54,Default,,0,0,0,,We are going to catch them.
+Dialogue: 0,1:00:47.54,1:00:49.43,Default,,0,0,0,,We have to find out no matter what.
+Dialogue: 0,1:00:49.43,1:00:50.51,Default,,0,0,0,,Yes, I understand.
+Dialogue: 0,1:01:19.22,1:01:22.53,Default,,0,0,0,,Have you discovered who's behind this?
+Dialogue: 0,1:01:23.03,1:01:28.03,Default,,0,0,0,,Not yet. But I believe there is a good\Npossibility that IRIS is behind this.
+Dialogue: 0,1:01:37.71,1:01:39.01,Default,,0,0,0,,Soo Yun.
+Dialogue: 0,1:01:39.56,1:01:45.19,Default,,0,0,0,,Just this once...\Ncan you put my heart at ease?
+Dialogue: 0,1:01:56.24,1:01:57.91,Default,,0,0,0,,Stop.
+Dialogue: 0,1:02:14.11,1:02:17.29,Default,,0,0,0,,Nothing will happen tomorrow, right?
+Dialogue: 0,1:02:17.30,1:02:31.80,Default,,0,0,0,,VAV STUDIO .:. VIETTORRENT.VN\Nwww.facebook.com/VAV.AudioViet\N© Copyright 2013, All rights reserved
