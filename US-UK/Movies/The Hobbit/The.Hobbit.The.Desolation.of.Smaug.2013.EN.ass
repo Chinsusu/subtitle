@@ -1,0 +1,1982 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:51.96,0:01:55.56,Default,,0,0,0,,I'm dying of thirst over here.\NCome on! Come on!
+Dialogue: 0,0:01:56.44,0:01:58.12,Default,,0,0,0,,- Here you are.\N- Thank you kindly.
+Dialogue: 0,0:02:02.16,0:02:04.56,Default,,0,0,0,,- Watch it!\N- Sorry, darling.
+Dialogue: 0,0:02:05.92,0:02:08.16,Default,,0,0,0,,- There you are.\N- Thank you.
+Dialogue: 0,0:02:15.36,0:02:16.85,Default,,0,0,0,,Master Stadle.
+Dialogue: 0,0:02:46.88,0:02:48.37,Default,,0,0,0,,Mind if I join you?
+Dialogue: 0,0:02:48.76,0:02:50.33,Default,,0,0,0,,I'll have the same.
+Dialogue: 0,0:02:56.12,0:02:58.69,Default,,0,0,0,,I should introduce myself.\NMy name is Gandalf.
+Dialogue: 0,0:03:00.28,0:03:01.40,Default,,0,0,0,,Gandalf the Grey.
+Dialogue: 0,0:03:01.96,0:03:03.64,Default,,0,0,0,,I know who you are.
+Dialogue: 0,0:03:04.00,0:03:07.16,Default,,0,0,0,,Well, now. This is a fine chance.
+Dialogue: 0,0:03:09.36,0:03:13.04,Default,,0,0,0,,What brings Thorin Oakenshield to Bree?
+Dialogue: 0,0:03:15.92,0:03:17.57,Default,,0,0,0,,I received word that my father...
+Dialogue: 0,0:03:18.36,0:03:19.57,Default,,0,0,0,,had been seen wandering...
+Dialogue: 0,0:03:19.60,0:03:21.56,Default,,0,0,0,,the Wilds near Dunland.
+Dialogue: 0,0:03:23.12,0:03:24.48,Default,,0,0,0,,I went looking.
+Dialogue: 0,0:03:25.40,0:03:26.73,Default,,0,0,0,,I found no sign of him.
+Dialogue: 0,0:03:28.44,0:03:30.32,Default,,0,0,0,,Thrain.
+Dialogue: 0,0:03:32.04,0:03:34.20,Default,,0,0,0,,You're like the others.
+Dialogue: 0,0:03:34.48,0:03:35.81,Default,,0,0,0,,You think he is dead.
+Dialogue: 0,0:03:36.36,0:03:38.56,Default,,0,0,0,,I was not at the Battle of Moria.
+Dialogue: 0,0:03:38.80,0:03:40.40,Default,,0,0,0,,No...
+Dialogue: 0,0:03:41.44,0:03:43.40,Default,,0,0,0,,but I was.
+Dialogue: 0,0:03:46.96,0:03:49.44,Default,,0,0,0,,{\i1}My grandfather... Thror...{\i0}
+Dialogue: 0,0:03:49.68,0:03:50.52,Default,,0,0,0,,{\i1}was slain.{\i0}
+Dialogue: 0,0:03:50.92,0:03:51.84,Default,,0,0,0,,No!
+Dialogue: 0,0:03:57.32,0:03:57.96,Default,,0,0,0,,Father.
+Dialogue: 0,0:03:58.20,0:03:58.80,Default,,0,0,0,,Stay back.
+Dialogue: 0,0:03:59.04,0:04:00.53,Default,,0,0,0,,No. I will fight with you.
+Dialogue: 0,0:04:00.80,0:04:03.16,Default,,0,0,0,,Azog means to kill us all.
+Dialogue: 0,0:04:03.88,0:04:07.64,Default,,0,0,0,,One by one, he will destroy\Nthe line of Durin.
+Dialogue: 0,0:04:07.88,0:04:11.44,Default,,0,0,0,,But by mine's life, he\Nshall not take my son.
+Dialogue: 0,0:04:11.72,0:04:12.96,Default,,0,0,0,,You will stay here.
+Dialogue: 0,0:04:16.96,0:04:20.96,Default,,0,0,0,,{\i1}My father led a charge\Ntowards the Dimrill Gate.{\i0}
+Dialogue: 0,0:04:21.20,0:04:21.96,Default,,0,0,0,,{\i1}He never returned.{\i0}
+Dialogue: 0,0:04:22.24,0:04:23.00,Default,,0,0,0,,Father!
+Dialogue: 0,0:04:33.60,0:04:36.96,Default,,0,0,0,,{\i1}"Thrain is gone," they told me.{\i0}
+Dialogue: 0,0:04:37.20,0:04:39.64,Default,,0,0,0,,{\i1}"He is one of the fallen."{\i0}
+Dialogue: 0,0:04:40.36,0:04:44.00,Default,,0,0,0,,{\i1}But at the end of that battle,\NI searched amongst the slain.{\i0}
+Dialogue: 0,0:04:44.24,0:04:46.40,Default,,0,0,0,,{\i1}To the last body.{\i0}
+Dialogue: 0,0:04:46.68,0:04:48.88,Default,,0,0,0,,My father was not among the dead.
+Dialogue: 0,0:04:49.12,0:04:50.92,Default,,0,0,0,,Thorin, it's been a long time...
+Dialogue: 0,0:04:51.16,0:04:53.04,Default,,0,0,0,,since anything but rumor was heard...
+Dialogue: 0,0:04:53.28,0:04:54.16,Default,,0,0,0,,of Thrain.
+Dialogue: 0,0:04:54.40,0:04:55.00,Default,,0,0,0,,He still lives.
+Dialogue: 0,0:04:55.24,0:04:56.76,Default,,0,0,0,,I am sure of it.
+Dialogue: 0,0:05:01.80,0:05:05.44,Default,,0,0,0,,The ring your grandfather wore,\None of the seven...
+Dialogue: 0,0:05:05.68,0:05:07.25,Default,,0,0,0,,given the Dwarf-lords...
+Dialogue: 0,0:05:07.48,0:05:09.13,Default,,0,0,0,,many years ago...
+Dialogue: 0,0:05:09.56,0:05:11.40,Default,,0,0,0,,what became of it?
+Dialogue: 0,0:05:13.64,0:05:16.96,Default,,0,0,0,,He gave it to my father\Nbefore they went into battle.
+Dialogue: 0,0:05:17.20,0:05:20.04,Default,,0,0,0,,So Thrain was wearing it when he...
+Dialogue: 0,0:05:20.60,0:05:21.68,Default,,0,0,0,,When he went missing.
+Dialogue: 0,0:05:25.40,0:05:27.12,Default,,0,0,0,,- That's that, then.\N- There you are.
+Dialogue: 0,0:05:29.40,0:05:31.05,Default,,0,0,0,,My father came to see you...
+Dialogue: 0,0:05:31.76,0:05:32.96,Default,,0,0,0,,before the Battle of Moria.
+Dialogue: 0,0:05:33.24,0:05:34.65,Default,,0,0,0,,What did you say to him?
+Dialogue: 0,0:05:34.88,0:05:38.28,Default,,0,0,0,,I urged him to march upon Erebor,\Nto rally...
+Dialogue: 0,0:05:38.56,0:05:40.40,Default,,0,0,0,,the seven armies of the Dwarves...
+Dialogue: 0,0:05:40.64,0:05:42.56,Default,,0,0,0,,to destroy the dragon and take back...
+Dialogue: 0,0:05:42.80,0:05:44.45,Default,,0,0,0,,the Lonely Mountain.
+Dialogue: 0,0:05:44.68,0:05:46.60,Default,,0,0,0,,And I would say the same to you.
+Dialogue: 0,0:05:47.32,0:05:49.84,Default,,0,0,0,,Take back your homeland.
+Dialogue: 0,0:05:53.64,0:05:56.84,Default,,0,0,0,,This is no chance meeting,\Nis it, Gandalf?
+Dialogue: 0,0:05:57.96,0:05:59.04,Default,,0,0,0,,No.
+Dialogue: 0,0:06:00.00,0:06:01.33,Default,,0,0,0,,It is not.
+Dialogue: 0,0:06:01.80,0:06:03.29,Default,,0,0,0,,The Lonely Mountain troubles me...
+Dialogue: 0,0:06:03.52,0:06:07.20,Default,,0,0,0,,Thorin. That dragon\Nhas sat there long enough.
+Dialogue: 0,0:06:07.44,0:06:08.48,Default,,0,0,0,,Sooner or later...
+Dialogue: 0,0:06:08.76,0:06:11.76,Default,,0,0,0,,darker minds will turn towards Erebor.
+Dialogue: 0,0:06:12.24,0:06:14.76,Default,,0,0,0,,I ran into some unsavory characters...
+Dialogue: 0,0:06:15.00,0:06:17.28,Default,,0,0,0,,whilst traveling on the Greenway.
+Dialogue: 0,0:06:17.56,0:06:20.29,Default,,0,0,0,,They mistook me for a Vagabond.
+Dialogue: 0,0:06:20.56,0:06:21.76,Default,,0,0,0,,I imagine they regretted that.
+Dialogue: 0,0:06:22.00,0:06:24.44,Default,,0,0,0,,One of them was carrying a message.
+Dialogue: 0,0:06:26.76,0:06:28.25,Default,,0,0,0,,It is Black Speech.
+Dialogue: 0,0:06:31.60,0:06:33.17,Default,,0,0,0,,A promise of payment.
+Dialogue: 0,0:06:33.60,0:06:34.60,Default,,0,0,0,,For what?
+Dialogue: 0,0:06:36.44,0:06:37.48,Default,,0,0,0,,Your head.
+Dialogue: 0,0:06:39.80,0:06:41.64,Default,,0,0,0,,Someone wants you dead.
+Dialogue: 0,0:06:42.96,0:06:46.12,Default,,0,0,0,,Thorin, you can wait no longer.\NYou are...
+Dialogue: 0,0:06:46.36,0:06:48.04,Default,,0,0,0,,the heir to the Throne of Durin.
+Dialogue: 0,0:06:48.84,0:06:50.72,Default,,0,0,0,,Unite the armies of the Dwarves.
+Dialogue: 0,0:06:51.04,0:06:53.08,Default,,0,0,0,,Together, you have the might and power...
+Dialogue: 0,0:06:53.32,0:06:55.24,Default,,0,0,0,,to retake Erebor.
+Dialogue: 0,0:06:55.76,0:06:57.76,Default,,0,0,0,,Summon a meeting\Nof the seven Dwarf families.
+Dialogue: 0,0:06:58.00,0:06:59.72,Default,,0,0,0,,Demand they stand by their oath.
+Dialogue: 0,0:07:00.00,0:07:03.89,Default,,0,0,0,,The seven armies swore that oath\Nto the one who wields the King's Jewel.
+Dialogue: 0,0:07:04.12,0:07:05.16,Default,,0,0,0,,The Arkenstone.
+Dialogue: 0,0:07:05.84,0:07:07.16,Default,,0,0,0,,It is the only thing that will...
+Dialogue: 0,0:07:07.28,0:07:08.80,Default,,0,0,0,,unite them,\Nand in case you have forgotten...
+Dialogue: 0,0:07:09.04,0:07:11.32,Default,,0,0,0,,that jewel was stolen by Smaug.
+Dialogue: 0,0:07:15.56,0:07:18.24,Default,,0,0,0,,What if I were to help you reclaim it?
+Dialogue: 0,0:07:20.00,0:07:21.04,Default,,0,0,0,,How?
+Dialogue: 0,0:07:22.32,0:07:24.32,Default,,0,0,0,,The Arkenstone lies half a world away...
+Dialogue: 0,0:07:24.56,0:07:27.08,Default,,0,0,0,,buried beneath the feet\Nof a fire-breathing dragon.
+Dialogue: 0,0:07:27.32,0:07:28.48,Default,,0,0,0,,Yes, it does.
+Dialogue: 0,0:07:29.80,0:07:32.40,Default,,0,0,0,,Which is why we're going to need a burglar.
+Dialogue: 0,0:08:33.24,0:08:34.44,Default,,0,0,0,,How close is the pack?
+Dialogue: 0,0:08:34.56,0:08:38.12,Default,,0,0,0,,Too close. A couple of leagues, no more.\NBut that's not the worst of it.
+Dialogue: 0,0:08:38.36,0:08:40.96,Default,,0,0,0,,- Have the Wargs picked up our scent?\N- Not yet. But they will do.
+Dialogue: 0,0:08:41.12,0:08:43.44,Default,,0,0,0,,- We have another problem.\N- Did they see you?
+Dialogue: 0,0:08:43.68,0:08:44.28,Default,,0,0,0,,They saw you.
+Dialogue: 0,0:08:44.52,0:08:45.24,Default,,0,0,0,,No, that's not it.
+Dialogue: 0,0:08:45.76,0:08:46.56,Default,,0,0,0,,What did I tell you?
+Dialogue: 0,0:08:46.76,0:08:48.09,Default,,0,0,0,,Quiet as a mouse.
+Dialogue: 0,0:08:49.16,0:08:50.36,Default,,0,0,0,,Excellent burglar material.
+Dialogue: 0,0:08:50.60,0:08:51.92,Default,,0,0,0,,Will you listen? Will you just...
+Dialogue: 0,0:08:52.08,0:08:53.24,Default,,0,0,0,,listen?
+Dialogue: 0,0:08:53.48,0:08:55.72,Default,,0,0,0,,I'm trying to tell you\Nthere is something else out there.
+Dialogue: 0,0:08:57.92,0:09:00.16,Default,,0,0,0,,What form did it take?
+Dialogue: 0,0:09:00.72,0:09:01.88,Default,,0,0,0,,Like a bear?
+Dialogue: 0,0:09:03.32,0:09:04.81,Default,,0,0,0,,Ye... Yes, but bigger.
+Dialogue: 0,0:09:05.04,0:09:06.12,Default,,0,0,0,,Much bigger.
+Dialogue: 0,0:09:07.08,0:09:08.20,Default,,0,0,0,,You knew about this beast?
+Dialogue: 0,0:09:10.12,0:09:11.24,Default,,0,0,0,,I say we double back.
+Dialogue: 0,0:09:11.52,0:09:13.60,Default,,0,0,0,,And be run down by a pack of Orcs?
+Dialogue: 0,0:09:13.92,0:09:15.57,Default,,0,0,0,,There is a house...
+Dialogue: 0,0:09:17.40,0:09:21.29,Default,,0,0,0,,it's not far from here,\Nwhere we might take refuge.
+Dialogue: 0,0:09:21.52,0:09:22.76,Default,,0,0,0,,Whose house?
+Dialogue: 0,0:09:23.04,0:09:24.24,Default,,0,0,0,,Are they friend or foe?
+Dialogue: 0,0:09:25.44,0:09:26.77,Default,,0,0,0,,Neither.
+Dialogue: 0,0:09:27.76,0:09:29.72,Default,,0,0,0,,He will help us or...
+Dialogue: 0,0:09:30.52,0:09:31.88,Default,,0,0,0,,he will kill us.
+Dialogue: 0,0:09:32.60,0:09:34.36,Default,,0,0,0,,What choice do we have?
+Dialogue: 0,0:09:36.92,0:09:38.08,Default,,0,0,0,,None.
+Dialogue: 0,0:09:45.36,0:09:46.85,Default,,0,0,0,,Come on!
+Dialogue: 0,0:09:57.12,0:09:58.92,Default,,0,0,0,,This way! Quickly!
+Dialogue: 0,0:09:59.20,0:09:59.80,Default,,0,0,0,,Run!
+Dialogue: 0,0:10:02.24,0:10:03.76,Default,,0,0,0,,Bombur, come on!
+Dialogue: 0,0:10:08.56,0:10:10.05,Default,,0,0,0,,To the house!
+Dialogue: 0,0:10:11.64,0:10:12.64,Default,,0,0,0,,Run!
+Dialogue: 0,0:10:21.12,0:10:22.48,Default,,0,0,0,,Come on, get inside.
+Dialogue: 0,0:10:36.04,0:10:37.20,Default,,0,0,0,,Open the door!
+Dialogue: 0,0:10:37.48,0:10:38.60,Default,,0,0,0,,Quickly!
+Dialogue: 0,0:10:47.80,0:10:49.64,Default,,0,0,0,,- Push!\N- Push!
+Dialogue: 0,0:10:53.56,0:10:54.16,Default,,0,0,0,,Dwalin!
+Dialogue: 0,0:10:54.40,0:10:55.28,Default,,0,0,0,,Come on, lads!
+Dialogue: 0,0:11:00.28,0:11:01.88,Default,,0,0,0,,What is... that?
+Dialogue: 0,0:11:02.84,0:11:04.44,Default,,0,0,0,,That is our host.
+Dialogue: 0,0:11:09.04,0:11:11.20,Default,,0,0,0,,His name is Beorn.
+Dialogue: 0,0:11:13.24,0:11:15.60,Default,,0,0,0,,And he's a skin-changer.
+Dialogue: 0,0:11:17.20,0:11:19.24,Default,,0,0,0,,Sometimes he's a huge black bear.
+Dialogue: 0,0:11:19.60,0:11:22.00,Default,,0,0,0,,Sometimes he's a great strong man.
+Dialogue: 0,0:11:22.28,0:11:24.36,Default,,0,0,0,,The bear is unpredictable...
+Dialogue: 0,0:11:24.60,0:11:26.80,Default,,0,0,0,,but the man can be reasoned with.\NHowever...
+Dialogue: 0,0:11:27.08,0:11:30.28,Default,,0,0,0,,he is not overfond of Dwarves.
+Dialogue: 0,0:11:33.20,0:11:34.44,Default,,0,0,0,,He's leaving.
+Dialogue: 0,0:11:34.68,0:11:36.64,Default,,0,0,0,,Come away from there.
+Dialogue: 0,0:11:36.92,0:11:39.36,Default,,0,0,0,,It's not natural. None of it.
+Dialogue: 0,0:11:39.60,0:11:41.56,Default,,0,0,0,,It's obvious. He's under some...
+Dialogue: 0,0:11:41.84,0:11:42.76,Default,,0,0,0,,dark spell.
+Dialogue: 0,0:11:43.00,0:11:44.00,Default,,0,0,0,,Don't be a fool.
+Dialogue: 0,0:11:44.24,0:11:46.64,Default,,0,0,0,,He's under no enchantment but his own.
+Dialogue: 0,0:11:47.20,0:11:50.09,Default,,0,0,0,,All right, now get some sleep. All of you.
+Dialogue: 0,0:11:50.32,0:11:52.68,Default,,0,0,0,,You'll be safe here tonight.
+Dialogue: 0,0:11:56.80,0:11:58.52,Default,,0,0,0,,I hope.
+Dialogue: 0,0:16:15.84,0:16:17.00,Default,,0,0,0,,Don't blame me!
+Dialogue: 0,0:16:17.28,0:16:18.69,Default,,0,0,0,,Come on, Dori!
+Dialogue: 0,0:16:28.08,0:16:30.60,Default,,0,0,0,,Well, I say we should leg it.\NSlip out the back way.
+Dialogue: 0,0:16:30.88,0:16:33.85,Default,,0,0,0,,I'm not running from anyone, beast or no.
+Dialogue: 0,0:16:34.08,0:16:35.41,Default,,0,0,0,,There is no point in arguing.
+Dialogue: 0,0:16:35.96,0:16:36.72,Default,,0,0,0,,We cannot pass...
+Dialogue: 0,0:16:36.96,0:16:38.80,Default,,0,0,0,,through the Wilderland\Nwithout Beorn's help.
+Dialogue: 0,0:16:39.84,0:16:42.88,Default,,0,0,0,,We'll be hunted down\Nbefore we ever get to the forest.
+Dialogue: 0,0:16:43.12,0:16:44.32,Default,,0,0,0,,Bilbo.
+Dialogue: 0,0:16:44.60,0:16:45.36,Default,,0,0,0,,There you are.
+Dialogue: 0,0:16:45.64,0:16:46.24,Default,,0,0,0,,Now...
+Dialogue: 0,0:16:46.52,0:16:49.49,Default,,0,0,0,,this will require\Nsome delicate handling.
+Dialogue: 0,0:16:49.72,0:16:51.76,Default,,0,0,0,,We must tread very carefully.
+Dialogue: 0,0:16:52.00,0:16:56.00,Default,,0,0,0,,The last person to have startled him\Nwas torn to shreds.
+Dialogue: 0,0:16:58.32,0:17:00.64,Default,,0,0,0,,I will go first and... Bilbo?
+Dialogue: 0,0:17:00.88,0:17:02.60,Default,,0,0,0,,You come with me.
+Dialogue: 0,0:17:03.88,0:17:06.48,Default,,0,0,0,,- Is this a good idea?\N- Yes.
+Dialogue: 0,0:17:06.72,0:17:09.00,Default,,0,0,0,,Now, the rest of you, you just wait here...
+Dialogue: 0,0:17:09.24,0:17:10.51,Default,,0,0,0,,and don't come out\Nuntil I give the signal.
+Dialogue: 0,0:17:10.52,0:17:11.81,Default,,0,0,0,,Right.
+Dialogue: 0,0:17:12.04,0:17:13.28,Default,,0,0,0,,Wait for the signal.
+Dialogue: 0,0:17:13.52,0:17:16.84,Default,,0,0,0,,And no sudden moves or loud noises,\Nand don't overcrowd him.
+Dialogue: 0,0:17:17.08,0:17:19.40,Default,,0,0,0,,And only come out in pairs. Right.
+Dialogue: 0,0:17:19.68,0:17:21.20,Default,,0,0,0,,No, actually, Bombur...
+Dialogue: 0,0:17:22.76,0:17:24.84,Default,,0,0,0,,um, you count as two\Nso you should come out alone.
+Dialogue: 0,0:17:27.32,0:17:29.92,Default,,0,0,0,,Remember, wait for the signal.
+Dialogue: 0,0:17:30.16,0:17:32.84,Default,,0,0,0,,The signal. Right.
+Dialogue: 0,0:17:33.08,0:17:34.12,Default,,0,0,0,,What signal would that be?
+Dialogue: 0,0:17:50.16,0:17:51.40,Default,,0,0,0,,- Ahem.\N- You're nervous.
+Dialogue: 0,0:17:55.68,0:17:58.88,Default,,0,0,0,,Nervous? What nonsense.
+Dialogue: 0,0:17:59.36,0:18:00.28,Default,,0,0,0,,Good morning.
+Dialogue: 0,0:18:06.88,0:18:08.68,Default,,0,0,0,,Good morning!
+Dialogue: 0,0:18:11.52,0:18:12.96,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:18:13.20,0:18:17.00,Default,,0,0,0,,I'm Gandalf. Gandalf the Grey.
+Dialogue: 0,0:18:21.84,0:18:23.72,Default,,0,0,0,,Never heard of him.
+Dialogue: 0,0:18:26.88,0:18:28.04,Default,,0,0,0,,I'm a Wizard.
+Dialogue: 0,0:18:28.48,0:18:31.16,Default,,0,0,0,,Perhaps you've heard of my colleague\NRadagast the Brown.
+Dialogue: 0,0:18:31.40,0:18:34.40,Default,,0,0,0,,He resides in the southern borders\Nof Mirkwood.
+Dialogue: 0,0:18:34.64,0:18:36.76,Default,,0,0,0,,What do you want?
+Dialogue: 0,0:18:37.00,0:18:40.56,Default,,0,0,0,,Well, simply to thank you\Nfor your hospitality.
+Dialogue: 0,0:18:40.84,0:18:42.56,Default,,0,0,0,,You may have noticed that we took refuge...
+Dialogue: 0,0:18:42.72,0:18:44.48,Default,,0,0,0,,in your lodgings here last night.
+Dialogue: 0,0:18:46.16,0:18:47.68,Default,,0,0,0,,Who is this... little fellow?
+Dialogue: 0,0:18:48.40,0:18:50.60,Default,,0,0,0,,Well, this would be Mr. Baggins...
+Dialogue: 0,0:18:50.84,0:18:51.88,Default,,0,0,0,,from the Shire.
+Dialogue: 0,0:18:53.96,0:18:56.28,Default,,0,0,0,,He's not a Dwarf, is he?
+Dialogue: 0,0:18:56.76,0:18:59.65,Default,,0,0,0,,Why, no. No, he's a Hobbit.
+Dialogue: 0,0:19:00.24,0:19:03.80,Default,,0,0,0,,A good family\Nand unimpeachable reputation.
+Dialogue: 0,0:19:04.04,0:19:07.44,Default,,0,0,0,,A Halfling and a Wizard.
+Dialogue: 0,0:19:08.36,0:19:09.60,Default,,0,0,0,,How come you here?
+Dialogue: 0,0:19:09.84,0:19:10.64,Default,,0,0,0,,Well, the fact is...
+Dialogue: 0,0:19:10.76,0:19:13.00,Default,,0,0,0,,that we've had a bad time of it...
+Dialogue: 0,0:19:13.24,0:19:16.08,Default,,0,0,0,,from Goblins in the mountains.
+Dialogue: 0,0:19:16.32,0:19:17.68,Default,,0,0,0,,What did you go near Goblins for?
+Dialogue: 0,0:19:17.96,0:19:19.45,Default,,0,0,0,,Stupid thing to do.
+Dialogue: 0,0:19:19.72,0:19:20.92,Default,,0,0,0,,You are absolutely...
+Dialogue: 0,0:19:21.16,0:19:22.24,Default,,0,0,0,,- ...right. No, it...\N- There it is. Go.
+Dialogue: 0,0:19:22.48,0:19:24.76,Default,,0,0,0,,- Go.\N- ...was terrible.
+Dialogue: 0,0:19:33.76,0:19:35.72,Default,,0,0,0,,Dwalin... and Balin.
+Dialogue: 0,0:19:35.96,0:19:37.16,Default,,0,0,0,,And I must...
+Dialogue: 0,0:19:37.44,0:19:39.40,Default,,0,0,0,,confess that, several...
+Dialogue: 0,0:19:39.64,0:19:42.92,Default,,0,0,0,,of our group are, in fact, Dwarves.
+Dialogue: 0,0:19:43.20,0:19:48.04,Default,,0,0,0,,Do you call two... "several"?
+Dialogue: 0,0:19:48.28,0:19:50.85,Default,,0,0,0,,Well, now you put it that way...
+Dialogue: 0,0:19:53.32,0:19:55.64,Default,,0,0,0,,Yes, there could be more...\N...than two.
+Dialogue: 0,0:19:56.40,0:19:57.08,Default,,0,0,0,,Go, go.
+Dialogue: 0,0:19:57.52,0:19:58.44,Default,,0,0,0,,Wait, that's us.
+Dialogue: 0,0:20:02.40,0:20:03.40,Default,,0,0,0,,And here are some more...
+Dialogue: 0,0:20:03.52,0:20:05.28,Default,,0,0,0,,of our, happy troop.
+Dialogue: 0,0:20:05.52,0:20:07.72,Default,,0,0,0,,And do you call six a "troop"?
+Dialogue: 0,0:20:08.80,0:20:11.20,Default,,0,0,0,,What are you, a traveling circus?
+Dialogue: 0,0:20:12.32,0:20:13.04,Default,,0,0,0,,Go.
+Dialogue: 0,0:20:13.28,0:20:14.36,Default,,0,0,0,,Go. Go, go.
+Dialogue: 0,0:20:17.64,0:20:21.08,Default,,0,0,0,,Dori and Ori at your service.
+Dialogue: 0,0:20:21.36,0:20:23.00,Default,,0,0,0,,I don't... want your service.
+Dialogue: 0,0:20:23.24,0:20:24.48,Default,,0,0,0,,Absolutely understandable.
+Dialogue: 0,0:20:24.72,0:20:25.40,Default,,0,0,0,,Go.
+Dialogue: 0,0:20:25.64,0:20:26.60,Default,,0,0,0,,Go.
+Dialogue: 0,0:20:29.24,0:20:32.08,Default,,0,0,0,,Fili and Kili. I'd quite forgotten. Yes.
+Dialogue: 0,0:20:33.32,0:20:37.52,Default,,0,0,0,,Yes, and Nori, Bofur...\N...Bifur...
+Dialogue: 0,0:20:39.00,0:20:40.65,Default,,0,0,0,,and Bombur.
+Dialogue: 0,0:20:41.80,0:20:43.40,Default,,0,0,0,,Is that it?
+Dialogue: 0,0:20:46.20,0:20:47.72,Default,,0,0,0,,Are there any more?
+Dialogue: 0,0:21:00.00,0:21:03.76,Default,,0,0,0,,So you are the one they call Oakenshield.
+Dialogue: 0,0:21:04.44,0:21:05.77,Default,,0,0,0,,Tell me...
+Dialogue: 0,0:21:06.44,0:21:07.36,Default,,0,0,0,,why is Azog...
+Dialogue: 0,0:21:07.60,0:21:09.56,Default,,0,0,0,,the Defiler hunting you?
+Dialogue: 0,0:21:10.08,0:21:11.60,Default,,0,0,0,,You know of Azog?
+Dialogue: 0,0:21:12.60,0:21:13.40,Default,,0,0,0,,How?
+Dialogue: 0,0:21:13.64,0:21:16.64,Default,,0,0,0,,My people were the first to live\Nin the mountains...
+Dialogue: 0,0:21:18.08,0:21:20.60,Default,,0,0,0,,before the Orcs came down\Nfrom the North.
+Dialogue: 0,0:21:20.88,0:21:23.96,Default,,0,0,0,,The Defiler killed most of my family.
+Dialogue: 0,0:21:24.64,0:21:25.44,Default,,0,0,0,,But some he...
+Dialogue: 0,0:21:25.72,0:21:26.80,Default,,0,0,0,,enslaved.
+Dialogue: 0,0:21:27.20,0:21:29.96,Default,,0,0,0,,Not for work, you understand...
+Dialogue: 0,0:21:30.20,0:21:31.64,Default,,0,0,0,,but for sport.
+Dialogue: 0,0:21:33.00,0:21:34.04,Default,,0,0,0,,Caging skin-changers...
+Dialogue: 0,0:21:34.28,0:21:38.08,Default,,0,0,0,,and torturing them\Nseemed to amuse him.
+Dialogue: 0,0:21:39.60,0:21:41.12,Default,,0,0,0,,There are others like you?
+Dialogue: 0,0:21:42.68,0:21:44.20,Default,,0,0,0,,Once there were many.
+Dialogue: 0,0:21:45.16,0:21:46.00,Default,,0,0,0,,And now?
+Dialogue: 0,0:21:47.72,0:21:49.52,Default,,0,0,0,,Now there is only one.
+Dialogue: 0,0:21:52.16,0:21:53.28,Default,,0,0,0,,You need to reach...
+Dialogue: 0,0:21:53.52,0:21:57.20,Default,,0,0,0,,the mountain before\Nthe last days of autumn.
+Dialogue: 0,0:21:57.44,0:21:58.56,Default,,0,0,0,,Before Durin's Day falls.
+Dialogue: 0,0:21:58.80,0:21:59.76,Default,,0,0,0,,Yes.
+Dialogue: 0,0:22:00.32,0:22:01.89,Default,,0,0,0,,You are running out of time.
+Dialogue: 0,0:22:02.12,0:22:04.32,Default,,0,0,0,,Which is why we must\Ngo through Mirkwood.
+Dialogue: 0,0:22:04.56,0:22:07.37,Default,,0,0,0,,A darkness lies upon that forest.
+Dialogue: 0,0:22:07.60,0:22:10.64,Default,,0,0,0,,Fell things creep beneath those trees.
+Dialogue: 0,0:22:11.16,0:22:13.08,Default,,0,0,0,,I would not venture there...
+Dialogue: 0,0:22:13.32,0:22:15.16,Default,,0,0,0,,except in great need.
+Dialogue: 0,0:22:15.40,0:22:17.40,Default,,0,0,0,,We will take the Elven Road.
+Dialogue: 0,0:22:17.68,0:22:18.64,Default,,0,0,0,,That path is still safe.
+Dialogue: 0,0:22:18.88,0:22:19.96,Default,,0,0,0,,"Safe"?
+Dialogue: 0,0:22:20.48,0:22:21.81,Default,,0,0,0,,The Wood Elves of Mirkwood...
+Dialogue: 0,0:22:22.04,0:22:23.08,Default,,0,0,0,,are not like their kin.
+Dialogue: 0,0:22:23.64,0:22:25.08,Default,,0,0,0,,They're less wise...
+Dialogue: 0,0:22:25.36,0:22:27.24,Default,,0,0,0,,and more dangerous.
+Dialogue: 0,0:22:28.68,0:22:30.28,Default,,0,0,0,,But it matters not.
+Dialogue: 0,0:22:32.20,0:22:33.28,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:22:33.52,0:22:36.28,Default,,0,0,0,,These lands are crawling with Orcs.
+Dialogue: 0,0:22:37.04,0:22:39.72,Default,,0,0,0,,Their numbers are growing.
+Dialogue: 0,0:22:40.00,0:22:41.44,Default,,0,0,0,,And you are on foot.
+Dialogue: 0,0:22:42.36,0:22:43.32,Default,,0,0,0,,You will never reach...
+Dialogue: 0,0:22:43.56,0:22:45.60,Default,,0,0,0,,the forest alive.
+Dialogue: 0,0:22:50.08,0:22:52.40,Default,,0,0,0,,I don't like Dwarves.
+Dialogue: 0,0:22:53.40,0:22:55.08,Default,,0,0,0,,They're greedy...
+Dialogue: 0,0:22:55.80,0:22:56.80,Default,,0,0,0,,and blind.
+Dialogue: 0,0:22:58.28,0:23:00.16,Default,,0,0,0,,Blind to the lives of those they deem...
+Dialogue: 0,0:23:00.44,0:23:02.88,Default,,0,0,0,,lesser than their own.
+Dialogue: 0,0:23:09.52,0:23:11.76,Default,,0,0,0,,But Orcs I hate more.
+Dialogue: 0,0:23:13.60,0:23:15.25,Default,,0,0,0,,What do you need?
+Dialogue: 0,0:23:23.40,0:23:24.20,Default,,0,0,0,,You will leave my...
+Dialogue: 0,0:23:24.28,0:23:25.88,Default,,0,0,0,,ponies before you enter the forest.
+Dialogue: 0,0:23:26.12,0:23:27.84,Default,,0,0,0,,You have my word.
+Dialogue: 0,0:23:30.00,0:23:31.20,Default,,0,0,0,,We're being watched.
+Dialogue: 0,0:23:31.44,0:23:32.56,Default,,0,0,0,,Yes.
+Dialogue: 0,0:23:32.84,0:23:35.04,Default,,0,0,0,,The Orcs will not give up.
+Dialogue: 0,0:23:35.28,0:23:38.25,Default,,0,0,0,,They will hunt the Dwarves\Nuntil they see them destroyed.
+Dialogue: 0,0:23:38.52,0:23:41.25,Default,,0,0,0,,Why now? What has made\Nthe Defiler crawl from his hole?
+Dialogue: 0,0:23:41.52,0:23:44.20,Default,,0,0,0,,There is an alliance\Nbetween the Orcs of Moria...
+Dialogue: 0,0:23:44.48,0:23:46.48,Default,,0,0,0,,and the sorcerer in Dol Guldur.
+Dialogue: 0,0:23:46.72,0:23:47.64,Default,,0,0,0,,Are you sure of this?
+Dialogue: 0,0:23:47.88,0:23:50.84,Default,,0,0,0,,Packs have been seen...\N...gathering there.
+Dialogue: 0,0:23:51.08,0:23:53.48,Default,,0,0,0,,Each day, more and more come.
+Dialogue: 0,0:23:55.16,0:23:57.28,Default,,0,0,0,,What do you know of this sorcerer?
+Dialogue: 0,0:23:57.52,0:23:59.80,Default,,0,0,0,,The one they call the Necromancer.
+Dialogue: 0,0:24:00.36,0:24:02.96,Default,,0,0,0,,I know he is not what he seems.
+Dialogue: 0,0:24:03.20,0:24:06.12,Default,,0,0,0,,Fell things are drawn to his power.
+Dialogue: 0,0:24:06.36,0:24:07.56,Default,,0,0,0,,Azog pays...
+Dialogue: 0,0:24:07.84,0:24:09.28,Default,,0,0,0,,homage to him.
+Dialogue: 0,0:24:09.52,0:24:10.80,Default,,0,0,0,,Gandalf.
+Dialogue: 0,0:24:11.56,0:24:12.60,Default,,0,0,0,,Time is wasting.
+Dialogue: 0,0:24:13.72,0:24:15.84,Default,,0,0,0,,There is more.
+Dialogue: 0,0:24:16.08,0:24:18.28,Default,,0,0,0,,Not long past, word spread...
+Dialogue: 0,0:24:18.56,0:24:22.56,Default,,0,0,0,,the dead had been seen\Nwalking near the High Fells of Rhudaur.
+Dialogue: 0,0:24:23.68,0:24:24.64,Default,,0,0,0,,The dead?
+Dialogue: 0,0:24:24.88,0:24:26.45,Default,,0,0,0,,Is it true?
+Dialogue: 0,0:24:26.68,0:24:29.49,Default,,0,0,0,,Are there tombs in those mountains?
+Dialogue: 0,0:24:33.12,0:24:35.08,Default,,0,0,0,,{\i1}When Angmar fell...{\i0}
+Dialogue: 0,0:24:35.36,0:24:38.68,Default,,0,0,0,,{\i1}the Men of the North took his body\Nand all that he possessed...{\i0}
+Dialogue: 0,0:24:38.92,0:24:40.88,Default,,0,0,0,,{\i1}and sealed it within\Nthe High Fells of Rhudaur.{\i0}
+Dialogue: 0,0:24:43.08,0:24:44.73,Default,,0,0,0,,{\i1}Deep within the rock, they buried him.{\i0}
+Dialogue: 0,0:24:46.28,0:24:47.52,Default,,0,0,0,,{\i1}In a tomb so dark...{\i0}
+Dialogue: 0,0:24:48.28,0:24:49.13,Default,,0,0,0,,{\i1}it would never...{\i0}
+Dialogue: 0,0:24:49.16,0:24:50.20,Default,,0,0,0,,{\i1}come to light.{\i0}
+Dialogue: 0,0:24:52.88,0:24:53.52,Default,,0,0,0,,Yes.
+Dialogue: 0,0:24:54.96,0:24:57.16,Default,,0,0,0,,Yes, there are tombs up there.
+Dialogue: 0,0:24:59.04,0:25:02.84,Default,,0,0,0,,I remember a time when a great evil...
+Dialogue: 0,0:25:03.08,0:25:05.28,Default,,0,0,0,,ruled these lands.
+Dialogue: 0,0:25:05.84,0:25:06.68,Default,,0,0,0,,One powerful...
+Dialogue: 0,0:25:06.92,0:25:09.04,Default,,0,0,0,,enough to raise the dead.
+Dialogue: 0,0:25:09.92,0:25:12.96,Default,,0,0,0,,If that enemy has returned\Nto Middle-earth...
+Dialogue: 0,0:25:13.24,0:25:15.60,Default,,0,0,0,,I would have you tell me.
+Dialogue: 0,0:25:15.84,0:25:19.48,Default,,0,0,0,,Saruman the White says it's not possible.
+Dialogue: 0,0:25:19.72,0:25:23.56,Default,,0,0,0,,The enemy was destroyed\Nand will never return.
+Dialogue: 0,0:25:24.84,0:25:27.32,Default,,0,0,0,,And what does...\N...Gandalf the Grey say?
+Dialogue: 0,0:25:33.52,0:25:35.01,Default,,0,0,0,,Go now.
+Dialogue: 0,0:25:35.76,0:25:37.88,Default,,0,0,0,,While you have the light.
+Dialogue: 0,0:25:40.40,0:25:43.52,Default,,0,0,0,,Your hunters are not far behind.
+Dialogue: 0,0:26:13.72,0:26:16.04,Default,,0,0,0,,The Elven Gate.
+Dialogue: 0,0:26:17.16,0:26:18.52,Default,,0,0,0,,Here lies our path...
+Dialogue: 0,0:26:18.80,0:26:20.29,Default,,0,0,0,,through Mirkwood.
+Dialogue: 0,0:26:20.64,0:26:23.68,Default,,0,0,0,,No sign of the Orcs.\NWe have luck on our side.
+Dialogue: 0,0:26:30.92,0:26:33.04,Default,,0,0,0,,Set the ponies loose.
+Dialogue: 0,0:26:33.52,0:26:36.12,Default,,0,0,0,,Let them return to their master.
+Dialogue: 0,0:26:38.04,0:26:38.96,Default,,0,0,0,,This forest...
+Dialogue: 0,0:26:39.24,0:26:40.65,Default,,0,0,0,,feels...
+Dialogue: 0,0:26:41.28,0:26:42.36,Default,,0,0,0,,sick.
+Dialogue: 0,0:26:42.84,0:26:45.04,Default,,0,0,0,,As if a disease lies upon it.
+Dialogue: 0,0:26:47.56,0:26:49.16,Default,,0,0,0,,Is there no way around?
+Dialogue: 0,0:26:49.40,0:26:51.88,Default,,0,0,0,,Not unless we go 200 miles north.
+Dialogue: 0,0:26:52.12,0:26:54.20,Default,,0,0,0,,Or twice that distance...
+Dialogue: 0,0:26:55.16,0:26:56.44,Default,,0,0,0,,south.
+Dialogue: 0,0:27:22.56,0:27:25.72,Default,,0,0,0,,{\i1}Something moves in the shadows unseen...{\i0}
+Dialogue: 0,0:27:27.08,0:27:29.56,Default,,0,0,0,,{\i1}hidden from our sight.{\i0}
+Dialogue: 0,0:27:30.60,0:27:33.60,Default,,0,0,0,,{\i1}Every day it grows in strength.{\i0}
+Dialogue: 0,0:27:34.76,0:27:37.20,Default,,0,0,0,,{\i1}Beware the Necromancer.{\i0}
+Dialogue: 0,0:27:37.84,0:27:39.84,Default,,0,0,0,,{\i1}He is not what he seems.{\i0}
+Dialogue: 0,0:27:44.24,0:27:47.84,Default,,0,0,0,,{\i1}If our Enemy has returned,\Nwe must know.{\i0}
+Dialogue: 0,0:27:49.04,0:27:51.96,Default,,0,0,0,,{\i1}Go to the tombs in the mountains.{\i0}
+Dialogue: 0,0:27:52.72,0:27:54.88,Default,,0,0,0,,The High Fells.
+Dialogue: 0,0:27:58.80,0:28:00.32,Default,,0,0,0,,So be it.
+Dialogue: 0,0:28:04.52,0:28:05.24,Default,,0,0,0,,Not my horse!
+Dialogue: 0,0:28:05.48,0:28:06.04,Default,,0,0,0,,I need it!
+Dialogue: 0,0:28:08.48,0:28:09.68,Default,,0,0,0,,You're not leaving us?
+Dialogue: 0,0:28:09.92,0:28:11.68,Default,,0,0,0,,I would not do this unless I had to.
+Dialogue: 0,0:28:18.32,0:28:19.60,Default,,0,0,0,,You've changed...
+Dialogue: 0,0:28:19.88,0:28:21.60,Default,,0,0,0,,Bilbo Baggins.
+Dialogue: 0,0:28:23.00,0:28:26.04,Default,,0,0,0,,You're not the same Hobbit\Nas the one who left the Shire.
+Dialogue: 0,0:28:28.96,0:28:30.53,Default,,0,0,0,,I was going to tell you.
+Dialogue: 0,0:28:34.12,0:28:35.24,Default,,0,0,0,,I...
+Dialogue: 0,0:28:38.12,0:28:40.20,Default,,0,0,0,,found something in the Goblin tunnels.
+Dialogue: 0,0:28:40.48,0:28:41.81,Default,,0,0,0,,Found what?
+Dialogue: 0,0:28:46.56,0:28:48.40,Default,,0,0,0,,What did you find?
+Dialogue: 0,0:28:51.88,0:28:53.12,Default,,0,0,0,,My courage.
+Dialogue: 0,0:28:55.92,0:28:57.96,Default,,0,0,0,,Good. Well, that's good.
+Dialogue: 0,0:29:00.80,0:29:02.60,Default,,0,0,0,,You'll need it.
+Dialogue: 0,0:29:02.92,0:29:05.49,Default,,0,0,0,,I'll be waiting for you\Nat the overlook, before...
+Dialogue: 0,0:29:05.76,0:29:06.88,Default,,0,0,0,,the slopes of Erebor.
+Dialogue: 0,0:29:07.12,0:29:09.48,Default,,0,0,0,,Keep the map and key safe.
+Dialogue: 0,0:29:09.76,0:29:12.73,Default,,0,0,0,,Do not enter that mountain without me.
+Dialogue: 0,0:29:18.64,0:29:21.88,Default,,0,0,0,,This is not the Greenwood of old.
+Dialogue: 0,0:29:22.16,0:29:25.44,Default,,0,0,0,,There is a stream in the woods\Nthat carries a dark enchantment.
+Dialogue: 0,0:29:25.68,0:29:27.60,Default,,0,0,0,,Do not touch the water.
+Dialogue: 0,0:29:27.84,0:29:30.24,Default,,0,0,0,,Cross only by the stone bridge.
+Dialogue: 0,0:29:30.48,0:29:33.08,Default,,0,0,0,,The very air of the forest\Nis heavy with illusion.
+Dialogue: 0,0:29:33.32,0:29:36.05,Default,,0,0,0,,It'll seek to enter your mind\Nand lead you astray.
+Dialogue: 0,0:29:36.48,0:29:38.20,Default,,0,0,0,,"Lead us astray"?
+Dialogue: 0,0:29:38.64,0:29:40.00,Default,,0,0,0,,What does that mean?
+Dialogue: 0,0:29:40.36,0:29:43.48,Default,,0,0,0,,You must stay on the path.\NDo not leave it.
+Dialogue: 0,0:29:43.96,0:29:45.96,Default,,0,0,0,,If you do, you'll never...
+Dialogue: 0,0:29:46.20,0:29:47.48,Default,,0,0,0,,find it again.
+Dialogue: 0,0:29:49.16,0:29:50.73,Default,,0,0,0,,No matter what may come, stay on...
+Dialogue: 0,0:29:50.96,0:29:51.64,Default,,0,0,0,,the path!
+Dialogue: 0,0:29:51.88,0:29:55.04,Default,,0,0,0,,Come on. We must reach the mountain\Nbefore the sun sets on Durin's Day.
+Dialogue: 0,0:29:55.28,0:29:56.28,Default,,0,0,0,,- Durin's Day?\N- Let's go.
+Dialogue: 0,0:29:56.56,0:29:59.04,Default,,0,0,0,,It is our one chance\Nto find the hidden door.
+Dialogue: 0,0:30:09.80,0:30:11.45,Default,,0,0,0,,The path turns this way.
+Dialogue: 0,0:30:37.48,0:30:38.68,Default,,0,0,0,,This way.
+Dialogue: 0,0:30:47.28,0:30:50.44,Default,,0,0,0,,Air. I need air.
+Dialogue: 0,0:30:50.68,0:30:52.72,Default,,0,0,0,,My head, it's swimming!
+Dialogue: 0,0:31:00.12,0:31:02.93,Default,,0,0,0,,- We found the bridge.\N- Bridge.
+Dialogue: 0,0:31:12.36,0:31:14.28,Default,,0,0,0,,We could try and swim it.
+Dialogue: 0,0:31:14.52,0:31:16.80,Default,,0,0,0,,Didn't you hear what Gandalf said?
+Dialogue: 0,0:31:17.04,0:31:20.08,Default,,0,0,0,,A dark magic lies upon this forest.
+Dialogue: 0,0:31:20.96,0:31:22.76,Default,,0,0,0,,The waters of this stream are enchanted.
+Dialogue: 0,0:31:23.28,0:31:25.85,Default,,0,0,0,,Doesn't look very enchanting to me.
+Dialogue: 0,0:31:26.08,0:31:28.84,Default,,0,0,0,,We must find another way across.
+Dialogue: 0,0:31:37.48,0:31:39.28,Default,,0,0,0,,These vines look strong enough.
+Dialogue: 0,0:31:39.52,0:31:41.20,Default,,0,0,0,,Kili!
+Dialogue: 0,0:31:42.44,0:31:44.32,Default,,0,0,0,,We send the lightest first.
+Dialogue: 0,0:31:58.92,0:32:00.60,Default,,0,0,0,,It's all right.
+Dialogue: 0,0:32:01.72,0:32:03.21,Default,,0,0,0,,Can't see any problem.
+Dialogue: 0,0:32:04.52,0:32:05.72,Default,,0,0,0,,There's one.
+Dialogue: 0,0:32:05.96,0:32:08.40,Default,,0,0,0,,Everything's... fine.
+Dialogue: 0,0:32:39.12,0:32:41.69,Default,,0,0,0,,Something is not right.
+Dialogue: 0,0:32:41.92,0:32:43.49,Default,,0,0,0,,This is not right at all.
+Dialogue: 0,0:32:43.72,0:32:46.00,Default,,0,0,0,,Stay where you are!
+Dialogue: 0,0:32:47.96,0:32:49.61,Default,,0,0,0,,I can't get a grip.
+Dialogue: 0,0:33:30.04,0:33:31.80,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:33:46.60,0:33:48.80,Default,,0,0,0,,You shouldn't have done that.
+Dialogue: 0,0:33:49.72,0:33:50.64,Default,,0,0,0,,It's bad luck.
+Dialogue: 0,0:33:50.92,0:33:52.36,Default,,0,0,0,,I don't believe in luck.
+Dialogue: 0,0:33:53.04,0:33:54.69,Default,,0,0,0,,We make our own luck.
+Dialogue: 0,0:34:20.60,0:34:23.84,Default,,0,0,0,,We need... to take a rest.
+Dialogue: 0,0:34:44.48,0:34:45.72,Default,,0,0,0,,What is that?
+Dialogue: 0,0:34:48.04,0:34:51.08,Default,,0,0,0,,Those voices.
+Dialogue: 0,0:34:51.32,0:34:53.92,Default,,0,0,0,,Can you hear them?
+Dialogue: 0,0:34:55.36,0:34:56.85,Default,,0,0,0,,I hear nothing.
+Dialogue: 0,0:34:59.56,0:35:02.00,Default,,0,0,0,,No wind...
+Dialogue: 0,0:35:03.20,0:35:05.44,Default,,0,0,0,,no birds.
+Dialogue: 0,0:35:06.20,0:35:07.88,Default,,0,0,0,,What hour is it?
+Dialogue: 0,0:35:09.44,0:35:10.80,Default,,0,0,0,,I do not know.
+Dialogue: 0,0:35:12.08,0:35:15.60,Default,,0,0,0,,I do not even... know\Nwhat day it is.
+Dialogue: 0,0:35:19.48,0:35:21.40,Default,,0,0,0,,This is taking too long.
+Dialogue: 0,0:35:23.12,0:35:24.40,Default,,0,0,0,,Is there no end to this...
+Dialogue: 0,0:35:24.68,0:35:27.08,Default,,0,0,0,,accursed forest?
+Dialogue: 0,0:35:27.32,0:35:28.60,Default,,0,0,0,,None that I can see.
+Dialogue: 0,0:35:30.04,0:35:32.48,Default,,0,0,0,,Only trees and more trees.
+Dialogue: 0,0:35:42.92,0:35:44.57,Default,,0,0,0,,This way.
+Dialogue: 0,0:35:46.52,0:35:49.76,Default,,0,0,0,,- Gandalf said...\N- Do as I say. Follow me.
+Dialogue: 0,0:36:03.04,0:36:05.32,Default,,0,0,0,,Attercop.
+Dialogue: 0,0:36:10.88,0:36:12.72,Default,,0,0,0,,No, no, wait.
+Dialogue: 0,0:36:15.32,0:36:17.16,Default,,0,0,0,,Wait.
+Dialogue: 0,0:36:17.96,0:36:19.56,Default,,0,0,0,,Stop.
+Dialogue: 0,0:36:19.80,0:36:22.80,Default,,0,0,0,,We can't leave the pa...
+Dialogue: 0,0:36:23.44,0:36:25.44,Default,,0,0,0,,We must stay on the path.
+Dialogue: 0,0:36:43.16,0:36:45.44,Default,,0,0,0,,I don't remember this bit.
+Dialogue: 0,0:36:45.72,0:36:47.32,Default,,0,0,0,,None of it's familiar.
+Dialogue: 0,0:36:47.60,0:36:49.32,Default,,0,0,0,,It's got to be here.
+Dialogue: 0,0:36:49.96,0:36:52.93,Default,,0,0,0,,It can't have just disappeared.
+Dialogue: 0,0:36:53.16,0:36:55.56,Default,,0,0,0,,Unless someone's moved it.
+Dialogue: 0,0:36:55.80,0:36:58.16,Default,,0,0,0,,It's not over here neither.
+Dialogue: 0,0:37:26.08,0:37:27.04,Default,,0,0,0,,Look.
+Dialogue: 0,0:37:27.28,0:37:28.93,Default,,0,0,0,,A tobacco pouch.
+Dialogue: 0,0:37:29.16,0:37:31.60,Default,,0,0,0,,There's Dwarves in these woods.
+Dialogue: 0,0:37:31.84,0:37:34.49,Default,,0,0,0,,Dwarves from the Blue Mountains,\Nno less.
+Dialogue: 0,0:37:34.72,0:37:36.37,Default,,0,0,0,,This is exactly the same as mine.
+Dialogue: 0,0:37:36.64,0:37:39.29,Default,,0,0,0,,Because it is yours. Do you understand?
+Dialogue: 0,0:37:39.56,0:37:41.36,Default,,0,0,0,,We're going around in circles.\NWe are lost.
+Dialogue: 0,0:37:41.60,0:37:43.64,Default,,0,0,0,,We are not lost. We keep heading east.
+Dialogue: 0,0:37:43.88,0:37:46.53,Default,,0,0,0,,But which way is east? We've lost the sun.
+Dialogue: 0,0:37:46.76,0:37:48.28,Default,,0,0,0,,I thought you were the expert.
+Dialogue: 0,0:37:49.28,0:37:50.28,Default,,0,0,0,,The sun.
+Dialogue: 0,0:37:51.08,0:37:52.76,Default,,0,0,0,,We have to find...
+Dialogue: 0,0:37:53.04,0:37:54.28,Default,,0,0,0,,the sun.
+Dialogue: 0,0:37:56.12,0:37:57.28,Default,,0,0,0,,Up there.
+Dialogue: 0,0:37:57.52,0:38:00.12,Default,,0,0,0,,We need to... get\Nabove the canopy.
+Dialogue: 0,0:38:04.12,0:38:06.04,Default,,0,0,0,,What was that?
+Dialogue: 0,0:38:07.24,0:38:10.13,Default,,0,0,0,,Enough! Quiet! All of you!
+Dialogue: 0,0:38:12.08,0:38:13.84,Default,,0,0,0,,We're being watched.
+Dialogue: 0,0:39:02.24,0:39:04.00,Default,,0,0,0,,I can see a lake!
+Dialogue: 0,0:39:04.84,0:39:07.00,Default,,0,0,0,,And a river.
+Dialogue: 0,0:39:08.72,0:39:10.37,Default,,0,0,0,,And the Lonely Mountain.
+Dialogue: 0,0:39:10.80,0:39:12.60,Default,,0,0,0,,We're almost there!
+Dialogue: 0,0:39:14.52,0:39:15.85,Default,,0,0,0,,Can you hear me?
+Dialogue: 0,0:39:17.12,0:39:19.28,Default,,0,0,0,,I know which way to go!
+Dialogue: 0,0:39:22.60,0:39:23.72,Default,,0,0,0,,Hello?
+Dialogue: 0,0:39:33.08,0:39:34.28,Default,,0,0,0,,Hello.
+Dialogue: 0,0:39:46.36,0:39:47.32,Default,,0,0,0,,No.
+Dialogue: 0,0:39:47.56,0:39:48.40,Default,,0,0,0,,Come on.
+Dialogue: 0,0:41:27.60,0:41:30.25,Default,,0,0,0,,Kill them! Kill them.
+Dialogue: 0,0:41:30.48,0:41:32.52,Default,,0,0,0,,Eat them now,\Nwhile their blood is running.
+Dialogue: 0,0:41:32.80,0:41:36.28,Default,,0,0,0,,Their hide is tough,\Nbut there's good juice inside.
+Dialogue: 0,0:41:36.52,0:41:37.16,Default,,0,0,0,,Stick it again.
+Dialogue: 0,0:41:37.40,0:41:39.44,Default,,0,0,0,,Stick it again. Finish it off.
+Dialogue: 0,0:41:40.60,0:41:42.32,Default,,0,0,0,,The meat's alive and kicking!
+Dialogue: 0,0:41:42.60,0:41:43.37,Default,,0,0,0,,Kill him.
+Dialogue: 0,0:41:43.40,0:41:44.16,Default,,0,0,0,,Kill him now.
+Dialogue: 0,0:41:44.40,0:41:46.00,Default,,0,0,0,,Let us feast.
+Dialogue: 0,0:41:46.24,0:41:47.48,Default,,0,0,0,,Feast! Feast!
+Dialogue: 0,0:41:47.72,0:41:49.80,Default,,0,0,0,,Feast! Feast!
+Dialogue: 0,0:41:51.16,0:41:52.60,Default,,0,0,0,,Eat them alive!
+Dialogue: 0,0:41:52.84,0:41:54.88,Default,,0,0,0,,Feast!
+Dialogue: 0,0:42:01.28,0:42:03.12,Default,,0,0,0,,- What is it?\N- What is it?
+Dialogue: 0,0:42:05.00,0:42:07.20,Default,,0,0,0,,Eat them alive!
+Dialogue: 0,0:42:10.44,0:42:12.56,Default,,0,0,0,,Fat and juicy.
+Dialogue: 0,0:42:15.64,0:42:18.36,Default,,0,0,0,,Just a... little taste.
+Dialogue: 0,0:42:29.04,0:42:31.40,Default,,0,0,0,,Curse it! Where is it?! Where is it?!
+Dialogue: 0,0:42:32.76,0:42:33.88,Default,,0,0,0,,Here.
+Dialogue: 0,0:42:34.84,0:42:36.76,Default,,0,0,0,,It stings!
+Dialogue: 0,0:42:37.00,0:42:37.88,Default,,0,0,0,,It stings!
+Dialogue: 0,0:42:43.84,0:42:45.17,Default,,0,0,0,,Sting.
+Dialogue: 0,0:42:46.12,0:42:47.40,Default,,0,0,0,,That's a good name.
+Dialogue: 0,0:42:49.20,0:42:50.32,Default,,0,0,0,,Sting.
+Dialogue: 0,0:43:08.76,0:43:10.44,Default,,0,0,0,,You all right there, Bofur?
+Dialogue: 0,0:43:10.80,0:43:12.08,Default,,0,0,0,,- I'm all right!\N- Get it off me!
+Dialogue: 0,0:43:12.24,0:43:13.36,Default,,0,0,0,,Where's Bilbo?
+Dialogue: 0,0:43:13.60,0:43:14.56,Default,,0,0,0,,I'm up here!
+Dialogue: 0,0:43:46.92,0:43:47.68,Default,,0,0,0,,Grab the legs!
+Dialogue: 0,0:43:48.76,0:43:49.72,Default,,0,0,0,,Pull!
+Dialogue: 0,0:43:51.72,0:43:52.72,Default,,0,0,0,,Pull!
+Dialogue: 0,0:43:55.80,0:43:58.08,Default,,0,0,0,,Where is it? Where is it? Come on.
+Dialogue: 0,0:43:58.80,0:43:59.96,Default,,0,0,0,,Where is it?
+Dialogue: 0,0:44:22.12,0:44:22.88,Default,,0,0,0,,No!
+Dialogue: 0,0:44:23.60,0:44:24.80,Default,,0,0,0,,No! No!
+Dialogue: 0,0:44:25.04,0:44:27.00,Default,,0,0,0,,Thorin! Get them!
+Dialogue: 0,0:44:27.24,0:44:28.16,Default,,0,0,0,,Come on!
+Dialogue: 0,0:44:31.84,0:44:33.44,Default,,0,0,0,,Look out, brother!
+Dialogue: 0,0:44:36.20,0:44:36.84,Default,,0,0,0,,Fili!
+Dialogue: 0,0:45:00.56,0:45:01.97,Default,,0,0,0,,Mine.
+Dialogue: 0,0:45:37.36,0:45:39.36,Default,,0,0,0,,Come on... keep up!
+Dialogue: 0,0:45:39.96,0:45:41.24,Default,,0,0,0,,We're clear!
+Dialogue: 0,0:46:02.24,0:46:04.56,Default,,0,0,0,,Do not think I won't kill you, Dwarf.
+Dialogue: 0,0:46:04.80,0:46:06.48,Default,,0,0,0,,It would be my pleasure.
+Dialogue: 0,0:46:11.20,0:46:12.77,Default,,0,0,0,,- Help!\N- Kili!
+Dialogue: 0,0:46:30.96,0:46:31.96,Default,,0,0,0,,Throw me a dagger!
+Dialogue: 0,0:46:32.88,0:46:33.88,Default,,0,0,0,,Quick!
+Dialogue: 0,0:46:34.52,0:46:35.20,Default,,0,0,0,,If you think I'm giving you...
+Dialogue: 0,0:46:35.44,0:46:37.84,Default,,0,0,0,,a weapon, Dwarf...\N...you're mistaken!
+Dialogue: 0,0:46:44.00,0:46:45.36,Default,,0,0,0,,Search them.
+Dialogue: 0,0:46:50.84,0:46:52.96,Default,,0,0,0,,B'ey! Give it back! That's private!
+Dialogue: 0,0:46:53.24,0:46:54.40,Default,,0,0,0,,Who is this?
+Dialogue: 0,0:46:54.64,0:46:57.68,Default,,0,0,0,,- Your brother?\N- That is... my wife!
+Dialogue: 0,0:46:57.96,0:47:00.04,Default,,0,0,0,,And what is this horrid creature?
+Dialogue: 0,0:47:00.32,0:47:01.44,Default,,0,0,0,,A Goblin-mutant?
+Dialogue: 0,0:47:01.68,0:47:03.60,Default,,0,0,0,,That's my wee lad, Gimli.
+Dialogue: 0,0:47:35.52,0:47:36.92,Default,,0,0,0,,Where did you get this?
+Dialogue: 0,0:47:37.28,0:47:38.48,Default,,0,0,0,,It was given to me.
+Dialogue: 0,0:47:42.04,0:47:45.32,Default,,0,0,0,,Not just a thief, but a liar as well.
+Dialogue: 0,0:47:50.08,0:47:51.60,Default,,0,0,0,,Thorin, where's Bilbo?
+Dialogue: 0,0:48:55.24,0:48:57.32,Default,,0,0,0,,Unh! This is not the end of it!
+Dialogue: 0,0:48:58.16,0:49:00.84,Default,,0,0,0,,- Do you hear me?!\N- Hey, let us out of here!
+Dialogue: 0,0:49:01.12,0:49:02.64,Default,,0,0,0,,Get off me!
+Dialogue: 0,0:49:09.52,0:49:11.04,Default,,0,0,0,,Aren't you going to search me?
+Dialogue: 0,0:49:12.68,0:49:14.88,Default,,0,0,0,,I could have anything down my trousers.
+Dialogue: 0,0:49:15.60,0:49:17.28,Default,,0,0,0,,Or nothing.
+Dialogue: 0,0:49:52.88,0:49:54.04,Default,,0,0,0,,- Again!\N- Leave it!
+Dialogue: 0,0:49:54.72,0:49:56.13,Default,,0,0,0,,There's no way out!
+Dialogue: 0,0:49:56.36,0:49:58.36,Default,,0,0,0,,This is no Orc dungeon.
+Dialogue: 0,0:49:58.64,0:50:01.12,Default,,0,0,0,,These are the Halls\Nof the Woodland Realm.
+Dialogue: 0,0:50:01.40,0:50:05.20,Default,,0,0,0,,No one leaves here\Nbut by the king's consent.
+Dialogue: 0,0:50:09.88,0:50:13.44,Default,,0,0,0,,Some may imagine\Nthat a noble quest is at hand.
+Dialogue: 0,0:50:14.08,0:50:16.92,Default,,0,0,0,,A quest to reclaim a homeland...
+Dialogue: 0,0:50:17.20,0:50:18.92,Default,,0,0,0,,and slay a dragon.
+Dialogue: 0,0:50:20.32,0:50:24.32,Default,,0,0,0,,I myself suspect a more prosaic motive.
+Dialogue: 0,0:50:25.20,0:50:26.85,Default,,0,0,0,,Attempted burglary.
+Dialogue: 0,0:50:27.60,0:50:29.88,Default,,0,0,0,,Or something of that ilk.
+Dialogue: 0,0:50:33.04,0:50:35.04,Default,,0,0,0,,You have found... a way in.
+Dialogue: 0,0:50:35.28,0:50:36.45,Default,,0,0,0,,You seek that which would...
+Dialogue: 0,0:50:36.48,0:50:39.48,Default,,0,0,0,,bestow upon you the right to rule.
+Dialogue: 0,0:50:40.16,0:50:42.04,Default,,0,0,0,,The King's Jewel.
+Dialogue: 0,0:50:42.96,0:50:44.45,Default,,0,0,0,,The Arkenstone.
+Dialogue: 0,0:50:46.72,0:50:50.04,Default,,0,0,0,,It is precious to you beyond measure.
+Dialogue: 0,0:50:51.04,0:50:52.76,Default,,0,0,0,,I understand that.
+Dialogue: 0,0:50:53.72,0:50:57.36,Default,,0,0,0,,There are gems in the mountain\Nthat I too desire.
+Dialogue: 0,0:50:58.68,0:51:01.96,Default,,0,0,0,,White gems... of\Npure starlight.
+Dialogue: 0,0:51:03.00,0:51:05.28,Default,,0,0,0,,I offer you my help.
+Dialogue: 0,0:51:08.48,0:51:09.84,Default,,0,0,0,,I am listening.
+Dialogue: 0,0:51:10.12,0:51:11.72,Default,,0,0,0,,I will let you go...
+Dialogue: 0,0:51:12.72,0:51:15.40,Default,,0,0,0,,if you but return what is mine.
+Dialogue: 0,0:51:18.60,0:51:19.93,Default,,0,0,0,,A favor for a favor.
+Dialogue: 0,0:51:20.16,0:51:21.28,Default,,0,0,0,,You have my word.
+Dialogue: 0,0:51:22.52,0:51:25.04,Default,,0,0,0,,One king to another.
+Dialogue: 0,0:51:29.20,0:51:32.44,Default,,0,0,0,,I would not trust Thranduil...
+Dialogue: 0,0:51:33.48,0:51:34.44,Default,,0,0,0,,the great king...
+Dialogue: 0,0:51:34.68,0:51:35.84,Default,,0,0,0,,to honor his word...
+Dialogue: 0,0:51:36.08,0:51:38.60,Default,,0,0,0,,should the end of all days\Nbe upon us!
+Dialogue: 0,0:51:39.24,0:51:39.80,Default,,0,0,0,,You...
+Dialogue: 0,0:51:40.32,0:51:42.52,Default,,0,0,0,,who lack all... honor!
+Dialogue: 0,0:51:43.60,0:51:45.64,Default,,0,0,0,,I have seen how you treat your friends.
+Dialogue: 0,0:51:46.32,0:51:49.96,Default,,0,0,0,,We came to you once,\Nstarving, homeless...
+Dialogue: 0,0:51:50.20,0:51:51.64,Default,,0,0,0,,seeking your help.
+Dialogue: 0,0:51:52.20,0:51:54.56,Default,,0,0,0,,But you turned your back!
+Dialogue: 0,0:51:54.88,0:51:58.48,Default,,0,0,0,,You turned away from\Nthe suffering of my people...
+Dialogue: 0,0:51:58.76,0:52:00.72,Default,,0,0,0,,and the inferno that destroyed us.
+Dialogue: 0,0:52:03.24,0:52:05.40,Default,,0,0,0,,Do not talk to me of dragon fire.
+Dialogue: 0,0:52:05.88,0:52:06.44,Default,,0,0,0,,I know...
+Dialogue: 0,0:52:06.72,0:52:08.96,Default,,0,0,0,,its wrath and ruin.
+Dialogue: 0,0:52:13.12,0:52:14.32,Default,,0,0,0,,I have faced...
+Dialogue: 0,0:52:14.60,0:52:17.36,Default,,0,0,0,,the great serpents of the North.
+Dialogue: 0,0:52:19.60,0:52:20.24,Default,,0,0,0,,I warned your...
+Dialogue: 0,0:52:20.44,0:52:23.72,Default,,0,0,0,,grandfather of what his greed\Nwould summon.
+Dialogue: 0,0:52:25.28,0:52:27.20,Default,,0,0,0,,But he would not listen.
+Dialogue: 0,0:52:31.76,0:52:33.80,Default,,0,0,0,,You are just like him.
+Dialogue: 0,0:52:36.28,0:52:39.85,Default,,0,0,0,,Stay here if you will...\N...and rot.
+Dialogue: 0,0:52:40.08,0:52:42.00,Default,,0,0,0,,A hundred years is a mere blink...
+Dialogue: 0,0:52:42.24,0:52:44.24,Default,,0,0,0,,in the life of an Elf.
+Dialogue: 0,0:52:44.48,0:52:46.16,Default,,0,0,0,,I'm patient.
+Dialogue: 0,0:52:47.20,0:52:49.20,Default,,0,0,0,,I can wait.
+Dialogue: 0,0:52:56.68,0:52:57.76,Default,,0,0,0,,Did he offer you a deal?
+Dialogue: 0,0:52:58.00,0:52:59.16,Default,,0,0,0,,He did.
+Dialogue: 0,0:53:00.88,0:53:03.24,Default,,0,0,0,,I told him he could go\N{\i1}îsh kakhfê ai-'d dûr-rugnu!{\i0}
+Dialogue: 0,0:53:05.00,0:53:05.80,Default,,0,0,0,,Him and all his kin!
+Dialogue: 0,0:53:07.84,0:53:09.60,Default,,0,0,0,,Well, that's that, then.
+Dialogue: 0,0:53:11.32,0:53:13.80,Default,,0,0,0,,A deal was our only hope.
+Dialogue: 0,0:53:17.28,0:53:19.00,Default,,0,0,0,,Not our only hope.
+Dialogue: 0,0:53:25.88,0:53:27.29,Default,,0,0,0,,I know you're there.
+Dialogue: 0,0:53:29.08,0:53:32.08,Default,,0,0,0,,Why do you linger in the shadows?
+Dialogue: 0,0:53:33.24,0:53:35.48,Default,,0,0,0,,I was coming to report to you.
+Dialogue: 0,0:53:36.64,0:53:40.00,Default,,0,0,0,,I thought I ordered that nest\Nto be destroyed not two moons past.
+Dialogue: 0,0:53:40.24,0:53:40.92,Default,,0,0,0,,We cleared...
+Dialogue: 0,0:53:41.16,0:53:43.64,Default,,0,0,0,,the forest as ordered, my lord.\NBut more spiders keep...
+Dialogue: 0,0:53:43.88,0:53:45.00,Default,,0,0,0,,coming up from the South.
+Dialogue: 0,0:53:45.24,0:53:45.84,Default,,0,0,0,,They are spawning in...
+Dialogue: 0,0:53:46.08,0:53:48.64,Default,,0,0,0,,the ruins of Dol Guldur.\NIf we could kill them at their source...
+Dialogue: 0,0:53:48.76,0:53:50.80,Default,,0,0,0,,That fortress lies beyond our borders.
+Dialogue: 0,0:53:51.08,0:53:53.84,Default,,0,0,0,,Keep our lands clear of those\Nfoul creatures. That is your task.
+Dialogue: 0,0:53:54.12,0:53:56.72,Default,,0,0,0,,And when we drive them off, what then?
+Dialogue: 0,0:53:57.00,0:53:58.57,Default,,0,0,0,,Will they not spread to other lands?
+Dialogue: 0,0:53:58.92,0:54:00.68,Default,,0,0,0,,Other lands are not my concern.
+Dialogue: 0,0:54:02.48,0:54:03.76,Default,,0,0,0,,The fortunes of the world...
+Dialogue: 0,0:54:04.00,0:54:05.08,Default,,0,0,0,,will rise and fall.
+Dialogue: 0,0:54:05.32,0:54:06.24,Default,,0,0,0,,But here in this...
+Dialogue: 0,0:54:06.48,0:54:07.56,Default,,0,0,0,,kingdom, we will endure.
+Dialogue: 0,0:54:13.12,0:54:14.52,Default,,0,0,0,,Legolas said you fought well today.
+Dialogue: 0,0:54:19.68,0:54:21.56,Default,,0,0,0,,He has grown very fond of you.
+Dialogue: 0,0:54:24.48,0:54:26.24,Default,,0,0,0,,I assure you, my lord...
+Dialogue: 0,0:54:26.48,0:54:29.45,Default,,0,0,0,,Legolas thinks of me as\Nno more than a captain of the guard.
+Dialogue: 0,0:54:29.68,0:54:31.52,Default,,0,0,0,,Perhaps he did once.
+Dialogue: 0,0:54:32.56,0:54:35.08,Default,,0,0,0,,Now I am not so sure.
+Dialogue: 0,0:54:38.64,0:54:40.96,Default,,0,0,0,,I do not think you would allow your son...
+Dialogue: 0,0:54:41.20,0:54:43.64,Default,,0,0,0,,to pledge himself to a lowly Silvan Elf.
+Dialogue: 0,0:54:43.92,0:54:46.49,Default,,0,0,0,,No, you are right. I would not.
+Dialogue: 0,0:54:47.32,0:54:49.52,Default,,0,0,0,,Still, he cares about you.
+Dialogue: 0,0:54:50.36,0:54:52.88,Default,,0,0,0,,Do not give him hope where there is none.
+Dialogue: 0,0:55:31.24,0:55:34.32,Default,,0,0,0,,The stone in your hand, what is it?
+Dialogue: 0,0:55:36.76,0:55:38.28,Default,,0,0,0,,It is a talisman.
+Dialogue: 0,0:55:41.60,0:55:43.12,Default,,0,0,0,,A powerful spell lies upon it.
+Dialogue: 0,0:55:43.40,0:55:46.08,Default,,0,0,0,,If any but a Dwarf\Nreads the runes on this stone...
+Dialogue: 0,0:55:46.92,0:55:48.16,Default,,0,0,0,,they will be forever cursed.
+Dialogue: 0,0:55:54.52,0:55:55.20,Default,,0,0,0,,Or not.
+Dialogue: 0,0:55:57.20,0:56:00.12,Default,,0,0,0,,Depending on whether you believe\Nin that kind of thing. It's just a token.
+Dialogue: 0,0:56:03.04,0:56:04.32,Default,,0,0,0,,A rune stone.
+Dialogue: 0,0:56:06.48,0:56:07.08,Default,,0,0,0,,My mother...
+Dialogue: 0,0:56:07.32,0:56:09.24,Default,,0,0,0,,gave it to me\Nso I'd remember my promise.
+Dialogue: 0,0:56:11.08,0:56:12.36,Default,,0,0,0,,What promise?
+Dialogue: 0,0:56:12.88,0:56:14.24,Default,,0,0,0,,That I would come back to her.
+Dialogue: 0,0:56:17.16,0:56:18.40,Default,,0,0,0,,She worries.
+Dialogue: 0,0:56:19.84,0:56:21.41,Default,,0,0,0,,She thinks I'm reckless.
+Dialogue: 0,0:56:22.12,0:56:23.24,Default,,0,0,0,,Are you?
+Dialogue: 0,0:56:25.08,0:56:25.92,Default,,0,0,0,,Nah.
+Dialogue: 0,0:56:37.12,0:56:38.77,Default,,0,0,0,,Sounds like quite a party...
+Dialogue: 0,0:56:39.04,0:56:40.40,Default,,0,0,0,,you're having up there.
+Dialogue: 0,0:56:41.12,0:56:43.08,Default,,0,0,0,,It is {\i1}Mereth e-nGilith...{\i0}
+Dialogue: 0,0:56:44.00,0:56:45.52,Default,,0,0,0,,the Feast of Starlight.
+Dialogue: 0,0:56:46.76,0:56:49.16,Default,,0,0,0,,All light is sacred to the Eldar.
+Dialogue: 0,0:56:49.84,0:56:53.20,Default,,0,0,0,,But Wood Elves love best\Nthe light of the stars.
+Dialogue: 0,0:56:53.88,0:56:55.37,Default,,0,0,0,,I always thought it is a cold light.
+Dialogue: 0,0:56:57.52,0:56:59.76,Default,,0,0,0,,Remote and far away.
+Dialogue: 0,0:57:01.08,0:57:02.84,Default,,0,0,0,,It is memory...
+Dialogue: 0,0:57:03.88,0:57:05.76,Default,,0,0,0,,precious and pure.
+Dialogue: 0,0:57:10.44,0:57:11.77,Default,,0,0,0,,Like your promise.
+Dialogue: 0,0:57:21.28,0:57:23.08,Default,,0,0,0,,I have walked there sometimes.
+Dialogue: 0,0:57:24.20,0:57:25.00,Default,,0,0,0,,Beyond the forest...
+Dialogue: 0,0:57:25.24,0:57:26.76,Default,,0,0,0,,and up into the night.
+Dialogue: 0,0:57:28.36,0:57:31.36,Default,,0,0,0,,I have seen the world fall away...
+Dialogue: 0,0:57:32.60,0:57:35.41,Default,,0,0,0,,and the white light\Nof forever fill the air.
+Dialogue: 0,0:57:38.80,0:57:40.68,Default,,0,0,0,,I saw a fire moon once.
+Dialogue: 0,0:57:42.60,0:57:45.25,Default,,0,0,0,,It rose over the pass near Dunland. Huge.
+Dialogue: 0,0:57:45.64,0:57:48.08,Default,,0,0,0,,Red and gold, it was. It filled the sky.
+Dialogue: 0,0:57:49.92,0:57:52.89,Default,,0,0,0,,We were an escort for some merchants\Nfrom Ered Luin. They were...
+Dialogue: 0,0:57:53.12,0:57:56.28,Default,,0,0,0,,trading in silverwork for furs.\NWe took the Greenway south...
+Dialogue: 0,0:57:56.84,0:57:58.80,Default,,0,0,0,,keeping the mountain to our left.
+Dialogue: 0,0:57:59.20,0:58:00.77,Default,,0,0,0,,And then it appeared.
+Dialogue: 0,0:58:01.32,0:58:03.04,Default,,0,0,0,,This huge fire moon...
+Dialogue: 0,0:58:03.56,0:58:05.13,Default,,0,0,0,,lighting our path.
+Dialogue: 0,0:58:05.36,0:58:07.64,Default,,0,0,0,,I wish I could show you the caverns.
+Dialogue: 0,0:58:08.88,0:58:11.56,Default,,0,0,0,,Galion, you old rogue,\Nwe're running out of drink.
+Dialogue: 0,0:58:12.16,0:58:15.20,Default,,0,0,0,,These empty barrels should have been\Nsent back to Esgaroth hours ago.
+Dialogue: 0,0:58:15.44,0:58:17.48,Default,,0,0,0,,The bargeman will be waiting for them.
+Dialogue: 0,0:58:17.76,0:58:18.96,Default,,0,0,0,,Say what you like about our...
+Dialogue: 0,0:58:19.08,0:58:22.40,Default,,0,0,0,,ill-tempered king.\NHe has excellent taste in wine.
+Dialogue: 0,0:58:23.40,0:58:24.92,Default,,0,0,0,,Come, Elros, try it.
+Dialogue: 0,0:58:25.64,0:58:27.72,Default,,0,0,0,,I have the Dwarves...\N...in my charge.
+Dialogue: 0,0:58:28.12,0:58:31.04,Default,,0,0,0,,They're locked up. Where can they go?\NHa, ha.
+Dialogue: 0,0:58:34.12,0:58:36.69,Default,,0,0,0,,I'll wager the sun is on the rise.
+Dialogue: 0,0:58:36.92,0:58:38.64,Default,,0,0,0,,Must be nearly dawn.
+Dialogue: 0,0:58:38.88,0:58:41.20,Default,,0,0,0,,We're never gonna reach\Nthe mountain, are we?
+Dialogue: 0,0:58:44.16,0:58:46.24,Default,,0,0,0,,Not stuck in here, you're not.
+Dialogue: 0,0:58:52.20,0:58:52.84,Default,,0,0,0,,Bilbo!
+Dialogue: 0,0:58:53.08,0:58:53.96,Default,,0,0,0,,What?
+Dialogue: 0,0:58:55.88,0:58:58.45,Default,,0,0,0,,Shh! There are guards nearby!
+Dialogue: 0,0:59:04.20,0:59:05.12,Default,,0,0,0,,- Ha, ha, ha.\N- Close the doors.
+Dialogue: 0,0:59:05.36,0:59:07.56,Default,,0,0,0,,- It'll buy us more time.\N- All right, Nori.
+Dialogue: 0,0:59:18.36,0:59:19.96,Default,,0,0,0,,- Up the stairs.\N- You first.
+Dialogue: 0,0:59:20.08,0:59:20.68,Default,,0,0,0,,Ori.
+Dialogue: 0,0:59:20.92,0:59:22.60,Default,,0,0,0,,Not that way. Down here. Follow me.
+Dialogue: 0,0:59:23.76,0:59:24.60,Default,,0,0,0,,Go.
+Dialogue: 0,0:59:24.84,0:59:26.36,Default,,0,0,0,,Easy, now.
+Dialogue: 0,0:59:41.44,0:59:42.52,Default,,0,0,0,,This way.
+Dialogue: 0,0:59:45.36,0:59:46.40,Default,,0,0,0,,Come on.
+Dialogue: 0,0:59:46.68,0:59:48.32,Default,,0,0,0,,I don't believe it. We're in the cellars!
+Dialogue: 0,0:59:48.52,0:59:50.24,Default,,0,0,0,,You were supposed to be leading us out,\Nnot further in!
+Dialogue: 0,0:59:50.52,0:59:51.45,Default,,0,0,0,,I know what I'm doing!
+Dialogue: 0,0:59:51.48,0:59:52.28,Default,,0,0,0,,Shh!
+Dialogue: 0,0:59:52.84,0:59:54.44,Default,,0,0,0,,This way! This way!
+Dialogue: 0,0:59:59.44,1:00:00.16,Default,,0,0,0,,Everyone...
+Dialogue: 0,1:00:00.32,1:00:02.64,Default,,0,0,0,,- ...climb into the barrels quickly.\N- Are you mad?
+Dialogue: 0,1:00:03.76,1:00:04.44,Default,,0,0,0,,- They'll find us.\N- No, no.
+Dialogue: 0,1:00:04.68,1:00:05.72,Default,,0,0,0,,They won't, I promise you.
+Dialogue: 0,1:00:05.96,1:00:09.48,Default,,0,0,0,,Please, please. You must trust me.
+Dialogue: 0,1:00:13.36,1:00:14.44,Default,,0,0,0,,Do as he says.
+Dialogue: 0,1:00:15.56,1:00:16.92,Default,,0,0,0,,Move your big ginger head.
+Dialogue: 0,1:00:19.00,1:00:21.76,Default,,0,0,0,,Bifur, get in... the barrel!\NMove!
+Dialogue: 0,1:00:28.48,1:00:30.13,Default,,0,0,0,,Everyone's in.
+Dialogue: 0,1:00:33.28,1:00:35.16,Default,,0,0,0,,What do we do now?
+Dialogue: 0,1:00:35.92,1:00:36.92,Default,,0,0,0,,Hold your breath.
+Dialogue: 0,1:00:37.16,1:00:38.76,Default,,0,0,0,,Hold my breath? What do you mean?
+Dialogue: 0,1:01:04.84,1:01:06.36,Default,,0,0,0,,Where is the Keeper of the Keys?
+Dialogue: 0,1:01:33.52,1:01:34.72,Default,,0,0,0,,Well done, Master Baggins.
+Dialogue: 0,1:01:36.28,1:01:37.44,Default,,0,0,0,,Go! Come on, let's go!
+Dialogue: 0,1:01:47.44,1:01:49.09,Default,,0,0,0,,Hold on!
+Dialogue: 0,1:02:02.32,1:02:03.65,Default,,0,0,0,,Bilbo!
+Dialogue: 0,1:02:08.24,1:02:09.48,Default,,0,0,0,,Hang on!
+Dialogue: 0,1:02:11.20,1:02:13.40,Default,,0,0,0,,- Help!\N- Ori!
+Dialogue: 0,1:02:38.12,1:02:38.72,Default,,0,0,0,,No!
+Dialogue: 0,1:02:52.48,1:02:54.24,Default,,0,0,0,,Watch out! There's Orcs!
+Dialogue: 0,1:03:14.12,1:03:15.28,Default,,0,0,0,,Get under the bridge!
+Dialogue: 0,1:03:27.88,1:03:28.48,Default,,0,0,0,,Kili!
+Dialogue: 0,1:03:53.80,1:03:54.44,Default,,0,0,0,,Kili!
+Dialogue: 0,1:04:01.56,1:04:02.12,Default,,0,0,0,,Kili.
+Dialogue: 0,1:04:56.24,1:04:56.88,Default,,0,0,0,,Kili!
+Dialogue: 0,1:06:21.16,1:06:22.28,Default,,0,0,0,,Nori!
+Dialogue: 0,1:06:35.08,1:06:36.16,Default,,0,0,0,,Cut the log!
+Dialogue: 0,1:06:44.24,1:06:45.12,Default,,0,0,0,,Bombur!
+Dialogue: 0,1:08:20.72,1:08:21.56,Default,,0,0,0,,Tauriel.
+Dialogue: 0,1:10:19.60,1:10:20.60,Default,,0,0,0,,It's you!
+Dialogue: 0,1:10:21.04,1:10:22.45,Default,,0,0,0,,Why am I here, Gandalf?
+Dialogue: 0,1:10:22.68,1:10:23.88,Default,,0,0,0,,Trust me, Radagast.
+Dialogue: 0,1:10:24.12,1:10:27.09,Default,,0,0,0,,I would not have called you here\Nwithout good reason.
+Dialogue: 0,1:10:31.64,1:10:34.21,Default,,0,0,0,,This is not a nice place to meet.
+Dialogue: 0,1:10:34.44,1:10:35.56,Default,,0,0,0,,No.
+Dialogue: 0,1:10:36.52,1:10:38.01,Default,,0,0,0,,It is not.
+Dialogue: 0,1:10:39.08,1:10:41.60,Default,,0,0,0,,These are dark spells, Gandalf.
+Dialogue: 0,1:10:41.88,1:10:44.56,Default,,0,0,0,,Old and full of hate.
+Dialogue: 0,1:10:44.84,1:10:46.17,Default,,0,0,0,,Who's buried here?
+Dialogue: 0,1:10:46.52,1:10:49.88,Default,,0,0,0,,If he had a name,\Nit's long since been lost.
+Dialogue: 0,1:10:50.12,1:10:52.20,Default,,0,0,0,,He would have been known only...
+Dialogue: 0,1:10:52.44,1:10:54.76,Default,,0,0,0,,as a servant of evil.
+Dialogue: 0,1:10:57.24,1:10:59.28,Default,,0,0,0,,One of a number.
+Dialogue: 0,1:11:03.52,1:11:05.36,Default,,0,0,0,,One of nine.
+Dialogue: 0,1:11:08.36,1:11:10.52,Default,,0,0,0,,Why now, Gandalf? I don't understand.
+Dialogue: 0,1:11:10.76,1:11:11.48,Default,,0,0,0,,The Ringwraiths...
+Dialogue: 0,1:11:11.60,1:11:13.40,Default,,0,0,0,,have been summoned to Dol Guldur.
+Dialogue: 0,1:11:13.64,1:11:15.60,Default,,0,0,0,,But it cannot be the Necromancer.
+Dialogue: 0,1:11:15.84,1:11:19.36,Default,,0,0,0,,A human sorcerer\Ncould not summon such evil.
+Dialogue: 0,1:11:19.60,1:11:21.56,Default,,0,0,0,,Who said it was human?
+Dialogue: 0,1:11:23.32,1:11:26.88,Default,,0,0,0,,The Nine only answer to one master.
+Dialogue: 0,1:11:27.12,1:11:29.72,Default,,0,0,0,,We've been blind, Radagast.
+Dialogue: 0,1:11:29.96,1:11:32.04,Default,,0,0,0,,And in our blindness...
+Dialogue: 0,1:11:32.28,1:11:34.40,Default,,0,0,0,,the Enemy has returned.
+Dialogue: 0,1:11:36.88,1:11:39.04,Default,,0,0,0,,He is summoning his servants.
+Dialogue: 0,1:11:39.84,1:11:41.44,Default,,0,0,0,,Azog the Defiler...
+Dialogue: 0,1:11:41.84,1:11:43.68,Default,,0,0,0,,is no ordinary hunter.
+Dialogue: 0,1:11:43.92,1:11:45.25,Default,,0,0,0,,He is a commander.
+Dialogue: 0,1:11:45.96,1:11:48.04,Default,,0,0,0,,A commander of legions.
+Dialogue: 0,1:11:48.60,1:11:52.49,Default,,0,0,0,,The Enemy is preparing for war.
+Dialogue: 0,1:11:53.20,1:11:54.85,Default,,0,0,0,,It will begin in the East.
+Dialogue: 0,1:11:55.32,1:11:57.89,Default,,0,0,0,,His mind is set upon that mountain.
+Dialogue: 0,1:11:58.16,1:12:00.00,Default,,0,0,0,,- Where are you going?\N- To rejoin the others.
+Dialogue: 0,1:12:00.24,1:12:01.20,Default,,0,0,0,,Gandalf.
+Dialogue: 0,1:12:02.36,1:12:05.12,Default,,0,0,0,,I started this. I cannot forsake them.
+Dialogue: 0,1:12:05.36,1:12:07.28,Default,,0,0,0,,They are in grave danger.
+Dialogue: 0,1:12:07.52,1:12:08.80,Default,,0,0,0,,If what you say is true...
+Dialogue: 0,1:12:09.04,1:12:11.77,Default,,0,0,0,,the world is in grave danger.
+Dialogue: 0,1:12:12.72,1:12:16.44,Default,,0,0,0,,The power in that fortress\Nwill only grow stronger.
+Dialogue: 0,1:12:17.84,1:12:20.88,Default,,0,0,0,,You want me to cast my friends aside?
+Dialogue: 0,1:12:23.88,1:12:26.20,Default,,0,0,0,,- Anything behind us?\N- Not that I can see.
+Dialogue: 0,1:12:31.40,1:12:34.68,Default,,0,0,0,,- I think we've outrun the Orcs.\N- Not for long. We've lost the current.
+Dialogue: 0,1:12:34.84,1:12:36.64,Default,,0,0,0,,Bombur's half drowned.
+Dialogue: 0,1:12:37.24,1:12:38.96,Default,,0,0,0,,- Make for the shore!\N- Aye.
+Dialogue: 0,1:12:39.24,1:12:40.28,Default,,0,0,0,,Come on, let's go!
+Dialogue: 0,1:12:40.40,1:12:42.20,Default,,0,0,0,,Gloin, help me, my brother.
+Dialogue: 0,1:12:44.52,1:12:46.40,Default,,0,0,0,,Come on, lift yourself.
+Dialogue: 0,1:12:46.92,1:12:48.00,Default,,0,0,0,,Come on!
+Dialogue: 0,1:12:48.24,1:12:50.68,Default,,0,0,0,,Come on, you big lump, you!
+Dialogue: 0,1:13:00.80,1:13:02.52,Default,,0,0,0,,I'm fine. It's nothing.
+Dialogue: 0,1:13:02.76,1:13:03.68,Default,,0,0,0,,On your feet.
+Dialogue: 0,1:13:03.92,1:13:05.96,Default,,0,0,0,,Kili's wounded. His leg needs binding.
+Dialogue: 0,1:13:06.20,1:13:08.60,Default,,0,0,0,,There's an Orc pack on our tail.\NWe keep moving.
+Dialogue: 0,1:13:08.84,1:13:09.76,Default,,0,0,0,,To where?
+Dialogue: 0,1:13:10.00,1:13:11.92,Default,,0,0,0,,To the mountain. We're so close.
+Dialogue: 0,1:13:12.52,1:13:15.41,Default,,0,0,0,,A lake lies between us and that mountain.
+Dialogue: 0,1:13:15.64,1:13:17.92,Default,,0,0,0,,- We have no way to cross it.\N- So then we go around.
+Dialogue: 0,1:13:18.20,1:13:21.17,Default,,0,0,0,,The Orcs will run us down,\Nas sure as daylight.
+Dialogue: 0,1:13:21.40,1:13:23.48,Default,,0,0,0,,We've no weapons to defend ourselves.
+Dialogue: 0,1:13:23.72,1:13:25.40,Default,,0,0,0,,Bind his leg, quickly.
+Dialogue: 0,1:13:26.00,1:13:27.49,Default,,0,0,0,,You have two minutes.
+Dialogue: 0,1:13:47.80,1:13:48.72,Default,,0,0,0,,Do it again...
+Dialogue: 0,1:13:49.52,1:13:50.60,Default,,0,0,0,,and you're dead.
+Dialogue: 0,1:13:53.32,1:13:54.52,Default,,0,0,0,,Excuse me...
+Dialogue: 0,1:13:54.76,1:13:57.88,Default,,0,0,0,,but you're from Lake-town,\Nif I'm not mistaken.
+Dialogue: 0,1:13:58.84,1:14:01.36,Default,,0,0,0,,That barge over there...
+Dialogue: 0,1:14:01.60,1:14:04.88,Default,,0,0,0,,it wouldn't be available for hire,\Nby any chance?
+Dialogue: 0,1:14:06.56,1:14:08.64,Default,,0,0,0,,What makes you think I would help you?
+Dialogue: 0,1:14:08.92,1:14:10.72,Default,,0,0,0,,Those boots have seen better days.
+Dialogue: 0,1:14:11.32,1:14:12.89,Default,,0,0,0,,As has that coat.
+Dialogue: 0,1:14:13.96,1:14:15.92,Default,,0,0,0,,No doubt you have\Nsome hungry mouths to feed.
+Dialogue: 0,1:14:17.04,1:14:18.45,Default,,0,0,0,,How many bairns?
+Dialogue: 0,1:14:19.36,1:14:21.01,Default,,0,0,0,,A boy and two girls.
+Dialogue: 0,1:14:22.00,1:14:24.57,Default,,0,0,0,,And your wife, I imagine she's a beauty.
+Dialogue: 0,1:14:25.84,1:14:26.92,Default,,0,0,0,,Aye.
+Dialogue: 0,1:14:27.36,1:14:28.44,Default,,0,0,0,,She was.
+Dialogue: 0,1:14:31.68,1:14:33.17,Default,,0,0,0,,I'm sorry. I didn't mean to...
+Dialogue: 0,1:14:33.44,1:14:35.28,Default,,0,0,0,,Come on, come on.\NEnough of the niceties.
+Dialogue: 0,1:14:36.96,1:14:38.08,Default,,0,0,0,,What's your hurry?
+Dialogue: 0,1:14:38.36,1:14:39.56,Default,,0,0,0,,What's it to you?
+Dialogue: 0,1:14:39.88,1:14:41.48,Default,,0,0,0,,I would like to know who you are...
+Dialogue: 0,1:14:42.72,1:14:44.36,Default,,0,0,0,,and what you are doing in these lands.
+Dialogue: 0,1:14:44.48,1:14:47.00,Default,,0,0,0,,We are simple merchants\Nfrom the Blue Mountains...
+Dialogue: 0,1:14:47.36,1:14:48.80,Default,,0,0,0,,journeying to see our kin...
+Dialogue: 0,1:14:49.08,1:14:50.65,Default,,0,0,0,,in the Iron Hills.
+Dialogue: 0,1:14:52.04,1:14:54.00,Default,,0,0,0,,Simple merchants, you say?
+Dialogue: 0,1:14:54.24,1:14:55.57,Default,,0,0,0,,We need food...
+Dialogue: 0,1:14:55.84,1:14:57.80,Default,,0,0,0,,supplies, weapons.
+Dialogue: 0,1:14:58.04,1:14:59.20,Default,,0,0,0,,Can you help us?
+Dialogue: 0,1:15:03.72,1:15:06.00,Default,,0,0,0,,I know where these...\N..barrels came from.
+Dialogue: 0,1:15:06.76,1:15:08.00,Default,,0,0,0,,What of it?
+Dialogue: 0,1:15:08.24,1:15:10.68,Default,,0,0,0,,I don't know what business you had\Nwith the Elves...
+Dialogue: 0,1:15:11.20,1:15:12.92,Default,,0,0,0,,but I don't think it ended well.
+Dialogue: 0,1:15:14.60,1:15:15.28,Default,,0,0,0,,No one enters Lake-town...
+Dialogue: 0,1:15:15.52,1:15:17.48,Default,,0,0,0,,but by leave of the Master.
+Dialogue: 0,1:15:18.20,1:15:20.88,Default,,0,0,0,,All his wealth comes from trade\Nwith the Woodland Realm.
+Dialogue: 0,1:15:21.16,1:15:23.92,Default,,0,0,0,,He would see you in irons before\Nrisking the wrath of King Thranduil.
+Dialogue: 0,1:15:25.84,1:15:26.80,Default,,0,0,0,,Offer him more.
+Dialogue: 0,1:15:29.72,1:15:30.40,Default,,0,0,0,,I'll wager there are...
+Dialogue: 0,1:15:30.64,1:15:32.56,Default,,0,0,0,,ways to enter that town unseen.
+Dialogue: 0,1:15:33.44,1:15:34.52,Default,,0,0,0,,Aye.
+Dialogue: 0,1:15:35.88,1:15:37.12,Default,,0,0,0,,But for that...
+Dialogue: 0,1:15:38.32,1:15:39.73,Default,,0,0,0,,you would need a smuggler.
+Dialogue: 0,1:15:39.96,1:15:41.88,Default,,0,0,0,,For which we would pay double.
+Dialogue: 0,1:15:50.44,1:15:54.04,Default,,0,0,0,,{\i1}Such is the nature of evil.\NOut there in...{\i0}
+Dialogue: 0,1:15:54.28,1:15:55.88,Default,,0,0,0,,the vast ignorance of the world...
+Dialogue: 0,1:15:56.12,1:15:58.44,Default,,0,0,0,,it festers and spreads.
+Dialogue: 0,1:15:58.68,1:16:01.41,Default,,0,0,0,,A shadow that grows in the dark.
+Dialogue: 0,1:16:02.00,1:16:03.72,Default,,0,0,0,,A sleepless malice as black...
+Dialogue: 0,1:16:03.96,1:16:06.88,Default,,0,0,0,,as the oncoming wall of night.
+Dialogue: 0,1:16:08.12,1:16:09.77,Default,,0,0,0,,So it ever was.
+Dialogue: 0,1:16:10.52,1:16:12.56,Default,,0,0,0,,So will it always be.
+Dialogue: 0,1:16:13.88,1:16:17.52,Default,,0,0,0,,In time, all foul things come forth.
+Dialogue: 0,1:16:17.92,1:16:20.73,Default,,0,0,0,,You were tracking a company of 13 Dwarves.
+Dialogue: 0,1:16:20.96,1:16:21.92,Default,,0,0,0,,Why?
+Dialogue: 0,1:16:22.16,1:16:23.49,Default,,0,0,0,,Not 13.
+Dialogue: 0,1:16:23.92,1:16:25.28,Default,,0,0,0,,Not anymore.
+Dialogue: 0,1:16:26.00,1:16:26.92,Default,,0,0,0,,The young one...
+Dialogue: 0,1:16:27.60,1:16:29.52,Default,,0,0,0,,the black-haired archer...
+Dialogue: 0,1:16:29.96,1:16:31.96,Default,,0,0,0,,we stuck him with a Morgul shaft.
+Dialogue: 0,1:16:33.64,1:16:36.76,Default,,0,0,0,,The poison's in his blood. He'll be...
+Dialogue: 0,1:16:37.00,1:16:38.04,Default,,0,0,0,,choking on it soon.
+Dialogue: 0,1:16:38.84,1:16:40.64,Default,,0,0,0,,Answer the question, filth.
+Dialogue: 0,1:16:40.67,1:16:42.67,Default,,0,0,0,,SharePirate.Com Subs
+Dialogue: 0,1:16:46.04,1:16:47.76,Default,,0,0,0,,I would not antagonize her.
+Dialogue: 0,1:16:48.44,1:16:50.16,Default,,0,0,0,,You like killing things, Orc?
+Dialogue: 0,1:16:51.48,1:16:52.84,Default,,0,0,0,,You like death?
+Dialogue: 0,1:16:54.20,1:16:55.28,Default,,0,0,0,,Then let me give it to you.
+Dialogue: 0,1:17:11.24,1:17:12.76,Default,,0,0,0,,I do not care about one...
+Dialogue: 0,1:17:12.96,1:17:15.64,Default,,0,0,0,,dead Dwarf. Answer the question.
+Dialogue: 0,1:17:16.16,1:17:19.20,Default,,0,0,0,,You have nothing to fear. Tell us...
+Dialogue: 0,1:17:19.48,1:17:21.96,Default,,0,0,0,,what you know\Nand I will set you free.
+Dialogue: 0,1:17:22.52,1:17:24.92,Default,,0,0,0,,You had orders to kill them. Why?
+Dialogue: 0,1:17:25.20,1:17:27.36,Default,,0,0,0,,What is Thorin Oakenshield to you?
+Dialogue: 0,1:17:27.60,1:17:30.49,Default,,0,0,0,,The Dwarf runt will never be king.
+Dialogue: 0,1:17:30.72,1:17:31.64,Default,,0,0,0,,King?
+Dialogue: 0,1:17:31.88,1:17:34.96,Default,,0,0,0,,There is no King Under the Mountain,\Nnor will there ever be.
+Dialogue: 0,1:17:35.20,1:17:37.48,Default,,0,0,0,,None would dare enter Erebor...
+Dialogue: 0,1:17:37.72,1:17:38.80,Default,,0,0,0,,whilst the dragon lives.
+Dialogue: 0,1:17:39.00,1:17:40.65,Default,,0,0,0,,You know nothing.
+Dialogue: 0,1:17:40.92,1:17:43.52,Default,,0,0,0,,Your world will burn.
+Dialogue: 0,1:17:43.80,1:17:45.40,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,1:17:45.92,1:17:47.12,Default,,0,0,0,,Speak!
+Dialogue: 0,1:17:47.56,1:17:50.37,Default,,0,0,0,,Our time has come again.
+Dialogue: 0,1:17:51.00,1:17:54.28,Default,,0,0,0,,My master serves the One.
+Dialogue: 0,1:17:55.76,1:17:58.20,Default,,0,0,0,,Do you understand now, Elfling?
+Dialogue: 0,1:17:58.48,1:18:00.32,Default,,0,0,0,,Death is upon you.
+Dialogue: 0,1:18:00.56,1:18:04.65,Default,,0,0,0,,The flames of war...\N...are upon you.
+Dialogue: 0,1:18:07.72,1:18:08.76,Default,,0,0,0,,Why did you do that?
+Dialogue: 0,1:18:09.28,1:18:11.12,Default,,0,0,0,,You promised to set him free.
+Dialogue: 0,1:18:11.36,1:18:12.48,Default,,0,0,0,,And I did.
+Dialogue: 0,1:18:13.52,1:18:16.76,Default,,0,0,0,,I freed his wretched head\Nfrom his miserable shoulders.
+Dialogue: 0,1:18:18.36,1:18:20.96,Default,,0,0,0,,There was more... the\NOrc could tell us.
+Dialogue: 0,1:18:21.36,1:18:23.64,Default,,0,0,0,,There was nothing more he could tell me.
+Dialogue: 0,1:18:24.60,1:18:27.08,Default,,0,0,0,,What did he mean by "the flames of war"?
+Dialogue: 0,1:18:27.76,1:18:30.04,Default,,0,0,0,,It means they intend to\Nunleash a weapon so great...
+Dialogue: 0,1:18:30.28,1:18:32.44,Default,,0,0,0,,it will destroy all before it.
+Dialogue: 0,1:18:33.20,1:18:36.52,Default,,0,0,0,,I want the watch doubled at our borders.\NAll roads, all rivers.
+Dialogue: 0,1:18:36.76,1:18:38.52,Default,,0,0,0,,Nothing moves, but I hear of it.
+Dialogue: 0,1:18:38.76,1:18:40.28,Default,,0,0,0,,No one enters this kingdom.
+Dialogue: 0,1:18:41.44,1:18:42.96,Default,,0,0,0,,And no one leaves it.
+Dialogue: 0,1:20:08.44,1:20:09.00,Default,,0,0,0,,Watch out!
+Dialogue: 0,1:20:18.20,1:20:18.80,Default,,0,0,0,,What are you trying...
+Dialogue: 0,1:20:19.08,1:20:20.73,Default,,0,0,0,,to do, drown us?
+Dialogue: 0,1:20:21.00,1:20:23.57,Default,,0,0,0,,I was born and bred on these waters,\NMaster Dwarf.
+Dialogue: 0,1:20:23.80,1:20:25.21,Default,,0,0,0,,If I wanted to drown you...
+Dialogue: 0,1:20:25.44,1:20:27.04,Default,,0,0,0,,I would not do it here.
+Dialogue: 0,1:20:29.12,1:20:31.52,Default,,0,0,0,,I've had enough of this lippy Lakeman.
+Dialogue: 0,1:20:31.80,1:20:34.53,Default,,0,0,0,,I say we throw him over the side\Nand be done with it.
+Dialogue: 0,1:20:34.80,1:20:37.24,Default,,0,0,0,,- Bard, his name's Bard.\N- How do you know?
+Dialogue: 0,1:20:37.84,1:20:39.25,Default,,0,0,0,,I asked him.
+Dialogue: 0,1:20:39.52,1:20:42.09,Default,,0,0,0,,I don't care what he calls himself.\NI don't like him.
+Dialogue: 0,1:20:42.32,1:20:43.89,Default,,0,0,0,,We do not have to like him.
+Dialogue: 0,1:20:44.12,1:20:45.77,Default,,0,0,0,,We simply have to pay him.
+Dialogue: 0,1:20:46.08,1:20:47.80,Default,,0,0,0,,Come on now, lads. Turn out...
+Dialogue: 0,1:20:48.04,1:20:49.00,Default,,0,0,0,,your pockets.
+Dialogue: 0,1:20:50.28,1:20:51.85,Default,,0,0,0,,How do we know he won't betray us?
+Dialogue: 0,1:20:52.08,1:20:53.32,Default,,0,0,0,,We don't.
+Dialogue: 0,1:20:54.28,1:20:54.96,Default,,0,0,0,,There's...
+Dialogue: 0,1:20:55.40,1:20:56.36,Default,,0,0,0,,just a wee problem.
+Dialogue: 0,1:20:57.60,1:20:59.04,Default,,0,0,0,,We're 10 coins short.
+Dialogue: 0,1:21:01.20,1:21:01.84,Default,,0,0,0,,Gloin.
+Dialogue: 0,1:21:03.48,1:21:04.08,Default,,0,0,0,,Come on.
+Dialogue: 0,1:21:04.32,1:21:06.44,Default,,0,0,0,,- Give us what you have.\N- Don't look to me.
+Dialogue: 0,1:21:07.52,1:21:11.20,Default,,0,0,0,,I have been bled dry...\N...by this venture.
+Dialogue: 0,1:21:11.52,1:21:12.48,Default,,0,0,0,,What have I seen...
+Dialogue: 0,1:21:12.76,1:21:14.04,Default,,0,0,0,,for my investment?
+Dialogue: 0,1:21:14.88,1:21:17.76,Default,,0,0,0,,Naught but misery and...\N...grief and...
+Dialogue: 0,1:21:26.12,1:21:28.08,Default,,0,0,0,,Bless my beard.
+Dialogue: 0,1:21:28.92,1:21:30.08,Default,,0,0,0,,Take it.
+Dialogue: 0,1:21:31.20,1:21:32.61,Default,,0,0,0,,- Take all of it.\N- Ahem.
+Dialogue: 0,1:21:36.44,1:21:37.77,Default,,0,0,0,,The money, quick. Give it to me.
+Dialogue: 0,1:21:37.80,1:21:38.52,Default,,0,0,0,,We will pay you when we...
+Dialogue: 0,1:21:38.76,1:21:40.48,Default,,0,0,0,,get our provisions but not before.
+Dialogue: 0,1:21:40.72,1:21:43.20,Default,,0,0,0,,If you value your freedom,\Nyou'll do as I say.
+Dialogue: 0,1:21:43.64,1:21:44.92,Default,,0,0,0,,There are guards ahead.
+Dialogue: 0,1:22:03.48,1:22:04.84,Default,,0,0,0,,What's he doing?
+Dialogue: 0,1:22:05.20,1:22:06.44,Default,,0,0,0,,He's talking to someone.
+Dialogue: 0,1:22:09.04,1:22:10.12,Default,,0,0,0,,He's pointing right at us.
+Dialogue: 0,1:22:13.52,1:22:14.08,Default,,0,0,0,,Now they're...
+Dialogue: 0,1:22:14.36,1:22:15.04,Default,,0,0,0,,shaking hands.
+Dialogue: 0,1:22:15.20,1:22:16.64,Default,,0,0,0,,- What?\N- The villain.
+Dialogue: 0,1:22:16.88,1:22:18.21,Default,,0,0,0,,He's selling us out.
+Dialogue: 0,1:22:41.20,1:22:42.12,Default,,0,0,0,,Quiet.
+Dialogue: 0,1:22:44.92,1:22:46.64,Default,,0,0,0,,We're approaching the tollgate.
+Dialogue: 0,1:22:58.00,1:22:58.84,Default,,0,0,0,,Halt!
+Dialogue: 0,1:22:59.16,1:23:00.49,Default,,0,0,0,,Goods inspection!
+Dialogue: 0,1:23:01.24,1:23:03.08,Default,,0,0,0,,Papers, please!
+Dialogue: 0,1:23:03.84,1:23:05.08,Default,,0,0,0,,It's you, Bard.
+Dialogue: 0,1:23:05.32,1:23:06.36,Default,,0,0,0,,Morning, Percy.
+Dialogue: 0,1:23:06.60,1:23:07.80,Default,,0,0,0,,Anything to declare?
+Dialogue: 0,1:23:08.08,1:23:10.81,Default,,0,0,0,,Nothing, but that I am cold and tired...
+Dialogue: 0,1:23:11.08,1:23:12.12,Default,,0,0,0,,and ready for home.
+Dialogue: 0,1:23:12.36,1:23:13.60,Default,,0,0,0,,You and me both.
+Dialogue: 0,1:23:17.72,1:23:19.13,Default,,0,0,0,,There we are.
+Dialogue: 0,1:23:19.36,1:23:20.20,Default,,0,0,0,,All in order.
+Dialogue: 0,1:23:20.44,1:23:23.28,Default,,0,0,0,,Not so fast.
+Dialogue: 0,1:23:24.48,1:23:27.76,Default,,0,0,0,,"Consignment of empty barrels\Nfrom the Woodland Realm."
+Dialogue: 0,1:23:29.24,1:23:29.96,Default,,0,0,0,,Only...
+Dialogue: 0,1:23:32.12,1:23:33.77,Default,,0,0,0,,they're not empty...
+Dialogue: 0,1:23:34.60,1:23:35.80,Default,,0,0,0,,are they, Bard?
+Dialogue: 0,1:23:36.04,1:23:37.00,Default,,0,0,0,,If I recall correctly...
+Dialogue: 0,1:23:37.28,1:23:39.56,Default,,0,0,0,,you're licensed as a bargeman.
+Dialogue: 0,1:23:40.52,1:23:41.44,Default,,0,0,0,,Not...
+Dialogue: 0,1:23:42.96,1:23:44.20,Default,,0,0,0,,a fisherman.
+Dialogue: 0,1:23:44.56,1:23:45.92,Default,,0,0,0,,That's none of your business.
+Dialogue: 0,1:23:46.64,1:23:47.60,Default,,0,0,0,,Wrong.
+Dialogue: 0,1:23:47.84,1:23:51.28,Default,,0,0,0,,It's the Master's business,\Nwhich makes it my business.
+Dialogue: 0,1:23:51.52,1:23:54.09,Default,,0,0,0,,Come on, Alfrid, have a heart.\NPeople need to eat.
+Dialogue: 0,1:23:54.32,1:23:56.56,Default,,0,0,0,,These fish are illegal.
+Dialogue: 0,1:23:57.32,1:23:58.17,Default,,0,0,0,,Empty the barrels...
+Dialogue: 0,1:23:58.20,1:24:00.40,Default,,0,0,0,,over the side.\N- You heard him. In the canal.
+Dialogue: 0,1:24:02.48,1:24:04.44,Default,,0,0,0,,Come on. Get a move on.
+Dialogue: 0,1:24:04.72,1:24:06.48,Default,,0,0,0,,Folk in this town are struggling.
+Dialogue: 0,1:24:07.12,1:24:08.24,Default,,0,0,0,,Times are hard.
+Dialogue: 0,1:24:08.52,1:24:09.48,Default,,0,0,0,,Food is scarce.
+Dialogue: 0,1:24:09.72,1:24:10.84,Default,,0,0,0,,That's not my problem.
+Dialogue: 0,1:24:11.16,1:24:13.28,Default,,0,0,0,,And when the people hear\Nthe Master is dumping fish...
+Dialogue: 0,1:24:13.40,1:24:14.97,Default,,0,0,0,,back in the lake...
+Dialogue: 0,1:24:15.52,1:24:17.09,Default,,0,0,0,,when the rioting starts...
+Dialogue: 0,1:24:19.92,1:24:21.28,Default,,0,0,0,,will it be your problem then?
+Dialogue: 0,1:24:26.28,1:24:27.36,Default,,0,0,0,,Stop.
+Dialogue: 0,1:24:30.80,1:24:31.96,Default,,0,0,0,,Ever the people's champion...
+Dialogue: 0,1:24:32.12,1:24:34.20,Default,,0,0,0,,Bard? Protector of...
+Dialogue: 0,1:24:34.44,1:24:35.24,Default,,0,0,0,,the common folk.
+Dialogue: 0,1:24:35.48,1:24:37.17,Default,,0,0,0,,You might have their favor now,\Nbargeman...
+Dialogue: 0,1:24:37.20,1:24:38.16,Default,,0,0,0,,but it won't last.
+Dialogue: 0,1:24:42.36,1:24:43.48,Default,,0,0,0,,Raise the gate!
+Dialogue: 0,1:24:46.64,1:24:48.52,Default,,0,0,0,,The Master has his eye on you.
+Dialogue: 0,1:24:48.76,1:24:50.25,Default,,0,0,0,,You'd do well to remember:
+Dialogue: 0,1:24:50.52,1:24:52.04,Default,,0,0,0,,We know where you live.
+Dialogue: 0,1:24:52.28,1:24:53.96,Default,,0,0,0,,It's a small town, Alfrid.
+Dialogue: 0,1:24:54.60,1:24:56.72,Default,,0,0,0,,Everyone knows where everyone lives.
+Dialogue: 0,1:25:12.88,1:25:15.20,Default,,0,0,0,,All this talk of civil unrest.
+Dialogue: 0,1:25:15.44,1:25:17.12,Default,,0,0,0,,Someone's been stirring the pot, sire.
+Dialogue: 0,1:25:20.60,1:25:21.76,Default,,0,0,0,,Gout playing up, sire?
+Dialogue: 0,1:25:22.00,1:25:22.96,Default,,0,0,0,,It's the damp.
+Dialogue: 0,1:25:23.20,1:25:24.60,Default,,0,0,0,,It's the only possible explanation.
+Dialogue: 0,1:25:25.04,1:25:26.04,Default,,0,0,0,,Get me a brandy.
+Dialogue: 0,1:25:26.92,1:25:29.73,Default,,0,0,0,,The mood of the people, sire,\Nit's turning ugly.
+Dialogue: 0,1:25:29.96,1:25:32.93,Default,,0,0,0,,They're commoners, Alfrid.\NThey've always been ugly.
+Dialogue: 0,1:25:33.16,1:25:34.80,Default,,0,0,0,,It's not my fault they live in a place...
+Dialogue: 0,1:25:34.96,1:25:37.69,Default,,0,0,0,,that stinks of fish oil and tar.
+Dialogue: 0,1:25:38.40,1:25:41.37,Default,,0,0,0,,Jobs, shelter, food.
+Dialogue: 0,1:25:41.60,1:25:43.25,Default,,0,0,0,,It's all they ever bleat about.
+Dialogue: 0,1:25:43.48,1:25:47.12,Default,,0,0,0,,It's my belief, sire, they are\Nbeing led on by troublemakers.
+Dialogue: 0,1:25:48.44,1:25:49.80,Default,,0,0,0,,Then we must find these...
+Dialogue: 0,1:25:50.08,1:25:52.00,Default,,0,0,0,,troublemakers and arrest them.
+Dialogue: 0,1:25:52.24,1:25:54.16,Default,,0,0,0,,My thoughts exactly, sire.
+Dialogue: 0,1:25:54.40,1:25:57.24,Default,,0,0,0,,And all this talk of change\Nmust be suppressed.
+Dialogue: 0,1:25:57.48,1:25:59.76,Default,,0,0,0,,Can't afford to let the rabble\Nband together...
+Dialogue: 0,1:26:00.04,1:26:01.80,Default,,0,0,0,,and start making noises.\NThe next thing...
+Dialogue: 0,1:26:01.96,1:26:04.88,Default,,0,0,0,,you know, they'll start\Nasking questions...
+Dialogue: 0,1:26:05.12,1:26:06.72,Default,,0,0,0,,forming committees...
+Dialogue: 0,1:26:07.68,1:26:09.12,Default,,0,0,0,,launching inquiries.
+Dialogue: 0,1:26:09.36,1:26:11.84,Default,,0,0,0,,Out with the old, in with the new?
+Dialogue: 0,1:26:12.56,1:26:13.52,Default,,0,0,0,,What?
+Dialogue: 0,1:26:13.76,1:26:15.80,Default,,0,0,0,,That's what they've been saying, sire.
+Dialogue: 0,1:26:16.04,1:26:18.48,Default,,0,0,0,,There is even talk...\N...of an election.
+Dialogue: 0,1:26:18.72,1:26:19.92,Default,,0,0,0,,An election? Heh.
+Dialogue: 0,1:26:20.16,1:26:21.49,Default,,0,0,0,,That's absurd.
+Dialogue: 0,1:26:21.72,1:26:23.72,Default,,0,0,0,,I won't stand for it. Ha!
+Dialogue: 0,1:26:24.52,1:26:26.76,Default,,0,0,0,,I don't think they'd ask\Nyou to stand, sire.
+Dialogue: 0,1:26:28.64,1:26:30.21,Default,,0,0,0,,Shirkers.
+Dialogue: 0,1:26:30.44,1:26:31.36,Default,,0,0,0,,Ingrates.
+Dialogue: 0,1:26:31.60,1:26:32.64,Default,,0,0,0,,Rabble-rousers.
+Dialogue: 0,1:26:32.88,1:26:35.61,Default,,0,0,0,,Who would have the nerve\Nto question my authority?
+Dialogue: 0,1:26:36.16,1:26:37.52,Default,,0,0,0,,Who would dare?
+Dialogue: 0,1:26:37.76,1:26:38.76,Default,,0,0,0,,Who...?
+Dialogue: 0,1:26:43.68,1:26:45.04,Default,,0,0,0,,Bard.
+Dialogue: 0,1:26:45.88,1:26:47.45,Default,,0,0,0,,You mark my words:
+Dialogue: 0,1:26:47.72,1:26:49.32,Default,,0,0,0,,That trouble-making bargeman...
+Dialogue: 0,1:26:49.56,1:26:51.16,Default,,0,0,0,,is behind all this.
+Dialogue: 0,1:26:51.40,1:26:53.08,Default,,0,0,0,,No one else would have the...\NBollocks...
+Dialogue: 0,1:26:53.32,1:26:54.04,Default,,0,0,0,,sire.
+Dialogue: 0,1:26:54.84,1:26:58.64,Default,,0,0,0,,Ram and goat,\Nsautéed in a lovely little mushroom gravy.
+Dialogue: 0,1:27:00.76,1:27:03.24,Default,,0,0,0,,In an ideal world, sire, we'd arrest him.
+Dialogue: 0,1:27:03.72,1:27:06.69,Default,,0,0,0,,But Bard has the favor of the people.
+Dialogue: 0,1:27:06.92,1:27:09.44,Default,,0,0,0,,They see him as a leader.
+Dialogue: 0,1:27:11.12,1:27:13.36,Default,,0,0,0,,Someone they can truly admire.
+Dialogue: 0,1:27:13.60,1:27:14.84,Default,,0,0,0,,Modest...
+Dialogue: 0,1:27:15.12,1:27:18.00,Default,,0,0,0,,intelligent... handsome...
+Dialogue: 0,1:27:18.24,1:27:19.60,Default,,0,0,0,,athletic...
+Dialogue: 0,1:27:19.84,1:27:23.44,Default,,0,0,0,,Yes, he's clearly modeling himself on me.
+Dialogue: 0,1:27:23.68,1:27:25.76,Default,,0,0,0,,That's no crime.
+Dialogue: 0,1:27:27.24,1:27:28.52,Default,,0,0,0,,I wonder...
+Dialogue: 0,1:27:30.40,1:27:34.24,Default,,0,0,0,,I wonder if some ancient law might exist...
+Dialogue: 0,1:27:34.48,1:27:38.53,Default,,0,0,0,,that forbids bargemen\Nfrom asking questions.
+Dialogue: 0,1:27:40.12,1:27:44.12,Default,,0,0,0,,You think such a venerable statute\Nmight exist?
+Dialogue: 0,1:27:45.96,1:27:48.53,Default,,0,0,0,,Almost certainly, sire.
+Dialogue: 0,1:27:50.88,1:27:53.56,Default,,0,0,0,,I'll write one immediately.
+Dialogue: 0,1:27:58.12,1:28:00.40,Default,,0,0,0,,You picked the wrong man...
+Dialogue: 0,1:28:00.64,1:28:03.45,Default,,0,0,0,,to tangle with, Master Bard.
+Dialogue: 0,1:28:03.88,1:28:05.68,Default,,0,0,0,,I hope you're watching yourself...
+Dialogue: 0,1:28:05.96,1:28:07.56,Default,,0,0,0,,{\i1}because I'll be watching you.{\i0}
+Dialogue: 0,1:28:16.68,1:28:17.76,Default,,0,0,0,,Get your hands off me.
+Dialogue: 0,1:28:25.24,1:28:27.12,Default,,0,0,0,,You didn't see them.\NThey were never here.
+Dialogue: 0,1:28:28.80,1:28:30.40,Default,,0,0,0,,The fish you can have for nothing.
+Dialogue: 0,1:28:33.04,1:28:34.88,Default,,0,0,0,,Stay close.
+Dialogue: 0,1:28:38.32,1:28:39.60,Default,,0,0,0,,Follow me.
+Dialogue: 0,1:28:39.84,1:28:40.76,Default,,0,0,0,,What is this place?
+Dialogue: 0,1:28:41.04,1:28:43.88,Default,,0,0,0,,This, Mr. Baggins, is the world of Men.
+Dialogue: 0,1:28:44.12,1:28:45.40,Default,,0,0,0,,Get it over here now.
+Dialogue: 0,1:28:45.64,1:28:47.64,Default,,0,0,0,,Grab the other end. That's it.
+Dialogue: 0,1:28:48.68,1:28:50.09,Default,,0,0,0,,Keep your head's down, keep moving.
+Dialogue: 0,1:28:50.32,1:28:51.28,Default,,0,0,0,,Quickly, now.
+Dialogue: 0,1:28:51.52,1:28:54.44,Default,,0,0,0,,God, how many more are there?
+Dialogue: 0,1:28:55.88,1:28:56.48,Default,,0,0,0,,Halt.
+Dialogue: 0,1:28:57.56,1:28:58.28,Default,,0,0,0,,Oi!
+Dialogue: 0,1:28:58.56,1:28:59.12,Default,,0,0,0,,Come on. Move.
+Dialogue: 0,1:28:59.36,1:28:59.96,Default,,0,0,0,,In the name...
+Dialogue: 0,1:29:00.20,1:29:00.84,Default,,0,0,0,,of the Master of Lake-town...
+Dialogue: 0,1:29:01.08,1:29:01.68,Default,,0,0,0,,I said halt.
+Dialogue: 0,1:29:02.64,1:29:03.28,Default,,0,0,0,,Halt!
+Dialogue: 0,1:29:04.60,1:29:05.28,Default,,0,0,0,,Stop them!
+Dialogue: 0,1:29:07.04,1:29:07.96,Default,,0,0,0,,- Get back.\N- Come here.
+Dialogue: 0,1:29:31.12,1:29:32.56,Default,,0,0,0,,What's going on here?
+Dialogue: 0,1:29:34.88,1:29:37.16,Default,,0,0,0,,Stay where you are. Nobody leaves.
+Dialogue: 0,1:29:45.84,1:29:46.56,Default,,0,0,0,,Braga.
+Dialogue: 0,1:29:46.80,1:29:47.84,Default,,0,0,0,,- Sorry?\N- You.
+Dialogue: 0,1:29:49.80,1:29:51.08,Default,,0,0,0,,What are you up to, Bard?
+Dialogue: 0,1:29:51.36,1:29:52.08,Default,,0,0,0,,Me?
+Dialogue: 0,1:29:52.48,1:29:53.36,Default,,0,0,0,,Nothing.
+Dialogue: 0,1:29:53.60,1:29:54.96,Default,,0,0,0,,I'm looking for nothing.
+Dialogue: 0,1:29:58.48,1:29:59.16,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:30:05.68,1:30:07.44,Default,,0,0,0,,Hey, Braga.
+Dialogue: 0,1:30:09.04,1:30:10.69,Default,,0,0,0,,Your wife would look lovely in this.
+Dialogue: 0,1:30:12.80,1:30:14.13,Default,,0,0,0,,What do you know of my wife?
+Dialogue: 0,1:30:15.56,1:30:17.32,Default,,0,0,0,,I know her as well\Nas any man in this town.
+Dialogue: 0,1:30:32.28,1:30:33.36,Default,,0,0,0,,Da!
+Dialogue: 0,1:30:33.84,1:30:35.64,Default,,0,0,0,,Our house, it's being watched.
+Dialogue: 0,1:31:12.08,1:31:13.44,Default,,0,0,0,,You can tell the Master\NI'm done...
+Dialogue: 0,1:31:13.64,1:31:14.28,Default,,0,0,0,,for the day.
+Dialogue: 0,1:31:15.72,1:31:18.08,Default,,0,0,0,,Da! Where have you been?
+Dialogue: 0,1:31:18.36,1:31:21.33,Default,,0,0,0,,Father! There you are! I was worried.
+Dialogue: 0,1:31:21.68,1:31:23.09,Default,,0,0,0,,Here, Sigrid.
+Dialogue: 0,1:31:23.64,1:31:24.60,Default,,0,0,0,,Bain, get them in.
+Dialogue: 0,1:31:32.36,1:31:34.96,Default,,0,0,0,,If you speak of this to anyone...
+Dialogue: 0,1:31:35.20,1:31:36.64,Default,,0,0,0,,I'll rip your arms off.
+Dialogue: 0,1:31:39.52,1:31:41.01,Default,,0,0,0,,Get off.
+Dialogue: 0,1:31:42.44,1:31:43.52,Default,,0,0,0,,Up there.
+Dialogue: 0,1:31:51.28,1:31:52.08,Default,,0,0,0,,Da...
+Dialogue: 0,1:31:52.36,1:31:54.60,Default,,0,0,0,,why are there Dwarves\Nclimbing out of our toilet?
+Dialogue: 0,1:31:54.84,1:31:56.17,Default,,0,0,0,,Will they bring us luck?
+Dialogue: 0,1:32:00.76,1:32:01.60,Default,,0,0,0,,They may not be the best fit...
+Dialogue: 0,1:32:01.84,1:32:03.60,Default,,0,0,0,,but they'll keep you warm.
+Dialogue: 0,1:32:04.28,1:32:05.32,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,1:32:15.52,1:32:17.60,Default,,0,0,0,,A Dwarvish windlance.
+Dialogue: 0,1:32:17.92,1:32:20.04,Default,,0,0,0,,You look like...\N...you've seen a ghost.
+Dialogue: 0,1:32:20.80,1:32:21.96,Default,,0,0,0,,He has.
+Dialogue: 0,1:32:22.76,1:32:25.68,Default,,0,0,0,,The last time we saw...\N...such a weapon...
+Dialogue: 0,1:32:26.72,1:32:27.60,Default,,0,0,0,,a city was on fire.
+Dialogue: 0,1:32:29.64,1:32:31.88,Default,,0,0,0,,It was the day the dragon came.
+Dialogue: 0,1:32:35.12,1:32:36.61,Default,,0,0,0,,{\i1}The day that Smaug...{\i0}
+Dialogue: 0,1:32:36.84,1:32:37.96,Default,,0,0,0,,{\i1}destroyed Dale.{\i0}
+Dialogue: 0,1:32:40.44,1:32:42.64,Default,,0,0,0,,{\i1}Girion, the Lord of the City...{\i0}
+Dialogue: 0,1:32:42.88,1:32:43.85,Default,,0,0,0,,{\i1}rallied his bowmen...{\i0}
+Dialogue: 0,1:32:43.88,1:32:45.00,Default,,0,0,0,,{\i1}to fire upon the beast.{\i0}
+Dialogue: 0,1:32:46.16,1:32:47.88,Default,,0,0,0,,But a dragon's hide is tough.
+Dialogue: 0,1:32:48.48,1:32:50.64,Default,,0,0,0,,Tougher than the strongest armor.
+Dialogue: 0,1:32:50.88,1:32:54.08,Default,,0,0,0,,Only a Black Arrow fired\Nfrom a windlance...
+Dialogue: 0,1:32:54.32,1:32:55.92,Default,,0,0,0,,could have pierced the dragon's hide.
+Dialogue: 0,1:32:56.88,1:32:57.92,Default,,0,0,0,,{\i1}And few of those...{\i0}
+Dialogue: 0,1:32:58.16,1:32:59.96,Default,,0,0,0,,{\i1}arrows were ever made.{\i0}
+Dialogue: 0,1:33:05.28,1:33:06.40,Default,,0,0,0,,{\i1}The store was running low...{\i0}
+Dialogue: 0,1:33:06.92,1:33:07.60,Default,,0,0,0,,{\i1}when Girion...{\i0}
+Dialogue: 0,1:33:07.76,1:33:08.68,Default,,0,0,0,,{\i1}made his last stand.{\i0}
+Dialogue: 0,1:33:16.72,1:33:20.12,Default,,0,0,0,,Had the aim of Men been true that day...
+Dialogue: 0,1:33:20.72,1:33:22.56,Default,,0,0,0,,much would have been different.
+Dialogue: 0,1:33:26.68,1:33:28.60,Default,,0,0,0,,You speak as if you were there.
+Dialogue: 0,1:33:29.96,1:33:32.08,Default,,0,0,0,,All Dwarves know the tale.
+Dialogue: 0,1:33:32.40,1:33:34.60,Default,,0,0,0,,Then you would know\Nthat Girion hit the dragon.
+Dialogue: 0,1:33:34.84,1:33:36.72,Default,,0,0,0,,He loosened a scale under the left wing.
+Dialogue: 0,1:33:37.00,1:33:38.92,Default,,0,0,0,,One more shot and\Nhe would have killed the beast.
+Dialogue: 0,1:33:40.20,1:33:42.08,Default,,0,0,0,,That's a fairy story, lad.
+Dialogue: 0,1:33:42.32,1:33:43.73,Default,,0,0,0,,Nothing more.
+Dialogue: 0,1:33:44.72,1:33:46.08,Default,,0,0,0,,You took our money.
+Dialogue: 0,1:33:47.16,1:33:48.44,Default,,0,0,0,,Where are the weapons?
+Dialogue: 0,1:33:51.04,1:33:52.24,Default,,0,0,0,,Wait here.
+Dialogue: 0,1:34:06.72,1:34:07.44,Default,,0,0,0,,Tomorrow begins...
+Dialogue: 0,1:34:07.68,1:34:08.76,Default,,0,0,0,,the last days of autumn.
+Dialogue: 0,1:34:08.92,1:34:11.20,Default,,0,0,0,,Durin's Day falls the mom after next.
+Dialogue: 0,1:34:11.44,1:34:13.36,Default,,0,0,0,,We must reach the mountain before then.
+Dialogue: 0,1:34:13.60,1:34:14.96,Default,,0,0,0,,And if we do not?
+Dialogue: 0,1:34:15.20,1:34:17.52,Default,,0,0,0,,If we fail to find the hidden door\Nbefore that time?
+Dialogue: 0,1:34:17.76,1:34:19.29,Default,,0,0,0,,Then this quest has been for nothing.
+Dialogue: 0,1:34:31.60,1:34:32.80,Default,,0,0,0,,What is this?
+Dialogue: 0,1:34:33.36,1:34:34.64,Default,,0,0,0,,Pike hook.
+Dialogue: 0,1:34:34.88,1:34:36.04,Default,,0,0,0,,Made from an old harpoon.
+Dialogue: 0,1:34:36.64,1:34:38.80,Default,,0,0,0,,- And this?\N- A crowbill, we call it.
+Dialogue: 0,1:34:39.04,1:34:40.61,Default,,0,0,0,,Fashioned from a smithy's hammer.
+Dialogue: 0,1:34:40.84,1:34:42.36,Default,,0,0,0,,It's heavy in hand, I grant...
+Dialogue: 0,1:34:42.60,1:34:45.36,Default,,0,0,0,,but in defense of your life,\Nthese will serve you better than none.
+Dialogue: 0,1:34:45.60,1:34:48.32,Default,,0,0,0,,We paid... you for weapons.
+Dialogue: 0,1:34:48.56,1:34:51.36,Default,,0,0,0,,Iron-forged swords...\N...and axes!
+Dialogue: 0,1:34:51.60,1:34:52.56,Default,,0,0,0,,It's a joke!
+Dialogue: 0,1:34:54.68,1:34:55.57,Default,,0,0,0,,You won't find...
+Dialogue: 0,1:34:55.60,1:34:57.25,Default,,0,0,0,,better outside the city armory.
+Dialogue: 0,1:34:57.48,1:34:58.84,Default,,0,0,0,,All iron-forged weapons are held there...
+Dialogue: 0,1:34:59.12,1:35:00.32,Default,,0,0,0,,under lock and key.
+Dialogue: 0,1:35:00.56,1:35:01.60,Default,,0,0,0,,Thorin...
+Dialogue: 0,1:35:02.24,1:35:03.12,Default,,0,0,0,,why not take what's...
+Dialogue: 0,1:35:03.20,1:35:04.12,Default,,0,0,0,,on offer and go?
+Dialogue: 0,1:35:04.36,1:35:05.56,Default,,0,0,0,,I've made do with less.
+Dialogue: 0,1:35:05.84,1:35:06.60,Default,,0,0,0,,So have you.
+Dialogue: 0,1:35:08.96,1:35:11.12,Default,,0,0,0,,- I say we leave now.\N- You're not going anywhere.
+Dialogue: 0,1:35:11.36,1:35:12.28,Default,,0,0,0,,What did you say?
+Dialogue: 0,1:35:12.56,1:35:13.80,Default,,0,0,0,,There are spies watching this house...
+Dialogue: 0,1:35:14.04,1:35:16.72,Default,,0,0,0,,and probably every dock\Nand wharf in the town.
+Dialogue: 0,1:35:17.32,1:35:19.12,Default,,0,0,0,,You must wait...\N...till nightfall.
+Dialogue: 0,1:35:35.60,1:35:36.76,Default,,0,0,0,,Thorin.
+Dialogue: 0,1:35:49.80,1:35:50.92,Default,,0,0,0,,Da?
+Dialogue: 0,1:35:54.12,1:35:55.56,Default,,0,0,0,,Don't let them leave.
+Dialogue: 0,1:36:27.68,1:36:28.68,Default,,0,0,0,,Tauriel...
+Dialogue: 0,1:36:29.48,1:36:31.52,Default,,0,0,0,,you cannot hunt 30 Orcs...
+Dialogue: 0,1:36:31.80,1:36:32.68,Default,,0,0,0,,on your own.
+Dialogue: 0,1:36:32.92,1:36:34.80,Default,,0,0,0,,But I'm not on my own.
+Dialogue: 0,1:36:35.64,1:36:36.92,Default,,0,0,0,,You knew I would come.
+Dialogue: 0,1:36:39.56,1:36:40.36,Default,,0,0,0,,The king is angry...
+Dialogue: 0,1:36:40.64,1:36:42.44,Default,,0,0,0,,Tauriel. For 600 years...
+Dialogue: 0,1:36:42.68,1:36:44.40,Default,,0,0,0,,my father has protected you,\Nfavored you.
+Dialogue: 0,1:36:45.52,1:36:46.88,Default,,0,0,0,,You defied his orders.
+Dialogue: 0,1:36:47.12,1:36:48.53,Default,,0,0,0,,You betrayed his trust.
+Dialogue: 0,1:36:58.52,1:37:00.09,Default,,0,0,0,,The king has never let Orc filth...
+Dialogue: 0,1:37:00.32,1:37:01.28,Default,,0,0,0,,roam our lands.
+Dialogue: 0,1:37:01.52,1:37:04.80,Default,,0,0,0,,Yet he would let this Orc pack cross\Nour borders and kill our prisoners.
+Dialogue: 0,1:37:05.08,1:37:06.36,Default,,0,0,0,,It is not our fight.
+Dialogue: 0,1:37:06.60,1:37:08.12,Default,,0,0,0,,It is our fight.
+Dialogue: 0,1:37:08.64,1:37:10.36,Default,,0,0,0,,It will not end here.
+Dialogue: 0,1:37:10.60,1:37:13.49,Default,,0,0,0,,With every victory, this evil will grow.
+Dialogue: 0,1:37:13.76,1:37:16.49,Default,,0,0,0,,If your father has his way,\Nwe will do nothing.
+Dialogue: 0,1:37:16.76,1:37:18.84,Default,,0,0,0,,We will hide within our walls...
+Dialogue: 0,1:37:19.08,1:37:21.40,Default,,0,0,0,,live our lives away from the light...
+Dialogue: 0,1:37:21.68,1:37:23.20,Default,,0,0,0,,and let darkness descend.
+Dialogue: 0,1:37:25.08,1:37:26.96,Default,,0,0,0,,Are we not part of this world?
+Dialogue: 0,1:37:28.16,1:37:29.36,Default,,0,0,0,,Tell me, mellon.
+Dialogue: 0,1:37:29.60,1:37:33.08,Default,,0,0,0,,When did we let evil\Nbecome stronger than us?
+Dialogue: 0,1:37:37.96,1:37:40.69,Default,,0,0,0,,Hello, Bard. What you after?
+Dialogue: 0,1:37:41.72,1:37:43.29,Default,,0,0,0,,There was a tapestry!
+Dialogue: 0,1:37:44.00,1:37:46.12,Default,,0,0,0,,An old one! Where's it gone?
+Dialogue: 0,1:37:46.36,1:37:47.64,Default,,0,0,0,,What tapestry you talking about?
+Dialogue: 0,1:37:47.92,1:37:48.48,Default,,0,0,0,,This one.
+Dialogue: 0,1:37:49.48,1:37:51.12,Default,,0,0,0,,They were Dwarves, I tell you.\NAppeared...
+Dialogue: 0,1:37:51.32,1:37:52.16,Default,,0,0,0,,out of nowhere.
+Dialogue: 0,1:37:52.40,1:37:54.56,Default,,0,0,0,,Full beards. Fierce eyes.
+Dialogue: 0,1:37:54.84,1:37:56.44,Default,,0,0,0,,I've never seen the like.
+Dialogue: 0,1:37:56.72,1:37:58.80,Default,,0,0,0,,What are Dwarves doing in these parts?
+Dialogue: 0,1:37:59.04,1:38:00.72,Default,,0,0,0,,- It's the prophecy.\N- The prophecy?
+Dialogue: 0,1:38:00.88,1:38:02.68,Default,,0,0,0,,The Prophecy of Durin's Folk.
+Dialogue: 0,1:38:12.08,1:38:13.52,Default,,0,0,0,,Prophecy.
+Dialogue: 0,1:38:17.28,1:38:18.36,Default,,0,0,0,,Prophecy.
+Dialogue: 0,1:38:18.60,1:38:19.88,Default,,0,0,0,,The old tales will come true.
+Dialogue: 0,1:38:20.16,1:38:22.40,Default,,0,0,0,,Vast halls of treasure!
+Dialogue: 0,1:38:22.64,1:38:24.80,Default,,0,0,0,,Silver and gold and jewels beyond measure.
+Dialogue: 0,1:38:25.08,1:38:26.04,Default,,0,0,0,,Can you imagine?
+Dialogue: 0,1:38:26.28,1:38:27.44,Default,,0,0,0,,Can it really be true?
+Dialogue: 0,1:38:27.68,1:38:30.41,Default,,0,0,0,,Has the lord of silver fountains returned?
+Dialogue: 0,1:38:30.72,1:38:33.29,Default,,0,0,0,,{\i1}The lord of the silver fountains{\i0}
+Dialogue: 0,1:38:33.52,1:38:35.80,Default,,0,0,0,,{\i1}The King of carven stone{\i0}
+Dialogue: 0,1:38:37.88,1:38:39.64,Default,,0,0,0,,{\i1}The King beneath the mountain{\i0}
+Dialogue: 0,1:38:40.84,1:38:42.76,Default,,0,0,0,,{\i1}Shall come into his own!{\i0}
+Dialogue: 0,1:38:44.08,1:38:45.96,Default,,0,0,0,,{\i1}And the bell shall ring in gladness{\i0}
+Dialogue: 0,1:38:46.20,1:38:48.56,Default,,0,0,0,,{\i1}At the Mountain King's return{\i0}
+Dialogue: 0,1:38:48.96,1:38:51.53,Default,,0,0,0,,{\i1}But all shall fail in sadness{\i0}
+Dialogue: 0,1:38:52.20,1:38:54.85,Default,,0,0,0,,{\i1}And the lake will shine and burn{\i0}
+Dialogue: 0,1:38:57.84,1:38:58.84,Default,,0,0,0,,Da, I tried to stop them.
+Dialogue: 0,1:38:59.04,1:39:00.48,Default,,0,0,0,,How long have they been gone?
+Dialogue: 0,1:39:04.60,1:39:06.32,Default,,0,0,0,,- Can you see anything?\N- Shh! Keep it down.
+Dialogue: 0,1:39:06.52,1:39:07.84,Default,,0,0,0,,As soon as we have the weapons...
+Dialogue: 0,1:39:07.96,1:39:09.48,Default,,0,0,0,,we make straight for the mountain.
+Dialogue: 0,1:39:09.72,1:39:10.92,Default,,0,0,0,,Go, go!
+Dialogue: 0,1:39:11.32,1:39:12.48,Default,,0,0,0,,Go, Nori.
+Dialogue: 0,1:39:15.60,1:39:16.60,Default,,0,0,0,,Next.
+Dialogue: 0,1:39:22.08,1:39:22.88,Default,,0,0,0,,{\i1}Prophecy?{\i0}
+Dialogue: 0,1:39:23.40,1:39:25.52,Default,,0,0,0,,Who dragged up that old nonsense?
+Dialogue: 0,1:39:25.76,1:39:27.48,Default,,0,0,0,,People, sire.
+Dialogue: 0,1:39:27.72,1:39:28.72,Default,,0,0,0,,They're gathering in the streets.
+Dialogue: 0,1:39:28.96,1:39:32.04,Default,,0,0,0,,They're saying that a king will return\Nto the Lonely Mountain...
+Dialogue: 0,1:39:32.28,1:39:36.00,Default,,0,0,0,,and that the rivers will once more\Nrun with gold.
+Dialogue: 0,1:39:36.28,1:39:38.56,Default,,0,0,0,,Rivers of gold? Poppycock.
+Dialogue: 0,1:39:40.60,1:39:41.60,Default,,0,0,0,,As you say, sire.
+Dialogue: 0,1:39:42.72,1:39:44.68,Default,,0,0,0,,But people will believe\Nwhat they want to believe.
+Dialogue: 0,1:39:45.68,1:39:48.28,Default,,0,0,0,,It's been a long time\Nsince they've seen any riches.
+Dialogue: 0,1:39:48.52,1:39:51.92,Default,,0,0,0,,The old tales offer them hope.
+Dialogue: 0,1:40:01.72,1:40:02.88,Default,,0,0,0,,You all right?
+Dialogue: 0,1:40:03.12,1:40:04.40,Default,,0,0,0,,I can manage.
+Dialogue: 0,1:40:05.16,1:40:06.76,Default,,0,0,0,,Let's just get out of here.
+Dialogue: 0,1:40:20.76,1:40:21.64,Default,,0,0,0,,Run!
+Dialogue: 0,1:40:21.88,1:40:23.00,Default,,0,0,0,,Quickly! Move now!
+Dialogue: 0,1:40:37.16,1:40:38.36,Default,,0,0,0,,Get off me! Get off!
+Dialogue: 0,1:40:38.60,1:40:40.20,Default,,0,0,0,,Move them along here.
+Dialogue: 0,1:40:41.32,1:40:42.32,Default,,0,0,0,,Move on!
+Dialogue: 0,1:40:50.96,1:40:52.45,Default,,0,0,0,,What is the meaning of this?
+Dialogue: 0,1:40:53.44,1:40:55.80,Default,,0,0,0,,We caught them stealing weapons, sire.
+Dialogue: 0,1:40:56.00,1:40:58.32,Default,,0,0,0,,Enemies of the state?
+Dialogue: 0,1:40:58.56,1:40:59.48,Default,,0,0,0,,A desperate bunch of...
+Dialogue: 0,1:40:59.60,1:41:01.76,Default,,0,0,0,,mercenaries, if ever there was, sire.
+Dialogue: 0,1:41:02.00,1:41:03.24,Default,,0,0,0,,Hold your tongue!
+Dialogue: 0,1:41:05.84,1:41:07.92,Default,,0,0,0,,You do not know to whom you speak.
+Dialogue: 0,1:41:08.52,1:41:10.40,Default,,0,0,0,,This is no common criminal.
+Dialogue: 0,1:41:10.68,1:41:12.04,Default,,0,0,0,,This is Thorin...
+Dialogue: 0,1:41:12.28,1:41:15.40,Default,,0,0,0,,son of Thrain, son of Thror!
+Dialogue: 0,1:41:18.56,1:41:20.64,Default,,0,0,0,,We are the Dwarves of Erebor.
+Dialogue: 0,1:41:23.36,1:41:26.52,Default,,0,0,0,,We have come to reclaim our homeland.
+Dialogue: 0,1:41:31.24,1:41:34.24,Default,,0,0,0,,I remember this town\Nin the great days of old.
+Dialogue: 0,1:41:35.56,1:41:37.60,Default,,0,0,0,,Fleets of boats lay at harbor...
+Dialogue: 0,1:41:37.84,1:41:39.25,Default,,0,0,0,,filled with silks and fine gems.
+Dialogue: 0,1:41:40.64,1:41:42.84,Default,,0,0,0,,This was no forsaken town on a lake.
+Dialogue: 0,1:41:43.88,1:41:46.56,Default,,0,0,0,,This was the center of all trade\Nin the North!
+Dialogue: 0,1:41:48.40,1:41:48.96,Default,,0,0,0,,I would...
+Dialogue: 0,1:41:49.24,1:41:50.44,Default,,0,0,0,,see those days return.
+Dialogue: 0,1:41:50.68,1:41:53.20,Default,,0,0,0,,I would relight the great forges\Nof the Dwarves...
+Dialogue: 0,1:41:53.44,1:41:54.60,Default,,0,0,0,,and send wealth and riches...
+Dialogue: 0,1:41:54.64,1:41:57.12,Default,,0,0,0,,flowing once more\Nfrom the Halls of Erebor!
+Dialogue: 0,1:42:00.12,1:42:00.68,Default,,0,0,0,,Death!
+Dialogue: 0,1:42:01.92,1:42:04.44,Default,,0,0,0,,That is what you will...\N...bring upon us!
+Dialogue: 0,1:42:05.32,1:42:07.00,Default,,0,0,0,,Dragon fire and ruin.
+Dialogue: 0,1:42:09.48,1:42:11.36,Default,,0,0,0,,If you waken that beast...
+Dialogue: 0,1:42:12.00,1:42:13.60,Default,,0,0,0,,it will destroy us all.
+Dialogue: 0,1:42:13.84,1:42:15.68,Default,,0,0,0,,You can listen to this naysayer...
+Dialogue: 0,1:42:15.92,1:42:17.57,Default,,0,0,0,,but I promise you this:
+Dialogue: 0,1:42:19.96,1:42:21.40,Default,,0,0,0,,If we succeed...
+Dialogue: 0,1:42:22.76,1:42:25.28,Default,,0,0,0,,all will share in the wealth\Nof the mountain.
+Dialogue: 0,1:42:29.68,1:42:32.72,Default,,0,0,0,,You will have enough gold\Nto rebuild Esgaroth...
+Dialogue: 0,1:42:33.00,1:42:34.20,Default,,0,0,0,,10 times over!
+Dialogue: 0,1:42:44.84,1:42:46.84,Default,,0,0,0,,Why should we take you at your word?
+Dialogue: 0,1:42:47.16,1:42:48.73,Default,,0,0,0,,We know nothing about you.
+Dialogue: 0,1:42:50.64,1:42:52.16,Default,,0,0,0,,Who here can vouch for your character?
+Dialogue: 0,1:42:59.92,1:43:00.68,Default,,0,0,0,,Me.
+Dialogue: 0,1:43:03.04,1:43:03.96,Default,,0,0,0,,I'll vouch for him.
+Dialogue: 0,1:43:04.68,1:43:07.12,Default,,0,0,0,,I have traveled far...
+Dialogue: 0,1:43:07.40,1:43:09.48,Default,,0,0,0,,with these Dwarves\Nthrough great danger...
+Dialogue: 0,1:43:09.72,1:43:12.96,Default,,0,0,0,,and if Thorin Oakenshield...
+Dialogue: 0,1:43:13.24,1:43:14.36,Default,,0,0,0,,gives his word...
+Dialogue: 0,1:43:15.32,1:43:17.48,Default,,0,0,0,,then he will keep it.
+Dialogue: 0,1:43:20.28,1:43:21.44,Default,,0,0,0,,All of you!
+Dialogue: 0,1:43:21.76,1:43:22.92,Default,,0,0,0,,Listen to me!
+Dialogue: 0,1:43:23.16,1:43:24.20,Default,,0,0,0,,You must listen!
+Dialogue: 0,1:43:24.44,1:43:26.16,Default,,0,0,0,,Have you forgotten\Nwhat happened to Dale?
+Dialogue: 0,1:43:28.00,1:43:29.13,Default,,0,0,0,,Have you forgotten those...
+Dialogue: 0,1:43:29.16,1:43:31.20,Default,,0,0,0,,who died in the firestorm?!
+Dialogue: 0,1:43:33.48,1:43:34.40,Default,,0,0,0,,And for what purpose?
+Dialogue: 0,1:43:35.92,1:43:37.72,Default,,0,0,0,,The blind ambition of a Mountain King...
+Dialogue: 0,1:43:38.60,1:43:40.60,Default,,0,0,0,,so riven by greed, he could not...
+Dialogue: 0,1:43:40.84,1:43:42.36,Default,,0,0,0,,see beyond his own desire!
+Dialogue: 0,1:43:43.60,1:43:45.20,Default,,0,0,0,,Now, now!
+Dialogue: 0,1:43:45.52,1:43:47.48,Default,,0,0,0,,We must not, any of us...
+Dialogue: 0,1:43:47.72,1:43:50.08,Default,,0,0,0,,be too quick to lay blame.
+Dialogue: 0,1:43:51.24,1:43:53.76,Default,,0,0,0,,Let us... not\Nforget that it was...
+Dialogue: 0,1:43:54.00,1:43:55.80,Default,,0,0,0,,Girion, Lord of Dale...
+Dialogue: 0,1:43:56.08,1:43:57.73,Default,,0,0,0,,your ancestor...
+Dialogue: 0,1:43:58.00,1:44:00.48,Default,,0,0,0,,who failed to kill the beast!
+Dialogue: 0,1:44:03.04,1:44:05.00,Default,,0,0,0,,It's true, sire.
+Dialogue: 0,1:44:05.24,1:44:06.44,Default,,0,0,0,,We all know the story.
+Dialogue: 0,1:44:08.04,1:44:09.72,Default,,0,0,0,,Arrow after arrow, he shot.
+Dialogue: 0,1:44:09.96,1:44:12.53,Default,,0,0,0,,Each one missing its mark.
+Dialogue: 0,1:44:19.28,1:44:20.56,Default,,0,0,0,,You have no right.
+Dialogue: 0,1:44:22.24,1:44:24.16,Default,,0,0,0,,No right to enter that mountain.
+Dialogue: 0,1:44:25.88,1:44:28.00,Default,,0,0,0,,I have the only right.
+Dialogue: 0,1:44:34.36,1:44:35.72,Default,,0,0,0,,I speak to the Master...
+Dialogue: 0,1:44:35.96,1:44:37.45,Default,,0,0,0,,of the Men of the Lake.
+Dialogue: 0,1:44:37.68,1:44:40.00,Default,,0,0,0,,Will you see the prophecy fulfilled?
+Dialogue: 0,1:44:40.96,1:44:41.92,Default,,0,0,0,,Will you...
+Dialogue: 0,1:44:42.28,1:44:46.04,Default,,0,0,0,,share in the great wealth\Nof our people?
+Dialogue: 0,1:44:51.04,1:44:52.48,Default,,0,0,0,,What say you?
+Dialogue: 0,1:44:56.36,1:44:59.40,Default,,0,0,0,,I say unto you...
+Dialogue: 0,1:45:00.68,1:45:01.68,Default,,0,0,0,,Welcome!
+Dialogue: 0,1:45:02.20,1:45:02.88,Default,,0,0,0,,Welcome!
+Dialogue: 0,1:45:03.24,1:45:04.20,Default,,0,0,0,,And thrice...
+Dialogue: 0,1:45:04.48,1:45:07.37,Default,,0,0,0,,welcome... King\NUnder the Mountain!
+Dialogue: 0,1:45:19.44,1:45:21.96,Default,,0,0,0,,You do know we're one short.\NWhere's Bofur?
+Dialogue: 0,1:45:22.20,1:45:24.80,Default,,0,0,0,,- If he's not here, we leave him behind.\N- We'll have to.
+Dialogue: 0,1:45:25.08,1:45:26.04,Default,,0,0,0,,If we're to find the door before...
+Dialogue: 0,1:45:26.28,1:45:28.85,Default,,0,0,0,,nightfall, we can risk no more delays.
+Dialogue: 0,1:45:33.24,1:45:34.00,Default,,0,0,0,,Not you.
+Dialogue: 0,1:45:34.84,1:45:37.04,Default,,0,0,0,,We must travel at speed.\NYou will slow us down.
+Dialogue: 0,1:45:38.32,1:45:40.20,Default,,0,0,0,,What are you talking about?\NI'm coming with you.
+Dialogue: 0,1:45:40.36,1:45:41.28,Default,,0,0,0,,Not now.
+Dialogue: 0,1:45:47.00,1:45:48.89,Default,,0,0,0,,I'm going to be there\Nwhen that door is opened.
+Dialogue: 0,1:45:48.92,1:45:51.16,Default,,0,0,0,,When we first look upon\Nthe Halls of our Fathers, Thorin.
+Dialogue: 0,1:45:51.28,1:45:53.52,Default,,0,0,0,,Kili, stay here.
+Dialogue: 0,1:45:54.12,1:45:55.28,Default,,0,0,0,,Rest.
+Dialogue: 0,1:45:56.08,1:45:57.52,Default,,0,0,0,,Join us when you're healed.
+Dialogue: 0,1:46:03.12,1:46:04.45,Default,,0,0,0,,I'll stay with the lad.
+Dialogue: 0,1:46:04.68,1:46:06.48,Default,,0,0,0,,My duty lies with the wounded.
+Dialogue: 0,1:46:06.72,1:46:07.68,Default,,0,0,0,,Uncle.
+Dialogue: 0,1:46:08.56,1:46:10.28,Default,,0,0,0,,We grew up on tales of the mountain.
+Dialogue: 0,1:46:10.52,1:46:11.80,Default,,0,0,0,,Tales you told us.
+Dialogue: 0,1:46:12.04,1:46:13.17,Default,,0,0,0,,You cannot take that away...
+Dialogue: 0,1:46:13.20,1:46:14.20,Default,,0,0,0,,from him!\N- Fili.
+Dialogue: 0,1:46:14.44,1:46:15.52,Default,,0,0,0,,I will carry him if I must!
+Dialogue: 0,1:46:15.76,1:46:18.16,Default,,0,0,0,,One day you will be king\Nand you will understand.
+Dialogue: 0,1:46:18.92,1:46:22.20,Default,,0,0,0,,I cannot risk the fate of this quest\Nfor the sake of one Dwarf.
+Dialogue: 0,1:46:23.52,1:46:25.28,Default,,0,0,0,,Not even my own kin.
+Dialogue: 0,1:46:28.96,1:46:29.84,Default,,0,0,0,,Fili, don't be a fool.
+Dialogue: 0,1:46:30.80,1:46:31.92,Default,,0,0,0,,You belong with the company.
+Dialogue: 0,1:46:32.04,1:46:33.69,Default,,0,0,0,,I belong with my brother.
+Dialogue: 0,1:46:45.20,1:46:49.04,Default,,0,0,0,,By my beard, is that the time?!
+Dialogue: 0,1:46:50.12,1:46:53.16,Default,,0,0,0,,Go now with our goodwill...
+Dialogue: 0,1:46:53.40,1:46:54.81,Default,,0,0,0,,and good wishes.
+Dialogue: 0,1:46:56.12,1:46:58.93,Default,,0,0,0,,- And may your return bring good fortune...\N- Wait!
+Dialogue: 0,1:46:59.16,1:47:00.28,Default,,0,0,0,,To all!
+Dialogue: 0,1:47:04.72,1:47:05.76,Default,,0,0,0,,Good bye.
+Dialogue: 0,1:47:12.24,1:47:12.84,Default,,0,0,0,,Out of the way!
+Dialogue: 0,1:47:13.08,1:47:14.44,Default,,0,0,0,,No! No!
+Dialogue: 0,1:47:21.04,1:47:23.08,Default,,0,0,0,,Ha. So you missed the boat as well?
+Dialogue: 0,1:47:23.72,1:47:24.88,Default,,0,0,0,,Kili? Kili!
+Dialogue: 0,1:47:26.28,1:47:27.72,Default,,0,0,0,,Hey.
+Dialogue: 0,1:47:28.00,1:47:29.88,Default,,0,0,0,,Get out of there. Go on.
+Dialogue: 0,1:47:31.56,1:47:33.32,Default,,0,0,0,,Masterfully handled, sire.
+Dialogue: 0,1:47:33.56,1:47:35.52,Default,,0,0,0,,Your popularity has never been so high.
+Dialogue: 0,1:47:35.80,1:47:37.72,Default,,0,0,0,,The entire town twittering your name.
+Dialogue: 0,1:47:37.96,1:47:39.80,Default,,0,0,0,,Yes, it was rather clever.
+Dialogue: 0,1:47:40.04,1:47:42.20,Default,,0,0,0,,Either our little friends\Nreturn triumphant...
+Dialogue: 0,1:47:42.44,1:47:45.41,Default,,0,0,0,,in which case,\NI stand to make a pretty penny...
+Dialogue: 0,1:47:45.68,1:47:48.76,Default,,0,0,0,,or old Smaug dines on Dwarf\Nfor a day or two.
+Dialogue: 0,1:47:49.76,1:47:51.64,Default,,0,0,0,,The important thing is,\Nthey're off our hands.
+Dialogue: 0,1:47:51.88,1:47:52.64,Default,,0,0,0,,Please, wait.
+Dialogue: 0,1:47:54.00,1:47:55.28,Default,,0,0,0,,Please. We need your help.
+Dialogue: 0,1:47:55.52,1:47:57.09,Default,,0,0,0,,- My brother is sick.\N- Sick?
+Dialogue: 0,1:47:57.36,1:47:58.60,Default,,0,0,0,,Is it infectious?
+Dialogue: 0,1:47:58.84,1:47:59.56,Default,,0,0,0,,Get back.
+Dialogue: 0,1:47:59.80,1:48:01.37,Default,,0,0,0,,Alfrid, Alfrid...
+Dialogue: 0,1:48:01.60,1:48:03.40,Default,,0,0,0,,- ...don't let them come any closer.\N- Please.
+Dialogue: 0,1:48:03.44,1:48:05.12,Default,,0,0,0,,We need medicine.
+Dialogue: 0,1:48:06.48,1:48:08.16,Default,,0,0,0,,Do I look like an apothecary?
+Dialogue: 0,1:48:08.80,1:48:10.00,Default,,0,0,0,,Haven't we given you enough?
+Dialogue: 0,1:48:10.24,1:48:11.40,Default,,0,0,0,,The master's a busy man.
+Dialogue: 0,1:48:11.64,1:48:14.48,Default,,0,0,0,,He hasn't got time to worry\Nabout sick Dwarves.
+Dialogue: 0,1:48:15.16,1:48:16.12,Default,,0,0,0,,Be gone with you. Go on.
+Dialogue: 0,1:48:16.36,1:48:17.64,Default,,0,0,0,,Clear off.
+Dialogue: 0,1:48:17.92,1:48:21.00,Default,,0,0,0,,What this town needs,\NAlfrid, is a good purge.
+Dialogue: 0,1:48:21.24,1:48:25.16,Default,,0,0,0,,Starting with a certain troublemaker\Nwho saw fit to question my authority.
+Dialogue: 0,1:48:25.40,1:48:28.13,Default,,0,0,0,,- A certain bargeman, sire?\N- Precisely.
+Dialogue: 0,1:48:30.72,1:48:31.72,Default,,0,0,0,,No.
+Dialogue: 0,1:48:31.96,1:48:33.61,Default,,0,0,0,,I'm done with Dwarves. Go away.
+Dialogue: 0,1:48:33.84,1:48:35.48,Default,,0,0,0,,No, no... no! Please!
+Dialogue: 0,1:48:35.76,1:48:38.28,Default,,0,0,0,,No one will help us. Kili's sick.
+Dialogue: 0,1:48:40.88,1:48:41.96,Default,,0,0,0,,He's very sick.
+Dialogue: 0,1:49:21.32,1:49:23.48,Default,,0,0,0,,So quiet.
+Dialogue: 0,1:49:23.72,1:49:26.72,Default,,0,0,0,,Wasn't always like this.
+Dialogue: 0,1:49:26.96,1:49:32.12,Default,,0,0,0,,Once, these slopes\Nwere lined with woodlands.
+Dialogue: 0,1:49:32.36,1:49:36.12,Default,,0,0,0,,The trees... were\Nfilled with birdsong.
+Dialogue: 0,1:49:40.20,1:49:41.40,Default,,0,0,0,,Relax, Master Baggins.
+Dialogue: 0,1:49:42.48,1:49:46.28,Default,,0,0,0,,We have food, we have tools,\Nand we're making good time.
+Dialogue: 0,1:49:59.64,1:50:01.29,Default,,0,0,0,,What is this place?
+Dialogue: 0,1:50:01.52,1:50:02.96,Default,,0,0,0,,It was once the city of Dale.
+Dialogue: 0,1:50:04.80,1:50:06.48,Default,,0,0,0,,Now it is a ruin.
+Dialogue: 0,1:50:07.24,1:50:09.44,Default,,0,0,0,,The desolation of Smaug.
+Dialogue: 0,1:50:09.68,1:50:11.60,Default,,0,0,0,,The sun will soon reach midday.
+Dialogue: 0,1:50:11.84,1:50:14.33,Default,,0,0,0,,We must find the hidden door\Ninto the mountain before it sets.
+Dialogue: 0,1:50:14.36,1:50:15.20,Default,,0,0,0,,This way.
+Dialogue: 0,1:50:15.44,1:50:17.48,Default,,0,0,0,,Wait. Is this the overlook?
+Dialogue: 0,1:50:17.80,1:50:19.16,Default,,0,0,0,,Gandalf said to meet him here.
+Dialogue: 0,1:50:19.40,1:50:21.24,Default,,0,0,0,,- On no account were we to...\N- Do you see him?
+Dialogue: 0,1:50:21.68,1:50:22.40,Default,,0,0,0,,We have no time...
+Dialogue: 0,1:50:22.60,1:50:24.01,Default,,0,0,0,,to wait upon the Wizard.
+Dialogue: 0,1:50:24.28,1:50:26.04,Default,,0,0,0,,We're on our own. Come!
+Dialogue: 0,1:50:43.16,1:50:44.92,Default,,0,0,0,,Dol Guldur.
+Dialogue: 0,1:50:45.20,1:50:47.36,Default,,0,0,0,,The Hill of Sorcery.
+Dialogue: 0,1:50:47.60,1:50:49.84,Default,,0,0,0,,It looks completely abandoned.
+Dialogue: 0,1:50:50.12,1:50:51.56,Default,,0,0,0,,As it is meant to.
+Dialogue: 0,1:50:52.68,1:50:54.04,Default,,0,0,0,,A spell of concealment...
+Dialogue: 0,1:50:54.28,1:50:57.36,Default,,0,0,0,,lies over this place, which means...
+Dialogue: 0,1:50:57.60,1:51:00.68,Default,,0,0,0,,our Enemy is not yet ready\Nto reveal himself.
+Dialogue: 0,1:51:02.64,1:51:06.00,Default,,0,0,0,,He has not regained his full strength.
+Dialogue: 0,1:51:06.44,1:51:09.80,Default,,0,0,0,,Radagast, I need you to carry\Na message to the Lady Galadriel.
+Dialogue: 0,1:51:10.04,1:51:12.24,Default,,0,0,0,,Tell her we must force his hand.
+Dialogue: 0,1:51:12.48,1:51:13.56,Default,,0,0,0,,What do you mean?
+Dialogue: 0,1:51:13.80,1:51:15.37,Default,,0,0,0,,I'm going in alone.
+Dialogue: 0,1:51:15.72,1:51:18.12,Default,,0,0,0,,On no account come after me.
+Dialogue: 0,1:51:24.28,1:51:25.56,Default,,0,0,0,,Do I have your word?
+Dialogue: 0,1:51:25.80,1:51:27.80,Default,,0,0,0,,Yes, yes, yes!
+Dialogue: 0,1:51:39.52,1:51:41.01,Default,,0,0,0,,Wait, Gandalf!
+Dialogue: 0,1:51:42.16,1:51:44.08,Default,,0,0,0,,What if it's a trap?!
+Dialogue: 0,1:51:44.92,1:51:48.92,Default,,0,0,0,,Turn around and do not come back.
+Dialogue: 0,1:51:53.80,1:51:56.64,Default,,0,0,0,,It's undoubtedly a trap.
+Dialogue: 0,1:52:40.00,1:52:40.72,Default,,0,0,0,,Anything?
+Dialogue: 0,1:52:40.96,1:52:42.88,Default,,0,0,0,,Nothing.
+Dialogue: 0,1:52:46.44,1:52:47.60,Default,,0,0,0,,If the map is true...
+Dialogue: 0,1:52:48.56,1:52:51.32,Default,,0,0,0,,the hidden door lies directly above us.
+Dialogue: 0,1:52:55.60,1:52:57.48,Default,,0,0,0,,Up here!
+Dialogue: 0,1:53:05.64,1:53:08.29,Default,,0,0,0,,You have keen eyes, Mr. Baggins.
+Dialogue: 0,1:56:08.80,1:56:10.88,Default,,0,0,0,,Thrain?
+Dialogue: 0,1:56:11.88,1:56:14.36,Default,,0,0,0,,Son of Thror?
+Dialogue: 0,1:56:16.84,1:56:18.49,Default,,0,0,0,,My old friend.
+Dialogue: 0,1:56:20.68,1:56:22.80,Default,,0,0,0,,Gandalf?
+Dialogue: 0,1:56:29.56,1:56:31.76,Default,,0,0,0,,A lifetime.
+Dialogue: 0,1:56:33.56,1:56:37.24,Default,,0,0,0,,I have been here a lifetime.
+Dialogue: 0,1:56:37.48,1:56:41.04,Default,,0,0,0,,I'm so sorry... I\Ngave you up for dead.
+Dialogue: 0,1:56:43.36,1:56:45.93,Default,,0,0,0,,I had a son.
+Dialogue: 0,1:56:47.72,1:56:49.40,Default,,0,0,0,,I will fight with you.
+Dialogue: 0,1:56:55.64,1:56:56.52,Default,,0,0,0,,Thorin.
+Dialogue: 0,1:56:56.76,1:56:59.96,Default,,0,0,0,,And you will see him again, my friend.
+Dialogue: 0,1:57:00.24,1:57:02.28,Default,,0,0,0,,Come, we must leave.
+Dialogue: 0,1:57:02.52,1:57:04.92,Default,,0,0,0,,The Orcs had taken Moria.
+Dialogue: 0,1:57:05.20,1:57:07.36,Default,,0,0,0,,War. We were at war.
+Dialogue: 0,1:57:09.72,1:57:12.08,Default,,0,0,0,,I was surrounded.
+Dialogue: 0,1:57:14.36,1:57:15.72,Default,,0,0,0,,The Defiler.
+Dialogue: 0,1:57:18.48,1:57:22.80,Default,,0,0,0,,Azog the Defiler... had come.
+Dialogue: 0,1:58:10.60,1:58:12.68,Default,,0,0,0,,They took it.
+Dialogue: 0,1:58:12.92,1:58:15.12,Default,,0,0,0,,The last of the seven.
+Dialogue: 0,1:58:18.96,1:58:20.36,Default,,0,0,0,,Come on, let's get you out of here.
+Dialogue: 0,1:58:22.48,1:58:23.40,Default,,0,0,0,,There is no way out.
+Dialogue: 0,1:58:24.52,1:58:26.64,Default,,0,0,0,,They will stop you.
+Dialogue: 0,1:58:26.88,1:58:30.32,Default,,0,0,0,,The serpents...\N...will stop you.
+Dialogue: 0,1:58:33.72,1:58:34.72,Default,,0,0,0,,It's an illusion.
+Dialogue: 0,1:58:37.60,1:58:39.48,Default,,0,0,0,,Just an illusion.
+Dialogue: 0,1:58:42.80,1:58:44.64,Default,,0,0,0,,What have they done to you?
+Dialogue: 0,1:58:44.92,1:58:45.92,Default,,0,0,0,,I never told them.
+Dialogue: 0,1:58:46.16,1:58:49.16,Default,,0,0,0,,They tried to make me,\Nbut I never said a word.
+Dialogue: 0,1:58:51.88,1:58:55.80,Default,,0,0,0,,Have you kept them safe, Gandalf?\NThe map and the key?
+Dialogue: 0,1:58:56.76,1:58:57.92,Default,,0,0,0,,I gave them to Thorin.
+Dialogue: 0,1:58:58.40,1:58:59.28,Default,,0,0,0,,You'd be proud of him.
+Dialogue: 0,1:58:59.52,1:59:01.88,Default,,0,0,0,,He's taken up the quest to reclaim Erebor.
+Dialogue: 0,1:59:02.12,1:59:02.80,Default,,0,0,0,,Erebor.
+Dialogue: 0,1:59:03.84,1:59:05.28,Default,,0,0,0,,He will retrieve the Arkenstone.
+Dialogue: 0,1:59:05.52,1:59:06.88,Default,,0,0,0,,The seven armies of the Dwarves...
+Dialogue: 0,1:59:07.00,1:59:07.88,Default,,0,0,0,,will answer...
+Dialogue: 0,1:59:08.16,1:59:09.52,Default,,0,0,0,,to a new king.\N- No. No.
+Dialogue: 0,1:59:09.76,1:59:11.92,Default,,0,0,0,,Thorin must not go near Erebor.
+Dialogue: 0,1:59:13.40,1:59:16.21,Default,,0,0,0,,No one must enter that mountain.
+Dialogue: 0,1:59:47.72,1:59:48.80,Default,,0,0,0,,This must be it.
+Dialogue: 0,1:59:51.00,1:59:52.52,Default,,0,0,0,,The hidden door.
+Dialogue: 0,1:59:56.76,1:59:58.52,Default,,0,0,0,,Let all those who doubted us...
+Dialogue: 0,1:59:59.68,2:00:01.04,Default,,0,0,0,,rue this day!
+Dialogue: 0,2:00:06.76,2:00:09.20,Default,,0,0,0,,Right, then. We have a key.
+Dialogue: 0,2:00:10.92,2:00:12.41,Default,,0,0,0,,Which means that somewhere...
+Dialogue: 0,2:00:13.52,2:00:14.93,Default,,0,0,0,,there is a key-hole.
+Dialogue: 0,2:00:15.64,2:00:18.53,Default,,0,0,0,,"The last light of Durin's Day...
+Dialogue: 0,2:00:20.52,2:00:23.01,Default,,0,0,0,,will shine upon...\N...the key-hole."
+Dialogue: 0,2:00:32.16,2:00:33.24,Default,,0,0,0,,Nori.
+Dialogue: 0,2:00:39.84,2:00:41.80,Default,,0,0,0,,We're losing the light. Come on.
+Dialogue: 0,2:00:48.32,2:00:50.92,Default,,0,0,0,,Be quiet! I can't hear\Nwhen you're thumping.
+Dialogue: 0,2:00:51.16,2:00:51.96,Default,,0,0,0,,I can't find it.
+Dialogue: 0,2:00:53.40,2:00:54.76,Default,,0,0,0,,It's not here!
+Dialogue: 0,2:00:55.00,2:00:56.08,Default,,0,0,0,,It's not here!
+Dialogue: 0,2:00:57.84,2:00:59.20,Default,,0,0,0,,- Break it down!\N- Aye.
+Dialogue: 0,2:01:00.92,2:01:01.72,Default,,0,0,0,,Come on!
+Dialogue: 0,2:01:03.88,2:01:04.64,Default,,0,0,0,,Break!
+Dialogue: 0,2:01:04.88,2:01:05.88,Default,,0,0,0,,It has to break.
+Dialogue: 0,2:01:06.84,2:01:08.17,Default,,0,0,0,,It's no good.
+Dialogue: 0,2:01:08.44,2:01:10.92,Default,,0,0,0,,The door's sealed. Can't\Nbe opened by force.
+Dialogue: 0,2:01:12.56,2:01:13.80,Default,,0,0,0,,There's a powerful magic on it.
+Dialogue: 0,2:01:23.32,2:01:24.44,Default,,0,0,0,,No!
+Dialogue: 0,2:01:29.80,2:01:32.08,Default,,0,0,0,,"The last light of Durin's Day...
+Dialogue: 0,2:01:33.96,2:01:35.53,Default,,0,0,0,,will shine upon the key-hole."
+Dialogue: 0,2:01:39.96,2:01:41.56,Default,,0,0,0,,That is what it says.
+Dialogue: 0,2:01:46.04,2:01:47.48,Default,,0,0,0,,What did we miss?
+Dialogue: 0,2:01:51.44,2:01:52.88,Default,,0,0,0,,What did we miss?
+Dialogue: 0,2:01:53.92,2:01:54.88,Default,,0,0,0,,Balin?
+Dialogue: 0,2:01:55.52,2:01:57.24,Default,,0,0,0,,We've lost the light.
+Dialogue: 0,2:01:59.76,2:02:01.60,Default,,0,0,0,,There's no more to be done.
+Dialogue: 0,2:02:03.16,2:02:03.72,Default,,0,0,0,,We had but...
+Dialogue: 0,2:02:04.00,2:02:05.24,Default,,0,0,0,,one chance.
+Dialogue: 0,2:02:07.64,2:02:08.92,Default,,0,0,0,,Come away, lads.
+Dialogue: 0,2:02:09.16,2:02:10.96,Default,,0,0,0,,It's over.
+Dialogue: 0,2:02:12.04,2:02:14.16,Default,,0,0,0,,- Wait a minute.\N- We're too late.
+Dialogue: 0,2:02:16.68,2:02:18.09,Default,,0,0,0,,Where are they going?
+Dialogue: 0,2:02:19.88,2:02:21.76,Default,,0,0,0,,You can't give up now!
+Dialogue: 0,2:02:36.68,2:02:37.84,Default,,0,0,0,,Thorin.
+Dialogue: 0,2:02:39.88,2:02:41.56,Default,,0,0,0,,You can't give up now.
+Dialogue: 0,2:02:53.12,2:02:55.48,Default,,0,0,0,,"Stand by the gray stone...
+Dialogue: 0,2:02:57.36,2:02:59.44,Default,,0,0,0,,when the thrush knocks."
+Dialogue: 0,2:03:00.20,2:03:01.61,Default,,0,0,0,,The setting sun.
+Dialogue: 0,2:03:02.64,2:03:05.53,Default,,0,0,0,,And "the last light of Durin's Day\Nwill shine..."
+Dialogue: 0,2:03:07.00,2:03:08.49,Default,,0,0,0,,The last light.
+Dialogue: 0,2:03:11.00,2:03:12.41,Default,,0,0,0,,Last light.
+Dialogue: 0,2:03:49.08,2:03:50.32,Default,,0,0,0,,The last light!
+Dialogue: 0,2:04:00.56,2:04:01.68,Default,,0,0,0,,The key-hole!
+Dialogue: 0,2:04:02.20,2:04:02.76,Default,,0,0,0,,Come back!
+Dialogue: 0,2:04:03.56,2:04:04.89,Default,,0,0,0,,Come back!
+Dialogue: 0,2:04:05.16,2:04:07.32,Default,,0,0,0,,It's the light of the moon! The last...
+Dialogue: 0,2:04:07.56,2:04:10.64,Default,,0,0,0,,moon of autumn! Ha, ha, ha!
+Dialogue: 0,2:04:12.56,2:04:14.96,Default,,0,0,0,,Where's the key? Where's the key?\NWhere's the...?
+Dialogue: 0,2:04:15.20,2:04:16.92,Default,,0,0,0,,It was here.
+Dialogue: 0,2:04:17.16,2:04:18.96,Default,,0,0,0,,Come on, it was... It was here.
+Dialogue: 0,2:04:19.68,2:04:20.48,Default,,0,0,0,,It was just...
+Dialogue: 0,2:05:18.52,2:05:19.96,Default,,0,0,0,,Erebor.
+Dialogue: 0,2:05:20.68,2:05:21.80,Default,,0,0,0,,Thorin.
+Dialogue: 0,2:05:35.20,2:05:37.08,Default,,0,0,0,,I know these walls.
+Dialogue: 0,2:05:40.84,2:05:42.36,Default,,0,0,0,,These halls.
+Dialogue: 0,2:05:45.36,2:05:46.77,Default,,0,0,0,,This stone.
+Dialogue: 0,2:05:50.68,2:05:52.68,Default,,0,0,0,,You remember it... Balin.
+Dialogue: 0,2:05:56.28,2:05:58.80,Default,,0,0,0,,Chambers filled with golden light.
+Dialogue: 0,2:06:00.68,2:06:02.17,Default,,0,0,0,,I remember.
+Dialogue: 0,2:06:15.44,2:06:16.77,Default,,0,0,0,,"Herein lies...
+Dialogue: 0,2:06:17.04,2:06:18.92,Default,,0,0,0,,the Seventh Kingdom of...
+Dialogue: 0,2:06:19.16,2:06:20.32,Default,,0,0,0,,Durin's Folk.
+Dialogue: 0,2:06:22.28,2:06:25.36,Default,,0,0,0,,May the Heart of the Mountain\Nunite all...
+Dialogue: 0,2:06:25.60,2:06:29.20,Default,,0,0,0,,Dwarves in defense of this home."
+Dialogue: 0,2:06:30.92,2:06:32.76,Default,,0,0,0,,The Throne of the King.
+Dialogue: 0,2:06:36.48,2:06:39.80,Default,,0,0,0,,And what's that above it?
+Dialogue: 0,2:06:43.36,2:06:45.08,Default,,0,0,0,,The Arkenstone.
+Dialogue: 0,2:06:46.40,2:06:47.81,Default,,0,0,0,,Arkenstone.
+Dialogue: 0,2:06:51.72,2:06:53.08,Default,,0,0,0,,And what's that?
+Dialogue: 0,2:06:53.40,2:06:56.37,Default,,0,0,0,,That, Master Burglar...
+Dialogue: 0,2:06:57.40,2:06:59.44,Default,,0,0,0,,is why you are here.
+Dialogue: 0,2:07:18.32,2:07:20.04,Default,,0,0,0,,Can you not do something?
+Dialogue: 0,2:07:20.28,2:07:22.52,Default,,0,0,0,,I need herbs.\NSomething to bring down his fever.
+Dialogue: 0,2:07:22.76,2:07:25.12,Default,,0,0,0,,I have nightshade. I have feverfew.
+Dialogue: 0,2:07:25.40,2:07:28.21,Default,,0,0,0,,They're no use to me.\NDo you have any kingsfoil?
+Dialogue: 0,2:07:28.44,2:07:30.44,Default,,0,0,0,,No, it's a weed. We feed it to the pigs.
+Dialogue: 0,2:07:30.88,2:07:32.00,Default,,0,0,0,,Pigs?
+Dialogue: 0,2:07:32.28,2:07:33.40,Default,,0,0,0,,Weed.
+Dialogue: 0,2:07:34.16,2:07:35.28,Default,,0,0,0,,Right.
+Dialogue: 0,2:07:36.24,2:07:37.40,Default,,0,0,0,,Don't move.
+Dialogue: 0,2:07:40.20,2:07:43.72,Default,,0,0,0,,You want me to find a jewel?
+Dialogue: 0,2:07:45.28,2:07:47.00,Default,,0,0,0,,A large, white jewel.
+Dialogue: 0,2:07:47.44,2:07:48.56,Default,,0,0,0,,Yes.
+Dialogue: 0,2:07:49.96,2:07:52.53,Default,,0,0,0,,That's it? Only, I imagine\Nthere's quite a few down there.
+Dialogue: 0,2:07:52.88,2:07:56.08,Default,,0,0,0,,There is only one Arkenstone...
+Dialogue: 0,2:07:56.84,2:07:58.92,Default,,0,0,0,,and you'll know it when you see it.
+Dialogue: 0,2:08:00.04,2:08:01.16,Default,,0,0,0,,Right.
+Dialogue: 0,2:08:04.92,2:08:06.64,Default,,0,0,0,,In truth... lad...
+Dialogue: 0,2:08:07.44,2:08:09.48,Default,,0,0,0,,I do not know...
+Dialogue: 0,2:08:09.72,2:08:11.80,Default,,0,0,0,,what you will find down there.
+Dialogue: 0,2:08:13.92,2:08:17.08,Default,,0,0,0,,You needn't go if you don't want to.\NThere's no dishonor in turning back.
+Dialogue: 0,2:08:17.32,2:08:18.28,Default,,0,0,0,,No, Balin.
+Dialogue: 0,2:08:19.52,2:08:21.56,Default,,0,0,0,,I promised I would do this...
+Dialogue: 0,2:08:22.24,2:08:23.96,Default,,0,0,0,,and I think I must try.
+Dialogue: 0,2:08:28.64,2:08:30.36,Default,,0,0,0,,It never ceases to amaze me.
+Dialogue: 0,2:08:30.60,2:08:31.40,Default,,0,0,0,,What's that?
+Dialogue: 0,2:08:31.68,2:08:33.36,Default,,0,0,0,,The courage of Hobbits.
+Dialogue: 0,2:08:35.76,2:08:37.00,Default,,0,0,0,,Go now...
+Dialogue: 0,2:08:37.52,2:08:41.52,Default,,0,0,0,,with as much luck as you can muster.
+Dialogue: 0,2:08:48.72,2:08:50.00,Default,,0,0,0,,Bilbo?
+Dialogue: 0,2:08:52.44,2:08:54.72,Default,,0,0,0,,If there is, in fact...
+Dialogue: 0,2:08:56.24,2:08:58.36,Default,,0,0,0,,a live dragon...\N...down there...
+Dialogue: 0,2:09:01.40,2:09:02.81,Default,,0,0,0,,don't waken it.
+Dialogue: 0,2:09:22.84,2:09:25.08,Default,,0,0,0,,He is waiting for them.
+Dialogue: 0,2:09:25.36,2:09:26.60,Default,,0,0,0,,They are in league.
+Dialogue: 0,2:09:26.84,2:09:29.92,Default,,0,0,0,,The dragon and the One.
+Dialogue: 0,2:09:30.16,2:09:31.57,Default,,0,0,0,,Hurry. We must hurry.
+Dialogue: 0,2:09:54.04,2:09:55.48,Default,,0,0,0,,Where is your master?
+Dialogue: 0,2:09:57.28,2:09:58.36,Default,,0,0,0,,Where is he?!
+Dialogue: 0,2:10:53.68,2:10:55.25,Default,,0,0,0,,He is here.
+Dialogue: 0,2:10:59.20,2:11:00.08,Default,,0,0,0,,Tell Thorin...
+Dialogue: 0,2:11:01.32,2:11:03.40,Default,,0,0,0,,that I loved him.
+Dialogue: 0,2:11:03.64,2:11:04.80,Default,,0,0,0,,Will you do that?
+Dialogue: 0,2:11:05.08,2:11:08.72,Default,,0,0,0,,Will you tell my son that I loved him?
+Dialogue: 0,2:11:09.00,2:11:11.12,Default,,0,0,0,,You will tell him yourself.
+Dialogue: 0,2:11:12.92,2:11:14.57,Default,,0,0,0,,It is too late.
+Dialogue: 0,2:12:38.16,2:12:40.97,Default,,0,0,0,,Sauron!
+Dialogue: 0,2:13:03.56,2:13:04.64,Default,,0,0,0,,Hello?
+Dialogue: 0,2:13:23.68,2:13:25.09,Default,,0,0,0,,He's not at home.
+Dialogue: 0,2:13:26.04,2:13:27.72,Default,,0,0,0,,Not at home. Ahem.
+Dialogue: 0,2:13:28.56,2:13:29.64,Default,,0,0,0,,Good.
+Dialogue: 0,2:13:31.44,2:13:33.16,Default,,0,0,0,,Good, good, good.
+Dialogue: 0,2:14:27.36,2:14:27.92,Default,,0,0,0,,What's that?
+Dialogue: 0,2:14:32.04,2:14:34.00,Default,,0,0,0,,Shush. Shush.
+Dialogue: 0,2:14:35.32,2:14:36.60,Default,,0,0,0,,Arkenstone.
+Dialogue: 0,2:14:37.64,2:14:39.05,Default,,0,0,0,,Arkenstone.
+Dialogue: 0,2:14:39.88,2:14:41.92,Default,,0,0,0,,A large, white jewel.
+Dialogue: 0,2:14:44.12,2:14:45.48,Default,,0,0,0,,Very helpful.
+Dialogue: 0,2:17:11.08,2:17:12.49,Default,,0,0,0,,Well...
+Dialogue: 0,2:17:14.16,2:17:15.44,Default,,0,0,0,,thief.
+Dialogue: 0,2:17:17.44,2:17:21.08,Default,,0,0,0,,I smell you.
+Dialogue: 0,2:17:21.44,2:17:24.64,Default,,0,0,0,,I hear your breath.
+Dialogue: 0,2:17:25.96,2:17:27.56,Default,,0,0,0,,I feel...
+Dialogue: 0,2:17:27.84,2:17:28.76,Default,,0,0,0,,your air.
+Dialogue: 0,2:17:32.68,2:17:35.20,Default,,0,0,0,,Where are you?
+Dialogue: 0,2:17:36.68,2:17:37.76,Default,,0,0,0,,Where are you?
+Dialogue: 0,2:17:57.88,2:17:58.88,Default,,0,0,0,,Come, now...
+Dialogue: 0,2:17:59.64,2:18:01.76,Default,,0,0,0,,don't be shy.
+Dialogue: 0,2:18:02.04,2:18:04.24,Default,,0,0,0,,Step into the light.
+Dialogue: 0,2:18:11.16,2:18:14.36,Default,,0,0,0,,There is something about you.
+Dialogue: 0,2:18:17.76,2:18:19.64,Default,,0,0,0,,Something you... carry.
+Dialogue: 0,2:18:20.80,2:18:23.69,Default,,0,0,0,,Something made of gold.
+Dialogue: 0,2:18:24.44,2:18:29.40,Default,,0,0,0,,But far more... precious.
+Dialogue: 0,2:18:29.64,2:18:31.96,Default,,0,0,0,,{\i1}Precious! Precious!{\i0}
+Dialogue: 0,2:18:34.76,2:18:35.92,Default,,0,0,0,,There you are...
+Dialogue: 0,2:18:36.20,2:18:39.80,Default,,0,0,0,,Thief in the... Shadows.
+Dialogue: 0,2:18:41.64,2:18:44.24,Default,,0,0,0,,I did not come to steal from you...
+Dialogue: 0,2:18:44.48,2:18:45.28,Default,,0,0,0,,O Smaug...
+Dialogue: 0,2:18:45.52,2:18:48.76,Default,,0,0,0,,the Unassessably Wealthy.\NI merely wanted...
+Dialogue: 0,2:18:49.04,2:18:50.64,Default,,0,0,0,,to gaze upon your magnificence.
+Dialogue: 0,2:18:51.00,2:18:51.84,Default,,0,0,0,,To see...
+Dialogue: 0,2:18:52.08,2:18:55.05,Default,,0,0,0,,if you really were as great\Nas the old tales say.
+Dialogue: 0,2:18:55.76,2:18:57.48,Default,,0,0,0,,I did not believe them.
+Dialogue: 0,2:19:06.32,2:19:10.24,Default,,0,0,0,,And do you now?!
+Dialogue: 0,2:19:11.60,2:19:12.84,Default,,0,0,0,,Truly...
+Dialogue: 0,2:19:14.16,2:19:16.36,Default,,0,0,0,,the tales and songs...
+Dialogue: 0,2:19:17.48,2:19:20.21,Default,,0,0,0,,fall utterly short of your enormity...
+Dialogue: 0,2:19:20.44,2:19:23.41,Default,,0,0,0,,O Smaug the Stupendous.
+Dialogue: 0,2:19:23.64,2:19:26.53,Default,,0,0,0,,Do you think flattery will keep you alive?
+Dialogue: 0,2:19:27.04,2:19:28.00,Default,,0,0,0,,No, no.
+Dialogue: 0,2:19:28.24,2:19:29.73,Default,,0,0,0,,No, indeed.
+Dialogue: 0,2:19:32.00,2:19:35.24,Default,,0,0,0,,You seem familiar with my name...
+Dialogue: 0,2:19:35.48,2:19:38.37,Default,,0,0,0,,but I don't remember smelling\Nyour kind before.
+Dialogue: 0,2:19:39.48,2:19:41.08,Default,,0,0,0,,Who are you...
+Dialogue: 0,2:19:41.32,2:19:43.84,Default,,0,0,0,,and where do you come from...
+Dialogue: 0,2:19:44.08,2:19:46.40,Default,,0,0,0,,may I ask?
+Dialogue: 0,2:19:55.96,2:19:57.64,Default,,0,0,0,,I come from under the hill.
+Dialogue: 0,2:19:58.00,2:19:59.41,Default,,0,0,0,,Underhill?
+Dialogue: 0,2:20:03.12,2:20:04.12,Default,,0,0,0,,And under hills...
+Dialogue: 0,2:20:04.24,2:20:06.24,Default,,0,0,0,,and over hills my path has led.
+Dialogue: 0,2:20:07.12,2:20:07.96,Default,,0,0,0,,And... And...
+Dialogue: 0,2:20:08.72,2:20:11.08,Default,,0,0,0,,through the air.\NI am he who walks unseen.
+Dialogue: 0,2:20:11.32,2:20:13.04,Default,,0,0,0,,Impressive.
+Dialogue: 0,2:20:13.28,2:20:15.32,Default,,0,0,0,,What else do you claim to be?
+Dialogue: 0,2:20:16.28,2:20:17.08,Default,,0,0,0,,I am...
+Dialogue: 0,2:20:20.32,2:20:21.81,Default,,0,0,0,,Luck-wearer.
+Dialogue: 0,2:20:23.24,2:20:24.40,Default,,0,0,0,,Riddle-maker.
+Dialogue: 0,2:20:24.68,2:20:26.33,Default,,0,0,0,,Lovely titles.
+Dialogue: 0,2:20:27.04,2:20:28.20,Default,,0,0,0,,Go on.
+Dialogue: 0,2:20:28.48,2:20:29.56,Default,,0,0,0,,Barrel-rider.
+Dialogue: 0,2:20:29.80,2:20:33.20,Default,,0,0,0,,Barrels? Now that is interesting.
+Dialogue: 0,2:20:34.68,2:20:35.40,Default,,0,0,0,,And what about...
+Dialogue: 0,2:20:35.64,2:20:38.61,Default,,0,0,0,,your little Dwarf friends?
+Dialogue: 0,2:20:39.72,2:20:40.96,Default,,0,0,0,,Where are they hiding?
+Dialogue: 0,2:20:43.84,2:20:45.41,Default,,0,0,0,,Dwarves?
+Dialogue: 0,2:20:46.24,2:20:47.32,Default,,0,0,0,,No.
+Dialogue: 0,2:20:48.00,2:20:49.52,Default,,0,0,0,,No, no. No Dwarves here.
+Dialogue: 0,2:20:49.76,2:20:50.84,Default,,0,0,0,,You've got that all wrong.
+Dialogue: 0,2:20:51.12,2:20:54.88,Default,,0,0,0,,I don't think so, Barrel-rider!
+Dialogue: 0,2:20:55.44,2:20:56.68,Default,,0,0,0,,They sent you in here...
+Dialogue: 0,2:20:56.96,2:20:58.92,Default,,0,0,0,,to do their dirty work while they...
+Dialogue: 0,2:20:59.16,2:21:01.12,Default,,0,0,0,,skulk about outside.
+Dialogue: 0,2:21:02.36,2:21:03.52,Default,,0,0,0,,Truly...
+Dialogue: 0,2:21:04.32,2:21:05.48,Default,,0,0,0,,you are mistaken...
+Dialogue: 0,2:21:05.76,2:21:08.76,Default,,0,0,0,,O Smaug, Chiefest\Nand Greatest of Calamities.
+Dialogue: 0,2:21:09.00,2:21:12.40,Default,,0,0,0,,You have nice manners...
+Dialogue: 0,2:21:12.64,2:21:15.76,Default,,0,0,0,,for a thief and... a liar!
+Dialogue: 0,2:21:17.12,2:21:20.52,Default,,0,0,0,,I know the smell and taste of Dwarf.
+Dialogue: 0,2:21:20.96,2:21:22.16,Default,,0,0,0,,No one better!
+Dialogue: 0,2:21:23.88,2:21:25.29,Default,,0,0,0,,It is the gold!
+Dialogue: 0,2:21:25.52,2:21:27.56,Default,,0,0,0,,They are drawn... to\Ntreasure like...
+Dialogue: 0,2:21:27.80,2:21:29.37,Default,,0,0,0,,flies to dead flesh.
+Dialogue: 0,2:21:32.92,2:21:34.16,Default,,0,0,0,,Did you think I did not know...
+Dialogue: 0,2:21:34.60,2:21:36.09,Default,,0,0,0,,this day would come?!
+Dialogue: 0,2:21:37.96,2:21:40.81,Default,,0,0,0,,That a pack of...\N...canting Dwarves...
+Dialogue: 0,2:21:41.04,2:21:43.36,Default,,0,0,0,,would come crawling back...
+Dialogue: 0,2:21:43.92,2:21:45.16,Default,,0,0,0,,to the mountain?!
+Dialogue: 0,2:21:49.72,2:21:50.92,Default,,0,0,0,,Was that an earthquake?
+Dialogue: 0,2:21:51.16,2:21:53.28,Default,,0,0,0,,That, my lad...
+Dialogue: 0,2:21:56.52,2:21:57.96,Default,,0,0,0,,was a dragon.
+Dialogue: 0,2:22:06.28,2:22:06.84,Default,,0,0,0,,Da?
+Dialogue: 0,2:22:07.36,2:22:08.96,Default,,0,0,0,,It's coming from the mountain.
+Dialogue: 0,2:22:13.04,2:22:14.28,Default,,0,0,0,,You should leave us.
+Dialogue: 0,2:22:14.56,2:22:15.32,Default,,0,0,0,,Take your children.
+Dialogue: 0,2:22:15.44,2:22:16.32,Default,,0,0,0,,Get out of here.
+Dialogue: 0,2:22:17.00,2:22:18.28,Default,,0,0,0,,And go where?
+Dialogue: 0,2:22:19.36,2:22:20.77,Default,,0,0,0,,There is nowhere to go.
+Dialogue: 0,2:22:22.72,2:22:24.24,Default,,0,0,0,,Are we going to die, Da?
+Dialogue: 0,2:22:26.28,2:22:27.44,Default,,0,0,0,,No, darling.
+Dialogue: 0,2:22:27.72,2:22:28.44,Default,,0,0,0,,The dragon.
+Dialogue: 0,2:22:28.56,2:22:30.00,Default,,0,0,0,,It's going to kill us.
+Dialogue: 0,2:22:40.68,2:22:42.48,Default,,0,0,0,,Not if I kill it first.
+Dialogue: 0,2:22:43.92,2:22:47.60,Default,,0,0,0,,The King Under the Mountain is dead.
+Dialogue: 0,2:22:47.84,2:22:49.52,Default,,0,0,0,,I took his throne.
+Dialogue: 0,2:22:49.88,2:22:50.80,Default,,0,0,0,,I ate his...
+Dialogue: 0,2:22:51.08,2:22:53.84,Default,,0,0,0,,people like a wolf among sheep.
+Dialogue: 0,2:22:57.60,2:22:58.76,Default,,0,0,0,,I kill where...
+Dialogue: 0,2:22:59.04,2:23:00.64,Default,,0,0,0,,I wish, when...
+Dialogue: 0,2:23:00.92,2:23:02.36,Default,,0,0,0,,I wish.
+Dialogue: 0,2:23:02.60,2:23:05.92,Default,,0,0,0,,My armor is iron.
+Dialogue: 0,2:23:15.08,2:23:17.52,Default,,0,0,0,,No blade can pierce me.
+Dialogue: 0,2:23:20.68,2:23:21.92,Default,,0,0,0,,All right.
+Dialogue: 0,2:23:22.16,2:23:24.52,Default,,0,0,0,,A Black Arrow? Why did you never tell me?
+Dialogue: 0,2:23:24.76,2:23:26.41,Default,,0,0,0,,Because you did not need to know.
+Dialogue: 0,2:23:34.00,2:23:35.52,Default,,0,0,0,,Listen to me carefully.
+Dialogue: 0,2:23:35.88,2:23:38.04,Default,,0,0,0,,I need you to distract the guards.
+Dialogue: 0,2:23:38.60,2:23:39.20,Default,,0,0,0,,Once I'm at the top of...
+Dialogue: 0,2:23:39.44,2:23:41.72,Default,,0,0,0,,the tower, I'll set\Nthe arrow to the bow.
+Dialogue: 0,2:23:42.00,2:23:42.76,Default,,0,0,0,,There he is!
+Dialogue: 0,2:23:42.84,2:23:43.40,Default,,0,0,0,,Bard!
+Dialogue: 0,2:23:43.64,2:23:45.84,Default,,0,0,0,,- After him!\N- Quickly! Down there. Go!
+Dialogue: 0,2:23:46.08,2:23:46.72,Default,,0,0,0,,Stop him!
+Dialogue: 0,2:23:54.12,2:23:54.96,Default,,0,0,0,,Stop him!
+Dialogue: 0,2:23:55.84,2:23:56.40,Default,,0,0,0,,Stop!
+Dialogue: 0,2:24:00.60,2:24:02.25,Default,,0,0,0,,Bain! Bain.
+Dialogue: 0,2:24:03.08,2:24:06.76,Default,,0,0,0,,Keep it safe. Don't let anyone find it.\NI'll deal with them.
+Dialogue: 0,2:24:07.00,2:24:08.72,Default,,0,0,0,,- I'm not leaving you.\N- Now go!
+Dialogue: 0,2:24:12.68,2:24:13.32,Default,,0,0,0,,Braga.
+Dialogue: 0,2:24:13.56,2:24:14.41,Default,,0,0,0,,You're under arrest.
+Dialogue: 0,2:24:14.44,2:24:17.33,Default,,0,0,0,,- On what charge?\N- Any charge the Master chooses.
+Dialogue: 0,2:24:47.32,2:24:48.73,Default,,0,0,0,,Where's he gone?
+Dialogue: 0,2:25:00.00,2:25:01.08,Default,,0,0,0,,What about Bilbo?
+Dialogue: 0,2:25:01.32,2:25:02.32,Default,,0,0,0,,Give him more time.
+Dialogue: 0,2:25:02.56,2:25:04.72,Default,,0,0,0,,Time to do what? To be killed?
+Dialogue: 0,2:25:07.20,2:25:08.44,Default,,0,0,0,,You're afraid.
+Dialogue: 0,2:25:10.12,2:25:12.40,Default,,0,0,0,,Yes, I'm afraid.
+Dialogue: 0,2:25:13.56,2:25:14.92,Default,,0,0,0,,I fear for you.
+Dialogue: 0,2:25:16.28,2:25:18.44,Default,,0,0,0,,A sickness lies upon that treasure hoard.
+Dialogue: 0,2:25:18.88,2:25:19.89,Default,,0,0,0,,A sickness which drove...
+Dialogue: 0,2:25:19.92,2:25:21.20,Default,,0,0,0,,your grandfather mad.
+Dialogue: 0,2:25:21.48,2:25:23.05,Default,,0,0,0,,I am not my grandfather.
+Dialogue: 0,2:25:23.28,2:25:25.04,Default,,0,0,0,,You're not yourself.
+Dialogue: 0,2:25:25.92,2:25:28.04,Default,,0,0,0,,The Thorin I know would not hesitate\Nto go in there...
+Dialogue: 0,2:25:28.32,2:25:29.04,Default,,0,0,0,,I will not risk...
+Dialogue: 0,2:25:29.12,2:25:32.92,Default,,0,0,0,,this quest for the life of one burglar.
+Dialogue: 0,2:25:34.80,2:25:36.24,Default,,0,0,0,,Bilbo.
+Dialogue: 0,2:25:36.60,2:25:38.52,Default,,0,0,0,,His name is Bilbo.
+Dialogue: 0,2:25:42.28,2:25:44.08,Default,,0,0,0,,It's Oakenshield...
+Dialogue: 0,2:25:44.36,2:25:47.33,Default,,0,0,0,,that filthy Dwarvish usurper.
+Dialogue: 0,2:25:49.56,2:25:51.72,Default,,0,0,0,,He sent you in here...
+Dialogue: 0,2:25:51.96,2:25:54.72,Default,,0,0,0,,for the Arkenstone, didn't he?
+Dialogue: 0,2:25:54.96,2:25:55.60,Default,,0,0,0,,No. No...
+Dialogue: 0,2:25:55.84,2:25:58.73,Default,,0,0,0,,no. I don't know\Nwhat you're talking about.
+Dialogue: 0,2:25:58.96,2:26:00.08,Default,,0,0,0,,Don't bother denying it.
+Dialogue: 0,2:26:01.48,2:26:03.28,Default,,0,0,0,,I guessed his foul purpose\Nsome time ago.
+Dialogue: 0,2:26:05.88,2:26:07.48,Default,,0,0,0,,But it matters not.
+Dialogue: 0,2:26:08.64,2:26:11.00,Default,,0,0,0,,Oakenshield's quest will fail.
+Dialogue: 0,2:26:13.00,2:26:14.76,Default,,0,0,0,,The darkness is coming.
+Dialogue: 0,2:26:15.60,2:26:19.60,Default,,0,0,0,,{\i1}It will spread to every corner of the land.{\i0}
+Dialogue: 0,2:27:02.20,2:27:04.16,Default,,0,0,0,,You are being used, Thief...
+Dialogue: 0,2:27:04.40,2:27:06.52,Default,,0,0,0,,in the Shadows.\NYou were only...
+Dialogue: 0,2:27:06.76,2:27:09.36,Default,,0,0,0,,ever a means to an end.
+Dialogue: 0,2:27:10.20,2:27:13.61,Default,,0,0,0,,The coward... Oakenshield\Nhas weighed...
+Dialogue: 0,2:27:13.88,2:27:15.45,Default,,0,0,0,,the value of your life...
+Dialogue: 0,2:27:15.72,2:27:17.88,Default,,0,0,0,,and found it worth nothing.
+Dialogue: 0,2:27:18.48,2:27:19.68,Default,,0,0,0,,No.
+Dialogue: 0,2:27:20.40,2:27:21.08,Default,,0,0,0,,No.
+Dialogue: 0,2:27:22.36,2:27:23.32,Default,,0,0,0,,No, you're lying.
+Dialogue: 0,2:27:23.60,2:27:24.76,Default,,0,0,0,,What did he promise you?
+Dialogue: 0,2:27:25.20,2:27:27.28,Default,,0,0,0,,A share of the treasure?
+Dialogue: 0,2:27:28.28,2:27:30.76,Default,,0,0,0,,As if it was his... to give.
+Dialogue: 0,2:27:31.60,2:27:34.60,Default,,0,0,0,,I will not part with...\N...a single coin.
+Dialogue: 0,2:27:35.28,2:27:37.80,Default,,0,0,0,,Not one piece of it.
+Dialogue: 0,2:27:41.68,2:27:44.00,Default,,0,0,0,,My teeth... are swords.
+Dialogue: 0,2:27:44.88,2:27:48.20,Default,,0,0,0,,My claws are spears.
+Dialogue: 0,2:27:50.32,2:27:51.48,Default,,0,0,0,,My Wings...
+Dialogue: 0,2:27:52.12,2:27:54.64,Default,,0,0,0,,are a hurricane.
+Dialogue: 0,2:28:00.28,2:28:02.12,Default,,0,0,0,,So it is true.
+Dialogue: 0,2:28:02.48,2:28:04.64,Default,,0,0,0,,The Black Arrow found its mark.
+Dialogue: 0,2:28:04.88,2:28:05.80,Default,,0,0,0,,What did you say?
+Dialogue: 0,2:28:06.64,2:28:10.53,Default,,0,0,0,,I was just saying your reputation\Nprecedes you, O Smaug...
+Dialogue: 0,2:28:10.76,2:28:11.96,Default,,0,0,0,,the Tyrannical.
+Dialogue: 0,2:28:12.56,2:28:13.64,Default,,0,0,0,,Truly.
+Dialogue: 0,2:28:13.88,2:28:15.84,Default,,0,0,0,,You have no equal on this earth.
+Dialogue: 0,2:28:20.28,2:28:20.92,Default,,0,0,0,,I am...
+Dialogue: 0,2:28:21.20,2:28:24.44,Default,,0,0,0,,almost tempted to let you take it.
+Dialogue: 0,2:28:24.88,2:28:26.88,Default,,0,0,0,,If only to see Oakenshield...
+Dialogue: 0,2:28:27.16,2:28:28.12,Default,,0,0,0,,suffer.
+Dialogue: 0,2:28:29.20,2:28:32.04,Default,,0,0,0,,Watch it... destroy him.
+Dialogue: 0,2:28:32.52,2:28:35.64,Default,,0,0,0,,Watch it corrupt his heart...
+Dialogue: 0,2:28:36.32,2:28:38.72,Default,,0,0,0,,and drive him mad.
+Dialogue: 0,2:28:41.92,2:28:43.49,Default,,0,0,0,,But I think not.
+Dialogue: 0,2:28:44.08,2:28:46.32,Default,,0,0,0,,I think our little game ends here.
+Dialogue: 0,2:28:47.16,2:28:48.40,Default,,0,0,0,,So tell me...
+Dialogue: 0,2:28:48.68,2:28:49.56,Default,,0,0,0,,thief...
+Dialogue: 0,2:28:50.44,2:28:52.56,Default,,0,0,0,,how do you choose to die?
+Dialogue: 0,2:29:36.00,2:29:36.84,Default,,0,0,0,,Nah.
+Dialogue: 0,2:30:05.20,2:30:07.24,Default,,0,0,0,,Da? Is that you, Da?
+Dialogue: 0,2:30:40.36,2:30:41.69,Default,,0,0,0,,- Aah!\N- Stay down!
+Dialogue: 0,2:31:42.52,2:31:43.16,Default,,0,0,0,,Get down!
+Dialogue: 0,2:32:19.72,2:32:20.88,Default,,0,0,0,,You killed them all.
+Dialogue: 0,2:32:21.12,2:32:22.20,Default,,0,0,0,,There are others.
+Dialogue: 0,2:32:22.64,2:32:23.72,Default,,0,0,0,,Tauriel.
+Dialogue: 0,2:32:24.20,2:32:25.32,Default,,0,0,0,,Come.
+Dialogue: 0,2:32:29.36,2:32:30.32,Default,,0,0,0,,We're losing him.
+Dialogue: 0,2:32:34.24,2:32:35.44,Default,,0,0,0,,Tauriel.
+Dialogue: 0,2:32:59.36,2:33:00.36,Default,,0,0,0,,Athelas.
+Dialogue: 0,2:33:03.20,2:33:04.64,Default,,0,0,0,,Athelas.
+Dialogue: 0,2:33:05.64,2:33:06.72,Default,,0,0,0,,What are you doing?
+Dialogue: 0,2:33:09.72,2:33:11.44,Default,,0,0,0,,I'm going to save him.
+Dialogue: 0,2:33:32.20,2:33:33.73,Default,,0,0,0,,- You're alive!\N- Not for much longer.
+Dialogue: 0,2:33:33.76,2:33:35.23,Default,,0,0,0,,Did you find the Arkenstone?\NThe Arkenstone.
+Dialogue: 0,2:33:35.24,2:33:36.73,Default,,0,0,0,,The dragon's coming.
+Dialogue: 0,2:33:39.68,2:33:41.25,Default,,0,0,0,,Did you find it?
+Dialogue: 0,2:33:46.76,2:33:47.84,Default,,0,0,0,,We have to get out.
+Dialogue: 0,2:33:51.56,2:33:52.56,Default,,0,0,0,,Thorin.
+Dialogue: 0,2:33:56.28,2:33:57.40,Default,,0,0,0,,Thorin.
+Dialogue: 0,2:34:27.84,2:34:29.96,Default,,0,0,0,,You will burn!
+Dialogue: 0,2:34:31.12,2:34:31.96,Default,,0,0,0,,Run!
+Dialogue: 0,2:34:39.12,2:34:40.20,Default,,0,0,0,,Come on, Bilbo!
+Dialogue: 0,2:34:53.08,2:34:54.12,Default,,0,0,0,,Come on.
+Dialogue: 0,2:35:11.28,2:35:12.48,Default,,0,0,0,,Hold him down.
+Dialogue: 0,2:35:28.88,2:35:30.60,Default,,0,0,0,,Unh! Tilda.
+Dialogue: 0,2:36:23.48,2:36:24.68,Default,,0,0,0,,Shh, Shh, Shh!
+Dialogue: 0,2:36:32.52,2:36:33.96,Default,,0,0,0,,We've given him the slip.
+Dialogue: 0,2:36:34.20,2:36:35.20,Default,,0,0,0,,No.
+Dialogue: 0,2:36:35.68,2:36:37.88,Default,,0,0,0,,He's too cunning for that.
+Dialogue: 0,2:36:39.64,2:36:40.76,Default,,0,0,0,,So where to now?
+Dialogue: 0,2:36:41.36,2:36:42.69,Default,,0,0,0,,The western guardroom.
+Dialogue: 0,2:36:43.40,2:36:44.92,Default,,0,0,0,,There may be a way out.
+Dialogue: 0,2:36:45.20,2:36:47.20,Default,,0,0,0,,It's too high. There's no chance...
+Dialogue: 0,2:36:47.44,2:36:49.52,Default,,0,0,0,,that way.\N- It's our only chance.
+Dialogue: 0,2:36:50.84,2:36:52.33,Default,,0,0,0,,We have to try.
+Dialogue: 0,2:37:08.88,2:37:10.04,Default,,0,0,0,,Come on.
+Dialogue: 0,2:37:57.56,2:38:01.32,Default,,0,0,0,,I've heard tell of\Nthe wonders of Elvish medicine.
+Dialogue: 0,2:38:01.56,2:38:04.29,Default,,0,0,0,,That was a privilege to witness.
+Dialogue: 0,2:38:06.76,2:38:07.92,Default,,0,0,0,,Tauriel.
+Dialogue: 0,2:38:12.24,2:38:13.44,Default,,0,0,0,,Lie still.
+Dialogue: 0,2:38:20.64,2:38:22.76,Default,,0,0,0,,You cannot be her.
+Dialogue: 0,2:38:26.24,2:38:28.40,Default,,0,0,0,,She is far away.
+Dialogue: 0,2:38:32.60,2:38:35.84,Default,,0,0,0,,She is far... far\Naway from me.
+Dialogue: 0,2:38:37.48,2:38:39.60,Default,,0,0,0,,She walks...
+Dialogue: 0,2:38:39.84,2:38:42.52,Default,,0,0,0,,in starlight in another world.
+Dialogue: 0,2:38:47.84,2:38:49.80,Default,,0,0,0,,It was just a dream.
+Dialogue: 0,2:39:01.48,2:39:03.72,Default,,0,0,0,,Do you think she could've loved me?
+Dialogue: 0,2:39:11.04,2:39:11.80,Default,,0,0,0,,Stay close.
+Dialogue: 0,2:39:22.44,2:39:23.40,Default,,0,0,0,,That's it, then.
+Dialogue: 0,2:39:24.48,2:39:26.32,Default,,0,0,0,,There's no way out.
+Dialogue: 0,2:39:32.72,2:39:34.96,Default,,0,0,0,,The last of our kin.
+Dialogue: 0,2:39:38.64,2:39:40.72,Default,,0,0,0,,They must have come here...
+Dialogue: 0,2:39:41.40,2:39:43.84,Default,,0,0,0,,hoping... beyond hope.
+Dialogue: 0,2:39:53.60,2:39:55.92,Default,,0,0,0,,We could try to reach the mines.
+Dialogue: 0,2:39:56.76,2:39:59.00,Default,,0,0,0,,We might last a few days.
+Dialogue: 0,2:40:01.16,2:40:02.20,Default,,0,0,0,,No.
+Dialogue: 0,2:40:05.16,2:40:07.40,Default,,0,0,0,,I will not die like this.
+Dialogue: 0,2:40:08.76,2:40:09.92,Default,,0,0,0,,Cowering.
+Dialogue: 0,2:40:10.80,2:40:12.60,Default,,0,0,0,,Clawing for breath.
+Dialogue: 0,2:40:17.52,2:40:18.64,Default,,0,0,0,,We make for the forges.
+Dialogue: 0,2:40:18.92,2:40:20.88,Default,,0,0,0,,He'll see us, sure as death.
+Dialogue: 0,2:40:21.12,2:40:22.36,Default,,0,0,0,,Not if we split up.
+Dialogue: 0,2:40:22.60,2:40:23.24,Default,,0,0,0,,Thorin...
+Dialogue: 0,2:40:23.84,2:40:25.33,Default,,0,0,0,,we'll never make it.
+Dialogue: 0,2:40:25.56,2:40:27.08,Default,,0,0,0,,Some of us might.
+Dialogue: 0,2:40:27.48,2:40:29.72,Default,,0,0,0,,Lead him to the forges.
+Dialogue: 0,2:40:30.48,2:40:32.48,Default,,0,0,0,,We kill the dragon.
+Dialogue: 0,2:40:34.20,2:40:36.48,Default,,0,0,0,,If this is to end in fire...
+Dialogue: 0,2:40:36.92,2:40:39.32,Default,,0,0,0,,then we will all burn together.
+Dialogue: 0,2:40:40.64,2:40:41.80,Default,,0,0,0,,This way.
+Dialogue: 0,2:40:46.28,2:40:46.84,Default,,0,0,0,,Flee.
+Dialogue: 0,2:40:47.96,2:40:48.88,Default,,0,0,0,,Flee.
+Dialogue: 0,2:40:49.88,2:40:51.84,Default,,0,0,0,,Run for your lives.
+Dialogue: 0,2:40:52.60,2:40:53.48,Default,,0,0,0,,There is...
+Dialogue: 0,2:40:54.12,2:40:56.32,Default,,0,0,0,,nowhere to hide.
+Dialogue: 0,2:40:56.56,2:40:57.52,Default,,0,0,0,,Behind you!
+Dialogue: 0,2:40:57.76,2:40:58.64,Default,,0,0,0,,Worm!
+Dialogue: 0,2:40:59.76,2:41:00.44,Default,,0,0,0,,Come on!
+Dialogue: 0,2:41:02.80,2:41:03.84,Default,,0,0,0,,Run!
+Dialogue: 0,2:41:05.80,2:41:07.08,Default,,0,0,0,,Hey, you!
+Dialogue: 0,2:41:07.44,2:41:08.12,Default,,0,0,0,,Here!
+Dialogue: 0,2:44:06.16,2:44:08.12,Default,,0,0,0,,This way. It's this way!
+Dialogue: 0,2:44:08.40,2:44:09.52,Default,,0,0,0,,Come on!
+Dialogue: 0,2:44:09.76,2:44:10.36,Default,,0,0,0,,Thorin!
+Dialogue: 0,2:44:16.12,2:44:17.24,Default,,0,0,0,,Follow Balin!
+Dialogue: 0,2:44:18.44,2:44:19.68,Default,,0,0,0,,- Thorin.\N- Come on!
+Dialogue: 0,2:44:35.52,2:44:36.88,Default,,0,0,0,,Thorin!
+Dialogue: 0,2:44:45.96,2:44:47.00,Default,,0,0,0,,Hold on!
+Dialogue: 0,2:45:20.84,2:45:22.17,Default,,0,0,0,,Thorin!
+Dialogue: 0,2:45:25.04,2:45:26.61,Default,,0,0,0,,Go. Go!
+Dialogue: 0,2:45:30.32,2:45:34.00,Default,,0,0,0,,The plan's not gonna work.\NThese furnaces are stone cold.
+Dialogue: 0,2:45:34.24,2:45:35.60,Default,,0,0,0,,He's right. We've no...
+Dialogue: 0,2:45:35.84,2:45:38.16,Default,,0,0,0,,fire hot enough to set them ablaze.
+Dialogue: 0,2:45:40.72,2:45:42.08,Default,,0,0,0,,Have we not?
+Dialogue: 0,2:45:43.64,2:45:46.56,Default,,0,0,0,,I did not look to see you\Nso easily outwitted.
+Dialogue: 0,2:45:50.52,2:45:53.36,Default,,0,0,0,,You have grown...\N...slow and fat...
+Dialogue: 0,2:45:54.20,2:45:55.08,Default,,0,0,0,,in your dotage...
+Dialogue: 0,2:45:57.52,2:45:58.68,Default,,0,0,0,,slug!
+Dialogue: 0,2:46:00.08,2:46:01.76,Default,,0,0,0,,Take cover. Go!
+Dialogue: 0,2:46:29.20,2:46:29.88,Default,,0,0,0,,Bombur!
+Dialogue: 0,2:46:30.20,2:46:31.61,Default,,0,0,0,,Get those bellows working.
+Dialogue: 0,2:46:31.84,2:46:32.96,Default,,0,0,0,,Go!
+Dialogue: 0,2:46:46.76,2:46:47.32,Default,,0,0,0,,Bilbo!
+Dialogue: 0,2:46:47.60,2:46:49.32,Default,,0,0,0,,Up there. On my mark...
+Dialogue: 0,2:46:49.60,2:46:50.88,Default,,0,0,0,,pull that lever.
+Dialogue: 0,2:47:01.40,2:47:03.72,Default,,0,0,0,,Balin! Can you still mix a flash-flame?
+Dialogue: 0,2:47:03.96,2:47:06.36,Default,,0,0,0,,Aye. It'll only take a jiffy. Come on!
+Dialogue: 0,2:47:08.12,2:47:09.56,Default,,0,0,0,,We don't have a jiffy.
+Dialogue: 0,2:47:21.52,2:47:22.64,Default,,0,0,0,,Where's the sulfur?
+Dialogue: 0,2:47:23.04,2:47:24.80,Default,,0,0,0,,You sure you know what...\N...you're doing?
+Dialogue: 0,2:47:36.56,2:47:37.32,Default,,0,0,0,,Come on!
+Dialogue: 0,2:47:59.64,2:48:00.32,Default,,0,0,0,,Now!
+Dialogue: 0,2:49:57.08,2:49:59.16,Default,,0,0,0,,Lead him to the Gallery of the Kings.
+Dialogue: 0,2:50:47.24,2:50:48.24,Default,,0,0,0,,Keep going, Bilbo!
+Dialogue: 0,2:50:48.80,2:50:49.88,Default,,0,0,0,,Run!
+Dialogue: 0,2:51:35.20,2:51:36.20,Default,,0,0,0,,You think you...
+Dialogue: 0,2:51:36.44,2:51:38.40,Default,,0,0,0,,can deceive me, Barrel-rider?
+Dialogue: 0,2:51:41.96,2:51:44.96,Default,,0,0,0,,You have come from Lake-town.
+Dialogue: 0,2:51:46.68,2:51:47.96,Default,,0,0,0,,This is some...
+Dialogue: 0,2:51:48.20,2:51:51.48,Default,,0,0,0,,sordid scheme hatched between\Nthese filthy Dwarves...
+Dialogue: 0,2:51:51.72,2:51:54.88,Default,,0,0,0,,and those miserable\Ntub-trading Lakemen.
+Dialogue: 0,2:51:55.88,2:51:57.80,Default,,0,0,0,,Those sniveling cowards...
+Dialogue: 0,2:51:58.04,2:51:59.53,Default,,0,0,0,,with their long bows...
+Dialogue: 0,2:51:59.76,2:52:02.60,Default,,0,0,0,,and Black Arrows.
+Dialogue: 0,2:52:02.96,2:52:04.84,Default,,0,0,0,,Perhaps it is time...
+Dialogue: 0,2:52:05.12,2:52:07.00,Default,,0,0,0,,I paid them a visit.
+Dialogue: 0,2:52:07.52,2:52:08.76,Default,,0,0,0,,No.
+Dialogue: 0,2:52:10.64,2:52:12.13,Default,,0,0,0,,This isn't their fault!
+Dialogue: 0,2:52:12.36,2:52:13.16,Default,,0,0,0,,Wait!
+Dialogue: 0,2:52:13.40,2:52:15.00,Default,,0,0,0,,You cannot go to Lake-town!
+Dialogue: 0,2:52:16.92,2:52:19.08,Default,,0,0,0,,You care about them...
+Dialogue: 0,2:52:19.80,2:52:21.04,Default,,0,0,0,,you?
+Dialogue: 0,2:52:21.28,2:52:22.24,Default,,0,0,0,,Good.
+Dialogue: 0,2:52:22.96,2:52:25.37,Default,,0,0,0,,Then you can...\N...watch them die.
+Dialogue: 0,2:52:30.92,2:52:32.04,Default,,0,0,0,,Here!
+Dialogue: 0,2:52:32.96,2:52:33.88,Default,,0,0,0,,You witless worm.
+Dialogue: 0,2:52:40.80,2:52:42.21,Default,,0,0,0,,You.
+Dialogue: 0,2:52:42.60,2:52:45.08,Default,,0,0,0,,I am taking back what you stole.
+Dialogue: 0,2:52:49.12,2:52:49.76,Default,,0,0,0,,You...
+Dialogue: 0,2:52:50.04,2:52:51.61,Default,,0,0,0,,will take nothing...
+Dialogue: 0,2:52:51.88,2:52:53.53,Default,,0,0,0,,from me...
+Dialogue: 0,2:52:53.80,2:52:54.96,Default,,0,0,0,,Dwarf.
+Dialogue: 0,2:52:55.44,2:53:00.56,Default,,0,0,0,,I laid low your warriors...\N...of old.
+Dialogue: 0,2:53:00.84,2:53:03.20,Default,,0,0,0,,I instilled terror in...
+Dialogue: 0,2:53:03.44,2:53:05.12,Default,,0,0,0,,the hearts of Men.
+Dialogue: 0,2:53:06.28,2:53:09.32,Default,,0,0,0,,I am... King Under...
+Dialogue: 0,2:53:09.84,2:53:11.64,Default,,0,0,0,,the Mountain.
+Dialogue: 0,2:53:12.08,2:53:14.36,Default,,0,0,0,,This is not your kingdom.
+Dialogue: 0,2:53:14.60,2:53:16.60,Default,,0,0,0,,These are Dwarf lands.
+Dialogue: 0,2:53:17.36,2:53:18.24,Default,,0,0,0,,This is Dwarf gold.
+Dialogue: 0,2:53:20.68,2:53:23.80,Default,,0,0,0,,And we will...\N...have our revenge.
+Dialogue: 0,2:54:45.36,2:54:46.16,Default,,0,0,0,,Revenge?!
+Dialogue: 0,2:54:48.00,2:54:49.65,Default,,0,0,0,,Revenge?!
+Dialogue: 0,2:54:50.44,2:54:54.36,Default,,0,0,0,,I will show you revenge!
+Dialogue: 0,2:55:31.84,2:55:32.88,Default,,0,0,0,,Listen to me!
+Dialogue: 0,2:55:33.44,2:55:35.72,Default,,0,0,0,,Do you not know what is coming?
+Dialogue: 0,2:55:38.16,2:55:41.88,Default,,0,0,0,,I am fire.
+Dialogue: 0,2:55:43.08,2:55:45.56,Default,,0,0,0,,I am...
+Dialogue: 0,2:55:47.80,2:55:49.13,Default,,0,0,0,,death.
+Dialogue: 0,2:55:57.84,2:56:00.04,Default,,0,0,0,,What have we done?
