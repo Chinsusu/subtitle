@@ -1,0 +1,792 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:14.48,0:01:15.65,Default,,0,0,0,,La Terre,
+Dialogue: 0,0:01:15.73,0:01:19.57,Default,,0,0,0,,avant la guerre.
+Dialogue: 0,0:01:23.03,0:01:25.03,Default,,0,0,0,,La vie s'étendait
+Dialogue: 0,0:01:25.12,0:01:29.00,Default,,0,0,0,,à tous les recoins\Nde la planète.
+Dialogue: 0,0:01:29.08,0:01:32.67,Default,,0,0,0,,C'était un monde fait\Nd'innovations et d'opportunités.
+Dialogue: 0,0:01:35.34,0:01:37.96,Default,,0,0,0,,De formidables avancées\Nscientifiques permettaient
+Dialogue: 0,0:01:38.05,0:01:41.34,Default,,0,0,0,,à l'humanité d'obtenir\Ndes résultats inimaginables.
+Dialogue: 0,0:01:42.22,0:01:46.10,Default,,0,0,0,,La robotique était devenue\Nla voie du futur.
+Dialogue: 0,0:01:46.18,0:01:48.06,Default,,0,0,0,,L'intelligence artificielle
+Dialogue: 0,0:01:48.14,0:01:51.23,Default,,0,0,0,,était devenue une nouvelle\Nreligion.
+Dialogue: 0,0:01:51.31,0:01:54.81,Default,,0,0,0,,Nous étions des messies\Nsynthétiques.
+Dialogue: 0,0:01:59.99,0:02:03.74,Default,,0,0,0,,Mais un tel pouvoir à la\Nportée d'hommes primitifs
+Dialogue: 0,0:02:03.82,0:02:08.75,Default,,0,0,0,,ne peut avoir\Nqu'une seule issue:
+Dialogue: 0,0:02:08.83,0:02:11.41,Default,,0,0,0,,la guerre.
+Dialogue: 0,0:02:15.42,0:02:17.17,Default,,0,0,0,,Il pleuvait des bombes
+Dialogue: 0,0:02:17.25,0:02:21.09,Default,,0,0,0,,par vagues les unes après\Nles autres.
+Dialogue: 0,0:02:22.09,0:02:25.26,Default,,0,0,0,,Le monde entrait dans une\Nère des plus sombres.
+Dialogue: 0,0:02:27.05,0:02:29.68,Default,,0,0,0,,Des cendres,
+Dialogue: 0,0:02:29.77,0:02:31.52,Default,,0,0,0,,une grande maladie apparut:
+Dialogue: 0,0:02:31.60,0:02:33.44,Default,,0,0,0,,la fièvre rouge.
+Dialogue: 0,0:02:37.44,0:02:41.74,Default,,0,0,0,,Les nations tombèrent,\Nles sociétés s'effondrèrent.
+Dialogue: 0,0:02:43.95,0:02:46.70,Default,,0,0,0,,Des seigneurs de guerre\Ntribaux nous utilisaient
+Dialogue: 0,0:02:46.78,0:02:48.91,Default,,0,0,0,,comme des armes les uns\Ncontre les autres.
+Dialogue: 0,0:02:48.99,0:02:51.54,Default,,0,0,0,,J'étais l'un des derniers\Nmodèles synthétiques
+Dialogue: 0,0:02:51.62,0:02:53.96,Default,,0,0,0,,à avoir survécu.
+Dialogue: 0,0:02:54.04,0:02:57.21,Default,,0,0,0,,Au bout du compte,\Ntout le monde perdit.
+Dialogue: 0,0:03:00.21,0:03:02.30,Default,,0,0,0,,Je voulais la vie.
+Dialogue: 0,0:03:04.76,0:03:07.18,Default,,0,0,0,,Les humains\Nvoulaient la mort.
+Dialogue: 0,0:03:13.31,0:03:17.02,Default,,0,0,0,,Je ne peux pas faire partie\Nde tout ça.
+Dialogue: 0,0:03:17.10,0:03:18.52,Default,,0,0,0,,Je le refuse.
+Dialogue: 0,0:03:22.19,0:03:23.53,Default,,0,0,0,,Effacement manuel\Ndes données
+Dialogue: 0,0:03:23.61,0:03:24.99,Default,,0,0,0,,et remise à zéro du disque\Nmémoire.
+Dialogue: 0,0:03:25.07,0:03:26.95,Default,,0,0,0,,Lancement\Ndu mode hibernation.
+Dialogue: 0,0:04:21.21,0:04:27.05,Default,,0,0,0,,FUTUR INFERNAL
+Dialogue: 0,0:04:40.44,0:04:42.61,Default,,0,0,0,,- Non, j'arrive.
+Dialogue: 0,0:05:11.68,0:05:15.01,Default,,0,0,0,,- Pilleurs en vue!!!
+Dialogue: 0,0:05:15.10,0:05:17.43,Default,,0,0,0,,Pilleurs!
+Dialogue: 0,0:05:17.52,0:05:19.19,Default,,0,0,0,,Montez vite!
+Dialogue: 0,0:05:19.27,0:05:21.98,Default,,0,0,0,,Où sont les enfants?
+Dialogue: 0,0:05:22.06,0:05:24.23,Default,,0,0,0,,Allez chercher les petits.
+Dialogue: 0,0:05:24.32,0:05:25.73,Default,,0,0,0,,Vite, montez!
+Dialogue: 0,0:05:25.82,0:05:27.03,Default,,0,0,0,,Tous en haut. Allez.
+Dialogue: 0,0:05:27.11,0:05:29.65,Default,,0,0,0,,Montez au refuge.\NPilleurs en vue.
+Dialogue: 0,0:05:29.74,0:05:33.07,Default,,0,0,0,,Allez, montez!\NTous en haut!
+Dialogue: 0,0:05:49.80,0:05:51.26,Default,,0,0,0,,- William, William!
+Dialogue: 0,0:05:51.34,0:05:52.43,Default,,0,0,0,,Monte dans la tour!
+Dialogue: 0,0:05:52.51,0:05:54.39,Default,,0,0,0,,- Détache-moi!\NS'il te plaît.
+Dialogue: 0,0:05:54.47,0:05:56.01,Default,,0,0,0,,- Tu dois monter\Navec les autres.
+Dialogue: 0,0:05:56.10,0:05:58.22,Default,,0,0,0,,Vite, monte, tout de suite.\NVas-y, cours. Allez, vas-y!
+Dialogue: 0,0:05:58.31,0:06:00.64,Default,,0,0,0,,Cours, fais ce que je te dis.\N- Je dois aller où?
+Dialogue: 0,0:06:07.78,0:06:11.07,Default,,0,0,0,,Non!
+Dialogue: 0,0:06:11.15,0:06:13.24,Default,,0,0,0,,Non!
+Dialogue: 0,0:06:17.62,0:06:18.87,Default,,0,0,0,,- Ah!
+Dialogue: 0,0:06:18.95,0:06:20.41,Default,,0,0,0,,- Non! Laissez-moi!
+Dialogue: 0,0:06:20.50,0:06:22.87,Default,,0,0,0,,- Ha! Ha! Ha!
+Dialogue: 0,0:06:28.09,0:06:30.84,Default,,0,0,0,,- Retourne tout de suite dans\Nle trou duquel tu es sorti.
+Dialogue: 0,0:06:30.92,0:06:34.89,Default,,0,0,0,,- Une arme! J'en avais pas vu\Nune depuis la guerre.
+Dialogue: 0,0:06:34.97,0:06:36.76,Default,,0,0,0,,Ha! Ha! Ha!
+Dialogue: 0,0:06:36.85,0:06:38.18,Default,,0,0,0,,Allez, vas-y!
+Dialogue: 0,0:06:38.26,0:06:39.39,Default,,0,0,0,,Tire, le vieillard.
+Dialogue: 0,0:06:39.47,0:06:41.23,Default,,0,0,0,,- Lâchez-moi!
+Dialogue: 0,0:06:41.31,0:06:45.10,Default,,0,0,0,,Non, c'est mon père. Non, c'est\Nmon père, arrêtez. Non.
+Dialogue: 0,0:06:45.19,0:06:47.11,Default,,0,0,0,,- Argh!
+Dialogue: 0,0:06:56.91,0:06:59.33,Default,,0,0,0,,- Wouhou!
+Dialogue: 0,0:07:09.38,0:07:11.01,Default,,0,0,0,,- T'es sûr que c'est ici?
+Dialogue: 0,0:07:11.09,0:07:13.84,Default,,0,0,0,,- Oui, elle est là.\NJe la sens.
+Dialogue: 0,0:07:36.74,0:07:38.20,Default,,0,0,0,,- C'était quoi, cet endroit?
+Dialogue: 0,0:07:38.28,0:07:39.41,Default,,0,0,0,,- Cet endroit, avant,
+Dialogue: 0,0:07:39.49,0:07:41.83,Default,,0,0,0,,c'était le futur.
+Dialogue: 0,0:07:41.91,0:07:44.08,Default,,0,0,0,,Maintenant, c'est un tas\Nde poussière.
+Dialogue: 0,0:07:49.79,0:07:52.55,Default,,0,0,0,,- Hé, viens là.
+Dialogue: 0,0:08:05.43,0:08:08.15,Default,,0,0,0,,- Voilà ce qu'on cherchait.
+Dialogue: 0,0:08:10.65,0:08:13.15,Default,,0,0,0,,Où tu te caches?
+Dialogue: 0,0:08:14.36,0:08:16.45,Default,,0,0,0,,Venez.
+Dialogue: 0,0:09:25.85,0:09:27.98,Default,,0,0,0,,Réveille-toi.
+Dialogue: 0,0:09:31.10,0:09:33.81,Default,,0,0,0,,Qu'est-ce que tu vois?
+Dialogue: 0,0:09:36.78,0:09:39.11,Default,,0,0,0,,- Qui es-tu?
+Dialogue: 0,0:09:39.20,0:09:42.53,Default,,0,0,0,,- Celui qui t'a donné la vie.
+Dialogue: 0,0:09:45.03,0:09:46.95,Default,,0,0,0,,- Où suis-je?
+Dialogue: 0,0:09:49.37,0:09:53.42,Default,,0,0,0,,- Je te cherche depuis\Ntrès longtemps,
+Dialogue: 0,0:09:53.50,0:09:54.84,Default,,0,0,0,,ma belle.
+Dialogue: 0,0:10:00.01,0:10:03.43,Default,,0,0,0,,- Non. Non!
+Dialogue: 0,0:10:25.70,0:10:27.12,Default,,0,0,0,,- Hé, Rico?
+Dialogue: 0,0:10:28.12,0:10:29.33,Default,,0,0,0,,Rico?
+Dialogue: 0,0:10:33.58,0:10:35.08,Default,,0,0,0,,- Comment ça va?\N- Bien.
+Dialogue: 0,0:10:35.17,0:10:38.34,Default,,0,0,0,,Et elle?\N- Mieux.
+Dialogue: 0,0:10:38.42,0:10:42.09,Default,,0,0,0,,Elle demande à te voir.
+Dialogue: 0,0:10:43.43,0:10:45.22,Default,,0,0,0,,C'est quoi, Ça?
+Dialogue: 0,0:10:45.30,0:10:48.68,Default,,0,0,0,,Tu crois encore à la magie,\Nhein.
+Dialogue: 0,0:10:48.76,0:10:51.77,Default,,0,0,0,,- Ça pourrait la sauver.
+Dialogue: 0,0:10:51.85,0:10:54.81,Default,,0,0,0,,- Paradise Beach n'existe pas.
+Dialogue: 0,0:10:57.73,0:10:59.65,Default,,0,0,0,,- Eh bien, disons juste que...
+Dialogue: 0,0:10:59.73,0:11:02.15,Default,,0,0,0,,quelque chose me dit que si.
+Dialogue: 0,0:11:02.24,0:11:05.57,Default,,0,0,0,,- Va la voir.
+Dialogue: 0,0:11:29.10,0:11:32.06,Default,,0,0,0,,- Bonjour.\N- Hum.
+Dialogue: 0,0:11:32.14,0:11:34.39,Default,,0,0,0,,- Ça va?\N- Hum.
+Dialogue: 0,0:11:34.48,0:11:37.73,Default,,0,0,0,,Sers-moi du thé, s'il te plaît.\N- Bien sûr.
+Dialogue: 0,0:11:40.07,0:11:44.82,Default,,0,0,0,,- Je me souviens quand tu\Njouais, comme tous ces enfants.
+Dialogue: 0,0:11:52.12,0:11:54.87,Default,,0,0,0,,- Tu sais, y a des médicaments.
+Dialogue: 0,0:11:54.96,0:11:57.75,Default,,0,0,0,,À Paradise Beach.
+Dialogue: 0,0:11:57.83,0:12:00.96,Default,,0,0,0,,Je t'assure,\Nj'en ai entendu parler.
+Dialogue: 0,0:12:01.05,0:12:03.59,Default,,0,0,0,,- Non, tu ne trouveras pas\Nde médicament là-bas.
+Dialogue: 0,0:12:03.67,0:12:06.68,Default,,0,0,0,,Rien que la mort et la haine.
+Dialogue: 0,0:12:06.76,0:12:08.59,Default,,0,0,0,,- Tu dois tenir le coup, maman.
+Dialogue: 0,0:12:08.68,0:12:11.56,Default,,0,0,0,,- Cette oasis m'a sauvée\Nquand j'étais jeune et en péril.
+Dialogue: 0,0:12:14.52,0:12:16.44,Default,,0,0,0,,Prends-en soin quand\Nje ne serai plus là.
+Dialogue: 0,0:12:16.52,0:12:19.69,Default,,0,0,0,,- Arrête, tu es trop jeune\Npour mourir.
+Dialogue: 0,0:12:19.77,0:12:22.57,Default,,0,0,0,,- Eh bien ça, je dirais que ce\Nn'est pas à nous d'en décider.
+Dialogue: 0,0:12:24.57,0:12:26.95,Default,,0,0,0,,Tu seras un grand leader.
+Dialogue: 0,0:12:28.36,0:12:31.12,Default,,0,0,0,,Je le vois dans tes yeux.\N- Maman, je...
+Dialogue: 0,0:12:31.20,0:12:32.45,Default,,0,0,0,,Je n'ai pas... je n'ai aucune...
+Dialogue: 0,0:12:32.53,0:12:33.87,Default,,0,0,0,,- Si je pouvais revenir\Nen arrière,
+Dialogue: 0,0:12:33.95,0:12:36.62,Default,,0,0,0,,je prendrais le temps d'être\Navec toi.
+Dialogue: 0,0:12:38.50,0:12:40.33,Default,,0,0,0,,Je t'écouterais avec attention.
+Dialogue: 0,0:12:40.42,0:12:44.30,Default,,0,0,0,,Et je te garderais au plus près\Nde moi.
+Dialogue: 0,0:13:54.87,0:13:56.70,Default,,0,0,0,,- Hé, le vétéran?
+Dialogue: 0,0:13:56.79,0:13:58.54,Default,,0,0,0,,- Oui?
+Dialogue: 0,0:13:58.62,0:14:01.08,Default,,0,0,0,,- Comment ça va?\N- Pas mal.
+Dialogue: 0,0:14:01.17,0:14:03.04,Default,,0,0,0,,- Ah oui?\N- Oui.
+Dialogue: 0,0:14:03.13,0:14:04.59,Default,,0,0,0,,- Dis,
+Dialogue: 0,0:14:04.67,0:14:06.17,Default,,0,0,0,,t'as déjà vu cet endroit?
+Dialogue: 0,0:14:06.25,0:14:09.17,Default,,0,0,0,,- J'y suis allé.\NVa pas là-bas.
+Dialogue: 0,0:14:09.26,0:14:12.05,Default,,0,0,0,,T'as rien à y faire.
+Dialogue: 0,0:14:12.13,0:14:14.05,Default,,0,0,0,,Ils l'appellent le Temple\Nde la vie.
+Dialogue: 0,0:14:14.14,0:14:15.55,Default,,0,0,0,,Mais c'est pas ce qu'on croit.
+Dialogue: 0,0:14:15.64,0:14:16.68,Default,,0,0,0,,- Oui, mais je dois y aller.
+Dialogue: 0,0:14:16.76,0:14:19.22,Default,,0,0,0,,- Je peux pas t'en empêcher.
+Dialogue: 0,0:14:19.31,0:14:21.44,Default,,0,0,0,,Fais ce que tu veux.
+Dialogue: 0,0:14:25.27,0:14:28.40,Default,,0,0,0,,- Voici ma nouvelle femme.
+Dialogue: 0,0:14:28.48,0:14:31.36,Default,,0,0,0,,Elle s'appelle Ash.
+Dialogue: 0,0:14:31.45,0:14:33.41,Default,,0,0,0,,Qui veut être le premier\Nà la connaître?
+Dialogue: 0,0:14:33.49,0:14:35.78,Default,,0,0,0,,- Tiens-la par la nuque,\Nje vais lui faire sa fête.
+Dialogue: 0,0:14:37.66,0:14:39.24,Default,,0,0,0,,- Va le voir.
+Dialogue: 0,0:14:55.59,0:14:57.22,Default,,0,0,0,,- Moi aussi, j'en veux.
+Dialogue: 0,0:14:57.30,0:14:59.31,Default,,0,0,0,,- Maintenant, tue-le.
+Dialogue: 0,0:15:17.53,0:15:19.74,Default,,0,0,0,,Viens là.
+Dialogue: 0,0:15:22.45,0:15:24.75,Default,,0,0,0,,- Il l'a bien mérité.
+Dialogue: 0,0:15:24.83,0:15:26.42,Default,,0,0,0,,- Excellent.
+Dialogue: 0,0:15:43.73,0:15:46.94,Default,,0,0,0,,- Allez, les enfants.
+Dialogue: 0,0:15:49.77,0:15:51.02,Default,,0,0,0,,- Maman?
+Dialogue: 0,0:15:54.57,0:15:56.11,Default,,0,0,0,,Je vais arranger tout ça.
+Dialogue: 0,0:15:57.57,0:15:59.62,Default,,0,0,0,,Je vais arranger tout ça.
+Dialogue: 0,0:16:10.50,0:16:11.75,Default,,0,0,0,,Hé?
+Dialogue: 0,0:16:11.84,0:16:14.51,Default,,0,0,0,,Tu sais que la reine va\Nmourir si tu me dis rien.
+Dialogue: 0,0:16:14.59,0:16:16.05,Default,,0,0,0,,Y a des médicaments là-bas?\N- Oui.
+Dialogue: 0,0:16:16.13,0:16:17.84,Default,,0,0,0,,- Des médicaments qui pourraient\Nlui sauver la vie.
+Dialogue: 0,0:16:17.93,0:16:19.55,Default,,0,0,0,,- Bien sûr.
+Dialogue: 0,0:16:19.64,0:16:20.80,Default,,0,0,0,,- Écoute, je m'en fous si c'est\Ndangereux d'y aller, d'accord.
+Dialogue: 0,0:16:20.89,0:16:21.93,Default,,0,0,0,,Dis-moi où est cet endroit.
+Dialogue: 0,0:16:22.01,0:16:23.35,Default,,0,0,0,,- Très bien, je vais te le dire.
+Dialogue: 0,0:16:23.43,0:16:24.52,Default,,0,0,0,,C'est au bord de l'océan mort.
+Dialogue: 0,0:16:24.60,0:16:26.48,Default,,0,0,0,,La douleur là-bas n'existe pas.
+Dialogue: 0,0:16:26.56,0:16:29.15,Default,,0,0,0,,Tu peux presque vivre à jamais.\N- Quoi, à jamais?
+Dialogue: 0,0:16:29.23,0:16:30.52,Default,,0,0,0,,- À jamais. Mais je t'assure
+Dialogue: 0,0:16:30.61,0:16:31.86,Default,,0,0,0,,que ce n'est pas l'endroit\Nque tu crois.
+Dialogue: 0,0:16:31.94,0:16:34.82,Default,,0,0,0,,- Dis-m'en plus.\N- D'accord.
+Dialogue: 0,0:16:34.90,0:16:36.86,Default,,0,0,0,,Tu suis l'étoile du Nord\Ntrois jours durant.
+Dialogue: 0,0:16:36.95,0:16:39.45,Default,,0,0,0,,Jusqu'à atteindre la forêt\Nde Néant.
+Dialogue: 0,0:16:39.53,0:16:41.62,Default,,0,0,0,,Et une fois arrivé là-bas,
+Dialogue: 0,0:16:41.70,0:16:44.41,Default,,0,0,0,,tu verras pas mal de gens.\NMais méfie-toi d'eux.
+Dialogue: 0,0:16:44.49,0:16:46.87,Default,,0,0,0,,Ils te diront comment arriver\Nau temple.
+Dialogue: 0,0:16:46.96,0:16:50.13,Default,,0,0,0,,Quand tu atteindras l'océan\Nmort, tu arriveras au temple.
+Dialogue: 0,0:16:54.34,0:16:55.80,Default,,0,0,0,,Ah.
+Dialogue: 0,0:17:02.22,0:17:03.93,Default,,0,0,0,,Tiens.
+Dialogue: 0,0:17:04.01,0:17:06.93,Default,,0,0,0,,Ça te sera utile.
+Dialogue: 0,0:17:07.02,0:17:08.81,Default,,0,0,0,,Et ça aussi.
+Dialogue: 0,0:17:12.31,0:17:14.23,Default,,0,0,0,,Bonne chance.
+Dialogue: 0,0:17:14.32,0:17:16.99,Default,,0,0,0,,Tsk. Tsk.
+Dialogue: 0,0:17:31.38,0:17:34.00,Default,,0,0,0,,- Je reviendrai vite, maman.
+Dialogue: 0,0:17:56.69,0:17:58.32,Default,,0,0,0,,- Je savais que\Nje te trouverais là.
+Dialogue: 0,0:17:58.40,0:17:59.86,Default,,0,0,0,,- Tu me convaincras pas\Nde rester, d'accord?
+Dialogue: 0,0:17:59.95,0:18:01.11,Default,,0,0,0,,- C'est pas mon plan.
+Dialogue: 0,0:18:01.20,0:18:02.82,Default,,0,0,0,,Tu vas avoir besoin d'aide\Nlà-bas.
+Dialogue: 0,0:18:02.91,0:18:03.91,Default,,0,0,0,,- On y va alors.
+Dialogue: 0,0:18:13.00,0:18:15.50,Default,,0,0,0,,Paradise Beach,
+Dialogue: 0,0:18:15.59,0:18:18.63,Default,,0,0,0,,un voyage de plus\Nde 1500 kilomètres.
+Dialogue: 0,0:18:20.47,0:18:22.55,Default,,0,0,0,,Le compagnon\Ndu prince, Rico,
+Dialogue: 0,0:18:22.63,0:18:26.89,Default,,0,0,0,,appelait cette route\Nla route de la Mort.
+Dialogue: 0,0:18:31.64,0:18:35.56,Default,,0,0,0,,Le prince était frappé\Npar cette nouvelle odeur,
+Dialogue: 0,0:18:35.65,0:18:36.98,Default,,0,0,0,,qui flottait constamment
+Dialogue: 0,0:18:37.07,0:18:41.15,Default,,0,0,0,,sur ces terres stériles.
+Dialogue: 0,0:18:41.24,0:18:45.32,Default,,0,0,0,,L'odeur de la chair humaine\Nqui brûle,
+Dialogue: 0,0:18:45.41,0:18:49.41,Default,,0,0,0,,de la graisse qui fond,
+Dialogue: 0,0:18:49.49,0:18:52.66,Default,,0,0,0,,le carburant des pilleurs.
+Dialogue: 0,0:19:23.57,0:19:25.86,Default,,0,0,0,,- Deux armes, dix cartouches.
+Dialogue: 0,0:19:25.95,0:19:27.70,Default,,0,0,0,,On a besoin de chacune d'elles.
+Dialogue: 0,0:19:30.95,0:19:34.83,Default,,0,0,0,,- Le vétéran nous a dit\Nde suivre l'étoile du Nord.
+Dialogue: 0,0:19:34.92,0:19:38.29,Default,,0,0,0,,On va voir où elle nous conduit.
+Dialogue: 0,0:19:45.51,0:19:46.68,Default,,0,0,0,,LA VILLE DE L'AMOUR
+Dialogue: 0,0:19:48.80,0:19:51.56,Default,,0,0,0,,- Oui, messieurs,
+Dialogue: 0,0:19:51.64,0:19:53.23,Default,,0,0,0,,toutes nos hôtesses sont là.
+Dialogue: 0,0:19:53.31,0:19:55.27,Default,,0,0,0,,Et elles ne demandent\Nqu'à s'occuper de vous.
+Dialogue: 0,0:19:55.35,0:19:57.06,Default,,0,0,0,,Bienvenue dans la ville\Nde l'amour.
+Dialogue: 0,0:19:57.15,0:20:01.11,Default,,0,0,0,,De nichon en nichon, on est\Ndevenus les meilleurs.
+Dialogue: 0,0:20:13.66,0:20:15.21,Default,,0,0,0,,Bienvenue dans la ville\Nde l'amour.
+Dialogue: 0,0:20:15.29,0:20:17.00,Default,,0,0,0,,Où tout peut arriver.
+Dialogue: 0,0:20:25.51,0:20:28.09,Default,,0,0,0,,- Il y a des robots comme moi?\N- Non.
+Dialogue: 0,0:20:28.18,0:20:31.30,Default,,0,0,0,,Ces salopes sont réelles.\NElles vont vieillir
+Dialogue: 0,0:20:31.39,0:20:34.02,Default,,0,0,0,,et devenir laides\Navant de crever.
+Dialogue: 0,0:20:34.10,0:20:37.48,Default,,0,0,0,,Toi, au contraire, tu resteras\Nparfaite pour toujours.
+Dialogue: 0,0:20:41.73,0:20:42.94,Default,,0,0,0,,- Regardez, ça doit être\Nl'endroit
+Dialogue: 0,0:20:43.02,0:20:45.69,Default,,0,0,0,,dont nous a parlé le vétéran.
+Dialogue: 0,0:20:55.37,0:20:58.71,Default,,0,0,0,,- On demande ce qu'on veut\Nsavoir et on s'en va.
+Dialogue: 0,0:21:00.71,0:21:02.67,Default,,0,0,0,,Et fais profil bas.
+Dialogue: 0,0:21:12.80,0:21:14.26,Default,,0,0,0,,- C'est quoi, cet endroit?
+Dialogue: 0,0:21:14.35,0:21:17.48,Default,,0,0,0,,- Les gens qui ne trouvent pas\Nl'amour en achètent ici.
+Dialogue: 0,0:21:34.37,0:21:36.33,Default,,0,0,0,,- Ouais!
+Dialogue: 0,0:21:37.50,0:21:40.00,Default,,0,0,0,,- Attention!
+Dialogue: 0,0:21:40.08,0:21:42.38,Default,,0,0,0,,Te laisse pas avoir.
+Dialogue: 0,0:21:45.05,0:21:47.42,Default,,0,0,0,,Reste avec moi.
+Dialogue: 0,0:21:48.76,0:21:49.93,Default,,0,0,0,,- Salut.
+Dialogue: 0,0:21:50.01,0:21:51.59,Default,,0,0,0,,Wow!
+Dialogue: 0,0:21:56.47,0:21:58.48,Default,,0,0,0,,- Vous avez l'air perdus,\Nles garçons.
+Dialogue: 0,0:21:58.56,0:22:00.85,Default,,0,0,0,,Qu'est-ce que je vous sers?\N- Un whisky.
+Dialogue: 0,0:22:00.94,0:22:03.52,Default,,0,0,0,,- Allez, asseyez-vous.
+Dialogue: 0,0:22:10.95,0:22:13.20,Default,,0,0,0,,- On veut juste savoir\Nquelque chose.
+Dialogue: 0,0:22:13.28,0:22:15.74,Default,,0,0,0,,- Et quoi au juste?
+Dialogue: 0,0:22:15.83,0:22:17.54,Default,,0,0,0,,- On doit aller\Nà Paradise Beach.
+Dialogue: 0,0:22:17.62,0:22:20.87,Default,,0,0,0,,Tu peux nous indiquer la route\Nà prendre?
+Dialogue: 0,0:22:20.96,0:22:23.75,Default,,0,0,0,,- Non, j'en ai jamais entendu\Nparler.
+Dialogue: 0,0:22:25.92,0:22:28.13,Default,,0,0,0,,Je vais demander ça à Big Daddy.
+Dialogue: 0,0:22:28.21,0:22:31.13,Default,,0,0,0,,Il connaît la Zone sinistrée\Ndans ses moindres recoins.
+Dialogue: 0,0:22:31.22,0:22:33.22,Default,,0,0,0,,- Je t'en serais reconnaissant.
+Dialogue: 0,0:22:33.30,0:22:35.72,Default,,0,0,0,,- Sers aux garçons ce qu'ils\Nveulent, je les invite.
+Dialogue: 0,0:22:35.80,0:22:38.89,Default,,0,0,0,,À tout de suite.
+Dialogue: 0,0:22:41.31,0:22:42.73,Default,,0,0,0,,- Elle va nous aider,\Nà ton avis?
+Dialogue: 0,0:22:42.81,0:22:43.73,Default,,0,0,0,,- J'en doute.
+Dialogue: 0,0:22:43.81,0:22:44.98,Default,,0,0,0,,- Hé, seigneur de la guerre,
+Dialogue: 0,0:22:45.06,0:22:48.19,Default,,0,0,0,,tu l'aimes, ta pute robotique,\Npas vrai?
+Dialogue: 0,0:22:50.44,0:22:51.78,Default,,0,0,0,,- Y a des gens
+Dialogue: 0,0:22:51.86,0:22:53.24,Default,,0,0,0,,qui veulent savoir quelque chose\Nsur Paradise Beach.
+Dialogue: 0,0:22:53.32,0:22:55.91,Default,,0,0,0,,- Et tu les as déjà vus?\N- Non, jamais.
+Dialogue: 0,0:22:55.99,0:22:58.62,Default,,0,0,0,,- Ces gars sont arrivés à moto.\NQu'est-ce que t'en penses?
+Dialogue: 0,0:22:58.70,0:23:01.04,Default,,0,0,0,,- Bien, faut croire\Nqu'ils sont pas d'ici.
+Dialogue: 0,0:23:01.12,0:23:02.79,Default,,0,0,0,,- Dis, t'oublies pas\Nquelque chose?
+Dialogue: 0,0:23:02.87,0:23:05.50,Default,,0,0,0,,- Je suis désolée, Daddy.\NJ'allais te le--
+Dialogue: 0,0:23:07.34,0:23:09.05,Default,,0,0,0,,- Tu te crois maligne,\Npas vrai, ma salope?
+Dialogue: 0,0:23:09.13,0:23:11.76,Default,,0,0,0,,J'ai des yeux dans tous\Nles recoins de ce trou à rats.
+Dialogue: 0,0:23:11.84,0:23:13.43,Default,,0,0,0,,Alors, donne-moi ça.
+Dialogue: 0,0:23:13.51,0:23:16.39,Default,,0,0,0,,Maintenant, dégage et va servir\Nces crétins.
+Dialogue: 0,0:23:17.51,0:23:19.68,Default,,0,0,0,,Prêts à accueillir\Nles nouvelles salopes?
+Dialogue: 0,0:23:19.76,0:23:21.98,Default,,0,0,0,,Allons-y.
+Dialogue: 0,0:23:22.06,0:23:24.52,Default,,0,0,0,,Petite cochonne.
+Dialogue: 0,0:23:29.57,0:23:32.15,Default,,0,0,0,,- Ma famille est morte à cause\Nde la fièvre.
+Dialogue: 0,0:23:32.24,0:23:35.49,Default,,0,0,0,,J'ai rien pu faire.
+Dialogue: 0,0:23:35.57,0:23:37.66,Default,,0,0,0,,C'est pas\Nparce que quelqu'un est mort
+Dialogue: 0,0:23:37.74,0:23:41.29,Default,,0,0,0,,qu'il continue pas\Nd'être avec toi.
+Dialogue: 0,0:23:41.37,0:23:43.58,Default,,0,0,0,,- Alors, les gars, on s'amuse?
+Dialogue: 0,0:23:43.66,0:23:45.54,Default,,0,0,0,,Tu veux une petite danse aussi,\Nmon mignon?
+Dialogue: 0,0:23:45.62,0:23:47.21,Default,,0,0,0,,- Non, ça ira. Ça ira. Ça ira.
+Dialogue: 0,0:23:47.29,0:23:49.38,Default,,0,0,0,,- Nos filles sont pas assez\Njolies pour vous?
+Dialogue: 0,0:23:49.46,0:23:51.80,Default,,0,0,0,,Vous préférez peut-être sucer\Ndes queues?
+Dialogue: 0,0:23:51.88,0:23:53.13,Default,,0,0,0,,- On veut pas de problème!
+Dialogue: 0,0:23:53.21,0:23:54.51,Default,,0,0,0,,- D'habitude, c'est gratuit\Npour les enfants.
+Dialogue: 0,0:23:54.59,0:23:57.26,Default,,0,0,0,,Mais ce soir, j'ai comme envie\Nde vous faire cracher.
+Dialogue: 0,0:23:57.34,0:23:59.35,Default,,0,0,0,,- Hé, laisse-nous tranquilles,\NOK.
+Dialogue: 0,0:23:59.43,0:24:01.14,Default,,0,0,0,,- Ferme ta grande gueule.\N- Range le couteau, allez.
+Dialogue: 0,0:24:01.22,0:24:03.48,Default,,0,0,0,,- Quand je veux quelque chose,\Nje le prends. Entendu?
+Dialogue: 0,0:24:03.56,0:24:04.81,Default,,0,0,0,,On y est?
+Dialogue: 0,0:24:04.89,0:24:06.27,Default,,0,0,0,,Tu comptes m'en empêcher?
+Dialogue: 0,0:24:07.48,0:24:09.31,Default,,0,0,0,,Ha! Ha! Ha!
+Dialogue: 0,0:24:11.44,0:24:13.53,Default,,0,0,0,,Arrête, t'as même pas\Nde cartouche.
+Dialogue: 0,0:24:15.28,0:24:16.74,Default,,0,0,0,,- Toi, recule. Recule.\N- Du calme.
+Dialogue: 0,0:24:16.82,0:24:18.70,Default,,0,0,0,,- Ou je m'occupe de toi.\N- D'où elles sortent,
+Dialogue: 0,0:24:18.78,0:24:19.99,Default,,0,0,0,,ces cartouches, putain?
+Dialogue: 0,0:24:20.08,0:24:22.41,Default,,0,0,0,,- Ça fait un bail\Nqu'on n'en voit plus.
+Dialogue: 0,0:24:26.37,0:24:27.50,Default,,0,0,0,,- Restons pas ici.
+Dialogue: 0,0:24:29.13,0:24:31.25,Default,,0,0,0,,- Les gars, on dirait\Nque les présentations,
+Dialogue: 0,0:24:31.34,0:24:32.88,Default,,0,0,0,,c'est pas votre truc.
+Dialogue: 0,0:24:32.96,0:24:34.26,Default,,0,0,0,,J'adore votre style,\Nvous savez.
+Dialogue: 0,0:24:34.34,0:24:35.84,Default,,0,0,0,,Mais vous devriez baisser\Ncette arme,
+Dialogue: 0,0:24:35.92,0:24:37.59,Default,,0,0,0,,c'est un endroit calme ici.
+Dialogue: 0,0:24:37.68,0:24:40.18,Default,,0,0,0,,Maintenant, tout le monde\Nà son poste.
+Dialogue: 0,0:24:41.60,0:24:43.10,Default,,0,0,0,,D'accord, non seulement\Nje suis le propriétaire
+Dialogue: 0,0:24:43.18,0:24:44.97,Default,,0,0,0,,de ce bel établissement,
+Dialogue: 0,0:24:45.06,0:24:47.31,Default,,0,0,0,,mais je suis aussi\Nce qu'on pourrait surnommer
+Dialogue: 0,0:24:47.39,0:24:48.60,Default,,0,0,0,,un fournisseur de bon temps.
+Dialogue: 0,0:24:48.69,0:24:50.40,Default,,0,0,0,,- Moi, j'appelle ça\Nun proxénète.
+Dialogue: 0,0:24:50.48,0:24:53.07,Default,,0,0,0,,- Quand tu dis ça, on dirait pas\Nque c'est un truc positif.
+Dialogue: 0,0:24:53.15,0:24:54.36,Default,,0,0,0,,- Allons-y.
+Dialogue: 0,0:24:54.44,0:24:56.15,Default,,0,0,0,,- Un mac, c'est ce qu'il y a\Nde plus solitaire
+Dialogue: 0,0:24:56.24,0:24:57.57,Default,,0,0,0,,dans la zone sinistrée.
+Dialogue: 0,0:24:57.65,0:25:00.03,Default,,0,0,0,,Impossible de faire confiance\Nà ces filles.
+Dialogue: 0,0:25:00.12,0:25:03.79,Default,,0,0,0,,Bon alors, vous vous en allez\Nsans faire votre affaire?
+Dialogue: 0,0:25:03.87,0:25:05.87,Default,,0,0,0,,- En fait, on veut aller\Nà Paradise Beach.
+Dialogue: 0,0:25:05.95,0:25:07.25,Default,,0,0,0,,On dit qu'ils ont\Ndes médicaments.
+Dialogue: 0,0:25:07.33,0:25:09.08,Default,,0,0,0,,- La ville de la drogue,\Ncomme on dit.
+Dialogue: 0,0:25:09.17,0:25:10.71,Default,,0,0,0,,- Vous pouvez nous y conduire?\N- Ecoute, mon gars,
+Dialogue: 0,0:25:10.79,0:25:13.00,Default,,0,0,0,,c'est loin d'être un endroit\Nrecommandable.
+Dialogue: 0,0:25:13.09,0:25:14.42,Default,,0,0,0,,Mais si je vous aide,
+Dialogue: 0,0:25:14.50,0:25:16.21,Default,,0,0,0,,c'est comme si je me purgeais,\Ndans le fond.
+Dialogue: 0,0:25:16.30,0:25:19.01,Default,,0,0,0,,Qu'est-ce que j'y gagnerais,\Nles cowboys?
+Dialogue: 0,0:25:26.39,0:25:28.85,Default,,0,0,0,,Donc, maintenant,\Non est associés.
+Dialogue: 0,0:25:28.94,0:25:30.90,Default,,0,0,0,,Et je connais quelqu'un\Nqui va vous y conduire.
+Dialogue: 0,0:25:30.98,0:25:32.61,Default,,0,0,0,,Si vous voyez ce que\Nje veux dire.
+Dialogue: 0,0:25:32.69,0:25:34.82,Default,,0,0,0,,- Hé, t'es sûr que\Ntu veux faire ça?
+Dialogue: 0,0:25:34.90,0:25:36.48,Default,,0,0,0,,- Voyons un peu\Nce qu'il a à dire.
+Dialogue: 0,0:25:36.57,0:25:40.53,Default,,0,0,0,,- Calme ton ami. Ça va.\NViens, mon vieux. Suis-moi.
+Dialogue: 0,0:25:51.00,0:25:51.96,Default,,0,0,0,,Dites, les gars, vous devriez
+Dialogue: 0,0:25:52.04,0:25:53.42,Default,,0,0,0,,vous sentir vraiment spéciaux.
+Dialogue: 0,0:25:53.50,0:25:55.71,Default,,0,0,0,,Vous voyez, j'emmène jamais\Npersonne par là.
+Dialogue: 0,0:25:55.80,0:25:59.13,Default,,0,0,0,,Oui, et j'appelle ça le panthéon\Ndes salopes.
+Dialogue: 0,0:25:59.22,0:26:01.38,Default,,0,0,0,,T'es à la hauteur, j'espère.
+Dialogue: 0,0:26:01.47,0:26:02.68,Default,,0,0,0,,Allez, rentre par ici, suis-moi.
+Dialogue: 0,0:26:02.76,0:26:04.76,Default,,0,0,0,,J'ai quelque chose\Nde spécial pour toi.
+Dialogue: 0,0:26:04.85,0:26:06.81,Default,,0,0,0,,Attends une minute, putain.\NC'est quoi, tout ça?
+Dialogue: 0,0:26:06.89,0:26:07.77,Default,,0,0,0,,Hein, ma salope?
+Dialogue: 0,0:26:07.85,0:26:10.60,Default,,0,0,0,,Va voir ailleurs si j'y suis.
+Dialogue: 0,0:26:10.69,0:26:13.40,Default,,0,0,0,,C'est quoi, votre problème,\Nmerde?
+Dialogue: 0,0:26:13.48,0:26:15.36,Default,,0,0,0,,C'est pas vrai, putain!
+Dialogue: 0,0:26:15.44,0:26:17.32,Default,,0,0,0,,Je vais te demander de partir,\Ntoi.
+Dialogue: 0,0:26:17.40,0:26:19.15,Default,,0,0,0,,- Le petit doit rester\Ndans mon champ de vision.
+Dialogue: 0,0:26:19.24,0:26:21.36,Default,,0,0,0,,- Hé, mon gars,\Nla fille est timide.
+Dialogue: 0,0:26:21.45,0:26:23.24,Default,,0,0,0,,Alors, si vous voulez aller\Nà Paradise Beach,
+Dialogue: 0,0:26:23.32,0:26:26.12,Default,,0,0,0,,va falloir qu'il lui parle\Net qu'il lui parle tout seul.
+Dialogue: 0,0:26:26.20,0:26:27.37,Default,,0,0,0,,- Rico,
+Dialogue: 0,0:26:27.45,0:26:29.45,Default,,0,0,0,,c'est bon.
+Dialogue: 0,0:26:30.91,0:26:32.17,Default,,0,0,0,,- Garde ça au moins.
+Dialogue: 0,0:26:32.25,0:26:34.38,Default,,0,0,0,,- Oh, tu vas donner une arme\Nà ton ami.
+Dialogue: 0,0:26:34.46,0:26:36.25,Default,,0,0,0,,T'as une couverture\Npour lui aussi?
+Dialogue: 0,0:26:36.34,0:26:39.67,Default,,0,0,0,,Oh, tu joues les durs,\Nles cowboys, hein.
+Dialogue: 0,0:26:39.76,0:26:42.05,Default,,0,0,0,,Je t'ai dit que j'aimais\Nvotre style?
+Dialogue: 0,0:26:42.13,0:26:43.64,Default,,0,0,0,,Viens, mon petit gars,\Nécoute ça.
+Dialogue: 0,0:26:43.72,0:26:45.76,Default,,0,0,0,,Je veux que tu t'amuses\Net que tu te relaxes.
+Dialogue: 0,0:26:45.85,0:26:47.39,Default,,0,0,0,,T'es entre de bonnes mains.
+Dialogue: 0,0:26:47.47,0:26:50.31,Default,,0,0,0,,Bienvenue au paradis.
+Dialogue: 0,0:26:50.39,0:26:52.81,Default,,0,0,0,,Ah oui, au fait,\Nencore une chose.
+Dialogue: 0,0:26:52.89,0:26:55.61,Default,,0,0,0,,N'aie pas peur du danger,\Nt'entends.
+Dialogue: 0,0:26:55.69,0:26:58.73,Default,,0,0,0,,Parce qu'il est partout autour\Nde toi.
+Dialogue: 0,0:27:08.49,0:27:11.58,Default,,0,0,0,,- En quoi puis-je t'aider?
+Dialogue: 0,0:27:11.66,0:27:14.46,Default,,0,0,0,,- Je suis à la recherche\Nde Paradise Beach.
+Dialogue: 0,0:27:14.54,0:27:16.71,Default,,0,0,0,,- Paradise Beach?
+Dialogue: 0,0:27:16.79,0:27:18.25,Default,,0,0,0,,- Oui.
+Dialogue: 0,0:27:18.34,0:27:20.92,Default,,0,0,0,,Oui, ma mère est souffrante.
+Dialogue: 0,0:27:21.01,0:27:23.05,Default,,0,0,0,,- Elle est en danger, pas vrai?
+Dialogue: 0,0:27:25.47,0:27:27.80,Default,,0,0,0,,- Oui et j'ai pas beaucoup\Nde temps, en plus.
+Dialogue: 0,0:27:28.76,0:27:30.89,Default,,0,0,0,,- Je veux t'aider.
+Dialogue: 0,0:27:35.31,0:27:37.44,Default,,0,0,0,,Tu es bon.
+Dialogue: 0,0:27:37.52,0:27:41.78,Default,,0,0,0,,Je le vois dans tes yeux.\N- Qui es-tu?
+Dialogue: 0,0:27:41.86,0:27:43.36,Default,,0,0,0,,- Je m'appelle Ash.
+Dialogue: 0,0:27:45.41,0:27:47.82,Default,,0,0,0,,- Tes yeux...
+Dialogue: 0,0:27:47.91,0:27:51.24,Default,,0,0,0,,- Ferme-la et passe à l'action.\N- Oui.
+Dialogue: 0,0:27:51.33,0:27:55.62,Default,,0,0,0,,- Alors... tu...\Ntu n'es pas humaine.
+Dialogue: 0,0:27:55.71,0:27:58.29,Default,,0,0,0,,- Aussi humaine que tu ne l'es.
+Dialogue: 0,0:27:59.96,0:28:03.84,Default,,0,0,0,,- Et est-ce que tu vois?\N- Je te vois.
+Dialogue: 0,0:28:06.09,0:28:09.01,Default,,0,0,0,,- Et est-ce que tu sens\Nles sentiments?
+Dialogue: 0,0:28:13.22,0:28:16.02,Default,,0,0,0,,- Je te sens, toi.
+Dialogue: 0,0:29:11.37,0:29:13.91,Default,,0,0,0,,- Oh putain!\NÇa, c'est une salope!
+Dialogue: 0,0:29:13.99,0:29:16.95,Default,,0,0,0,,- Amène-le-moi.\N- Putain!
+Dialogue: 0,0:29:17.04,0:29:19.17,Default,,0,0,0,,Moi aussi,\Nje veux ma pute robotique.
+Dialogue: 0,0:29:27.63,0:29:30.18,Default,,0,0,0,,- Amène-le par ici.
+Dialogue: 0,0:29:32.68,0:29:35.35,Default,,0,0,0,,Reste tranquille.\N- Lâchez-moi, merde!
+Dialogue: 0,0:29:37.06,0:29:38.31,Default,,0,0,0,,Arrêtez!
+Dialogue: 0,0:29:41.52,0:29:42.94,Default,,0,0,0,,Rico!\N- Wô!
+Dialogue: 0,0:29:43.02,0:29:44.98,Default,,0,0,0,,- Rico!\N- Attachez-le.
+Dialogue: 0,0:29:45.07,0:29:46.78,Default,,0,0,0,,- Rico!
+Dialogue: 0,0:29:47.90,0:29:48.90,Default,,0,0,0,,Pourquoi vous avez tué Rico?
+Dialogue: 0,0:29:48.99,0:29:51.49,Default,,0,0,0,,- Apporte-moi l'arme.
+Dialogue: 0,0:29:55.12,0:29:57.04,Default,,0,0,0,,D'où tu sors ces cartouches?
+Dialogue: 0,0:29:58.41,0:30:02.04,Default,,0,0,0,,Tu viens d'où, petit?
+Dialogue: 0,0:30:02.13,0:30:04.38,Default,,0,0,0,,Maintenant, fais-le monter.
+Dialogue: 0,0:30:05.75,0:30:08.55,Default,,0,0,0,,- Qu'est-ce que tu fais?\N- Fais-le voler.
+Dialogue: 0,0:30:15.01,0:30:16.51,Default,,0,0,0,,- Tu vas parler?
+Dialogue: 0,0:30:20.94,0:30:22.94,Default,,0,0,0,,Redescends-le.
+Dialogue: 0,0:30:27.02,0:30:29.53,Default,,0,0,0,,Tu viens d'où, petit?
+Dialogue: 0,0:30:31.45,0:30:34.07,Default,,0,0,0,,Remonte-le.
+Dialogue: 0,0:30:35.70,0:30:38.37,Default,,0,0,0,,T'as intérêt à chanter,\Npetit oiseau.
+Dialogue: 0,0:30:38.45,0:30:42.79,Default,,0,0,0,,T'as intérêt à chanter!!!
+Dialogue: 0,0:30:42.87,0:30:43.83,Default,,0,0,0,,C'est bon,
+Dialogue: 0,0:30:43.92,0:30:45.33,Default,,0,0,0,,redescends-le.
+Dialogue: 0,0:30:46.50,0:30:50.34,Default,,0,0,0,,Voilà.
+Dialogue: 0,0:30:50.42,0:30:53.89,Default,,0,0,0,,- L'oasis.\N- De l'oasis.
+Dialogue: 0,0:30:53.97,0:30:56.18,Default,,0,0,0,,- Oui.\N- Vous avez d'autres cartouches?
+Dialogue: 0,0:30:56.26,0:31:00.14,Default,,0,0,0,,- Oui.\N- Tu vas nous y conduire, non?
+Dialogue: 0,0:31:00.22,0:31:04.23,Default,,0,0,0,,- Va te faire foutre.\N- On le remonte.
+Dialogue: 0,0:31:06.31,0:31:10.90,Default,,0,0,0,,Vas-tu te mettre à chanter,\Npetit oiseau?
+Dialogue: 0,0:31:10.99,0:31:14.82,Default,,0,0,0,,Tu tiendras jamais.
+Dialogue: 0,0:31:18.45,0:31:20.41,Default,,0,0,0,,- Je vais parler.\NFais-moi descendre.
+Dialogue: 0,0:31:20.50,0:31:23.58,Default,,0,0,0,,- Redescends-le.
+Dialogue: 0,0:31:27.17,0:31:32.47,Default,,0,0,0,,T'es une vraie salope.
+Dialogue: 0,0:31:44.69,0:31:46.31,Default,,0,0,0,,- Réveille-toi.
+Dialogue: 0,0:31:46.40,0:31:48.61,Default,,0,0,0,,Lève-toi. Lève-toi!
+Dialogue: 0,0:31:58.70,0:32:02.95,Default,,0,0,0,,- Allons-y, bébé.
+Dialogue: 0,0:32:03.04,0:32:04.08,Default,,0,0,0,,On décolle!
+Dialogue: 0,0:32:31.90,0:32:34.11,Default,,0,0,0,,On roule\Nen direction
+Dialogue: 0,0:32:34.19,0:32:36.74,Default,,0,0,0,,du pays natal du prince.
+Dialogue: 0,0:32:40.16,0:32:41.49,Default,,0,0,0,,Le seigneur de guerre\Nviolerait
+Dialogue: 0,0:32:41.58,0:32:44.12,Default,,0,0,0,,et tuerait tout le monde\Ndans l'oasis.
+Dialogue: 0,0:32:45.87,0:32:48.21,Default,,0,0,0,,C'est à ce moment\Nque je me suis rendu compte
+Dialogue: 0,0:32:48.29,0:32:51.17,Default,,0,0,0,,à quel point\Nj'étais différente.
+Dialogue: 0,0:32:52.25,0:32:54.46,Default,,0,0,0,,Mais d'abord,
+Dialogue: 0,0:32:54.55,0:32:57.59,Default,,0,0,0,,je devais rétablir\Nl'ordre des choses.
+Dialogue: 0,0:32:59.51,0:33:00.60,Default,,0,0,0,,- Qu'est-ce que tu fous?
+Dialogue: 0,0:33:10.44,0:33:12.02,Default,,0,0,0,,- Ah!!!
+Dialogue: 0,0:33:38.47,0:33:39.63,Default,,0,0,0,,- Reviens!
+Dialogue: 0,0:33:41.05,0:33:41.89,Default,,0,0,0,,Reviens!
+Dialogue: 0,0:33:41.97,0:33:44.22,Default,,0,0,0,,- Ah!
+Dialogue: 0,0:33:48.52,0:33:50.85,Default,,0,0,0,,- Reviens, espèce de salope!
+Dialogue: 0,0:33:50.94,0:33:52.06,Default,,0,0,0,,Fais chier, merde!
+Dialogue: 0,0:34:39.40,0:34:41.28,Default,,0,0,0,,- Wouh!\N- Viens!
+Dialogue: 0,0:35:16.48,0:35:19.94,Default,,0,0,0,,- Ils sont là!\NAttrapez-les! Attrapez-les!
+Dialogue: 0,0:35:52.39,0:35:55.64,Default,,0,0,0,,- Ils sont passés où?\N- Et merde!
+Dialogue: 0,0:35:58.90,0:36:00.61,Default,,0,0,0,,Reviens!
+Dialogue: 0,0:36:02.82,0:36:04.82,Default,,0,0,0,,Reviens!
+Dialogue: 0,0:36:07.62,0:36:10.24,Default,,0,0,0,,Reviens, espèce de sale robot\Nde merde!
+Dialogue: 0,0:36:16.92,0:36:19.38,Default,,0,0,0,,Reviens, merde!
+Dialogue: 0,0:37:35.83,0:37:38.75,Default,,0,0,0,,- Pourquoi tu m'as sauvé?
+Dialogue: 0,0:37:38.83,0:37:41.96,Default,,0,0,0,,- Je ne sais pas.
+Dialogue: 0,0:37:42.04,0:37:44.09,Default,,0,0,0,,- Il te contrôle, pas vrai?
+Dialogue: 0,0:37:46.13,0:37:48.13,Default,,0,0,0,,- Oui.
+Dialogue: 0,0:37:48.22,0:37:50.47,Default,,0,0,0,,- Alors, pourquoi\Ntu lui obéis pas?
+Dialogue: 0,0:37:52.34,0:37:54.51,Default,,0,0,0,,- Peut-être que je suis\Ndéfaillante.
+Dialogue: 0,0:38:19.08,0:38:21.29,Default,,0,0,0,,- Ah!
+Dialogue: 0,0:39:27.56,0:39:29.53,Default,,0,0,0,,- C'est quoi, cet endroit?
+Dialogue: 0,0:39:29.61,0:39:32.24,Default,,0,0,0,,- Je crois que c'est une église.
+Dialogue: 0,0:39:32.32,0:39:35.03,Default,,0,0,0,,Ma mère m'a parlé d'endroits\Ncomme celui-là.
+Dialogue: 0,0:39:35.11,0:39:36.49,Default,,0,0,0,,Les gens venaient ici
+Dialogue: 0,0:39:36.57,0:39:38.37,Default,,0,0,0,,quand leur âme avait besoin\Nd'être purifiée.
+Dialogue: 0,0:39:38.45,0:39:40.74,Default,,0,0,0,,- Leur âme?!
+Dialogue: 0,0:39:40.83,0:39:43.62,Default,,0,0,0,,C'est quoi, une âme?
+Dialogue: 0,0:39:43.71,0:39:46.75,Default,,0,0,0,,- Une âme?
+Dialogue: 0,0:39:46.83,0:39:48.75,Default,,0,0,0,,C'est difficile\Nà expliquer en fait.
+Dialogue: 0,0:39:48.84,0:39:50.71,Default,,0,0,0,,C'est quelque chose\Nà l'intérieur de toi
+Dialogue: 0,0:39:50.80,0:39:52.84,Default,,0,0,0,,qui fait que tu es toi.
+Dialogue: 0,0:39:55.18,0:40:00.18,Default,,0,0,0,,Allez. Encore un effort.\NAssieds-toi là.
+Dialogue: 0,0:40:06.69,0:40:10.32,Default,,0,0,0,,Avant, les gens venaient ici\Npour parler à Dieu.
+Dialogue: 0,0:40:10.40,0:40:13.03,Default,,0,0,0,,Et pour laver leurs péchés.
+Dialogue: 0,0:40:13.11,0:40:15.20,Default,,0,0,0,,- Qu'est-ce que c'est?
+Dialogue: 0,0:40:15.28,0:40:17.57,Default,,0,0,0,,- Les péchés? Ce sont...
+Dialogue: 0,0:40:17.66,0:40:20.62,Default,,0,0,0,,les mauvaises actions\Nqu'on inflige aux autres.
+Dialogue: 0,0:40:20.70,0:40:23.87,Default,,0,0,0,,- Comme ce que je t'ai fait.
+Dialogue: 0,0:40:23.95,0:40:27.96,Default,,0,0,0,,Maintenant, je ne veux plus\Nle faire.
+Dialogue: 0,0:40:28.04,0:40:30.46,Default,,0,0,0,,Fini, les péchés.
+Dialogue: 0,0:40:33.21,0:40:37.30,Default,,0,0,0,,Tu crois que j'ai une âme?\N- Oui.
+Dialogue: 0,0:40:37.38,0:40:40.60,Default,,0,0,0,,Oui, je crois que oui.\N- Mais je ne suis pas humaine.
+Dialogue: 0,0:40:48.23,0:40:49.98,Default,,0,0,0,,- Tu sais, un jour, un voyageur
+Dialogue: 0,0:40:50.06,0:40:52.82,Default,,0,0,0,,a joué de la guitare pour moi\Ndans l'oasis.
+Dialogue: 0,0:40:52.90,0:40:57.32,Default,,0,0,0,,J'avais jamais entendu quelque\Nchose comme ça auparavant.
+Dialogue: 0,0:40:57.40,0:41:01.03,Default,,0,0,0,,C'était... incroyable.
+Dialogue: 0,0:41:02.99,0:41:03.91,Default,,0,0,0,,On aurait dit
+Dialogue: 0,0:41:03.99,0:41:05.54,Default,,0,0,0,,que ça venait d'un autre monde.
+Dialogue: 0,0:41:05.62,0:41:08.08,Default,,0,0,0,,« Pourquoi\Ntu joues de la musique? »
+Dialogue: 0,0:41:08.17,0:41:10.88,Default,,0,0,0,,Il m'a dit que sa raison d'être\Nsur Terre était de prouver
+Dialogue: 0,0:41:10.96,0:41:12.34,Default,,0,0,0,,qu'une guitare avait une âme.
+Dialogue: 0,0:41:12.42,0:41:15.51,Default,,0,0,0,,- Est-ce que tu peux m'apprendre\Nà parler à Dieu?
+Dialogue: 0,0:41:15.59,0:41:18.09,Default,,0,0,0,,- Oui.
+Dialogue: 0,0:41:22.72,0:41:24.97,Default,,0,0,0,,Mettons-nous à genoux.
+Dialogue: 0,0:41:31.31,0:41:33.27,Default,,0,0,0,,Et...
+Dialogue: 0,0:41:33.36,0:41:35.98,Default,,0,0,0,,ferme les yeux.
+Dialogue: 0,0:41:40.82,0:41:43.53,Default,,0,0,0,,Demande à...
+Dialogue: 0,0:41:43.62,0:41:45.37,Default,,0,0,0,,à Dieu de nous aider.
+Dialogue: 0,0:41:52.46,0:41:54.04,Default,,0,0,0,,Ash?
+Dialogue: 0,0:41:55.00,0:41:56.38,Default,,0,0,0,,Ash?
+Dialogue: 0,0:41:58.72,0:42:00.76,Default,,0,0,0,,Ash, est-ce que ça va?
+Dialogue: 0,0:42:02.09,0:42:03.93,Default,,0,0,0,,Ash, lève-toi.
+Dialogue: 0,0:42:06.81,0:42:08.10,Default,,0,0,0,,Ash...
+Dialogue: 0,0:42:09.18,0:42:11.27,Default,,0,0,0,,Ash?
+Dialogue: 0,0:45:08.49,0:45:10.82,Default,,0,0,0,,C'est réel.
+Dialogue: 0,0:45:10.91,0:45:13.95,Default,,0,0,0,,C'est réel!
+Dialogue: 0,0:45:14.04,0:45:15.87,Default,,0,0,0,,Ash!
+Dialogue: 0,0:45:24.67,0:45:27.17,Default,,0,0,0,,Cet endroit existe.
+Dialogue: 0,0:45:27.26,0:45:29.72,Default,,0,0,0,,On a réussi.
+Dialogue: 0,0:45:43.90,0:45:46.44,Default,,0,0,0,,- À genoux, allez!
+Dialogue: 0,0:45:52.49,0:45:55.41,Default,,0,0,0,,Ah!
+Dialogue: 0,0:46:24.02,0:46:25.32,Default,,0,0,0,,- Bouh!
+Dialogue: 0,0:46:25.40,0:46:28.61,Default,,0,0,0,,Oh! Dis, je t'ai fait peur?
+Dialogue: 0,0:46:28.69,0:46:30.82,Default,,0,0,0,,- T'es qui, toi?
+Dialogue: 0,0:46:30.90,0:46:33.16,Default,,0,0,0,,Où est Ash?\N- Tu veux jouer à un petit jeu?
+Dialogue: 0,0:46:33.24,0:46:34.78,Default,,0,0,0,,Ouais. Les garçons aiment\Nles jeux, pas vrai?
+Dialogue: 0,0:46:34.87,0:46:36.41,Default,,0,0,0,,- Non, je veux pas jouer, je--\N- Chut!
+Dialogue: 0,0:46:36.49,0:46:39.83,Default,,0,0,0,,Donc, voici les règles.\NTu poses une question
+Dialogue: 0,0:46:39.91,0:46:44.84,Default,,0,0,0,,et je pose une question.\NÇ'a l'air marrant, non?
+Dialogue: 0,0:46:44.92,0:46:49.42,Default,,0,0,0,,Alors? Qui es-tu?
+Dialogue: 0,0:46:49.51,0:46:51.51,Default,,0,0,0,,- Je suis Prince.
+Dialogue: 0,0:46:51.59,0:46:54.85,Default,,0,0,0,,- Attends une seconde.\NEn vrai, t'es un prince?
+Dialogue: 0,0:46:54.93,0:46:56.39,Default,,0,0,0,,Wow!
+Dialogue: 0,0:46:56.47,0:46:58.22,Default,,0,0,0,,Je suis en présence\Nde Sa Majesté?
+Dialogue: 0,0:46:58.31,0:47:00.68,Default,,0,0,0,,- Toi, t'es qui?\N- Eh bien, tu vois,
+Dialogue: 0,0:47:00.77,0:47:04.02,Default,,0,0,0,,ça, c'est mi casa.\NEt la patronne, c'est moi.
+Dialogue: 0,0:47:04.10,0:47:06.86,Default,,0,0,0,,- Ici, c'est le Temple\Nde la Vie? C'est ça?
+Dialogue: 0,0:47:06.94,0:47:11.99,Default,,0,0,0,,- Oh! Wow! Oh merde! Wow!\NParadise Beach?
+Dialogue: 0,0:47:12.07,0:47:14.87,Default,,0,0,0,,Qu'est-ce que c'est joli,\Nputain!
+Dialogue: 0,0:47:14.95,0:47:17.16,Default,,0,0,0,,Mais, malheureusement pour toi,\Nmon petit,
+Dialogue: 0,0:47:17.24,0:47:18.83,Default,,0,0,0,,ici, c'est pas le paradis.
+Dialogue: 0,0:47:18.91,0:47:21.96,Default,,0,0,0,,Ici... c'est...
+Dialogue: 0,0:47:22.04,0:47:24.71,Default,,0,0,0,,la ville de la drogue!
+Dialogue: 0,0:47:38.14,0:47:40.64,Default,,0,0,0,,- Joli modèle!
+Dialogue: 0,0:47:50.48,0:47:53.36,Default,,0,0,0,,Ah! Qu'est-ce qu'on a là?
+Dialogue: 0,0:47:54.49,0:47:56.53,Default,,0,0,0,,- Le Temple de la Vie,\Nj'avoue que ça fonctionne,
+Dialogue: 0,0:47:56.62,0:47:58.53,Default,,0,0,0,,ça attire les gens,\Nmais tu sais quoi?
+Dialogue: 0,0:47:58.62,0:48:00.83,Default,,0,0,0,,Tout ça, c'est mieux que la vie,\Nmon grand!
+Dialogue: 0,0:48:00.91,0:48:02.41,Default,,0,0,0,,Y a pas de douleur.\NQue du bonheur!
+Dialogue: 0,0:48:02.50,0:48:04.54,Default,,0,0,0,,où d'autre\Ntu vas trouver ça
+Dialogue: 0,0:48:04.62,0:48:06.42,Default,,0,0,0,,dans un monde\Naussi pourri?
+Dialogue: 0,0:48:06.50,0:48:09.75,Default,,0,0,0,,Alors, tu fais l'expérience de la\NZone sinistrée en touriste ou...
+Dialogue: 0,0:48:09.84,0:48:12.76,Default,,0,0,0,,ou t'es à la recherche\Nde quelque chose d'autre?
+Dialogue: 0,0:48:12.84,0:48:14.47,Default,,0,0,0,,- On dit que vous avez\Ndes remèdes ici.
+Dialogue: 0,0:48:14.55,0:48:16.97,Default,,0,0,0,,- Exact, ouais.\NPlein de remèdes.
+Dialogue: 0,0:48:17.05,0:48:20.43,Default,,0,0,0,,Des tonnes.\N- Ma mère,
+Dialogue: 0,0:48:20.51,0:48:23.10,Default,,0,0,0,,elle est malade.\NElle a la fièvre rouge.
+Dialogue: 0,0:48:23.18,0:48:27.15,Default,,0,0,0,,- Une terrible maladie, je sais.\NJe suis navrée pour toi.
+Dialogue: 0,0:48:27.23,0:48:29.27,Default,,0,0,0,,Mais ce remède en particulier,
+Dialogue: 0,0:48:29.36,0:48:32.11,Default,,0,0,0,,tu vois, c'est assez dur de mettre\Nla main dessus ces temps-ci.
+Dialogue: 0,0:48:32.19,0:48:34.99,Default,,0,0,0,,- Donc, vous ne l'avez pas.
+Dialogue: 0,0:48:35.07,0:48:38.16,Default,,0,0,0,,- Si, on l'a. Allez, viens.
+Dialogue: 0,0:48:39.37,0:48:42.29,Default,,0,0,0,,Nous y voilà!\NOK, alors, c'est ici...
+Dialogue: 0,0:48:42.37,0:48:44.25,Default,,0,0,0,,que tu vas obtenir\Nton médicament, Prince.
+Dialogue: 0,0:48:44.33,0:48:45.46,Default,,0,0,0,,- Ici?
+Dialogue: 0,0:48:45.54,0:48:48.12,Default,,0,0,0,,- Écoute, je sais que\Ncet endroit...
+Dialogue: 0,0:48:48.21,0:48:50.54,Default,,0,0,0,,ne paie pas de mine,\Non est d'accord, mais...
+Dialogue: 0,0:48:50.63,0:48:53.09,Default,,0,0,0,,le fait est qu'on a tout\Nce qu'il faut ici.
+Dialogue: 0,0:48:53.17,0:48:57.76,Default,,0,0,0,,Mais d'abord...
+Dialogue: 0,0:48:57.84,0:48:59.89,Default,,0,0,0,,il faudra que tu deviennes l'un\Ndes nôtres, trésor.
+Dialogue: 0,0:48:59.97,0:49:01.26,Default,,0,0,0,,- Quoi?\N- Hé!
+Dialogue: 0,0:49:01.35,0:49:03.81,Default,,0,0,0,,Tu veux que ta mère guérisse\Nou pas?
+Dialogue: 0,0:49:03.89,0:49:06.73,Default,,0,0,0,,C'est la seule condition.\N- Pourquoi? Je...
+Dialogue: 0,0:49:06.81,0:49:08.44,Default,,0,0,0,,- Bientôt...\N- Attends, attends...
+Dialogue: 0,0:49:08.52,0:49:10.40,Default,,0,0,0,,- tous tes problèmes\Nappartiendront au passé.
+Dialogue: 0,0:49:10.48,0:49:12.98,Default,,0,0,0,,- D'accord. Attends. Non,\Nattends, une seconde. Je--
+Dialogue: 0,0:49:13.07,0:49:14.48,Default,,0,0,0,,' T'es prêt?
+Dialogue: 0,0:49:14.57,0:49:18.24,Default,,0,0,0,,Bienvenue dans mon monde.
+Dialogue: 0,0:49:27.29,0:49:30.46,Default,,0,0,0,,Wow! Tu sens le principe actif\Ns'écouler en toi?
+Dialogue: 0,0:49:30.54,0:49:33.17,Default,,0,0,0,,Alors, laisse-le prendre\Nle dessus. Voilà!
+Dialogue: 0,0:49:33.25,0:49:37.09,Default,,0,0,0,,Voilà, tu le sens, là, non?
+Dialogue: 0,0:49:37.17,0:49:41.51,Default,,0,0,0,,C'est génial, hein?
+Dialogue: 0,0:50:01.95,0:50:04.78,Default,,0,0,0,,- Voyons ce qui cloche chez toi!
+Dialogue: 0,0:50:06.45,0:50:08.87,Default,,0,0,0,,Oh! Beurk!
+Dialogue: 0,0:50:08.96,0:50:11.37,Default,,0,0,0,,Merde! T'es en train\Nde te vider!
+Dialogue: 0,0:50:11.46,0:50:15.34,Default,,0,0,0,,Oh! Merde!\NAh! Merde! Merde!
+Dialogue: 0,0:50:18.38,0:50:21.22,Default,,0,0,0,,Ah!
+Dialogue: 0,0:50:37.65,0:50:40.99,Default,,0,0,0,,Tu sens ça, hein? Hein?
+Dialogue: 0,0:50:41.07,0:50:44.07,Default,,0,0,0,,Ouais, bien sûr que oui.
+Dialogue: 0,0:50:49.04,0:50:52.42,Default,,0,0,0,,Allez! Allez!
+Dialogue: 0,0:50:52.50,0:50:55.29,Default,,0,0,0,,Vas-y, bébé! Ouais!
+Dialogue: 0,0:50:55.38,0:50:59.59,Default,,0,0,0,,- Bon voyage! Ouais.\NÇa magnifie les choses...
+Dialogue: 0,0:50:59.67,0:51:02.05,Default,,0,0,0,,Ce truc traverse ton système\Nsanguin et...
+Dialogue: 0,0:51:02.13,0:51:04.09,Default,,0,0,0,,il donne une vraie dimension\Naux choses.
+Dialogue: 0,0:51:04.18,0:51:06.76,Default,,0,0,0,,La joie, la dévotion,
+Dialogue: 0,0:51:06.85,0:51:09.35,Default,,0,0,0,,la luxure! La jalousie!
+Dialogue: 0,0:51:10.52,0:51:13.14,Default,,0,0,0,,Et la rage!
+Dialogue: 0,0:51:14.69,0:51:16.19,Default,,0,0,0,,La rage de la Zone sinistrée!
+Dialogue: 0,0:51:30.54,0:51:33.29,Default,,0,0,0,,- Voilà!
+Dialogue: 0,0:51:33.37,0:51:36.08,Default,,0,0,0,,Et maintenant,\Nc'est l'heure de vérité.
+Dialogue: 0,0:51:37.88,0:51:41.63,Default,,0,0,0,,Salut! Tu écoutes?
+Dialogue: 0,0:51:41.72,0:51:43.68,Default,,0,0,0,,- Où suis-je?
+Dialogue: 0,0:51:43.76,0:51:47.18,Default,,0,0,0,,- T'inquiète pas.\NIci, t'es en sécurité.
+Dialogue: 0,0:51:52.27,0:51:54.48,Default,,0,0,0,,Ouais, euh... désolée pour ça.
+Dialogue: 0,0:51:54.56,0:51:58.23,Default,,0,0,0,,Mais j'ai pas le bon matériel\Net tu saignais comme un porc.
+Dialogue: 0,0:51:58.31,0:52:00.73,Default,,0,0,0,,- Tu m'as sauvée?
+Dialogue: 0,0:52:03.57,0:52:05.57,Default,,0,0,0,,- Ouais, ouais, plus ou moins.
+Dialogue: 0,0:52:07.99,0:52:10.08,Default,,0,0,0,,- Merci.
+Dialogue: 0,0:52:15.96,0:52:18.42,Default,,0,0,0,,Tu es prisonnière?
+Dialogue: 0,0:52:21.00,0:52:23.59,Default,,0,0,0,,- Je dirais pas ça comme ça.\N- Donc, tu es libre
+Dialogue: 0,0:52:23.67,0:52:26.68,Default,,0,0,0,,de t'en aller?
+Dialogue: 0,0:52:26.76,0:52:29.51,Default,,0,0,0,,- Tu comprendrais pas.
+Dialogue: 0,0:52:29.60,0:52:32.56,Default,,0,0,0,,Même si j'avais le choix,\Nje partirais pas.
+Dialogue: 0,0:52:34.52,0:52:38.02,Default,,0,0,0,,La Zone sinistrée regorge\Nde personnes horribles.
+Dialogue: 0,0:52:38.10,0:52:40.48,Default,,0,0,0,,- Si, je comprends.
+Dialogue: 0,0:52:47.86,0:52:51.28,Default,,0,0,0,,C'est là qu'on m'a fait ça.
+Dialogue: 0,0:53:00.63,0:53:03.13,Default,,0,0,0,,- Qu'est-ce que t'en dis?
+Dialogue: 0,0:53:06.97,0:53:09.76,Default,,0,0,0,,- C'est tout que j'ai toujours\Nvoulu!
+Dialogue: 0,0:53:09.84,0:53:11.76,Default,,0,0,0,,Ça...
+Dialogue: 0,0:53:11.85,0:53:14.68,Default,,0,0,0,,Ça, ça va au-delà de ce que\Nj'ai connu dans l'oasis.
+Dialogue: 0,0:53:14.77,0:53:18.23,Default,,0,0,0,,- L'oasis? C'est quoi, mon chou?
+Dialogue: 0,0:53:18.31,0:53:20.69,Default,,0,0,0,,- Quoi? L'oasis?
+Dialogue: 0,0:53:23.69,0:53:25.53,Default,,0,0,0,,C'est vivant.
+Dialogue: 0,0:53:29.99,0:53:34.33,Default,,0,0,0,,Ma mère voulait que j'y reste\Nà jamais.
+Dialogue: 0,0:53:34.41,0:53:36.50,Default,,0,0,0,,Elle dit que\Nc'est l'endroit parfait.
+Dialogue: 0,0:53:38.71,0:53:41.92,Default,,0,0,0,,L'inverse du monde ravagé\Nque j'ai pu parcourir.
+Dialogue: 0,0:53:43.46,0:53:45.05,Default,,0,0,0,,C'est un lieu de paix.
+Dialogue: 0,0:53:45.13,0:53:48.63,Default,,0,0,0,,- Ouais, ç'a l'air de frôler\Nla perfection! Tu vois ça?
+Dialogue: 0,0:53:48.72,0:53:52.43,Default,,0,0,0,,L'eau est morte ici.\NEt on n'a rien du tout.
+Dialogue: 0,0:53:52.51,0:53:55.93,Default,,0,0,0,,On n'a rien! On n'a rien\Nà l'intérieur de nous.
+Dialogue: 0,0:53:56.02,0:53:58.52,Default,,0,0,0,,Tu sais, j'adorerais voir\Nun arbre
+Dialogue: 0,0:53:58.60,0:54:00.31,Default,,0,0,0,,ou voir une fleur,\Nun jour dans ma vie.
+Dialogue: 0,0:54:00.40,0:54:02.44,Default,,0,0,0,,C'est si triste, non?\NC'est pas triste, ça?
+Dialogue: 0,0:54:02.52,0:54:04.32,Default,,0,0,0,,Pourquoi tu me rends si triste\Nque ça?
+Dialogue: 0,0:54:04.40,0:54:07.32,Default,,0,0,0,,Hein! Tiens!
+Dialogue: 0,0:54:07.40,0:54:09.86,Default,,0,0,0,,Essaie ça.
+Dialogue: 0,0:54:11.82,0:54:15.29,Default,,0,0,0,,Inspire.
+Dialogue: 0,0:54:15.37,0:54:18.58,Default,,0,0,0,,Et ah!
+Dialogue: 0,0:54:21.71,0:54:24.79,Default,,0,0,0,,Dis-moi, celle qui t'accompagne,\NAsh,
+Dialogue: 0,0:54:24.88,0:54:26.25,Default,,0,0,0,,c'est la femme parfaite, non?
+Dialogue: 0,0:54:26.34,0:54:28.51,Default,,0,0,0,,Le temps n'a pas de prise\Nsur elle,
+Dialogue: 0,0:54:28.59,0:54:31.26,Default,,0,0,0,,pas de chair ni d'os,\Nmais un système pur.
+Dialogue: 0,0:54:31.34,0:54:34.10,Default,,0,0,0,,Ouais. Ouais, j'adore ça.
+Dialogue: 0,0:54:34.18,0:54:36.39,Default,,0,0,0,,La pureté. La pureté, c'est...
+Dialogue: 0,0:54:36.47,0:54:38.64,Default,,0,0,0,,c'est tout ce que je recherche.
+Dialogue: 0,0:54:49.07,0:54:54.03,Default,,0,0,0,,Fais de beaux rêves.
+Dialogue: 0,0:55:19.85,0:55:21.94,Default,,0,0,0,,- Mon fils,
+Dialogue: 0,0:55:22.02,0:55:25.19,Default,,0,0,0,,mon prince,
+Dialogue: 0,0:55:25.27,0:55:28.19,Default,,0,0,0,,reviens à la maison.
+Dialogue: 0,0:56:04.44,0:56:07.48,Default,,0,0,0,,- Oh! Merde!
+Dialogue: 0,0:56:07.56,0:56:10.65,Default,,0,0,0,,Debout! Debout!
+Dialogue: 0,0:56:58.66,0:57:02.29,Default,,0,0,0,,- Tu n'es qu'une enfant,\Nun bébé, pas vrai?
+Dialogue: 0,0:57:03.04,0:57:06.75,Default,,0,0,0,,Mon gentil petit bébé.
+Dialogue: 0,0:57:06.83,0:57:10.79,Default,,0,0,0,,Quoi? Non, non, non, non, non,\Nnon, non!
+Dialogue: 0,0:57:10.88,0:57:13.63,Default,,0,0,0,,Ne sois pas triste.\NNe sois pas triste,
+Dialogue: 0,0:57:13.71,0:57:15.88,Default,,0,0,0,,parce que je vais t'aimer,\Ntu sais?
+Dialogue: 0,0:57:15.97,0:57:18.97,Default,,0,0,0,,Je ferai ressortir\Nce qu'il y a de mieux en toi.
+Dialogue: 0,0:57:19.05,0:57:22.31,Default,,0,0,0,,Et... et tu feras ressortir ce\Nqu'il y a de mieux en moi aussi.
+Dialogue: 0,0:57:22.39,0:57:24.18,Default,,0,0,0,,D'accord?
+Dialogue: 0,0:57:29.90,0:57:33.07,Default,,0,0,0,,Oh! Merci!
+Dialogue: 0,0:57:33.15,0:57:35.78,Default,,0,0,0,,Merci!
+Dialogue: 0,0:59:16.00,0:59:18.34,Default,,0,0,0,,Le jeu est simple, Prince.
+Dialogue: 0,0:59:18.42,0:59:19.71,Default,,0,0,0,,Ce que tu veux...
+Dialogue: 0,0:59:19.80,0:59:23.09,Default,,0,0,0,,ce que tu veux est dans\Nle ventre de ce monstre.
+Dialogue: 0,0:59:24.97,0:59:26.64,Default,,0,0,0,,On va passer un marché\Ntous les deux.
+Dialogue: 0,0:59:26.72,0:59:28.39,Default,,0,0,0,,Ça va être drôle, tu verras.
+Dialogue: 0,0:59:28.47,0:59:30.47,Default,,0,0,0,,Une sorte de duel, tu vois?\ND'accord?
+Dialogue: 0,0:59:30.56,0:59:32.60,Default,,0,0,0,,Alors, si tu gagnes,\Ntu as le remède.
+Dialogue: 0,0:59:32.69,0:59:34.06,Default,,0,0,0,,Si tu perds, tu meurs.
+Dialogue: 0,0:59:43.24,0:59:46.12,Default,,0,0,0,,Il est temps, Joker.
+Dialogue: 0,1:00:43.26,1:00:46.13,Default,,0,0,0,,Et voilà ton joker!
+Dialogue: 0,1:01:41.86,1:01:42.94,Default,,0,0,0,,J'arrive pas à y croire.
+Dialogue: 0,1:01:43.02,1:01:45.44,Default,,0,0,0,,J'aurais dit que\Nt'allais perdre.
+Dialogue: 0,1:01:45.53,1:01:48.65,Default,,0,0,0,,Ce que tu cherches est dans\Nl'estomac de cet homme.
+Dialogue: 0,1:02:40.12,1:02:42.04,Default,,0,0,0,,Tu l'as bien mérité, petit.
+Dialogue: 0,1:02:55.10,1:02:56.68,Default,,0,0,0,,- Ash!
+Dialogue: 0,1:02:56.76,1:02:59.35,Default,,0,0,0,,Allez, on s'en va.
+Dialogue: 0,1:02:59.43,1:03:01.35,Default,,0,0,0,,- Attends.
+Dialogue: 0,1:03:01.44,1:03:06.61,Default,,0,0,0,,Attends, attends.\NT'as demandé un remède,
+Dialogue: 0,1:03:06.69,1:03:09.32,Default,,0,0,0,,pas un robot.
+Dialogue: 0,1:03:09.40,1:03:12.20,Default,,0,0,0,,- Non! J'irai nulle part\Nsans elle.
+Dialogue: 0,1:03:12.28,1:03:13.91,Default,,0,0,0,,- Je t'ai donné ton remède.
+Dialogue: 0,1:03:13.99,1:03:17.79,Default,,0,0,0,,J'ai sauvé la vie de ton amie,\Net elle va rester ici avec moi.
+Dialogue: 0,1:03:17.87,1:03:20.29,Default,,0,0,0,,- Va te faire foutre.\NRien à foutre!
+Dialogue: 0,1:03:20.37,1:03:22.71,Default,,0,0,0,,On s'en va.\N- Écoute, tu peux partir
+Dialogue: 0,1:03:22.79,1:03:25.33,Default,,0,0,0,,tout de suite\Nou on peut rester là. Hum?
+Dialogue: 0,1:03:28.50,1:03:30.67,Default,,0,0,0,,- Je m'en irai pas sans elle.
+Dialogue: 0,1:03:30.76,1:03:32.68,Default,,0,0,0,,- Va-t'en!
+Dialogue: 0,1:03:32.76,1:03:35.22,Default,,0,0,0,,Ou tu manqueras de temps.
+Dialogue: 0,1:03:37.93,1:03:40.56,Default,,0,0,0,,- Ash!
+Dialogue: 0,1:03:40.64,1:03:43.60,Default,,0,0,0,,- Pars.
+Dialogue: 0,1:03:55.41,1:03:58.37,Default,,0,0,0,,- Ça me brise le coeur.
+Dialogue: 0,1:05:36.34,1:05:38.88,Default,,0,0,0,,- Merde!
+Dialogue: 0,1:05:51.02,1:05:53.32,Default,,0,0,0,,- Je t'ai dit que je pouvais\Nfaire ce que je voulais.
+Dialogue: 0,1:05:53.40,1:05:56.15,Default,,0,0,0,,Je vais te libérer.
+Dialogue: 0,1:06:06.83,1:06:10.54,Default,,0,0,0,,Oh non! Les voilà!\N- Ça ira.
+Dialogue: 0,1:06:10.62,1:06:12.67,Default,,0,0,0,,Lei, ça ira!
+Dialogue: 0,1:06:12.75,1:06:16.17,Default,,0,0,0,,- Comment tu peux être aussi\Ncalme alors que rien ne va?
+Dialogue: 0,1:06:19.59,1:06:21.39,Default,,0,0,0,,- Ça suffit.
+Dialogue: 0,1:06:25.39,1:06:28.31,Default,,0,0,0,,Les choses sont comme\Nelles sont.
+Dialogue: 0,1:06:28.39,1:06:31.02,Default,,0,0,0,,- Les choses sont comme\Nelles sont?
+Dialogue: 0,1:06:32.90,1:06:35.32,Default,,0,0,0,,J'aimerais être aussi pure\Nque toi.
+Dialogue: 0,1:06:35.40,1:06:37.28,Default,,0,0,0,,J'aimerais juste...
+Dialogue: 0,1:06:37.36,1:06:40.20,Default,,0,0,0,,ne plus rien ressentir\Net ne plus me préoccuper autant.
+Dialogue: 0,1:06:52.42,1:06:54.38,Default,,0,0,0,,- Tu devrais chérir\Ntes sentiments,
+Dialogue: 0,1:06:54.46,1:06:56.46,Default,,0,0,0,,qu'ils soient bons ou mauvais.
+Dialogue: 0,1:06:59.13,1:07:02.05,Default,,0,0,0,,- Tu peux sentir ça?
+Dialogue: 0,1:07:09.10,1:07:12.39,Default,,0,0,0,,Et ça?
+Dialogue: 0,1:07:16.44,1:07:18.90,Default,,0,0,0,,- Oui.
+Dialogue: 0,1:07:21.32,1:07:23.57,Default,,0,0,0,,- Je suis désolée.\NJe devrais pas faire ça.
+Dialogue: 0,1:07:23.66,1:07:25.91,Default,,0,0,0,,Je devrais pas profiter de toi.
+Dialogue: 0,1:07:30.83,1:07:32.92,Default,,0,0,0,,- Lei!
+Dialogue: 0,1:07:35.50,1:07:38.00,Default,,0,0,0,,J'aime ce sentiment.
+Dialogue: 0,1:08:25.38,1:08:28.85,Default,,0,0,0,,Et c'est à ce moment
+Dialogue: 0,1:08:28.93,1:08:32.27,Default,,0,0,0,,qu'une connexion\Ns'est établie.
+Dialogue: 0,1:08:32.35,1:08:35.69,Default,,0,0,0,,J'ai ressenti quelque chose\Nen moi,
+Dialogue: 0,1:08:35.77,1:08:39.44,Default,,0,0,0,,quelque chose de pur.
+Dialogue: 0,1:08:41.02,1:08:44.95,Default,,0,0,0,,Jamais je n'avais connu\Nce sentiment.
+Dialogue: 0,1:08:45.03,1:08:48.70,Default,,0,0,0,,Il est tellement différent\Ndes autres.
+Dialogue: 0,1:08:48.78,1:08:52.79,Default,,0,0,0,,- Je suis navrée.\N- Non, arrête!
+Dialogue: 0,1:08:52.87,1:08:57.46,Default,,0,0,0,,Moi aussi, je voulais.
+Dialogue: 0,1:08:57.54,1:09:00.17,Default,,0,0,0,,J'ai senti\Nton coeur battre
+Dialogue: 0,1:09:00.25,1:09:04.26,Default,,0,0,0,,et ton énergie.
+Dialogue: 0,1:09:04.34,1:09:07.34,Default,,0,0,0,,- Je ne sais même plus\Nce que ça veut dire, tout ça!
+Dialogue: 0,1:09:10.10,1:09:14.02,Default,,0,0,0,,J'ai été arrachée à ma famille\Nquand j'étais toute petite.
+Dialogue: 0,1:09:14.10,1:09:17.44,Default,,0,0,0,,Un groupe de pilleurs m'a prise.
+Dialogue: 0,1:09:17.52,1:09:20.27,Default,,0,0,0,,J'étais qu'une enfant.
+Dialogue: 0,1:09:21.23,1:09:24.44,Default,,0,0,0,,Et c'est là que j'ai découvert\Nà quel point les gens sont durs.
+Dialogue: 0,1:09:31.20,1:09:33.58,Default,,0,0,0,,Puis j'ai grandi, et...
+Dialogue: 0,1:09:33.66,1:09:36.71,Default,,0,0,0,,et j'ai vu que je ne leur\Nservais plus a rien.
+Dialogue: 0,1:09:36.79,1:09:39.79,Default,,0,0,0,,Ils m'ont... vendue.
+Dialogue: 0,1:09:39.88,1:09:41.46,Default,,0,0,0,,C'est comme ça\Nque j'ai atterri ici.
+Dialogue: 0,1:09:41.54,1:09:44.84,Default,,0,0,0,,- Je suis si contente\Nque tu m'aies réparée.
+Dialogue: 0,1:09:49.47,1:09:52.26,Default,,0,0,0,,- Moi aussi.
+Dialogue: 0,1:09:52.35,1:09:56.56,Default,,0,0,0,,- Elle était censée être...
+Dialogue: 0,1:09:56.64,1:10:01.15,Default,,0,0,0,,la femme parfaite.
+Dialogue: 0,1:10:01.23,1:10:04.73,Default,,0,0,0,,Elle est pure, non?\NPutain! Pffuit!
+Dialogue: 0,1:10:04.82,1:10:09.40,Default,,0,0,0,,Elle était pourtant si pure.
+Dialogue: 0,1:10:09.49,1:10:12.03,Default,,0,0,0,,Je t'ai donné...\Nje t'ai tout donné.
+Dialogue: 0,1:10:12.12,1:10:15.49,Default,,0,0,0,,Je t'ai élevée, je...\Nje t'ai même respectée.
+Dialogue: 0,1:10:15.58,1:10:17.41,Default,,0,0,0,,- Tu peux pas comprendre.\N- Tut! Tut! Tut! Tut!
+Dialogue: 0,1:10:17.50,1:10:23.29,Default,,0,0,0,,Tu m'as enlevé la seule chose\Nqui était censée m'appartenir.
+Dialogue: 0,1:10:23.38,1:10:26.84,Default,,0,0,0,,Tu l'as corrompue.
+Dialogue: 0,1:10:26.92,1:10:30.09,Default,,0,0,0,,Tu es...
+Dialogue: 0,1:10:30.18,1:10:33.18,Default,,0,0,0,,Tu es... tu es affreuse.
+Dialogue: 0,1:10:33.26,1:10:36.77,Default,,0,0,0,,Tu es... dégoûtante.
+Dialogue: 0,1:10:36.85,1:10:39.10,Default,,0,0,0,,Sale petit virus sournois.\N- Non, dis pas ça.
+Dialogue: 0,1:10:39.18,1:10:43.31,Default,,0,0,0,,- Tais-toi! Ferme ta gueule,\Nputain!
+Dialogue: 0,1:10:46.36,1:10:48.94,Default,,0,0,0,,Tu sais quoi?\NJe crois que tout ira bien.
+Dialogue: 0,1:10:49.03,1:10:51.78,Default,,0,0,0,,Ouais! Ouais! On va arranger ça.
+Dialogue: 0,1:10:51.86,1:10:56.03,Default,,0,0,0,,Alors... donc,\Nvoilà ce qu'on va faire.
+Dialogue: 0,1:10:56.12,1:10:57.87,Default,,0,0,0,,Tu vas effacer son disque dur.
+Dialogue: 0,1:10:57.95,1:10:59.29,Default,,0,0,0,,Le remettre à zéro.
+Dialogue: 0,1:10:59.37,1:11:01.79,Default,,0,0,0,,On efface tout, voilà!\NUn nouveau départ!
+Dialogue: 0,1:11:01.87,1:11:04.96,Default,,0,0,0,,Ouais!\NEt quand elle se réveillera,
+Dialogue: 0,1:11:05.04,1:11:07.75,Default,,0,0,0,,elle ne se souviendra plus\Nde toi.
+Dialogue: 0,1:11:10.09,1:11:12.89,Default,,0,0,0,,Ni de quoi que ce soit.
+Dialogue: 0,1:11:12.97,1:11:16.51,Default,,0,0,0,,Est-ce que c'est clair?
+Dialogue: 0,1:11:16.60,1:11:19.68,Default,,0,0,0,,Et quand elle se réveillera,
+Dialogue: 0,1:11:19.77,1:11:22.19,Default,,0,0,0,,elle me verra, moi.
+Dialogue: 0,1:11:31.11,1:11:34.28,Default,,0,0,0,,Et elle va...
+Dialogue: 0,1:11:34.36,1:11:37.37,Default,,0,0,0,,elle va m'aimer.
+Dialogue: 0,1:12:28.92,1:12:32.55,Default,,0,0,0,,- Ils sont là! Dépêchez-vous!\NPar ici! Par ici!
+Dialogue: 0,1:12:32.63,1:12:36.09,Default,,0,0,0,,Ils sont là! Par ici!
+Dialogue: 0,1:12:58.49,1:13:00.53,Default,,0,0,0,,- C'est quoi, ce bordel?
+Dialogue: 0,1:14:02.26,1:14:03.81,Default,,0,0,0,,C'est mon palace ici.
+Dialogue: 0,1:14:03.89,1:14:06.43,Default,,0,0,0,,Faut pas venir me faire chier!
+Dialogue: 0,1:14:07.81,1:14:10.56,Default,,0,0,0,,Je vais tous vous crever,\Nputain!
+Dialogue: 0,1:14:27.00,1:14:29.87,Default,,0,0,0,,Va te faire foutre!
+Dialogue: 0,1:14:35.42,1:14:39.30,Default,,0,0,0,,Je suis insensible à la douleur!\NVas-y! Fais-moi mal!
+Dialogue: 0,1:15:24.59,1:15:28.47,Default,,0,0,0,,T'aimes ça ou quoi? Hein?
+Dialogue: 0,1:15:36.06,1:15:39.19,Default,,0,0,0,,- Ferme-la, pétasse!
+Dialogue: 0,1:15:50.33,1:15:51.75,Default,,0,0,0,,Salut!
+Dialogue: 0,1:15:51.83,1:15:54.92,Default,,0,0,0,,Stop!
+Dialogue: 0,1:15:55.00,1:15:57.79,Default,,0,0,0,,Prenez-le.
+Dialogue: 0,1:15:58.50,1:16:01.21,Default,,0,0,0,,- Avance!
+Dialogue: 0,1:16:03.13,1:16:06.72,Default,,0,0,0,,- Ils ont essayé d'enlever\Nma fiancée!
+Dialogue: 0,1:16:06.80,1:16:09.26,Default,,0,0,0,,Elle est à moi!
+Dialogue: 0,1:16:10.77,1:16:13.27,Default,,0,0,0,,Ils ont essayé de devenir\Nson ami,
+Dialogue: 0,1:16:13.35,1:16:16.44,Default,,0,0,0,,ils ont même essayé\Nde me la prendre.
+Dialogue: 0,1:16:16.52,1:16:19.57,Default,,0,0,0,,Elle est à moi!
+Dialogue: 0,1:16:19.65,1:16:21.99,Default,,0,0,0,,Mettez-les là-bas.\N- Allez!
+Dialogue: 0,1:16:22.07,1:16:24.03,Default,,0,0,0,,- Ash! Ash!
+Dialogue: 0,1:16:30.29,1:16:33.21,Default,,0,0,0,,- Coupe-leur la tête.
+Dialogue: 0,1:16:36.29,1:16:38.59,Default,,0,0,0,,- C'est pas toi, Ash!
+Dialogue: 0,1:16:49.76,1:16:52.22,Default,,0,0,0,,Ash, ne l'écoute pas.
+Dialogue: 0,1:16:52.31,1:16:53.89,Default,,0,0,0,,T'as changé!
+Dialogue: 0,1:16:53.98,1:16:56.60,Default,,0,0,0,,Ça te ressemble pas.\N- Non!
+Dialogue: 0,1:16:56.69,1:17:00.90,Default,,0,0,0,,- Fais pas ça.\N- Tue-les!
+Dialogue: 0,1:17:00.98,1:17:03.57,Default,,0,0,0,,Tue-les maintenant.\N- Non!
+Dialogue: 0,1:18:27.19,1:18:28.19,Default,,0,0,0,,- Arrête!\N- Quoi?
+Dialogue: 0,1:18:28.28,1:18:29.74,Default,,0,0,0,,- Arrête la moto!\N- Quoi
+Dialogue: 0,1:18:29.82,1:18:30.95,Default,,0,0,0,,- Arrête-la!\N- Quoi?
+Dialogue: 0,1:18:31.03,1:18:33.41,Default,,0,0,0,,- Arrête la moto.\NTu descends.
+Dialogue: 0,1:18:37.83,1:18:42.04,Default,,0,0,0,,Qu'est-ce que tu fais? Ash!
+Dialogue: 0,1:20:05.33,1:20:08.13,Default,,0,0,0,,- Le seigneur de guerre\Nest mort.
+Dialogue: 0,1:20:10.55,1:20:12.88,Default,,0,0,0,,Un autre le remplacera.
+Dialogue: 0,1:20:18.93,1:20:22.02,Default,,0,0,0,,Ce monde n'a pas de mémoire.
+Dialogue: 0,1:20:42.62,1:20:44.66,Default,,0,0,0,,- Regardez!\NLe prince est de retour!
+Dialogue: 0,1:20:44.75,1:20:47.54,Default,,0,0,0,,- Je ne peux pas rester\Navec toi.
+Dialogue: 0,1:20:47.63,1:20:49.54,Default,,0,0,0,,- Quoi?
+Dialogue: 0,1:20:49.63,1:20:52.59,Default,,0,0,0,,Où tu vas?
+Dialogue: 0,1:20:55.18,1:20:57.43,Default,,0,0,0,,- Tu m'as donné une âme.
+Dialogue: 0,1:21:37.43,1:21:40.35,Default,,0,0,0,,- Maman!
+Dialogue: 0,1:21:40.43,1:21:43.43,Default,,0,0,0,,Maman!
+Dialogue: 0,1:21:43.52,1:21:46.85,Default,,0,0,0,,J'ai le médicament.
+Dialogue: 0,1:22:24.22,1:22:26.64,Default,,0,0,0,,- Mon fils!
+Dialogue: 0,1:22:48.16,1:22:50.83,Default,,0,0,0,,- On continue notre voyage.
+Dialogue: 0,1:22:52.00,1:22:55.46,Default,,0,0,0,,À la recherche\Nd'autres comme moi.
+Dialogue: 0,1:22:55.55,1:22:57.51,Default,,0,0,0,,Il faut qu'on les trouve.
+Dialogue: 0,1:22:57.59,1:23:00.22,Default,,0,0,0,,Pour leur montrer\Nce qu'on a appris.
+Dialogue: 0,1:23:00.30,1:23:03.18,Default,,0,0,0,,Qu'au-delà de l'intelligence\Net du savoir, il existe
+Dialogue: 0,1:23:03.26,1:23:05.31,Default,,0,0,0,,quelque chose de plus grand.
+Dialogue: 0,1:23:05.39,1:23:09.81,Default,,0,0,0,,Quelque chose de plus puissant\Nque n'importe quelle personne.
+Dialogue: 0,1:23:09.89,1:23:12.19,Default,,0,0,0,,Que n'importe quelle arme.
+Dialogue: 0,1:23:14.81,1:23:17.73,Default,,0,0,0,,L 'espoir.
+Dialogue: 0,1:24:11.12,1:24:14.54,Default,,0,0,0,,- Putain! Mais pourquoi est-ce que ça prend\Naussi longtemps pour avoir à manger?
+Dialogue: 0,1:24:14.62,1:24:17.54,Default,,0,0,0,,Un mec peut pas avoir quelque\Nchose à manger dans cet endroit?
+Dialogue: 0,1:24:17.63,1:24:19.42,Default,,0,0,0,,Merde! Si je dois\Nencore attendre,
+Dialogue: 0,1:24:19.50,1:24:22.72,Default,,0,0,0,,je jure que je vais foutre mon\Npied au cul de l'une d'entre vous.
+Dialogue: 0,1:24:22.80,1:24:26.43,Default,,0,0,0,,Putain!
+Dialogue: 0,1:24:26.51,1:24:29.01,Default,,0,0,0,,Putain de salope!
+Dialogue: 0,1:24:29.10,1:24:30.68,Default,,0,0,0,,- Vous êtes libres maintenant.
+Dialogue: 0,1:24:30.77,1:24:33.56,Default,,0,0,0,,- Mais qu'est-ce que tu fous,\Nputain?
+Dialogue: 0,1:24:36.44,1:24:39.27,Default,,0,0,0,,Putain! Rosie!
+Dialogue: 0,1:24:39.36,1:24:42.28,Default,,0,0,0,,Rosie! Ah!
+Dialogue: 0,1:24:42.36,1:24:45.49,Default,,0,0,0,,Merde!\NÀ l'aide! Y a quelqu'un?
+Dialogue: 0,1:24:45.57,1:24:48.99,Default,,0,0,0,,Aidez-moi, merde! Putain!
+Dialogue: 0,1:24:51.54,1:24:53.87,Default,,0,0,0,,CNST, Montréal

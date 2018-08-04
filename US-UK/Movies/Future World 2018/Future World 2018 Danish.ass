@@ -1,0 +1,618 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:14.58,0:01:15.91,Default,,0,0,0,,{\i1}Jorden...{\i0}
+Dialogue: 0,0:01:17.48,0:01:19.09,Default,,0,0,0,,{\i1}... før krigen.{\i0}
+Dialogue: 0,0:01:22.95,0:01:27.32,Default,,0,0,0,,{\i1}Livet strakte sig ud,\Ntil hvert et hjørne af planeten.{\i0}
+Dialogue: 0,0:01:28.99,0:01:33.00,Default,,0,0,0,,{\i1}Det blev en verden fyldt med\Nfornyelse og muligheder.{\i0}
+Dialogue: 0,0:01:35.63,0:01:39.94,Default,,0,0,0,,{\i1}Kæmpe videnskabelige spring,\Nfor at opnå utænkelige resultater.{\i0}
+Dialogue: 0,0:01:42.10,0:01:44.93,Default,,0,0,0,,{\i1}Robotteknik blev fremtiden.{\i0}
+Dialogue: 0,0:01:46.24,0:01:50.07,Default,,0,0,0,,{\i1}Kunstig intelligens\Nblev den nye religion.{\i0}
+Dialogue: 0,0:01:51.28,0:01:54.94,Default,,0,0,0,,{\i1}Vi var den syntetiske messias.{\i0}
+Dialogue: 0,0:01:59.72,0:02:01.45,Default,,0,0,0,,{\i1}Men den kraft, -{\i0}
+Dialogue: 0,0:02:01.89,0:02:06.26,Default,,0,0,0,,{\i1}- i nær slægtskab med urmennesket,\Nfører kun til et resultat:{\i0}
+Dialogue: 0,0:02:07.86,0:02:09.29,Default,,0,0,0,,{\i1}Krig.{\i0}
+Dialogue: 0,0:02:15.37,0:02:17.25,Default,,0,0,0,,{\i1}Det regnede med bomber.{\i0}
+Dialogue: 0,0:02:17.84,0:02:19.94,Default,,0,0,0,,{\i1}Bølge efter bølge\Nefter bølge.{\i0}
+Dialogue: 0,0:02:21.91,0:02:25.20,Default,,0,0,0,,{\i1}Verden blev den nye mørke tid.{\i0}
+Dialogue: 0,0:02:26.61,0:02:30.59,Default,,0,0,0,,{\i1}Fra asken opstod en ny sygdom, -{\i0}
+Dialogue: 0,0:02:31.42,0:02:32.96,Default,,0,0,0,,{\i1}- den røde feber.{\i0}
+Dialogue: 0,0:02:37.49,0:02:40.40,Default,,0,0,0,,{\i1}Nationer faldt.\NSamfund kollapsede.{\i0}
+Dialogue: 0,0:02:44.37,0:02:47.74,Default,,0,0,0,,{\i1}Krigsherrerne brugte os\Nsom våben mod hinanden.{\i0}
+Dialogue: 0,0:02:49.70,0:02:52.80,Default,,0,0,0,,{\i1}Jeg var en af de sidste syntetiske,\Nder overlevede.{\i0}
+Dialogue: 0,0:02:54.64,0:02:56.64,Default,,0,0,0,,{\i1}I sidste ende var alle tabere.{\i0}
+Dialogue: 0,0:02:59.81,0:03:01.05,Default,,0,0,0,,{\i1}Jeg ønskede livet.{\i0}
+Dialogue: 0,0:03:04.42,0:03:06.65,Default,,0,0,0,,{\i1}Mennesket ønskede døden.{\i0}
+Dialogue: 0,0:03:12.96,0:03:15.35,Default,,0,0,0,,{\i1}Det kan jeg ikke være en del af.{\i0}
+Dialogue: 0,0:03:17.30,0:03:18.74,Default,,0,0,0,,{\i1}Det vil jeg ikke.{\i0}
+Dialogue: 0,0:03:22.27,0:03:26.51,Default,,0,0,0,,{\i1}Slet alle minder manuelt.\NStart dvaletilstand.{\i0}
+Dialogue: 0,0:04:20.85,0:04:26.89,Default,,0,0,0,,Oversat af UNiTY\Nwww.DanishBits.org
+Dialogue: 0,0:04:40.05,0:04:42.52,Default,,0,0,0,,- Jeg fanger dig!\N- Nej, du gør ikke.
+Dialogue: 0,0:05:12.58,0:05:13.82,Default,,0,0,0,,Raiders!
+Dialogue: 0,0:05:14.68,0:05:16.75,Default,,0,0,0,,- Raiders!\N- Kom så, af sted!
+Dialogue: 0,0:05:17.02,0:05:18.59,Default,,0,0,0,,- Helt op!\N- Løb, løb!
+Dialogue: 0,0:05:18.59,0:05:20.52,Default,,0,0,0,,Hvor er børnene?
+Dialogue: 0,0:05:20.71,0:05:23.43,Default,,0,0,0,,- Løb, løb, løb!\N- Hvor er børnene?
+Dialogue: 0,0:05:23.83,0:05:26.70,Default,,0,0,0,,Op med jer. Kom så!
+Dialogue: 0,0:05:27.13,0:05:28.46,Default,,0,0,0,,Raiders!
+Dialogue: 0,0:05:28.46,0:05:31.66,Default,,0,0,0,,Gem jer! Hurtigt!
+Dialogue: 0,0:05:49.85,0:05:51.92,Default,,0,0,0,,Løb, William!
+Dialogue: 0,0:05:51.92,0:05:54.32,Default,,0,0,0,,- Løb, Poppy!\N- Klarer du den, Jack?
+Dialogue: 0,0:05:54.92,0:05:57.76,Default,,0,0,0,,Vi skal nok klare den.\NSkynd dig op.
+Dialogue: 0,0:05:57.86,0:06:00.02,Default,,0,0,0,,- Hvor skal jeg hen?\N- Afsted!
+Dialogue: 0,0:06:27.79,0:06:30.46,Default,,0,0,0,,Skrub tilbage til det lorte hul,\Ndu end kommer fra!
+Dialogue: 0,0:06:30.79,0:06:34.55,Default,,0,0,0,,En pistol? Sådan en har jeg ikke\Nset virke, siden krigen.
+Dialogue: 0,0:06:36.73,0:06:39.07,Default,,0,0,0,,Skyd bare, gamle mand.
+Dialogue: 0,0:06:41.44,0:06:43.89,Default,,0,0,0,,Nej, Poppy!
+Dialogue: 0,0:06:45.32,0:06:46.91,Default,,0,0,0,,Hjælp mig!
+Dialogue: 0,0:07:08.90,0:07:10.96,Default,,0,0,0,,Er du sikker på,\Nat det er det rigtige sted?
+Dialogue: 0,0:07:11.09,0:07:13.50,Default,,0,0,0,,Ja, hun er her.\NDet ved jeg.
+Dialogue: 0,0:07:36.06,0:07:40.25,Default,,0,0,0,,- Hvad var det for et sted?\N- Det skulle være fremtiden.
+Dialogue: 0,0:07:41.86,0:07:43.59,Default,,0,0,0,,Nu er det bare støv.
+Dialogue: 0,0:07:49.87,0:07:52.51,Default,,0,0,0,,Hallo! Kom her.
+Dialogue: 0,0:08:04.92,0:08:06.85,Default,,0,0,0,,Det er den, vi vil have.
+Dialogue: 0,0:08:10.69,0:08:12.92,Default,,0,0,0,,Hvor er hun?
+Dialogue: 0,0:08:13.94,0:08:15.39,Default,,0,0,0,,Kom.
+Dialogue: 0,0:09:25.73,0:09:26.77,Default,,0,0,0,,Vågn op.
+Dialogue: 0,0:09:31.04,0:09:32.48,Default,,0,0,0,,Hvad ser du?
+Dialogue: 0,0:09:36.68,0:09:40.55,Default,,0,0,0,,- Hvem er du?\N- Jeg er den, der gav dig liv.
+Dialogue: 0,0:09:44.75,0:09:46.15,Default,,0,0,0,,Hvor er jeg?
+Dialogue: 0,0:09:49.29,0:09:52.99,Default,,0,0,0,,Jeg har ledt efter dig,\Ni meget lang tid.
+Dialogue: 0,0:10:02.94,0:10:03.97,Default,,0,0,0,,{\i1}Nej.{\i0}
+Dialogue: 0,0:10:20.32,0:10:22.16,Default,,0,0,0,,Vent på mig!
+Dialogue: 0,0:10:24.73,0:10:26.44,Default,,0,0,0,,Hej, Rico!
+Dialogue: 0,0:10:27.49,0:10:28.71,Default,,0,0,0,,Rico.
+Dialogue: 0,0:10:33.20,0:10:34.97,Default,,0,0,0,,- Hvordan går det?\N- Godt.
+Dialogue: 0,0:10:35.14,0:10:37.94,Default,,0,0,0,,- Hvad med hende?\N- Bedre.
+Dialogue: 0,0:10:38.27,0:10:40.14,Default,,0,0,0,,Hun spørger efter dig.
+Dialogue: 0,0:10:42.98,0:10:44.55,Default,,0,0,0,,Hvad har du der?
+Dialogue: 0,0:10:44.98,0:10:49.62,Default,,0,0,0,,- Så du tror stadig på magien?\N- Det kan redde hende.
+Dialogue: 0,0:10:51.42,0:10:53.56,Default,,0,0,0,,Paradise Beach er ikke ægte.
+Dialogue: 0,0:10:57.12,0:10:58.69,Default,,0,0,0,,Jeg ved det ikke.
+Dialogue: 0,0:10:59.79,0:11:02.21,Default,,0,0,0,,Har bare en følelse af,\Nat det er derude.
+Dialogue: 0,0:11:03.23,0:11:04.77,Default,,0,0,0,,Gå hen til hende.
+Dialogue: 0,0:11:28.86,0:11:33.23,Default,,0,0,0,,Hej. Er du okay?
+Dialogue: 0,0:11:34.23,0:11:37.23,Default,,0,0,0,,- Vil du give mig lidt te?\N- Ja.
+Dialogue: 0,0:11:39.84,0:11:42.67,Default,,0,0,0,,Jeg husker,\Nda du også var en af de små.
+Dialogue: 0,0:11:51.51,0:11:52.85,Default,,0,0,0,,Du ved godt,\Nat der findes medicin, ikke?
+Dialogue: 0,0:11:55.28,0:11:59.26,Default,,0,0,0,,Paradise Beach.\NJeg har hørt historier om det.
+Dialogue: 0,0:12:01.52,0:12:05.36,Default,,0,0,0,,Der findes ingen medicin derude.\NDer er kun død og had.
+Dialogue: 0,0:12:06.56,0:12:08.36,Default,,0,0,0,,Jeg giver ikke slip på dig.
+Dialogue: 0,0:12:08.60,0:12:12.59,Default,,0,0,0,,Denne oase reddede mig,\Nda jeg var ung og knust.
+Dialogue: 0,0:12:14.44,0:12:16.84,Default,,0,0,0,,Pas på den, når jeg er væk.
+Dialogue: 0,0:12:17.31,0:12:19.55,Default,,0,0,0,,Du er for ung til at dø, mor.
+Dialogue: 0,0:12:19.73,0:12:23.01,Default,,0,0,0,,Ville det ikke være dejligt,\Nhvis vi selv kunne bestemme det?
+Dialogue: 0,0:12:24.25,0:12:29.35,Default,,0,0,0,,Du bliver en god leder.\NJeg kan se det i dine øjne.
+Dialogue: 0,0:12:29.85,0:12:32.15,Default,,0,0,0,,Mor, jeg...\NJeg er...
+Dialogue: 0,0:12:32.79,0:12:36.23,Default,,0,0,0,,Hvis jeg kunne gøre det igen,\Nville jeg tale mere blidt.
+Dialogue: 0,0:12:38.29,0:12:40.46,Default,,0,0,0,,Jeg ville lytte længere, -
+Dialogue: 0,0:12:41.16,0:12:44.14,Default,,0,0,0,,- og jeg ville holde dig mere tæt.
+Dialogue: 0,0:13:54.47,0:13:56.51,Default,,0,0,0,,Hej, du gamle.
+Dialogue: 0,0:13:58.61,0:14:02.00,Default,,0,0,0,,- Går det godt?\N- Jep.
+Dialogue: 0,0:14:04.11,0:14:07.28,Default,,0,0,0,,- Kender du det sted?\N- Jeg har været der.
+Dialogue: 0,0:14:07.88,0:14:10.75,Default,,0,0,0,,Der skal du ikke hen.\NDet er ikke et godt sted.
+Dialogue: 0,0:14:11.69,0:14:14.94,Default,,0,0,0,,Det kaldes for Livets Tempel,\Nmen det passer ikke.
+Dialogue: 0,0:14:14.98,0:14:18.05,Default,,0,0,0,,- Nå men, jeg tager af sted.\N- Jeg kan ikke stoppe dig.
+Dialogue: 0,0:14:20.03,0:14:21.63,Default,,0,0,0,,Gør, som du vil.
+Dialogue: 0,0:14:25.03,0:14:27.30,Default,,0,0,0,,Det er min nye brud.
+Dialogue: 0,0:14:29.20,0:14:30.86,Default,,0,0,0,,Hun hedder Ash.
+Dialogue: 0,0:14:31.14,0:14:32.94,Default,,0,0,0,,Hvem vil møde hende først?
+Dialogue: 0,0:14:33.27,0:14:35.84,Default,,0,0,0,,Hold hende nede.\NJeg knepper hende i fjæset.
+Dialogue: 0,0:14:38.11,0:14:39.15,Default,,0,0,0,,Knep ham.
+Dialogue: 0,0:14:56.70,0:14:58.61,Default,,0,0,0,,Hvis mig døden.
+Dialogue: 0,0:15:04.10,0:15:07.51,Default,,0,0,0,,Slå ihjel! Slå ihjel!
+Dialogue: 0,0:15:17.02,0:15:18.59,Default,,0,0,0,,Ja.
+Dialogue: 0,0:15:24.49,0:15:26.01,Default,,0,0,0,,God pige.
+Dialogue: 0,0:15:49.48,0:15:50.52,Default,,0,0,0,,Mor.
+Dialogue: 0,0:15:54.15,0:15:58.44,Default,,0,0,0,,Jeg finder en løsning.
+Dialogue: 0,0:16:10.17,0:16:13.54,Default,,0,0,0,,Dronningen dør,\Nhvis du ikke fortæller mig det.
+Dialogue: 0,0:16:14.41,0:16:18.44,Default,,0,0,0,,- Der findes medicin der, ikke?\N- Selvfølgelig.
+Dialogue: 0,0:16:18.65,0:16:22.02,Default,,0,0,0,,Uanset om det er farligt,\Nfortæl mig, hvor det er.
+Dialogue: 0,0:16:22.25,0:16:25.99,Default,,0,0,0,,Kysten ved Det Døde Hav.\NDe kan helbrede alle smerter.
+Dialogue: 0,0:16:26.25,0:16:28.65,Default,,0,0,0,,Man kan næsten leve for evigt.
+Dialogue: 0,0:16:28.66,0:16:33.03,Default,,0,0,0,,- Men det er ikke et godt sted.\N- Fortæl om det.
+Dialogue: 0,0:16:33.29,0:16:38.40,Default,,0,0,0,,Rejs mod Nordstjernen i tre dage,\Ntil du når Neonskoven.
+Dialogue: 0,0:16:39.17,0:16:40.67,Default,,0,0,0,,Når du kommer til Neonskoven, -
+Dialogue: 0,0:16:41.34,0:16:43.60,Default,,0,0,0,,- er der mennesker,\Nmen du skal være forsigtig.
+Dialogue: 0,0:16:44.27,0:16:46.24,Default,,0,0,0,,De vil fortælle dig,\Nhvordan du kommer til Templet.
+Dialogue: 0,0:16:46.61,0:16:49.78,Default,,0,0,0,,Når du Det Døde Hav,\Ner du kommet til Templet.
+Dialogue: 0,0:16:53.72,0:16:54.75,Default,,0,0,0,,Gå.
+Dialogue: 0,0:17:01.76,0:17:04.59,Default,,0,0,0,,Her.\NDen får du brug for.
+Dialogue: 0,0:17:06.13,0:17:07.65,Default,,0,0,0,,Tag også disse.
+Dialogue: 0,0:17:12.47,0:17:13.83,Default,,0,0,0,,Held og lykke.
+Dialogue: 0,0:17:31.52,0:17:33.57,Default,,0,0,0,,Jeg kommer snart hjem igen, mor.
+Dialogue: 0,0:17:56.54,0:17:59.54,Default,,0,0,0,,- Jeg vidste, jeg ville finde dig her.\N- Du kan ikke stoppe mig.
+Dialogue: 0,0:17:59.55,0:18:03.15,Default,,0,0,0,,- Nej. Du får brug for hjælp derude.\N- Så kører vi.
+Dialogue: 0,0:18:13.14,0:18:14.13,Default,,0,0,0,,{\i1}Paradise Beach.{\i0}
+Dialogue: 0,0:18:16.43,0:18:18.35,Default,,0,0,0,,{\i1}En meget lang rejse.{\i0}
+Dialogue: 0,0:18:20.67,0:18:22.37,Default,,0,0,0,,{\i1}Hans ledsager, Rico, -{\i0}
+Dialogue: 0,0:18:22.77,0:18:25.00,Default,,0,0,0,,{\i1}- kaldte den for\N"Vejen til døden".{\i0}
+Dialogue: 0,0:18:31.68,0:18:33.98,Default,,0,0,0,,{\i1}Prinsen spurgte til lugten.{\i0}
+Dialogue: 0,0:18:36.18,0:18:38.87,Default,,0,0,0,,{\i1}En konstant tilstedeværelse\Ni ødemarken, -{\i0}
+Dialogue: 0,0:18:41.39,0:18:44.63,Default,,0,0,0,,{\i1}- er lugten af brændt menneskekød, -{\i0}
+Dialogue: 0,0:18:45.86,0:18:47.76,Default,,0,0,0,,{\i1}- og smeltende fedt.{\i0}
+Dialogue: 0,0:18:50.53,0:18:52.77,Default,,0,0,0,,{\i1}Brændstof til Raiders.{\i0}
+Dialogue: 0,0:19:23.53,0:19:27.11,Default,,0,0,0,,To våben, 10 kugler.\NVi får brug for alle.
+Dialogue: 0,0:19:30.81,0:19:33.51,Default,,0,0,0,,Den gamle sagde,\Nvi skulle følge Nordstjernen.
+Dialogue: 0,0:19:34.84,0:19:36.86,Default,,0,0,0,,Og se hvor den bringer os hen.
+Dialogue: 0,0:19:49.95,0:19:52.36,Default,,0,0,0,,{\i1}Det er værten,\Nmed det værste.{\i0}
+Dialogue: 0,0:19:52.66,0:19:56.83,Default,,0,0,0,,{\i1}Velkommen til Love Town,\Nogså kendt som Brystdalen.{\i0}
+Dialogue: 0,0:19:56.83,0:20:00.70,Default,,0,0,0,,{\i1}Og bryst til bryst,\Nså er vi bare de bedste!{\i0}
+Dialogue: 0,0:20:13.55,0:20:16.75,Default,,0,0,0,,{\i1}Velkommen til Love Town,\Nhvor alt kan ske.{\i0}
+Dialogue: 0,0:20:25.56,0:20:29.73,Default,,0,0,0,,- Er de også robotter?\N- Nej, de kællinger er ægte.
+Dialogue: 0,0:20:30.60,0:20:33.10,Default,,0,0,0,,De vil blive gamle, grimme og vil dø.
+Dialogue: 0,0:20:34.17,0:20:36.84,Default,,0,0,0,,Ikke som dig,\Nder vil være perfekt for altid.
+Dialogue: 0,0:20:41.78,0:20:44.11,Default,,0,0,0,,Det er stedet,\Nsom den gamle snakkede om.
+Dialogue: 0,0:20:56.42,0:20:58.26,Default,,0,0,0,,Vi skal bare have nogle informationer,\Nog ud igen.
+Dialogue: 0,0:21:00.63,0:21:01.66,Default,,0,0,0,,Hold hovedet koldt.
+Dialogue: 0,0:21:12.61,0:21:14.01,Default,,0,0,0,,Hvad er det for et sted?
+Dialogue: 0,0:21:14.01,0:21:17.01,Default,,0,0,0,,Dem der ikke kan finde kærligheden,\Nkøber den her.
+Dialogue: 0,0:21:37.70,0:21:41.37,Default,,0,0,0,,Pas nu på.\NBliv nu ikke forelsket.
+Dialogue: 0,0:21:44.91,0:21:46.58,Default,,0,0,0,,Bliv ved mig.
+Dialogue: 0,0:21:56.68,0:21:58.45,Default,,0,0,0,,I ser lidt fortabte ud.
+Dialogue: 0,0:21:58.45,0:22:00.49,Default,,0,0,0,,- Hvad kan jeg hjælpe med?\N- Lidt whisky.
+Dialogue: 0,0:22:00.89,0:22:02.06,Default,,0,0,0,,Sæt jer ned.
+Dialogue: 0,0:22:10.53,0:22:12.37,Default,,0,0,0,,For lidt information,\Nhvis du kan.
+Dialogue: 0,0:22:13.97,0:22:15.45,Default,,0,0,0,,Hvad leder I efter?
+Dialogue: 0,0:22:15.50,0:22:17.58,Default,,0,0,0,,Noget der hedder Paradise Beach.
+Dialogue: 0,0:22:17.64,0:22:19.51,Default,,0,0,0,,Kan du vise os den rigtige retning?
+Dialogue: 0,0:22:20.97,0:22:22.66,Default,,0,0,0,,Jeg har aldrig hørt om det.
+Dialogue: 0,0:22:25.85,0:22:27.55,Default,,0,0,0,,Men jeg kan spørge Big Daddy.
+Dialogue: 0,0:22:28.18,0:22:30.55,Default,,0,0,0,,Han kender ødemarken,\Nsom sin egen bukselomme.
+Dialogue: 0,0:22:31.12,0:22:32.73,Default,,0,0,0,,Det ville jeg sætte pris på.
+Dialogue: 0,0:22:33.62,0:22:36.86,Default,,0,0,0,,Giv dem en omgang,\Npå min regning. Hyg jer.
+Dialogue: 0,0:22:41.16,0:22:43.60,Default,,0,0,0,,- Tror du, hun vil hjælpe os?\N- Måske.
+Dialogue: 0,0:22:43.70,0:22:47.20,Default,,0,0,0,,Krigsherre.\NNyder du robotten?
+Dialogue: 0,0:22:50.64,0:22:53.11,Default,,0,0,0,,Der er nogen,\Nder spørger til Paradise Beach.
+Dialogue: 0,0:22:53.21,0:22:55.54,Default,,0,0,0,,- Har du set dem før?\N- Nej, ikke herinde.
+Dialogue: 0,0:22:56.71,0:22:59.24,Default,,0,0,0,,De kom på nogle fine maskiner.
+Dialogue: 0,0:22:59.38,0:23:03.42,Default,,0,0,0,,- De er helt sikkert ikke herfra.\N- Glemmer du ikke noget?
+Dialogue: 0,0:23:04.09,0:23:05.75,Default,,0,0,0,,Undskyld, Daddy,\Njeg ville have sagt...
+Dialogue: 0,0:23:06.99,0:23:10.89,Default,,0,0,0,,Du tror, du er så smart, sæk.\NJeg har øjne overalt. Aflevér.
+Dialogue: 0,0:23:13.19,0:23:15.13,Default,,0,0,0,,Forsvind, giv dem noget at drikke.
+Dialogue: 0,0:23:17.20,0:23:19.75,Default,,0,0,0,,Er I klar til at byde de nye kællinger\Nvelkommen?
+Dialogue: 0,0:23:19.79,0:23:21.25,Default,,0,0,0,,Så giv den gas.
+Dialogue: 0,0:23:21.74,0:23:23.20,Default,,0,0,0,,Din slemme tøs.
+Dialogue: 0,0:23:29.01,0:23:34.15,Default,,0,0,0,,Min familie døde af feberen.\NJeg kunne ikke gøre noget.
+Dialogue: 0,0:23:37.05,0:23:40.53,Default,,0,0,0,,Bare fordi at nogen er døde,\Nbetyder det ikke, at de ikke er med dig.
+Dialogue: 0,0:23:41.72,0:23:43.63,Default,,0,0,0,,Nyder I jeres øl?
+Dialogue: 0,0:23:43.67,0:23:46.93,Default,,0,0,0,,- Skal du også have en lap dance?\N- Nej tak. Vi klarer os.
+Dialogue: 0,0:23:47.03,0:23:51.06,Default,,0,0,0,,Er vores kællinger fine nok?\NVil I hellere sutte pik?
+Dialogue: 0,0:23:51.06,0:23:56.57,Default,,0,0,0,,- Vi vil ikke lave ballade.\N- I kan bare betale os kontant.
+Dialogue: 0,0:23:57.54,0:23:59.61,Default,,0,0,0,,- Lad os nu være.\N- Luk røven!
+Dialogue: 0,0:23:59.71,0:24:04.07,Default,,0,0,0,,- Læg den kniv væk!\N- Jeg tager, hvad jeg vil.
+Dialogue: 0,0:24:05.05,0:24:06.75,Default,,0,0,0,,Hvad fanden vil du gøre ved det?
+Dialogue: 0,0:24:11.15,0:24:12.79,Default,,0,0,0,,Du har sgu ikke nogen kugl...
+Dialogue: 0,0:24:15.06,0:24:17.99,Default,,0,0,0,,Gå væk!\NEller du får samme behandling!
+Dialogue: 0,0:24:17.99,0:24:21.36,Default,,0,0,0,,- Hvor fanden har de dem fra?\N- Ingen har kugler længere.
+Dialogue: 0,0:24:25.97,0:24:27.17,Default,,0,0,0,,Lad os komme væk herfra.
+Dialogue: 0,0:24:29.97,0:24:32.24,Default,,0,0,0,,I forstår sgu at præsentere jer selv.
+Dialogue: 0,0:24:32.64,0:24:36.95,Default,,0,0,0,,Det er fedt. Læg pistolen væk.\NDette sted er fredeligt.
+Dialogue: 0,0:24:37.65,0:24:39.47,Default,,0,0,0,,Tilbage til arbejdet.
+Dialogue: 0,0:24:41.12,0:24:44.55,Default,,0,0,0,,Ikke alene er jeg indehaver\Naf denne fine virksomhed, -
+Dialogue: 0,0:24:45.09,0:24:48.12,Default,,0,0,0,,- men jeg er, hvad man kan kalder\Nkvindernes ven.
+Dialogue: 0,0:24:48.36,0:24:53.08,Default,,0,0,0,,- Er du blot en alfons?\NDu får det til at lyde dårligt.
+Dialogue: 0,0:24:53.46,0:24:56.90,Default,,0,0,0,,En alfons er det mest ensomme\Ni denne ødemark.
+Dialogue: 0,0:24:57.16,0:24:59.43,Default,,0,0,0,,Jeg kan ikke stole på nogen\Naf kællingerne.
+Dialogue: 0,0:25:00.00,0:25:03.21,Default,,0,0,0,,Har I prøvet at dyppe snablen?
+Dialogue: 0,0:25:03.70,0:25:06.77,Default,,0,0,0,,Vi leder faktisk efter Paradise Beach.\NDer skulle være medicin der.
+Dialogue: 0,0:25:06.97,0:25:10.74,Default,,0,0,0,,- Jeg har hørt om det.\N- Kan du vise os vej?
+Dialogue: 0,0:25:10.74,0:25:12.58,Default,,0,0,0,,Hør, det er beskidt arbejde.
+Dialogue: 0,0:25:12.95,0:25:16.56,Default,,0,0,0,,Hvis jeg hjælper jer,\Nså skyder jeg mig selv i foden.
+Dialogue: 0,0:25:16.75,0:25:18.83,Default,,0,0,0,,Hvad er det værd for jer?
+Dialogue: 0,0:25:26.59,0:25:28.49,Default,,0,0,0,,Nu kan vi kalde os for partnere.
+Dialogue: 0,0:25:29.00,0:25:32.30,Default,,0,0,0,,Jeg kender nogen,\Nder kan vise jer vej.
+Dialogue: 0,0:25:32.30,0:25:34.46,Default,,0,0,0,,Er du sikker på, at du vil det?
+Dialogue: 0,0:25:34.84,0:25:39.04,Default,,0,0,0,,- Lad os høre, hvad han har at sige.\N- Rolig nu. Efter mig.
+Dialogue: 0,0:25:50.85,0:25:54.92,Default,,0,0,0,,I burde føle jer specielle.\NJeg tager aldrig nogen med herhen.
+Dialogue: 0,0:25:55.19,0:25:57.73,Default,,0,0,0,,Jeg kalder det for,\Nmine kællingers Hall of Fame.
+Dialogue: 0,0:25:58.83,0:26:00.74,Default,,0,0,0,,Det er dig, der bestemmer, ikke?
+Dialogue: 0,0:26:01.16,0:26:02.76,Default,,0,0,0,,Kom med herind.
+Dialogue: 0,0:26:02.76,0:26:04.20,Default,,0,0,0,,Jeg har noget specielt til...
+Dialogue: 0,0:26:04.80,0:26:06.57,Default,,0,0,0,,Vent for fanden lige lidt.
+Dialogue: 0,0:26:06.77,0:26:09.03,Default,,0,0,0,,Hej so!\NPis af med jer.
+Dialogue: 0,0:26:10.07,0:26:11.91,Default,,0,0,0,,Hvad fanden fejler I?
+Dialogue: 0,0:26:13.14,0:26:15.14,Default,,0,0,0,,Jeg fatter det ikke.
+Dialogue: 0,0:26:15.18,0:26:18.68,Default,,0,0,0,,- Du skal også gå ud.\N- Knægten bliver hos mig.
+Dialogue: 0,0:26:18.68,0:26:20.61,Default,,0,0,0,,Hør her, min tøs er genert.
+Dialogue: 0,0:26:20.95,0:26:25.55,Default,,0,0,0,,Hvis I vil til Paradise Beach,\Nskal han snakke med hende alene.
+Dialogue: 0,0:26:26.02,0:26:28.19,Default,,0,0,0,,Rico... Det er okay.
+Dialogue: 0,0:26:31.06,0:26:32.09,Default,,0,0,0,,Tag den med.
+Dialogue: 0,0:26:32.36,0:26:36.00,Default,,0,0,0,,Giver du den lille dreng et våben?\NHar du også et tæppe til ham?
+Dialogue: 0,0:26:36.93,0:26:38.80,Default,,0,0,0,,Du er vist en værre en.
+Dialogue: 0,0:26:39.67,0:26:41.56,Default,,0,0,0,,Har jeg sagt, jeg synes om det?
+Dialogue: 0,0:26:41.80,0:26:45.00,Default,,0,0,0,,Hør nu efter.\NDu skal bare hygge dig.
+Dialogue: 0,0:26:45.11,0:26:47.04,Default,,0,0,0,,Slap af, for du er i gode hænder.
+Dialogue: 0,0:26:47.34,0:26:49.32,Default,,0,0,0,,Velkommen til Paradis.
+Dialogue: 0,0:26:50.01,0:26:52.08,Default,,0,0,0,,Nå ja, lige en ting mere.
+Dialogue: 0,0:26:53.05,0:26:56.72,Default,,0,0,0,,Vær ikke bange for fare.\NFor nu sker det.
+Dialogue: 0,0:27:09.90,0:27:13.13,Default,,0,0,0,,- Hvad kan jeg hjælpe med?\N- Jeg leder efter Paradise Beach.
+Dialogue: 0,0:27:14.24,0:27:17.37,Default,,0,0,0,,- Paradise Beach?\N- Ja.
+Dialogue: 0,0:27:18.20,0:27:22.14,Default,,0,0,0,,- Min mor er meget syg.\N- Hun har problemer.
+Dialogue: 0,0:27:25.21,0:27:27.02,Default,,0,0,0,,Jeg har ikke meget tid.
+Dialogue: 0,0:27:28.78,0:27:30.38,Default,,0,0,0,,Jeg vil gerne hjælpe dig.
+Dialogue: 0,0:27:34.99,0:27:38.29,Default,,0,0,0,,Du er meget venlig.\NDet kan jeg se i dine øjne.
+Dialogue: 0,0:27:40.03,0:27:42.36,Default,,0,0,0,,- Hvem er du?\N- Jeg hedder Ash.
+Dialogue: 0,0:27:45.00,0:27:46.33,Default,,0,0,0,,Din øjne...
+Dialogue: 0,0:27:47.37,0:27:48.97,Default,,0,0,0,,{\i1}Kom i gang.{\i0}
+Dialogue: 0,0:27:49.07,0:27:50.58,Default,,0,0,0,,Ja.
+Dialogue: 0,0:27:53.31,0:27:57.38,Default,,0,0,0,,- Er du ikke et menneske?\N- Lige så meget, som du er.
+Dialogue: 0,0:27:59.95,0:28:03.25,Default,,0,0,0,,- Hvad kan du se?\N- Jeg ser dig.
+Dialogue: 0,0:28:06.12,0:28:08.43,Default,,0,0,0,,Hvad kan du mærke?
+Dialogue: 0,0:28:12.94,0:28:15.05,Default,,0,0,0,,Jeg kan mærke dig.
+Dialogue: 0,0:29:10.88,0:29:13.32,Default,,0,0,0,,- Hold da kæft.\N- Se lige den gamle so.
+Dialogue: 0,0:29:13.82,0:29:15.44,Default,,0,0,0,,Kom med ham!
+Dialogue: 0,0:29:16.65,0:29:19.27,Default,,0,0,0,,Jeg vil også have en robotsæk.
+Dialogue: 0,0:29:27.54,0:29:28.97,Default,,0,0,0,,Kom herover med ham!
+Dialogue: 0,0:29:33.59,0:29:34.78,Default,,0,0,0,,Slip mig!
+Dialogue: 0,0:29:36.44,0:29:37.48,Default,,0,0,0,,Slip!
+Dialogue: 0,0:29:39.38,0:29:40.38,Default,,0,0,0,,Kom.
+Dialogue: 0,0:29:41.08,0:29:42.12,Default,,0,0,0,,Rico!
+Dialogue: 0,0:29:42.55,0:29:44.38,Default,,0,0,0,,- Rico!\N- Op med ham!
+Dialogue: 0,0:29:44.38,0:29:45.42,Default,,0,0,0,,Rico!
+Dialogue: 0,0:29:47.49,0:29:49.12,Default,,0,0,0,,Hvorfor slog du Rico ihjel?
+Dialogue: 0,0:29:49.12,0:29:50.70,Default,,0,0,0,,Giv mig pistolen!
+Dialogue: 0,0:29:55.06,0:29:59.37,Default,,0,0,0,,Hvor har du kuglerne fra?\NHvor kommer du fra, knægt?
+Dialogue: 0,0:30:02.34,0:30:04.00,Default,,0,0,0,,Hiv ham op.
+Dialogue: 0,0:30:05.61,0:30:07.34,Default,,0,0,0,,Hvad laver I?
+Dialogue: 0,0:30:14.41,0:30:16.15,Default,,0,0,0,,Spytter du ud?
+Dialogue: 0,0:30:21.16,0:30:22.69,Default,,0,0,0,,Ned med ham
+Dialogue: 0,0:30:26.43,0:30:28.53,Default,,0,0,0,,Hvor er du fra?
+Dialogue: 0,0:30:30.96,0:30:32.00,Default,,0,0,0,,Op med ham!
+Dialogue: 0,0:30:35.74,0:30:37.60,Default,,0,0,0,,Få munden på gled!
+Dialogue: 0,0:30:39.44,0:30:40.61,Default,,0,0,0,,Kom i gang!
+Dialogue: 0,0:30:43.21,0:30:44.51,Default,,0,0,0,,Ned.
+Dialogue: 0,0:30:46.28,0:30:47.52,Default,,0,0,0,,Sådan.
+Dialogue: 0,0:30:50.38,0:30:51.88,Default,,0,0,0,,Oasen...
+Dialogue: 0,0:30:52.25,0:30:55.59,Default,,0,0,0,,Oasen? Har du flere kugler der?
+Dialogue: 0,0:30:56.39,0:30:57.56,Default,,0,0,0,,Ja...
+Dialogue: 0,0:30:57.66,0:30:59.66,Default,,0,0,0,,Fører du os dertil?
+Dialogue: 0,0:31:00.53,0:31:01.56,Default,,0,0,0,,Fuck dig.
+Dialogue: 0,0:31:02.10,0:31:03.73,Default,,0,0,0,,Op med ham!
+Dialogue: 0,0:31:06.30,0:31:08.57,Default,,0,0,0,,Ud med sproget!
+Dialogue: 0,0:31:10.87,0:31:13.01,Default,,0,0,0,,Tiden løber fra dig!
+Dialogue: 0,0:31:18.21,0:31:19.82,Default,,0,0,0,,Jeg skal nok...
+Dialogue: 0,0:31:20.25,0:31:21.92,Default,,0,0,0,,Ned.
+Dialogue: 0,0:31:28.55,0:31:30.72,Default,,0,0,0,,Din slemme sæk.
+Dialogue: 0,0:31:44.34,0:31:46.07,Default,,0,0,0,,Værsgo.
+Dialogue: 0,0:31:46.41,0:31:47.44,Default,,0,0,0,,Op!
+Dialogue: 0,0:31:58.39,0:32:00.25,Default,,0,0,0,,Kom så, skat.
+Dialogue: 0,0:32:02.36,0:32:03.59,Default,,0,0,0,,Afsted!
+Dialogue: 0,0:32:32.75,0:32:35.35,Default,,0,0,0,,{\i1}Vi kører mod syd,\NPrinsens hjemsted.{\i0}
+Dialogue: 0,0:32:39.79,0:32:43.03,Default,,0,0,0,,{\i1}Krigsherren vil voldtage\Nog dræbe alle i Oasen.{\i0}
+Dialogue: 0,0:32:45.60,0:32:49.68,Default,,0,0,0,,I det øjeblik blev jeg klar over,\Nhvor anderledes jeg var.
+Dialogue: 0,0:32:52.34,0:32:53.96,Default,,0,0,0,,{\i1}Men først...{\i0}
+Dialogue: 0,0:32:54.58,0:32:57.03,Default,,0,0,0,,{\i1}Måtte jeg gøre det rigtige.{\i0}
+Dialogue: 0,0:32:59.31,0:33:00.65,Default,,0,0,0,,Hvad laver du?
+Dialogue: 0,0:33:37.48,0:33:38.59,Default,,0,0,0,,Kom tilbage!
+Dialogue: 0,0:33:40.52,0:33:41.65,Default,,0,0,0,,Tilbage!
+Dialogue: 0,0:33:47.36,0:33:49.90,Default,,0,0,0,,Kom tilbage, din sæk!
+Dialogue: 0,0:33:50.63,0:33:51.87,Default,,0,0,0,,Satans!
+Dialogue: 0,0:34:41.21,0:34:42.25,Default,,0,0,0,,Hurtigt.
+Dialogue: 0,0:34:49.82,0:34:50.86,Default,,0,0,0,,Skynd dig!
+Dialogue: 0,0:35:16.52,0:35:19.49,Default,,0,0,0,,Dernede! Fang hende!
+Dialogue: 0,0:35:25.89,0:35:26.93,Default,,0,0,0,,Stop dem!
+Dialogue: 0,0:35:37.04,0:35:38.27,Default,,0,0,0,,Herovre!
+Dialogue: 0,0:35:52.62,0:35:54.61,Default,,0,0,0,,Hvor fanden er de?
+Dialogue: 0,0:35:59.36,0:36:00.59,Default,,0,0,0,,Kom tilbage!
+Dialogue: 0,0:36:02.86,0:36:04.26,Default,,0,0,0,,Kom tilbage!
+Dialogue: 0,0:36:06.83,0:36:10.20,Default,,0,0,0,,Kom tilbage, din robotsæk!
+Dialogue: 0,0:36:16.84,0:36:18.41,Default,,0,0,0,,Kom tilbage!
+Dialogue: 0,0:37:35.79,0:37:37.55,Default,,0,0,0,,Hvorfor reddede du mig?
+Dialogue: 0,0:37:38.89,0:37:40.43,Default,,0,0,0,,Det ved jeg ikke.
+Dialogue: 0,0:37:41.86,0:37:43.94,Default,,0,0,0,,Du er hans robot, ikke?
+Dialogue: 0,0:37:46.07,0:37:47.10,Default,,0,0,0,,Ja.
+Dialogue: 0,0:37:48.07,0:37:50.35,Default,,0,0,0,,Hvorfor adlyder du ham ikke?
+Dialogue: 0,0:37:52.41,0:37:54.44,Default,,0,0,0,,Måske har jeg en fejl.
+Dialogue: 0,0:39:27.20,0:39:29.29,Default,,0,0,0,,Hvad er dette for et sted?
+Dialogue: 0,0:39:29.80,0:39:31.31,Default,,0,0,0,,Det er vist en kirke.
+Dialogue: 0,0:39:32.14,0:39:34.07,Default,,0,0,0,,Min mor fortalte mig om disse steder.
+Dialogue: 0,0:39:35.64,0:39:38.58,Default,,0,0,0,,Folk kom her,\Nfor at rense sjælen.
+Dialogue: 0,0:39:38.61,0:39:39.98,Default,,0,0,0,,Sjælen?
+Dialogue: 0,0:39:41.91,0:39:43.46,Default,,0,0,0,,Hvad er det?
+Dialogue: 0,0:39:44.75,0:39:45.79,Default,,0,0,0,,Sjælen?
+Dialogue: 0,0:39:47.09,0:39:50.55,Default,,0,0,0,,Det er svært at forklare.\NDet er noget indeni.
+Dialogue: 0,0:39:51.02,0:39:52.88,Default,,0,0,0,,Det skaber dig.
+Dialogue: 0,0:39:55.10,0:39:56.10,Default,,0,0,0,,Okay.
+Dialogue: 0,0:39:56.80,0:39:57.83,Default,,0,0,0,,Sådan.
+Dialogue: 0,0:40:06.31,0:40:09.17,Default,,0,0,0,,Folk kom her,\Nfor at tale med Gud.
+Dialogue: 0,0:40:10.04,0:40:12.43,Default,,0,0,0,,Rense dem for deres synder.
+Dialogue: 0,0:40:12.78,0:40:14.91,Default,,0,0,0,,Hvad er synder?
+Dialogue: 0,0:40:15.15,0:40:17.40,Default,,0,0,0,,Synder? Du...
+Dialogue: 0,0:40:17.72,0:40:20.29,Default,,0,0,0,,Det er slemme ting,\Nvi gør ved hinanden.
+Dialogue: 0,0:40:20.95,0:40:23.28,Default,,0,0,0,,Som det, jeg gjorde ved dig.
+Dialogue: 0,0:40:25.12,0:40:27.19,Default,,0,0,0,,Jeg vil ikke længere.
+Dialogue: 0,0:40:27.83,0:40:29.44,Default,,0,0,0,,Jeg vil ikke synde.
+Dialogue: 0,0:40:33.27,0:40:35.17,Default,,0,0,0,,Tror du, jeg har en sjæl?
+Dialogue: 0,0:40:35.90,0:40:38.82,Default,,0,0,0,,Ja, det tror jeg.
+Dialogue: 0,0:40:39.17,0:40:41.71,Default,,0,0,0,,Men jeg er ikke et menneske.
+Dialogue: 0,0:40:47.95,0:40:52.28,Default,,0,0,0,,Engang spillede en rejsende\Nguitar for mig i Oasen.
+Dialogue: 0,0:40:53.75,0:40:56.47,Default,,0,0,0,,Jeg havde aldrig hørt noget lignende.
+Dialogue: 0,0:40:58.12,0:41:00.46,Default,,0,0,0,,Det var fantastisk.
+Dialogue: 0,0:41:02.80,0:41:05.03,Default,,0,0,0,,Det var som fra en anden verden.
+Dialogue: 0,0:41:05.03,0:41:08.05,Default,,0,0,0,,Jeg spurgte, hvordan han spillede.
+Dialogue: 0,0:41:08.17,0:41:12.04,Default,,0,0,0,,Hans formål på jorden,\Nvar at vise guitarens sjæl.
+Dialogue: 0,0:41:12.37,0:41:15.20,Default,,0,0,0,,Kan du lære mig at tale med Gud?
+Dialogue: 0,0:41:16.74,0:41:17.78,Default,,0,0,0,,Ja.
+Dialogue: 0,0:41:22.65,0:41:24.48,Default,,0,0,0,,Ned på knæ.
+Dialogue: 0,0:41:31.26,0:41:32.69,Default,,0,0,0,,Og...
+Dialogue: 0,0:41:34.19,0:41:36.12,Default,,0,0,0,,Luk øjnene.
+Dialogue: 0,0:41:40.40,0:41:42.40,Default,,0,0,0,,Hovedet...
+Dialogue: 0,0:41:44.07,0:41:46.49,Default,,0,0,0,,Han vil hjælpe os.
+Dialogue: 0,0:41:52.18,0:41:53.21,Default,,0,0,0,,Ash?
+Dialogue: 0,0:41:55.02,0:41:56.05,Default,,0,0,0,,Ash!
+Dialogue: 0,0:41:58.82,0:42:00.33,Default,,0,0,0,,Ash, er du okay?
+Dialogue: 0,0:42:02.16,0:42:03.73,Default,,0,0,0,,Ash, rejs dig.
+Dialogue: 0,0:42:06.69,0:42:07.79,Default,,0,0,0,,Ash.
+Dialogue: 0,0:42:08.93,0:42:09.96,Default,,0,0,0,,Ash!
+Dialogue: 0,0:42:28.38,0:42:29.62,Default,,0,0,0,,Okay.
+Dialogue: 0,0:45:08.31,0:45:09.80,Default,,0,0,0,,Det findes.
+Dialogue: 0,0:45:11.01,0:45:12.04,Default,,0,0,0,,Det findes.
+Dialogue: 0,0:45:13.78,0:45:14.81,Default,,0,0,0,,Ash.
+Dialogue: 0,0:45:24.16,0:45:25.90,Default,,0,0,0,,Ash, det findes.
+Dialogue: 0,0:45:26.99,0:45:28.78,Default,,0,0,0,,Vi klarede det.
+Dialogue: 0,0:45:43.21,0:45:45.70,Default,,0,0,0,,Hvem er du?\NNed på knæ!
+Dialogue: 0,0:46:25.15,0:46:27.49,Default,,0,0,0,,Skræmte jeg dig?
+Dialogue: 0,0:46:28.32,0:46:31.56,Default,,0,0,0,,Hvem er du?\NOg hvor er Ash?
+Dialogue: 0,0:46:31.56,0:46:34.46,Default,,0,0,0,,Vil du lege lidt?\NDet elsker drenge.
+Dialogue: 0,0:46:34.46,0:46:36.68,Default,,0,0,0,,Nej...
+Dialogue: 0,0:46:36.83,0:46:38.45,Default,,0,0,0,,Her er reglerne.
+Dialogue: 0,0:46:38.68,0:46:41.91,Default,,0,0,0,,Du stiller et spørgsmål,\Nderefter gør jeg.
+Dialogue: 0,0:46:42.30,0:46:44.20,Default,,0,0,0,,Lyder sjovt, ikke?
+Dialogue: 0,0:46:44.37,0:46:47.24,Default,,0,0,0,,Så... Hvem er du?
+Dialogue: 0,0:46:49.14,0:46:50.76,Default,,0,0,0,,Jeg er Prince.
+Dialogue: 0,0:46:51.28,0:46:53.48,Default,,0,0,0,,Seriøst? En prins?
+Dialogue: 0,0:46:54.38,0:46:57.99,Default,,0,0,0,,Hold da op!\NHer er en kongelige tilstede.
+Dialogue: 0,0:46:58.02,0:46:59.85,Default,,0,0,0,,- Hvem er du?\N- Du ved...
+Dialogue: 0,0:47:00.19,0:47:03.19,Default,,0,0,0,,Det er mit hjem,\Njeg bor her...
+Dialogue: 0,0:47:03.39,0:47:05.94,Default,,0,0,0,,Det er Livets Tempel, ikke?
+Dialogue: 0,0:47:08.16,0:47:11.06,Default,,0,0,0,,Hold da op.\NParadise Beach!
+Dialogue: 0,0:47:11.93,0:47:14.17,Default,,0,0,0,,Det er så skide smukt.
+Dialogue: 0,0:47:14.43,0:47:18.43,Default,,0,0,0,,Men desværre,\Nså er dette ikke paradiset.
+Dialogue: 0,0:47:18.54,0:47:20.97,Default,,0,0,0,,Dette...
+Dialogue: 0,0:47:22.04,0:47:23.44,Default,,0,0,0,,Drug Town!
+Dialogue: 0,0:47:38.16,0:47:39.77,Default,,0,0,0,,Lækker.
+Dialogue: 0,0:47:50.64,0:47:52.67,Default,,0,0,0,,Hvad har vi så her?
+Dialogue: 0,0:47:53.61,0:47:57.01,Default,,0,0,0,,Livets Tempel fungerer, -
+Dialogue: 0,0:47:57.01,0:47:59.21,Default,,0,0,0,,- men det her er bedre!
+Dialogue: 0,0:47:59.45,0:48:02.08,Default,,0,0,0,,Her er ingen smerter,\Nkun lyksalighed.
+Dialogue: 0,0:48:02.68,0:48:05.58,Default,,0,0,0,,Hvad finder man ellers\Ni denne røvsyge verden?
+Dialogue: 0,0:48:05.92,0:48:09.49,Default,,0,0,0,,Er du bare på turistbesøg i området, -
+Dialogue: 0,0:48:09.62,0:48:11.53,Default,,0,0,0,,- eller er der noget andet,\Ndu er ude efter?
+Dialogue: 0,0:48:12.96,0:48:16.61,Default,,0,0,0,,- Jeg hører, at I har en kur.\N- Vi har mange.
+Dialogue: 0,0:48:17.16,0:48:18.77,Default,,0,0,0,,Mange.
+Dialogue: 0,0:48:19.13,0:48:21.49,Default,,0,0,0,,Min mor er alvorligt syg.
+Dialogue: 0,0:48:21.63,0:48:25.64,Default,,0,0,0,,- Hun har rød feber.\N- En forfærdelig sygdom.
+Dialogue: 0,0:48:27.37,0:48:31.28,Default,,0,0,0,,Men netop den kur,\Ner svær at skaffe nu om dage.
+Dialogue: 0,0:48:32.11,0:48:33.75,Default,,0,0,0,,Du har den altså ikke?
+Dialogue: 0,0:48:34.98,0:48:36.12,Default,,0,0,0,,Jo. Følg med.
+Dialogue: 0,0:48:39.22,0:48:44.09,Default,,0,0,0,,Det er her.\NHer får du din medicin, Prince.
+Dialogue: 0,0:48:44.19,0:48:45.55,Default,,0,0,0,,Herinde?
+Dialogue: 0,0:48:45.59,0:48:49.45,Default,,0,0,0,,Jeg ved, der ikke er så meget\Nat kigge efter, -
+Dialogue: 0,0:48:49.59,0:48:52.28,Default,,0,0,0,,- men vi har alt, du har brug for.
+Dialogue: 0,0:48:53.23,0:48:54.70,Default,,0,0,0,,Men først...
+Dialogue: 0,0:48:57.37,0:49:00.23,Default,,0,0,0,,... skal du blive en af os.
+Dialogue: 0,0:49:02.18,0:49:05.58,Default,,0,0,0,,Vil du have medicin til din mor?
+Dialogue: 0,0:49:05.58,0:49:10.09,Default,,0,0,0,,- Hvorfor?\N- Snart er dine problemer fortid.
+Dialogue: 0,0:49:10.38,0:49:13.61,Default,,0,0,0,,- Et øjeblik...\N- Er du med?
+Dialogue: 0,0:49:14.19,0:49:15.86,Default,,0,0,0,,Velkommen til min verden.
+Dialogue: 0,0:49:26.57,0:49:29.10,Default,,0,0,0,,Kan du mærke medicinen?
+Dialogue: 0,0:49:29.67,0:49:32.09,Default,,0,0,0,,Lad den overtage.
+Dialogue: 0,0:49:32.61,0:49:34.88,Default,,0,0,0,,Det er godt, ikke?
+Dialogue: 0,0:49:36.54,0:49:38.32,Default,,0,0,0,,Fedt, ikke?
+Dialogue: 0,0:50:01.27,0:50:04.67,Default,,0,0,0,,Lad os finde ud af,\Nhvad der er galt med dig.
+Dialogue: 0,0:50:08.61,0:50:12.41,Default,,0,0,0,,Du bløder jo helt vildt.
+Dialogue: 0,0:50:12.88,0:50:15.21,Default,,0,0,0,,Du godeste.
+Dialogue: 0,0:50:20.89,0:50:24.23,Default,,0,0,0,,Okay...
+Dialogue: 0,0:50:36.94,0:50:40.24,Default,,0,0,0,,Kan du mærke det?
+Dialogue: 0,0:50:40.51,0:50:42.34,Default,,0,0,0,,Ja, det kan du.
+Dialogue: 0,0:50:52.85,0:50:54.39,Default,,0,0,0,,Kom nu, søde.
+Dialogue: 0,0:50:54.72,0:50:56.79,Default,,0,0,0,,Mærk fornøjelsen.
+Dialogue: 0,0:50:57.36,0:51:01.29,Default,,0,0,0,,Det hele forstørres,\Nnår det løber i dine årer.
+Dialogue: 0,0:51:01.39,0:51:04.11,Default,,0,0,0,,Det hele er forstørret.
+Dialogue: 0,0:51:04.36,0:51:07.83,Default,,0,0,0,,Glæde, kærlighed, lyst.
+Dialogue: 0,0:51:08.40,0:51:12.13,Default,,0,0,0,,Jalousi! Og had!
+Dialogue: 0,0:51:14.51,0:51:15.91,Default,,0,0,0,,Ødemarkens had.
+Dialogue: 0,0:51:33.93,0:51:35.89,Default,,0,0,0,,Nu til sandhedens øjeblik.
+Dialogue: 0,0:51:37.56,0:51:40.97,Default,,0,0,0,,Hallo? Kan du høre mig?
+Dialogue: 0,0:51:41.67,0:51:46.34,Default,,0,0,0,,- Hvor er jeg?\N- I sikkerhed.
+Dialogue: 0,0:51:51.74,0:51:53.89,Default,,0,0,0,,Det beklager jeg.
+Dialogue: 0,0:51:54.07,0:51:57.65,Default,,0,0,0,,Det er svært at komme igennem,\Nog du blødte som et svin.
+Dialogue: 0,0:51:58.25,0:52:00.19,Default,,0,0,0,,Du reddede mig.
+Dialogue: 0,0:52:03.02,0:52:05.32,Default,,0,0,0,,Ja, på en måde.
+Dialogue: 0,0:52:07.73,0:52:09.16,Default,,0,0,0,,Tak.
+Dialogue: 0,0:52:15.53,0:52:17.27,Default,,0,0,0,,Er du en fange?
+Dialogue: 0,0:52:20.97,0:52:25.31,Default,,0,0,0,,- Det vil jeg ikke kalde det.\N- Kan du gå, når du vil?
+Dialogue: 0,0:52:26.41,0:52:28.48,Default,,0,0,0,,Du ville ikke forstå det.
+Dialogue: 0,0:52:29.52,0:52:32.09,Default,,0,0,0,,Havde jeg et valg, ville jeg blive her.
+Dialogue: 0,0:52:34.65,0:52:37.29,Default,,0,0,0,,Ødemarken er fyldt med\Nskrækkelige mennesker.
+Dialogue: 0,0:52:37.92,0:52:39.79,Default,,0,0,0,,Jeg forstår.
+Dialogue: 0,0:52:47.80,0:52:49.67,Default,,0,0,0,,Det var sådan, jeg kom til skade.
+Dialogue: 0,0:53:00.45,0:53:02.35,Default,,0,0,0,,Hvad synes du?
+Dialogue: 0,0:53:06.65,0:53:08.42,Default,,0,0,0,,Det er alt, hvad jeg ønskede.
+Dialogue: 0,0:53:09.85,0:53:13.79,Default,,0,0,0,,Mere end noget andet i Oasen.
+Dialogue: 0,0:53:14.59,0:53:17.03,Default,,0,0,0,,Hvad er Oasen?
+Dialogue: 0,0:53:18.36,0:53:20.10,Default,,0,0,0,,Oasen?
+Dialogue: 0,0:53:22.90,0:53:24.64,Default,,0,0,0,,Det er livet.
+Dialogue: 0,0:53:29.77,0:53:32.44,Default,,0,0,0,,Min mor ønskede ikke jeg tog afsted.
+Dialogue: 0,0:53:33.81,0:53:35.91,Default,,0,0,0,,Hun synes, det var perfekt.
+Dialogue: 0,0:53:38.75,0:53:42.19,Default,,0,0,0,,Det er ikke et rod,\Nligesom resten af verden.
+Dialogue: 0,0:53:43.09,0:53:46.76,Default,,0,0,0,,- Det er lykkeligt.\N- Det lyder perfekt.
+Dialogue: 0,0:53:47.03,0:53:50.46,Default,,0,0,0,,Kan du se det?\NVandet er dødt.
+Dialogue: 0,0:53:51.33,0:53:55.54,Default,,0,0,0,,Vi har ingenting indeni os.
+Dialogue: 0,0:53:56.37,0:53:59.84,Default,,0,0,0,,Jeg ville elske at se\Net træ eller en blomst.
+Dialogue: 0,0:53:59.84,0:54:04.01,Default,,0,0,0,,Det er trist.\NHvorfor gjorde du mig trist?
+Dialogue: 0,0:54:04.74,0:54:08.92,Default,,0,0,0,,Her.  Prøv dette.
+Dialogue: 0,0:54:11.75,0:54:14.52,Default,,0,0,0,,Bare...
+Dialogue: 0,0:54:15.49,0:54:17.99,Default,,0,0,0,,Og ud...
+Dialogue: 0,0:54:21.49,0:54:24.06,Default,,0,0,0,,Rejste du med Ash?
+Dialogue: 0,0:54:24.86,0:54:27.67,Default,,0,0,0,,Hun er den perfekte kvinde, ikke?
+Dialogue: 0,0:54:27.87,0:54:31.07,Default,,0,0,0,,Ikke af kød og blod,\Nmen noget ægte.
+Dialogue: 0,0:54:31.10,0:54:33.23,Default,,0,0,0,,Det elsker jeg.
+Dialogue: 0,0:54:33.77,0:54:38.48,Default,,0,0,0,,Ægtheden...\NDet har jeg ledt efter.
+Dialogue: 0,0:54:48.72,0:54:50.39,Default,,0,0,0,,Sov godt.
+Dialogue: 0,0:55:19.55,0:55:22.69,Default,,0,0,0,,{\i1}Min søn. Min prins.{\i0}
+Dialogue: 0,0:55:24.62,0:55:26.26,Default,,0,0,0,,{\i1}Kom hjem.{\i0}
+Dialogue: 0,0:56:05.13,0:56:06.77,Default,,0,0,0,,Fandens!
+Dialogue: 0,0:56:07.10,0:56:09.23,Default,,0,0,0,,Op med dig!
+Dialogue: 0,0:56:58.18,0:57:00.95,Default,,0,0,0,,Du er bare et sødt lille barn, ikke?
+Dialogue: 0,0:57:02.69,0:57:05.69,Default,,0,0,0,,Mit søde lille barn.
+Dialogue: 0,0:57:06.89,0:57:10.03,Default,,0,0,0,,Hvad? Nej, nej...
+Dialogue: 0,0:57:10.30,0:57:15.17,Default,,0,0,0,,Vær ikke ked af det.\NJeg gør dig glad.
+Dialogue: 0,0:57:16.17,0:57:18.24,Default,,0,0,0,,Jeg får det bedste frem i dig.
+Dialogue: 0,0:57:18.97,0:57:23.64,Default,,0,0,0,,Og du får det bedste frem i mig, ikke?
+Dialogue: 0,0:57:29.62,0:57:31.02,Default,,0,0,0,,Tak.
+Dialogue: 0,0:57:32.08,0:57:33.72,Default,,0,0,0,,Tak.
+Dialogue: 0,0:59:15.62,0:59:17.42,Default,,0,0,0,,Spillet er ret enkelt.
+Dialogue: 0,0:59:17.79,0:59:19.42,Default,,0,0,0,,Det, du ønsker...
+Dialogue: 0,0:59:21.36,0:59:23.61,Default,,0,0,0,,... er i hans mave.
+Dialogue: 0,0:59:24.70,0:59:26.60,Default,,0,0,0,,Vi laver en aftale.
+Dialogue: 0,0:59:26.73,0:59:30.00,Default,,0,0,0,,Det bliver sjovt,\Nsom at kæmpe til man dør.
+Dialogue: 0,0:59:30.50,0:59:34.31,Default,,0,0,0,,Vinder du, får du kuren.\NTaber du, dør du.
+Dialogue: 0,0:59:34.37,0:59:35.91,Default,,0,0,0,,Hyg dig.
+Dialogue: 0,0:59:42.81,0:59:44.45,Default,,0,0,0,,Her er vores wildcard.
+Dialogue: 0,1:00:43.21,1:00:45.24,Default,,0,0,0,,Og nu til wildcardet.
+Dialogue: 0,1:01:41.23,1:01:44.47,Default,,0,0,0,,Jeg fatter det ikke.\NTroede ikke, du havde det i dig.
+Dialogue: 0,1:01:45.00,1:01:47.78,Default,,0,0,0,,Det, du vil have, er i hans mave.
+Dialogue: 0,1:02:39.36,1:02:41.13,Default,,0,0,0,,Du har fortjent det.
+Dialogue: 0,1:02:54.54,1:02:57.64,Default,,0,0,0,,Ash, lad os komme væk herfra.
+Dialogue: 0,1:03:02.95,1:03:04.92,Default,,0,0,0,,Du bad om en kur...
+Dialogue: 0,1:03:06.45,1:03:07.85,Default,,0,0,0,,Ikke en robot.
+Dialogue: 0,1:03:08.65,1:03:13.43,Default,,0,0,0,,- Jeg tager ikke afsted uden hende.\N- Jeg gav dig medicin.
+Dialogue: 0,1:03:13.69,1:03:18.10,Default,,0,0,0,,Jeg reddede dine venners liv.\NHun bliver her hos mig.
+Dialogue: 0,1:03:18.23,1:03:22.00,Default,,0,0,0,,Fuck dig. Vi tager afsted.
+Dialogue: 0,1:03:22.10,1:03:25.37,Default,,0,0,0,,Du kan gå, ellers stopper det her.
+Dialogue: 0,1:03:28.24,1:03:32.24,Default,,0,0,0,,- Jeg går ikke uden hende.\N- Gå!
+Dialogue: 0,1:03:32.61,1:03:34.15,Default,,0,0,0,,Tiden går.
+Dialogue: 0,1:03:38.38,1:03:41.92,Default,,0,0,0,,- Ash...\N- Gå.
+Dialogue: 0,1:03:55.07,1:03:57.30,Default,,0,0,0,,Det knuser mit hjerte.
+Dialogue: 0,1:05:50.85,1:05:54.72,Default,,0,0,0,,Jeg sagde, jeg selv kunne vælge.\NJeg får dig ud herfra.
+Dialogue: 0,1:06:06.77,1:06:11.74,Default,,0,0,0,,- Hvad hvis de kommer?\N- Det er okay.
+Dialogue: 0,1:06:12.80,1:06:15.67,Default,,0,0,0,,Hvorfor er du så rolig?
+Dialogue: 0,1:06:18.84,1:06:20.58,Default,,0,0,0,,Stop.
+Dialogue: 0,1:06:24.82,1:06:26.85,Default,,0,0,0,,Det er sådan det er.
+Dialogue: 0,1:06:28.45,1:06:30.22,Default,,0,0,0,,Det er sådan det er?
+Dialogue: 0,1:06:32.66,1:06:36.63,Default,,0,0,0,,Jeg ville ønske, jeg var som dig.\NVille ønske...
+Dialogue: 0,1:06:36.73,1:06:39.53,Default,,0,0,0,,Bare jeg ikke bekymrede mig sådan.
+Dialogue: 0,1:06:52.24,1:06:55.18,Default,,0,0,0,,Vær glad for dine følelser,\Nom de er gode eller ej.
+Dialogue: 0,1:06:59.22,1:07:00.95,Default,,0,0,0,,Kan du mærke dette?
+Dialogue: 0,1:07:09.39,1:07:10.93,Default,,0,0,0,,Og dette?
+Dialogue: 0,1:07:16.67,1:07:18.20,Default,,0,0,0,,Ja.
+Dialogue: 0,1:07:21.67,1:07:25.48,Default,,0,0,0,,Jeg burde ikke gøre dette.\NJeg burde ikke udnytte dig.
+Dialogue: 0,1:07:30.58,1:07:31.92,Default,,0,0,0,,Lei...
+Dialogue: 0,1:07:35.32,1:07:37.12,Default,,0,0,0,,Jeg kan lide den følelse.
+Dialogue: 0,1:08:25.00,1:08:26.97,Default,,0,0,0,,{\i1}Det var i dette øjeblik...{\i0}
+Dialogue: 0,1:08:29.27,1:08:31.18,Default,,0,0,0,,{\i1}Jeg fik en forbindelse.{\i0}
+Dialogue: 0,1:08:32.81,1:08:34.65,Default,,0,0,0,,{\i1}Jeg føler noget.{\i0}
+Dialogue: 0,1:08:35.78,1:08:37.82,Default,,0,0,0,,{\i1}Noget ægte.{\i0}
+Dialogue: 0,1:08:40.65,1:08:42.92,Default,,0,0,0,,Jeg har ikke haft den følelse før.
+Dialogue: 0,1:08:44.59,1:08:47.26,Default,,0,0,0,,Den er ikke som de andre.
+Dialogue: 0,1:08:48.56,1:08:51.00,Default,,0,0,0,,- Det er jeg ked af.\N- Vær ikke det.
+Dialogue: 0,1:08:53.30,1:08:54.93,Default,,0,0,0,,Jeg ville gerne.
+Dialogue: 0,1:08:57.27,1:09:01.61,Default,,0,0,0,,Jeg kunne mærke dit hjerteslag.\NOg din energi.
+Dialogue: 0,1:09:03.97,1:09:06.54,Default,,0,0,0,,Jeg ved slet ikke,\Nhvad det er længere.
+Dialogue: 0,1:09:10.45,1:09:13.25,Default,,0,0,0,,Jeg blev taget fra\Nmin familie, da jeg var lille.
+Dialogue: 0,1:09:13.92,1:09:16.12,Default,,0,0,0,,En gruppe oprørere tog mig.
+Dialogue: 0,1:09:17.49,1:09:19.36,Default,,0,0,0,,Jeg var så lille.
+Dialogue: 0,1:09:20.76,1:09:24.20,Default,,0,0,0,,Jeg lærte, hvor onde folk kan være.
+Dialogue: 0,1:09:30.54,1:09:32.40,Default,,0,0,0,,Jeg blev ældre...
+Dialogue: 0,1:09:33.30,1:09:36.01,Default,,0,0,0,,De havde ikke brug for mig længere.
+Dialogue: 0,1:09:36.64,1:09:41.45,Default,,0,0,0,,De solgte mig.\NSådan endte jeg her.
+Dialogue: 0,1:09:41.68,1:09:44.15,Default,,0,0,0,,Jeg er glad for, du ordnede mig.
+Dialogue: 0,1:09:49.05,1:09:51.02,Default,,0,0,0,,Det er jeg også.
+Dialogue: 0,1:09:54.06,1:09:58.20,Default,,0,0,0,,Hun skulle være den perfekte kvinde.
+Dialogue: 0,1:10:00.47,1:10:02.33,Default,,0,0,0,,Hun er ægte, ikke sandt?
+Dialogue: 0,1:10:04.60,1:10:06.34,Default,,0,0,0,,Så ægte...
+Dialogue: 0,1:10:09.41,1:10:12.34,Default,,0,0,0,,Jeg gav dig alt.
+Dialogue: 0,1:10:12.34,1:10:14.78,Default,,0,0,0,,Jeg opfostrede dig.\NGav dig respekt.
+Dialogue: 0,1:10:15.35,1:10:16.68,Default,,0,0,0,,Du forstår ikke...
+Dialogue: 0,1:10:17.28,1:10:21.02,Default,,0,0,0,,Du tog det, der skulle være mit.
+Dialogue: 0,1:10:22.75,1:10:24.49,Default,,0,0,0,,Du ødelagde hende.
+Dialogue: 0,1:10:26.49,1:10:31.30,Default,,0,0,0,,Du er en virus.
+Dialogue: 0,1:10:32.46,1:10:37.80,Default,,0,0,0,,Du er en ulækker lille virus.
+Dialogue: 0,1:10:37.80,1:10:43.24,Default,,0,0,0,,- Sig ikke det.\N- Hold din mund.
+Dialogue: 0,1:10:46.04,1:10:48.05,Default,,0,0,0,,Det hele skal nok gå.
+Dialogue: 0,1:10:48.48,1:10:50.95,Default,,0,0,0,,Vi ordner det.
+Dialogue: 0,1:10:51.85,1:10:55.22,Default,,0,0,0,,Så det vi gør...
+Dialogue: 0,1:10:55.59,1:10:59.16,Default,,0,0,0,,Du sletter hendes harddisk.\NDu renser hende.
+Dialogue: 0,1:10:59.39,1:11:02.83,Default,,0,0,0,,Færdig. En ny start.
+Dialogue: 0,1:11:03.13,1:11:07.13,Default,,0,0,0,,Når hun vågner, kan hun ikke huske dig.
+Dialogue: 0,1:11:10.43,1:11:14.81,Default,,0,0,0,,Eller noget af alt dette.
+Dialogue: 0,1:11:16.41,1:11:21.35,Default,,0,0,0,,Når hun vågner, vil hun se mig.
+Dialogue: 0,1:11:30.72,1:11:35.39,Default,,0,0,0,,Hun vil elske mig...
+Dialogue: 0,1:12:29.01,1:12:32.21,Default,,0,0,0,,De er lige der!\NFang dem!
+Dialogue: 0,1:12:32.22,1:12:34.79,Default,,0,0,0,,De er lige der!
+Dialogue: 0,1:12:35.89,1:12:37.62,Default,,0,0,0,,Fang dem!
+Dialogue: 0,1:12:57.98,1:12:59.51,Default,,0,0,0,,Hvad fanden?
+Dialogue: 0,1:13:38.85,1:13:40.18,Default,,0,0,0,,Nej!
+Dialogue: 0,1:14:01.84,1:14:05.38,Default,,0,0,0,,Det er mit palads.\NJeg bor her!
+Dialogue: 0,1:14:07.34,1:14:09.41,Default,,0,0,0,,Forsvind!
+Dialogue: 0,1:14:26.43,1:14:27.83,Default,,0,0,0,,For fanden!
+Dialogue: 0,1:14:35.34,1:14:38.34,Default,,0,0,0,,Ingen smerte, din skiderik!
+Dialogue: 0,1:15:23.25,1:15:25.89,Default,,0,0,0,,Kan du lide det?
+Dialogue: 0,1:15:35.17,1:15:37.07,Default,,0,0,0,,Forbandede kælling.
+Dialogue: 0,1:15:49.78,1:15:51.12,Default,,0,0,0,,Hej.
+Dialogue: 0,1:15:51.38,1:15:52.82,Default,,0,0,0,,Stop.
+Dialogue: 0,1:15:54.29,1:15:55.92,Default,,0,0,0,,Tag dem.
+Dialogue: 0,1:16:02.43,1:16:05.66,Default,,0,0,0,,De prøvede at tage min brud.
+Dialogue: 0,1:16:06.70,1:16:08.47,Default,,0,0,0,,Hun tilhører mig!
+Dialogue: 0,1:16:10.43,1:16:12.94,Default,,0,0,0,,De prøvede at blive venner med hende.
+Dialogue: 0,1:16:13.61,1:16:18.34,Default,,0,0,0,,Tage hende fra mig!\NHun tilhører mig!
+Dialogue: 0,1:16:19.48,1:16:22.81,Default,,0,0,0,,- Læg dem derned.\N- Ash...
+Dialogue: 0,1:16:29.95,1:16:31.86,Default,,0,0,0,,Hug hovederne af dem.
+Dialogue: 0,1:16:35.76,1:16:37.53,Default,,0,0,0,,Det vil du ikke gøre, Ash.
+Dialogue: 0,1:16:49.04,1:16:50.78,Default,,0,0,0,,Lyt ikke til dem, Ash.
+Dialogue: 0,1:16:51.74,1:16:54.88,Default,,0,0,0,,Sådan er du ikke.
+Dialogue: 0,1:16:55.51,1:16:57.05,Default,,0,0,0,,Sådan er du ikke.
+Dialogue: 0,1:16:58.42,1:17:01.92,Default,,0,0,0,,- Dræb dem.\N- Nej.
+Dialogue: 0,1:17:10.36,1:17:12.76,Default,,0,0,0,,Stop, din dæmoniske kælling.
+Dialogue: 0,1:17:30.38,1:17:33.72,Default,,0,0,0,,Dræb dem!
+Dialogue: 0,1:17:45.20,1:17:47.23,Default,,0,0,0,,Nej!
+Dialogue: 0,1:18:26.70,1:18:30.57,Default,,0,0,0,,- Stop!\N- Hvorfor?
+Dialogue: 0,1:18:30.58,1:18:32.58,Default,,0,0,0,,- Hvad laver du?\N- Hop af!
+Dialogue: 0,1:18:37.42,1:18:40.78,Default,,0,0,0,,Hvad har du gang i?\NAsh!
+Dialogue: 0,1:20:05.60,1:20:07.54,Default,,0,0,0,,{\i1}Krigsherren er død.{\i0}
+Dialogue: 0,1:20:10.21,1:20:12.21,Default,,0,0,0,,{\i1}Men en anden vil erstatte ham.{\i0}
+Dialogue: 0,1:20:18.98,1:20:21.12,Default,,0,0,0,,{\i1}Denne verden har ingen minder.{\i0}
+Dialogue: 0,1:20:42.24,1:20:44.11,Default,,0,0,0,,Prinsen er tilbage!
+Dialogue: 0,1:20:44.98,1:20:46.78,Default,,0,0,0,,Der er noget, jeg skal...
+Dialogue: 0,1:20:47.45,1:20:50.62,Default,,0,0,0,,Hvad? Hvor skal du hen?
+Dialogue: 0,1:20:54.62,1:20:56.55,Default,,0,0,0,,Du gav mig en sjæl.
+Dialogue: 0,1:21:37.66,1:21:39.10,Default,,0,0,0,,Mor...
+Dialogue: 0,1:21:40.30,1:21:41.83,Default,,0,0,0,,Mor.
+Dialogue: 0,1:21:43.37,1:21:45.24,Default,,0,0,0,,Jeg har medicinen.
+Dialogue: 0,1:22:23.61,1:22:25.34,Default,,0,0,0,,Min søn...
+Dialogue: 0,1:22:47.80,1:22:50.27,Default,,0,0,0,,{\i1}Vi fortsatte...{\i0}
+Dialogue: 0,1:22:52.24,1:22:54.44,Default,,0,0,0,,{\i1}Ledte efter andre som mig.{\i0}
+Dialogue: 0,1:22:55.64,1:22:59.48,Default,,0,0,0,,{\i1}Vi måtte finde dem,\Nog vise hvad vi havde lært.{\i0}
+Dialogue: 0,1:23:00.54,1:23:04.38,Default,,0,0,0,,{\i1}At ud over alt intellekt og viden,\Neksisterer noget større.{\i0}
+Dialogue: 0,1:23:05.72,1:23:08.89,Default,,0,0,0,,{\i1}Noget større end noget menneske.{\i0}
+Dialogue: 0,1:23:09.85,1:23:11.59,Default,,0,0,0,,{\i1}Eller våben...{\i0}
+Dialogue: 0,1:23:14.63,1:23:16.26,Default,,0,0,0,,{\i1}Håb.{\i0}
+Dialogue: 0,1:24:11.22,1:24:14.22,Default,,0,0,0,,Hvorfor tager det så lang tid?
+Dialogue: 0,1:24:14.45,1:24:17.25,Default,,0,0,0,,Kan man få noget at spise her?
+Dialogue: 0,1:24:17.55,1:24:22.33,Default,,0,0,0,,Hvis jeg skal vente længere,\Nfår I en røvfuld.
+Dialogue: 0,1:24:22.69,1:24:24.03,Default,,0,0,0,,Fuck!
+Dialogue: 0,1:24:24.63,1:24:27.23,Default,,0,0,0,,Forbandede kælling!
+Dialogue: 0,1:24:29.43,1:24:32.74,Default,,0,0,0,,-  I er alle frie nu!\N- Hvad har du gang i?
+Dialogue: 0,1:24:36.34,1:24:38.44,Default,,0,0,0,,Fuck! Rosie!
+Dialogue: 0,1:24:39.48,1:24:40.88,Default,,0,0,0,,Rosie!
+Dialogue: 0,1:24:43.16,1:24:45.16,Default,,0,0,0,,Hjælp mig!
+Dialogue: 0,1:24:48.67,1:24:59.02,Default,,0,0,0,,Oversat af UNiTY\Nwww.DanishBits.org

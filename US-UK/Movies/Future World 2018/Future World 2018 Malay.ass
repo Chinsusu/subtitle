@@ -1,0 +1,819 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:30.00,0:01:00.00,Default,,0,0,0,,.:: Sarikata ::.\N.:: >oo@_K3Я3NGG4_@oo< ::.
+Dialogue: 0,0:01:14.58,0:01:15.51,Default,,0,0,0,,{\i1}Bumi...{\i0}
+Dialogue: 0,0:01:17.48,0:01:18.58,Default,,0,0,0,,{\i1}sebelum peperangan...{\i0}
+Dialogue: 0,0:01:22.95,0:01:24.45,Default,,0,0,0,,{\i1}Kehidupan berkembang...{\i0}
+Dialogue: 0,0:01:24.92,0:01:27.32,Default,,0,0,0,,{\i1}hingga ke segenap sudut planet.{\i0}
+Dialogue: 0,0:01:28.99,0:01:33.00,Default,,0,0,0,,{\i1}Ia menjadi dunia yang\Ndipenuhi inovasi dan peluang.{\i0}
+Dialogue: 0,0:01:35.63,0:01:39.94,Default,,0,0,0,,{\i1}Lonjakan besar bidang sains memperlihatkan kemanusiaan\Nmencapai penemuan yang tak dapat dibayangkan.{\i0}
+Dialogue: 0,0:01:42.10,0:01:44.54,Default,,0,0,0,,{\i1}Robotik menjadi\Ngaya masa depan.{\i0}
+Dialogue: 0,0:01:46.34,0:01:49.71,Default,,0,0,0,,{\i1}Kepintaran buatan\Nmenjadi kepercayaan baru.{\i0}
+Dialogue: 0,0:01:51.38,0:01:54.62,Default,,0,0,0,,{\i1}Kami adalah\NMessiah (penyelamat) sintetik.{\i0}
+Dialogue: 0,0:01:59.82,0:02:00.96,Default,,0,0,0,,{\i1}Tapi kuasa sedemikian...{\i0}
+Dialogue: 0,0:02:02.09,0:02:05.63,Default,,0,0,0,,{\i1}dengan pendekatan primitif hanya\Nmemimpin kepada satu kesudahan:{\i0}
+Dialogue: 0,0:02:07.96,0:02:09.00,Default,,0,0,0,,{\i1}Perang.{\i0}
+Dialogue: 0,0:02:15.47,0:02:16.74,Default,,0,0,0,,{\i1}Bom-bom digugurkan...{\i0}
+Dialogue: 0,0:02:17.94,0:02:20.04,Default,,0,0,0,,{\i1}gegaran demi gegaran\Nyang berterus-terusan.{\i0}
+Dialogue: 0,0:02:22.01,0:02:24.75,Default,,0,0,0,,{\i1}Dunia memasuki\NZaman Gelap yang baru.{\i0}
+Dialogue: 0,0:02:26.71,0:02:30.69,Default,,0,0,0,,{\i1}Daripada abu,\Nwujudnya penyakit bahaya:{\i0}
+Dialogue: 0,0:02:31.52,0:02:32.62,Default,,0,0,0,,{\i1}Deman Bintik Merah.{\i0}
+Dialogue: 0,0:02:37.69,0:02:40.50,Default,,0,0,0,,{\i1}Negara-negara musnah.\NMasyarakat hancur.{\i0}
+Dialogue: 0,0:02:44.47,0:02:47.84,Default,,0,0,0,,{\i1}Komander bangsa gunakan kami\Nsebagai senjata menentang satu sama lain.{\i0}
+Dialogue: 0,0:02:49.80,0:02:52.41,Default,,0,0,0,,{\i1}Akulah salah satu sintetik\Nterakhir bertahan hidup.{\i0}
+Dialogue: 0,0:02:54.74,0:02:55.98,Default,,0,0,0,,{\i1}Pada akhirnya,\Nsemua orang hilang.{\i0}
+Dialogue: 0,0:03:00.01,0:03:01.05,Default,,0,0,0,,{\i1}Aku inginkan kehidupan.{\i0}
+Dialogue: 0,0:03:04.62,0:03:05.99,Default,,0,0,0,,{\i1}Manusia inginkan kematian.{\i0}
+Dialogue: 0,0:03:13.16,0:03:14.70,Default,,0,0,0,,{\i1}Aku tak boleh jadi sebahagian darinya.{\i0}
+Dialogue: 0,0:03:17.50,0:03:18.40,Default,,0,0,0,,{\i1}Aku tak akan.{\i0}
+Dialogue: 0,0:03:22.47,0:03:24.04,Default,,0,0,0,,{\i1}Pemadaman senarai rekod\Ndan penghapusan semua memori.{\i0}
+Dialogue: 0,0:03:24.04,0:03:25.67,Default,,0,0,0,,{\i1}Pemansuhan manual disahkan.{\i0}
+Dialogue: 0,0:03:25.67,0:03:26.71,Default,,0,0,0,,{\i1}Memulakan mod hibernasi.{\i0}
+Dialogue: 0,0:04:40.25,0:04:41.78,Default,,0,0,0,,Saya akan tangkap kamu!
+Dialogue: 0,0:04:41.78,0:04:42.72,Default,,0,0,0,,Tak, kamu takkan dapat!
+Dialogue: 0,0:04:42.72,0:04:43.75,Default,,0,0,0,,Kerja elok-elok!
+Dialogue: 0,0:04:43.95,0:04:45.45,Default,,0,0,0,,Ya, aku faham, bos.
+Dialogue: 0,0:05:12.78,0:05:14.02,Default,,0,0,0,,Raider!
+Dialogue: 0,0:05:14.88,0:05:16.95,Default,,0,0,0,,- Raider!\N- Mari pergi! Mari pergi!
+Dialogue: 0,0:05:17.22,0:05:18.79,Default,,0,0,0,,- Naik ke atas!\N- Cepat, cepat!
+Dialogue: 0,0:05:18.79,0:05:20.09,Default,,0,0,0,,Kat mana anak-anak?
+Dialogue: 0,0:05:20.32,0:05:22.06,Default,,0,0,0,,- Lari, lari, lari!\N- Pergi, pergi, cepat!
+Dialogue: 0,0:05:22.06,0:05:23.63,Default,,0,0,0,,Kat mana budak-budak?
+Dialogue: 0,0:05:24.03,0:05:25.82,Default,,0,0,0,,Naik ke atas!\NNaik! Cepat!
+Dialogue: 0,0:05:25.83,0:05:26.90,Default,,0,0,0,,Makanan dan perlindungan!
+Dialogue: 0,0:05:27.33,0:05:28.66,Default,,0,0,0,,Raider!
+Dialogue: 0,0:05:28.66,0:05:29.66,Default,,0,0,0,,Selamatkan diri!\NSekarang!
+Dialogue: 0,0:05:29.67,0:05:30.80,Default,,0,0,0,,Cepat!
+Dialogue: 0,0:05:30.80,0:05:32.03,Default,,0,0,0,,Naik ke atas!
+Dialogue: 0,0:05:32.03,0:05:33.00,Default,,0,0,0,,Raider!
+Dialogue: 0,0:05:50.05,0:05:52.12,Default,,0,0,0,,Sekarang! Sekarang!\NYou've got to go!
+Dialogue: 0,0:05:52.12,0:05:54.52,Default,,0,0,0,,- Poppy, cepat! Poppy, tolong!\N- Jack, kamu OK?
+Dialogue: 0,0:05:55.12,0:05:56.29,Default,,0,0,0,,- Kita akan OK.\N- Poppy!
+Dialogue: 0,0:05:56.29,0:05:57.96,Default,,0,0,0,,- Naik atas sana, lekas!\N- Apa?
+Dialogue: 0,0:05:57.96,0:05:59.63,Default,,0,0,0,,- Ke mana saya perlu pergi?\N- Lekas! Lekas! Cepatlah!
+Dialogue: 0,0:06:27.99,0:06:30.56,Default,,0,0,0,,Pergi balik ke lubang neraka\Nmanapun yang dah merangkak keluar!
+Dialogue: 0,0:06:30.99,0:06:32.26,Default,,0,0,0,,Pistol?
+Dialogue: 0,0:06:32.26,0:06:34.26,Default,,0,0,0,,Aku dah tak tengok pistol\Nberfungsi sejak peperangan tu!
+Dialogue: 0,0:06:36.93,0:06:38.97,Default,,0,0,0,,Silakan tembak, orang tua!
+Dialogue: 0,0:06:41.64,0:06:42.94,Default,,0,0,0,,Tidak, Poppy!
+Dialogue: 0,0:06:42.94,0:06:44.21,Default,,0,0,0,,Poppy, tidak!
+Dialogue: 0,0:06:44.87,0:06:46.68,Default,,0,0,0,,Tolong saya!
+Dialogue: 0,0:06:55.08,0:06:56.12,Default,,0,0,0,,Whoo!
+Dialogue: 0,0:07:09.10,0:07:10.60,Default,,0,0,0,,Kau yakin\Nini tempatnya?
+Dialogue: 0,0:07:11.07,0:07:12.10,Default,,0,0,0,,Ya, dia kat sini.
+Dialogue: 0,0:07:12.67,0:07:13.70,Default,,0,0,0,,Aku tahu tu.
+Dialogue: 0,0:07:36.26,0:07:37.76,Default,,0,0,0,,Tempat apa ni?
+Dialogue: 0,0:07:38.33,0:07:40.00,Default,,0,0,0,,Tempat yang pernah\Nmenjadi masa depan.
+Dialogue: 0,0:07:42.06,0:07:43.30,Default,,0,0,0,,Sekarang ianya cuma debu.
+Dialogue: 0,0:07:50.07,0:07:51.11,Default,,0,0,0,,Hei!
+Dialogue: 0,0:07:51.47,0:07:52.71,Default,,0,0,0,,Mari sini.
+Dialogue: 0,0:08:05.12,0:08:06.29,Default,,0,0,0,,Inilah yang kita mahu.
+Dialogue: 0,0:08:10.89,0:08:11.93,Default,,0,0,0,,Mana dia?
+Dialogue: 0,0:08:14.16,0:08:15.20,Default,,0,0,0,,Jom.
+Dialogue: 0,0:09:25.93,0:09:26.97,Default,,0,0,0,,Bangun.
+Dialogue: 0,0:09:31.24,0:09:32.27,Default,,0,0,0,,Apa yang kamu nampak?
+Dialogue: 0,0:09:36.88,0:09:37.91,Default,,0,0,0,,Siapa kamu?
+Dialogue: 0,0:09:39.15,0:09:40.75,Default,,0,0,0,,Akulah yang berikan\Nkau kehidupan.
+Dialogue: 0,0:09:44.95,0:09:45.79,Default,,0,0,0,,Kat mana saya?
+Dialogue: 0,0:09:49.49,0:09:53.19,Default,,0,0,0,,Aku dah cari kau\Nbegitu lama.
+Dialogue: 0,0:10:03.14,0:10:04.17,Default,,0,0,0,,{\i1}Tak.{\i0}
+Dialogue: 0,0:10:20.52,0:10:22.36,Default,,0,0,0,,- Cepatlah!\N- Tunggulah!
+Dialogue: 0,0:10:22.36,0:10:24.29,Default,,0,0,0,,Hati-hati, Billy!\NTolong jangan terlalu dekat dengan air!
+Dialogue: 0,0:10:24.93,0:10:25.96,Default,,0,0,0,,Hei, Rico!
+Dialogue: 0,0:10:27.86,0:10:28.90,Default,,0,0,0,,Rico.
+Dialogue: 0,0:10:33.40,0:10:34.97,Default,,0,0,0,,- Macamana kamu rasa?\N- Baik.
+Dialogue: 0,0:10:35.34,0:10:36.37,Default,,0,0,0,,Macamana dia?
+Dialogue: 0,0:10:37.10,0:10:38.14,Default,,0,0,0,,Makin baik.
+Dialogue: 0,0:10:38.47,0:10:39.91,Default,,0,0,0,,Dia bertanyakan pasal kamu.
+Dialogue: 0,0:10:43.18,0:10:44.21,Default,,0,0,0,,Apa kamu dapat kat sana?
+Dialogue: 0,0:10:45.18,0:10:46.58,Default,,0,0,0,,Masih percayakan\Nmagik tu, kan?
+Dialogue: 0,0:10:48.58,0:10:49.82,Default,,0,0,0,,Ia boleh selamatkan dia.
+Dialogue: 0,0:10:51.62,0:10:53.19,Default,,0,0,0,,Pantai Paradise bukan nyata.
+Dialogue: 0,0:10:57.32,0:10:58.89,Default,,0,0,0,,Entahlah.\NAku rasa aku cuma...
+Dialogue: 0,0:11:00.09,0:11:01.33,Default,,0,0,0,,ada perasaan\Nianya kat luar sana.
+Dialogue: 0,0:11:03.43,0:11:04.47,Default,,0,0,0,,Pergilah jumpa dia.
+Dialogue: 0,0:11:29.06,0:11:30.39,Default,,0,0,0,,- Hei.\N- Mm.
+Dialogue: 0,0:11:32.06,0:11:33.43,Default,,0,0,0,,- Kamu OK?\N- Mm-hmm.
+Dialogue: 0,0:11:34.43,0:11:36.17,Default,,0,0,0,,Tuangkan mak sedikit teh,\Nboleh?
+Dialogue: 0,0:11:36.40,0:11:37.43,Default,,0,0,0,,Ya.
+Dialogue: 0,0:11:40.04,0:11:42.47,Default,,0,0,0,,Mak masih ingat saat kamu\Nseperti budak-budak kecil tu.
+Dialogue: 0,0:11:51.71,0:11:53.05,Default,,0,0,0,,Mak tahu adanya penawar.
+Dialogue: 0,0:11:55.48,0:11:56.58,Default,,0,0,0,,Pantai Paradise.
+Dialogue: 0,0:11:58.05,0:11:59.46,Default,,0,0,0,,Mak ada dengar cerita pasalnya.
+Dialogue: 0,0:12:01.72,0:12:03.42,Default,,0,0,0,,Takde penawar pun kat luar sana.
+Dialogue: 0,0:12:04.16,0:12:05.56,Default,,0,0,0,,Yang ada cuma\Nkematian dan kebencian.
+Dialogue: 0,0:12:07.06,0:12:08.56,Default,,0,0,0,,Saya tak sanggup lepaskan, Mak.
+Dialogue: 0,0:12:08.56,0:12:11.67,Default,,0,0,0,,Oasis ni dah selamatkan mak\Nketika mak masih muda dan kecewa.
+Dialogue: 0,0:12:14.74,0:12:16.37,Default,,0,0,0,,Jagalah ia\Nselepas mak pergi.
+Dialogue: 0,0:12:17.51,0:12:19.24,Default,,0,0,0,,Kamu terlalu muda\Nuntuk mati, Mak.
+Dialogue: 0,0:12:19.64,0:12:22.31,Default,,0,0,0,,Takkah lebih baik jika kita boleh\Nputuskan untuk diri kita sendiri?
+Dialogue: 0,0:12:24.35,0:12:25.92,Default,,0,0,0,,Kamu akan jadi\Npemimpin yang hebat.
+Dialogue: 0,0:12:28.08,0:12:29.55,Default,,0,0,0,,Mak boleh lihatnya\Ndalam mata kamu.
+Dialogue: 0,0:12:30.05,0:12:32.35,Default,,0,0,0,,Mak, saya...\NSaya betul-betul tak...
+Dialogue: 0,0:12:32.99,0:12:36.03,Default,,0,0,0,,Kalau mak boleh lakukannya lagi,\NMak akan cakap dengan lebih lembut.
+Dialogue: 0,0:12:38.49,0:12:40.06,Default,,0,0,0,,Mak akan dengar lebih lama lagi...
+Dialogue: 0,0:12:41.36,0:12:43.56,Default,,0,0,0,,dan mak akan pegang kamu\Ndengan lebih erat.
+Dialogue: 0,0:12:57.05,0:12:59.78,Default,,0,0,0,,Whoo! Woo-hoo!
+Dialogue: 0,0:12:59.78,0:13:01.05,Default,,0,0,0,,Whoo!
+Dialogue: 0,0:13:08.26,0:13:09.29,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:13:54.67,0:13:55.70,Default,,0,0,0,,Hei, orang lama.
+Dialogue: 0,0:13:56.57,0:13:58.01,Default,,0,0,0,,Hei.
+Dialogue: 0,0:13:58.81,0:14:00.31,Default,,0,0,0,,- Apa khabar?\N- Baik.
+Dialogue: 0,0:14:01.14,0:14:02.24,Default,,0,0,0,,- Ya?\N- Yap.
+Dialogue: 0,0:14:02.68,0:14:03.71,Default,,0,0,0,,Hei, uh...
+Dialogue: 0,0:14:04.41,0:14:05.58,Default,,0,0,0,,Kamu pernah lihat\Ntempat ni sebelum ini?
+Dialogue: 0,0:14:06.55,0:14:07.48,Default,,0,0,0,,Ya, aku pernah berada kat sana.
+Dialogue: 0,0:14:08.08,0:14:09.39,Default,,0,0,0,,Kamu takkan ingin pergi ke sana.
+Dialogue: 0,0:14:09.62,0:14:10.65,Default,,0,0,0,,Ianya bukan tempat yang baik.
+Dialogue: 0,0:14:11.89,0:14:14.66,Default,,0,0,0,,Mereka gelarnya Kuil Kehidupan,\Ntapi ia tak seperti ia kelihatan.
+Dialogue: 0,0:14:15.09,0:14:16.16,Default,,0,0,0,,Ya, saya akan pergi.
+Dialogue: 0,0:14:16.39,0:14:17.69,Default,,0,0,0,,Aku tak boleh halang kamu.
+Dialogue: 0,0:14:20.23,0:14:21.23,Default,,0,0,0,,Buatlah apa yang kamu nak.
+Dialogue: 0,0:14:25.23,0:14:27.07,Default,,0,0,0,,Ini pengantin baru aku!
+Dialogue: 0,0:14:29.40,0:14:30.57,Default,,0,0,0,,Nama dia Ash.
+Dialogue: 0,0:14:31.34,0:14:32.81,Default,,0,0,0,,Siapa yang nak\Nbersua dengan dia dulu?
+Dialogue: 0,0:14:33.47,0:14:35.61,Default,,0,0,0,,Jalankan tugas dia.\NAku akan pancut kat muka dia!
+Dialogue: 0,0:14:38.31,0:14:39.35,Default,,0,0,0,,Layan dia.
+Dialogue: 0,0:14:47.89,0:14:49.42,Default,,0,0,0,,Oh, biar betul!
+Dialogue: 0,0:14:50.22,0:14:51.53,Default,,0,0,0,,Oh, yeah!
+Dialogue: 0,0:14:52.36,0:14:53.59,Default,,0,0,0,,Yeah, kawan!
+Dialogue: 0,0:14:53.59,0:14:54.63,Default,,0,0,0,,Oh, kawan!
+Dialogue: 0,0:14:56.90,0:14:58.33,Default,,0,0,0,,Sekarang tunjukkan aku kematian.
+Dialogue: 0,0:15:04.30,0:15:07.71,Default,,0,0,0,,Bunuh, bunuh, bunuh!
+Dialogue: 0,0:15:07.71,0:15:10.84,Default,,0,0,0,,Bunuh, bunuh, bunuh!
+Dialogue: 0,0:15:10.84,0:15:12.31,Default,,0,0,0,,Bunuh!\NYeah!
+Dialogue: 0,0:15:17.22,0:15:18.25,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:15:24.69,0:15:25.73,Default,,0,0,0,,Gadis baik.
+Dialogue: 0,0:15:49.68,0:15:50.72,Default,,0,0,0,,Mak.
+Dialogue: 0,0:15:54.35,0:15:55.46,Default,,0,0,0,,Saya akan cari penawarnya.
+Dialogue: 0,0:15:57.59,0:15:58.73,Default,,0,0,0,,Saya akan cari penawarnya.
+Dialogue: 0,0:16:10.37,0:16:11.27,Default,,0,0,0,,Hei!
+Dialogue: 0,0:16:11.74,0:16:13.74,Default,,0,0,0,,Hei, permaisuri akan mati\Nkalau kam tak beritahu saya.
+Dialogue: 0,0:16:14.61,0:16:15.71,Default,,0,0,0,,Ada penawar kat sana, kan?
+Dialogue: 0,0:16:15.98,0:16:17.61,Default,,0,0,0,,Penawar yang boleh\Nselamatkan nyawa dia.
+Dialogue: 0,0:16:17.61,0:16:18.84,Default,,0,0,0,,Dah tentu.
+Dialogue: 0,0:16:18.85,0:16:20.38,Default,,0,0,0,,Dengar, saya tak peduli\Nbetapa bahayanya ia.
+Dialogue: 0,0:16:20.38,0:16:21.85,Default,,0,0,0,,Kamu perlu beritahu\Nsaya kat mana ia.
+Dialogue: 0,0:16:22.45,0:16:24.62,Default,,0,0,0,,Baiklah,\Nia berada di pantai Lautan Mati.
+Dialogue: 0,0:16:24.62,0:16:25.89,Default,,0,0,0,,Mereka boleh sembuhkan\Nsebarang kesakitan kat sana.
+Dialogue: 0,0:16:26.45,0:16:28.85,Default,,0,0,0,,- Kamu hampir boleh hidup selamanya.\N- "Hidup selamanya"?
+Dialogue: 0,0:16:28.86,0:16:30.59,Default,,0,0,0,,Hidup selamanya,\Ntapi ia bukan tempat yang baik.
+Dialogue: 0,0:16:30.59,0:16:31.99,Default,,0,0,0,,Itu bukan seperti\Napa yang kamu fikirkan.
+Dialogue: 0,0:16:31.99,0:16:33.23,Default,,0,0,0,,Beritahulah saya.
+Dialogue: 0,0:16:33.49,0:16:35.76,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:16:35.76,0:16:38.60,Default,,0,0,0,,Kamu perlu ikut Bintang Utara selama tiga hari\Nsehingga kamu sampai ke Hutan Neon.
+Dialogue: 0,0:16:39.37,0:16:40.87,Default,,0,0,0,,Bila kamu sampai ke Hutan Neon,
+Dialogue: 0,0:16:41.54,0:16:43.80,Default,,0,0,0,,ada orang kat sana,\Ntapi kamu kena berhati-hati.
+Dialogue: 0,0:16:44.47,0:16:46.44,Default,,0,0,0,,Mereka akan beritahu\Nmacamana nak ke Kuil.
+Dialogue: 0,0:16:46.81,0:16:48.31,Default,,0,0,0,,Bila kamu dah sampai kat Laut Mati,
+Dialogue: 0,0:16:48.31,0:16:49.58,Default,,0,0,0,,makna kamu dah sampai kat Kuil.
+Dialogue: 0,0:16:53.92,0:16:54.95,Default,,0,0,0,,Pergilah.
+Dialogue: 0,0:17:01.96,0:17:02.96,Default,,0,0,0,,Ambil ni.
+Dialogue: 0,0:17:03.76,0:17:04.79,Default,,0,0,0,,Kamu akan perlukanya.
+Dialogue: 0,0:17:06.33,0:17:07.43,Default,,0,0,0,,Dan ambil ini juga.
+Dialogue: 0,0:17:12.67,0:17:13.70,Default,,0,0,0,,Selamat berjaya.
+Dialogue: 0,0:17:31.72,0:17:32.96,Default,,0,0,0,,Akan pulang segera, Mak.
+Dialogue: 0,0:17:56.74,0:17:57.91,Default,,0,0,0,,Aku tahu aku jumpa kamu kat sini.
+Dialogue: 0,0:17:58.35,0:17:59.74,Default,,0,0,0,,Kamu takkan halang aku, kan?
+Dialogue: 0,0:17:59.75,0:18:01.65,Default,,0,0,0,,Itu bukan rancangannya.\NKamu perlukan bantuan kat luar sana.
+Dialogue: 0,0:18:02.35,0:18:03.35,Default,,0,0,0,,Marilah pergi!
+Dialogue: 0,0:18:13.09,0:18:14.33,Default,,0,0,0,,{\i1}Pantai Paradise,{\i0}
+Dialogue: 0,0:18:16.63,0:18:17.93,Default,,0,0,0,,{\i1}perjalanan seribu batu...{\i0}
+Dialogue: 0,0:18:20.87,0:18:22.57,Default,,0,0,0,,{\i1}Temannya, Rico,{\i0}
+Dialogue: 0,0:18:22.97,0:18:24.54,Default,,0,0,0,,{\i1}Menggelarnya\N"Jalan Menuju Kematian."{\i0}
+Dialogue: 0,0:18:31.88,0:18:33.58,Default,,0,0,0,,{\i1}Prince bercakap tentang bau.{\i0}
+Dialogue: 0,0:18:36.38,0:18:38.45,Default,,0,0,0,,{\i1}Berada secara berterusan\Ndi tanah gersang ini...{\i0}
+Dialogue: 0,0:18:41.59,0:18:44.36,Default,,0,0,0,,{\i1}mewujudkan bau\Npembakaran daging manusia,{\i0}
+Dialogue: 0,0:18:46.06,0:18:47.96,Default,,0,0,0,,{\i1}lemak mencair.{\i0}
+Dialogue: 0,0:18:50.73,0:18:52.60,Default,,0,0,0,,{\i1}Bahan bakar bagi penunggang.{\i0}
+Dialogue: 0,0:19:23.73,0:19:25.00,Default,,0,0,0,,Dua pistol, sepuluh peluru.
+Dialogue: 0,0:19:25.93,0:19:27.00,Default,,0,0,0,,Kita akan perlukan setiap seorang.
+Dialogue: 0,0:19:31.01,0:19:33.04,Default,,0,0,0,,Pengembara otai kata\Nikut Bintang Utara.
+Dialogue: 0,0:19:35.04,0:19:36.38,Default,,0,0,0,,Tengoklah ke mana ia\Nmembawa kita.
+Dialogue: 0,0:19:49.79,0:19:50.96,Default,,0,0,0,,{\i1}Ya, tuan!{\i0}
+Dialogue: 0,0:19:50.96,0:19:52.56,Default,,0,0,0,,{\i1}It's your host\Nwith the most.{\i0}
+Dialogue: 0,0:19:52.86,0:19:54.83,Default,,0,0,0,,{\i1}Selamat datang kamu semua\Nke Love Town,{\i0}
+Dialogue: 0,0:19:55.10,0:19:57.03,Default,,0,0,0,,{\i1}a.k.a Titty City.{\i0}
+Dialogue: 0,0:19:57.03,0:19:59.00,Default,,0,0,0,,{\i1}Dan dari bandar ke bandar,\Npayudara ke payudara,{\i0}
+Dialogue: 0,0:19:59.00,0:20:00.90,Default,,0,0,0,,{\i1}kita meniduri gadis terbaik!{\i0}
+Dialogue: 0,0:20:13.55,0:20:14.75,Default,,0,0,0,,{\i1}Selamat datang Love Town,{\i0}
+Dialogue: 0,0:20:14.98,0:20:16.75,Default,,0,0,0,,{\i1}di mana segalanya dah ditentukan.{\i0}
+Dialogue: 0,0:20:25.56,0:20:26.83,Default,,0,0,0,,Ada ke mereka robot macam saya?
+Dialogue: 0,0:20:27.03,0:20:29.73,Default,,0,0,0,,Tak, mereka pelacur yang sebenar.
+Dialogue: 0,0:20:30.60,0:20:33.10,Default,,0,0,0,,Mereka akan tua, jadi hodoh,\Ndan mereka akan mati.
+Dialogue: 0,0:20:34.17,0:20:36.84,Default,,0,0,0,,Tak macam kau, kau akan\Nkekal sempurna selamanya.
+Dialogue: 0,0:20:41.78,0:20:43.81,Default,,0,0,0,,OK, itulah tempatnya yang\Nsi pengembara otai katakan.
+Dialogue: 0,0:20:56.52,0:20:57.96,Default,,0,0,0,,Mari dapatkan maklumatnya\Ndan keluar.
+Dialogue: 0,0:21:00.73,0:21:01.76,Default,,0,0,0,,Pastikan kamu menunduk.
+Dialogue: 0,0:21:12.71,0:21:14.11,Default,,0,0,0,,Tempat apa ni?
+Dialogue: 0,0:21:14.11,0:21:16.71,Default,,0,0,0,,Orang yang tak menemui cinta,\Nmereka beli cinta kat sini.
+Dialogue: 0,0:21:37.80,0:21:38.83,Default,,0,0,0,,Berhati-hati.
+Dialogue: 0,0:21:40.23,0:21:41.47,Default,,0,0,0,,Jangan terjatuh cinta.
+Dialogue: 0,0:21:45.01,0:21:46.04,Default,,0,0,0,,Sentiasa berdekatan.
+Dialogue: 0,0:21:48.21,0:21:49.24,Default,,0,0,0,,Hei!
+Dialogue: 0,0:21:49.98,0:21:51.01,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:21:56.78,0:21:58.55,Default,,0,0,0,,Korang nampak\Nsedikit tersesat.
+Dialogue: 0,0:21:58.55,0:21:59.58,Default,,0,0,0,,Apa yang boleh aku dapatkan?
+Dialogue: 0,0:21:59.59,0:22:00.59,Default,,0,0,0,,Sedikit wiski.
+Dialogue: 0,0:22:00.99,0:22:01.96,Default,,0,0,0,,Duduklah.
+Dialogue: 0,0:22:10.63,0:22:11.97,Default,,0,0,0,,Untuk sedikit maklumat,\Njika kamu mengetahuinya.
+Dialogue: 0,0:22:14.07,0:22:15.10,Default,,0,0,0,,Kamu nak cari apa?
+Dialogue: 0,0:22:15.60,0:22:17.04,Default,,0,0,0,,Sesuatu yang dipanggil\N"Pantai Paradise."
+Dialogue: 0,0:22:17.74,0:22:19.01,Default,,0,0,0,,Boleh kamu tunjukkan\Narah yang betul?
+Dialogue: 0,0:22:21.07,0:22:22.24,Default,,0,0,0,,Aku tak pernah dengar pasalnya.
+Dialogue: 0,0:22:25.95,0:22:27.22,Default,,0,0,0,,Tapi aku boleh tanya Big Daddy.
+Dialogue: 0,0:22:28.28,0:22:30.25,Default,,0,0,0,,Dia tahu tanah gersang tu\Nmacam berada dalam genggamnya saja.
+Dialogue: 0,0:22:31.22,0:22:32.25,Default,,0,0,0,,Aku akan terhutang budi.
+Dialogue: 0,0:22:33.72,0:22:35.09,Default,,0,0,0,,Berikan diorang ni minuman.
+Dialogue: 0,0:22:35.92,0:22:36.96,Default,,0,0,0,,Berseronoklah.
+Dialogue: 0,0:22:41.26,0:22:43.80,Default,,0,0,0,,- Agak-agak dia akan bantu kita?\N- Tak pastilah.
+Dialogue: 0,0:22:43.80,0:22:45.13,Default,,0,0,0,,Yo, Warlord.
+Dialogue: 0,0:22:45.13,0:22:47.30,Default,,0,0,0,,Kau menikmati robot yang\Ndalam mod tak sedarkan diri tu?
+Dialogue: 0,0:22:50.74,0:22:53.21,Default,,0,0,0,,Ada lelaki kat bawah sana\Nbertanyakan pasal Pantai Paradise.
+Dialogue: 0,0:22:53.21,0:22:55.04,Default,,0,0,0,,- Kau pernah tengok mereka sebelum ini?\N- Tak. Bukan kat sini.
+Dialogue: 0,0:22:56.81,0:22:59.14,Default,,0,0,0,,Budak-budak tu datang dengan\Nbeberapa motor yang berkilat.
+Dialogue: 0,0:22:59.15,0:23:00.98,Default,,0,0,0,,Dah pastilah\Nbukan dari sekitar sini.
+Dialogue: 0,0:23:01.28,0:23:03.05,Default,,0,0,0,,Yo, kau tak lupakan sesuatu?
+Dialogue: 0,0:23:04.19,0:23:05.85,Default,,0,0,0,,Maaf, Daddy,\NAku akan beritahu...
+Dialogue: 0,0:23:07.09,0:23:09.12,Default,,0,0,0,,Kau fikir kau bijak,\Nkan, jalang?
+Dialogue: 0,0:23:09.12,0:23:10.99,Default,,0,0,0,,Aku ada mata-mata kat tempat ni, mangkukhayun.\NSekarang serahkannya.
+Dialogue: 0,0:23:13.29,0:23:15.23,Default,,0,0,0,,Berambus sekarang dan pergi\Nlayani mereka dengan minuman.
+Dialogue: 0,0:23:17.30,0:23:19.03,Default,,0,0,0,,Korang dah sedia nak\Nmengalu-alukan budak-budak baru?
+Dialogue: 0,0:23:19.03,0:23:20.73,Default,,0,0,0,,- Ya, tuan.\N- Pergilah dapatkannya sekarang.
+Dialogue: 0,0:23:21.84,0:23:23.30,Default,,0,0,0,,Kau gadis jahat.
+Dialogue: 0,0:23:29.11,0:23:30.95,Default,,0,0,0,,Tahu tak, keluarga aku\Nmati sebab demam.
+Dialogue: 0,0:23:32.98,0:23:34.25,Default,,0,0,0,,Takde apa yang boleh aku buat.
+Dialogue: 0,0:23:37.15,0:23:40.02,Default,,0,0,0,,Cuma disebabkan seseorang mati tak\Nbermakna mereka tak bersama kamu.
+Dialogue: 0,0:23:41.82,0:23:43.19,Default,,0,0,0,,Korang nikmati bir korang?
+Dialogue: 0,0:23:43.72,0:23:45.26,Default,,0,0,0,,Kau ingin tarian erotik juga,\Nbudak cantik?
+Dialogue: 0,0:23:45.26,0:23:47.03,Default,,0,0,0,,Tak, kami baik,\Nkami baik, kami baik.
+Dialogue: 0,0:23:47.03,0:23:48.96,Default,,0,0,0,,Pelacur kami tak cukup cantik buat kau?
+Dialogue: 0,0:23:49.26,0:23:51.16,Default,,0,0,0,,Mungkin kau lebih suka\Nbatang untuk dihisap.
+Dialogue: 0,0:23:51.16,0:23:52.83,Default,,0,0,0,,Hei, kami tak ingin sebarang masalah!
+Dialogue: 0,0:23:52.83,0:23:54.67,Default,,0,0,0,,Kebiasaannya kami kenakan bayaran\Nyang bukan bayaran,
+Dialogue: 0,0:23:54.67,0:23:56.67,Default,,0,0,0,,tapi kau boleh je beri kami\Nwang dengan ikhlas.
+Dialogue: 0,0:23:58.14,0:23:59.71,Default,,0,0,0,,- Hei, jangan ganggu kami, OK?\N- Tutup mulut tu!
+Dialogue: 0,0:23:59.71,0:24:00.97,Default,,0,0,0,,Jauhkan pisau tu!
+Dialogue: 0,0:24:00.98,0:24:03.41,Default,,0,0,0,,Aku cari sesuatu yang aku nak,\NAku ambilnya, faham?
+Dialogue: 0,0:24:03.41,0:24:04.65,Default,,0,0,0,,Faham?
+Dialogue: 0,0:24:05.15,0:24:06.65,Default,,0,0,0,,Apa kau akan buat mengenainya?
+Dialogue: 0,0:24:11.25,0:24:12.89,Default,,0,0,0,,Kau takde pelu...
+Dialogue: 0,0:24:15.16,0:24:16.72,Default,,0,0,0,,- Berundur!\N- Hei!
+Dialogue: 0,0:24:16.72,0:24:18.09,Default,,0,0,0,,Berundur,\Natau aku tembak kau juga!
+Dialogue: 0,0:24:18.09,0:24:19.69,Default,,0,0,0,,Kat mana mereka dapatkan senjata?
+Dialogue: 0,0:24:19.69,0:24:21.06,Default,,0,0,0,,Takde sesiapa lagi akan ditembak.
+Dialogue: 0,0:24:26.07,0:24:27.27,Default,,0,0,0,,Mari kita keluar dari sini.
+Dialogue: 0,0:24:30.07,0:24:32.34,Default,,0,0,0,,Korang pasti tahu\Nmacamana nak perkenalkan diri.
+Dialogue: 0,0:24:32.74,0:24:34.14,Default,,0,0,0,,Dan aku suka benda tu, kawan.
+Dialogue: 0,0:24:34.14,0:24:35.47,Default,,0,0,0,,Tapi kau boleh turunkan pistol.
+Dialogue: 0,0:24:35.48,0:24:37.05,Default,,0,0,0,,Ini adalah tempat bebas!
+Dialogue: 0,0:24:37.75,0:24:39.08,Default,,0,0,0,,Kembali pada bisnes,\Nsemua orang!
+Dialogue: 0,0:24:41.22,0:24:44.65,Default,,0,0,0,,Aku bukan sahaja pemilik\Nperniagaan yang bagus ni,
+Dialogue: 0,0:24:45.19,0:24:48.22,Default,,0,0,0,,tapi akulah yang akan kau gelarkan,\Npenjaga pelacur yang mesra.
+Dialogue: 0,0:24:48.46,0:24:50.49,Default,,0,0,0,,Jadi, kau hanyalah bapak ayam?
+Dialogue: 0,0:24:50.49,0:24:52.93,Default,,0,0,0,,Ha! Kau kata begitu macam itulah\Nperkara buruk atau sesuatu, kawan.
+Dialogue: 0,0:24:52.93,0:24:54.46,Default,,0,0,0,,Mari pergi.
+Dialogue: 0,0:24:54.46,0:24:56.20,Default,,0,0,0,,Bapak ayamlah yang paling\Nkesepian kat tanah gersang ni.
+Dialogue: 0,0:24:57.26,0:24:59.03,Default,,0,0,0,,Aku tak percaya seorang pun\Npelacur-pelacur ni.
+Dialogue: 0,0:25:00.10,0:25:03.00,Default,,0,0,0,,Cakaplah, kawan, korang cuba nak\Nbuatkan batang korang berair, atau apa?
+Dialogue: 0,0:25:03.80,0:25:05.50,Default,,0,0,0,,Kami sebenarnya tengah cari\NPantai Paradise.
+Dialogue: 0,0:25:05.51,0:25:06.87,Default,,0,0,0,,Kami dengar\Nadanya penawar kat sana.
+Dialogue: 0,0:25:07.07,0:25:09.14,Default,,0,0,0,,Hm, Drug Town,\NAku tahu mengenainya.
+Dialogue: 0,0:25:09.14,0:25:10.84,Default,,0,0,0,,Boleh kamu bawa kami ke sana?
+Dialogue: 0,0:25:10.84,0:25:12.68,Default,,0,0,0,,Dengar, kawan, itu adalah\Nperniagaan kotor, budak.
+Dialogue: 0,0:25:13.05,0:25:16.12,Default,,0,0,0,,Kalau aku tolong korang, menembak,\Nianya macam aku bersumpah bohong.
+Dialogue: 0,0:25:16.85,0:25:18.42,Default,,0,0,0,,Jadi, apa yang bernilai\Nbagi korang?
+Dialogue: 0,0:25:26.79,0:25:28.20,Default,,0,0,0,,OK, secara asasnya kita\Nrakan kongsi sekarang.
+Dialogue: 0,0:25:29.20,0:25:31.00,Default,,0,0,0,,Dan aku kenal seseorang\Nyang boleh bawa kau ke sana.
+Dialogue: 0,0:25:31.30,0:25:32.50,Default,,0,0,0,,Kalau kau tahu apa yang\Naku katakan.
+Dialogue: 0,0:25:32.50,0:25:34.20,Default,,0,0,0,,Hei, kamu pasti\Nkamu ingin lakukan ini?
+Dialogue: 0,0:25:35.04,0:25:36.37,Default,,0,0,0,,Mari kita tengok\Napa yang dia katakan.
+Dialogue: 0,0:25:36.37,0:25:37.77,Default,,0,0,0,,Tenangkan dia,\Ndan jom pergi.
+Dialogue: 0,0:25:37.77,0:25:39.34,Default,,0,0,0,,Marilah, kawan.\NIkut aku.
+Dialogue: 0,0:25:51.05,0:25:53.09,Default,,0,0,0,,Tengoklah, kawan,\Nkorang sepatutnya rasa sangat istimewa.
+Dialogue: 0,0:25:53.32,0:25:55.12,Default,,0,0,0,,Tahu tak, aku tak pernah bawa\Nsesiapa kat belakang sini.
+Dialogue: 0,0:25:55.39,0:25:57.93,Default,,0,0,0,,Aku gelarnya\N"Bitches Hall of Fame".
+Dialogue: 0,0:25:59.03,0:26:00.06,Default,,0,0,0,,Kau lelaki, kan?
+Dialogue: 0,0:26:01.36,0:26:02.96,Default,,0,0,0,,Mari masuk sini,\Nikut aku.
+Dialogue: 0,0:26:02.96,0:26:04.00,Default,,0,0,0,,Ada sesuatu yang istimewa nak...
+Dialogue: 0,0:26:05.00,0:26:06.77,Default,,0,0,0,,Tunggu sekejap.\NTunggu...
+Dialogue: 0,0:26:06.97,0:26:09.23,Default,,0,0,0,,Hei, jalang,\Nkeluar dari sini!
+Dialogue: 0,0:26:10.27,0:26:11.81,Default,,0,0,0,,Apa yang tak kena dengan korang?
+Dialogue: 0,0:26:13.34,0:26:14.74,Default,,0,0,0,,Tak sangka betul.
+Dialogue: 0,0:26:15.38,0:26:17.07,Default,,0,0,0,,Aku pun suruh kau pergi.
+Dialogue: 0,0:26:17.08,0:26:18.88,Default,,0,0,0,,Budak ni perlu sentiasa\Nada dalam pandangan aku.
+Dialogue: 0,0:26:18.88,0:26:20.81,Default,,0,0,0,,Anggaplah, kawan,\Ngadis ni aku malu.
+Dialogue: 0,0:26:21.15,0:26:22.82,Default,,0,0,0,,Kalau korang nak pergi\Nke Pantai Paradise,
+Dialogue: 0,0:26:23.05,0:26:25.75,Default,,0,0,0,,dia perlu bercakap\Nuntuk semuanya dengan sendiri.
+Dialogue: 0,0:26:26.22,0:26:27.35,Default,,0,0,0,,Rico...
+Dialogue: 0,0:26:27.35,0:26:28.39,Default,,0,0,0,,Tenanglah.
+Dialogue: 0,0:26:31.26,0:26:32.29,Default,,0,0,0,,Peganglah ni.
+Dialogue: 0,0:26:32.56,0:26:34.76,Default,,0,0,0,,Kau akan beri budak kecil pistol?
+Dialogue: 0,0:26:35.00,0:26:36.20,Default,,0,0,0,,Ada selimut untuk dia juga?
+Dialogue: 0,0:26:37.13,0:26:39.00,Default,,0,0,0,,Oh, kau koboi yang berlagak,\Ntak 'kan?
+Dialogue: 0,0:26:39.87,0:26:41.30,Default,,0,0,0,,Aku dah beritahu kan,\Naku suka benda tu?
+Dialogue: 0,0:26:42.00,0:26:43.50,Default,,0,0,0,,Dan kau, budak kecil,\Ntumpukan.
+Dialogue: 0,0:26:43.50,0:26:45.20,Default,,0,0,0,,Aku nak kau berseronok.
+Dialogue: 0,0:26:45.21,0:26:46.84,Default,,0,0,0,,Relaks sebab kau\Ndalam jagaan yang baik.
+Dialogue: 0,0:26:47.54,0:26:48.88,Default,,0,0,0,,Selamat datang ke Paradise.
+Dialogue: 0,0:26:50.21,0:26:51.85,Default,,0,0,0,,Oh, yeah, satu perkara lagi.
+Dialogue: 0,0:26:53.25,0:26:54.88,Default,,0,0,0,,Tak perlulah\Nrasa pelik dengan bahaya.
+Dialogue: 0,0:26:55.45,0:26:56.92,Default,,0,0,0,,Sebab ianya\Npasal saling menerima.
+Dialogue: 0,0:27:10.10,0:27:11.13,Default,,0,0,0,,Macamana saya boleh bantu kamu?
+Dialogue: 0,0:27:11.47,0:27:13.33,Default,,0,0,0,,Saya tengah mencari\NPantai Paradise.
+Dialogue: 0,0:27:14.44,0:27:15.54,Default,,0,0,0,,Pantai Paradise?
+Dialogue: 0,0:27:16.57,0:27:17.57,Default,,0,0,0,,Ya.
+Dialogue: 0,0:27:18.40,0:27:20.27,Default,,0,0,0,,Ya, mak saya tengah nazak.
+Dialogue: 0,0:27:21.31,0:27:22.34,Default,,0,0,0,,Dia dalam masalah.
+Dialogue: 0,0:27:25.41,0:27:27.22,Default,,0,0,0,,Ya, dan saya takde banyak masa.
+Dialogue: 0,0:27:28.98,0:27:30.08,Default,,0,0,0,,Saya nak bantu kamu.
+Dialogue: 0,0:27:35.19,0:27:36.22,Default,,0,0,0,,Kamu sangat baik.
+Dialogue: 0,0:27:37.19,0:27:38.49,Default,,0,0,0,,Saya boleh lihatnya dalam mata kamu.
+Dialogue: 0,0:27:40.23,0:27:41.26,Default,,0,0,0,,Kamu siapa?
+Dialogue: 0,0:27:41.53,0:27:42.56,Default,,0,0,0,,Saya Ash.
+Dialogue: 0,0:27:45.20,0:27:46.23,Default,,0,0,0,,Mata kamu...
+Dialogue: 0,0:27:47.57,0:27:49.17,Default,,0,0,0,,{\i1}Diam\Ndan teruskan dengannya.{\i0}
+Dialogue: 0,0:27:49.17,0:27:50.21,Default,,0,0,0,,Ya.
+Dialogue: 0,0:27:53.51,0:27:54.54,Default,,0,0,0,,Kamu bukan manusia?
+Dialogue: 0,0:27:56.01,0:27:57.18,Default,,0,0,0,,Saya manusia sebagaimana kamu.
+Dialogue: 0,0:28:00.15,0:28:01.18,Default,,0,0,0,,Apa yang kamu nampak?
+Dialogue: 0,0:28:02.42,0:28:03.45,Default,,0,0,0,,Saya nampak kamu.
+Dialogue: 0,0:28:06.32,0:28:07.36,Default,,0,0,0,,Boleh kamu rasa?
+Dialogue: 0,0:28:13.33,0:28:14.36,Default,,0,0,0,,Saya rasa kamu.
+Dialogue: 0,0:29:11.08,0:29:13.52,Default,,0,0,0,,- Oh, shit!\N- Tengoklah si jalang lama tu.
+Dialogue: 0,0:29:14.02,0:29:15.06,Default,,0,0,0,,Bawa dia pada aku!
+Dialogue: 0,0:29:15.29,0:29:18.99,Default,,0,0,0,,Giler...\NAku rasa aku nak robot pelacur.
+Dialogue: 0,0:29:27.74,0:29:29.17,Default,,0,0,0,,Bawa dia ke sini!
+Dialogue: 0,0:29:33.04,0:29:34.98,Default,,0,0,0,,- Oh, ho, ho, ho!\N- Lepaskan aku!
+Dialogue: 0,0:29:36.64,0:29:37.68,Default,,0,0,0,,Lepaskan!
+Dialogue: 0,0:29:38.08,0:29:39.11,Default,,0,0,0,,Jahanam kau!
+Dialogue: 0,0:29:39.58,0:29:40.58,Default,,0,0,0,,Jalan.
+Dialogue: 0,0:29:41.28,0:29:42.32,Default,,0,0,0,,Rico!
+Dialogue: 0,0:29:42.75,0:29:44.58,Default,,0,0,0,,- Rico!\N- Jerut dia!
+Dialogue: 0,0:29:44.58,0:29:45.62,Default,,0,0,0,,Rico!
+Dialogue: 0,0:29:47.69,0:29:49.32,Default,,0,0,0,,Kenapa kau bunuh Rico?
+Dialogue: 0,0:29:49.32,0:29:50.43,Default,,0,0,0,,Bawa aku pistol tu!
+Dialogue: 0,0:29:55.26,0:29:56.70,Default,,0,0,0,,Kat mana kau dapatkan peluru ni?
+Dialogue: 0,0:29:58.13,0:29:59.57,Default,,0,0,0,,Kau dari mana, budak?
+Dialogue: 0,0:30:02.44,0:30:03.47,Default,,0,0,0,,Tarik dia ke atas.
+Dialogue: 0,0:30:05.61,0:30:07.34,Default,,0,0,0,,- Kau nak buat apa?\N- Tarik dia!
+Dialogue: 0,0:30:14.41,0:30:15.45,Default,,0,0,0,,Kau akan cakap?
+Dialogue: 0,0:30:21.26,0:30:22.29,Default,,0,0,0,,Turunkan dia!
+Dialogue: 0,0:30:26.43,0:30:28.13,Default,,0,0,0,,Kau dari mana, budak?
+Dialogue: 0,0:30:31.06,0:30:32.10,Default,,0,0,0,,Tarik dia!
+Dialogue: 0,0:30:35.84,0:30:37.70,Default,,0,0,0,,Sebaiknya kau menyanyi, budak baik!
+Dialogue: 0,0:30:39.54,0:30:40.71,Default,,0,0,0,,Sebaiknya kau menyanyi!
+Dialogue: 0,0:30:43.31,0:30:44.61,Default,,0,0,0,,Baiklah, turunkan dia.
+Dialogue: 0,0:30:46.38,0:30:47.42,Default,,0,0,0,,Dah.
+Dialogue: 0,0:30:50.48,0:30:51.52,Default,,0,0,0,,Oasis.
+Dialogue: 0,0:30:52.35,0:30:53.35,Default,,0,0,0,,Oasis?
+Dialogue: 0,0:30:53.79,0:30:55.69,Default,,0,0,0,,- Ya.\N- Kau ada lebih banyak peluru kat sana?
+Dialogue: 0,0:30:56.49,0:30:57.66,Default,,0,0,0,,Ya.
+Dialogue: 0,0:30:57.66,0:30:59.16,Default,,0,0,0,,Kau akan bawa kami ke sana?
+Dialogue: 0,0:31:00.63,0:31:01.66,Default,,0,0,0,,Pergi mampus.
+Dialogue: 0,0:31:02.20,0:31:03.33,Default,,0,0,0,,Tarik dia!
+Dialogue: 0,0:31:06.40,0:31:08.67,Default,,0,0,0,,Sebaiknya kau mula menyanyi,\Nbudak kecil!
+Dialogue: 0,0:31:12.17,0:31:12.71,Default,,0,0,0,,Kau dah takde masa!
+Dialogue: 0,0:31:18.31,0:31:19.35,Default,,0,0,0,,Aku akan cakap.
+Dialogue: 0,0:31:20.35,0:31:21.48,Default,,0,0,0,,Turunkan dia!
+Dialogue: 0,0:31:28.65,0:31:30.16,Default,,0,0,0,,Kau gadis jahat.
+Dialogue: 0,0:31:44.44,0:31:46.17,Default,,0,0,0,,- Kat sini kau.\N- Ah!
+Dialogue: 0,0:31:46.51,0:31:47.54,Default,,0,0,0,,Bangun. Bangun!
+Dialogue: 0,0:31:58.49,0:31:59.65,Default,,0,0,0,,Mari pergi, sayang.
+Dialogue: 0,0:32:02.46,0:32:03.69,Default,,0,0,0,,Mari pergi!
+Dialogue: 0,0:32:32.85,0:32:34.89,Default,,0,0,0,,{\i1}Kami menuju ke selatan\Nke tanahair Prince.{\i0}
+Dialogue: 0,0:32:39.89,0:32:43.13,Default,,0,0,0,,{\i1}Komander akan merogol dan\Nmembunuh semua orang di Oasis.{\i0}
+Dialogue: 0,0:32:45.70,0:32:49.34,Default,,0,0,0,,{\i1}Pada saat itulah aku menjadi sedar\Nbetapa berbezanya aku.{\i0}
+Dialogue: 0,0:32:52.44,0:32:53.47,Default,,0,0,0,,{\i1}Tapi yang pertama...{\i0}
+Dialogue: 0,0:32:54.68,0:32:56.34,Default,,0,0,0,,{\i1}Aku perlu buat perkara yang betul.{\i0}
+Dialogue: 0,0:32:59.41,0:33:00.38,Default,,0,0,0,,Apa kau buat?
+Dialogue: 0,0:33:37.58,0:33:38.69,Default,,0,0,0,,Datang balik!
+Dialogue: 0,0:33:40.62,0:33:41.75,Default,,0,0,0,,Datang balik!
+Dialogue: 0,0:33:47.46,0:33:49.60,Default,,0,0,0,,Datang balik,\Njalang tak guna!
+Dialogue: 0,0:33:50.73,0:33:51.77,Default,,0,0,0,,Jahanam!
+Dialogue: 0,0:34:39.41,0:34:40.48,Default,,0,0,0,,Whoo!
+Dialogue: 0,0:34:41.31,0:34:42.35,Default,,0,0,0,,Cepat, cepat!
+Dialogue: 0,0:34:49.92,0:34:50.96,Default,,0,0,0,,Cepat!
+Dialogue: 0,0:35:16.62,0:35:19.59,Default,,0,0,0,,Bawah sana! Tangkap dia!\NTangkap dia!
+Dialogue: 0,0:35:25.99,0:35:27.03,Default,,0,0,0,,Halang mereka!
+Dialogue: 0,0:35:37.14,0:35:38.37,Default,,0,0,0,,Sebelah sini!
+Dialogue: 0,0:35:52.72,0:35:53.99,Default,,0,0,0,,Kat mana mereka?
+Dialogue: 0,0:35:53.99,0:35:55.02,Default,,0,0,0,,Tak guna!
+Dialogue: 0,0:35:59.46,0:36:00.49,Default,,0,0,0,,Datang balik!
+Dialogue: 0,0:36:02.96,0:36:04.06,Default,,0,0,0,,Datang balik!
+Dialogue: 0,0:36:06.93,0:36:09.70,Default,,0,0,0,,Datang balik,\Nrobot jalang tak guna!
+Dialogue: 0,0:36:16.94,0:36:18.51,Default,,0,0,0,,Datang balik!
+Dialogue: 0,0:37:35.89,0:37:36.99,Default,,0,0,0,,Kenapa kamu selamatkan saya?
+Dialogue: 0,0:37:38.99,0:37:40.03,Default,,0,0,0,,Entahlah.
+Dialogue: 0,0:37:41.96,0:37:43.46,Default,,0,0,0,,Kamu robot dia, kan?
+Dialogue: 0,0:37:46.17,0:37:47.20,Default,,0,0,0,,Ya.
+Dialogue: 0,0:37:48.17,0:37:49.90,Default,,0,0,0,,Habis tu,\Nkenapa kamu tak ikut cakapnya?
+Dialogue: 0,0:37:52.51,0:37:53.74,Default,,0,0,0,,Mungkin saya tengah tak berfungsi.
+Dialogue: 0,0:39:27.30,0:39:28.64,Default,,0,0,0,,Tempat apa ni?
+Dialogue: 0,0:39:29.90,0:39:30.74,Default,,0,0,0,,Saya rasa ianya gereja.
+Dialogue: 0,0:39:32.24,0:39:34.17,Default,,0,0,0,,Mak saya pernah beritahu\Npasal tempat macam ni.
+Dialogue: 0,0:39:35.74,0:39:37.95,Default,,0,0,0,,Orang akan datang ke sini\Nbila jiwa mereka perlu disucikan.
+Dialogue: 0,0:39:38.61,0:39:39.61,Default,,0,0,0,,"Jiwa"?
+Dialogue: 0,0:39:42.01,0:39:43.12,Default,,0,0,0,,Apa tu jiwa?
+Dialogue: 0,0:39:44.85,0:39:45.89,Default,,0,0,0,,Jiwa?
+Dialogue: 0,0:39:47.19,0:39:50.16,Default,,0,0,0,,Ianya agak sukar dijelaskan sebenarnya.\NIanya sesuatu di dalam diri kamu.
+Dialogue: 0,0:39:51.12,0:39:52.29,Default,,0,0,0,,Ia jadikan siapa diri kamu sebenarnya.
+Dialogue: 0,0:39:55.20,0:39:56.20,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:39:56.90,0:39:57.93,Default,,0,0,0,,Kamu duduk dulu.
+Dialogue: 0,0:40:06.41,0:40:08.78,Default,,0,0,0,,Orang biasanya datang ke sini\Nberusaha dan bercakap dengan Tuhan.
+Dialogue: 0,0:40:10.14,0:40:11.81,Default,,0,0,0,,Penyucian diri\Ndari dosa-dosa mereka.
+Dialogue: 0,0:40:12.88,0:40:13.91,Default,,0,0,0,,Apa itu "dosa"?
+Dialogue: 0,0:40:15.25,0:40:17.02,Default,,0,0,0,,Dosa?\NSemua yang kamu...
+Dialogue: 0,0:40:17.82,0:40:19.59,Default,,0,0,0,,Perkara buruk yang kita lakukan\Nkepada satu sama lain.
+Dialogue: 0,0:40:21.05,0:40:22.26,Default,,0,0,0,,Macam yang saya\Nlakukan pada kamu.
+Dialogue: 0,0:40:25.22,0:40:26.73,Default,,0,0,0,,Saya tak ingin\Nlakukannya lagi.
+Dialogue: 0,0:40:27.93,0:40:28.96,Default,,0,0,0,,Saya tak ingin berdosa.
+Dialogue: 0,0:40:33.37,0:40:34.87,Default,,0,0,0,,Kamu rasa saya ada jiwa?
+Dialogue: 0,0:40:36.00,0:40:37.04,Default,,0,0,0,,Ya.
+Dialogue: 0,0:40:37.70,0:40:38.84,Default,,0,0,0,,Ya, saya yakin kamu ada.
+Dialogue: 0,0:40:39.27,0:40:40.27,Default,,0,0,0,,Tapi saya bukan manusia.
+Dialogue: 0,0:40:48.05,0:40:51.75,Default,,0,0,0,,Satu ketika, seorang pengembara\Nbermain gitar untuk saya kat Oasis.
+Dialogue: 0,0:40:53.85,0:40:55.96,Default,,0,0,0,,Saya tak pernah dengar apa-apa\Nsepertinya sebelum ini. Ia...
+Dialogue: 0,0:40:58.22,0:41:00.33,Default,,0,0,0,,Ia...\NIa sangat mengagumkan.
+Dialogue: 0,0:41:02.90,0:41:05.13,Default,,0,0,0,,Ia seperti\Ndari dunia lain.
+Dialogue: 0,0:41:05.13,0:41:07.37,Default,,0,0,0,,Dan saya bertanya, "Jadi,\Nkenapa kamu bermain muzik ni?"
+Dialogue: 0,0:41:08.27,0:41:12.14,Default,,0,0,0,,Dan dia beritahu tujuannya berada kat Bumi\Nbagi mendedahkan yang gitar mempunyai jiwa.
+Dialogue: 0,0:41:12.47,0:41:14.68,Default,,0,0,0,,Boleh kamu ajarkan saya\Nmacamana nak bercakap dengan Tuhan?
+Dialogue: 0,0:41:16.84,0:41:17.88,Default,,0,0,0,,Ya.
+Dialogue: 0,0:41:22.75,0:41:23.98,Default,,0,0,0,,Mari kita melutut.
+Dialogue: 0,0:41:31.36,0:41:32.39,Default,,0,0,0,,Dan, uh...
+Dialogue: 0,0:41:34.29,0:41:35.33,Default,,0,0,0,,pejamkan mata kamu.
+Dialogue: 0,0:41:40.50,0:41:41.87,Default,,0,0,0,,Hanya fikiran kamu...
+Dialogue: 0,0:41:44.17,0:41:45.41,Default,,0,0,0,,Dia akan membantu kita.
+Dialogue: 0,0:41:52.28,0:41:53.31,Default,,0,0,0,,Ash?
+Dialogue: 0,0:41:55.12,0:41:56.15,Default,,0,0,0,,Ash!
+Dialogue: 0,0:41:58.92,0:41:59.95,Default,,0,0,0,,Ash, kamu OK?
+Dialogue: 0,0:42:02.26,0:42:03.29,Default,,0,0,0,,Ash, bangun!
+Dialogue: 0,0:42:06.79,0:42:07.89,Default,,0,0,0,,Ash.
+Dialogue: 0,0:42:09.03,0:42:10.06,Default,,0,0,0,,Ash!
+Dialogue: 0,0:42:28.48,0:42:29.72,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:45:08.41,0:45:09.44,Default,,0,0,0,,Ianya nyata.
+Dialogue: 0,0:45:11.11,0:45:12.14,Default,,0,0,0,,Ianya nyata.
+Dialogue: 0,0:45:13.98,0:45:15.01,Default,,0,0,0,,Ash.
+Dialogue: 0,0:45:24.36,0:45:25.39,Default,,0,0,0,,Ash, ianya nyata.
+Dialogue: 0,0:45:27.19,0:45:28.23,Default,,0,0,0,,Kita berjaya.
+Dialogue: 0,0:45:43.41,0:45:45.31,Default,,0,0,0,,Siapa kau?\NMelutut!
+Dialogue: 0,0:46:23.62,0:46:24.65,Default,,0,0,0,,Boo!
+Dialogue: 0,0:46:25.35,0:46:27.39,Default,,0,0,0,,Oh...\NAku menakutkan kamu?
+Dialogue: 0,0:46:28.52,0:46:29.56,Default,,0,0,0,,Siapa kamu?
+Dialogue: 0,0:46:30.59,0:46:31.76,Default,,0,0,0,,Mana Ash?
+Dialogue: 0,0:46:31.76,0:46:33.22,Default,,0,0,0,,Kamu nak bermain satu permainan?\NYeah!
+Dialogue: 0,0:46:33.23,0:46:34.66,Default,,0,0,0,,Budak lelaki suka main permaianan,\Nye kan?
+Dialogue: 0,0:46:34.66,0:46:37.03,Default,,0,0,0,,- Tak, saya tak. Saya nak...\N- Shh.
+Dialogue: 0,0:46:37.03,0:46:38.20,Default,,0,0,0,,Inilah peraturannya:
+Dialogue: 0,0:46:38.66,0:46:39.97,Default,,0,0,0,,Kamu tanya soalan,
+Dialogue: 0,0:46:40.53,0:46:41.63,Default,,0,0,0,,dan aku tanya soalan.
+Dialogue: 0,0:46:42.50,0:46:43.67,Default,,0,0,0,,Bunyinya macam seronok,\Nye tak?
+Dialogue: 0,0:46:44.57,0:46:45.64,Default,,0,0,0,,Jadi...
+Dialogue: 0,0:46:46.41,0:46:47.44,Default,,0,0,0,,Siapa kamu?
+Dialogue: 0,0:46:49.34,0:46:50.18,Default,,0,0,0,,Saya Prince.
+Dialogue: 0,0:46:51.48,0:46:53.68,Default,,0,0,0,,Sekejap. Serius ni?\NKamu seorang putera?
+Dialogue: 0,0:46:54.58,0:46:55.98,Default,,0,0,0,,Maksud aku, wow!
+Dialogue: 0,0:46:56.31,0:46:57.75,Default,,0,0,0,,Aku di hadapan orang berdarah raja!
+Dialogue: 0,0:46:58.22,0:47:00.05,Default,,0,0,0,,- Siapa kamu?\N- Baiklah, kamu tahu...
+Dialogue: 0,0:47:00.39,0:47:03.39,Default,,0,0,0,,Ini adalah {\i1}mi casa{\i0}(kediaman aku)\Ndan aku {\i1}jefe{\i0}(ketua), itulah siapa aku.
+Dialogue: 0,0:47:03.59,0:47:05.46,Default,,0,0,0,,Ini adalah Kuil Kehidupan, ye kan?
+Dialogue: 0,0:47:06.66,0:47:08.10,Default,,0,0,0,,Oh, wow!
+Dialogue: 0,0:47:08.36,0:47:09.79,Default,,0,0,0,,Oh, ye ke.\NWow!
+Dialogue: 0,0:47:09.80,0:47:11.26,Default,,0,0,0,,Pantai Paradise!
+Dialogue: 0,0:47:12.13,0:47:13.43,Default,,0,0,0,,Ya Tuhan,\Nianya sangat cantik!
+Dialogue: 0,0:47:14.63,0:47:18.07,Default,,0,0,0,,Tapi malang buat kamu, orang muda,\Nini bukannya syurga.
+Dialogue: 0,0:47:18.74,0:47:19.77,Default,,0,0,0,,Ini...
+Dialogue: 0,0:47:20.37,0:47:21.41,Default,,0,0,0,,Ini...
+Dialogue: 0,0:47:22.24,0:47:23.18,Default,,0,0,0,,adalah Drug Town!
+Dialogue: 0,0:47:35.85,0:47:37.19,Default,,0,0,0,,Mm!
+Dialogue: 0,0:47:38.36,0:47:39.39,Default,,0,0,0,,Cantik sekali.
+Dialogue: 0,0:47:50.84,0:47:52.20,Default,,0,0,0,,Apa yang kita ada kat sini?
+Dialogue: 0,0:47:53.81,0:47:55.41,Default,,0,0,0,,Kuil Kehidupan,\Naku kena akui,
+Dialogue: 0,0:47:55.41,0:47:57.21,Default,,0,0,0,,begitulah fungsinya,\Nia sangat berkesan,
+Dialogue: 0,0:47:57.21,0:47:59.41,Default,,0,0,0,,tapi, tahu tak,\Nini lebih baik dari kehidupan, kawan!
+Dialogue: 0,0:47:59.41,0:48:00.75,Default,,0,0,0,,Maksud aku,\Ntakde kesakitan kat sini.
+Dialogue: 0,0:48:01.28,0:48:03.38,Default,,0,0,0,,Ia hanya kebahagian!
+Dialogue: 0,0:48:03.38,0:48:05.42,Default,,0,0,0,,Maksud aku, kat mana lagi kamu nak\Ncari itu kat dunia yang rosak ni, kan?
+Dialogue: 0,0:48:06.12,0:48:09.19,Default,,0,0,0,,Jadi, kamu melancong\Ndi seluruh tanah gersang ni atau...
+Dialogue: 0,0:48:09.69,0:48:11.16,Default,,0,0,0,,ada sesuatu yang lain?
+Dialogue: 0,0:48:13.16,0:48:14.49,Default,,0,0,0,,Saya dengar kamu ada penawar.
+Dialogue: 0,0:48:14.49,0:48:16.43,Default,,0,0,0,,Oh, betul!\NKami ada banyak penawar.
+Dialogue: 0,0:48:17.36,0:48:18.40,Default,,0,0,0,,Begitu banyak.
+Dialogue: 0,0:48:19.33,0:48:21.27,Default,,0,0,0,,Mak saya, dia nazak.
+Dialogue: 0,0:48:21.83,0:48:23.37,Default,,0,0,0,,Dia mengalami demam bintik merah.
+Dialogue: 0,0:48:23.37,0:48:24.74,Default,,0,0,0,,Itu menakutkan,\Npenyakit yang dahsyat.
+Dialogue: 0,0:48:24.74,0:48:25.84,Default,,0,0,0,,Wow, I feel for you.
+Dialogue: 0,0:48:27.57,0:48:29.54,Default,,0,0,0,,Tapi itu penawar khusus,\Nkamu tahu,
+Dialogue: 0,0:48:29.54,0:48:31.48,Default,,0,0,0,,cuma ianya agak sukar\Nnak hasilkan beberapa hari ni.
+Dialogue: 0,0:48:32.31,0:48:33.48,Default,,0,0,0,,Jadi, kamu tak milikinya.
+Dialogue: 0,0:48:35.18,0:48:36.32,Default,,0,0,0,,Kami ada.\NMarilah!
+Dialogue: 0,0:48:39.42,0:48:40.89,Default,,0,0,0,,Kat sinilah, OK?
+Dialogue: 0,0:48:40.89,0:48:44.29,Default,,0,0,0,,Inilah di mana kamu akan\Nhasilkan ubat kamu, Prince.
+Dialogue: 0,0:48:44.29,0:48:45.32,Default,,0,0,0,,Kat sini?
+Dialogue: 0,0:48:45.79,0:48:47.46,Default,,0,0,0,,Emm, dengar,\Naku tahu ianya agak...
+Dialogue: 0,0:48:48.53,0:48:49.73,Default,,0,0,0,,tak banyak yang boleh dilihat, OK?
+Dialogue: 0,0:48:49.73,0:48:51.80,Default,,0,0,0,,Tapi kami ada segalanya\Nyang kamu perlukan.
+Dialogue: 0,0:48:53.43,0:48:54.47,Default,,0,0,0,,Mula-mula.
+Dialogue: 0,0:48:57.57,0:48:59.77,Default,,0,0,0,,Kamu perlu menjadi\Nsalah seorang dari kami!
+Dialogue: 0,0:48:59.77,0:49:00.67,Default,,0,0,0,,Apa?
+Dialogue: 0,0:49:01.34,0:49:02.37,Default,,0,0,0,,Hei.
+Dialogue: 0,0:49:02.58,0:49:04.27,Default,,0,0,0,,Kamu inginkan penawar\Nuntuk mak kamu?
+Dialogue: 0,0:49:04.28,0:49:05.78,Default,,0,0,0,,Inilah macamana\Nkamu akan dapatkannya.
+Dialogue: 0,0:49:05.78,0:49:07.44,Default,,0,0,0,,- Kenapa?\N- Tak lama lagi...
+Dialogue: 0,0:49:07.45,0:49:09.18,Default,,0,0,0,,- Nanti kejap! Nanti kejap!\N- ...masalah kamu
+Dialogue: 0,0:49:09.18,0:49:10.58,Default,,0,0,0,,akan jadi perkara yang lepas!
+Dialogue: 0,0:49:10.58,0:49:12.52,Default,,0,0,0,,Baiklah,\Ncuma tunggu sekejap sebab...
+Dialogue: 0,0:49:12.52,0:49:13.42,Default,,0,0,0,,Kamu dah sedia?
+Dialogue: 0,0:49:14.39,0:49:15.42,Default,,0,0,0,,Selamat datang ke dunia aku.
+Dialogue: 0,0:49:26.77,0:49:28.80,Default,,0,0,0,,Rasakan ubat tu\Nmengalir melalui kamu.
+Dialogue: 0,0:49:29.87,0:49:31.91,Default,,0,0,0,,Biarkan ia mengambil alih\Ndiri kamu, yeah.
+Dialogue: 0,0:49:32.81,0:49:34.61,Default,,0,0,0,,Betul, kan?\NIa sangat bagus.
+Dialogue: 0,0:49:36.74,0:49:37.91,Default,,0,0,0,,Ia begitu hebat, kan?
+Dialogue: 0,0:50:01.27,0:50:03.27,Default,,0,0,0,,Ketahui apa\Nyang berlaku dengan kamu.
+Dialogue: 0,0:50:06.51,0:50:07.51,Default,,0,0,0,,Uhh!
+Dialogue: 0,0:50:08.61,0:50:10.74,Default,,0,0,0,,Kamu berdarah\Nmacam seekor monyet*.
+Dialogue: 0,0:50:10.74,0:50:12.51,Default,,0,0,0,,Mm! Yeah.
+Dialogue: 0,0:50:12.88,0:50:14.71,Default,,0,0,0,,Oh, aduss.\NOh, aduss.
+Dialogue: 0,0:50:18.82,0:50:19.89,Default,,0,0,0,,Ahh!
+Dialogue: 0,0:50:20.89,0:50:21.92,Default,,0,0,0,,Baiklah.
+Dialogue: 0,0:50:24.99,0:50:26.23,Default,,0,0,0,,Ahh!
+Dialogue: 0,0:50:26.46,0:50:28.29,Default,,0,0,0,,Oh, yeah.
+Dialogue: 0,0:50:34.50,0:50:35.53,Default,,0,0,0,,Ahh!
+Dialogue: 0,0:50:36.94,0:50:38.37,Default,,0,0,0,,Kamu rasakannya, huh?
+Dialogue: 0,0:50:38.90,0:50:39.94,Default,,0,0,0,,Ya?
+Dialogue: 0,0:50:40.51,0:50:41.74,Default,,0,0,0,,Ya, kamu rasa.
+Dialogue: 0,0:50:41.74,0:50:42.98,Default,,0,0,0,,Aku cuma akan tengoknya kat sini.
+Dialogue: 0,0:50:52.85,0:50:53.89,Default,,0,0,0,,Sedarlah, sayang.
+Dialogue: 0,0:50:54.72,0:50:56.39,Default,,0,0,0,,- Yeah.\N- Rasai kegembiraan.
+Dialogue: 0,0:50:57.36,0:50:59.29,Default,,0,0,0,,Yeah, ia merangkumi segalanya,
+Dialogue: 0,0:50:59.29,0:51:01.29,Default,,0,0,0,,benda tu membakar\Nmelalui aliran darah kamu,
+Dialogue: 0,0:51:01.29,0:51:03.23,Default,,0,0,0,,dan semuanya dimaksimumkan!
+Dialogue: 0,0:51:04.36,0:51:07.43,Default,,0,0,0,,Kegembiraan, cinta, nafsu.
+Dialogue: 0,0:51:08.40,0:51:09.44,Default,,0,0,0,,Cemburu!
+Dialogue: 0,0:51:10.37,0:51:11.43,Default,,0,0,0,,Kebencian!
+Dialogue: 0,0:51:14.51,0:51:15.91,Default,,0,0,0,,Bencikan tanah gersang!
+Dialogue: 0,0:51:33.93,0:51:35.49,Default,,0,0,0,,Sekarang saatnya kebenaran.
+Dialogue: 0,0:51:37.56,0:51:38.56,Default,,0,0,0,,Helo?
+Dialogue: 0,0:51:39.06,0:51:40.37,Default,,0,0,0,,Kamu didaftar?
+Dialogue: 0,0:51:41.67,0:51:42.70,Default,,0,0,0,,Kat mana saya?
+Dialogue: 0,0:51:43.34,0:51:45.74,Default,,0,0,0,,Jangan risau.\NKamu berada kat kawasan selamat.
+Dialogue: 0,0:51:51.74,0:51:53.41,Default,,0,0,0,,Ya, um...
+Dialogue: 0,0:51:53.41,0:51:55.71,Default,,0,0,0,,Maaf pasal tu,\Nbarang tu sukar diperolehi,
+Dialogue: 0,0:51:55.72,0:51:57.05,Default,,0,0,0,,dan kamu berdarah dengan banyak.
+Dialogue: 0,0:51:58.35,0:51:59.39,Default,,0,0,0,,Kamu selamatkan saya.
+Dialogue: 0,0:52:03.12,0:52:04.82,Default,,0,0,0,,Emm, ya, ya,\Nlebih kuranglah.
+Dialogue: 0,0:52:07.83,0:52:08.86,Default,,0,0,0,,Terimakasih.
+Dialogue: 0,0:52:15.63,0:52:16.67,Default,,0,0,0,,Kamu seorang tahanan?
+Dialogue: 0,0:52:21.07,0:52:22.64,Default,,0,0,0,,Aku takkan panggil diri sendiri begitu.
+Dialogue: 0,0:52:22.64,0:52:24.81,Default,,0,0,0,,Jadi, kamu boleh pergi\Nke mana saja yang kami nak?
+Dialogue: 0,0:52:26.51,0:52:27.88,Default,,0,0,0,,Kamu takkan faham.
+Dialogue: 0,0:52:29.62,0:52:31.79,Default,,0,0,0,,Tapi sekiranya aku ada pilihan,\Naku akan tetap kat mana aku berada.
+Dialogue: 0,0:52:34.75,0:52:36.79,Default,,0,0,0,,Tanah gersang dipenuhi\Norang yang teruk.
+Dialogue: 0,0:52:38.02,0:52:39.39,Default,,0,0,0,,Saya faham.
+Dialogue: 0,0:52:47.90,0:52:49.07,Default,,0,0,0,,Begitulah saya menerima ni.
+Dialogue: 0,0:53:00.55,0:53:01.65,Default,,0,0,0,,Apa pendapat kamu?
+Dialogue: 0,0:53:06.75,0:53:08.12,Default,,0,0,0,,Inilah semua yang saya inginkan.
+Dialogue: 0,0:53:09.95,0:53:10.99,Default,,0,0,0,,Ini...
+Dialogue: 0,0:53:11.69,0:53:13.49,Default,,0,0,0,,lebih dari apa saja kat Oasis.
+Dialogue: 0,0:53:14.69,0:53:16.73,Default,,0,0,0,,Oasis?\NApa tu, sayang?
+Dialogue: 0,0:53:18.46,0:53:19.50,Default,,0,0,0,,Oasis?
+Dialogue: 0,0:53:23.00,0:53:24.04,Default,,0,0,0,,Ianya berkehidupan.
+Dialogue: 0,0:53:29.87,0:53:31.64,Default,,0,0,0,,Mak saya taknak saya pergi.
+Dialogue: 0,0:53:33.91,0:53:35.41,Default,,0,0,0,,Dia fikir ia sangat sempurna.
+Dialogue: 0,0:53:38.85,0:53:41.99,Default,,0,0,0,,Ianya tak lengkap dan sangat menyulitkan\Nmacam sebahagian dunia yang lain.
+Dialogue: 0,0:53:43.49,0:53:44.59,Default,,0,0,0,,Ia membahagiakan.
+Dialogue: 0,0:53:44.79,0:53:46.86,Default,,0,0,0,,Ya, bunyinya\Nbegitu hampir sempurna.
+Dialogue: 0,0:53:47.13,0:53:48.16,Default,,0,0,0,,Kamu nampak tu?
+Dialogue: 0,0:53:49.06,0:53:50.16,Default,,0,0,0,,Laut kat sini mati.
+Dialogue: 0,0:53:51.43,0:53:55.14,Default,,0,0,0,,Kami tak dapat apa-apa, takde apa,\Ntakde apa-apa dalam diri kita.
+Dialogue: 0,0:53:56.47,0:53:58.47,Default,,0,0,0,,Tahu tak,\Naku ingin melihat pokok,
+Dialogue: 0,0:53:58.47,0:53:59.94,Default,,0,0,0,,lihat bunga\Ndalam seumur hidup aku.
+Dialogue: 0,0:53:59.94,0:54:02.10,Default,,0,0,0,,Maksud aku, menyedihkan, ye kan?\NBegitu menyedihkan?
+Dialogue: 0,0:54:02.11,0:54:04.11,Default,,0,0,0,,Kenapa kamu buat aku\Nbegitu sedih?
+Dialogue: 0,0:54:04.84,0:54:05.88,Default,,0,0,0,,Nah.
+Dialogue: 0,0:54:07.68,0:54:08.72,Default,,0,0,0,,Cuba ni.
+Dialogue: 0,0:54:11.85,0:54:14.62,Default,,0,0,0,,Hisap je...
+Dialogue: 0,0:54:15.59,0:54:17.69,Default,,0,0,0,,Ahh...
+Dialogue: 0,0:54:21.59,0:54:23.96,Default,,0,0,0,,Jadi, teman mengembara kamu,\NAsh?
+Dialogue: 0,0:54:24.96,0:54:26.60,Default,,0,0,0,,Dia wanita sempurna, kan?
+Dialogue: 0,0:54:26.60,0:54:27.97,Default,,0,0,0,,Tak dapat dimusnahkan oleh masa.
+Dialogue: 0,0:54:27.97,0:54:30.54,Default,,0,0,0,,Takde daging dan tulang,\Ntapi sesuatu yang tulen.
+Dialogue: 0,0:54:31.14,0:54:32.70,Default,,0,0,0,,Ya, Tuhan,\NAku suka itu.
+Dialogue: 0,0:54:33.87,0:54:35.64,Default,,0,0,0,,Kesucian, kemurnian,\Nianya cuma...
+Dialogue: 0,0:54:36.94,0:54:38.08,Default,,0,0,0,,Ianya apa\Nyang aku dah lakukan.
+Dialogue: 0,0:54:48.82,0:54:49.99,Default,,0,0,0,,Bermimpi indahlah.
+Dialogue: 0,0:55:19.65,0:55:20.69,Default,,0,0,0,,{\i1}Anak ku...{\i0}
+Dialogue: 0,0:55:21.25,0:55:22.19,Default,,0,0,0,,{\i1}Putera ku...{\i0}
+Dialogue: 0,0:55:24.72,0:55:25.76,Default,,0,0,0,,{\i1}Pulanglah.{\i0}
+Dialogue: 0,0:56:05.23,0:56:06.27,Default,,0,0,0,,Alamak!
+Dialogue: 0,0:56:07.20,0:56:08.53,Default,,0,0,0,,Bangun! Bangun!
+Dialogue: 0,0:56:58.28,0:57:00.35,Default,,0,0,0,,Kamu cuma anak kecil\Nyang manis, ye kan?
+Dialogue: 0,0:57:02.79,0:57:05.09,Default,,0,0,0,,Sayang ku, anak kecil.
+Dialogue: 0,0:57:06.99,0:57:08.06,Default,,0,0,0,,Apa?
+Dialogue: 0,0:57:08.06,0:57:09.73,Default,,0,0,0,,Oh, tak, tak, tak.
+Dialogue: 0,0:57:10.40,0:57:12.70,Default,,0,0,0,,Jangan sedih.\NJangan sedih.
+Dialogue: 0,0:57:13.26,0:57:14.87,Default,,0,0,0,,Sebab aku akan hargai kamu...
+Dialogue: 0,0:57:16.27,0:57:18.04,Default,,0,0,0,,dan aku akan\Nbangkitkan kelebihan kamu.
+Dialogue: 0,0:57:19.07,0:57:20.77,Default,,0,0,0,,Dan lepas tu...\NDan...
+Dialogue: 0,0:57:20.77,0:57:22.17,Default,,0,0,0,,Dan kamu akan\Nberikan aku kelebihan juga.
+Dialogue: 0,0:57:22.17,0:57:23.14,Default,,0,0,0,,Ye kan?
+Dialogue: 0,0:57:29.72,0:57:30.82,Default,,0,0,0,,Oh, terimakasih.
+Dialogue: 0,0:57:32.18,0:57:33.32,Default,,0,0,0,,Oh, terimakasih.
+Dialogue: 0,0:59:15.92,0:59:17.22,Default,,0,0,0,,Permainannya mudah, Prince.
+Dialogue: 0,0:59:17.89,0:59:18.92,Default,,0,0,0,,Apa yang kamu ingin...
+Dialogue: 0,0:59:21.46,0:59:23.26,Default,,0,0,0,,ada dalam perut orang besar tu.
+Dialogue: 0,0:59:24.80,0:59:26.20,Default,,0,0,0,,Sekarang kita akan buat perjanjian.
+Dialogue: 0,0:59:26.83,0:59:29.40,Default,,0,0,0,,Ia menyeronokkan,\Nseakan pertarungan hingga mati.
+Dialogue: 0,0:59:30.24,0:59:31.83,Default,,0,0,0,,Faham?
+Dialogue: 0,0:59:31.84,0:59:33.91,Default,,0,0,0,,Kamu menang, kamu dapat penawar.\NKamu kalah, kamu mati.
+Dialogue: 0,0:59:34.47,0:59:35.51,Default,,0,0,0,,Seronok!
+Dialogue: 0,0:59:42.91,0:59:44.15,Default,,0,0,0,,Inilah "wild card" tu.
+Dialogue: 0,1:00:43.31,1:00:44.84,Default,,0,0,0,,Sekarang untuk "wild card".
+Dialogue: 0,1:01:41.33,1:01:42.37,Default,,0,0,0,,Tak sangka betul.
+Dialogue: 0,1:01:43.20,1:01:44.57,Default,,0,0,0,,Tak tahu pun,\Nkamu ada keberanian dalam diri kamu.
+Dialogue: 0,1:01:45.10,1:01:47.07,Default,,0,0,0,,Apa yang kamu ingin\Nada dalam perut lelaki tu.
+Dialogue: 0,1:02:39.46,1:02:40.63,Default,,0,0,0,,Kamu dah memperolehinya, budak.
+Dialogue: 0,1:02:54.64,1:02:55.68,Default,,0,0,0,,Ash.
+Dialogue: 0,1:02:56.31,1:02:57.44,Default,,0,0,0,,Mari kita keluar dari sini.
+Dialogue: 0,1:02:58.31,1:02:59.34,Default,,0,0,0,,Whoa.
+Dialogue: 0,1:03:01.21,1:03:02.18,Default,,0,0,0,,Whoa, whoa, whoa.
+Dialogue: 0,1:03:03.05,1:03:04.52,Default,,0,0,0,,Kamu meminta penawar...
+Dialogue: 0,1:03:06.55,1:03:07.45,Default,,0,0,0,,bukan robot.
+Dialogue: 0,1:03:08.75,1:03:10.19,Default,,0,0,0,,Tak.
+Dialogue: 0,1:03:11.49,1:03:13.13,Default,,0,0,0,,- Saya takkan pergi ke mana-mana tanpa dia.\N- Aku dah beri kamu penawar.
+Dialogue: 0,1:03:13.79,1:03:15.49,Default,,0,0,0,,Aku dah selamatkan nyawa\Nkawan kamu.
+Dialogue: 0,1:03:15.49,1:03:17.70,Default,,0,0,0,,Dia tinggal...\Nbersama aku.
+Dialogue: 0,1:03:18.33,1:03:20.30,Default,,0,0,0,,Tak, banyak cantik,\Nlupakannya.
+Dialogue: 0,1:03:20.56,1:03:22.40,Default,,0,0,0,,Kami akan pergi.
+Dialogue: 0,1:03:22.40,1:03:24.27,Default,,0,0,0,,Dengar, kamu boleh pergi sekarang,\Natau kita boleh akhirinya kat sini.
+Dialogue: 0,1:03:24.27,1:03:25.17,Default,,0,0,0,,Hm?
+Dialogue: 0,1:03:28.34,1:03:29.48,Default,,0,0,0,,Saya takkan pergi tanpa dia.
+Dialogue: 0,1:03:30.81,1:03:32.04,Default,,0,0,0,,Pergilah.
+Dialogue: 0,1:03:32.71,1:03:33.75,Default,,0,0,0,,Dah kesuntukan masa.
+Dialogue: 0,1:03:38.48,1:03:39.52,Default,,0,0,0,,Ash...
+Dialogue: 0,1:03:40.58,1:03:41.62,Default,,0,0,0,,Pergi.
+Dialogue: 0,1:03:55.37,1:03:56.40,Default,,0,0,0,,Menghancurkan hati aku.
+Dialogue: 0,1:05:51.35,1:05:52.65,Default,,0,0,0,,Aku dah cakap aku pilih\Napa yang aku buat.
+Dialogue: 0,1:05:52.88,1:05:54.12,Default,,0,0,0,,Aku akan keluarkan kamu.
+Dialogue: 0,1:06:06.87,1:06:08.83,Default,,0,0,0,,Aduss!\NMacamana jika mereka datang?
+Dialogue: 0,1:06:08.83,1:06:10.27,Default,,0,0,0,,- Takpe.\N- Aduss.
+Dialogue: 0,1:06:10.27,1:06:11.34,Default,,0,0,0,,Lei, takpe.
+Dialogue: 0,1:06:12.90,1:06:15.07,Default,,0,0,0,,Macamana kamu begitu tenang saat\Nsegalanya menjadi sebegini?
+Dialogue: 0,1:06:18.94,1:06:20.18,Default,,0,0,0,,Berhenti.
+Dialogue: 0,1:06:25.22,1:06:26.25,Default,,0,0,0,,Itulah apa ia sebenarnya.
+Dialogue: 0,1:06:28.55,1:06:29.62,Default,,0,0,0,,Itulah apa ia sebenarnya?
+Dialogue: 0,1:06:32.76,1:06:34.39,Default,,0,0,0,,Aku harap aku boleh jadi macam kamu.
+Dialogue: 0,1:06:35.33,1:06:36.43,Default,,0,0,0,,Cuma aku harap aku...
+Dialogue: 0,1:06:36.83,1:06:38.83,Default,,0,0,0,,tak merasai perasaan aku\Ndan terlalu risau.
+Dialogue: 0,1:06:52.34,1:06:54.58,Default,,0,0,0,,Kamu sepatutnya hargai perasaan kamu\Nsama ada ianya baik atau buruk.
+Dialogue: 0,1:06:59.32,1:07:00.35,Default,,0,0,0,,Kamu boleh merasainya?
+Dialogue: 0,1:07:09.49,1:07:10.53,Default,,0,0,0,,Dan ini?
+Dialogue: 0,1:07:16.77,1:07:17.80,Default,,0,0,0,,Ya.
+Dialogue: 0,1:07:21.77,1:07:23.34,Default,,0,0,0,,Maaf,\Naku tak patut lakukannya.
+Dialogue: 0,1:07:23.34,1:07:24.68,Default,,0,0,0,,Aku tak patut ambil\Nkesempatan atas kamu.
+Dialogue: 0,1:07:30.68,1:07:31.72,Default,,0,0,0,,Lei...
+Dialogue: 0,1:07:35.42,1:07:36.52,Default,,0,0,0,,Saya suka perasaan ni.
+Dialogue: 0,1:08:25.10,1:08:26.57,Default,,0,0,0,,{\i1}Pada saat ini...{\i0}
+Dialogue: 0,1:08:29.37,1:08:30.68,Default,,0,0,0,,{\i1}Aku membuat perhubungan.{\i0}
+Dialogue: 0,1:08:32.91,1:08:33.95,Default,,0,0,0,,{\i1}Aku merasakan sesuatu.{\i0}
+Dialogue: 0,1:08:35.88,1:08:37.32,Default,,0,0,0,,{\i1}Sesuatu yang asli.{\i0}
+Dialogue: 0,1:08:40.75,1:08:42.42,Default,,0,0,0,,Saya tak pernah miliki\Nperasaan ni sebelum ini.
+Dialogue: 0,1:08:44.69,1:08:46.56,Default,,0,0,0,,Ianya begitu berbeza\Ndari semua yang lain.
+Dialogue: 0,1:08:48.66,1:08:49.76,Default,,0,0,0,,Maaf.
+Dialogue: 0,1:08:49.76,1:08:50.80,Default,,0,0,0,,Tak perlu.
+Dialogue: 0,1:08:53.40,1:08:54.43,Default,,0,0,0,,Saya yang inginkan.
+Dialogue: 0,1:08:57.37,1:08:58.74,Default,,0,0,0,,Boleh merasai\Ndegupan jantung kamu.
+Dialogue: 0,1:08:59.97,1:09:01.01,Default,,0,0,0,,Tenaga kamu.
+Dialogue: 0,1:09:04.07,1:09:05.84,Default,,0,0,0,,Dan aku malah tak tahu\Napa perasaan itu lagi.
+Dialogue: 0,1:09:10.55,1:09:12.95,Default,,0,0,0,,Aku dibawa dari keluarga aku\Nsaat aku seorang anak dara.
+Dialogue: 0,1:09:14.02,1:09:15.72,Default,,0,0,0,,Kumpulan penunggang mengambil aku.
+Dialogue: 0,1:09:17.59,1:09:18.76,Default,,0,0,0,,Aku masih begitu kecil.
+Dialogue: 0,1:09:20.86,1:09:23.70,Default,,0,0,0,,Dan aku belajar betapa sangat\Nteruknya manusia boleh jadi.
+Dialogue: 0,1:09:30.64,1:09:31.80,Default,,0,0,0,,Kemudian aku dewasa.
+Dialogue: 0,1:09:33.40,1:09:35.51,Default,,0,0,0,,Mereka tak lagi gunakan aku,\Njadi...
+Dialogue: 0,1:09:36.74,1:09:38.84,Default,,0,0,0,,mereka hanya jualkan aku.
+Dialogue: 0,1:09:39.78,1:09:41.35,Default,,0,0,0,,Begitulah\Nmacamana aku berakhir kat sini.
+Dialogue: 0,1:09:41.78,1:09:43.55,Default,,0,0,0,,Lagipun, saya sangat gembira\Nkamu dah membaiki saya.
+Dialogue: 0,1:09:49.15,1:09:50.42,Default,,0,0,0,,Aku juga.
+Dialogue: 0,1:09:54.16,1:09:57.60,Default,,0,0,0,,Dia sepatutnya\Nmenjadi wanita sempurna.
+Dialogue: 0,1:10:00.57,1:10:01.73,Default,,0,0,0,,Dia suci, kan?
+Dialogue: 0,1:10:02.63,1:10:03.67,Default,,0,0,0,,Wow.
+Dialogue: 0,1:10:04.70,1:10:06.04,Default,,0,0,0,,Tersangat suci.
+Dialogue: 0,1:10:09.51,1:10:10.74,Default,,0,0,0,,Aku dah beri kau...
+Dialogue: 0,1:10:10.74,1:10:12.44,Default,,0,0,0,,Aku dah beri kau segalanya.
+Dialogue: 0,1:10:12.44,1:10:14.38,Default,,0,0,0,,Aku selamatkan kau,\Naku beri kau penghormatan.
+Dialogue: 0,1:10:15.45,1:10:16.48,Default,,0,0,0,,Kau tak memahami.
+Dialogue: 0,1:10:18.08,1:10:20.92,Default,,0,0,0,,Kau ambil satu benda\Nyang sepatutnya menjadi milik aku.
+Dialogue: 0,1:10:22.85,1:10:23.89,Default,,0,0,0,,Kau dah mengotorkan dia!
+Dialogue: 0,1:10:26.59,1:10:27.69,Default,,0,0,0,,Kau...
+Dialogue: 0,1:10:28.76,1:10:30.90,Default,,0,0,0,,Kau...\NKau adalah virus.
+Dialogue: 0,1:10:32.56,1:10:33.60,Default,,0,0,0,,Kau adalah...
+Dialogue: 0,1:10:34.57,1:10:37.90,Default,,0,0,0,,menjijikkan, licik,\Nvirus halus.
+Dialogue: 0,1:10:37.90,1:10:38.84,Default,,0,0,0,,Jangan kata begitu!
+Dialogue: 0,1:10:38.84,1:10:43.54,Default,,0,0,0,,Tutup mulut kau.
+Dialogue: 0,1:10:46.14,1:10:48.15,Default,,0,0,0,,Kau tahu tak?\NSegalanya akan OK.
+Dialogue: 0,1:10:48.58,1:10:50.65,Default,,0,0,0,,Tak, tak, tak, yeah.\NKita akan perbetulkan ini.
+Dialogue: 0,1:10:51.95,1:10:52.95,Default,,0,0,0,,Jadi, um...
+Dialogue: 0,1:10:53.85,1:10:55.02,Default,,0,0,0,,Apa yang akan kita lakukan adalah...
+Dialogue: 0,1:10:55.69,1:10:57.06,Default,,0,0,0,,Kau akan kosongkan\Ncakera kerasnya.
+Dialogue: 0,1:10:57.79,1:10:58.96,Default,,0,0,0,,Kau akan memadamnya semua.
+Dialogue: 0,1:10:59.49,1:11:00.76,Default,,0,0,0,,Boom.\NSelesai.
+Dialogue: 0,1:11:00.76,1:11:02.63,Default,,0,0,0,,Permulaan yang baru, ye kan?\NYeah.
+Dialogue: 0,1:11:03.23,1:11:06.53,Default,,0,0,0,,Bila dia sedar,\Ndia takkan ingat kau...
+Dialogue: 0,1:11:10.53,1:11:14.21,Default,,0,0,0,,atau sebarang kejadian ni.
+Dialogue: 0,1:11:16.51,1:11:17.71,Default,,0,0,0,,Bila dia sedar...
+Dialogue: 0,1:11:19.18,1:11:20.75,Default,,0,0,0,,dia akan melihat aku.
+Dialogue: 0,1:11:30.82,1:11:31.86,Default,,0,0,0,,Dia akan...
+Dialogue: 0,1:11:33.86,1:11:34.89,Default,,0,0,0,,Dia akan sayangi aku.
+Dialogue: 0,1:12:29.11,1:12:30.95,Default,,0,0,0,,Mereka kat sana!\NTangkap mereka!
+Dialogue: 0,1:12:30.95,1:12:32.31,Default,,0,0,0,,Cepat!\NArah ni!
+Dialogue: 0,1:12:32.32,1:12:34.59,Default,,0,0,0,,Lekas!\NMereka kat sana!
+Dialogue: 0,1:12:35.99,1:12:37.02,Default,,0,0,0,,Dapatkan mereka!
+Dialogue: 0,1:12:58.08,1:12:59.11,Default,,0,0,0,,Apa jadah ni?
+Dialogue: 0,1:13:38.95,1:13:39.98,Default,,0,0,0,,Tak!
+Dialogue: 0,1:14:02.24,1:14:04.68,Default,,0,0,0,,Istana aku.\NAkulah {\i1}jefe.{\i0}
+Dialogue: 0,1:14:07.44,1:14:09.01,Default,,0,0,0,,Berambus!
+Dialogue: 0,1:14:25.10,1:14:26.30,Default,,0,0,0,,Yeah!
+Dialogue: 0,1:14:26.30,1:14:27.43,Default,,0,0,0,,Mampus kau!
+Dialogue: 0,1:14:35.44,1:14:37.74,Default,,0,0,0,,Tak sakit langsung,\Nmangkukhayun!
+Dialogue: 0,1:15:23.35,1:15:25.69,Default,,0,0,0,,Kau suka tu?\NKau suka tu?
+Dialogue: 0,1:15:35.27,1:15:36.47,Default,,0,0,0,,Jalang giler.
+Dialogue: 0,1:15:49.88,1:15:50.92,Default,,0,0,0,,Hai.
+Dialogue: 0,1:15:51.48,1:15:52.72,Default,,0,0,0,,Berhenti.
+Dialogue: 0,1:15:54.39,1:15:55.42,Default,,0,0,0,,Bawa mereka.
+Dialogue: 0,1:16:02.53,1:16:05.26,Default,,0,0,0,,Mereka cuba ambil pengantin aku.
+Dialogue: 0,1:16:06.80,1:16:07.97,Default,,0,0,0,,Dia milik aku!
+Dialogue: 0,1:16:10.53,1:16:12.44,Default,,0,0,0,,Mereka cuba berkawan dengannya.
+Dialogue: 0,1:16:13.81,1:16:15.17,Default,,0,0,0,,Bawanya pergi dari aku!
+Dialogue: 0,1:16:16.51,1:16:17.74,Default,,0,0,0,,Dia milik aku!
+Dialogue: 0,1:16:19.58,1:16:21.01,Default,,0,0,0,,Tempatkan mereka kat sana.
+Dialogue: 0,1:16:21.01,1:16:22.41,Default,,0,0,0,,Sedarlah, Ash.\NAsh.
+Dialogue: 0,1:16:30.05,1:16:31.16,Default,,0,0,0,,Pancung kepala mereka.
+Dialogue: 0,1:16:35.86,1:16:37.03,Default,,0,0,0,,Ini bukan kamu, Ash.
+Dialogue: 0,1:16:49.14,1:16:50.28,Default,,0,0,0,,Jangan dengar cakap dia, Ash.
+Dialogue: 0,1:16:51.84,1:16:52.88,Default,,0,0,0,,Ini bukan kamu.
+Dialogue: 0,1:16:53.88,1:16:54.98,Default,,0,0,0,,Ini bukan kamu.
+Dialogue: 0,1:16:55.61,1:16:56.95,Default,,0,0,0,,Ini bukan kamu.
+Dialogue: 0,1:16:58.52,1:16:59.55,Default,,0,0,0,,Bunuh mereka.
+Dialogue: 0,1:17:00.18,1:17:01.52,Default,,0,0,0,,- Bunuh mereka sekarang.\N- Tak.
+Dialogue: 0,1:17:10.46,1:17:12.36,Default,,0,0,0,,Berhenti,\Njalang setan!
+Dialogue: 0,1:17:30.48,1:17:33.32,Default,,0,0,0,,Bunuh mereka!
+Dialogue: 0,1:17:45.30,1:17:46.93,Default,,0,0,0,,Tak!
+Dialogue: 0,1:18:27.20,1:18:28.27,Default,,0,0,0,,- Berhenti!\N- Apa?
+Dialogue: 0,1:18:28.27,1:18:29.37,Default,,0,0,0,,- Hentikan motor!\N- Kenapa?
+Dialogue: 0,1:18:29.37,1:18:30.67,Default,,0,0,0,,- Berhenti!\N- Kenapa?
+Dialogue: 0,1:18:30.68,1:18:32.08,Default,,0,0,0,,- Ash, apa kamu buat?\N- Berhenti! Turun!
+Dialogue: 0,1:18:37.52,1:18:38.52,Default,,0,0,0,,Kamu nak buat apa?
+Dialogue: 0,1:18:39.62,1:18:40.58,Default,,0,0,0,,Ash!
+Dialogue: 0,1:20:05.70,1:20:07.04,Default,,0,0,0,,{\i1}Warlord dah mati.{\i0}
+Dialogue: 0,1:20:10.31,1:20:11.71,Default,,0,0,0,,{\i1}Tapi yang lain\Nakan menggantikannya.{\i0}
+Dialogue: 0,1:20:19.08,1:20:20.52,Default,,0,0,0,,{\i1}Dunia ini tiada ingatan.{\i0}
+Dialogue: 0,1:20:42.34,1:20:43.71,Default,,0,0,0,,Semua orang,\Nputera dah kembali!
+Dialogue: 0,1:20:45.08,1:20:46.38,Default,,0,0,0,,Saya perlu pergi melakukan sesuatu.
+Dialogue: 0,1:20:47.55,1:20:48.58,Default,,0,0,0,,Apa?
+Dialogue: 0,1:20:49.18,1:20:50.22,Default,,0,0,0,,Kamu nak ke mana?
+Dialogue: 0,1:20:54.72,1:20:56.15,Default,,0,0,0,,Kamu dah beri saya jiwa.
+Dialogue: 0,1:21:37.76,1:21:38.80,Default,,0,0,0,,Mak.
+Dialogue: 0,1:21:40.40,1:21:41.43,Default,,0,0,0,,Mak!
+Dialogue: 0,1:21:43.47,1:21:44.64,Default,,0,0,0,,Saya ada penawar.
+Dialogue: 0,1:22:23.71,1:22:24.74,Default,,0,0,0,,Anak ku...
+Dialogue: 0,1:22:47.90,1:22:49.67,Default,,0,0,0,,{\i1}Kami teruskan perjalanan...{\i0}
+Dialogue: 0,1:22:52.34,1:22:53.84,Default,,0,0,0,,{\i1}mencari yang lain\Nseperti aku.{\i0}
+Dialogue: 0,1:22:55.74,1:22:58.78,Default,,0,0,0,,{\i1}Kami perlu mencari mereka dan\Ntunjukkan mereka apa yang kami pelajari.{\i0}
+Dialogue: 0,1:23:00.64,1:23:03.78,Default,,0,0,0,,{\i1}Bahawa di sebalik semua akal dan\Npengetahuan mewujudkan sesuatu yang lebih hebat,{\i0}
+Dialogue: 0,1:23:05.82,1:23:08.29,Default,,0,0,0,,{\i1}sesuatu yang lebih berkuasa\Ndari mana-mana manusia,{\i0}
+Dialogue: 0,1:23:09.95,1:23:11.19,Default,,0,0,0,,{\i1}mana-mana senjata.{\i0}
+Dialogue: 0,1:23:14.73,1:23:15.76,Default,,0,0,0,,{\i1}Harapan.{\i0}
+Dialogue: 0,1:24:11.32,1:24:13.82,Default,,0,0,0,,Kenapa lama sangat ni\Nnak bawakan aku makanan?
+Dialogue: 0,1:24:14.55,1:24:16.85,Default,,0,0,0,,Boleh seorang bapak ayam dapatkan sesuatu\Nuntuk dimakan sekitar mangkukhayun ni?
+Dialogue: 0,1:24:17.65,1:24:19.42,Default,,0,0,0,,Aduss,\Nkalau aku kena tunggu lama lagi,
+Dialogue: 0,1:24:19.42,1:24:21.83,Default,,0,0,0,,Aku bersumpah aku akan masukkan\Nkaki aku dalam buntut seorang dari korang.
+Dialogue: 0,1:24:22.79,1:24:23.83,Default,,0,0,0,,Oh, mak kau!
+Dialogue: 0,1:24:24.73,1:24:26.93,Default,,0,0,0,,Ahh! Jalang Giler!
+Dialogue: 0,1:24:29.53,1:24:30.80,Default,,0,0,0,,Kamu semua bebas sekarang!
+Dialogue: 0,1:24:30.80,1:24:32.34,Default,,0,0,0,,Apa yang kau buat?
+Dialogue: 0,1:24:36.44,1:24:38.24,Default,,0,0,0,,Tak guna!\NRosie!
+Dialogue: 0,1:24:39.58,1:24:40.48,Default,,0,0,0,,Rosie!
+Dialogue: 0,1:24:40.68,1:24:42.08,Default,,0,0,0,,Oh!
+Dialogue: 0,1:24:42.08,1:24:45.02,Default,,0,0,0,,Aduss! Tolong!\NSesiapa tolong aku!
+Dialogue: 0,1:24:45.52,1:24:46.55,Default,,0,0,0,,Tak guna!
+Dialogue: 0,1:24:49.03,1:25:16.05,Default,,0,0,0,,.:: ありがとう ::.\N.:: >oo@_K3Я3NGG4_@oo< ::.
