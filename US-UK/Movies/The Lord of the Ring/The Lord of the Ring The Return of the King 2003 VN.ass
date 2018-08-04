@@ -1,0 +1,1894 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:27.95,0:00:30.95,Default,,0,0,0,,Bản dịch gốc: HDVNBits.
+Dialogue: 0,0:00:30.95,0:00:33.95,Default,,0,0,0,,Biên tập: Mp3sony - Sync: Vinhcmb\N.: PHUDEVIET.ORG:.
+Dialogue: 0,0:00:33.95,0:00:39.95,Default,,0,0,0,,CHÚA TỂ NHỮNG CHIẾC NHẪN
+Dialogue: 0,0:01:17.66,0:01:19.22,Default,,0,0,0,,Smeagol!
+Dialogue: 0,0:01:19.45,0:01:21.60,Default,,0,0,0,,Tớ câu được rồi!
+Dialogue: 0,0:01:22.33,0:01:24.24,Default,,0,0,0,,Được một con cá rồi, Smeag. Smeagol!
+Dialogue: 0,0:01:24.50,0:01:27.49,Default,,0,0,0,,Kéo lên! Nhanh! Nhanh! Kéo lại đây!
+Dialogue: 0,0:01:35.84,0:01:37.59,Default,,0,0,0,,Deagol!
+Dialogue: 0,0:02:35.07,0:02:36.82,Default,,0,0,0,,Deagol?
+Dialogue: 0,0:02:39.44,0:02:41.59,Default,,0,0,0,,Deagol.
+Dialogue: 0,0:02:57.50,0:02:59.49,Default,,0,0,0,,Đưa đây cho tớ nào, Deagol thân mến!
+Dialogue: 0,0:03:04.55,0:03:05.78,Default,,0,0,0,,Tại sao?
+Dialogue: 0,0:03:06.93,0:03:09.08,Default,,0,0,0,,Bởi vì...
+Dialogue: 0,0:03:09.35,0:03:12.94,Default,,0,0,0,,hôm nay là sinh nhật tớ,\Nvà tớ muốn có nó.
+Dialogue: 0,0:04:47.15,0:04:52.18,Default,,0,0,0,,Nhẫn quý của ta.
+Dialogue: 0,0:04:59.95,0:05:02.75,Default,,0,0,0,,{\i1}Họ đã nguyền rủa chúng ta.{\i0}
+Dialogue: 0,0:05:03.04,0:05:04.36,Default,,0,0,0,,{\i1}Tên sát nhân.{\i0}
+Dialogue: 0,0:05:04.58,0:05:06.94,Default,,0,0,0,,{\i1}Họ đã gọi chúng ta là kẻ sát nhân.{\i0}
+Dialogue: 0,0:05:07.21,0:05:11.81,Default,,0,0,0,,{\i1}Họ nguyền rủa và xua đuổi ta.{\i0}
+Dialogue: 0,0:05:13.13,0:05:14.77,Default,,0,0,0,,Gollum.
+Dialogue: 0,0:05:15.01,0:05:16.65,Default,,0,0,0,,Gollum.
+Dialogue: 0,0:05:16.89,0:05:18.76,Default,,0,0,0,,Gollum.
+Dialogue: 0,0:05:22.39,0:05:25.27,Default,,0,0,0,,{\i1}Và ta đã khóc, nhẫn quý ạ.{\i0}
+Dialogue: 0,0:05:25.56,0:05:29.00,Default,,0,0,0,,{\i1}Khóc bởi vì quá cô độc.{\i0}
+Dialogue: 0,0:05:31.73,0:05:35.36,Default,,0,0,0,,{\i1}Nước lạnh. Thật mát đôi chân.{\i0}
+Dialogue: 0,0:05:36.53,0:05:40.73,Default,,0,0,0,,{\i1}Và ta chỉ muốn bắt một con cá.{\i0}
+Dialogue: 0,0:05:41.08,0:05:44.19,Default,,0,0,0,,{\i1}Ngọt lịm và tươi.{\i0}
+Dialogue: 0,0:05:50.09,0:05:54.04,Default,,0,0,0,,{\i1}Và ta đã quên vị của bánh mì...{\i0}
+Dialogue: 0,0:05:54.38,0:05:57.85,Default,,0,0,0,,{\i1}tiếng gió thổi qua tàn cây...{\i0}
+Dialogue: 0,0:05:58.89,0:06:01.96,Default,,0,0,0,,{\i1}sự mềm mại của làn gió.{\i0}
+Dialogue: 0,0:06:02.72,0:06:08.16,Default,,0,0,0,,{\i1}Thậm chí còn quên cả tên mình.{\i0}
+Dialogue: 0,0:06:16.53,0:06:22.53,Default,,0,0,0,,Nhẫn quý của ta.
+Dialogue: 0,0:07:07.20,0:07:09.35,Default,,0,0,0,,Dậy đi!
+Dialogue: 0,0:07:10.50,0:07:12.09,Default,,0,0,0,,Dậy!
+Dialogue: 0,0:07:12.33,0:07:14.05,Default,,0,0,0,,Dậy đi, hai tên mê ngủ!
+Dialogue: 0,0:07:14.29,0:07:16.09,Default,,0,0,0,,Chúng ta phải đi.
+Dialogue: 0,0:07:16.34,0:07:18.90,Default,,0,0,0,,Đi ngay lập tức.
+Dialogue: 0,0:07:22.55,0:07:25.51,Default,,0,0,0,,Cậu ngủ được không, cậu Frodo?
+Dialogue: 0,0:07:27.85,0:07:30.28,Default,,0,0,0,,Tôi đã ngủ nhiều quá!
+Dialogue: 0,0:07:31.77,0:07:33.44,Default,,0,0,0,,Chắc là trễ lắm rồi!
+Dialogue: 0,0:07:33.69,0:07:35.12,Default,,0,0,0,,Không.
+Dialogue: 0,0:07:35.35,0:07:37.18,Default,,0,0,0,,Chưa đâu.
+Dialogue: 0,0:07:37.44,0:07:40.35,Default,,0,0,0,,Vẫn chưa đến buổi trưa.
+Dialogue: 0,0:07:40.65,0:07:43.12,Default,,0,0,0,,Ngày càng lúc càng tối.
+Dialogue: 0,0:07:47.49,0:07:49.61,Default,,0,0,0,,Nhanh lên!
+Dialogue: 0,0:07:52.12,0:07:54.27,Default,,0,0,0,,Phải đi thôi! Không còn thời gian nữa!
+Dialogue: 0,0:07:54.54,0:07:56.81,Default,,0,0,0,,Nhưng phải để cậu Frodo ăn gì đã!
+Dialogue: 0,0:07:57.08,0:07:59.84,Default,,0,0,0,,Không có thời giờ\Nđể phí phạm đâu, ngốc quá!
+Dialogue: 0,0:08:08.72,0:08:09.95,Default,,0,0,0,,Đây.
+Dialogue: 0,0:08:13.22,0:08:14.98,Default,,0,0,0,,Còn cậu?
+Dialogue: 0,0:08:15.23,0:08:18.46,Default,,0,0,0,,À, không, tôi không đói.\NTôi không thích bánh Lembas.
+Dialogue: 0,0:08:19.19,0:08:20.51,Default,,0,0,0,,Sam.
+Dialogue: 0,0:08:23.15,0:08:24.63,Default,,0,0,0,,Thôi được.
+Dialogue: 0,0:08:24.86,0:08:27.25,Default,,0,0,0,,Thật ra cũng không còn nhiều.
+Dialogue: 0,0:08:27.53,0:08:30.28,Default,,0,0,0,,Phải cẩn thận nếu không sẽ hết.
+Dialogue: 0,0:08:32.58,0:08:35.37,Default,,0,0,0,,Cậu cứ ăn đi, cậu Frodo.
+Dialogue: 0,0:08:35.66,0:08:37.01,Default,,0,0,0,,Tôi đã chia phần cả rồi.
+Dialogue: 0,0:08:37.58,0:08:39.17,Default,,0,0,0,,Có lẽ sẽ đủ.
+Dialogue: 0,0:08:41.42,0:08:42.57,Default,,0,0,0,,Đủ cho việc gì?
+Dialogue: 0,0:08:44.29,0:08:45.97,Default,,0,0,0,,Cho chuyến về nhà.
+Dialogue: 0,0:08:53.89,0:08:56.12,Default,,0,0,0,,Nhanh lên, các Hobbit.
+Dialogue: 0,0:08:57.60,0:08:59.40,Default,,0,0,0,,Gần đến rồi.
+Dialogue: 0,0:08:59.64,0:09:02.76,Default,,0,0,0,,Gần đến Mordor rồi.
+Dialogue: 0,0:09:03.06,0:09:05.62,Default,,0,0,0,,Ở đây không nơi nào an toàn cả.
+Dialogue: 0,0:09:05.90,0:09:07.97,Default,,0,0,0,,Nhanh lên!
+Dialogue: 0,0:09:50.86,0:09:56.36,Default,,0,0,0,,NHÀ VUA TRỞ VỀ
+Dialogue: 0,0:10:00.45,0:10:02.09,Default,,0,0,0,,{\i1}Thật tuyệt.{\i0}
+Dialogue: 0,0:10:03.08,0:10:04.75,Default,,0,0,0,,{\i1}Chắc chắn là của vùng Shire.{\i0}
+Dialogue: 0,0:10:07.04,0:10:09.08,Default,,0,0,0,,Lá thuốc Longbottom.
+Dialogue: 0,0:10:14.51,0:10:18.66,Default,,0,0,0,,Tôi cảm thấy như đã trở về\NQuán Rồng Xanh.
+Dialogue: 0,0:10:19.93,0:10:23.05,Default,,0,0,0,,- Quán Rồng Xanh.\N- Một cốc bia trên tay.
+Dialogue: 0,0:10:23.35,0:10:27.74,Default,,0,0,0,,Ngồi gác chân lên ghế\Nsau một ngày lao động mệt nhọc.
+Dialogue: 0,0:10:28.52,0:10:31.83,Default,,0,0,0,,Nhưng cậu có làm việc\Ncực nhọc bao giờ đâu.
+Dialogue: 0,0:10:44.79,0:10:47.70,Default,,0,0,0,,Xin đón tiếp các ngài...
+Dialogue: 0,0:10:48.00,0:10:50.15,Default,,0,0,0,,đến lsengard!
+Dialogue: 0,0:10:50.62,0:10:54.22,Default,,0,0,0,,Hai tên quỷ nhỏ! Hai cậu làm bọn ta\Nđuổi theo muốn chết.
+Dialogue: 0,0:10:54.54,0:10:59.33,Default,,0,0,0,,Bây giờ lại còn ở đó ăn uống\Nvà hút thuốc nữa!
+Dialogue: 0,0:10:59.72,0:11:02.75,Default,,0,0,0,,Chúng tôi đang ngồi trên\Nchiến thắng đây...
+Dialogue: 0,0:11:03.05,0:11:06.41,Default,,0,0,0,,và đang tận hưởng những gì xứng đáng.
+Dialogue: 0,0:11:07.64,0:11:11.32,Default,,0,0,0,,Món thịt lợn muối này đặc biệt ngon.
+Dialogue: 0,0:11:12.02,0:11:14.29,Default,,0,0,0,,Thịt lợn muối à?
+Dialogue: 0,0:11:15.61,0:11:18.88,Default,,0,0,0,,- Người Hobbit.\N- Bọn tôi nhận lệnh từ Treebeard...
+Dialogue: 0,0:11:19.19,0:11:21.91,Default,,0,0,0,,người đang nắm quyền tại lsengard.
+Dialogue: 0,0:11:24.57,0:11:27.45,Default,,0,0,0,,Pháp sư Gandalf trẻ tuổi.
+Dialogue: 0,0:11:27.74,0:11:32.13,Default,,0,0,0,,Rất vui vì ngài đã tới.
+Dialogue: 0,0:11:32.50,0:11:36.73,Default,,0,0,0,,Tôi có thể quản lý\Ngỗ và nước, cát và đá.
+Dialogue: 0,0:11:37.09,0:11:40.60,Default,,0,0,0,,Nhưng ở đây tôi phải\Ncanh giữ một pháp sư...
+Dialogue: 0,0:11:40.92,0:11:42.83,Default,,0,0,0,,bị giam trong toà tháp của mình.
+Dialogue: 0,0:11:45.59,0:11:46.87,Default,,0,0,0,,Ra mặt đi!
+Dialogue: 0,0:11:47.18,0:11:48.82,Default,,0,0,0,,Hãy cẩn thận.
+Dialogue: 0,0:11:49.68,0:11:52.24,Default,,0,0,0,,Dù có bị đánh bại\Nthì Saruman vẫn còn nguy hiểm.
+Dialogue: 0,0:11:52.52,0:11:54.55,Default,,0,0,0,,Thế thì chặt đầu hắn cho xong việc!
+Dialogue: 0,0:11:54.81,0:11:56.77,Default,,0,0,0,,Không.
+Dialogue: 0,0:11:57.19,0:11:59.42,Default,,0,0,0,,Ta cần hắn sống.
+Dialogue: 0,0:12:00.52,0:12:02.99,Default,,0,0,0,,Ta cần nói chuyện với hắn.
+Dialogue: 0,0:12:04.99,0:12:09.03,Default,,0,0,0,,Ngươi đã đánh nhiều trận chiến,\Ngiết nhiều người, vua Theoden...
+Dialogue: 0,0:12:09.37,0:12:10.80,Default,,0,0,0,,và cuối cùng đã mang lại hòa bình.
+Dialogue: 0,0:12:11.03,0:12:15.79,Default,,0,0,0,,Chúng ta không thể ngồi đàm đạo với nhau\Nnhư ngày xưa sao, bạn cũ?
+Dialogue: 0,0:12:16.16,0:12:19.24,Default,,0,0,0,,Giữa chúng ta\Nkhông thể có hòa bình sao?
+Dialogue: 0,0:12:19.54,0:12:21.37,Default,,0,0,0,,Sẽ có hòa bình.
+Dialogue: 0,0:12:23.38,0:12:25.42,Default,,0,0,0,,Sẽ có hòa bình...
+Dialogue: 0,0:12:25.67,0:12:29.55,Default,,0,0,0,,khi ngươi trả lời về việc\Nthiêu cháy thành Westfold...
+Dialogue: 0,0:12:29.89,0:12:32.53,Default,,0,0,0,,và những đứa trẻ nằm chết ngoài kia!
+Dialogue: 0,0:12:33.39,0:12:37.38,Default,,0,0,0,,Sẽ có hòa bình\Nkhi thân xác những người lính...
+Dialogue: 0,0:12:37.73,0:12:39.72,Default,,0,0,0,,vẫn bị đâm chém dù đã ngã xuống...
+Dialogue: 0,0:12:39.98,0:12:43.37,Default,,0,0,0,,ngoài cổng thành Hornburg,\Nđược báo thù!
+Dialogue: 0,0:12:45.07,0:12:50.43,Default,,0,0,0,,Khi ngươi bị treo cổ\Ncho lũ quạ của ngươi rỉa xác...
+Dialogue: 0,0:12:51.57,0:12:53.72,Default,,0,0,0,,thì ta và ngươi sẽ có hòa bình.
+Dialogue: 0,0:12:56.58,0:12:59.17,Default,,0,0,0,,Giá treo cổ và quạ ư?
+Dialogue: 0,0:12:59.62,0:13:00.82,Default,,0,0,0,,Ngươi lẩn thẩn rồi!
+Dialogue: 0,0:13:02.33,0:13:05.05,Default,,0,0,0,,Ngươi muốn gì, Gandalf Greyhame?
+Dialogue: 0,0:13:06.17,0:13:08.56,Default,,0,0,0,,Để ta đoán nhé, chìa khóa của Orthanc.
+Dialogue: 0,0:13:08.84,0:13:11.64,Default,,0,0,0,,Hoặc là chìa khóa của Barad-dur...
+Dialogue: 0,0:13:11.93,0:13:15.76,Default,,0,0,0,,cùng với vương miện của 7 vị vua\Nvà pháp trượng của Ngũ đại pháp sư.
+Dialogue: 0,0:13:16.10,0:13:18.93,Default,,0,0,0,,Sự phản bội của ngươi\Nđã làm tổn thất nhiều sinh mạng.
+Dialogue: 0,0:13:19.23,0:13:21.50,Default,,0,0,0,,Và còn nhiều người nữa\Nđang gặp nguy hiểm.
+Dialogue: 0,0:13:21.77,0:13:24.04,Default,,0,0,0,,Nhưng ngươi có thể cứu họ, Saruman.
+Dialogue: 0,0:13:24.31,0:13:26.51,Default,,0,0,0,,Ngươi đã ở sâu trong hàng ngũ địch.
+Dialogue: 0,0:13:26.77,0:13:29.93,Default,,0,0,0,,Vậy ra ngươi đến vì tin tức.
+Dialogue: 0,0:13:30.94,0:13:32.70,Default,,0,0,0,,Ta có một ít cho ngươi đây.
+Dialogue: 0,0:13:38.24,0:13:41.08,Default,,0,0,0,,Một thứ gì đó đang mục rữa\Nở trung tâm của vùng Trung Địa.
+Dialogue: 0,0:13:41.37,0:13:43.52,Default,,0,0,0,,Thứ mà ngươi không thể thấy.
+Dialogue: 0,0:13:46.13,0:13:49.48,Default,,0,0,0,,Nhưng Mắt Thần đã thấy.
+Dialogue: 0,0:13:50.67,0:13:54.22,Default,,0,0,0,,Bây giờ Ngài đang tận dụng lợi thế.
+Dialogue: 0,0:13:56.14,0:13:59.33,Default,,0,0,0,,Ngài sẽ sớm tấn công.
+Dialogue: 0,0:14:01.68,0:14:03.72,Default,,0,0,0,,Tất cả các ngươi sẽ chết.
+Dialogue: 0,0:14:06.31,0:14:09.43,Default,,0,0,0,,Ngươi biết điều đó mà,\Nphải không Gandalf?
+Dialogue: 0,0:14:09.73,0:14:14.17,Default,,0,0,0,,Ngươi không thể nghĩ rằng tên du mục kia\Ncó thể ngồi lên ngai vàng của Gondor.
+Dialogue: 0,0:14:14.53,0:14:20.36,Default,,0,0,0,,Kẻ bị trục xuất, trườn ra từ bóng tối kia\Nkhông bao giờ là vua.
+Dialogue: 0,0:14:21.95,0:14:25.47,Default,,0,0,0,,Gandalf không do dự hy sinh\Nnhững người thân cận nhất,
+Dialogue: 0,0:14:26.54,0:14:28.66,Default,,0,0,0,,những người mà hắn\Nnói là yêu thương họ.
+Dialogue: 0,0:14:29.79,0:14:34.15,Default,,0,0,0,,Những lời hay ho gì\Nngươi đã nói với tên nhóc đó...
+Dialogue: 0,0:14:34.51,0:14:37.42,Default,,0,0,0,,trước khi đưa hắn vào chỗ chết?
+Dialogue: 0,0:14:39.97,0:14:44.49,Default,,0,0,0,,Con đường ngươi đưa hắn đi\Nchỉ dẫn đến chết chóc mà thôi.
+Dialogue: 0,0:14:45.02,0:14:47.09,Default,,0,0,0,,Tôi nghe đủ rồi!
+Dialogue: 0,0:14:47.35,0:14:49.10,Default,,0,0,0,,Bắn hắn đi.\NGăm một mũi tên vào mồm hắn.
+Dialogue: 0,0:14:49.69,0:14:51.28,Default,,0,0,0,,Không.
+Dialogue: 0,0:14:51.81,0:14:53.93,Default,,0,0,0,,Xuống đây đi, Saruman...
+Dialogue: 0,0:14:54.19,0:14:57.98,Default,,0,0,0,,- và ngươi sẽ được tha mạng.\N- Dẹp bỏ lòng nhân từ của ngươi đi.
+Dialogue: 0,0:14:58.32,0:14:59.59,Default,,0,0,0,,Ta không quen điều đó!
+Dialogue: 0,0:15:08.87,0:15:10.27,Default,,0,0,0,,Saruman...
+Dialogue: 0,0:15:11.37,0:15:14.41,Default,,0,0,0,,pháp trượng của ngươi đã gãy.
+Dialogue: 0,0:15:25.43,0:15:28.74,Default,,0,0,0,,Grima, ngươi không cần phải theo hắn.
+Dialogue: 0,0:15:30.06,0:15:32.62,Default,,0,0,0,,Trước đây ngươi là một người khác.
+Dialogue: 0,0:15:32.90,0:15:35.61,Default,,0,0,0,,Ngươi từng là chiến binh của Rohan.
+Dialogue: 0,0:15:35.90,0:15:37.09,Default,,0,0,0,,Xuống đây đi.
+Dialogue: 0,0:15:37.32,0:15:39.91,Default,,0,0,0,,Chiến binh của Rohan?
+Dialogue: 0,0:15:40.94,0:15:43.09,Default,,0,0,0,,Thành Rohan là cái gì...
+Dialogue: 0,0:15:43.36,0:15:46.88,Default,,0,0,0,,ngoài một cái nhà kho lợp tranh\Nnơi bọn cướp say xỉn trong hôi hám...
+Dialogue: 0,0:15:47.20,0:15:50.75,Default,,0,0,0,,và bọn trẻ con lăn lóc\Ntrên sàn cùng lũ chó?
+Dialogue: 0,0:15:51.41,0:15:57.41,Default,,0,0,0,,Chiến thắng tại Helm's Deep\Nkhông thuộc về ngươi, kỵ binh Theoden.
+Dialogue: 0,0:15:58.50,0:16:02.89,Default,,0,0,0,,Cha ngươi vĩ đại hơn ngươi rất nhiều.
+Dialogue: 0,0:16:05.43,0:16:07.06,Default,,0,0,0,,Grima...
+Dialogue: 0,0:16:07.97,0:16:09.77,Default,,0,0,0,,hãy xuống đây.
+Dialogue: 0,0:16:10.18,0:16:11.53,Default,,0,0,0,,Tự giải thoát khỏi hắn đi.
+Dialogue: 0,0:16:11.77,0:16:14.59,Default,,0,0,0,,Tự do ư?\NHắn sẽ không bao giờ được tự do.
+Dialogue: 0,0:16:14.59,0:16:15.60,Default,,0,0,0,,Không.
+Dialogue: 0,0:16:16.15,0:16:18.66,Default,,0,0,0,,Nằm xuống, con chó ghẻ!
+Dialogue: 0,0:16:20.52,0:16:21.75,Default,,0,0,0,,Saruman!
+Dialogue: 0,0:16:21.98,0:16:24.50,Default,,0,0,0,,Ngươi đã ở sâu trong hàng ngũ địch.
+Dialogue: 0,0:16:25.11,0:16:27.18,Default,,0,0,0,,Hãy nói cho ta những gì ngươi biết!
+Dialogue: 0,0:16:28.78,0:16:30.35,Default,,0,0,0,,Bảo người của ngươi lui,
+Dialogue: 0,0:16:30.35,0:16:33.81,Default,,0,0,0,,và ta sẽ nói cho ngươi biết\Nnơi bắt đầu sự hủy diệt.
+Dialogue: 0,0:16:34.20,0:16:37.59,Default,,0,0,0,,Ta không thể bị cầm tù ở đây.
+Dialogue: 0,0:17:04.86,0:17:06.34,Default,,0,0,0,,Thông báo cho các đồng minh...
+Dialogue: 0,0:17:06.57,0:17:09.37,Default,,0,0,0,,và cho các vùng đất còn tự do\Ncủa vùng Trung Địa.
+Dialogue: 0,0:17:10.03,0:17:15.12,Default,,0,0,0,,Quân địch sắp tấn công. Chúng ta cần biết\Nchính xác chúng sẽ bắt đầu ở đâu.
+Dialogue: 0,0:17:32.34,0:17:36.13,Default,,0,0,0,,Những nhơ bẩn của Saruman...
+Dialogue: 0,0:17:36.47,0:17:40.15,Default,,0,0,0,,đang được gột sạch.
+Dialogue: 0,0:17:40.48,0:17:44.83,Default,,0,0,0,,Cây cỏ sẽ lại mọc ở nơi này.
+Dialogue: 0,0:17:45.52,0:17:47.59,Default,,0,0,0,,Những cây non.
+Dialogue: 0,0:17:47.86,0:17:49.97,Default,,0,0,0,,- Những cây dại.\N- Pippin!
+Dialogue: 0,0:17:59.54,0:18:01.61,Default,,0,0,0,,Lạy Chúa cây!
+Dialogue: 0,0:18:01.87,0:18:03.67,Default,,0,0,0,,Peregrin Took!
+Dialogue: 0,0:18:03.92,0:18:06.43,Default,,0,0,0,,Ta sẽ lấy nó.
+Dialogue: 0,0:18:06.71,0:18:08.51,Default,,0,0,0,,Nhanh nào.
+Dialogue: 0,0:18:58.76,0:19:04.12,Default,,0,0,0,,Đêm nay ta tưởng nhớ những người\Nđã đổ máu để bảo vệ đất nước này.
+Dialogue: 0,0:19:05.02,0:19:06.97,Default,,0,0,0,,Những cái chết vinh quang.
+Dialogue: 0,0:19:07.23,0:19:08.58,Default,,0,0,0,,Muôn năm!
+Dialogue: 0,0:19:19.61,0:19:21.44,Default,,0,0,0,,Không ngừng uống.
+Dialogue: 0,0:19:21.70,0:19:25.69,Default,,0,0,0,,- Không làm đổ.\N- Và không nôn.
+Dialogue: 0,0:19:26.37,0:19:27.96,Default,,0,0,0,,Đây là cuộc thi uống à?
+Dialogue: 0,0:19:29.58,0:19:32.17,Default,,0,0,0,,Người cuối cùng còn đứng sẽ thắng.
+Dialogue: 0,0:19:36.63,0:19:38.54,Default,,0,0,0,,Chúng ta uống vì điều gì?\NVì chiến thắng!
+Dialogue: 0,0:19:38.80,0:19:40.15,Default,,0,0,0,,Vì chiến thắng!
+Dialogue: 0,0:19:52.89,0:19:55.49,Default,,0,0,0,,Aragorn, làm tốt lắm.
+Dialogue: 0,0:20:24.80,0:20:25.79,Default,,0,0,0,,Ta mừng cho cháu.
+Dialogue: 0,0:20:26.22,0:20:28.53,Default,,0,0,0,,Đó là một người đáng kính.
+Dialogue: 0,0:20:29.05,0:20:31.41,Default,,0,0,0,,Cả bác và anh ấy đều đáng kính.
+Dialogue: 0,0:20:33.35,0:20:38.47,Default,,0,0,0,,Đâu phải Theoden xứ Rohan\Nđã dẫn dắt dân ta đến chiến thắng.
+Dialogue: 0,0:20:46.86,0:20:48.62,Default,,0,0,0,,Thôi, đừng nghe ta nói làm gì.
+Dialogue: 0,0:20:49.53,0:20:50.97,Default,,0,0,0,,Cháu còn trẻ.
+Dialogue: 0,0:20:51.20,0:20:53.43,Default,,0,0,0,,Và đêm nay là của cháu.
+Dialogue: 0,0:21:07.88,0:21:09.48,Default,,0,0,0,,Đưa đây!
+Dialogue: 0,0:21:11.05,0:21:16.73,Default,,0,0,0,,Người lùn đang bơi với các cô nàng\Nnhỏ bé và lông lá.
+Dialogue: 0,0:21:22.36,0:21:23.55,Default,,0,0,0,,Mình cảm thấy gì đó.
+Dialogue: 0,0:21:25.73,0:21:28.12,Default,,0,0,0,,Một chút ngứa ngáy ở đầu ngón tay.
+Dialogue: 0,0:21:28.95,0:21:30.55,Default,,0,0,0,,Mình nghĩ rượu đã\Nảnh hưởng đến mình rồi.
+Dialogue: 0,0:21:32.45,0:21:34.09,Default,,0,0,0,,Ta đã nói gì nhỉ?
+Dialogue: 0,0:21:34.33,0:21:37.52,Default,,0,0,0,,Cậu ta không uống nổi nữa.
+Dialogue: 0,0:21:45.00,0:21:46.28,Default,,0,0,0,,Cuộc thi kết thúc!
+Dialogue: 0,0:21:46.50,0:21:48.21,Default,,0,0,0,,{\i1}♪ Bạn có thể đi tìm khắp nơi. ♪{\i0}
+Dialogue: 0,0:21:48.21,0:21:49.78,Default,,0,0,0,,{\i1}♪ Có thể uống cạn cả thành phố này. ♪{\i0}
+Dialogue: 0,0:21:50.09,0:21:53.88,Default,,0,0,0,,{\i1}♪ Nhưng sẽ không tìm được bia ngon.\NNhưng sẽ không tìm được bia ngon. ♪{\i0}
+Dialogue: 0,0:21:54.22,0:21:58.42,Default,,0,0,0,,{\i1}♪ Như bia ta uống nơi quê nhà.\NNhư bia ta uống nơi quê nhà. ♪{\i0}
+Dialogue: 0,0:21:58.77,0:22:00.70,Default,,0,0,0,,{\i1}♪ Bạn cứ uống rượu ngon của bạn. ♪{\i0}
+Dialogue: 0,0:22:00.70,0:22:02.52,Default,,0,0,0,,{\i1}♪ Cứ uống từng chai từng vại tùy thích. ♪{\i0}
+Dialogue: 0,0:22:02.85,0:22:05.89,Default,,0,0,0,,{\i1}♪ Nhưng loại bia duy nhất\Ncho các người hùng. ♪{\i0}
+Dialogue: 0,0:22:08.65,0:22:09.88,Default,,0,0,0,,Pippin!
+Dialogue: 0,0:22:10.40,0:22:13.31,Default,,0,0,0,,{\i1}♪ Nhưng loại bia duy nhất\Ncho các người hùng. ♪{\i0}
+Dialogue: 0,0:22:13.78,0:22:16.37,Default,,0,0,0,,{\i1}♪ Chỉ có ở quán Rồng Xanh! ♪{\i0}
+Dialogue: 0,0:22:19.20,0:22:21.92,Default,,0,0,0,,Cảm ơn, tôi thắng!
+Dialogue: 0,0:22:23.79,0:22:26.18,Default,,0,0,0,,Không có tin gì của Frodo sao?
+Dialogue: 0,0:22:26.46,0:22:29.81,Default,,0,0,0,,Không có bất cứ tin gì.
+Dialogue: 0,0:22:30.80,0:22:32.87,Default,,0,0,0,,Chúng ta vẫn còn thì giờ.
+Dialogue: 0,0:22:34.47,0:22:37.62,Default,,0,0,0,,Mỗi ngày, Frodo càng\Nđến gần Mordor hơn.
+Dialogue: 0,0:22:38.51,0:22:40.50,Default,,0,0,0,,Sao chúng ta biết được?
+Dialogue: 0,0:22:44.43,0:22:46.07,Default,,0,0,0,,Linh cảm của ông thế nào?
+Dialogue: 0,0:22:53.19,0:22:56.39,Default,,0,0,0,,Rằng Frodo còn sống.
+Dialogue: 0,0:22:58.70,0:23:00.42,Default,,0,0,0,,Phải.
+Dialogue: 0,0:23:03.08,0:23:05.15,Default,,0,0,0,,Cậu ấy còn sống.
+Dialogue: 0,0:23:07.50,0:23:10.22,Default,,0,0,0,,Quá liều, quá liều lĩnh.
+Dialogue: 0,0:23:10.50,0:23:11.70,Default,,0,0,0,,Bọn cướp!
+Dialogue: 0,0:23:11.92,0:23:13.88,Default,,0,0,0,,Chúng đã lấy nhẫn của chúng ta!
+Dialogue: 0,0:23:14.13,0:23:17.49,Default,,0,0,0,,Giết chúng! Giết hết chúng!
+Dialogue: 0,0:23:19.68,0:23:22.40,Default,,0,0,0,,Yên nào! Không được đánh thức chúng!
+Dialogue: 0,0:23:22.68,0:23:25.11,Default,,0,0,0,,Không được làm hỏng việc!
+Dialogue: 0,0:23:25.39,0:23:27.38,Default,,0,0,0,,Nhưng chúng biết!
+Dialogue: 0,0:23:27.64,0:23:29.44,Default,,0,0,0,,Chúng biết!
+Dialogue: 0,0:23:29.69,0:23:32.20,Default,,0,0,0,,Chúng nghi ngờ chúng ta.
+Dialogue: 0,0:23:33.52,0:23:36.91,Default,,0,0,0,,Sao, thế nào rồi, nhẫn quý của ta?
+Dialogue: 0,0:23:37.24,0:23:40.67,Default,,0,0,0,,Có phải Smeagol mất bình tĩnh không?
+Dialogue: 0,0:23:41.49,0:23:43.76,Default,,0,0,0,,Không. Không phải!
+Dialogue: 0,0:23:44.03,0:23:48.11,Default,,0,0,0,,Không bao giờ! Smeagol ghét\Nbọn Hobbit ngỗ ngược đó!
+Dialogue: 0,0:23:48.45,0:23:53.08,Default,,0,0,0,,Smeagol muốn thấy chúng chết!
+Dialogue: 0,0:23:53.46,0:23:55.89,Default,,0,0,0,,Và chúng ta sẽ được thấy.
+Dialogue: 0,0:23:56.17,0:24:00.05,Default,,0,0,0,,Smeagol đã làm điều đó một lần.\NVà có thể làm lần nữa!
+Dialogue: 0,0:24:03.55,0:24:06.11,Default,,0,0,0,,Nhẫn là của chúng ta!
+Dialogue: 0,0:24:06.39,0:24:08.95,Default,,0,0,0,,Của chúng ta!
+Dialogue: 0,0:24:10.18,0:24:12.94,Default,,0,0,0,,Phải lấy chiếc nhẫn quý! Phải lấy lại!
+Dialogue: 0,0:24:13.23,0:24:16.50,Default,,0,0,0,,Kiên nhẫn! Kiên nhẫn nào!
+Dialogue: 0,0:24:16.81,0:24:21.01,Default,,0,0,0,,Trước hết, phải đưa chúng đến\Nchỗ bà ta!
+Dialogue: 0,0:24:22.07,0:24:26.86,Default,,0,0,0,,Đưa chúng đến cầu thang xoắn ốc.
+Dialogue: 0,0:24:27.24,0:24:29.80,Default,,0,0,0,,Phải. Các bậc thang. Rồi sao nữa?
+Dialogue: 0,0:24:30.08,0:24:32.96,Default,,0,0,0,,Ta đi lên cầu thang, lên, lên nữa...
+Dialogue: 0,0:24:33.25,0:24:39.25,Default,,0,0,0,,cho đến khi đến đường hầm.
+Dialogue: 0,0:24:40.05,0:24:43.04,Default,,0,0,0,,Và khi chúng vào đó...
+Dialogue: 0,0:24:43.34,0:24:46.01,Default,,0,0,0,,thì sẽ không bao giờ ra được nữa.
+Dialogue: 0,0:24:47.05,0:24:49.81,Default,,0,0,0,,Lúc nào bà ta cũng đói.
+Dialogue: 0,0:24:50.68,0:24:54.72,Default,,0,0,0,,Lúc nào bà ta cũng cần ăn.
+Dialogue: 0,0:24:55.06,0:24:56.41,Default,,0,0,0,,Bà ta phải ăn.
+Dialogue: 0,0:24:56.64,0:24:58.68,Default,,0,0,0,,Nhưng lại chỉ bắt được\Nlũ Orc bẩn thỉu.
+Dialogue: 0,0:24:58.94,0:25:01.58,Default,,0,0,0,,Và chúng chẳng ngon lành gì,\Nphải không, nhẫn quý?
+Dialogue: 0,0:25:02.32,0:25:03.87,Default,,0,0,0,,Đúng rồi.
+Dialogue: 0,0:25:04.11,0:25:08.63,Default,,0,0,0,,Chẳng ngon lành chút nào.
+Dialogue: 0,0:25:08.99,0:25:11.66,Default,,0,0,0,,Bà ta thèm thứ thịt ngon hơn.
+Dialogue: 0,0:25:11.95,0:25:13.70,Default,,0,0,0,,Thịt Hobbit.
+Dialogue: 0,0:25:13.95,0:25:18.58,Default,,0,0,0,,Và khi bà ta thải ra xương và quần áo...
+Dialogue: 0,0:25:18.96,0:25:21.92,Default,,0,0,0,,thì ta sẽ tìm thấy nhẫn.
+Dialogue: 0,0:25:22.21,0:25:26.36,Default,,0,0,0,,Và giữ nó cho riêng mình!
+Dialogue: 0,0:25:28.30,0:25:29.65,Default,,0,0,0,,Cho chúng ta!
+Dialogue: 0,0:25:30.22,0:25:33.10,Default,,0,0,0,,Phải, cho chúng ta.
+Dialogue: 0,0:25:33.39,0:25:36.70,Default,,0,0,0,,Gollum. Gollum.
+Dialogue: 0,0:25:37.02,0:25:41.33,Default,,0,0,0,,Nhẫn quý sẽ là của chúng ta...
+Dialogue: 0,0:25:41.69,0:25:46.00,Default,,0,0,0,,một khi bọn Hobbit đã chết!
+Dialogue: 0,0:25:46.69,0:25:48.09,Default,,0,0,0,,Tên phản bội khốn kiếp!
+Dialogue: 0,0:25:50.86,0:25:53.06,Default,,0,0,0,,Không, đừng, cậu chủ!
+Dialogue: 0,0:25:53.32,0:25:54.88,Default,,0,0,0,,Sam! Để nó yên!
+Dialogue: 0,0:25:55.83,0:25:58.39,Default,,0,0,0,,Tôi nghe từ chính miệng nó!\NNó đã định giết ta!
+Dialogue: 0,0:25:58.66,0:26:02.66,Default,,0,0,0,,Không đời nào! Smeagol sẽ\Nkhông làm hại một con ruồi!
+Dialogue: 0,0:26:04.33,0:26:06.80,Default,,0,0,0,,Tên Hobbit mập và độc ác này...
+Dialogue: 0,0:26:07.09,0:26:08.60,Default,,0,0,0,,thù ghét Smeagol...
+Dialogue: 0,0:26:08.84,0:26:11.51,Default,,0,0,0,,và đặt điều nói dối!
+Dialogue: 0,0:26:11.80,0:26:14.36,Default,,0,0,0,,Tên giòi bọ! Ta sẽ đập bể đầu mi!
+Dialogue: 0,0:26:14.84,0:26:16.07,Default,,0,0,0,,Sam!
+Dialogue: 0,0:26:16.51,0:26:18.71,Default,,0,0,0,,Dám nói ta đặt điều à?\NMi mới là đặt điều!
+Dialogue: 0,0:26:19.77,0:26:21.25,Default,,0,0,0,,Làm nó sợ là ta sẽ đi lạc!
+Dialogue: 0,0:26:21.25,0:26:23.52,Default,,0,0,0,,Tôi không cần!\NTôi không chịu được, cậu Frodo.
+Dialogue: 0,0:26:23.85,0:26:26.89,Default,,0,0,0,,- Tôi sẽ không ngồi yên chờ nó giết tôi!\N- Ta sẽ không xua đuổi nó!
+Dialogue: 0,0:26:27.36,0:26:28.72,Default,,0,0,0,,Cậu không hiểu gì hết, phải không?
+Dialogue: 0,0:26:29.11,0:26:30.46,Default,,0,0,0,,Nó là một tên hung ác!
+Dialogue: 0,0:26:31.53,0:26:33.62,Default,,0,0,0,,Ta không làm việc này\Nmột mình được, Sam.
+Dialogue: 0,0:26:33.62,0:26:35.00,Default,,0,0,0,,Phải có người dẫn đường!
+Dialogue: 0,0:26:35.99,0:26:38.74,Default,,0,0,0,,Tôi cần cậu giúp tôi.
+Dialogue: 0,0:26:39.66,0:26:41.89,Default,,0,0,0,,Tôi vẫn giúp cậu mà, cậu Frodo.
+Dialogue: 0,0:26:43.50,0:26:46.33,Default,,0,0,0,,Tôi biết, Sam, tôi biết.
+Dialogue: 0,0:26:47.00,0:26:48.91,Default,,0,0,0,,Tin tôi đi.
+Dialogue: 0,0:26:49.17,0:26:51.44,Default,,0,0,0,,Nào, Smeagol.
+Dialogue: 0,0:27:59.49,0:28:00.89,Default,,0,0,0,,Mấy giờ rồi?
+Dialogue: 0,0:28:03.28,0:28:04.72,Default,,0,0,0,,Vẫn chưa đến sáng.
+Dialogue: 0,0:28:11.71,0:28:14.62,Default,,0,0,0,,Trong giấc mơ\Nem thấy một cơn sóng lớn...
+Dialogue: 0,0:28:14.92,0:28:18.75,Default,,0,0,0,,tràn qua những mảnh đất xanh tươi\Nvà những ngọn đồi.
+Dialogue: 0,0:28:20.17,0:28:22.53,Default,,0,0,0,,Em đứng trên bờ vực.
+Dialogue: 0,0:28:23.55,0:28:26.59,Default,,0,0,0,,Và dưới chân là vực sâu đen thẳm.
+Dialogue: 0,0:28:28.64,0:28:31.31,Default,,0,0,0,,Một luồng ánh sáng sau lưng em...
+Dialogue: 0,0:28:32.06,0:28:34.37,Default,,0,0,0,,nhưng em không thể quay lại.
+Dialogue: 0,0:28:34.65,0:28:37.92,Default,,0,0,0,,Em chỉ có thể đứng yên, chờ đợi.
+Dialogue: 0,0:28:39.53,0:28:42.12,Default,,0,0,0,,Buổi đêm đem lại cho ta\Nnhiều suy tưởng.
+Dialogue: 0,0:28:42.61,0:28:44.68,Default,,0,0,0,,Ngủ đi, Eowyn.
+Dialogue: 0,0:28:45.32,0:28:47.47,Default,,0,0,0,,Hãy ngủ...
+Dialogue: 0,0:28:50.29,0:28:52.08,Default,,0,0,0,,khi còn có thể.
+Dialogue: 0,0:29:16.31,0:29:18.51,Default,,0,0,0,,Các ngôi sao đang bị che mờ dần.
+Dialogue: 0,0:29:19.61,0:29:22.96,Default,,0,0,0,,Có gì đó đang chuyển động\Nở phương Đông.
+Dialogue: 0,0:29:23.78,0:29:26.77,Default,,0,0,0,,Một sự độc ác không ngơi nghỉ.
+Dialogue: 0,0:29:28.91,0:29:31.58,Default,,0,0,0,,Con Mắt của quân địch\Nđang chuyển động.
+Dialogue: 0,0:29:45.13,0:29:47.72,Default,,0,0,0,,Cậu làm gì vậy?
+Dialogue: 0,0:29:52.47,0:29:53.87,Default,,0,0,0,,Pippin!
+Dialogue: 0,0:30:01.44,0:30:03.11,Default,,0,0,0,,Pippin?
+Dialogue: 0,0:30:16.08,0:30:17.35,Default,,0,0,0,,Pippin.
+Dialogue: 0,0:30:18.08,0:30:20.64,Default,,0,0,0,,- Cái gì, cậu điên rồi à?\N- Tôi chỉ muốn nhìn nó thôi!
+Dialogue: 0,0:30:20.91,0:30:21.98,Default,,0,0,0,,Chỉ một lần nữa thôi!
+Dialogue: 0,0:30:22.29,0:30:24.28,Default,,0,0,0,,Trả nó lại đi!
+Dialogue: 0,0:30:34.64,0:30:36.35,Default,,0,0,0,,Pippin.
+Dialogue: 0,0:30:42.94,0:30:44.37,Default,,0,0,0,,Không!
+Dialogue: 0,0:30:49.53,0:30:50.72,Default,,0,0,0,,Pippin.
+Dialogue: 0,0:30:54.11,0:30:55.26,Default,,0,0,0,,Hắn đang ở đây!
+Dialogue: 0,0:30:55.49,0:30:57.68,Default,,0,0,0,,{\i1}Ta thấy mi.{\i0}
+Dialogue: 0,0:31:00.79,0:31:02.34,Default,,0,0,0,,Pippin!
+Dialogue: 0,0:31:17.05,0:31:19.69,Default,,0,0,0,,Cứu với! Gandalf, cứu!
+Dialogue: 0,0:31:21.56,0:31:23.35,Default,,0,0,0,,Có ai cứu cậu ấyvới!
+Dialogue: 0,0:31:29.81,0:31:30.96,Default,,0,0,0,,Pippin!
+Dialogue: 0,0:31:32.15,0:31:33.34,Default,,0,0,0,,Thằng nhóc Took ngu ngốc!
+Dialogue: 0,0:31:54.50,0:31:56.62,Default,,0,0,0,,Nhìn ta này.
+Dialogue: 0,0:31:58.67,0:32:02.63,Default,,0,0,0,,Gandalf, tha lỗi cho tôi.
+Dialogue: 0,0:32:02.97,0:32:04.77,Default,,0,0,0,,Nhìn ta đi.
+Dialogue: 0,0:32:05.01,0:32:06.77,Default,,0,0,0,,Cậu đã thấy những gì?
+Dialogue: 0,0:32:10.35,0:32:12.34,Default,,0,0,0,,Một thân cây.
+Dialogue: 0,0:32:13.40,0:32:15.19,Default,,0,0,0,,Có một cái cây màu trắng...
+Dialogue: 0,0:32:15.44,0:32:16.87,Default,,0,0,0,,trên một khoảng sân bằng đá.
+Dialogue: 0,0:32:19.74,0:32:20.96,Default,,0,0,0,,Nó đã chết.
+Dialogue: 0,0:32:25.20,0:32:26.95,Default,,0,0,0,,Thành phố đang cháy!
+Dialogue: 0,0:32:27.20,0:32:30.43,Default,,0,0,0,,Thành Minas Tirith?\NCậu thấy nó phải không?
+Dialogue: 0,0:32:31.25,0:32:33.20,Default,,0,0,0,,Tôi đã thấy...
+Dialogue: 0,0:32:36.67,0:32:37.99,Default,,0,0,0,,Tôi đã thấy hắn!
+Dialogue: 0,0:32:41.05,0:32:43.20,Default,,0,0,0,,Tôi đã có thể nghe được\Ngiọng hắn trong đầu.
+Dialogue: 0,0:32:43.47,0:32:45.78,Default,,0,0,0,,Cậu đã nói gì với hắn?
+Dialogue: 0,0:32:46.05,0:32:47.81,Default,,0,0,0,,Nói đi!
+Dialogue: 0,0:32:52.06,0:32:55.10,Default,,0,0,0,,Hắn hỏi tên tôi. Tôi đã không trả lời.
+Dialogue: 0,0:32:55.40,0:32:56.80,Default,,0,0,0,,Hắn làm tôi đau.
+Dialogue: 0,0:32:57.02,0:32:59.38,Default,,0,0,0,,Cậu đã nói gì với hắn về\NFrodo và chiếc Nhẫn?
+Dialogue: 0,0:33:02.99,0:33:05.34,Default,,0,0,0,,Trong mắt Pippin không có dối trá.
+Dialogue: 0,0:33:06.28,0:33:08.43,Default,,0,0,0,,Một tên ngốc...
+Dialogue: 0,0:33:08.70,0:33:10.90,Default,,0,0,0,,nhưng là một tên ngốc trung thực.
+Dialogue: 0,0:33:11.45,0:33:14.84,Default,,0,0,0,,Cậu ta đã không cho Sauron biết\Nđiều gì về Frodo và chiếc nhẫn.
+Dialogue: 0,0:33:16.04,0:33:18.32,Default,,0,0,0,,Đúng là may mắn kỳ lạ.
+Dialogue: 0,0:33:18.59,0:33:22.29,Default,,0,0,0,,Pippin đã thấy trong quả cầu Palantir\Nmột thoáng kế hoạch của kẻ thù.
+Dialogue: 0,0:33:23.38,0:33:27.17,Default,,0,0,0,,Sauron định tấn công\Nthành phố Minas Tirith.
+Dialogue: 0,0:33:27.93,0:33:31.52,Default,,0,0,0,,Thất bại tại Helm's Deep\Nđã cho hắn thấy một điều.
+Dialogue: 0,0:33:31.85,0:33:34.08,Default,,0,0,0,,Hắn biết hậu duệ của Elendil đã đến.
+Dialogue: 0,0:33:34.35,0:33:36.39,Default,,0,0,0,,Loài Người không yếu đuối như hắn nghĩ.
+Dialogue: 0,0:33:36.64,0:33:40.27,Default,,0,0,0,,Họ vẫn còn can đảm, sức mạnh\Nđủ để thách thức hắn.
+Dialogue: 0,0:33:40.65,0:33:42.44,Default,,0,0,0,,Sauron rất sợ điều này.
+Dialogue: 0,0:33:42.69,0:33:46.84,Default,,0,0,0,,Hắn sẽ không liều lĩnh để toàn dân\Nvùng Trung Địa đoàn kết dưới một lá cờ.
+Dialogue: 0,0:33:48.20,0:33:50.51,Default,,0,0,0,,Hắn sẽ san bằng Minas Tirith\Nthành bình địa...
+Dialogue: 0,0:33:50.78,0:33:54.14,Default,,0,0,0,,trước khi vị vua chính thức\Ntrở lại ngai vàng của tộc Người.
+Dialogue: 0,0:33:54.45,0:33:58.21,Default,,0,0,0,,Nếu đài lửa hiệu ở Gondor được thắp lên,\NRohan phải sẵn sàng ra trận.
+Dialogue: 0,0:33:59.29,0:34:01.41,Default,,0,0,0,,Hãy nói ta nghe...
+Dialogue: 0,0:34:01.67,0:34:05.30,Default,,0,0,0,,vì sao ta phải giúp những kẻ\Nđã không giúp ta?
+Dialogue: 0,0:34:09.34,0:34:11.09,Default,,0,0,0,,Chúng ta nợ gì Gondor chứ?
+Dialogue: 0,0:34:12.30,0:34:14.26,Default,,0,0,0,,- Tôi sẽ đi.\N- Không!
+Dialogue: 0,0:34:14.51,0:34:17.55,Default,,0,0,0,,- Phải báo cho họ biết!\N- Họ sẽ biết.
+Dialogue: 0,0:34:21.10,0:34:23.54,Default,,0,0,0,,Anh phải đến Minas Tirith bằng\Ncon đường khác!
+Dialogue: 0,0:34:24.19,0:34:28.47,Default,,0,0,0,,Đi dọc theo con sông.\NTìm những con tàu đen.
+Dialogue: 0,0:34:29.61,0:34:31.49,Default,,0,0,0,,Hãy hiểu rõ điều này:
+Dialogue: 0,0:34:31.74,0:34:35.25,Default,,0,0,0,,Mọi thứ đã chuyển động,\Nkhông thể vãn hồi được nữa.
+Dialogue: 0,0:34:36.91,0:34:38.90,Default,,0,0,0,,Tôi sẽ đến Minas Tirith...
+Dialogue: 0,0:34:41.25,0:34:43.81,Default,,0,0,0,,và sẽ không đi một mình.
+Dialogue: 0,0:34:45.67,0:34:49.18,Default,,0,0,0,,Trong số những người Hobbit tò mò,\Ncậu là người tệ hại nhất, Peregrin Took.
+Dialogue: 0,0:34:50.34,0:34:51.93,Default,,0,0,0,,Nhanh lên! Nhanh!
+Dialogue: 0,0:34:53.51,0:34:54.86,Default,,0,0,0,,Chúng ta đi đâu đây?
+Dialogue: 0,0:34:55.09,0:34:56.29,Default,,0,0,0,,Tại sao cậu lại nhìn vậy hả?
+Dialogue: 0,0:34:56.51,0:34:59.15,Default,,0,0,0,,Sao cậu cứ luôn tò mò vậy?
+Dialogue: 0,0:34:59.43,0:35:02.39,Default,,0,0,0,,- Tôi đâu có biết, tôi không cưỡng lại được.\N- Cậu thì lúc nào cũng vậy!
+Dialogue: 0,0:35:02.98,0:35:04.34,Default,,0,0,0,,Thôi, tôi biết lỗi rồi, được chưa?
+Dialogue: 0,0:35:06.48,0:35:09.28,Default,,0,0,0,,- Tôi sẽ không làm vậy nữa!\N- Cậu không hiểu gì hết à?
+Dialogue: 0,0:35:10.15,0:35:12.03,Default,,0,0,0,,Kẻ thù nghĩ cậu có chiếc Nhẫn!
+Dialogue: 0,0:35:12.28,0:35:15.87,Default,,0,0,0,,Hắn sẽ đi tìm cậu, Pip.\NHọ phải đưa cậu đi khỏi đây!
+Dialogue: 0,0:35:17.45,0:35:20.01,Default,,0,0,0,,Còn cậu? Cậu cũng đi với tôi chứ?
+Dialogue: 0,0:35:22.33,0:35:23.68,Default,,0,0,0,,Merry?
+Dialogue: 0,0:35:23.91,0:35:25.14,Default,,0,0,0,,Nhanh lên!
+Dialogue: 0,0:35:30.71,0:35:32.03,Default,,0,0,0,,Minas Tirith cách bao xa?
+Dialogue: 0,0:35:32.25,0:35:34.77,Default,,0,0,0,,Ba ngày bay của bọn Nazgul.
+Dialogue: 0,0:35:35.05,0:35:38.41,Default,,0,0,0,,Hy vọng rằng sẽ không có tên Nazgul nào\Ntheo đuôi chúng ta!
+Dialogue: 0,0:35:39.26,0:35:40.69,Default,,0,0,0,,Này!
+Dialogue: 0,0:35:40.93,0:35:42.65,Default,,0,0,0,,Cậu cầm đi đường đi.
+Dialogue: 0,0:35:43.60,0:35:45.48,Default,,0,0,0,,Chiếc lá thuốc Longbottom cuối cùng.
+Dialogue: 0,0:35:45.73,0:35:49.56,Default,,0,0,0,,Tôi biết cậu đã hết.\NCậu hút nhiều quá đấy, Pippin.
+Dialogue: 0,0:35:49.90,0:35:52.29,Default,,0,0,0,,Nhưng ta sẽ sớm gặp nhau kia mà.
+Dialogue: 0,0:35:55.74,0:35:58.12,Default,,0,0,0,,- Phải không?\N- Tôi không biết.
+Dialogue: 0,0:36:00.24,0:36:02.20,Default,,0,0,0,,Tôi không biết mọi chuyện sẽ thế nào.
+Dialogue: 0,0:36:02.45,0:36:04.09,Default,,0,0,0,,- Merry.\N- Chạy nào, Shadowfax.
+Dialogue: 0,0:36:04.33,0:36:05.89,Default,,0,0,0,,Hãy cho chúng ta thấy thế nào là nhanh!
+Dialogue: 0,0:36:05.95,0:36:07.79,Default,,0,0,0,,Merry!
+Dialogue: 0,0:36:18.34,0:36:19.41,Default,,0,0,0,,Merry!
+Dialogue: 0,0:36:29.94,0:36:31.37,Default,,0,0,0,,Cậu ấy luôn luôn theo tôi...
+Dialogue: 0,0:36:32.10,0:36:34.06,Default,,0,0,0,,bất cứ đâu...
+Dialogue: 0,0:36:34.48,0:36:36.20,Default,,0,0,0,,từ khi bọn tôi còn nhỏ.
+Dialogue: 0,0:36:37.44,0:36:41.20,Default,,0,0,0,,Tôi đã khiến cậu ấy\Ngặp đủ thứ rắc rối...
+Dialogue: 0,0:36:41.53,0:36:43.81,Default,,0,0,0,,và cũng chính tôi giúp cậu ấy\Nthoát khỏi những rắc rối đó.
+Dialogue: 0,0:36:46.08,0:36:47.87,Default,,0,0,0,,Giờ cậu ấy đã đi rồi.
+Dialogue: 0,0:36:49.62,0:36:52.42,Default,,0,0,0,,Giống như Frodo và Sam.
+Dialogue: 0,0:36:53.17,0:36:55.81,Default,,0,0,0,,Tôi đã học được một điều\Ntừ những người Hobbit.
+Dialogue: 0,0:36:56.09,0:36:57.68,Default,,0,0,0,,Họ là những người ngoan cường.
+Dialogue: 0,0:36:58.30,0:37:01.84,Default,,0,0,0,,Liều lĩnh, dại dột thì có.\NCậu ấy là người nhà Took mà.
+Dialogue: 0,0:37:16.48,0:37:18.68,Default,,0,0,0,,{\i1}Hãy đưa con ta đi theo\Ncon đường an toàn nhất.{\i0}
+Dialogue: 0,0:37:18.94,0:37:21.33,Default,,0,0,0,,{\i1}Có một con tàu\Nđang thả neo ở Vịnh Xám.{\i0}
+Dialogue: 0,0:37:21.61,0:37:25.32,Default,,0,0,0,,{\i1}Nó đang chờ để đưa con ta vượt biển.{\i0}
+Dialogue: 0,0:37:25.66,0:37:28.89,Default,,0,0,0,,{\i1}Chuyến đi cuối cùng của\NArwen Undomiel.{\i0}
+Dialogue: 0,0:38:34.64,0:38:37.60,Default,,0,0,0,,{\i1}Không còn gì dành cho con ở đây nữa...{\i0}
+Dialogue: 0,0:38:38.23,0:38:40.34,Default,,0,0,0,,{\i1}ngoài cái chết.{\i0}
+Dialogue: 0,0:38:47.73,0:38:48.96,Default,,0,0,0,,Công nương Arwen...
+Dialogue: 0,0:38:49.94,0:38:51.78,Default,,0,0,0,,chúng ta không thể chậm trễ nữa.
+Dialogue: 0,0:38:54.32,0:38:55.52,Default,,0,0,0,,Công nương!
+Dialogue: 0,0:39:14.97,0:39:17.48,Default,,0,0,0,,- Hãy nói con nghe Cha đã thấy gì.\N- Arwen.
+Dialogue: 0,0:39:17.76,0:39:19.64,Default,,0,0,0,,Cha có thể thấy trước mọi việc!
+Dialogue: 0,0:39:19.89,0:39:21.61,Default,,0,0,0,,Cha đã thấy điều gì?
+Dialogue: 0,0:39:22.31,0:39:25.51,Default,,0,0,0,,Cha đã nhìn vào tương lai của con,\Nvà cha thấy cái chết.
+Dialogue: 0,0:39:26.19,0:39:28.22,Default,,0,0,0,,Nhưng cũng có sự sống nữa.
+Dialogue: 0,0:39:30.23,0:39:34.11,Default,,0,0,0,,Cha biết sẽ có một đứa trẻ.\NCha đã thấy con trai của con!
+Dialogue: 0,0:39:34.90,0:39:37.34,Default,,0,0,0,,Tương lai đó cũng gần tan biến rồi.
+Dialogue: 0,0:39:37.62,0:39:39.53,Default,,0,0,0,,Nhưng chưa mất hẳn.
+Dialogue: 0,0:39:42.20,0:39:44.32,Default,,0,0,0,,Không có gì chắc chắn cả.
+Dialogue: 0,0:39:46.12,0:39:48.72,Default,,0,0,0,,Có một điều chắc chắn.
+Dialogue: 0,0:39:52.63,0:39:55.35,Default,,0,0,0,,Nếu con bỏ anh ấy ra đi lúc này...
+Dialogue: 0,0:39:55.63,0:39:58.15,Default,,0,0,0,,con sẽ hối tiếc cả đời mình.
+Dialogue: 0,0:39:59.34,0:40:01.57,Default,,0,0,0,,Đã đến lúc!
+Dialogue: 0,0:40:06.94,0:40:10.56,Default,,0,0,0,,{\i1}Từ tro tàn một ngọn lửa sẽ bừng dậy.{\i0}
+Dialogue: 0,0:40:10.90,0:40:14.17,Default,,0,0,0,,{\i1}Ánh sáng sẽ bùng lên từ bóng tối.{\i0}
+Dialogue: 0,0:40:14.48,0:40:17.64,Default,,0,0,0,,{\i1}Lưỡi kiếm gãy sẽ được rèn lại.{\i0}
+Dialogue: 0,0:40:25.16,0:40:28.23,Default,,0,0,0,,{\i1}Và kẻ không vương miện\Nsẽ lại lên làm vua.{\i0}
+Dialogue: 0,0:40:32.13,0:40:34.08,Default,,0,0,0,,Xin cha rèn lại lưỡi kiếm.
+Dialogue: 0,0:40:35.86,0:40:37.86,Default,,0,0,0,,Cha.
+Dialogue: 0,0:41:09.04,0:41:11.63,Default,,0,0,0,,Tay con lạnh quá.
+Dialogue: 0,0:41:15.13,0:41:18.12,Default,,0,0,0,,Sự sống của dòng họ tiên Eldar\Nđang rời bỏ con.
+Dialogue: 0,0:41:21.67,0:41:23.50,Default,,0,0,0,,Đây là lựa chọn của con.
+Dialogue: 0,0:41:25.43,0:41:27.62,Default,,0,0,0,,Dù có là ý Cha hay không...
+Dialogue: 0,0:41:29.06,0:41:33.17,Default,,0,0,0,,giờ đây không còn con tàu nào\Ncó thể chở con đi được nữa.
+Dialogue: 0,0:42:20.56,0:42:23.28,Default,,0,0,0,,Ta vừa tiến vào vương quốc Gondor.
+Dialogue: 0,0:42:35.04,0:42:37.19,Default,,0,0,0,,Minas Tirith.
+Dialogue: 0,0:42:37.87,0:42:40.10,Default,,0,0,0,,Thành phố của những vị vua.
+Dialogue: 0,0:43:11.57,0:43:13.29,Default,,0,0,0,,Tránh đường!
+Dialogue: 0,0:43:42.56,0:43:44.31,Default,,0,0,0,,Chính là cái cây này.
+Dialogue: 0,0:43:44.56,0:43:46.15,Default,,0,0,0,,Gandalf. Gandalf.
+Dialogue: 0,0:43:46.40,0:43:48.55,Default,,0,0,0,,Phải, Cây Trắng của Gondor.
+Dialogue: 0,0:43:48.82,0:43:50.57,Default,,0,0,0,,Cây của nhà vua.
+Dialogue: 0,0:43:50.82,0:43:53.38,Default,,0,0,0,,Tuy nhiên ngài Denethor\Nlại không phải là vua.
+Dialogue: 0,0:43:53.65,0:43:56.21,Default,,0,0,0,,Mà chỉ là Quan nhiếp chính,\Nngười trông nom ngai vàng.
+Dialogue: 0,0:43:57.07,0:44:00.46,Default,,0,0,0,,Nghe ta nói cho kỹ đây. Ngài Denethor\Nchính là cha của Boromir.
+Dialogue: 0,0:44:01.16,0:44:04.79,Default,,0,0,0,,Cho ông ấy biết tin về cái chết của con mình\Nlà không khôn ngoan chút nào.
+Dialogue: 0,0:44:05.41,0:44:08.72,Default,,0,0,0,,Không được nhắc đến Frodo\Nvà chiếc Nhẫn.
+Dialogue: 0,0:44:09.75,0:44:12.39,Default,,0,0,0,,Và cũng đừng nói gì đến Aragorn.
+Dialogue: 0,0:44:14.34,0:44:18.05,Default,,0,0,0,,Tốt hơn hết là đừng nói gì cả,\NPeregrin Took.
+Dialogue: 0,0:44:48.37,0:44:54.37,Default,,0,0,0,,Xin chào Denethor, con trai của Ecthelion,\NQuan nhiếp chính của Gondor.
+Dialogue: 0,0:45:00.38,0:45:03.45,Default,,0,0,0,,Tôi mang tin đến cho ngài\Ntrong giờ khắc đen tối này,
+Dialogue: 0,0:45:03.45,0:45:04.90,Default,,0,0,0,,và với lời khuyên.
+Dialogue: 0,0:45:06.06,0:45:09.29,Default,,0,0,0,,Có lẽ ông đến để giải thích\Nsự việc này.
+Dialogue: 0,0:45:15.06,0:45:19.42,Default,,0,0,0,,Có lẽ ông đến giải thích cho ta\Nvì sao con ta phải chết.
+Dialogue: 0,0:45:34.08,0:45:36.96,Default,,0,0,0,,Boromir đã hy sinh để cứu chúng tôi,
+Dialogue: 0,0:45:37.25,0:45:38.84,Default,,0,0,0,,tôi và những người họ hàng.
+Dialogue: 0,0:45:39.09,0:45:42.44,Default,,0,0,0,,- Boromir ngã xuống vì bảo vệ chúng tôi.\N- Pippin.
+Dialogue: 0,0:45:48.10,0:45:51.41,Default,,0,0,0,,Vì điều đó, tôi xin phục vụ Ngài...
+Dialogue: 0,0:45:52.10,0:45:54.01,Default,,0,0,0,,để đền đáp ơn cứu mạng.
+Dialogue: 0,0:45:56.27,0:45:59.47,Default,,0,0,0,,Đây là mệnh lệnh đầu tiên của ngươi.
+Dialogue: 0,0:46:00.32,0:46:03.63,Default,,0,0,0,,Làm sao ngươi có thể trốn thoát\Ncòn con ta thì không,
+Dialogue: 0,0:46:04.11,0:46:06.34,Default,,0,0,0,,một chiến binh dũng mãnh như nó?
+Dialogue: 0,0:46:07.11,0:46:10.31,Default,,0,0,0,,Người dũng mãnh nhất cũng có thể\Ngục ngã vì một mũi tên...
+Dialogue: 0,0:46:10.70,0:46:12.53,Default,,0,0,0,,còn Boromir đã bị bắn rất nhiều.
+Dialogue: 0,0:46:16.75,0:46:18.39,Default,,0,0,0,,Đứng lên!
+Dialogue: 0,0:46:18.63,0:46:23.06,Default,,0,0,0,,Thưa Ngài, sẽ có thời giờ để\Nthương tiếc Boromir...
+Dialogue: 0,0:46:23.71,0:46:25.39,Default,,0,0,0,,nhưng không phải bây giờ.
+Dialogue: 0,0:46:26.17,0:46:28.29,Default,,0,0,0,,Chiến tranh đang đến.
+Dialogue: 0,0:46:28.72,0:46:32.95,Default,,0,0,0,,Kẻ thù đang ở ngưỡng cửa.\NLà quan nhiếp chính, Ngài có trách nhiệm...
+Dialogue: 0,0:46:33.31,0:46:37.30,Default,,0,0,0,,bảo vệ thành phố.\NQuân đội của Gondor đâu?
+Dialogue: 0,0:46:37.64,0:46:42.32,Default,,0,0,0,,Ngài vẫn còn đồng minh.\NNgài không đơn độc trong cuộc chiến này.
+Dialogue: 0,0:46:42.69,0:46:47.00,Default,,0,0,0,,Hãy báo tin cho Theoden xứ Rohan.\NHãy đốt đài lửa hiệu!
+Dialogue: 0,0:46:48.78,0:46:52.17,Default,,0,0,0,,Ngươi nghĩ rằng\Nmình thông thái, Mithrandir.
+Dialogue: 0,0:46:52.49,0:46:55.40,Default,,0,0,0,,Nhưng dù khôn ngoan đến đâu,\Nngươi cũng chưa tính hết.
+Dialogue: 0,0:46:57.66,0:47:01.66,Default,,0,0,0,,Ngươi tưởng những Con Mắt ở\NNgọn Tháp Trắng mù rồi à?
+Dialogue: 0,0:47:02.00,0:47:04.96,Default,,0,0,0,,Ta đã thấy nhiều hơn ngươi biết.
+Dialogue: 0,0:47:05.25,0:47:08.33,Default,,0,0,0,,Tay trái ngươi dùng ta làm khiên đỡ\Nchống lại Mordor.
+Dialogue: 0,0:47:08.63,0:47:11.38,Default,,0,0,0,,Và tay phải ngươi tìm cách lật đổ ta!
+Dialogue: 0,0:47:11.68,0:47:15.23,Default,,0,0,0,,Ta biết ai đang theo Theoden xứ Rohan.
+Dialogue: 0,0:47:15.56,0:47:21.27,Default,,0,0,0,,Đúng thế. Ta đã nghe nói về\NAragorn, con trai của Arathorn.
+Dialogue: 0,0:47:21.69,0:47:26.32,Default,,0,0,0,,Cho ngươi biết, ta không đời nào\Ncúi đầu trước tên du mục phương Bắc đó,
+Dialogue: 0,0:47:26.69,0:47:31.00,Default,,0,0,0,,kẻ cuối cùng của một dòng tộc tả tơi\Nđã mất đi quyền thế.
+Dialogue: 0,0:47:31.36,0:47:36.96,Default,,0,0,0,,Ngài không có quyền phủ nhận\Nsự trở về của nhà vua, Quan nhiếp chính.
+Dialogue: 0,0:47:37.37,0:47:41.60,Default,,0,0,0,,Ta là người cai trị Gondor,\Nchứ không phải là ai khác.
+Dialogue: 0,0:47:46.96,0:47:48.68,Default,,0,0,0,,Theo ta.
+Dialogue: 0,0:47:56.68,0:47:59.15,Default,,0,0,0,,Tất cả đã biến thành\Ntham vọng hão huyền.
+Dialogue: 0,0:47:59.43,0:48:02.74,Default,,0,0,0,,Hắn lợi dụng sự đau thương\Nnhư một thứ vỏ bọc.
+Dialogue: 0,0:48:05.77,0:48:08.44,Default,,0,0,0,,Thành phố này đã\Nđứng vững hàng ngàn năm.
+Dialogue: 0,0:48:09.65,0:48:11.96,Default,,0,0,0,,Bây giờ, nó sẽ sụp đổ\Ntrong tay của một kẻ điên.
+Dialogue: 0,0:48:13.28,0:48:15.39,Default,,0,0,0,,Và Cây Trắng, cây của các vị vua...
+Dialogue: 0,0:48:15.65,0:48:17.13,Default,,0,0,0,,sẽ không bao giờ ra hoa nữa.
+Dialogue: 0,0:48:17.36,0:48:20.60,Default,,0,0,0,,- Tại sao họ vẫn còn canh gác?\N- Bởi vì họ vẫn còn hy vọng.
+Dialogue: 0,0:48:20.91,0:48:23.95,Default,,0,0,0,,Một niềm hy vọng mơ hồ\Nvà càng ngày càng mất dần.
+Dialogue: 0,0:48:24.25,0:48:28.80,Default,,0,0,0,,Họ hy vọng nhà vua sẽ trở về\Nvà thành phố sẽ được như xưa...
+Dialogue: 0,0:48:29.17,0:48:31.97,Default,,0,0,0,,trước khi nó mục nát.
+Dialogue: 0,0:48:32.25,0:48:35.37,Default,,0,0,0,,Sự thông thái cổ xưa từ phía Tây\Nđã bị quên lãng.
+Dialogue: 0,0:48:35.67,0:48:39.79,Default,,0,0,0,,Vua chúa xây dựng lăng mộ nguy nga\Nchứ không quan tâm đến nhà ở...
+Dialogue: 0,0:48:40.18,0:48:42.18,Default,,0,0,0,,và chỉ trông cậy vào tên tuổi\Ncủa các vị tổ tiên...
+Dialogue: 0,0:48:42.26,0:48:44.94,Default,,0,0,0,,chứ không màng đến con cháu họ.
+Dialogue: 0,0:48:45.22,0:48:48.16,Default,,0,0,0,,Những lãnh chúa không còn\Nngồi trong đại sảnh cổ xưa,
+Dialogue: 0,0:48:48.16,0:48:50.06,Default,,0,0,0,,ngắm nhìn những huy hiệu...
+Dialogue: 0,0:48:50.44,0:48:55.56,Default,,0,0,0,,hoặc trên những toà tháp cao lạnh lẽo,\Nhỏi về các vì sao.
+Dialogue: 0,0:48:55.94,0:48:59.57,Default,,0,0,0,,Cho nên, cư dân Gondor rơi vào\Ncảnh lầm than.
+Dialogue: 0,0:49:00.70,0:49:02.93,Default,,0,0,0,,Dòng dõi các vị vua kết thúc.
+Dialogue: 0,0:49:03.74,0:49:06.02,Default,,0,0,0,,Cây Trắng khô héo.
+Dialogue: 0,0:49:06.83,0:49:10.82,Default,,0,0,0,,Quyền cai trị Gondor được trao cho\Nnhững kẻ thấp kém hơn.
+Dialogue: 0,0:49:21.72,0:49:22.91,Default,,0,0,0,,Mordor.
+Dialogue: 0,0:49:23.47,0:49:26.98,Default,,0,0,0,,Phải, nó nằm ở đó.
+Dialogue: 0,0:49:27.97,0:49:31.17,Default,,0,0,0,,Thành phố này đã rơi vào\Ntầm ngắm của bóng tối.
+Dialogue: 0,0:49:33.31,0:49:34.90,Default,,0,0,0,,Một cơn bão đang đến.
+Dialogue: 0,0:49:35.65,0:49:38.45,Default,,0,0,0,,Đó không phải là bão thời tiết.
+Dialogue: 0,0:49:38.73,0:49:40.85,Default,,0,0,0,,Đó là một thứ thiết bị\Ndo Sauron làm ra.
+Dialogue: 0,0:49:41.11,0:49:44.71,Default,,0,0,0,,Một cơn thịnh nộ nóng bỏng\Nhắn gửi đến trước cho chúng ta.
+Dialogue: 0,0:49:45.45,0:49:47.80,Default,,0,0,0,,Binh đoàn Orc của Mordor\Nkhông hề ưa ánh sáng...
+Dialogue: 0,0:49:48.08,0:49:49.83,Default,,0,0,0,,thế nên hắn đã che phủ mặt trời...
+Dialogue: 0,0:49:50.08,0:49:53.67,Default,,0,0,0,,để giúp bầy Orc nhanh chóng tiến quân.
+Dialogue: 0,0:49:54.00,0:49:57.15,Default,,0,0,0,,Khi Bóng Tối của Mordor\Nđến thành phố này...
+Dialogue: 0,0:49:58.00,0:49:59.64,Default,,0,0,0,,cuộc chiến sẽ bắt đầu.
+Dialogue: 0,0:50:01.38,0:50:02.89,Default,,0,0,0,,Chà...
+Dialogue: 0,0:50:03.34,0:50:04.62,Default,,0,0,0,,Minas Tirith...
+Dialogue: 0,0:50:06.59,0:50:07.95,Default,,0,0,0,,rất ấn tượng.
+Dialogue: 0,0:50:08.18,0:50:10.98,Default,,0,0,0,,- Vậy tiếp theo chúng ta đi đâu đây?\N- Đã quá muộn để đi rồi, Peregrin.
+Dialogue: 0,0:50:10.99,0:50:13.11,Default,,0,0,0,,Không rời thành phố này được nữa.
+Dialogue: 0,0:50:15.52,0:50:18.59,Default,,0,0,0,,Viện quân phải đến đây.
+Dialogue: 0,0:50:20.23,0:50:22.79,Default,,0,0,0,,Sắp đến giờ uống trà rồi.
+Dialogue: 0,0:50:23.07,0:50:26.62,Default,,0,0,0,,Ít ra cũng phải có nơi phù hợp\Nmới uống trà được.
+Dialogue: 0,0:50:26.95,0:50:30.38,Default,,0,0,0,,Chỗ này không phù hợp đâu.
+Dialogue: 0,0:50:36.08,0:50:37.28,Default,,0,0,0,,Cậu Frodo?
+Dialogue: 0,0:50:40.38,0:50:41.53,Default,,0,0,0,,Gì vậy?
+Dialogue: 0,0:50:44.05,0:50:46.32,Default,,0,0,0,,Chỉ là một cảm giác thôi.
+Dialogue: 0,0:50:48.84,0:50:50.91,Default,,0,0,0,,Tôi nghĩ mình sẽ không trở về được.
+Dialogue: 0,0:50:55.52,0:50:57.95,Default,,0,0,0,,Không, cậu chắc chắn sẽ về nhà.
+Dialogue: 0,0:50:58.69,0:51:00.48,Default,,0,0,0,,Đó chỉ là suy nghĩ quẩn thôi.
+Dialogue: 0,0:51:01.02,0:51:03.38,Default,,0,0,0,,Chúng ta đến đó và trở về...
+Dialogue: 0,0:51:03.65,0:51:05.84,Default,,0,0,0,,giống như ông Bilbo vậy.
+Dialogue: 0,0:51:06.90,0:51:08.94,Default,,0,0,0,,Cậu sẽ thấy.
+Dialogue: 0,0:51:17.20,0:51:20.67,Default,,0,0,0,,Tôi nghĩ vùng đất này từng là\Nmột phần của vương quốc Gondor.
+Dialogue: 0,0:51:25.21,0:51:29.09,Default,,0,0,0,,Lâu lắm rồi, khi nhà vua còn trị vì.
+Dialogue: 0,0:51:49.90,0:51:52.62,Default,,0,0,0,,Cậu Frodo, nhìn này.
+Dialogue: 0,0:51:54.36,0:51:57.00,Default,,0,0,0,,Nhà vua đã có lại vương miện.
+Dialogue: 0,0:52:08.25,0:52:12.33,Default,,0,0,0,,Nhanh nào, Hobbit!\NKhông được dừng lại. Lối này.
+Dialogue: 0,0:52:29.36,0:52:33.24,Default,,0,0,0,,Tôi nghĩ đây chỉ là một vị trí hình thức.
+Dialogue: 0,0:52:33.57,0:52:37.64,Default,,0,0,0,,Họ chẳng trông đợi gì vào khả năng\Nchiến đấu của tôi đâu.
+Dialogue: 0,0:52:38.66,0:52:41.77,Default,,0,0,0,,- Phải thế không?\N- Cậu là người phục vụ Quan nhiếp chính.
+Dialogue: 0,0:52:42.08,0:52:45.31,Default,,0,0,0,,Cậu sẽ phải làm theo lệnh,\NPeregrin Took.
+Dialogue: 0,0:52:49.50,0:52:51.89,Default,,0,0,0,,Hobbit kỳ quặc.
+Dialogue: 0,0:52:53.17,0:52:55.29,Default,,0,0,0,,Người bảo vệ tường thành.
+Dialogue: 0,0:53:04.89,0:53:06.64,Default,,0,0,0,,Cám ơn cậu.
+Dialogue: 0,0:53:16.11,0:53:18.26,Default,,0,0,0,,Không còn ngôi sao nào.
+Dialogue: 0,0:53:18.86,0:53:20.01,Default,,0,0,0,,Đã đến lúc à?
+Dialogue: 0,0:53:21.24,0:53:22.91,Default,,0,0,0,,Phải.
+Dialogue: 0,0:53:25.62,0:53:27.21,Default,,0,0,0,,Yên tĩnh quá.
+Dialogue: 0,0:53:28.29,0:53:32.36,Default,,0,0,0,,Cũng giống như cậu hít một hơi dài\Nchuẩn bị trước khi lặn vậy.
+Dialogue: 0,0:53:33.71,0:53:36.46,Default,,0,0,0,,Tôi không muốn chiến đấu...
+Dialogue: 0,0:53:37.42,0:53:42.18,Default,,0,0,0,,nhưng chờ đợi một cuộc chiến\Nkhông thể tránh được thì còn tệ hơn.
+Dialogue: 0,0:53:45.93,0:53:49.40,Default,,0,0,0,,Có hy vọng gì cho Frodo\Nvà Sam không, Gandalf?
+Dialogue: 0,0:53:50.89,0:53:53.89,Default,,0,0,0,,Chúng ta chưa bao giờ\Ncó nhiều hy vọng.
+Dialogue: 0,0:53:55.98,0:53:57.65,Default,,0,0,0,,Chỉ là hy vọng của kẻ ngốc mà thôi.
+Dialogue: 0,0:54:03.61,0:54:06.29,Default,,0,0,0,,Kẻ thù đã sẵn sàng.
+Dialogue: 0,0:54:06.57,0:54:09.13,Default,,0,0,0,,Hắn đã tập trung đủ lực lượng.
+Dialogue: 0,0:54:09.41,0:54:12.77,Default,,0,0,0,,Không chỉ có bọn Orc\Nmà còn cả tộc Người.
+Dialogue: 0,0:54:13.08,0:54:15.99,Default,,0,0,0,,{\i1}Các binh đoàn Haradrim từ phương Nam,{\i0}
+Dialogue: 0,0:54:16.29,0:54:18.89,Default,,0,0,0,,{\i1}lính đánh thuê từ vùng biển.{\i0}
+Dialogue: 0,0:54:19.17,0:54:21.64,Default,,0,0,0,,{\i1}Tất cả sẽ đáp lời kêu gọi của Mordor.{\i0}
+Dialogue: 0,0:54:21.92,0:54:23.40,Default,,0,0,0,,Nhanh lên.
+Dialogue: 0,0:54:24.59,0:54:27.79,Default,,0,0,0,,Có lẽ, lúc đó sẽ là\Nngày tàn của Gondor.
+Dialogue: 0,0:54:28.10,0:54:31.33,Default,,0,0,0,,Đây là nơi trận chiến\Nsẽ khốc liệt nhất.
+Dialogue: 0,0:54:32.43,0:54:36.58,Default,,0,0,0,,Nếu dòng sông bị chiếm,\Nvà nếu quân đội ở Osgiliath thất thủ...
+Dialogue: 0,0:54:36.94,0:54:40.45,Default,,0,0,0,,thì vòng phòng thủ cuối cùng\Ncủa thành phố đi tong.
+Dialogue: 0,0:54:40.77,0:54:44.65,Default,,0,0,0,,Nhưng bên ta có Pháp sư Trắng.\NCũng đáng kể đấy chứ.
+Dialogue: 0,0:54:50.70,0:54:52.21,Default,,0,0,0,,Gandalf?
+Dialogue: 0,0:54:56.00,0:54:59.51,Default,,0,0,0,,Sauron vẫn chưa cho\Nbầy tôi nguy hiểm nhất của hắn...
+Dialogue: 0,0:55:00.13,0:55:03.80,Default,,0,0,0,,kẻ sẽ cầm đầu quân đội Mordor\Nxung trận.
+Dialogue: 0,0:55:04.13,0:55:09.08,Default,,0,0,0,,Kẻ được cho rằng\Nkhông người đàn ông nào giết được hắn.
+Dialogue: 0,0:55:10.30,0:55:12.37,Default,,0,0,0,,Vua Phù thủy xứ Angmar.
+Dialogue: 0,0:55:13.56,0:55:15.83,Default,,0,0,0,,Cậu đã gặp hắn trước đây.
+Dialogue: 0,0:55:16.60,0:55:19.07,Default,,0,0,0,,Chính hắn đã đâm Frodo\Ntrên đỉnh Weathertop.
+Dialogue: 0,0:55:25.73,0:55:28.33,Default,,0,0,0,,{\i1}Chính hắn điều khiển đàn Nazgul,{\i0}
+Dialogue: 0,0:55:28.90,0:55:31.26,Default,,0,0,0,,{\i1}kẻ đứng đầu bọn Chín Tên.{\i0}
+Dialogue: 0,0:55:31.53,0:55:35.00,Default,,0,0,0,,{\i1}Minas Morgul là hang động của hắn.{\i0}
+Dialogue: 0,0:55:38.62,0:55:42.01,Default,,0,0,0,,Thành phố Chết.
+Dialogue: 0,0:55:42.33,0:55:47.33,Default,,0,0,0,,Một nơi nguy hiểm. Đầy kẻ thù.
+Dialogue: 0,0:55:54.76,0:55:56.83,Default,,0,0,0,,Nhanh, nhanh!
+Dialogue: 0,0:55:57.10,0:56:00.93,Default,,0,0,0,,Coi chừng bọn chúng thấy.
+Dialogue: 0,0:56:10.36,0:56:15.43,Default,,0,0,0,,Đi nhanh! Đi nhanh!\NKìa, ta đã tìm thấy rồi!
+Dialogue: 0,0:56:15.82,0:56:19.53,Default,,0,0,0,,Lối vào Mordor.
+Dialogue: 0,0:56:19.87,0:56:24.02,Default,,0,0,0,,Cầu thang bí mật.
+Dialogue: 0,0:56:24.62,0:56:26.90,Default,,0,0,0,,Trèo lên đi.
+Dialogue: 0,0:56:47.27,0:56:49.91,Default,,0,0,0,,- Đừng, cậu Frodo!\N- Không phải lối đó!
+Dialogue: 0,0:56:54.86,0:56:57.61,Default,,0,0,0,,- Nó làm gì vậy?\N- Không.
+Dialogue: 0,0:56:57.91,0:57:00.86,Default,,0,0,0,,- Họ đang gọi tôi!\N- Không.
+Dialogue: 0,0:57:30.65,0:57:33.48,Default,,0,0,0,,Trốn đi, trốn đi!
+Dialogue: 0,0:58:17.15,0:58:19.87,Default,,0,0,0,,Tôi có thể cảm thấy lưỡi kiếm của hắn.
+Dialogue: 0,0:58:31.66,0:58:33.70,Default,,0,0,0,,Cuối cùng rồi cũng đến.
+Dialogue: 0,0:58:35.62,0:58:38.38,Default,,0,0,0,,Trận đánh lớn nhất thời đại.
+Dialogue: 0,0:59:17.67,0:59:20.78,Default,,0,0,0,,Đi thôi, Hobbit. Lên, ta phải đi lên!
+Dialogue: 0,0:59:30.80,0:59:33.68,Default,,0,0,0,,Bàn cờ đã xếp xong.
+Dialogue: 0,0:59:33.97,0:59:36.41,Default,,0,0,0,,Các quân cờ đang di chuyển.
+Dialogue: 0,0:59:39.06,0:59:41.62,Default,,0,0,0,,Nào, leo lên những bậc thang.
+Dialogue: 0,0:59:41.90,0:59:44.46,Default,,0,0,0,,Rồi tiến vào đường hầm.
+Dialogue: 0,0:59:44.73,0:59:47.80,Default,,0,0,0,,Này, có gì trong đường hầm vậy?
+Dialogue: 0,0:59:48.49,0:59:51.13,Default,,0,0,0,,Ngươi hãy nghe đây, nghe thật kĩ vào.
+Dialogue: 0,0:59:51.41,0:59:54.20,Default,,0,0,0,,Bất cứ chuyện gì xảy ra với cậu ấy,\Nta sẽ tính sổ với ngươi.
+Dialogue: 0,0:59:54.49,0:59:56.01,Default,,0,0,0,,Khi ta cảm thấy chuyện gì xấu,
+Dialogue: 0,0:59:56.24,0:59:59.28,Default,,0,0,0,,chỉ cần một sợi tóc sau gáy ta dựng lên,\Ntất cả sẽ chấm dứt.
+Dialogue: 0,0:59:59.62,1:00:02.18,Default,,0,0,0,,Cho một kẻ hôi hám, lén lút như ngươi.
+Dialogue: 0,1:00:02.62,1:00:05.14,Default,,0,0,0,,Ngươi sẽ chết. Hiểu chứ?
+Dialogue: 0,1:00:06.13,1:00:08.04,Default,,0,0,0,,Ta theo dõi ngươi đó.
+Dialogue: 0,1:00:13.47,1:00:15.38,Default,,0,0,0,,Chuyện gì vậy?
+Dialogue: 0,1:00:15.64,1:00:17.95,Default,,0,0,0,,Chẳng có gì đâu.\NChỉ làm rõ vài việc thôi mà.
+Dialogue: 0,1:00:24.69,1:00:27.44,Default,,0,0,0,,Peregrin Took, chúng ta\Ncòn một việc phải làm.
+Dialogue: 0,1:00:27.73,1:00:32.12,Default,,0,0,0,,Một cơ hội nữa để người vùng Shire\Nchứng tỏ giá trị của mình.
+Dialogue: 0,1:00:37.16,1:00:38.67,Default,,0,0,0,,Đừng làm tôi thất vọng.
+Dialogue: 0,1:01:12.98,1:01:15.94,Default,,0,0,0,,Bên kia sông thật yên lặng.
+Dialogue: 0,1:01:16.24,1:01:18.47,Default,,0,0,0,,Bọn Orc đang ở bên dưới.
+Dialogue: 0,1:01:18.74,1:01:20.65,Default,,0,0,0,,Binh đoàn có thể đã rời đi.
+Dialogue: 0,1:01:21.87,1:01:24.46,Default,,0,0,0,,Chúng ta đã cử do thám\Nđến Cair Andros.
+Dialogue: 0,1:01:24.75,1:01:27.90,Default,,0,0,0,,Nếu bọn Orc tấn công từ hướng bắc,\Nta sẽ được báo động.
+Dialogue: 0,1:01:53.36,1:01:54.51,Default,,0,0,0,,Yên lặng nào.
+Dialogue: 0,1:01:58.65,1:02:00.53,Default,,0,0,0,,{\i1}Cần thêm 10 cái nữa.{\i0}
+Dialogue: 0,1:02:21.93,1:02:23.40,Default,,0,0,0,,Giết hắn!
+Dialogue: 0,1:02:40.78,1:02:43.09,Default,,0,0,0,,Chúng không tấn công từ hướng Bắc.
+Dialogue: 0,1:02:44.61,1:02:48.77,Default,,0,0,0,,Ra bờ sông, nhanh lên! Đi, đi! Nhanh!
+Dialogue: 0,1:02:52.41,1:02:53.93,Default,,0,0,0,,Nhanh hơn nữa!
+Dialogue: 0,1:03:07.14,1:03:09.41,Default,,0,0,0,,Tuốt kiếm!
+Dialogue: 0,1:04:04.07,1:04:06.53,Default,,0,0,0,,Chặn chúng lại!
+Dialogue: 0,1:05:26.94,1:05:28.73,Default,,0,0,0,,Gì vậy?
+Dialogue: 0,1:05:41.37,1:05:42.72,Default,,0,0,0,,Amon Din.
+Dialogue: 0,1:05:48.58,1:05:51.49,Default,,0,0,0,,Đài lửa ở Amon Din đã được đốt lên!
+Dialogue: 0,1:05:54.88,1:05:58.92,Default,,0,0,0,,Hy vọng đã nhen nhóm.
+Dialogue: 0,1:07:31.47,1:07:35.67,Default,,0,0,0,,Lửa hiệu ở Minas Tirith!\NHọ đã đốt lửa!
+Dialogue: 0,1:07:37.06,1:07:38.62,Default,,0,0,0,,Gondor đang gọi viện binh.
+Dialogue: 0,1:07:49.20,1:07:52.00,Default,,0,0,0,,Và Rohan sã đáp lời.
+Dialogue: 0,1:07:52.53,1:07:55.21,Default,,0,0,0,,Tập trung kị binh Rohirrim.
+Dialogue: 0,1:08:10.43,1:08:12.30,Default,,0,0,0,,Hội quân tại Dunharrow.
+Dialogue: 0,1:08:12.55,1:08:16.75,Default,,0,0,0,,Gom tất cả người tìm được.\NNgươi có hai ngày.
+Dialogue: 0,1:08:17.10,1:08:22.17,Default,,0,0,0,,Đến ngày thứ ba ta sẽ tiến về\NGondor và chiến đấu.
+Dialogue: 0,1:08:23.36,1:08:24.63,Default,,0,0,0,,- Lên đường.\N- Xin tuân lệnh.
+Dialogue: 0,1:08:24.86,1:08:26.13,Default,,0,0,0,,- Gamling.\N- Có mặt.
+Dialogue: 0,1:08:26.36,1:08:27.87,Default,,0,0,0,,Phải mau chóng vượt sông Riddermark.
+Dialogue: 0,1:08:28.11,1:08:30.15,Default,,0,0,0,,Kêu gọi hết những người khỏe mạnh\Nđến Dunharrow.
+Dialogue: 0,1:08:30.40,1:08:31.92,Default,,0,0,0,,Tuân lệnh.
+Dialogue: 0,1:08:36.08,1:08:39.11,Default,,0,0,0,,- Cô sẽ đi cùng chúng tôi à?\N- Chỉ đến nơi đóng quân thôi.
+Dialogue: 0,1:08:39.41,1:08:43.17,Default,,0,0,0,,Theo truyền thống, phụ nữ hoàng tộc\Nphải đưa tiễn đoàn quân.
+Dialogue: 0,1:08:49.88,1:08:51.71,Default,,0,0,0,,Binh lính đã tìm được người cầm quân.
+Dialogue: 0,1:08:51.97,1:08:55.16,Default,,0,0,0,,Họ sẽ theo anh ra chiến trường,\Nthậm chí đi đến cái chết.
+Dialogue: 0,1:08:55.47,1:08:56.99,Default,,0,0,0,,Anh đã mang lại hy vọng cho chúng tôi.
+Dialogue: 0,1:09:00.27,1:09:02.14,Default,,0,0,0,,Xin lỗi.
+Dialogue: 0,1:09:03.56,1:09:04.99,Default,,0,0,0,,Tôi có một thanh gươm.
+Dialogue: 0,1:09:05.35,1:09:06.67,Default,,0,0,0,,Xin hãy nhận lấy.
+Dialogue: 0,1:09:07.86,1:09:12.17,Default,,0,0,0,,Xin phục vụ ngài, vua Theoden.
+Dialogue: 0,1:09:15.78,1:09:17.77,Default,,0,0,0,,Rất sẵn lòng.
+Dialogue: 0,1:09:18.95,1:09:22.86,Default,,0,0,0,,Cậu sẽ là Meriadoc, hiệp sĩ của Rohan.
+Dialogue: 0,1:09:27.92,1:09:29.07,Default,,0,0,0,,Kị binh.
+Dialogue: 0,1:09:29.79,1:09:33.23,Default,,0,0,0,,Ước gì tôi có thể tập hợp\Nbinh đoàn Người Lùn,
+Dialogue: 0,1:09:33.23,1:09:35.19,Default,,0,0,0,,với đầy đủ trang bị.
+Dialogue: 0,1:09:35.80,1:09:38.63,Default,,0,0,0,,Người của ông có lẽ không cần\Nphải tham chiến.
+Dialogue: 0,1:09:38.93,1:09:42.20,Default,,0,0,0,,Tôi sợ rằng chiến tranh\Nđã lan tới đất của họ rồi.
+Dialogue: 0,1:10:00.82,1:10:04.13,Default,,0,0,0,,{\i1}Vậy là trước tường thành\Ncủa Minas Tirith...{\i0}
+Dialogue: 0,1:10:04.45,1:10:08.16,Default,,0,0,0,,{\i1}sẽ là nơi định đoạt\Nthời đại của chúng ta.{\i0}
+Dialogue: 0,1:10:10.92,1:10:16.23,Default,,0,0,0,,Đã đến lúc! Hỡi kị binh Rohan!\NĐã đến lúc hoàn thành lời tuyên thệ!
+Dialogue: 0,1:10:16.63,1:10:20.02,Default,,0,0,0,,Hãy thực hiện lời thề!\NVì nhà vua và vì đất nước!
+Dialogue: 0,1:11:03.26,1:11:05.14,Default,,0,0,0,,Faramir!
+Dialogue: 0,1:11:11.52,1:11:15.07,Default,,0,0,0,,Không thể cầm chân chúng được nữa!\NThành phố đã thất thủ!
+Dialogue: 0,1:11:15.81,1:11:18.77,Default,,0,0,0,,Gọi anh em lui quân!\NTa sẽ rút về Minas Tirith.
+Dialogue: 0,1:11:27.66,1:11:29.81,Default,,0,0,0,,Bọn Nazgul.
+Dialogue: 0,1:11:32.29,1:11:34.64,Default,,0,0,0,,Núp đi!
+Dialogue: 0,1:11:34.91,1:11:37.35,Default,,0,0,0,,Nazgul!
+Dialogue: 0,1:11:37.63,1:11:41.14,Default,,0,0,0,,Rút lui! Rút về Minas Tirith!
+Dialogue: 0,1:11:47.89,1:11:49.68,Default,,0,0,0,,Rút quân!
+Dialogue: 0,1:11:56.81,1:12:01.20,Default,,0,0,0,,- Rút lui! Rút lui!\N- Chạy đi!
+Dialogue: 0,1:12:25.63,1:12:29.78,Default,,0,0,0,,Thời đại của loài Người đã hết.
+Dialogue: 0,1:12:30.13,1:12:35.53,Default,,0,0,0,,Thời đại của Orc đã đến.
+Dialogue: 0,1:12:38.14,1:12:40.37,Default,,0,0,0,,- Tiếp tục chạy đi.\N- Bọn Nazgul.
+Dialogue: 0,1:12:42.10,1:12:44.38,Default,,0,0,0,,Tướng quân, hãy cẩn thận!
+Dialogue: 0,1:12:44.77,1:12:46.05,Default,,0,0,0,,Nó đến đấy.
+Dialogue: 0,1:12:51.65,1:12:54.89,Default,,0,0,0,,- Đó là Mithrandir!\N- Kỵ sĩ Trắng!
+Dialogue: 0,1:13:34.99,1:13:36.31,Default,,0,0,0,,Kéo đi!
+Dialogue: 0,1:13:54.09,1:13:56.40,Default,,0,0,0,,Mithrandir.
+Dialogue: 0,1:13:56.68,1:13:58.35,Default,,0,0,0,,Chúng đã phá vỡ phòng tuyến của ta.
+Dialogue: 0,1:13:58.59,1:14:00.71,Default,,0,0,0,,Chúng đã chiếm cây cầu\Nvà bờ sông phía Tây.
+Dialogue: 0,1:14:01.89,1:14:05.88,Default,,0,0,0,,- Từng quân đoàn Orc đang qua sông.\N- Ngài Denethor đã dự đoán điều này.
+Dialogue: 0,1:14:06.23,1:14:10.58,Default,,0,0,0,,- Ngài đã thấy trước từ lâu.\N- Thấy trước và không hề làm gì.
+Dialogue: 0,1:14:14.15,1:14:16.46,Default,,0,0,0,,Faramir?
+Dialogue: 0,1:14:18.49,1:14:22.16,Default,,0,0,0,,Đây không phải người Hobbit\Nđầu tiên mà anh thấy.
+Dialogue: 0,1:14:22.49,1:14:24.61,Default,,0,0,0,,Không.
+Dialogue: 0,1:14:26.04,1:14:27.52,Default,,0,0,0,,Anh có gặp Frodo và Sam?
+Dialogue: 0,1:14:28.46,1:14:31.73,Default,,0,0,0,,- Ở đâu? Khi nào?\N- Tại Ithilien.
+Dialogue: 0,1:14:32.04,1:14:34.03,Default,,0,0,0,,Chưa đầy hai ngày trước.
+Dialogue: 0,1:14:34.59,1:14:38.87,Default,,0,0,0,,Gandalf, họ đang đi trên con đường\Nđến thung lũng Morgul.
+Dialogue: 0,1:14:39.76,1:14:42.27,Default,,0,0,0,,Và từ đó qua đèo Cirith Ungol.
+Dialogue: 0,1:14:44.60,1:14:46.87,Default,,0,0,0,,Như vậy là sao?
+Dialogue: 0,1:14:47.14,1:14:51.85,Default,,0,0,0,,- Sao thế?\N- Faramir, nói hết cho ta nghe!
+Dialogue: 0,1:14:52.23,1:14:54.19,Default,,0,0,0,,Hãy nói những gì anh biết.
+Dialogue: 0,1:14:55.44,1:14:58.72,Default,,0,0,0,,Đây là cách con phụng sự\Nthành phố của mình sao?
+Dialogue: 0,1:14:59.03,1:15:02.18,Default,,0,0,0,,Con mạo hiểm sự tồn vong\Ncủa toàn thành phố?
+Dialogue: 0,1:15:03.36,1:15:04.88,Default,,0,0,0,,Con làm những gì mình cho là đúng.
+Dialogue: 0,1:15:05.66,1:15:08.54,Default,,0,0,0,,Những gì con cho là đúng.
+Dialogue: 0,1:15:09.29,1:15:14.92,Default,,0,0,0,,Con để Nhẫn Thần vào Mordor\Ntrong tay một tên Hobbit ngu đần.
+Dialogue: 0,1:15:19.13,1:15:23.76,Default,,0,0,0,,Nó phải được đem về và bảo vệ\Nbên trong thành phố.
+Dialogue: 0,1:15:25.59,1:15:27.07,Default,,0,0,0,,Cất giấu.
+Dialogue: 0,1:15:27.55,1:15:30.19,Default,,0,0,0,,Sâu bên trong những phòng hầm...
+Dialogue: 0,1:15:30.47,1:15:32.54,Default,,0,0,0,,không ai được sử dụng.
+Dialogue: 0,1:15:36.81,1:15:41.49,Default,,0,0,0,,Trừ khi cực kỳ cần thiết.
+Dialogue: 0,1:15:42.15,1:15:44.11,Default,,0,0,0,,Con sẽ không sử dụng chiếc nhẫn.
+Dialogue: 0,1:15:44.36,1:15:47.36,Default,,0,0,0,,Sẽ không dùng nếu Minas Tirith không sụp đổ\Nvà chỉ mình con mới cứu được nó.
+Dialogue: 0,1:15:47.78,1:15:52.41,Default,,0,0,0,,Con đang hành động cao thượng\Nvà nghĩa khí...
+Dialogue: 0,1:15:52.79,1:15:54.94,Default,,0,0,0,,như một vị vua của thời xưa.
+Dialogue: 0,1:15:56.83,1:16:00.43,Default,,0,0,0,,Nếu là Boromir thì hẳn sẽ nhớ rằng\Ncha nó mong muốn điều gì.
+Dialogue: 0,1:16:01.00,1:16:03.36,Default,,0,0,0,,Nó đã có thể mang về cho ta\Nmột món quà tuyệt vời.
+Dialogue: 0,1:16:03.67,1:16:06.11,Default,,0,0,0,,Boromir sẽ không mang\Nchiếc nhẫn về đâu.
+Dialogue: 0,1:16:06.63,1:16:09.63,Default,,0,0,0,,Anh ấy sẽ đeo chiếc nhẫn\Nvà chiếm lấy nó. Anh ấy sẽ sa ngã.
+Dialogue: 0,1:16:09.93,1:16:13.09,Default,,0,0,0,,- Con không biết gì về chuyện này cả.\N- Anh ấy sẽ giữ chiếc nhẫn cho riêng mình.
+Dialogue: 0,1:16:14.06,1:16:16.13,Default,,0,0,0,,Và khi anh ấy trở về...
+Dialogue: 0,1:16:17.35,1:16:19.03,Default,,0,0,0,,cha sẽ không còn nhận ra\Ncon trai mình nữa.
+Dialogue: 0,1:16:19.19,1:16:21.62,Default,,0,0,0,,Boromir trung thành với ta!
+Dialogue: 0,1:16:21.90,1:16:24.37,Default,,0,0,0,,Chứ không như học trò của lão pháp sư!
+Dialogue: 0,1:16:32.62,1:16:33.89,Default,,0,0,0,,Cha?
+Dialogue: 0,1:16:46.63,1:16:48.46,Default,,0,0,0,,Con trai ta!
+Dialogue: 0,1:17:14.78,1:17:16.10,Default,,0,0,0,,Để ta yên.
+Dialogue: 0,1:17:49.73,1:17:52.17,Default,,0,0,0,,Cẩn thận, cậu chủ. Cẩn thận đó.
+Dialogue: 0,1:17:52.61,1:17:55.41,Default,,0,0,0,,Nếu ngã là cao lắm đó.
+Dialogue: 0,1:17:58.03,1:18:01.79,Default,,0,0,0,,Cầu thang này rất nguy hiểm.
+Dialogue: 0,1:18:04.62,1:18:07.06,Default,,0,0,0,,Lên đây, cậu chủ.
+Dialogue: 0,1:18:12.96,1:18:16.00,Default,,0,0,0,,Lên đây với Smeagol.
+Dialogue: 0,1:18:22.47,1:18:23.91,Default,,0,0,0,,Cậu Frodo.
+Dialogue: 0,1:18:24.97,1:18:26.45,Default,,0,0,0,,Lui lại!
+Dialogue: 0,1:18:26.68,1:18:28.80,Default,,0,0,0,,Không được động đến cậu ấy!
+Dialogue: 0,1:18:33.02,1:18:35.74,Default,,0,0,0,,Sao hắn lại thù ghét\NSmeagol tội nghiệp này?
+Dialogue: 0,1:18:36.03,1:18:39.58,Default,,0,0,0,,Smeagol có làm gì hắn đâu?
+Dialogue: 0,1:18:39.91,1:18:42.18,Default,,0,0,0,,Cậu chủ?
+Dialogue: 0,1:18:43.08,1:18:46.39,Default,,0,0,0,,Cậu chủ đang mang một gánh nặng.
+Dialogue: 0,1:18:46.70,1:18:51.90,Default,,0,0,0,,Smeagol biết. Một gánh nặng.
+Dialogue: 0,1:18:52.29,1:18:55.41,Default,,0,0,0,,Tên mập kia không hề biết.
+Dialogue: 0,1:18:57.59,1:19:00.23,Default,,0,0,0,,Smeagol sẽ chăm sóc cậu chủ.
+Dialogue: 0,1:19:01.55,1:19:03.67,Default,,0,0,0,,Hắn muốn đoạt nó.
+Dialogue: 0,1:19:03.93,1:19:08.29,Default,,0,0,0,,Hắn cần nó. Smeagol thấy\Nđiều đó trong mắt hắn.
+Dialogue: 0,1:19:08.64,1:19:13.87,Default,,0,0,0,,Rồi hắn sẽ hỏi xin cậu chủ.\NCậu chủ cứ chờ xem.
+Dialogue: 0,1:19:14.27,1:19:17.98,Default,,0,0,0,,Tên mập đó sẽ đoạt lấy từ cậu chủ.
+Dialogue: 0,1:19:25.37,1:19:29.52,Default,,0,0,0,,Toàn lực lượng, tiến công.
+Dialogue: 0,1:19:29.87,1:19:33.75,Default,,0,0,0,,Không ngừng tấn công\Nđến khi cả thành phố bị chiếm.
+Dialogue: 0,1:19:34.63,1:19:37.62,Default,,0,0,0,,Giết hết bọn chúng.
+Dialogue: 0,1:19:39.42,1:19:44.97,Default,,0,0,0,,- Còn tên pháp sư?\N- Chính ta sẽ giết hắn!
+Dialogue: 0,1:19:48.56,1:19:50.86,Default,,0,0,0,,Kị binh của Theoden đâu?
+Dialogue: 0,1:19:51.14,1:19:53.61,Default,,0,0,0,,Quân đội Rohan sẽ đến chứ?
+Dialogue: 0,1:19:53.89,1:19:56.04,Default,,0,0,0,,Mithrandir.
+Dialogue: 0,1:19:57.19,1:20:00.90,Default,,0,0,0,,Can đảm là vũ khí phòng thủ\Ntốt nhất trong lúc này.
+Dialogue: 0,1:20:05.86,1:20:08.46,Default,,0,0,0,,Ngươi đang nghĩ gì vậy, Peregrin Took?
+Dialogue: 0,1:20:10.66,1:20:16.13,Default,,0,0,0,,Người Hobbit có thể phục vụ gì cho\Nmột thủ lĩnh vĩ đại của loài Người?
+Dialogue: 0,1:20:16.54,1:20:17.97,Default,,0,0,0,,Tốt lắm.
+Dialogue: 0,1:20:21.21,1:20:25.09,Default,,0,0,0,,Một hành động dũng cảm\Nkhông nên bị phán xét như thế.
+Dialogue: 0,1:20:26.01,1:20:28.44,Default,,0,0,0,,Cậu được gia nhập đội gác tháp.
+Dialogue: 0,1:20:29.09,1:20:31.97,Default,,0,0,0,,Tôi nghĩ rằng không có\Nbộ quân phục nào vừa với tôi.
+Dialogue: 0,1:20:32.26,1:20:34.62,Default,,0,0,0,,Bộ này từng là của một chàng trai trẻ\Ntrong thành phố.
+Dialogue: 0,1:20:34.89,1:20:36.37,Default,,0,0,0,,Một kẻ dại dột...
+Dialogue: 0,1:20:36.60,1:20:40.67,Default,,0,0,0,,chỉ phí thời gian đi giết rồng\Nthay vì ngồi học.
+Dialogue: 0,1:20:41.02,1:20:43.66,Default,,0,0,0,,- Nó là của anh à?\N- Phải, đã từng.
+Dialogue: 0,1:20:43.94,1:20:45.66,Default,,0,0,0,,Cha tôi đã làm cho tôi.
+Dialogue: 0,1:20:46.78,1:20:48.05,Default,,0,0,0,,Chà...
+Dialogue: 0,1:20:48.28,1:20:50.19,Default,,0,0,0,,tôi cao hơn anh hồi đó.
+Dialogue: 0,1:20:50.45,1:20:53.64,Default,,0,0,0,,Mặc dù tôi không thể lớn thêm\Nđược nữa, trừ bề ngang.
+Dialogue: 0,1:20:56.75,1:20:58.70,Default,,0,0,0,,Nó cũng chưa hề vừa với tôi.
+Dialogue: 0,1:20:58.96,1:21:01.68,Default,,0,0,0,,Boromir luôn là một chiến binh.
+Dialogue: 0,1:21:04.80,1:21:07.10,Default,,0,0,0,,Anh ấy và cha tôi rất giống nhau.
+Dialogue: 0,1:21:09.30,1:21:10.86,Default,,0,0,0,,Kiêu hãnh.
+Dialogue: 0,1:21:11.09,1:21:12.24,Default,,0,0,0,,Thậm chí là cứng đầu.
+Dialogue: 0,1:21:14.05,1:21:15.49,Default,,0,0,0,,Nhưng mạnh mẽ.
+Dialogue: 0,1:21:17.06,1:21:20.09,Default,,0,0,0,,Tôi nghĩ anh có sức mạnh\Ntheo kiểu khác.
+Dialogue: 0,1:21:20.85,1:21:23.21,Default,,0,0,0,,Rồi có ngày cha anh sẽ thấy.
+Dialogue: 0,1:21:27.48,1:21:31.11,Default,,0,0,0,,Tôi xin tuyên thệ trung thành\Nphục vụ cho Gondor...
+Dialogue: 0,1:21:31.45,1:21:32.88,Default,,0,0,0,,dù thời bình hay thời chiến...
+Dialogue: 0,1:21:33.57,1:21:35.93,Default,,0,0,0,,dù sống hay chết...
+Dialogue: 0,1:21:37.41,1:21:38.60,Default,,0,0,0,,kể từ...
+Dialogue: 0,1:21:41.33,1:21:44.00,Default,,0,0,0,,Kể từ giờ phút này trở đi...
+Dialogue: 0,1:21:44.29,1:21:46.21,Default,,0,0,0,,cho đến khi thủ lĩnh của tôi\Ntrả tự do cho tôi...
+Dialogue: 0,1:21:47.71,1:21:49.83,Default,,0,0,0,,hay đến khi tôi chết.
+Dialogue: 0,1:21:50.51,1:21:52.89,Default,,0,0,0,,Và ta sẽ luôn nhớ điều đó...
+Dialogue: 0,1:21:53.17,1:21:56.41,Default,,0,0,0,,cũng như không bao giờ quên đền đáp.
+Dialogue: 0,1:22:04.14,1:22:06.34,Default,,0,0,0,,Sự trung thành đổi bằng lòng tin yêu.
+Dialogue: 0,1:22:07.52,1:22:09.11,Default,,0,0,0,,Sự can đảm đổi bằng danh dự.
+Dialogue: 0,1:22:10.78,1:22:13.97,Default,,0,0,0,,Sự phản trắc bằng hình phạt.
+Dialogue: 0,1:22:22.74,1:22:26.66,Default,,0,0,0,,Ta nghĩ là không nên từ bỏ\Nvòng phòng thủ bên ngoài như vậy,
+Dialogue: 0,1:22:27.00,1:22:29.64,Default,,0,0,0,,những chiến tuyến mà anh con\Nđã bảo vệ từ lâu.
+Dialogue: 0,1:22:29.92,1:22:32.31,Default,,0,0,0,,- Cha sẽ sai con làm gì?\N- Ta sẽ không nhường...
+Dialogue: 0,1:22:32.59,1:22:35.26,Default,,0,0,0,,bờ sông Pelennor\Nmà không chiến đấu đến cùng.
+Dialogue: 0,1:22:35.55,1:22:37.14,Default,,0,0,0,,Phải chiếm lại Osgiliath.
+Dialogue: 0,1:22:37.38,1:22:39.34,Default,,0,0,0,,Thưa cha, Osgiliath đã thất thủ.
+Dialogue: 0,1:22:40.09,1:22:42.77,Default,,0,0,0,,Trong thời chiến ta phải mạo hiểm.
+Dialogue: 0,1:22:45.52,1:22:49.30,Default,,0,0,0,,Ở đây còn viên tướng nào có can đảm\Nthực hiện ý vua nữa không?
+Dialogue: 0,1:22:55.69,1:22:58.81,Default,,0,0,0,,Cha đang mong chúng con đổi chỗ...
+Dialogue: 0,1:22:59.91,1:23:02.62,Default,,0,0,0,,rằng con chết và anh Boromir còn sống.
+Dialogue: 0,1:23:06.16,1:23:07.83,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,1:23:08.58,1:23:10.70,Default,,0,0,0,,Ta ước điều đó.
+Dialogue: 0,1:23:19.17,1:23:21.56,Default,,0,0,0,,Vì cha đã mất anh Boromir...
+Dialogue: 0,1:23:23.51,1:23:26.31,Default,,0,0,0,,con sẽ cố hết sức chiến đấu\Nthay anh ấy.
+Dialogue: 0,1:23:34.61,1:23:38.88,Default,,0,0,0,,Nếu con có trở về,\Nxin cha hãy nghĩ khác về con.
+Dialogue: 0,1:23:41.15,1:23:44.62,Default,,0,0,0,,Điều đó còn tùy cách con trở về.
+Dialogue: 0,1:25:08.07,1:25:10.30,Default,,0,0,0,,Mi toan tính gì đó?
+Dialogue: 0,1:25:10.57,1:25:11.77,Default,,0,0,0,,Lén lút làm gì đó?
+Dialogue: 0,1:25:12.53,1:25:14.28,Default,,0,0,0,,Lén lút?
+Dialogue: 0,1:25:15.37,1:25:17.44,Default,,0,0,0,,Lén lút?
+Dialogue: 0,1:25:18.96,1:25:21.99,Default,,0,0,0,,Hobbit mập sao bất lịch sự vậy.
+Dialogue: 0,1:25:22.29,1:25:27.16,Default,,0,0,0,,Smeagol chỉ cho những lối đi bí mật\Nmà không ai có thể tìm ra...
+Dialogue: 0,1:25:27.55,1:25:29.62,Default,,0,0,0,,rồi lại bị gọi là "lén lút".
+Dialogue: 0,1:25:30.34,1:25:32.81,Default,,0,0,0,,Lén lút à?
+Dialogue: 0,1:25:33.55,1:25:36.15,Default,,0,0,0,,Ồ, bạn tốt quá. Đúng, quý hóa quá.
+Dialogue: 0,1:25:36.43,1:25:38.94,Default,,0,0,0,,- Tốt quá, tốt vô cùng.\N- Thôi, thôi được rồi!
+Dialogue: 0,1:25:40.31,1:25:42.43,Default,,0,0,0,,Chỉ tại mi làm ta giật mình.
+Dialogue: 0,1:25:43.02,1:25:44.77,Default,,0,0,0,,Ban nãy mi làm gì?
+Dialogue: 0,1:25:46.48,1:25:48.52,Default,,0,0,0,,Lén lút.
+Dialogue: 0,1:25:48.98,1:25:51.94,Default,,0,0,0,,Cũng được. Muốn sao cũng được.
+Dialogue: 0,1:25:54.32,1:25:56.71,Default,,0,0,0,,Rất tiếc phải đánh thức cậu,\Ncậu Frodo.
+Dialogue: 0,1:25:57.20,1:25:59.08,Default,,0,0,0,,Phải lên đường đi tiếp.
+Dialogue: 0,1:26:04.33,1:26:05.85,Default,,0,0,0,,Trời vẫn còn tối.
+Dialogue: 0,1:26:06.08,1:26:08.20,Default,,0,0,0,,Ở đây lúc nào trời cũng tối.
+Dialogue: 0,1:26:12.55,1:26:14.38,Default,,0,0,0,,Mất rồi!
+Dialogue: 0,1:26:15.68,1:26:18.43,Default,,0,0,0,,- Bánh mì của tộc Tiên.\N- Cái gì?
+Dialogue: 0,1:26:18.72,1:26:20.12,Default,,0,0,0,,Ta chỉ còn nhiêu đó thôi.
+Dialogue: 0,1:26:24.27,1:26:26.66,Default,,0,0,0,,Hắn lấy. Chỉ có hắn!
+Dialogue: 0,1:26:27.27,1:26:30.39,Default,,0,0,0,,Smeagol sao?\NKhông, không phải Smeagol.
+Dialogue: 0,1:26:30.69,1:26:33.49,Default,,0,0,0,,Smeagol ghét bánh Tiên.
+Dialogue: 0,1:26:33.78,1:26:36.81,Default,,0,0,0,,Đồ chuột bọ dối trá!\NNgươi đã làm gì với chúng?
+Dialogue: 0,1:26:37.11,1:26:38.59,Default,,0,0,0,,Hắn đâu có ăn bánh.
+Dialogue: 0,1:26:39.66,1:26:41.89,Default,,0,0,0,,- Chắc chẳng lấy làm gì.\N- Nhìn đi.
+Dialogue: 0,1:26:43.04,1:26:44.79,Default,,0,0,0,,Cái gì đây?
+Dialogue: 0,1:26:47.54,1:26:50.74,Default,,0,0,0,,Vụn bánh trên áo của hắn.\NChính hắn lấy bánh!
+Dialogue: 0,1:26:51.59,1:26:53.18,Default,,0,0,0,,Hắn đã lấy bánh.
+Dialogue: 0,1:26:54.09,1:26:58.13,Default,,0,0,0,,Tôi thấy hắn. Hắn chỉ ăn lén khi\Ncậu chủ không để ý.
+Dialogue: 0,1:26:58.47,1:27:00.19,Default,,0,0,0,,Đó là lời vu khống!
+Dialogue: 0,1:27:00.43,1:27:02.54,Default,,0,0,0,,Tên khốn kiếp hai mặt!
+Dialogue: 0,1:27:02.81,1:27:04.00,Default,,0,0,0,,- Sam!\N- Dám gọi tao...
+Dialogue: 0,1:27:04.22,1:27:05.42,Default,,0,0,0,,Thôi đi!
+Dialogue: 0,1:27:06.48,1:27:07.62,Default,,0,0,0,,Sam!
+Dialogue: 0,1:27:08.98,1:27:12.45,Default,,0,0,0,,- Tôi sẽ giết nó!\N- Sam! Đừng!
+Dialogue: 0,1:27:13.65,1:27:18.96,Default,,0,0,0,,Trời, tôi xin lỗi. Tôi đâu có ý...\NChỉ tại tôi... giận quá.
+Dialogue: 0,1:27:19.36,1:27:21.40,Default,,0,0,0,,Đây, cậu cứ nghỉ một chút.
+Dialogue: 0,1:27:21.66,1:27:23.65,Default,,0,0,0,,- Tôi không sao.\N- Không.
+Dialogue: 0,1:27:23.91,1:27:26.87,Default,,0,0,0,,Cậu không khoẻ. Cậu đã kiệt sức.
+Dialogue: 0,1:27:27.16,1:27:29.20,Default,,0,0,0,,Chỉ tại tên Gollum đó.
+Dialogue: 0,1:27:29.46,1:27:31.09,Default,,0,0,0,,Chỉ tại nơi này.
+Dialogue: 0,1:27:31.33,1:27:33.80,Default,,0,0,0,,Tại thứ cậu đeo quanh cổ.
+Dialogue: 0,1:27:37.42,1:27:38.65,Default,,0,0,0,,Tôi có thể giúp đỡ cậu.
+Dialogue: 0,1:27:38.88,1:27:41.44,Default,,0,0,0,,Tôi có thể giữ nó cho cậu một lúc.
+Dialogue: 0,1:27:41.72,1:27:43.39,Default,,0,0,0,,Giữ cho cậu ít lâu.
+Dialogue: 0,1:27:43.64,1:27:45.16,Default,,0,0,0,,Tôi có thể giữ nó...\NTôi có thể giữ nó.
+Dialogue: 0,1:27:45.51,1:27:50.75,Default,,0,0,0,,{\i1}Chia sẻ gánh nặng... chia sẻ gánh nặng...\Ngánh nặng... gánh nặng.{\i0}
+Dialogue: 0,1:27:51.14,1:27:52.29,Default,,0,0,0,,Tránh ra!
+Dialogue: 0,1:27:52.52,1:27:54.03,Default,,0,0,0,,Tôi đâu muốn giữ nó.
+Dialogue: 0,1:27:57.69,1:27:59.60,Default,,0,0,0,,Tôi chỉ muốn giúp mà thôi.
+Dialogue: 0,1:28:01.74,1:28:04.25,Default,,0,0,0,,Thấy chưa? Thấy chưa?
+Dialogue: 0,1:28:04.53,1:28:07.81,Default,,0,0,0,,Hắn chỉ muốn lấy nó.
+Dialogue: 0,1:28:08.12,1:28:09.76,Default,,0,0,0,,Mi im đi!
+Dialogue: 0,1:28:10.37,1:28:12.12,Default,,0,0,0,,Đi đi! Đi chỗ khác!
+Dialogue: 0,1:28:12.37,1:28:14.12,Default,,0,0,0,,Không, Sam.
+Dialogue: 0,1:28:14.37,1:28:15.57,Default,,0,0,0,,Chính là cậu.
+Dialogue: 0,1:28:19.84,1:28:21.48,Default,,0,0,0,,Rất tiếc, Sam.
+Dialogue: 0,1:28:23.22,1:28:24.53,Default,,0,0,0,,Nhưng hắn nói láo!
+Dialogue: 0,1:28:24.76,1:28:27.32,Default,,0,0,0,,Hắn đã đầu độc cậu chống lại tôi.
+Dialogue: 0,1:28:28.85,1:28:30.68,Default,,0,0,0,,Cậu không thể giúp tôi được nữa.
+Dialogue: 0,1:28:32.73,1:28:34.52,Default,,0,0,0,,Cậu... không có ý đó đấy chứ?
+Dialogue: 0,1:28:37.10,1:28:38.82,Default,,0,0,0,,Về nhà đi.
+Dialogue: 0,1:29:58.93,1:30:00.65,Default,,0,0,0,,Faramir!
+Dialogue: 0,1:30:00.89,1:30:02.72,Default,,0,0,0,,Faramir!
+Dialogue: 0,1:30:04.31,1:30:06.27,Default,,0,0,0,,Cha anh điên mất rồi.
+Dialogue: 0,1:30:07.52,1:30:09.48,Default,,0,0,0,,Đừng phí phạm đời mình như vậy.
+Dialogue: 0,1:30:10.32,1:30:12.68,Default,,0,0,0,,Lòng trung thành của tôi\Nnằm ở nơi đây chứ còn đâu khác nữa?
+Dialogue: 0,1:30:13.28,1:30:16.08,Default,,0,0,0,,Đây là thành phố của\Nloài Người dòng họ Numenor.
+Dialogue: 0,1:30:16.82,1:30:19.50,Default,,0,0,0,,Tôi sẵn sàng hy sinh để bảo vệ vẻ đẹp,
+Dialogue: 0,1:30:19.79,1:30:22.86,Default,,0,0,0,,ký ức, sự thông thái của thành phố.
+Dialogue: 0,1:30:25.37,1:30:28.65,Default,,0,0,0,,Cha anh thương yêu anh, Faramir.
+Dialogue: 0,1:30:29.50,1:30:32.38,Default,,0,0,0,,Ông ta sẽ nhớ ra điều đó\Ntrước khi kết thúc.
+Dialogue: 0,1:31:42.12,1:31:43.59,Default,,0,0,0,,Hát được không, người Hobbit?
+Dialogue: 0,1:31:46.64,1:31:48.07,Default,,0,0,0,,Thưa...
+Dialogue: 0,1:31:48.68,1:31:50.24,Default,,0,0,0,,có ạ!
+Dialogue: 0,1:31:51.02,1:31:54.61,Default,,0,0,0,,Ít ra cũng tạm được\Nđối với dân làng tôi.
+Dialogue: 0,1:31:56.40,1:31:58.88,Default,,0,0,0,,Nhưng chúng tôi không có những bài ca\Ncho những tòa sảnh lớn...
+Dialogue: 0,1:31:59.86,1:32:01.06,Default,,0,0,0,,hoặc thời khắc đen tối.
+Dialogue: 0,1:32:01.95,1:32:04.98,Default,,0,0,0,,Những bài ca của ngươi sao lại\Nkhông thích hợp cho cung điện này?
+Dialogue: 0,1:32:07.91,1:32:09.26,Default,,0,0,0,,Nào, hát ta nghe.
+Dialogue: 0,1:32:20.38,1:32:23.58,Default,,0,0,0,,{\i1}♪ Quê nhà phía sau ♪{\i0}
+Dialogue: 0,1:32:23.88,1:32:27.48,Default,,0,0,0,,{\i1}♪ Thế giới trải dài trước mặt ♪{\i0}
+Dialogue: 0,1:32:30.06,1:32:35.65,Default,,0,0,0,,{\i1}♪ Và nhiều con đường phải đi qua ♪{\i0}
+Dialogue: 0,1:32:37.69,1:32:41.08,Default,,0,0,0,,{\i1}♪ Xuyên qua bóng tối ♪{\i0}
+Dialogue: 0,1:32:41.40,1:32:45.39,Default,,0,0,0,,{\i1}♪ Đến bờ của đêm đen ♪{\i0}
+Dialogue: 0,1:32:47.24,1:32:52.11,Default,,0,0,0,,{\i1}♪ Đến khi các vì sao đã sáng ♪{\i0}
+Dialogue: 0,1:32:55.33,1:32:59.48,Default,,0,0,0,,{\i1}♪ Sương mù và bóng tối ♪{\i0}
+Dialogue: 0,1:32:59.84,1:33:03.95,Default,,0,0,0,,{\i1}♪ Mây và bóng đêm ♪{\i0}
+Dialogue: 0,1:33:06.51,1:33:09.71,Default,,0,0,0,,{\i1}♪ Tất cả sẽ phai mờ ♪{\i0}
+Dialogue: 0,1:33:12.22,1:33:16.06,Default,,0,0,0,,{\i1}♪ Tất cả sẽ ♪{\i0}
+Dialogue: 0,1:33:21.98,1:33:24.26,Default,,0,0,0,,{\i1}♪ Phai mờ ♪{\i0}
+Dialogue: 0,1:33:48.76,1:33:52.07,Default,,0,0,0,,Tiến lên! Tiến lên!
+Dialogue: 0,1:33:52.39,1:33:57.38,Default,,0,0,0,,Tiến lên! Tiến lên! Tiến lên!
+Dialogue: 0,1:34:01.06,1:34:03.29,Default,,0,0,0,,Tránh đường cho nhà vua.
+Dialogue: 0,1:34:04.90,1:34:06.81,Default,,0,0,0,,Tránh đường.
+Dialogue: 0,1:34:09.36,1:34:11.32,Default,,0,0,0,,Nhà vua đã đến.
+Dialogue: 0,1:34:13.36,1:34:14.92,Default,,0,0,0,,Thưa ngài.
+Dialogue: 0,1:34:16.24,1:34:18.12,Default,,0,0,0,,Xin chào ngài.
+Dialogue: 0,1:34:18.66,1:34:19.81,Default,,0,0,0,,Grimbold, bao nhiêu người?
+Dialogue: 0,1:34:20.04,1:34:22.39,Default,,0,0,0,,Tôi mang 500 người từ Westfold,\Nthưa ngài.
+Dialogue: 0,1:34:23.46,1:34:26.02,Default,,0,0,0,,Thêm 300 người nữa từ Fenmarch,\Nthưa vua Theoden.
+Dialogue: 0,1:34:27.25,1:34:31.04,Default,,0,0,0,,- Kị binh từ Snowborn đâu?\N- Thưa, không ai đến.
+Dialogue: 0,1:34:48.27,1:34:50.31,Default,,0,0,0,,Sáu ngàn ngọn giáo.
+Dialogue: 0,1:34:51.44,1:34:53.35,Default,,0,0,0,,Ít hơn một nửa so với\Ncon số ta mong đợi.
+Dialogue: 0,1:34:53.74,1:34:56.97,Default,,0,0,0,,Sáu ngàn người sẽ không đủ để phá vỡ\Nchiến tuyến của Mordor.
+Dialogue: 0,1:34:59.87,1:35:01.54,Default,,0,0,0,,Nhiều người nữa sẽ đến.
+Dialogue: 0,1:35:01.99,1:35:04.83,Default,,0,0,0,,Mỗi giờ trôi qua,\NGondor càng đến gần thất bại hơn.
+Dialogue: 0,1:35:05.12,1:35:07.59,Default,,0,0,0,,Ta sẽ chờ đến bình minh,\Nsau đó sẽ xuất quân.
+Dialogue: 0,1:35:27.19,1:35:29.42,Default,,0,0,0,,Đàn ngựa bồn chồn...
+Dialogue: 0,1:35:29.69,1:35:31.12,Default,,0,0,0,,và binh lính im lặng.
+Dialogue: 0,1:35:31.65,1:35:34.64,Default,,0,0,0,,Họ căng thẳng trong bóng tối\Ncủa ngọn núi.
+Dialogue: 0,1:35:37.24,1:35:39.03,Default,,0,0,0,,Con đường kia...
+Dialogue: 0,1:35:40.03,1:35:42.02,Default,,0,0,0,,nó dẫn đến đâu?
+Dialogue: 0,1:35:42.87,1:35:46.54,Default,,0,0,0,,Đó là đường đến Dimholt,\Nlối vào bên dưới ngọn núi.
+Dialogue: 0,1:35:47.41,1:35:50.29,Default,,0,0,0,,Những kẻ đến đó đều không thể quay về.
+Dialogue: 0,1:35:51.63,1:35:53.42,Default,,0,0,0,,Ngọn núi này đầy ma quỷ.
+Dialogue: 0,1:36:16.44,1:36:18.19,Default,,0,0,0,,Aragorn.
+Dialogue: 0,1:36:19.03,1:36:20.86,Default,,0,0,0,,Tìm thứ gì để ăn đi.
+Dialogue: 0,1:36:37.42,1:36:38.77,Default,,0,0,0,,Rồi đó.
+Dialogue: 0,1:36:39.80,1:36:42.67,Default,,0,0,0,,Một hiệp sĩ Rohan thực thụ.
+Dialogue: 0,1:36:46.43,1:36:48.34,Default,,0,0,0,,Tôi đâ sẵn sàng.
+Dialogue: 0,1:36:50.01,1:36:51.24,Default,,0,0,0,,Xin lỗi.
+Dialogue: 0,1:36:51.47,1:36:53.62,Default,,0,0,0,,Đâu nguy hiểm gì.
+Dialogue: 0,1:36:54.23,1:36:56.46,Default,,0,0,0,,Thậm chí lưỡi kiếm cũng cùn.
+Dialogue: 0,1:36:57.23,1:37:00.51,Default,,0,0,0,,Thế thì không được. Kiếm cùn thì\Nlàm sao giết bọn Orc nhiều được.
+Dialogue: 0,1:37:00.82,1:37:02.25,Default,,0,0,0,,Nào.
+Dialogue: 0,1:37:06.49,1:37:08.88,Default,,0,0,0,,Đến lò rèn nào! Đi!
+Dialogue: 0,1:37:10.45,1:37:12.89,Default,,0,0,0,,Em không nên khuyến khích cậu ta.
+Dialogue: 0,1:37:13.16,1:37:15.52,Default,,0,0,0,,Còn anh không nên nghi ngờ cậu ấy.
+Dialogue: 0,1:37:15.79,1:37:18.94,Default,,0,0,0,,Anh không nghi ngờ lòng can đảm,\Nchỉ lo lắng về tầm tay của cậu ấy thôi.
+Dialogue: 0,1:37:21.80,1:37:23.31,Default,,0,0,0,,Tại sao phải bỏ Merry lại?
+Dialogue: 0,1:37:23.55,1:37:26.06,Default,,0,0,0,,Cậu ấy cũng ra trận\Nvì những lý do như anh.
+Dialogue: 0,1:37:28.34,1:37:31.38,Default,,0,0,0,,Sao cậu ta lại không thể chiến đấu\Nvì những người mình thương yêu?
+Dialogue: 0,1:37:34.77,1:37:37.64,Default,,0,0,0,,Em không biết nhiều về chiến tranh,\Ncũng như cậu Hobbit đó.
+Dialogue: 0,1:37:39.02,1:37:41.01,Default,,0,0,0,,Khi nỗi sợ hãi xâm chiếm cậu ta,
+Dialogue: 0,1:37:41.27,1:37:46.11,Default,,0,0,0,,máu, những tiếng la hét,\Nsự kinh khủng của chiến tranh,
+Dialogue: 0,1:37:46.69,1:37:48.76,Default,,0,0,0,,em nghĩ cậu ta sẽ đứng dậy\Nvà chiến đấu được chứ?
+Dialogue: 0,1:37:51.41,1:37:52.97,Default,,0,0,0,,Cậu ta sẽ bỏ chạy.
+Dialogue: 0,1:37:53.20,1:37:55.16,Default,,0,0,0,,Và cậu ta làm vậy là đúng.
+Dialogue: 0,1:37:57.45,1:38:01.24,Default,,0,0,0,,Chiến tranh là của đàn ông, Eowyn.
+Dialogue: 0,1:38:37.08,1:38:40.63,Default,,0,0,0,,{\i1}Em chọn cuộc sống trần thế.{\i0}
+Dialogue: 0,1:38:43.71,1:38:46.46,Default,,0,0,0,,Ước gì có thể gặp anh...
+Dialogue: 0,1:38:47.71,1:38:50.31,Default,,0,0,0,,một lần cuối.
+Dialogue: 0,1:39:01.60,1:39:02.95,Default,,0,0,0,,Thưa ngài?
+Dialogue: 0,1:39:04.85,1:39:07.32,Default,,0,0,0,,Vua Theoden đang chờ Ngài.
+Dialogue: 0,1:39:28.21,1:39:30.09,Default,,0,0,0,,Ta lui đây.
+Dialogue: 0,1:39:44.81,1:39:46.00,Default,,0,0,0,,Ngài Elrond.
+Dialogue: 0,1:39:46.64,1:39:50.00,Default,,0,0,0,,Ta đến thay cho một người\Nmà ta thương yêu.
+Dialogue: 0,1:39:53.23,1:39:55.14,Default,,0,0,0,,Arwen đang hấp hối.
+Dialogue: 0,1:40:00.03,1:40:03.91,Default,,0,0,0,,Nó không chống chọi nổi với\Ntà khí đang lan tràn từ Mordor.
+Dialogue: 0,1:40:04.83,1:40:08.06,Default,,0,0,0,,Ánh sáng của Evenstar đang mờ dần..
+Dialogue: 0,1:40:08.37,1:40:12.21,Default,,0,0,0,,Quyền lực của Sauron càng tăng,\Nsức lực của nó càng suy yếu.
+Dialogue: 0,1:40:12.54,1:40:16.14,Default,,0,0,0,,Mạng của Arwen nay đã gắn liền\Nvào số phận của chiếc Nhẫn.
+Dialogue: 0,1:40:17.05,1:40:19.52,Default,,0,0,0,,Bóng tối đang bao phủ chúng ta,\NAragorn.
+Dialogue: 0,1:40:20.01,1:40:21.60,Default,,0,0,0,,Cái kết đã gần kề.
+Dialogue: 0,1:40:22.05,1:40:24.57,Default,,0,0,0,,Đó không phải là ngày tàn của ta,\Nmà là của hắn.
+Dialogue: 0,1:40:25.43,1:40:28.87,Default,,0,0,0,,Anh đi chiến đấu,\Nnhưng không biết cách chiến thắng.
+Dialogue: 0,1:40:30.02,1:40:33.53,Default,,0,0,0,,Anh chỉ biết rằng quân đội của Sauron\Nđang tiến về Minas Tirith.
+Dialogue: 0,1:40:33.85,1:40:38.09,Default,,0,0,0,,Nhưng hắn đang bí mật cử lực lượng khác\Ntấn công từ dòng sông.
+Dialogue: 0,1:40:38.73,1:40:42.01,Default,,0,0,0,,Một đội thuyền hải tặc đã\Nkhởi hành từ hướng Nam.
+Dialogue: 0,1:40:42.78,1:40:44.77,Default,,0,0,0,,Chúng sẽ đến thành phố\Ntrong hai ngày nữa.
+Dialogue: 0,1:40:45.37,1:40:48.08,Default,,0,0,0,,Bên anh quá ít người, Aragorn.
+Dialogue: 0,1:40:48.91,1:40:50.95,Default,,0,0,0,,Anh cần thêm người.
+Dialogue: 0,1:40:51.41,1:40:53.09,Default,,0,0,0,,Chẳng còn ai cả.
+Dialogue: 0,1:40:54.92,1:40:58.67,Default,,0,0,0,,Còn những kẻ đang sống trên núi.
+Dialogue: 0,1:41:07.85,1:41:09.92,Default,,0,0,0,,Những tên sát nhân,
+Dialogue: 0,1:41:10.18,1:41:11.53,Default,,0,0,0,,những kẻ phản bội.
+Dialogue: 0,1:41:14.06,1:41:16.13,Default,,0,0,0,,Kêu gọi chúng chiến đấu ư?
+Dialogue: 0,1:41:16.40,1:41:17.91,Default,,0,0,0,,Chúng chẳng tin vào điều gì.
+Dialogue: 0,1:41:18.15,1:41:20.18,Default,,0,0,0,,Chúng chẳng đáp lời kêu gọi\Ncủa bất kì ai.
+Dialogue: 0,1:41:20.44,1:41:23.40,Default,,0,0,0,,Chúng sẽ đáp lời nhà vua xứ Gondor.
+Dialogue: 0,1:41:30.66,1:41:35.57,Default,,0,0,0,,Anduril, ngọn lửa của phương Tây,\Nđược rèn từ những mảnh vỡ của Narsil.
+Dialogue: 0,1:41:50.09,1:41:54.33,Default,,0,0,0,,Sauron sẽ không thể quên\Nlưỡi kiếm của Elendil.
+Dialogue: 0,1:42:08.57,1:42:13.12,Default,,0,0,0,,Lưỡi kiếm gãy nên trở về\Nvới Minas Tirith.
+Dialogue: 0,1:42:13.49,1:42:15.80,Default,,0,0,0,,Kẻ nào vận dụng được\Nsức mạnh của lưỡi kiếm này...
+Dialogue: 0,1:42:16.08,1:42:19.79,Default,,0,0,0,,có thể triệu tập một đạo quân hùng mạnh\Nhơn bất cứ quân đội nào trên thế giới.
+Dialogue: 0,1:42:21.79,1:42:23.86,Default,,0,0,0,,Hãy quên đi kiếp du mục.
+Dialogue: 0,1:42:24.13,1:42:27.32,Default,,0,0,0,,Hãy thực hiện định mệnh của mình.
+Dialogue: 0,1:42:27.63,1:42:29.54,Default,,0,0,0,,Đi con đường đến Dimholt.
+Dialogue: 0,1:42:33.49,1:42:36.30,Default,,0,0,0,,Ta trao hy vọng cho loài Người.
+Dialogue: 0,1:42:39.68,1:42:43.64,Default,,0,0,0,,Ta không giữ cho riêng mình.
+Dialogue: 0,1:42:55.66,1:42:57.25,Default,,0,0,0,,Tại sao anh làm chuyện này?
+Dialogue: 0,1:42:57.78,1:43:00.86,Default,,0,0,0,,Chiến tranh ở phía Đông.\NAnh đâu thể bỏ đi trước lúc ra trận.
+Dialogue: 0,1:43:03.42,1:43:05.41,Default,,0,0,0,,Anh không thể rời bỏ binh lính.
+Dialogue: 0,1:43:06.79,1:43:08.31,Default,,0,0,0,,Eowyn...
+Dialogue: 0,1:43:08.55,1:43:10.66,Default,,0,0,0,,Mọi người cần anh ở đây.
+Dialogue: 0,1:43:11.88,1:43:13.68,Default,,0,0,0,,Tại sao em lại đến đây?
+Dialogue: 0,1:43:15.43,1:43:17.30,Default,,0,0,0,,Anh không biết sao?
+Dialogue: 0,1:43:26.69,1:43:29.57,Default,,0,0,0,,Chỉ là thoáng chốc khi\Nem nghĩ là em yêu anh mà thôi.
+Dialogue: 0,1:43:33.61,1:43:35.92,Default,,0,0,0,,Anh không thể cho em những gì\Nem đang tìm kiếm.
+Dialogue: 0,1:43:49.54,1:43:53.30,Default,,0,0,0,,Anh đã cầu chúc em hạnh phúc\Nngay từ lần đầu gặp gỡ.
+Dialogue: 0,1:44:12.61,1:44:14.80,Default,,0,0,0,,Này, anh định đi đâu đấy?
+Dialogue: 0,1:44:15.07,1:44:16.34,Default,,0,0,0,,Lần này thì không được.
+Dialogue: 0,1:44:16.57,1:44:18.68,Default,,0,0,0,,Lần này anh phải ở lại, Gimli.
+Dialogue: 0,1:44:21.49,1:44:24.21,Default,,0,0,0,,Anh chưa biết người Lùn\Nbướng bỉnh đến đâu sao?
+Dialogue: 0,1:44:24.49,1:44:28.01,Default,,0,0,0,,Chấp nhận đi.\NChúng tôi sẽ đi theo anh đó.
+Dialogue: 0,1:44:50.48,1:44:52.55,Default,,0,0,0,,- Chuyện gì thế?\N- Anh ấy đi đâu vậy?
+Dialogue: 0,1:44:52.98,1:44:54.78,Default,,0,0,0,,Anh ta đi đâu?
+Dialogue: 0,1:44:57.44,1:44:59.40,Default,,0,0,0,,Tôi không hiểu.
+Dialogue: 0,1:45:03.91,1:45:05.62,Default,,0,0,0,,Ngài Aragorn!
+Dialogue: 0,1:45:06.12,1:45:08.71,Default,,0,0,0,,Sao ngài ấy lại ra đi\Nvào đêm trước cuộc chiến?
+Dialogue: 0,1:45:10.04,1:45:12.03,Default,,0,0,0,,Anh ta ra đi vì không còn hy vọng gì.
+Dialogue: 0,1:45:12.79,1:45:14.83,Default,,0,0,0,,Anh ấy ra đi vì\Nanh ấy có chuyện phải làm.
+Dialogue: 0,1:45:15.08,1:45:16.72,Default,,0,0,0,,Ít người đến quá.
+Dialogue: 0,1:45:16.96,1:45:19.03,Default,,0,0,0,,Chúng ta không thể đánh bại\Nquân đội của Mordor.
+Dialogue: 0,1:45:21.63,1:45:23.22,Default,,0,0,0,,Không,
+Dialogue: 0,1:45:23.72,1:45:24.91,Default,,0,0,0,,chúng ta không thể.
+Dialogue: 0,1:45:27.85,1:45:31.47,Default,,0,0,0,,Nhưng chúng ta vẫn sẽ\Nchiến đấu với chúng.
+Dialogue: 0,1:45:46.07,1:45:47.74,Default,,0,0,0,,Ta đã để lại chỉ thị.
+Dialogue: 0,1:45:50.49,1:45:53.61,Default,,0,0,0,,Cháu sẽ thay ta trị vì dân chúng.
+Dialogue: 0,1:46:00.33,1:46:02.48,Default,,0,0,0,,Hãy ngồi vào ngai ở Đại Sảnh Vàng.
+Dialogue: 0,1:46:03.84,1:46:06.56,Default,,0,0,0,,Cháu có thể bảo vệ Edoras được lâu...
+Dialogue: 0,1:46:06.84,1:46:09.07,Default,,0,0,0,,nếu trận chiến này thất bại.
+Dialogue: 0,1:46:10.26,1:46:13.54,Default,,0,0,0,,Ngài có muốn cháu thực thi\Nnghĩa vụ gì nữa không?
+Dialogue: 0,1:46:15.89,1:46:17.77,Default,,0,0,0,,Nghĩa vụ?
+Dialogue: 0,1:46:20.02,1:46:21.29,Default,,0,0,0,,Không.
+Dialogue: 0,1:46:29.65,1:46:31.69,Default,,0,0,0,,Ta chỉ muốn cháu mỉm cười lần nữa,
+Dialogue: 0,1:46:35.20,1:46:39.99,Default,,0,0,0,,không nên khóc thương\Nnhững người sắp sửa ra đi.
+Dialogue: 0,1:46:45.04,1:46:48.40,Default,,0,0,0,,Cháu phải sống để thấy\Nnhững ngày mới sắp đến...
+Dialogue: 0,1:46:52.89,1:46:55.52,Default,,0,0,0,,và không còn sự tuyệt vọng.
+Dialogue: 0,1:47:01.85,1:47:05.40,Default,,0,0,0,,Đội quân nào mà lại ở cái xứ này chứ?
+Dialogue: 0,1:47:05.73,1:47:07.48,Default,,0,0,0,,Đội quân bị nguyền rủa.
+Dialogue: 0,1:47:09.53,1:47:11.96,Default,,0,0,0,,Cách đây rất lâu,\Ntộc Người Núi đã tuyên thề...
+Dialogue: 0,1:47:12.49,1:47:15.13,Default,,0,0,0,,với vị vua cuối cùng xứ Gondor...
+Dialogue: 0,1:47:15.82,1:47:17.34,Default,,0,0,0,,là sẽ đáp lời kêu gọi của ngài ấy...
+Dialogue: 0,1:47:17.58,1:47:19.21,Default,,0,0,0,,để chiến đấu.
+Dialogue: 0,1:47:19.79,1:47:21.86,Default,,0,0,0,,Nhưng khi đến lúc,
+Dialogue: 0,1:47:22.58,1:47:25.09,Default,,0,0,0,,khi Gondor cần đến...
+Dialogue: 0,1:47:25.37,1:47:27.17,Default,,0,0,0,,thì họ lại bỏ trốn...
+Dialogue: 0,1:47:27.42,1:47:30.65,Default,,0,0,0,,biến mất vào bóng tối của ngọn núi.
+Dialogue: 0,1:47:31.84,1:47:34.07,Default,,0,0,0,,Và vì thế Isildur nguyền rủa họ...
+Dialogue: 0,1:47:35.72,1:47:39.43,Default,,0,0,0,,không được yên nghỉ cho đến khi\Nhọ hoàn thành lời thề.
+Dialogue: 0,1:47:43.89,1:47:46.93,Default,,0,0,0,,Ai có thể kêu gọi\Nnhững con người xa xưa đó?
+Dialogue: 0,1:47:47.52,1:47:49.67,Default,,0,0,0,,Những kẻ bị lãng quên.
+Dialogue: 0,1:47:49.94,1:47:52.33,Default,,0,0,0,,Chính là người mang dòng máu\Ncủa vị vua mà họ đã thề.
+Dialogue: 0,1:47:52.90,1:47:54.70,Default,,0,0,0,,Anh ấy sẽ đến từ phương Bắc.
+Dialogue: 0,1:47:55.28,1:47:56.87,Default,,0,0,0,,Anh ấy rất cần sự giúp đỡ.
+Dialogue: 0,1:47:58.03,1:48:01.39,Default,,0,0,0,,Anh ấy sẽ đi qua cánh cửa\Nvào Con Đường Của Người Chết.
+Dialogue: 0,1:48:20.01,1:48:23.16,Default,,0,0,0,,Máu tôi dường như đông cứng lại.
+Dialogue: 0,1:48:28.85,1:48:30.73,Default,,0,0,0,,Lối đi đã bị đóng.
+Dialogue: 0,1:48:31.56,1:48:33.44,Default,,0,0,0,,Những người chết đã dựng nên\Nlối đi này.
+Dialogue: 0,1:48:34.15,1:48:36.30,Default,,0,0,0,,Và họ canh giữ nó.
+Dialogue: 0,1:48:36.94,1:48:38.42,Default,,0,0,0,,Lối đi đã bị đóng.
+Dialogue: 0,1:48:49.83,1:48:51.26,Default,,0,0,0,,Brego!
+Dialogue: 0,1:48:54.84,1:48:57.43,Default,,0,0,0,,Tôi không sợ cái chết.
+Dialogue: 0,1:49:09.85,1:49:12.16,Default,,0,0,0,,Chà, việc này đúng là\Nchưa được nghe bao giờ.
+Dialogue: 0,1:49:12.44,1:49:16.91,Default,,0,0,0,,Tộc Tiên dám vào lòng đất,\Nở nơi mà người Lùn không dám ư?
+Dialogue: 0,1:49:17.27,1:49:18.55,Default,,0,0,0,,Ồ.
+Dialogue: 0,1:49:18.78,1:49:21.49,Default,,0,0,0,,Chả biết sẽ thế nào nữa.
+Dialogue: 0,1:49:36.63,1:49:38.78,Default,,0,0,0,,Chúng ta phải phi ngựa\Nthật nhanh và trang bị nhẹ.
+Dialogue: 0,1:49:39.04,1:49:40.72,Default,,0,0,0,,Còn cả một chặng đường dài.
+Dialogue: 0,1:49:40.96,1:49:43.92,Default,,0,0,0,,Người và ngựa phải còn sức chiến đấu\Nkhi đến đích.
+Dialogue: 0,1:49:49.56,1:49:52.43,Default,,0,0,0,,Người Hobbit không phù hợp chiến trận,\Ncậu Meriadoc.
+Dialogue: 0,1:49:52.89,1:49:54.80,Default,,0,0,0,,Bạn bè tôi ai cũng đã ra trận.
+Dialogue: 0,1:49:55.06,1:49:56.86,Default,,0,0,0,,Tôi thấy xấu hổ khi cứ ở lại mãi.
+Dialogue: 0,1:49:57.10,1:49:59.14,Default,,0,0,0,,Ba ngày phi nước đại\Nmới đến được Minas Tirith.
+Dialogue: 0,1:49:59.40,1:50:01.67,Default,,0,0,0,,Và kị binh của ta không thể\Nmang cậu theo.
+Dialogue: 0,1:50:02.78,1:50:04.81,Default,,0,0,0,,Nhưng tôi muốn chiến đấu.
+Dialogue: 0,1:50:05.40,1:50:07.31,Default,,0,0,0,,Ta sẽ không nói nhiều.
+Dialogue: 0,1:50:24.21,1:50:26.09,Default,,0,0,0,,Đi với tôi.
+Dialogue: 0,1:50:27.63,1:50:28.99,Default,,0,0,0,,Công nương.
+Dialogue: 0,1:50:29.22,1:50:31.49,Default,,0,0,0,,Lập đội hình! Tiến lên!
+Dialogue: 0,1:50:31.76,1:50:34.83,Default,,0,0,0,,Lập đội hình! Tiến lên!
+Dialogue: 0,1:50:38.06,1:50:39.21,Default,,0,0,0,,Tiến lên!
+Dialogue: 0,1:50:39.44,1:50:42.27,Default,,0,0,0,,Thẳng tiến Gondor!
+Dialogue: 0,1:51:24.02,1:51:25.69,Default,,0,0,0,,Cái gì vậy?
+Dialogue: 0,1:51:25.94,1:51:27.42,Default,,0,0,0,,Các cậu thấy điều gì?
+Dialogue: 0,1:51:27.73,1:51:29.77,Default,,0,0,0,,Tôi thấy những bóng người.
+Dialogue: 0,1:51:32.53,1:51:33.85,Default,,0,0,0,,Và ngựa.
+Dialogue: 0,1:51:34.66,1:51:35.80,Default,,0,0,0,,Ở đâu?
+Dialogue: 0,1:51:36.03,1:51:38.87,Default,,0,0,0,,Những lá cờ nhợt nhạt\Nnhư những mảnh mây vụn.
+Dialogue: 0,1:51:41.41,1:51:43.53,Default,,0,0,0,,Những ngọn giáo tua tủa...
+Dialogue: 0,1:51:44.25,1:51:47.56,Default,,0,0,0,,như những cành cây mùa đông\Ndưới lớp sương mù.
+Dialogue: 0,1:51:48.96,1:51:51.03,Default,,0,0,0,,Những Người Chết đang theo sau.
+Dialogue: 0,1:51:52.34,1:51:53.77,Default,,0,0,0,,Họ đã được triệu hồi.
+Dialogue: 0,1:51:54.51,1:51:56.26,Default,,0,0,0,,Người chết?
+Dialogue: 0,1:51:56.72,1:51:58.36,Default,,0,0,0,,Triệu hồi?
+Dialogue: 0,1:51:58.85,1:52:00.64,Default,,0,0,0,,Tôi biết mà.
+Dialogue: 0,1:52:04.06,1:52:05.73,Default,,0,0,0,,Tốt thật.
+Dialogue: 0,1:52:06.52,1:52:08.51,Default,,0,0,0,,Tốt thật đấy! Legolas!
+Dialogue: 0,1:52:46.56,1:52:47.91,Default,,0,0,0,,Đừng nhìn xuống.
+Dialogue: 0,1:53:40.57,1:53:45.48,Default,,0,0,0,,Ai đã vào lãnh thổ của ta?
+Dialogue: 0,1:53:49.45,1:53:51.57,Default,,0,0,0,,Người mà ngươi sẽ phải trung thành.
+Dialogue: 0,1:53:54.62,1:53:59.74,Default,,0,0,0,,Người Chết không để\Nkẻ sống đi qua đây.
+Dialogue: 0,1:54:00.30,1:54:02.86,Default,,0,0,0,,Ngươi sẽ để ta qua.
+Dialogue: 0,1:54:26.49,1:54:29.72,Default,,0,0,0,,Lối đi đã khép.
+Dialogue: 0,1:54:31.03,1:54:35.31,Default,,0,0,0,,Những Người Chết đã dựng nên\Nlối đi này.
+Dialogue: 0,1:54:35.87,1:54:39.86,Default,,0,0,0,,Và họ canh giữ nó.
+Dialogue: 0,1:54:49.18,1:54:52.13,Default,,0,0,0,,Lối đi đã khép.
+Dialogue: 0,1:54:54.01,1:54:56.53,Default,,0,0,0,,Giờ ngươi phải chết.
+Dialogue: 0,1:55:00.52,1:55:03.24,Default,,0,0,0,,Ta đến kêu gọi ngươi\Nthực hiện lời thề.
+Dialogue: 0,1:55:03.69,1:55:08.44,Default,,0,0,0,,Không ai ngoài vua xứ Gondor\Ncó thể ra lệnh cho ta.
+Dialogue: 0,1:55:14.24,1:55:16.31,Default,,0,0,0,,Dòng họ đó đã chấm dứt.
+Dialogue: 0,1:55:19.04,1:55:21.15,Default,,0,0,0,,Nó đã được khôi phục.
+Dialogue: 0,1:55:29.17,1:55:30.65,Default,,0,0,0,,Hãy chiến đấu cho ta...
+Dialogue: 0,1:55:30.88,1:55:33.32,Default,,0,0,0,,và lấy lại danh dự đã mất.
+Dialogue: 0,1:55:37.60,1:55:38.87,Default,,0,0,0,,Ý các ngươi thế nào?
+Dialogue: 0,1:55:51.15,1:55:52.63,Default,,0,0,0,,Ý các ngươi thế nào?
+Dialogue: 0,1:55:53.45,1:55:55.16,Default,,0,0,0,,Chỉ phí thời gian thôi, Aragorn.
+Dialogue: 0,1:55:55.41,1:55:58.44,Default,,0,0,0,,Lúc sống không có danh dự,\Nthì lúc chết cũng thế thôi.
+Dialogue: 0,1:55:59.08,1:56:01.47,Default,,0,0,0,,Ta là dòng dõi của lsildur.
+Dialogue: 0,1:56:02.12,1:56:04.00,Default,,0,0,0,,Chiến đấu cho ta...
+Dialogue: 0,1:56:04.67,1:56:08.10,Default,,0,0,0,,và ta sẽ xem như các ngươi\Nđã hoàn thành lời thề.
+Dialogue: 0,1:56:12.17,1:56:14.05,Default,,0,0,0,,Ý các ngươi thế nào?
+Dialogue: 0,1:56:22.06,1:56:24.17,Default,,0,0,0,,Ta hứa với các ngươi!
+Dialogue: 0,1:56:24.56,1:56:28.39,Default,,0,0,0,,Chiến đấu, và ta sẽ giải thoát\Ncác ngươi khỏi lời nguyền này!
+Dialogue: 0,1:56:30.02,1:56:31.46,Default,,0,0,0,,Ý các ngươi thế nào?
+Dialogue: 0,1:56:34.82,1:56:37.65,Default,,0,0,0,,Đứng yên, bọn phản bội!
+Dialogue: 0,1:57:04.72,1:57:05.71,Default,,0,0,0,,Ra ngoài đi!
+Dialogue: 0,1:57:27.12,1:57:28.63,Default,,0,0,0,,Legolas!
+Dialogue: 0,1:57:29.83,1:57:30.98,Default,,0,0,0,,Chạy đi!
+Dialogue: 0,1:58:37.35,1:58:39.34,Default,,0,0,0,,Bọn ta sẽ chiến đấu.
+Dialogue: 0,1:58:49.78,1:58:52.25,Default,,0,0,0,,Mở cổng ra! Nhanh!
+Dialogue: 0,1:59:23.40,1:59:25.31,Default,,0,0,0,,Nhanh! Nhanh lên!
+Dialogue: 0,1:59:39.16,1:59:40.72,Default,,0,0,0,,Faramir!
+Dialogue: 0,1:59:41.79,1:59:44.91,Default,,0,0,0,,Đừng nói với ta nó đã ngã xuống.
+Dialogue: 0,1:59:46.21,1:59:47.69,Default,,0,0,0,,Họ quá ít người.
+Dialogue: 0,1:59:48.17,1:59:49.68,Default,,0,0,0,,Không còn ai sống sót.
+Dialogue: 0,1:59:50.47,1:59:52.38,Default,,0,0,0,,Sợ hãi.
+Dialogue: 0,1:59:53.01,1:59:56.08,Default,,0,0,0,,Cả thành phố đang sợ hãi.
+Dialogue: 0,1:59:58.56,2:00:00.91,Default,,0,0,0,,Hãy giải thoát chúng khỏi đau đớn.
+Dialogue: 0,2:00:01.27,2:00:02.94,Default,,0,0,0,,Thả tù binh.
+Dialogue: 0,2:00:03.19,2:00:05.06,Default,,0,0,0,,Máy bắn đá!
+Dialogue: 0,2:00:18.49,2:00:21.80,Default,,0,0,0,,Các con trai ta đã chết.
+Dialogue: 0,2:00:23.00,2:00:25.79,Default,,0,0,0,,Dòng họ ta đã chấm dứt.
+Dialogue: 0,2:00:28.75,2:00:30.11,Default,,0,0,0,,Anh ấy còn sống!
+Dialogue: 0,2:00:30.34,2:00:33.37,Default,,0,0,0,,Dòng họ quan nhiếp chính đã tận.
+Dialogue: 0,2:00:33.67,2:00:35.07,Default,,0,0,0,,Thưa ngài, anh ấy cần chăm sóc.
+Dialogue: 0,2:00:36.18,2:00:38.74,Default,,0,0,0,,Dòng họ ta đã tận!
+Dialogue: 0,2:00:40.35,2:00:42.26,Default,,0,0,0,,Thưa ngài!
+Dialogue: 0,2:00:55.86,2:00:57.61,Default,,0,0,0,,Rohan...
+Dialogue: 0,2:00:58.45,2:01:00.76,Default,,0,0,0,,đã bỏ rơi chúng ta.
+Dialogue: 0,2:01:15.30,2:01:18.37,Default,,0,0,0,,Theoden đã phản bội ta.
+Dialogue: 0,2:01:29.64,2:01:31.40,Default,,0,0,0,,Hãy rời vị trí!
+Dialogue: 0,2:01:32.52,2:01:36.28,Default,,0,0,0,,Trốn đi! Hãy lo cho mạng mình!
+Dialogue: 0,2:01:46.58,2:01:48.06,Default,,0,0,0,,Chuẩn bị chiến đấu!
+Dialogue: 0,2:01:48.66,2:01:51.70,Default,,0,0,0,,Nhanh lên! Ra tường thành!\NBảo vệ tường thành!
+Dialogue: 0,2:01:53.00,2:01:54.88,Default,,0,0,0,,Đằng này!
+Dialogue: 0,2:01:55.71,2:01:57.99,Default,,0,0,0,,Trở về vị trí!
+Dialogue: 0,2:02:08.89,2:02:11.40,Default,,0,0,0,,Cho lũ quái vật đó xuống địa ngục.
+Dialogue: 0,2:02:21.69,2:02:23.09,Default,,0,0,0,,Giữ nguyên vị trí.
+Dialogue: 0,2:02:40.13,2:02:41.48,Default,,0,0,0,,Chúng ta cần thêm đá!
+Dialogue: 0,2:02:41.71,2:02:43.51,Default,,0,0,0,,Coi chừng!
+Dialogue: 0,2:02:43.76,2:02:46.19,Default,,0,0,0,,Xuống tầng dưới, nhanh!
+Dialogue: 0,2:02:48.18,2:02:49.66,Default,,0,0,0,,Nhanh lên, anh em!
+Dialogue: 0,2:03:58.70,2:04:01.58,Default,,0,0,0,,Cản chúng lại!\NĐừng đầu hàng nỗi sợ hãi!
+Dialogue: 0,2:04:02.21,2:04:05.56,Default,,0,0,0,,Về vị trí! Chiến đấu!
+Dialogue: 0,2:04:46.37,2:04:47.93,Default,,0,0,0,,Đừng bắn vào tháp!
+Dialogue: 0,2:04:48.17,2:04:51.05,Default,,0,0,0,,Nhắm vào những tên khổng lồ!\NGiết chúng!
+Dialogue: 0,2:04:51.92,2:04:53.67,Default,,0,0,0,,Giết chúng!
+Dialogue: 0,2:05:28.87,2:05:30.83,Default,,0,0,0,,Đẩy lùi chúng!
+Dialogue: 0,2:05:31.08,2:05:32.99,Default,,0,0,0,,Peregrin Took!
+Dialogue: 0,2:05:33.96,2:05:37.00,Default,,0,0,0,,- Trở về Thành Trong nhanh!\N- Họ gọi tôi ra để chiến đấu!
+Dialogue: 0,2:05:52.81,2:05:55.09,Default,,0,0,0,,Đây không phải chỗ cho Hobbit.
+Dialogue: 0,2:06:20.92,2:06:22.32,Default,,0,0,0,,Cậu đúng là Vệ binh đấy.
+Dialogue: 0,2:06:23.01,2:06:26.21,Default,,0,0,0,,Trở lên phía trên đồi. Nhanh. Nhanh!
+Dialogue: 0,2:06:37.69,2:06:40.52,Default,,0,0,0,,Bọn bay đang làm gì thế,\Nhả bọn vô dụng?
+Dialogue: 0,2:06:40.82,2:06:42.69,Default,,0,0,0,,Cửa thành chắc quá, không phá nổi.
+Dialogue: 0,2:06:49.12,2:06:51.43,Default,,0,0,0,,Quay lại đó và phá sập nó đi.
+Dialogue: 0,2:06:51.70,2:06:53.61,Default,,0,0,0,,Không gì có thể xuyên thủng nó.
+Dialogue: 0,2:06:56.62,2:06:58.77,Default,,0,0,0,,Grond sẽ xuyên thủng được.
+Dialogue: 0,2:07:02.30,2:07:04.29,Default,,0,0,0,,Mang đầu sói lại đây.
+Dialogue: 0,2:07:49.35,2:07:51.05,Default,,0,0,0,,Các ngươi không đi tiếp được đâu.
+Dialogue: 0,2:07:54.56,2:07:56.96,Default,,0,0,0,,Các ngươi không được vào Gondor.
+Dialogue: 0,2:07:57.69,2:08:00.01,Default,,0,0,0,,Các ngươi là ai mà dám cản đường ta?
+Dialogue: 0,2:08:00.19,2:08:03.99,Default,,0,0,0,,Legolas, hãy bắn một phát tên cảnh cáo\Nvào tai tên thủy thủ kia.
+Dialogue: 0,2:08:05.93,2:08:07.43,Default,,0,0,0,,Nhắm kĩ vào.
+Dialogue: 0,2:08:14.23,2:08:16.67,Default,,0,0,0,,Thế đấy. Bọn ta cảnh cáo ngươi.
+Dialogue: 0,2:08:16.98,2:08:18.88,Default,,0,0,0,,Lên thuyền lại đi.
+Dialogue: 0,2:08:20.73,2:08:21.82,Default,,0,0,0,,Lên thuyền lại?
+Dialogue: 0,2:08:21.88,2:08:23.78,Default,,0,0,0,,Chỉ với bọn mi thôi sao?
+Dialogue: 0,2:08:25.32,2:08:27.02,Default,,0,0,0,,Và đội quân này nữa.
+Dialogue: 0,2:08:44.30,2:08:45.70,Default,,0,0,0,,Bên trong đó.
+Dialogue: 0,2:08:47.84,2:08:49.49,Default,,0,0,0,,Đây là đâu?
+Dialogue: 0,2:08:54.10,2:08:57.25,Default,,0,0,0,,Cậu phải đi vào đường hầm.
+Dialogue: 0,2:08:59.05,2:09:02.40,Default,,0,0,0,,Đến đây rồi,\Ntôi lại không muốn đi tiếp.
+Dialogue: 0,2:09:05.20,2:09:06.85,Default,,0,0,0,,Đó là lối đi duy nhất.
+Dialogue: 0,2:09:09.53,2:09:11.23,Default,,0,0,0,,Phải vào đó...
+Dialogue: 0,2:09:11.78,2:09:13.90,Default,,0,0,0,,hoặc là trở lại.
+Dialogue: 0,2:09:16.83,2:09:19.34,Default,,0,0,0,,Tôi không thể quay lại.
+Dialogue: 0,2:09:32.26,2:09:34.70,Default,,0,0,0,,- Mùi gì kinh thế?\N- Mùi của lũ Orc.
+Dialogue: 0,2:09:34.81,2:09:37.64,Default,,0,0,0,,Đôi khi chúng đi vào đây.
+Dialogue: 0,2:09:43.36,2:09:44.56,Default,,0,0,0,,{\i1}Nhanh lên!.{\i0}
+Dialogue: 0,2:09:49.88,2:09:51.38,Default,,0,0,0,,Lối này.
+Dialogue: 0,2:09:54.47,2:09:56.02,Default,,0,0,0,,Smeagol?
+Dialogue: 0,2:09:57.23,2:09:59.13,Default,,0,0,0,,{\i1}Đằng này.{\i0}
+Dialogue: 0,2:10:08.33,2:10:10.58,Default,,0,0,0,,Dính quá. Cái gì vậy?
+Dialogue: 0,2:10:11.46,2:10:13.11,Default,,0,0,0,,{\i1}Rồi cậu sẽ biết.{\i0}
+Dialogue: 0,2:10:13.76,2:10:15.56,Default,,0,0,0,,{\i1}Ồ, vâng.{\i0}
+Dialogue: 0,2:10:16.10,2:10:18.85,Default,,0,0,0,,{\i1}Cậu sẽ biết.{\i0}
+Dialogue: 0,2:10:28.25,2:10:29.75,Default,,0,0,0,,Smeagol?
+Dialogue: 0,2:10:31.59,2:10:32.39,Default,,0,0,0,,Smeagol?
+Dialogue: 0,2:10:35.24,2:10:36.84,Default,,0,0,0,,Smeagol?
+Dialogue: 0,2:10:46.50,2:10:47.89,Default,,0,0,0,,Sam.
+Dialogue: 0,2:12:28.42,2:12:30.64,Default,,0,0,0,,{\i1}Và cậu, Frodo Baggins...{\i0}
+Dialogue: 0,2:12:30.74,2:12:35.47,Default,,0,0,0,,{\i1}ta ban cho cậu ánh sáng của Earendil,\Nngôi sao thân yêu của ta.{\i0}
+Dialogue: 0,2:12:36.91,2:12:40.00,Default,,0,0,0,,{\i1}Đó sẽ là ánh sáng cho cậu\Nở nơi tối tăm...{\i0}
+Dialogue: 0,2:12:40.18,2:12:43.62,Default,,0,0,0,,{\i1}khi mọi ánh sáng khác đã tắt.{\i0}
+Dialogue: 0,2:12:43.79,2:12:47.49,Default,,0,0,0,,Hỡi Earendil ngôi sao sáng nhất.
+Dialogue: 0,2:14:00.27,2:14:02.97,Default,,0,0,0,,{\i1}Chú ruồi nhỏ nghịch ngợm.{\i0}
+Dialogue: 0,2:14:03.71,2:14:06.91,Default,,0,0,0,,{\i1}Sao mi lại khóc?{\i0}
+Dialogue: 0,2:14:07.47,2:14:10.52,Default,,0,0,0,,{\i1}Mi đã kẹt trong lưới.{\i0}
+Dialogue: 0,2:14:11.06,2:14:13.18,Default,,0,0,0,,{\i1}Rồi đây ngươi sẽ...{\i0}
+Dialogue: 0,2:14:13.65,2:14:15.40,Default,,0,0,0,,bị ăn thịt.
+Dialogue: 0,2:14:53.60,2:14:55.44,Default,,0,0,0,,Nó lại thoát rồi phải không Nhẫn quí?
+Dialogue: 0,2:14:55.95,2:14:57.65,Default,,0,0,0,,Nhưng lần này thì không.
+Dialogue: 0,2:14:57.93,2:15:00.78,Default,,0,0,0,,- Lần này thì không!\N- Không!
+Dialogue: 0,2:15:08.20,2:15:10.96,Default,,0,0,0,,Không phải tôi, không phải tôi!
+Dialogue: 0,2:15:12.01,2:15:14.46,Default,,0,0,0,,Smeagol không đời nào hại cậu chủ.
+Dialogue: 0,2:15:14.72,2:15:16.18,Default,,0,0,0,,Tôi đã hứa.
+Dialogue: 0,2:15:16.70,2:15:19.05,Default,,0,0,0,,Cậu chủ phải tin tôi.
+Dialogue: 0,2:15:19.25,2:15:20.73,Default,,0,0,0,,Đó là do chiếc nhẫn.
+Dialogue: 0,2:15:21.60,2:15:25.59,Default,,0,0,0,,Chiếc nhẫn đã khiến tôi làm vậy.
+Dialogue: 0,2:15:43.18,2:15:45.67,Default,,0,0,0,,Tôi phải hủy nó, Smeagol.
+Dialogue: 0,2:15:55.23,2:15:58.00,Default,,0,0,0,,Phải hủy nó vì cả hai ta.
+Dialogue: 0,2:16:08.57,2:16:09.59,Default,,0,0,0,,Không!
+Dialogue: 0,2:16:33.18,2:16:35.19,Default,,0,0,0,,Sam, tôi xin lỗi.
+Dialogue: 0,2:16:40.16,2:16:42.23,Default,,0,0,0,,Tôi xin lỗi.
+Dialogue: 0,2:17:08.63,2:17:12.72,Default,,0,0,0,,{\i1}Sứ mệnh này giao phó cho cậu,\NFrodo xứ Shire.{\i0}
+Dialogue: 0,2:17:14.41,2:17:16.46,Default,,0,0,0,,{\i1}Nếu cậu thể không hoàn thành...{\i0}
+Dialogue: 0,2:17:18.06,2:17:19.61,Default,,0,0,0,,{\i1}thì không ai khác có thể.{\i0}
+Dialogue: 0,2:17:53.41,2:17:55.69,Default,,0,0,0,,Kỵ binh trinh sát báo cáo là\NMinas Tirith đang bị bao vây.
+Dialogue: 0,2:17:56.02,2:17:57.90,Default,,0,0,0,,Các tầng thấp đang cháy.
+Dialogue: 0,2:17:58.73,2:18:00.81,Default,,0,0,0,,Các quân đoàn địch\Ntiến công từ mọi hướng.
+Dialogue: 0,2:18:01.56,2:18:02.92,Default,,0,0,0,,Thời gian đang chống lại chúng ta.
+Dialogue: 0,2:18:02.95,2:18:04.14,Default,,0,0,0,,{\i1}Chuẩn bị sẵn sàng!{\i0}
+Dialogue: 0,2:18:04.46,2:18:06.12,Default,,0,0,0,,Can đảm nào, Merry.
+Dialogue: 0,2:18:06.55,2:18:08.50,Default,,0,0,0,,Tất cả sẽ sớm kết thúc.
+Dialogue: 0,2:18:09.64,2:18:10.82,Default,,0,0,0,,Công nương...
+Dialogue: 0,2:18:11.62,2:18:13.90,Default,,0,0,0,,cô đẹp và can đảm...
+Dialogue: 0,2:18:14.52,2:18:16.67,Default,,0,0,0,,có nhiều lý do để sống...
+Dialogue: 0,2:18:18.38,2:18:20.33,Default,,0,0,0,,và nhiều người mến cô.
+Dialogue: 0,2:18:23.59,2:18:25.83,Default,,0,0,0,,Tôi biết đã quá trễ để quay lại.
+Dialogue: 0,2:18:27.09,2:18:29.57,Default,,0,0,0,,Tôi biết chúng ta có ít cơ sở\Nđể hy vọng.
+Dialogue: 0,2:18:31.05,2:18:34.50,Default,,0,0,0,,Nếu tôi là một hiệp sĩ Rohan,\Ncó khả năng chiến đấu dũng mãnh...
+Dialogue: 0,2:18:34.65,2:18:37.48,Default,,0,0,0,,Nhưng không.
+Dialogue: 0,2:18:38.04,2:18:39.55,Default,,0,0,0,,Tôi là người Hobbit.
+Dialogue: 0,2:18:42.76,2:18:44.74,Default,,0,0,0,,Và tôi biết tôi không thể\Ncứu cả vùng Trung Địa.
+Dialogue: 0,2:18:48.62,2:18:50.45,Default,,0,0,0,,Tôi chỉ muốn giúp các bạn tôi.
+Dialogue: 0,2:18:52.95,2:18:54.07,Default,,0,0,0,,Frodo.
+Dialogue: 0,2:18:55.45,2:18:56.66,Default,,0,0,0,,Sam.
+Dialogue: 0,2:18:58.78,2:19:00.27,Default,,0,0,0,,Pippin.
+Dialogue: 0,2:19:02.12,2:19:05.22,Default,,0,0,0,,Tôi muốn gặp lại họ\Nhơn bất cứ điều gì.
+Dialogue: 0,2:19:09.31,2:19:11.29,Default,,0,0,0,,{\i1}Chuẩn bị di chuyển!{\i0}
+Dialogue: 0,2:19:11.75,2:19:14.86,Default,,0,0,0,,Phi nước đại.\NChúng ta sẽ hành quân suốt đêm.
+Dialogue: 0,2:19:31.42,2:19:32.37,Default,,0,0,0,,Ra trận.
+Dialogue: 0,2:19:33.09,2:19:34.34,Default,,0,0,0,,Ra trận.
+Dialogue: 0,2:19:57.69,2:19:59.00,Default,,0,0,0,,Trở laại cổng thành!
+Dialogue: 0,2:19:59.78,2:20:01.44,Default,,0,0,0,,Nhanh lên!
+Dialogue: 0,2:20:21.67,2:20:25.74,Default,,0,0,0,,{\i1}Ta là quan nhiếp chính\Ncủa cung điện Anarion.{\i0}
+Dialogue: 0,2:20:26.37,2:20:28.47,Default,,0,0,0,,Ta đã là như thế.
+Dialogue: 0,2:20:30.02,2:20:32.82,Default,,0,0,0,,Và bây giờ ta sẽ ngủ.
+Dialogue: 0,2:20:39.14,2:20:40.86,Default,,0,0,0,,{\i1}Gondor đã mất.{\i0}
+Dialogue: 0,2:20:41.64,2:20:44.71,Default,,0,0,0,,{\i1}Không còn hy vọng cho loài Người.{\i0}
+Dialogue: 0,2:20:59.99,2:21:02.19,Default,,0,0,0,,Tại sao lũ ngốc đó còn chiến đấu?
+Dialogue: 0,2:21:04.21,2:21:06.80,Default,,0,0,0,,Chết sớm còn hơn là chết muộn.
+Dialogue: 0,2:21:09.38,2:21:11.05,Default,,0,0,0,,Vì chúng ta đều phải chết.
+Dialogue: 0,2:21:23.76,2:21:26.96,Default,,0,0,0,,Sẽ không có lăng mộ\Ncho Denethor và Faramir.
+Dialogue: 0,2:21:27.94,2:21:33.24,Default,,0,0,0,,Sẽ không được ướp xác và yên nghỉ.
+Dialogue: 0,2:21:34.14,2:21:38.58,Default,,0,0,0,,Ta sẽ chết thiêu như\Nnhững vị vua ngoại đạo ngày trước.
+Dialogue: 0,2:21:42.90,2:21:44.22,Default,,0,0,0,,Mang củi và dầu lại đây.
+Dialogue: 0,2:21:47.54,2:21:48.41,Default,,0,0,0,,Giữ vững.
+Dialogue: 0,2:21:49.15,2:21:50.60,Default,,0,0,0,,Giữ vững.
+Dialogue: 0,2:22:05.52,2:22:07.72,Default,,0,0,0,,Các người là binh sĩ của Gondor.
+Dialogue: 0,2:22:08.34,2:22:12.49,Default,,0,0,0,,Dù bất cứ thứ gì qua cổng đó,\Ncác người sẽ vẫn đứng vững!
+Dialogue: 0,2:22:18.94,2:22:19.90,Default,,0,0,0,,{\i1}Chạy!{\i0}
+Dialogue: 0,2:22:22.36,2:22:23.61,Default,,0,0,0,,Cung thủ!
+Dialogue: 0,2:22:24.57,2:22:25.93,Default,,0,0,0,,{\i1}Bắn!{\i0}
+Dialogue: 0,2:24:19.66,2:24:21.31,Default,,0,0,0,,Thả cậu ấy ra, đồ bẩn thỉu.
+Dialogue: 0,2:24:23.43,2:24:24.76,Default,,0,0,0,,Thả cậu ấy ra!
+Dialogue: 0,2:24:26.44,2:24:28.44,Default,,0,0,0,,Đừng mong động đến cậu ấy.
+Dialogue: 0,2:24:31.81,2:24:33.21,Default,,0,0,0,,Lại đây và kết thúc nào.
+Dialogue: 0,2:26:23.42,2:26:24.50,Default,,0,0,0,,Lui lại!
+Dialogue: 0,2:26:35.78,2:26:36.88,Default,,0,0,0,,Cậu Frodo!
+Dialogue: 0,2:26:46.73,2:26:48.13,Default,,0,0,0,,Ôi, không!
+Dialogue: 0,2:26:48.81,2:26:50.26,Default,,0,0,0,,Frodo!
+Dialogue: 0,2:26:50.95,2:26:52.43,Default,,0,0,0,,Cậu Frodo!
+Dialogue: 0,2:26:57.43,2:26:58.51,Default,,0,0,0,,Tỉnh lại đi!
+Dialogue: 0,2:27:02.68,2:27:04.73,Default,,0,0,0,,Đừng bỏ tôi lại một mình!
+Dialogue: 0,2:27:06.64,2:27:08.69,Default,,0,0,0,,Đừng đi đến nơi tôi không theo được.
+Dialogue: 0,2:27:13.21,2:27:14.31,Default,,0,0,0,,Tỉnh lại đi cậu.
+Dialogue: 0,2:27:21.29,2:27:23.14,Default,,0,0,0,,Không phải cậu ngủ.
+Dialogue: 0,2:27:25.56,2:27:27.21,Default,,0,0,0,,Chết rồi!
+Dialogue: 0,2:27:46.21,2:27:48.01,Default,,0,0,0,,{\i1}Lùi lại, bọn ngốc!{\i0}
+Dialogue: 0,2:27:57.52,2:27:59.02,Default,,0,0,0,,Cái gì đây?
+Dialogue: 0,2:27:59.94,2:28:02.72,Default,,0,0,0,,Xem ra nhện Shelob\Nvừa có một chút vui vẻ.
+Dialogue: 0,2:28:04.66,2:28:06.91,Default,,0,0,0,,{\i1}Nó lại giết ai nữa à?{\i0}
+Dialogue: 0,2:28:07.32,2:28:09.07,Default,,0,0,0,,Không.
+Dialogue: 0,2:28:12.07,2:28:14.08,Default,,0,0,0,,Tên này chưa chết.
+Dialogue: 0,2:28:14.17,2:28:16.25,Default,,0,0,0,,Chưa chết?
+Dialogue: 0,2:28:16.86,2:28:22.06,Default,,0,0,0,,Nó đâm mũi kim độc để hắn\Nbị tê liệt, mềm nhũn như cá chết.
+Dialogue: 0,2:28:22.96,2:28:25.46,Default,,0,0,0,,Rồi sau đó nó có\Ncách thưởng thức riêng.
+Dialogue: 0,2:28:26.14,2:28:28.09,Default,,0,0,0,,Nó thích ăn mồi kiểu đó.
+Dialogue: 0,2:28:28.33,2:28:30.18,Default,,0,0,0,,Phải là máu còn tươi.
+Dialogue: 0,2:28:30.47,2:28:32.57,Default,,0,0,0,,Đưa hắn lên tháp!
+Dialogue: 0,2:28:36.36,2:28:38.04,Default,,0,0,0,,Samwise, đồ ngốc!
+Dialogue: 0,2:28:38.15,2:28:40.88,Default,,0,0,0,,Hắn sẽ tỉnh lại trong vài giờ nữa.
+Dialogue: 0,2:28:41.31,2:28:43.46,Default,,0,0,0,,Khi đó hắn sẽ ước gì\Nmình chưa bao giờ được sinh ra.
+Dialogue: 0,2:29:08.06,2:29:10.96,Default,,0,0,0,,Linh hồn của con đã lụi tàn.
+Dialogue: 0,2:29:12.44,2:29:13.64,Default,,0,0,0,,Con đang bốc cháy.
+Dialogue: 0,2:29:14.99,2:29:16.29,Default,,0,0,0,,Đang cháy.
+Dialogue: 0,2:29:16.71,2:29:18.21,Default,,0,0,0,,Anh ấy chưa chết!
+Dialogue: 0,2:29:19.06,2:29:20.56,Default,,0,0,0,,Anh ấy chưa chết!
+Dialogue: 0,2:29:22.71,2:29:24.31,Default,,0,0,0,,Không!
+Dialogue: 0,2:29:24.90,2:29:26.80,Default,,0,0,0,,Đừng!
+Dialogue: 0,2:29:27.35,2:29:29.25,Default,,0,0,0,,Anh ấy chưa chết!
+Dialogue: 0,2:29:29.85,2:29:33.00,Default,,0,0,0,,- Vĩnh biệt, Peregrin, con của Paladin.\N- Không!
+Dialogue: 0,2:29:33.34,2:29:36.34,Default,,0,0,0,,Ta giải thoát ngươi khỏi lời thề.
+Dialogue: 0,2:29:37.82,2:29:41.97,Default,,0,0,0,,Hãy đi đi và chết theo cách nào\Ntốt nhất với ngươi.
+Dialogue: 0,2:29:44.51,2:29:46.48,Default,,0,0,0,,{\i1}Đổ dầu lên củi!{\i0}
+Dialogue: 0,2:29:48.46,2:29:50.25,Default,,0,0,0,,Nhanh lên nào, binh lính!
+Dialogue: 0,2:29:51.07,2:29:53.63,Default,,0,0,0,,- Nhanh lên, nhanh lên!\N- Gandalf!
+Dialogue: 0,2:29:54.40,2:29:55.60,Default,,0,0,0,,Gandalf đâu?
+Dialogue: 0,2:29:57.11,2:29:58.11,Default,,0,0,0,,Gandalf!
+Dialogue: 0,2:30:03.94,2:30:04.94,Default,,0,0,0,,{\i1}Rút lui!{\i0}
+Dialogue: 0,2:30:07.18,2:30:08.83,Default,,0,0,0,,{\i1}Tường thành đã vỡ!{\i0}
+Dialogue: 0,2:30:09.05,2:30:11.85,Default,,0,0,0,,Rút lui lên tầng hai!
+Dialogue: 0,2:30:15.83,2:30:17.53,Default,,0,0,0,,{\i1}Đưa phụ nữ và trẻ em đi mau!{\i0}
+Dialogue: 0,2:30:17.71,2:30:19.31,Default,,0,0,0,,{\i1}Đưa họ ra!{\i0}
+Dialogue: 0,2:30:19.65,2:30:20.94,Default,,0,0,0,,Rút lui!
+Dialogue: 0,2:30:21.10,2:30:23.00,Default,,0,0,0,,Nhanh lên, nhanh lên!
+Dialogue: 0,2:30:23.28,2:30:27.43,Default,,0,0,0,,Tiến vào thành phố.\NGiết hết những gì cản đường.
+Dialogue: 0,2:30:35.69,2:30:37.84,Default,,0,0,0,,{\i1}Giết bọn chúng!{\i0}
+Dialogue: 0,2:30:58.73,2:31:01.43,Default,,0,0,0,,Chiến đấu!\NChiến đấu đến người cuối cùng!
+Dialogue: 0,2:31:01.71,2:31:03.16,Default,,0,0,0,,Chiến đấu vì mạng mình!
+Dialogue: 0,2:31:03.23,2:31:04.22,Default,,0,0,0,,Gandalf!
+Dialogue: 0,2:31:08.82,2:31:09.95,Default,,0,0,0,,Gandalf!
+Dialogue: 0,2:31:10.10,2:31:12.65,Default,,0,0,0,,Denethor mất trí rồi!
+Dialogue: 0,2:31:12.97,2:31:15.07,Default,,0,0,0,,Ông ấy thiêu sống Faramir!
+Dialogue: 0,2:31:15.20,2:31:17.06,Default,,0,0,0,,Đi nhanh nào!
+Dialogue: 0,2:31:24.23,2:31:25.38,Default,,0,0,0,,Trở về địa ngục đi.
+Dialogue: 0,2:31:27.25,2:31:30.45,Default,,0,0,0,,Địa ngục đang chờ ngươi\Nvà bè lũ của ngươi đấy.
+Dialogue: 0,2:31:30.64,2:31:36.64,Default,,0,0,0,,Ngươi không biết rằng\Nngươi đang đối mặt với cái chết à?
+Dialogue: 0,2:31:37.47,2:31:41.34,Default,,0,0,0,,Đây là thời của ta.
+Dialogue: 0,2:31:51.75,2:31:52.70,Default,,0,0,0,,Gandalf!
+Dialogue: 0,2:32:01.99,2:32:05.07,Default,,0,0,0,,Ngươi đã thất bại.
+Dialogue: 0,2:32:06.27,2:32:10.95,Default,,0,0,0,,Thế giới loài Người cũng sẽ sụp đổ.
+Dialogue: 0,2:33:08.34,2:33:09.39,Default,,0,0,0,,Can đảm nào, Merry.
+Dialogue: 0,2:33:10.00,2:33:12.00,Default,,0,0,0,,Hãy can đảm lên vì bạn bè.
+Dialogue: 0,2:33:15.92,2:33:18.92,Default,,0,0,0,,Lập hàng ngũ!\NTheo hàng ngũ, đám giòi bọ!
+Dialogue: 0,2:33:19.08,2:33:22.13,Default,,0,0,0,,Giáo lên phía trước.\NCung thủ ra phía sau.
+Dialogue: 0,2:33:30.49,2:33:33.54,Default,,0,0,0,,Eomer, đưa quân Eored\Nxuống theo sườn trái.
+Dialogue: 0,2:33:33.91,2:33:34.93,Default,,0,0,0,,{\i1}Sườn trái sẵn sàng.{\i0}
+Dialogue: 0,2:33:35.45,2:33:37.80,Default,,0,0,0,,Gamling, theo cờ trận của nhà vua\Nthẳng xuống trung tâm.
+Dialogue: 0,2:33:38.05,2:33:41.70,Default,,0,0,0,,Grimbold, đưa đại đội sang phải\Nsau khi đi qua tường thành.
+Dialogue: 0,2:33:42.17,2:33:44.47,Default,,0,0,0,,Tiến lên, và đừng sợ bóng tối!
+Dialogue: 0,2:33:44.99,2:33:48.49,Default,,0,0,0,,Vùng lên, những kị binh của Theoden!
+Dialogue: 0,2:33:49.01,2:33:53.95,Default,,0,0,0,,Giáo có thể sẽ gãy,\Nkhiên có thể sẽ vỡ...
+Dialogue: 0,2:33:54.47,2:33:57.82,Default,,0,0,0,,một ngày chiến đấu, một ngày đỏ máu...
+Dialogue: 0,2:33:58.29,2:34:01.51,Default,,0,0,0,,và mặt trời sẽ mọc!
+Dialogue: 0,2:34:09.70,2:34:14.00,Default,,0,0,0,,Dù có chuyện gì, hãy ở bên ta.\NTa sẽ lo cho cậu.
+Dialogue: 0,2:34:20.38,2:34:22.33,Default,,0,0,0,,Tiến lên!
+Dialogue: 0,2:34:23.93,2:34:25.71,Default,,0,0,0,,Tiến lên!
+Dialogue: 0,2:34:26.64,2:34:29.34,Default,,0,0,0,,Tiến lên! Vì sự diệt vong...
+Dialogue: 0,2:34:29.66,2:34:32.71,Default,,0,0,0,,và ngày tàn của thế giới!
+Dialogue: 0,2:34:34.25,2:34:38.00,Default,,0,0,0,,- Quyết tử!\N- Quyết tử!
+Dialogue: 0,2:34:39.26,2:34:42.21,Default,,0,0,0,,- Quyết tử!\N- Quyết tử!
+Dialogue: 0,2:34:43.10,2:34:44.86,Default,,0,0,0,,- Quyết tử!\N- Quyết tử!
+Dialogue: 0,2:34:45.36,2:34:49.46,Default,,0,0,0,,- Quyết tử!\N- Quyết tử!
+Dialogue: 0,2:34:53.75,2:34:56.15,Default,,0,0,0,,Vì Eorlingas!
+Dialogue: 0,2:35:39.36,2:35:40.61,Default,,0,0,0,,Bắn!
+Dialogue: 0,2:35:44.89,2:35:46.64,Default,,0,0,0,,Quyết tử!
+Dialogue: 0,2:35:50.26,2:35:51.91,Default,,0,0,0,,Xung phong!
+Dialogue: 0,2:35:52.03,2:35:53.08,Default,,0,0,0,,Bắn tự do!
+Dialogue: 0,2:36:51.10,2:36:53.85,Default,,0,0,0,,Hãy châm lửa vào da thịt ta.
+Dialogue: 0,2:37:11.87,2:37:13.45,Default,,0,0,0,,Ngưng ngay hành động điên khùng kia!
+Dialogue: 0,2:37:17.94,2:37:22.10,Default,,0,0,0,,Ngươi có thể giành chiến thắng\Ntrong trận chiến hôm nay...
+Dialogue: 0,2:37:22.91,2:37:26.30,Default,,0,0,0,,nhưng với sức mạnh đang trỗi dậy\Ntừ phương Đông kia...
+Dialogue: 0,2:37:26.81,2:37:29.56,Default,,0,0,0,,ngươi không thể chiến thắng.
+Dialogue: 0,2:37:59.24,2:38:00.84,Default,,0,0,0,,Không!
+Dialogue: 0,2:38:00.97,2:38:03.71,Default,,0,0,0,,Không được mang con ta đi!
+Dialogue: 0,2:38:03.86,2:38:05.88,Default,,0,0,0,,Không! Không!
+Dialogue: 0,2:38:17.17,2:38:18.52,Default,,0,0,0,,Faramir.
+Dialogue: 0,2:38:32.39,2:38:35.94,Default,,0,0,0,,Denethor, con của Ecthelion đã chết.
+Dialogue: 0,2:39:04.04,2:39:06.04,Default,,0,0,0,,Đẩy chúng ra bờ sông!
+Dialogue: 0,2:39:08.47,2:39:10.67,Default,,0,0,0,,Bảo vệ thành phố trước đã!
+Dialogue: 0,2:39:50.54,2:39:52.19,Default,,0,0,0,,Lập lại hàng ngũ!
+Dialogue: 0,2:39:53.46,2:39:55.26,Default,,0,0,0,,Lập lại hàng ngũ!
+Dialogue: 0,2:40:02.53,2:40:05.18,Default,,0,0,0,,Thổi kèn xung phong! Tiến lên!
+Dialogue: 0,2:40:05.76,2:40:07.86,Default,,0,0,0,,Tấn công!
+Dialogue: 0,2:41:26.78,2:41:27.98,Default,,0,0,0,,{\i1}Hạ hắn đi!{\i0}
+Dialogue: 0,2:41:55.03,2:41:57.38,Default,,0,0,0,,Nắm lấy dây cương! Kéo về bên trái!
+Dialogue: 0,2:41:59.88,2:42:00.93,Default,,0,0,0,,Bên trái!
+Dialogue: 0,2:42:18.75,2:42:20.15,Default,,0,0,0,,Nhắm vào đầu chúng!
+Dialogue: 0,2:42:26.26,2:42:29.46,Default,,0,0,0,,Hạ chúng! Hạ chúng ngay!
+Dialogue: 0,2:42:35.28,2:42:36.18,Default,,0,0,0,,Merry!
+Dialogue: 0,2:42:43.46,2:42:44.81,Default,,0,0,0,,Merry!
+Dialogue: 0,2:43:58.33,2:44:00.18,Default,,0,0,0,,Không ngờ mọi việc lại kết thúc\Nnhư thế này.
+Dialogue: 0,2:44:01.61,2:44:03.01,Default,,0,0,0,,Kết thúc?
+Dialogue: 0,2:44:04.45,2:44:06.58,Default,,0,0,0,,Không, hành trình chưa chấm dứt ở đây.
+Dialogue: 0,2:44:08.95,2:44:11.76,Default,,0,0,0,,Cái chết chỉ là một con đường khác...
+Dialogue: 0,2:44:12.75,2:44:14.67,Default,,0,0,0,,mà ai cũng phải đi qua.
+Dialogue: 0,2:44:15.72,2:44:19.14,Default,,0,0,0,,Bức màn xám của thế giới này\Nđược vén lên...
+Dialogue: 0,2:44:19.39,2:44:22.69,Default,,0,0,0,,và mọi thứ biến thành màu bạc\Ntrong như thủy tinh.
+Dialogue: 0,2:44:25.12,2:44:26.82,Default,,0,0,0,,Và rồi cậu sẽ thấy.
+Dialogue: 0,2:44:28.81,2:44:31.22,Default,,0,0,0,,Thấy gì, Gandalf?
+Dialogue: 0,2:44:32.49,2:44:33.87,Default,,0,0,0,,Thấy gì?
+Dialogue: 0,2:44:35.05,2:44:36.98,Default,,0,0,0,,Những bờ cát trắng...
+Dialogue: 0,2:44:38.94,2:44:41.09,Default,,0,0,0,,và xa hơn nữa.
+Dialogue: 0,2:44:42.74,2:44:44.54,Default,,0,0,0,,Một vùng quê xanh tươi...
+Dialogue: 0,2:44:45.38,2:44:48.00,Default,,0,0,0,,dưới ánh mặt trời rực rỡ.
+Dialogue: 0,2:44:52.28,2:44:53.93,Default,,0,0,0,,Chà...
+Dialogue: 0,2:44:54.05,2:44:55.55,Default,,0,0,0,,cũng không tệ lắm nhỉ.
+Dialogue: 0,2:44:55.64,2:44:56.87,Default,,0,0,0,,Ừ.
+Dialogue: 0,2:44:59.27,2:45:00.82,Default,,0,0,0,,Không tệ chút nào.
+Dialogue: 0,2:45:17.20,2:45:20.45,Default,,0,0,0,,Tập trung theo ta! Theo ta!
+Dialogue: 0,2:45:41.55,2:45:45.75,Default,,0,0,0,,Ăn thịt hắn cho ta.
+Dialogue: 0,2:45:50.36,2:45:52.41,Default,,0,0,0,,Ta sẽ giết mi nếu mi đụng đến ông ấy.
+Dialogue: 0,2:45:52.51,2:45:57.80,Default,,0,0,0,,Đừng đứng giữa Nazgul\Nvà con mồi của nó.
+Dialogue: 0,2:47:06.99,2:47:10.24,Default,,0,0,0,,Lúc nào cũng đến trễ,\Nlũ hải tặc khốn khiếp!
+Dialogue: 0,2:47:10.62,2:47:12.34,Default,,0,0,0,,Ở đây cần thêm đao kiếm đấy.
+Dialogue: 0,2:47:12.47,2:47:16.13,Default,,0,0,0,,Nhanh lên! Đồ chuột biển!\NXuống tàu mau!
+Dialogue: 0,2:47:31.42,2:47:33.79,Default,,0,0,0,,Có đủ cho cả hai ta mà.
+Dialogue: 0,2:47:33.89,2:47:36.14,Default,,0,0,0,,Có lẽ người Lùn giỏi nhất sẽ thắng.
+Dialogue: 0,2:47:53.60,2:47:55.74,Default,,0,0,0,,Đồ ngu ngốc.
+Dialogue: 0,2:47:56.00,2:47:59.27,Default,,0,0,0,,Không gã đàn ông nào\Ncó thể giết được ta.
+Dialogue: 0,2:48:01.78,2:48:04.83,Default,,0,0,0,,Chết đi.
+Dialogue: 0,2:48:15.60,2:48:17.55,Default,,0,0,0,,Ta không phải đàn ông.
+Dialogue: 0,2:48:34.16,2:48:37.51,Default,,0,0,0,,- 15! 16!\N- 17!
+Dialogue: 0,2:48:45.46,2:48:47.29,Default,,0,0,0,,Merry!
+Dialogue: 0,2:49:29.38,2:49:31.10,Default,,0,0,0,,Legolas!
+Dialogue: 0,2:49:53.57,2:49:55.84,Default,,0,0,0,,33, 34.
+Dialogue: 0,2:50:43.03,2:50:45.31,Default,,0,0,0,,Con đó cũng chỉ tính là một thôi!
+Dialogue: 0,2:50:45.53,2:50:47.64,Default,,0,0,0,,Đi thôi! Đi thôi!
+Dialogue: 0,2:51:31.45,2:51:34.17,Default,,0,0,0,,Ta biết gương mặt này...
+Dialogue: 0,2:51:36.07,2:51:37.91,Default,,0,0,0,,Eowyn.
+Dialogue: 0,2:51:40.58,2:51:42.86,Default,,0,0,0,,Mắt ta đã tối sầm.
+Dialogue: 0,2:51:44.05,2:51:45.43,Default,,0,0,0,,Không.
+Dialogue: 0,2:51:46.30,2:51:47.92,Default,,0,0,0,,Không.
+Dialogue: 0,2:51:49.99,2:51:52.40,Default,,0,0,0,,Cháu sẽ cứu ngài.
+Dialogue: 0,2:51:53.83,2:51:56.08,Default,,0,0,0,,Cháu đã cứu rồi.
+Dialogue: 0,2:51:59.85,2:52:01.41,Default,,0,0,0,,Eowyn...
+Dialogue: 0,2:52:02.93,2:52:05.37,Default,,0,0,0,,thân xác ta đã nát.
+Dialogue: 0,2:52:10.48,2:52:12.88,Default,,0,0,0,,Cháu phải để ta ra đi.
+Dialogue: 0,2:52:18.85,2:52:21.34,Default,,0,0,0,,Ta sẽ về với tổ tiên...
+Dialogue: 0,2:52:22.90,2:52:25.63,Default,,0,0,0,,với những chiến binh anh dũng.
+Dialogue: 0,2:52:26.17,2:52:29.41,Default,,0,0,0,,Và giờ ta sẽ không cảm thấy\Nhổ thẹn với họ nữa.
+Dialogue: 0,2:52:46.12,2:52:47.70,Default,,0,0,0,,Eowyn.
+Dialogue: 0,2:53:34.23,2:53:36.63,Default,,0,0,0,,Hãy giải thoát cho bọn ta.
+Dialogue: 0,2:53:38.59,2:53:40.29,Default,,0,0,0,,Không nên.
+Dialogue: 0,2:53:40.52,2:53:44.09,Default,,0,0,0,,Họ tuy chết nhưng vẫn còn dùng được.
+Dialogue: 0,2:53:44.27,2:53:46.44,Default,,0,0,0,,Ngươi đã hứa rồi.
+Dialogue: 0,2:53:48.21,2:53:50.31,Default,,0,0,0,,Các ngươi đã hoàn thành lời thề.
+Dialogue: 0,2:53:51.62,2:53:53.02,Default,,0,0,0,,Đi đi.
+Dialogue: 0,2:53:53.78,2:53:55.55,Default,,0,0,0,,Hãy yên nghỉ.
+Dialogue: 0,2:54:38.92,2:54:40.78,Default,,0,0,0,,Merry.
+Dialogue: 0,2:54:41.43,2:54:44.63,Default,,0,0,0,,Không!
+Dialogue: 0,2:54:48.31,2:54:50.96,Default,,0,0,0,,Không!
+Dialogue: 0,2:55:14.72,2:55:18.49,Default,,0,0,0,,{\i1}Anh thở dài...{\i0}
+Dialogue: 0,2:55:18.77,2:55:22.38,Default,,0,0,0,,{\i1}và quay đi.{\i0}
+Dialogue: 0,2:55:22.67,2:55:26.54,Default,,0,0,0,,{\i1}Với một trái tim sâu thẳm.{\i0}
+Dialogue: 0,2:55:26.74,2:55:31.44,Default,,0,0,0,,{\i1}Không còn gì để nói.{\i0}
+Dialogue: 0,2:55:31.76,2:55:35.14,Default,,0,0,0,,{\i1}Anh sẽ thấy rằng.{\i0}
+Dialogue: 0,2:55:35.34,2:55:41.34,Default,,0,0,0,,{\i1}Thế giới đã đổi thay mãi mãi.{\i0}
+Dialogue: 0,2:56:08.53,2:56:14.53,Default,,0,0,0,,{\i1}Cây xanh tươi đã trở nên vàng úa.{\i0}
+Dialogue: 0,2:56:20.20,2:56:24.82,Default,,0,0,0,,{\i1}Mặt trời kia cũng đang dần nhạt nhóa.{\i0}
+Dialogue: 0,2:56:25.12,2:56:31.12,Default,,0,0,0,,{\i1}Ước gì em có thể ôm anh chặt hơn nữa.{\i0}
+Dialogue: 0,2:56:38.03,2:56:39.25,Default,,0,0,0,,Merry!
+Dialogue: 0,2:56:40.85,2:56:42.87,Default,,0,0,0,,Merry!
+Dialogue: 0,2:56:54.30,2:56:56.05,Default,,0,0,0,,Merry.
+Dialogue: 0,2:56:58.59,2:56:59.79,Default,,0,0,0,,Merry, tôi đây.
+Dialogue: 0,2:57:02.45,2:57:03.95,Default,,0,0,0,,Pippin đây mà.
+Dialogue: 0,2:57:06.52,2:57:08.71,Default,,0,0,0,,Tôi biết cậu sẽ tìm ra tôi.
+Dialogue: 0,2:57:08.98,2:57:10.13,Default,,0,0,0,,Phải.
+Dialogue: 0,2:57:12.61,2:57:14.60,Default,,0,0,0,,Cậu có bỏ tôi đi nữa không?
+Dialogue: 0,2:57:15.23,2:57:16.87,Default,,0,0,0,,Không đâu, Merry.
+Dialogue: 0,2:57:18.24,2:57:20.39,Default,,0,0,0,,Tôi sẽ trông nom cậu.
+Dialogue: 0,2:58:04.18,2:58:05.83,Default,,0,0,0,,Bỏ tay ra!
+Dialogue: 0,2:58:06.05,2:58:09.11,Default,,0,0,0,,Cái áo lụa đó là của ta.
+Dialogue: 0,2:58:09.49,2:58:13.49,Default,,0,0,0,,Phải giao nó cho Con Mắt\Ncùng với mọi thứ khác.
+Dialogue: 0,2:58:15.18,2:58:18.93,Default,,0,0,0,,Ta không nhận lệnh từ\Nbọn Morgul hôi thối!
+Dialogue: 0,2:58:19.87,2:58:24.82,Default,,0,0,0,,Ngươi mà động vào\Nthì ta sẽ rạch bụng mi.
+Dialogue: 0,2:58:45.52,2:58:47.37,Default,,0,0,0,,Tên khốn này định đâm tao!
+Dialogue: 0,2:58:47.50,2:58:49.36,Default,,0,0,0,,Giết hắn!
+Dialogue: 0,3:00:32.60,3:00:34.58,Default,,0,0,0,,Cái này cho Frodo!
+Dialogue: 0,3:00:34.94,3:00:37.08,Default,,0,0,0,,Và cho vùng Shire!
+Dialogue: 0,3:00:40.57,3:00:42.79,Default,,0,0,0,,Và cho Gaffer của ta!
+Dialogue: 0,3:01:12.32,3:01:15.57,Default,,0,0,0,,Đừng kêu la nữa, đồ chuột đồng!
+Dialogue: 0,3:01:16.81,3:01:21.35,Default,,0,0,0,,Ta sẽ cắt tiết mi như một con lợn!
+Dialogue: 0,3:01:28.80,3:01:30.48,Default,,0,0,0,,Nhưng ta đâm ngươi trước.
+Dialogue: 0,3:01:30.67,3:01:32.17,Default,,0,0,0,,Sam!
+Dialogue: 0,3:01:37.29,3:01:39.29,Default,,0,0,0,,Sam, tôi xin lỗi!
+Dialogue: 0,3:01:39.43,3:01:41.48,Default,,0,0,0,,Xin lỗi vì mọi thứ.
+Dialogue: 0,3:01:41.78,3:01:45.57,Default,,0,0,0,,- Phải đưa cậu ra khỏi đây đã.\N- Quá muộn rồi. Thế là hết.
+Dialogue: 0,3:01:45.84,3:01:48.66,Default,,0,0,0,,Chúng đã lấy được rồi, Sam!
+Dialogue: 0,3:01:49.55,3:01:51.01,Default,,0,0,0,,Chúng đã lấy chiếc Nhẫn!
+Dialogue: 0,3:01:51.79,3:01:54.42,Default,,0,0,0,,Xin lỗi... nhưng chưa đâu.
+Dialogue: 0,3:02:06.49,3:02:08.62,Default,,0,0,0,,Tôi tưởng tôi đã mất cậu.
+Dialogue: 0,3:02:09.10,3:02:10.73,Default,,0,0,0,,Nên tôi đã lấy nó.
+Dialogue: 0,3:02:11.96,3:02:13.96,Default,,0,0,0,,Chỉ để giữ nó an toàn thôi.
+Dialogue: 0,3:02:15.30,3:02:16.98,Default,,0,0,0,,Đưa đây cho tôi.
+Dialogue: 0,3:02:20.56,3:02:22.72,Default,,0,0,0,,Đưa chiếc Nhẫn đây, Sam.
+Dialogue: 0,3:02:27.45,3:02:28.68,Default,,0,0,0,,Sam.
+Dialogue: 0,3:02:30.31,3:02:32.20,Default,,0,0,0,,Đưa chiếc Nhẫn đây.
+Dialogue: 0,3:02:52.99,3:02:54.24,Default,,0,0,0,,Cậu phải hiểu.
+Dialogue: 0,3:02:57.79,3:02:59.56,Default,,0,0,0,,Chiếc Nhẫn là trách nhiệm của tôi.
+Dialogue: 0,3:03:00.81,3:03:02.88,Default,,0,0,0,,Nó sẽ hủy diệt cậu, Sam à.
+Dialogue: 0,3:03:06.13,3:03:08.03,Default,,0,0,0,,Nào, cậu Frodo.
+Dialogue: 0,3:03:09.41,3:03:11.00,Default,,0,0,0,,Phải tìm quần áo cho cậu.
+Dialogue: 0,3:03:11.24,3:03:14.15,Default,,0,0,0,,Đâu thể để cậu trần như nhộng\Nnhư thế này đến Mordor được.
+Dialogue: 0,3:03:36.01,3:03:38.13,Default,,0,0,0,,Chúng ta đã làm được, cậu Frodo.
+Dialogue: 0,3:03:38.72,3:03:40.92,Default,,0,0,0,,Ta đã đến Mordor.
+Dialogue: 0,3:03:42.35,3:03:43.94,Default,,0,0,0,,Bọn Orc đông quá.
+Dialogue: 0,3:03:44.98,3:03:47.45,Default,,0,0,0,,Ta không thể đi qua\Nmà không bị phát hiện.
+Dialogue: 0,3:03:52.68,3:03:55.89,Default,,0,0,0,,Hắn đó, Con Mắt.
+Dialogue: 0,3:04:03.75,3:04:06.26,Default,,0,0,0,,Ta phải đến đó, cậu Frodo.
+Dialogue: 0,3:04:06.83,3:04:08.79,Default,,0,0,0,,Không có gì phải sợ.
+Dialogue: 0,3:04:11.88,3:04:16.11,Default,,0,0,0,,Đi thôi. Bắt đầu xuống đồi đi nào.
+Dialogue: 0,3:04:25.47,3:04:28.75,Default,,0,0,0,,Ta không còn thấy Frodo được nữa.
+Dialogue: 0,3:04:30.17,3:04:32.92,Default,,0,0,0,,Bóng tối càng lúc càng dày đặc.
+Dialogue: 0,3:04:33.09,3:04:35.29,Default,,0,0,0,,Nếu Sauron có chiếc nhẫn,\Nchúng ta đã biết.
+Dialogue: 0,3:04:35.39,3:04:37.72,Default,,0,0,0,,Chỉ còn là vấn đề thời gian.
+Dialogue: 0,3:04:39.29,3:04:41.63,Default,,0,0,0,,Đúng là hắn đã thua...
+Dialogue: 0,3:04:42.78,3:04:47.08,Default,,0,0,0,,nhưng phía sau tường thành Mordor,\Nkẻ thù đang ổn định lại lực lượng.
+Dialogue: 0,3:04:47.42,3:04:49.12,Default,,0,0,0,,Cứ để hắn ở đó.
+Dialogue: 0,3:04:49.20,3:04:51.96,Default,,0,0,0,,Mặc kệ hắn mục rữa ở đó.\NQuan tâm đến hắn làm gì?
+Dialogue: 0,3:04:52.14,3:04:57.26,Default,,0,0,0,,Bởi vì giờ đây có 10.000 tên Orc\Ngiữa Frodo và đỉnh núi Diệt Vong.
+Dialogue: 0,3:05:04.16,3:05:06.61,Default,,0,0,0,,Ta đã đẩy cậu ấy đến cái chết.
+Dialogue: 0,3:05:08.22,3:05:09.49,Default,,0,0,0,,Không.
+Dialogue: 0,3:05:10.05,3:05:12.37,Default,,0,0,0,,Vẫn còn hy vọng cho Frodo.
+Dialogue: 0,3:05:12.81,3:05:16.77,Default,,0,0,0,,Cậu ấy cần thời gian, cần đi qua\Nđồng bằng Gorgoroth an toàn.
+Dialogue: 0,3:05:18.02,3:05:20.49,Default,,0,0,0,,- Ta có thể cho cậu ấy điều đó.\N- Bằng cách nào?
+Dialogue: 0,3:05:20.94,3:05:23.54,Default,,0,0,0,,Thu hút quân đội của Sauron.
+Dialogue: 0,3:05:23.81,3:05:25.86,Default,,0,0,0,,Khỏi vùng đất của hắn.
+Dialogue: 0,3:05:26.16,3:05:29.11,Default,,0,0,0,,Sau đó ta tập trung lực lượng và\Ntấn công phía Cổng Đen.
+Dialogue: 0,3:05:29.81,3:05:32.74,Default,,0,0,0,,Chúng ta không thể chiến thắng\Nchỉ bằng vũ lực.
+Dialogue: 0,3:05:33.04,3:05:34.55,Default,,0,0,0,,Không phải vì chúng ta.
+Dialogue: 0,3:05:34.81,3:05:40.19,Default,,0,0,0,,Nhưng ta có thể tạo cơ hội cho Frodo\Nnếu giữ Con Mắt của Sauron hướng về ta.
+Dialogue: 0,3:05:42.21,3:05:45.84,Default,,0,0,0,,Khiến hắn không chú ý đến\Nnhững thứ khác đang di chuyển.
+Dialogue: 0,3:05:46.75,3:05:47.91,Default,,0,0,0,,Kế nghi binh.
+Dialogue: 0,3:05:48.10,3:05:49.85,Default,,0,0,0,,Gần như sẽ chết.
+Dialogue: 0,3:05:50.03,3:05:52.73,Default,,0,0,0,,Cơ hội thành công rất ít.
+Dialogue: 0,3:05:53.68,3:05:55.24,Default,,0,0,0,,Chúng ta còn chờ gì nữa đây?
+Dialogue: 0,3:05:55.87,3:05:58.20,Default,,0,0,0,,Sauron sẽ nghi ngờ đó là bẫy.
+Dialogue: 0,3:05:59.10,3:06:01.06,Default,,0,0,0,,Hắn sẽ không cắn câu đâu.
+Dialogue: 0,3:06:02.65,3:06:05.04,Default,,0,0,0,,Tôi nghĩ hắn sẽ cắn câu.
+Dialogue: 0,3:06:39.45,3:06:42.05,Default,,0,0,0,,Ngươi đã từng săn đuổi ta từ lâu.
+Dialogue: 0,3:06:42.37,3:06:44.27,Default,,0,0,0,,Ta đã từng tránh né ngươi.
+Dialogue: 0,3:06:45.97,3:06:47.69,Default,,0,0,0,,Bây giờ thì không.
+Dialogue: 0,3:06:49.41,3:06:51.79,Default,,0,0,0,,Hãy nhìn thanh kiếm của Elendil.
+Dialogue: 0,3:07:36.38,3:07:38.79,Default,,0,0,0,,Thành phố đã rơi vào yên lặng.
+Dialogue: 0,3:07:40.55,3:07:43.49,Default,,0,0,0,,Mặt trời không còn sưởi ấm nữa.
+Dialogue: 0,3:07:44.41,3:07:46.05,Default,,0,0,0,,Không khí giá lạnh.
+Dialogue: 0,3:07:49.10,3:07:52.04,Default,,0,0,0,,Đấy chỉ là hơi ẩm\Ntrước cơn mưa mùa xuân thôi.
+Dialogue: 0,3:07:58.54,3:08:01.62,Default,,0,0,0,,Tôi không cho rằng\Nbóng tối này sẽ kéo dài.
+Dialogue: 0,3:08:30.34,3:08:31.89,Default,,0,0,0,,Nhìn kìa, bọn Orc!
+Dialogue: 0,3:08:32.43,3:08:34.41,Default,,0,0,0,,Chúng đang di chuyển.
+Dialogue: 0,3:08:35.54,3:08:37.53,Default,,0,0,0,,Thấy chưa, cậu Frodo...
+Dialogue: 0,3:08:37.80,3:08:40.03,Default,,0,0,0,,cuối cùng cũng gặp may.
+Dialogue: 0,3:08:40.30,3:08:42.05,Default,,0,0,0,,{\i1}Nhanh nào, bọn ốc sên!{\i0}
+Dialogue: 0,3:08:43.37,3:08:46.65,Default,,0,0,0,,{\i1}Đi nào! Nhanh lên!{\i0}
+Dialogue: 0,3:08:54.69,3:08:57.79,Default,,0,0,0,,{\i1}Nhanh lên, bọn cặn bã.{\i0}
+Dialogue: 0,3:08:57.93,3:09:02.29,Default,,0,0,0,,{\i1}Tao sẽ quất tan xương bọn bay.{\i0}
+Dialogue: 0,3:09:05.32,3:09:06.92,Default,,0,0,0,,{\i1}Nhanh nào!{\i0}
+Dialogue: 0,3:09:07.16,3:09:09.30,Default,,0,0,0,,{\i1}Tao bảo sao hả?{\i0}
+Dialogue: 0,3:09:09.39,3:09:11.59,Default,,0,0,0,,{\i1}Không ồn ào.{\i0}
+Dialogue: 0,3:09:12.67,3:09:14.42,Default,,0,0,0,,{\i1}Đi ngay.{\i0}
+Dialogue: 0,3:09:16.32,3:09:17.76,Default,,0,0,0,,Đứng dậy.
+Dialogue: 0,3:09:18.20,3:09:20.77,Default,,0,0,0,,Nhanh lên, bọn ốc sên!
+Dialogue: 0,3:09:21.01,3:09:24.51,Default,,0,0,0,,Hai đứa bay đi thẳng lên hàng đầu!
+Dialogue: 0,3:09:24.84,3:09:29.92,Default,,0,0,0,,Đi nào! Đi đi!
+Dialogue: 0,3:09:42.70,3:09:46.35,Default,,0,0,0,,Tiến ra cổng, bọn lười! Ra cổng!
+Dialogue: 0,3:09:55.94,3:09:59.39,Default,,0,0,0,,Không biết rằng ta đang chiến tranh hả?
+Dialogue: 0,3:10:21.85,3:10:24.61,Default,,0,0,0,,Toàn quân, dừng lại!
+Dialogue: 0,3:10:28.53,3:10:31.80,Default,,0,0,0,,Duyệt quân!
+Dialogue: 0,3:10:32.07,3:10:34.47,Default,,0,0,0,,Sam, giúp tôi.
+Dialogue: 0,3:10:34.73,3:10:36.49,Default,,0,0,0,,Cậu Frodo!
+Dialogue: 0,3:10:39.26,3:10:41.72,Default,,0,0,0,,Đứng lên, cậu Frodo. Đứng lên nào!
+Dialogue: 0,3:10:41.98,3:10:43.75,Default,,0,0,0,,Nặng quá.
+Dialogue: 0,3:10:52.92,3:10:54.08,Default,,0,0,0,,Ôi không.
+Dialogue: 0,3:10:59.75,3:11:01.67,Default,,0,0,0,,Phải làm gì đây? Phải làm gì đây?
+Dialogue: 0,3:11:04.81,3:11:05.92,Default,,0,0,0,,- Đánh tôi đi.\N- Cái gì?
+Dialogue: 0,3:11:06.11,3:11:08.10,Default,,0,0,0,,Đánh tôi, Sam. Bắt đầu đánh đi.
+Dialogue: 0,3:11:08.35,3:11:09.87,Default,,0,0,0,,Đừng đụng vào tao!
+Dialogue: 0,3:11:10.60,3:11:12.84,Default,,0,0,0,,Không ai được đẩy tao, thằng khốn.
+Dialogue: 0,3:11:21.54,3:11:23.53,Default,,0,0,0,,Đừng đụng vào tao!
+Dialogue: 0,3:11:24.52,3:11:26.37,Default,,0,0,0,,Dừng lại nào! Dừng lại nào!
+Dialogue: 0,3:11:29.00,3:11:33.45,Default,,0,0,0,,Ta sẽ moi ruột ngươi nếu ngươi\Nkhông ngăn bọn chúng lại!
+Dialogue: 0,3:11:33.64,3:11:35.98,Default,,0,0,0,,Đi nào Sam. Đi ngay!
+Dialogue: 0,3:11:45.00,3:11:46.49,Default,,0,0,0,,Đi nào, bọn cặn bã!
+Dialogue: 0,3:11:46.72,3:11:48.56,Default,,0,0,0,,Trở lại hàng ngũ!
+Dialogue: 0,3:11:49.12,3:11:50.86,Default,,0,0,0,,{\i1}Bọn sâu bọ!{\i0}
+Dialogue: 0,3:11:51.57,3:11:54.48,Default,,0,0,0,,{\i1}Trở lại hàng ngũ, bọn khốn!{\i0}
+Dialogue: 0,3:11:56.94,3:12:00.33,Default,,0,0,0,,{\i1}Bọn khốn. Đi nào! Đi nào!{\i0}
+Dialogue: 0,3:12:49.18,3:12:51.23,Default,,0,0,0,,Tôi không thể...
+Dialogue: 0,3:12:51.47,3:12:55.09,Default,,0,0,0,,Tôi không thể... Tôi không thể\Ngiữ chiếc Nhẫn nữa, Sam.
+Dialogue: 0,3:12:55.33,3:12:56.52,Default,,0,0,0,,Nó... Nó...
+Dialogue: 0,3:12:56.74,3:12:59.22,Default,,0,0,0,,Nó quả là một gánh nặng.
+Dialogue: 0,3:13:00.18,3:13:01.20,Default,,0,0,0,,Nó...
+Dialogue: 0,3:13:01.38,3:13:03.29,Default,,0,0,0,,là một gánh nặng.
+Dialogue: 0,3:13:08.31,3:13:10.71,Default,,0,0,0,,Chúng ta sẽ đi lối này. Đi thẳng.
+Dialogue: 0,3:13:12.17,3:13:15.27,Default,,0,0,0,,Chúng ta sẽ bỏ lại những gì\Nkhông cần thiết.
+Dialogue: 0,3:13:30.47,3:13:32.32,Default,,0,0,0,,Cậu Frodo.
+Dialogue: 0,3:13:33.86,3:13:35.34,Default,,0,0,0,,Nhìn kìa.
+Dialogue: 0,3:13:37.87,3:13:39.74,Default,,0,0,0,,Ánh sáng...
+Dialogue: 0,3:13:40.16,3:13:41.66,Default,,0,0,0,,lung linh trên cao...
+Dialogue: 0,3:13:41.99,3:13:44.36,Default,,0,0,0,,bóng tối không thể vươn tới.
+Dialogue: 0,3:14:35.48,3:14:37.07,Default,,0,0,0,,Lấy của tôi này.
+Dialogue: 0,3:14:37.61,3:14:39.67,Default,,0,0,0,,Còn vài giọt trong đó.
+Dialogue: 0,3:14:54.92,3:14:57.45,Default,,0,0,0,,Vậy là không còn gì cho chuyến trở về.
+Dialogue: 0,3:14:58.47,3:15:01.52,Default,,0,0,0,,Tôi không nghĩ chúng ta\Ncòn chuyến trở về, cậu Frodo.
+Dialogue: 0,3:15:54.51,3:15:56.61,Default,,0,0,0,,Frodo, nằm xuống!
+Dialogue: 0,3:15:58.42,3:16:00.29,Default,,0,0,0,,Núp đi!
+Dialogue: 0,3:16:10.51,3:16:12.47,Default,,0,0,0,,Frodo!
+Dialogue: 0,3:16:18.33,3:16:19.75,Default,,0,0,0,,Bọn chúng đâu rồi?
+Dialogue: 0,3:16:55.87,3:16:58.80,Default,,0,0,0,,Hãy gọi Chúa tể Bóng tối ra đây!
+Dialogue: 0,3:16:59.83,3:17:02.57,Default,,0,0,0,,Để công lý được thực thi với hắn!
+Dialogue: 0,3:17:46.13,3:17:49.97,Default,,0,0,0,,Chủ của ta, Sauron vĩ đại,\Nchào mừng bọn ngươi.
+Dialogue: 0,3:17:55.98,3:17:59.54,Default,,0,0,0,,Ai trong đám bọn ngươi\Ncó đủ quyền đàm phán với ta?
+Dialogue: 0,3:18:00.05,3:18:03.07,Default,,0,0,0,,Ta không đến để đàm phán với Sauron...
+Dialogue: 0,3:18:03.33,3:18:05.78,Default,,0,0,0,,kẻ xảo trá và đáng nguyền rủa.
+Dialogue: 0,3:18:05.89,3:18:09.73,Default,,0,0,0,,Nói với chủ ngươi rằng:\NPhải giải tán quân đội của Mordor.
+Dialogue: 0,3:18:10.00,3:18:12.70,Default,,0,0,0,,Hắn phải rời bỏ vùng đất này,\Nkhông bao giờ được quay lại.
+Dialogue: 0,3:18:13.76,3:18:16.23,Default,,0,0,0,,Lão Greybeard.
+Dialogue: 0,3:18:17.67,3:18:21.87,Default,,0,0,0,,Ta có một vật cho nhà ngươi đây.
+Dialogue: 0,3:18:27.06,3:18:28.33,Default,,0,0,0,,Frodo.
+Dialogue: 0,3:18:31.23,3:18:32.63,Default,,0,0,0,,Frodo.
+Dialogue: 0,3:18:33.41,3:18:34.83,Default,,0,0,0,,- Im lặng.\N- Không!
+Dialogue: 0,3:18:35.50,3:18:37.00,Default,,0,0,0,,Im lặng!
+Dialogue: 0,3:18:38.83,3:18:42.46,Default,,0,0,0,,Ta thấy tên Hobbit đó\Nrât thân thương với bọn ngươi.
+Dialogue: 0,3:18:43.52,3:18:47.53,Default,,0,0,0,,Hãy biết rằng hắn đang phải\Nchịu sự tra tấn của bọn ta.
+Dialogue: 0,3:18:53.06,3:18:58.72,Default,,0,0,0,,Ai nghĩ rằng một kẻ nhỏ con\Ncó thể chịu được nhiều đau đớn vậy?
+Dialogue: 0,3:19:01.56,3:19:03.63,Default,,0,0,0,,Và hắn đã chịu đựng, Gandalf.
+Dialogue: 0,3:19:03.86,3:19:05.56,Default,,0,0,0,,Hắn đã chịu đựng.
+Dialogue: 0,3:19:12.56,3:19:14.07,Default,,0,0,0,,Và ai đây?
+Dialogue: 0,3:19:14.23,3:19:16.30,Default,,0,0,0,,Dòng dõi của Isildur à?
+Dialogue: 0,3:19:16.52,3:19:19.44,Default,,0,0,0,,Phải cần hơn một thanh kiếm gãy\Nmới đủ tư cách làm vua đấy.
+Dialogue: 0,3:19:24.29,3:19:26.79,Default,,0,0,0,,Tôi nghĩ đàm phán đã chấm dứt.
+Dialogue: 0,3:19:29.04,3:19:30.18,Default,,0,0,0,,Tôi không tin điều đó.
+Dialogue: 0,3:19:32.22,3:19:33.56,Default,,0,0,0,,Tôi sẽ không tin.
+Dialogue: 0,3:19:49.68,3:19:51.44,Default,,0,0,0,,Lui lại.
+Dialogue: 0,3:19:51.77,3:19:53.76,Default,,0,0,0,,Lui lại!
+Dialogue: 0,3:20:06.05,3:20:08.03,Default,,0,0,0,,Xong rồi, cậu Frodo.
+Dialogue: 0,3:20:10.01,3:20:13.41,Default,,0,0,0,,Ánh sáng đã di chuyển về phía Bắc.
+Dialogue: 0,3:20:13.66,3:20:15.50,Default,,0,0,0,,Có điều gì đó đã khiến hắn chú ý.
+Dialogue: 0,3:20:33.05,3:20:35.73,Default,,0,0,0,,Giữ vị trí! Giữ vị trí!
+Dialogue: 0,3:20:37.69,3:20:41.76,Default,,0,0,0,,Hỡi những người con của Gondor, của Rohan!\NNhững người anh em!
+Dialogue: 0,3:20:44.73,3:20:46.61,Default,,0,0,0,,Ta thấy trong mắt anh em...
+Dialogue: 0,3:20:47.03,3:20:50.95,Default,,0,0,0,,nỗi sợ giống với nỗi sợ\Nđang xâm chiếm tim ta.
+Dialogue: 0,3:20:53.07,3:20:56.67,Default,,0,0,0,,Có thể có một ngày, khi loài Người\Nkhông còn lòng can đảm,
+Dialogue: 0,3:20:56.85,3:21:00.30,Default,,0,0,0,,khi chúng ta bỏ rơi bạn bè\Nvà phá vỡ mọi ràng buộc liên minh.
+Dialogue: 0,3:21:00.48,3:21:03.18,Default,,0,0,0,,Nhưng không phải hôm nay.
+Dialogue: 0,3:21:03.55,3:21:06.49,Default,,0,0,0,,Thời khắc khốc liệt\Nvới khiên giáo vỡ tan...
+Dialogue: 0,3:21:06.78,3:21:09.55,Default,,0,0,0,,khi thời đại loài Người tận vong.
+Dialogue: 0,3:21:09.81,3:21:12.19,Default,,0,0,0,,Nhưng không phải hôm nay.
+Dialogue: 0,3:21:12.47,3:21:14.06,Default,,0,0,0,,Hôm nay ta sẽ chiến đấu!
+Dialogue: 0,3:21:16.22,3:21:20.10,Default,,0,0,0,,Vì tất cả những gì anh em yêu quí\Ntrên thế giới tươi đẹp này...
+Dialogue: 0,3:21:20.43,3:21:24.51,Default,,0,0,0,,ta kêu gọi anh em đứng vững,\Nhỡi loài Người của phương Tây!
+Dialogue: 0,3:22:53.13,3:22:56.53,Default,,0,0,0,,Tôi đâu ngờ sẽ phải chết\Nkhi chiến đấu chung với một gã Tiên.
+Dialogue: 0,3:22:57.15,3:22:59.38,Default,,0,0,0,,Chung với một người bạn thì thế nào?
+Dialogue: 0,3:23:02.99,3:23:04.70,Default,,0,0,0,,À.
+Dialogue: 0,3:23:05.59,3:23:07.33,Default,,0,0,0,,Vậy thì được.
+Dialogue: 0,3:23:37.71,3:23:39.72,Default,,0,0,0,,Cậu có nhớ xứ Shire không, cậu Frodo?
+Dialogue: 0,3:23:42.76,3:23:44.92,Default,,0,0,0,,Mùa xuân sắp đến rồi.
+Dialogue: 0,3:23:45.79,3:23:48.41,Default,,0,0,0,,Các vườn cây ăn trái sắp nở hoa.
+Dialogue: 0,3:23:48.66,3:23:52.21,Default,,0,0,0,,Và đàn chim sẽ lại làm tổ\Ntrên tàn cây dẻ.
+Dialogue: 0,3:23:53.71,3:23:57.58,Default,,0,0,0,,Và dân làng lại gieo lúa mạch\Nvụ hè ngoài đồng...
+Dialogue: 0,3:23:58.77,3:24:02.99,Default,,0,0,0,,sẽ ăn những quả dâu đầu mùa với kem.
+Dialogue: 0,3:24:05.08,3:24:07.48,Default,,0,0,0,,Cậu nhớ mùi vị của quả dâu chứ?
+Dialogue: 0,3:24:09.14,3:24:10.81,Default,,0,0,0,,Không, Sam à.
+Dialogue: 0,3:24:11.02,3:24:13.88,Default,,0,0,0,,Tôi không thể nhớ mùi vị\Ncủa thức ăn...
+Dialogue: 0,3:24:15.14,3:24:18.29,Default,,0,0,0,,hay tiếng nước chảy...
+Dialogue: 0,3:24:18.58,3:24:22.04,Default,,0,0,0,,hay cảm giác của cỏ mềm.
+Dialogue: 0,3:24:23.12,3:24:24.62,Default,,0,0,0,,Tôi...
+Dialogue: 0,3:24:25.57,3:24:26.88,Default,,0,0,0,,như đang cô độc trong bóng đêm.
+Dialogue: 0,3:24:28.59,3:24:30.80,Default,,0,0,0,,Không... không có thứ gì.
+Dialogue: 0,3:24:31.04,3:24:35.59,Default,,0,0,0,,Không còn gì ngăn cách tôi\Nvà vòng tròn lửa đó nữa.
+Dialogue: 0,3:24:37.03,3:24:38.87,Default,,0,0,0,,Tôi có thể thấy hắn...
+Dialogue: 0,3:24:39.33,3:24:40.96,Default,,0,0,0,,bằng đôi mắt của tôi.
+Dialogue: 0,3:24:42.04,3:24:44.43,Default,,0,0,0,,Thế thì hãy tiêu diệt nó...
+Dialogue: 0,3:24:45.12,3:24:47.28,Default,,0,0,0,,một lần và mãi mãi.
+Dialogue: 0,3:24:48.09,3:24:50.08,Default,,0,0,0,,Nào, cậu Frodo.
+Dialogue: 0,3:24:50.33,3:24:52.85,Default,,0,0,0,,Tôi không mang nhẫn cho cậu được...
+Dialogue: 0,3:24:53.35,3:24:55.34,Default,,0,0,0,,nhưng tôi có thể mang cậu.
+Dialogue: 0,3:24:55.96,3:24:57.64,Default,,0,0,0,,Cố lên!
+Dialogue: 0,3:25:28.12,3:25:30.96,Default,,0,0,0,,{\i1}Aragorn.{\i0}
+Dialogue: 0,3:25:42.62,3:25:46.22,Default,,0,0,0,,{\i1}Elessar.{\i0}
+Dialogue: 0,3:25:57.21,3:25:59.54,Default,,0,0,0,,Vì Frodo.
+Dialogue: 0,3:26:34.59,3:26:36.04,Default,,0,0,0,,Nhìn này, cậu Frodo.
+Dialogue: 0,3:26:36.78,3:26:38.93,Default,,0,0,0,,Một lối đi.
+Dialogue: 0,3:26:39.60,3:26:41.20,Default,,0,0,0,,Sắp đến nơi rồi.
+Dialogue: 0,3:26:43.61,3:26:47.40,Default,,0,0,0,,Bọn Hobbit thông minh trèo cao nhỉ!
+Dialogue: 0,3:27:01.49,3:27:03.10,Default,,0,0,0,,Không được đi lối đó.
+Dialogue: 0,3:27:04.67,3:27:07.07,Default,,0,0,0,,Không được phá hủy Nhẫn thần.
+Dialogue: 0,3:27:07.33,3:27:09.02,Default,,0,0,0,,Ngươi đã thề!
+Dialogue: 0,3:27:09.26,3:27:11.25,Default,,0,0,0,,Ngươi đã thề trước Nhẫn thần!
+Dialogue: 0,3:27:13.22,3:27:15.10,Default,,0,0,0,,Smeagol đã hứa rồi mà!
+Dialogue: 0,3:27:16.09,3:27:18.01,Default,,0,0,0,,Smeagol đã nói dối.
+Dialogue: 0,3:28:10.57,3:28:12.41,Default,,0,0,0,,Frodo!
+Dialogue: 0,3:28:39.56,3:28:41.27,Default,,0,0,0,,Đại bàng.
+Dialogue: 0,3:28:42.74,3:28:44.20,Default,,0,0,0,,Đại bàng đã đến!
+Dialogue: 0,3:29:07.08,3:29:08.88,Default,,0,0,0,,Frodo!
+Dialogue: 0,3:29:14.17,3:29:15.44,Default,,0,0,0,,Tôi đây, Sam.
+Dialogue: 0,3:29:22.93,3:29:24.53,Default,,0,0,0,,Hãy phá hủy chiếc nhẫn!
+Dialogue: 0,3:29:35.13,3:29:38.30,Default,,0,0,0,,Nhanh lên, làm đi!
+Dialogue: 0,3:29:38.57,3:29:41.04,Default,,0,0,0,,Ném nó vào lửa!
+Dialogue: 0,3:29:54.52,3:29:57.10,Default,,0,0,0,,Cậu còn chờ gì nữa?
+Dialogue: 0,3:29:59.06,3:30:01.36,Default,,0,0,0,,Chỉ cần thả nó xuống!
+Dialogue: 0,3:30:34.66,3:30:36.81,Default,,0,0,0,,Nhẫn là của ta.
+Dialogue: 0,3:30:40.45,3:30:42.13,Default,,0,0,0,,Không.
+Dialogue: 0,3:30:42.59,3:30:43.86,Default,,0,0,0,,Không.
+Dialogue: 0,3:30:52.34,3:30:54.91,Default,,0,0,0,,Không!
+Dialogue: 0,3:32:39.42,3:32:41.24,Default,,0,0,0,,Tuyệt!
+Dialogue: 0,3:32:42.49,3:32:44.13,Default,,0,0,0,,Tuyệt!
+Dialogue: 0,3:32:45.31,3:32:48.08,Default,,0,0,0,,Nhẫn quí! Nhẫn quí!
+Dialogue: 0,3:32:48.33,3:32:51.41,Default,,0,0,0,,Nhẫn quí! Nhẫn quí!
+Dialogue: 0,3:33:44.43,3:33:46.22,Default,,0,0,0,,Đưa tay cậu đây!
+Dialogue: 0,3:33:54.64,3:33:56.95,Default,,0,0,0,,Nắm lấy tay tôi!
+Dialogue: 0,3:33:59.70,3:34:01.01,Default,,0,0,0,,Không!
+Dialogue: 0,3:34:08.30,3:34:10.20,Default,,0,0,0,,Cậu đừng buông tay!
+Dialogue: 0,3:34:14.87,3:34:16.39,Default,,0,0,0,,Đừng buông tay!
+Dialogue: 0,3:34:18.05,3:34:19.48,Default,,0,0,0,,Với lên nào!
+Dialogue: 0,3:35:48.71,3:35:51.46,Default,,0,0,0,,Frodo!
+Dialogue: 0,3:35:52.15,3:35:55.05,Default,,0,0,0,,Frodo!
+Dialogue: 0,3:37:16.50,3:37:18.29,Default,,0,0,0,,Xong rồi.
+Dialogue: 0,3:37:22.81,3:37:24.51,Default,,0,0,0,,Xong việc rồi.
+Dialogue: 0,3:37:25.05,3:37:27.00,Default,,0,0,0,,Vâng, cậu Frodo.
+Dialogue: 0,3:37:28.44,3:37:30.78,Default,,0,0,0,,Xong việc rồi.
+Dialogue: 0,3:37:56.54,3:37:58.82,Default,,0,0,0,,Tôi có thể thấy xứ Shire.
+Dialogue: 0,3:38:01.13,3:38:03.36,Default,,0,0,0,,Sông Brandywine.
+Dialogue: 0,3:38:05.56,3:38:07.50,Default,,0,0,0,,Làng Bag End.
+Dialogue: 0,3:38:09.89,3:38:12.52,Default,,0,0,0,,Pháo hoa của Gandalf.
+Dialogue: 0,3:38:13.01,3:38:16.65,Default,,0,0,0,,Ánh đèn trong lễ hội cây.
+Dialogue: 0,3:38:18.28,3:38:21.30,Default,,0,0,0,,Rosie Cotton đang nhảy múa.
+Dialogue: 0,3:38:22.55,3:38:25.16,Default,,0,0,0,,Cô ấy có thắt nơ trên mái tóc.
+Dialogue: 0,3:38:28.18,3:38:31.03,Default,,0,0,0,,Nếu tôi có thể cưới ai đó...
+Dialogue: 0,3:38:32.04,3:38:34.22,Default,,0,0,0,,thì người đó sẽ là cô ấy.
+Dialogue: 0,3:38:35.74,3:38:37.73,Default,,0,0,0,,Sẽ là cô ấy.
+Dialogue: 0,3:38:49.92,3:38:53.04,Default,,0,0,0,,Tôi vui vì còn có cậu,\NSamwise Gamgee...
+Dialogue: 0,3:38:57.43,3:39:00.27,Default,,0,0,0,,vào thời khắc cuối cùng này.
+Dialogue: 0,3:40:50.04,3:40:52.03,Default,,0,0,0,,Gandalf?
+Dialogue: 0,3:41:11.72,3:41:13.68,Default,,0,0,0,,Frodo!
+Dialogue: 0,3:41:33.52,3:41:35.29,Default,,0,0,0,,Gimli!
+Dialogue: 0,3:43:18.30,3:43:21.94,Default,,0,0,0,,Và bây giờ là\Ntriều đại mới của nhà vua.
+Dialogue: 0,3:43:27.06,3:43:29.33,Default,,0,0,0,,Cầu cho họ được phước lành.
+Dialogue: 0,3:43:49.69,3:43:52.27,Default,,0,0,0,,Ngày này không thuộc về riêng ai...
+Dialogue: 0,3:43:52.50,3:43:54.34,Default,,0,0,0,,mà là của tất cả.
+Dialogue: 0,3:43:56.05,3:43:58.88,Default,,0,0,0,,Hãy cùng nhau xây dựng lại\Nthế giới này...
+Dialogue: 0,3:43:59.17,3:44:03.25,Default,,0,0,0,,để cùng chung sống\Nnhững năm tháng hòa bình.
+Dialogue: 0,3:44:15.54,3:44:19.54,Default,,0,0,0,,{\i1}Phía ngoài Biển Lớn...{\i0}
+Dialogue: 0,3:44:19.98,3:44:25.98,Default,,0,0,0,,{\i1}cho đến vùng Trung Địa.{\i0}
+Dialogue: 0,3:44:28.89,3:44:32.59,Default,,0,0,0,,{\i1}Ta sẽ ở lại nơi này...{\i0}
+Dialogue: 0,3:44:33.58,3:44:39.28,Default,,0,0,0,,{\i1}và con cháu ta cũng thế...{\i0}
+Dialogue: 0,3:44:40.36,3:44:46.36,Default,,0,0,0,,{\i1}cho đến khi thế giới kết thúc.{\i0}
+Dialogue: 0,3:44:57.88,3:44:59.28,Default,,0,0,0,,Xin cảm ơn.
+Dialogue: 0,3:46:37.87,3:46:39.90,Default,,0,0,0,,Các bạn của ta...
+Dialogue: 0,3:46:45.27,3:46:47.85,Default,,0,0,0,,không cần phải cúi chào ai cả.
+Dialogue: 0,3:47:32.08,3:47:34.16,Default,,0,0,0,,{\i1}Và thế là...{\i0}
+Dialogue: 0,3:47:34.38,3:47:37.89,Default,,0,0,0,,{\i1}thời đại thứ tư của Trung Địa bắt đầu.{\i0}
+Dialogue: 0,3:47:38.18,3:47:40.65,Default,,0,0,0,,{\i1}Và Hội đồng hành của chiếc Nhẫn...{\i0}
+Dialogue: 0,3:47:40.89,3:47:45.24,Default,,0,0,0,,{\i1}dù vĩnh viễn ràng buộc bởi\Ntình bạn và tình yêu...{\i0}
+Dialogue: 0,3:47:45.59,3:47:47.91,Default,,0,0,0,,{\i1}cũng đã kết thúc.{\i0}
+Dialogue: 0,3:47:52.99,3:47:57.61,Default,,0,0,0,,{\i1}13 tháng sau ngày Gandalf\Ntiễn chúng tôi lên đường...{\i0}
+Dialogue: 0,3:47:57.94,3:48:02.02,Default,,0,0,0,,{\i1}chúng tôi đã thấy quanh mình\Nnhững cảnh tượng quen thuộc.{\i0}
+Dialogue: 0,3:48:04.72,3:48:07.33,Default,,0,0,0,,{\i1}Chúng tôi đã về nhà.{\i0}
+Dialogue: 0,3:48:14.00,3:48:15.80,Default,,0,0,0,,Xin chào.
+Dialogue: 0,3:48:33.03,3:48:35.17,Default,,0,0,0,,Này, nhìn quả bí ngô kìa.
+Dialogue: 0,3:49:23.33,3:49:24.87,Default,,0,0,0,,{\i1}Thêm nữa đi, Rosie.{\i0}
+Dialogue: 0,3:49:25.11,3:49:27.02,Default,,0,0,0,,Các bạn ngủ ngon.
+Dialogue: 0,3:50:24.64,3:50:28.50,Default,,0,0,0,,{\i1}Làm sao ta có thể trở về\Nvới cuộc đời cũ?{\i0}
+Dialogue: 0,3:50:29.96,3:50:32.12,Default,,0,0,0,,{\i1}Làm sao có thể tiếp tục như xưa...{\i0}
+Dialogue: 0,3:50:32.36,3:50:37.37,Default,,0,0,0,,{\i1}khi sâu thẳm trong lòng\Nta đã bắt đầu hiểu...{\i0}
+Dialogue: 0,3:50:38.82,3:50:41.68,Default,,0,0,0,,{\i1}rằng không còn đường quay lại?{\i0}
+Dialogue: 0,3:50:42.47,3:50:46.03,Default,,0,0,0,,{\i1}Có những điều mà thời gian\Nkhông thể chữa lành.{\i0}
+Dialogue: 0,3:50:46.64,3:50:49.48,Default,,0,0,0,,{\i1}Những vết thương đã ăn quá sâu...{\i0}
+Dialogue: 0,3:50:51.33,3:50:54.07,Default,,0,0,0,,{\i1}trong lòng chúng ta.{\i0}
+Dialogue: 0,3:51:14.97,3:51:18.17,Default,,0,0,0,,{\i1}Hành trình và Trở về: Chuyện Hobbit.\NTác giả Bilbo Baggins.{\i0}
+Dialogue: 0,3:51:32.31,3:51:34.15,Default,,0,0,0,,Cậu Frodo?
+Dialogue: 0,3:51:37.52,3:51:38.88,Default,,0,0,0,,Sao thế?
+Dialogue: 0,3:51:40.76,3:51:44.56,Default,,0,0,0,,Đã 4 năm từ ngày\Nở trên đỉnh Weathertop, Sam.
+Dialogue: 0,3:51:45.40,3:51:48.00,Default,,0,0,0,,Vết thương của tôi\Nchưa bao giờ thật sự lành.
+Dialogue: 0,3:51:52.07,3:51:57.12,Default,,0,0,0,,"Hành trình và Trở về: Chuyện Hobbit.\NTác giả Bilbo Baggins."
+Dialogue: 0,3:51:58.01,3:52:01.71,Default,,0,0,0,,Và "Chúa tể những chiếc Nhẫn."\Ntác giả Frodo Baggins.
+Dialogue: 0,3:52:02.34,3:52:04.45,Default,,0,0,0,,Cậu đã viết xong rồi.
+Dialogue: 0,3:52:07.40,3:52:08.86,Default,,0,0,0,,Cũng chưa hẳn.
+Dialogue: 0,3:52:09.69,3:52:12.19,Default,,0,0,0,,Vẫn còn chỗ để viết thêm một chút.
+Dialogue: 0,3:52:14.90,3:52:18.97,Default,,0,0,0,,{\i1}Bilbo có lần bảo tôi rằng vai trò của chú ấy\Ntrong câu chuyện sẽ chấm dứt.{\i0}
+Dialogue: 0,3:52:19.28,3:52:22.46,Default,,0,0,0,,{\i1}Ai trong chúng ta cũng sẽ xuất hiện\Nvà rời khỏi câu chuyện.{\i0}
+Dialogue: 0,3:52:23.45,3:52:26.20,Default,,0,0,0,,{\i1}Chuyện của chú Bilbo đã kết thúc.{\i0}
+Dialogue: 0,3:52:26.79,3:52:29.62,Default,,0,0,0,,{\i1}Chú ấy sẽ không đi đâu nữa...{\i0}
+Dialogue: 0,3:52:29.87,3:52:31.38,Default,,0,0,0,,{\i1}ngoài một lần cuối.{\i0}
+Dialogue: 0,3:52:32.16,3:52:35.66,Default,,0,0,0,,{\i1}Nói lại xem nào cháu. Ta đi đâu đây?{\i0}
+Dialogue: 0,3:52:35.91,3:52:37.86,Default,,0,0,0,,{\i1}Ra bến cảng, chú Bilbo.{\i0}
+Dialogue: 0,3:52:38.10,3:52:40.72,Default,,0,0,0,,{\i1}Tộc Tiên đã dành cho chú\Nmột vinh dự đặc biệt...{\i0}
+Dialogue: 0,3:52:40.97,3:52:43.51,Default,,0,0,0,,{\i1}một chỗ trên chuyến tàu cuối\Nrời vùng Trung Địa.{\i0}
+Dialogue: 0,3:52:45.30,3:52:46.93,Default,,0,0,0,,Frodo...
+Dialogue: 0,3:52:48.42,3:52:52.78,Default,,0,0,0,,có cơ hội nào cho ta thấy lại\Nchiếc Nhẫn không?
+Dialogue: 0,3:52:53.59,3:52:55.75,Default,,0,0,0,,Chiếc nhẫn mà ta đưa cho cháu.
+Dialogue: 0,3:52:59.48,3:53:01.55,Default,,0,0,0,,Rất tiếc, thưa chú.
+Dialogue: 0,3:53:04.17,3:53:06.70,Default,,0,0,0,,Cháu e rằng đã làm mất nó.
+Dialogue: 0,3:53:06.98,3:53:08.70,Default,,0,0,0,,Ồ.
+Dialogue: 0,3:53:09.33,3:53:10.80,Default,,0,0,0,,Tiếc quá.
+Dialogue: 0,3:53:13.60,3:53:17.32,Default,,0,0,0,,Ước gì chú được cầm nó một lần cuối.
+Dialogue: 0,3:53:46.60,3:53:51.48,Default,,0,0,0,,Chú chưa bao giờ thấy cảnh tượng này.
+Dialogue: 0,3:54:05.84,3:54:09.07,Default,,0,0,0,,Quyền lực của ba chiếc Nhẫn đã hết.
+Dialogue: 0,3:54:09.96,3:54:12.67,Default,,0,0,0,,Đã đến lúc...
+Dialogue: 0,3:54:12.93,3:54:16.08,Default,,0,0,0,,cho loài Người ngự trị.
+Dialogue: 0,3:54:16.74,3:54:20.08,Default,,0,0,0,,Biển khơi gọi chúng tôi về nhà.
+Dialogue: 0,3:54:28.62,3:54:30.71,Default,,0,0,0,,Tôi cảm thấy...
+Dialogue: 0,3:54:30.97,3:54:35.18,Default,,0,0,0,,đã sẵn sàng\Ncho một chuyến phiêu lưu mới.
+Dialogue: 0,3:55:06.42,3:55:08.62,Default,,0,0,0,,Vĩnh biệt...
+Dialogue: 0,3:55:08.87,3:55:11.53,Default,,0,0,0,,các Hobbit can đảm.
+Dialogue: 0,3:55:13.56,3:55:15.51,Default,,0,0,0,,Ta đã xong việc.
+Dialogue: 0,3:55:19.40,3:55:24.20,Default,,0,0,0,,Ngay đây, trên bờ biển này...
+Dialogue: 0,3:55:25.03,3:55:27.79,Default,,0,0,0,,Hội đồng hành của chúng ta\Nđã chấm dứt.
+Dialogue: 0,3:55:31.44,3:55:33.84,Default,,0,0,0,,Ta sã không nói "Đừng khóc"...
+Dialogue: 0,3:55:34.62,3:55:38.46,Default,,0,0,0,,vì nước mắt không phải là điều xấu.
+Dialogue: 0,3:55:56.15,3:55:58.01,Default,,0,0,0,,Đến lúc rồi, Frodo.
+Dialogue: 0,3:56:03.61,3:56:05.56,Default,,0,0,0,,Ông ấy nói sao?
+Dialogue: 0,3:56:08.09,3:56:10.86,Default,,0,0,0,,Sam, chúng ta đã ra đi\Nđể cứu xứ Shire.
+Dialogue: 0,3:56:12.58,3:56:15.21,Default,,0,0,0,,Và Xứ Shire đã được an toàn.
+Dialogue: 0,3:56:18.99,3:56:21.56,Default,,0,0,0,,Nhưng tôi thì không.
+Dialogue: 0,3:56:22.58,3:56:24.94,Default,,0,0,0,,Cậu chỉ nói đùa!
+Dialogue: 0,3:56:26.23,3:56:28.25,Default,,0,0,0,,Cậu không thể đi như vậy!
+Dialogue: 0,3:56:36.76,3:56:39.40,Default,,0,0,0,,Những trang cuối là\Ndành cho cậu đó, Sam.
+Dialogue: 0,4:00:12.59,4:00:15.35,Default,,0,0,0,,{\i1}Sam thân yêu.{\i0}
+Dialogue: 0,4:00:17.39,4:00:20.59,Default,,0,0,0,,{\i1}Các bạn đừng bao giờ chia lìa nhau.{\i0}
+Dialogue: 0,4:00:20.88,4:00:24.85,Default,,0,0,0,,{\i1}Các bạn hãy sống với nhau hạnh phúc\Ntrong thật nhiều năm.{\i0}
+Dialogue: 0,4:00:25.63,4:00:31.00,Default,,0,0,0,,{\i1}Các bạn còn quá nhiều điều\Nđể làm và tận hưởng.{\i0}
+Dialogue: 0,4:00:32.35,4:00:35.52,Default,,0,0,0,,{\i1}Các bạn sẽ là người viết tiếp câu chuyện.{\i0}
+Dialogue: 0,4:00:36.37,4:00:38.08,Default,,0,0,0,,Chà...
+Dialogue: 0,4:00:40.02,4:00:41.67,Default,,0,0,0,,mình đã trở về.
+Dialogue: 0,4:02:22.18,4:02:24.22,Default,,0,0,0,,Into the West - Annie Lennox.
+Dialogue: 0,4:02:24.39,4:02:28.39,Default,,0,0,0,,{\i1}♪ Hãy nằm xuống đi ♪{\i0}
+Dialogue: 0,4:02:30.02,4:02:34.40,Default,,0,0,0,,{\i1}♪ Đầu bạn đang trĩu nặng ♪{\i0}
+Dialogue: 0,4:02:36.11,4:02:39.73,Default,,0,0,0,,{\i1}♪ Màn đêm đang xuống ♪{\i0}
+Dialogue: 0,4:02:40.40,4:02:45.24,Default,,0,0,0,,{\i1}♪ Bạn đã đến\Nđoạn cuối cuộc hành trình ♪{\i0}
+Dialogue: 0,4:02:45.91,4:02:49.62,Default,,0,0,0,,{\i1}♪ Hãy ngủ đi ♪{\i0}
+Dialogue: 0,4:02:49.83,4:02:55.46,Default,,0,0,0,,{\i1}♪ Và mơ về những người đi trước ♪{\i0}
+Dialogue: 0,4:02:57.25,4:03:01.13,Default,,0,0,0,,{\i1}♪ Họ đang vẫy gọi ♪{\i0}
+Dialogue: 0,4:03:01.34,4:03:05.43,Default,,0,0,0,,{\i1}♪ Phía bên kia bờ đại dương xa xôi ♪{\i0}
+Dialogue: 0,4:03:07.05,4:03:11.93,Default,,0,0,0,,{\i1}♪ Sao bạn lại khóc? ♪{\i0}
+Dialogue: 0,4:03:12.10,4:03:17.11,Default,,0,0,0,,{\i1}♪ Những giọt nước mắt kia\Nlà khóc cho điều chi? ♪{\i0}
+Dialogue: 0,4:03:17.27,4:03:22.32,Default,,0,0,0,,{\i1}♪ Rồi bạn sẽ thấy, sớm thôi ♪{\i0}
+Dialogue: 0,4:03:22.49,4:03:27.45,Default,,0,0,0,,{\i1}♪ Những nỗi sợ hãi rồi sẽ trôi qua ♪{\i0}
+Dialogue: 0,4:03:27.62,4:03:32.75,Default,,0,0,0,,{\i1}♪ Yên ả trong vòng tay tôi ♪{\i0}
+Dialogue: 0,4:03:32.91,4:03:33.83,Default,,0,0,0,,{\i1}♪ Bạn hãy ngủ đi thôi ♪{\i0}
+Dialogue: 0,4:03:37.58,4:03:42.59,Default,,0,0,0,,{\i1}♪ Bạn thấy được gì ♪{\i0}
+Dialogue: 0,4:03:42.76,4:03:47.97,Default,,0,0,0,,{\i1}♪ Nơi chân trời kia? ♪{\i0}
+Dialogue: 0,4:03:48.14,4:03:52.64,Default,,0,0,0,,{\i1}♪ Vì sao đàn hải âu trắng ♪{\i0}
+Dialogue: 0,4:03:52.81,4:03:53.61,Default,,0,0,0,,{\i1}♪ Đang gọi bạn? ♪{\i0}
+Dialogue: 0,4:03:58.69,4:04:03.32,Default,,0,0,0,,{\i1}♪ Bên kia đại dương ♪{\i0}
+Dialogue: 0,4:04:03.49,4:04:08.78,Default,,0,0,0,,{\i1}♪ Trăng đang lên ♪{\i0}
+Dialogue: 0,4:04:08.95,4:04:11.66,Default,,0,0,0,,{\i1}♪ Và thuyền đã đến ♪{\i0}
+Dialogue: 0,4:04:11.83,4:04:17.62,Default,,0,0,0,,{\i1}♪ Đón bạn về nhà ♪{\i0}
+Dialogue: 0,4:04:19.83,4:04:24.38,Default,,0,0,0,,{\i1}♪ Tất cả sẽ trở thành ♪{\i0}
+Dialogue: 0,4:04:24.55,4:04:29.89,Default,,0,0,0,,{\i1}♪ Một màn gương bạc ♪{\i0}
+Dialogue: 0,4:04:30.05,4:04:34.35,Default,,0,0,0,,{\i1}♪ Một tia sáng trên mặt nước ♪{\i0}
+Dialogue: 0,4:04:34.52,4:04:40.02,Default,,0,0,0,,{\i1}♪ Những linh hồn bay qua ♪{\i0}
+Dialogue: 0,4:04:40.19,4:04:44.36,Default,,0,0,0,,{\i1}♪ Hy vọng phai dần ♪{\i0}
+Dialogue: 0,4:04:45.94,4:04:50.87,Default,,0,0,0,,{\i1}♪ Vào thế giới của bóng đêm ♪{\i0}
+Dialogue: 0,4:04:51.53,4:04:55.37,Default,,0,0,0,,{\i1}♪ Bóng tối đang bao trùm dần ♪{\i0}
+Dialogue: 0,4:04:56.20,4:05:01.38,Default,,0,0,0,,{\i1}♪ Ký ức và thời gian ♪{\i0}
+Dialogue: 0,4:05:02.04,4:05:05.76,Default,,0,0,0,,{\i1}♪ Đừng nói gì ♪{\i0}
+Dialogue: 0,4:05:06.55,4:05:11.55,Default,,0,0,0,,{\i1}♪ Ta đã đến bến bờ cuối ♪{\i0}
+Dialogue: 0,4:05:12.39,4:05:16.85,Default,,0,0,0,,{\i1}♪ Những bờ cát trắng đang vẫy gọi ♪{\i0}
+Dialogue: 0,4:05:17.02,4:05:20.56,Default,,0,0,0,,{\i1}♪ Rồi có ngày ta gặp lại nhau ♪{\i0}
+Dialogue: 0,4:05:20.73,4:05:26.73,Default,,0,0,0,,{\i1}♪ Bạn sẽ ở đây trong vòng tay tôi ♪{\i0}
+Dialogue: 0,4:05:28.40,4:05:32.45,Default,,0,0,0,,{\i1}♪ Và hãy ngủ ngon ♪{\i0}
+Dialogue: 0,4:05:32.62,4:05:37.45,Default,,0,0,0,,{\i1}♪ Bạn thấy được gì ♪{\i0}
+Dialogue: 0,4:05:37.62,4:05:42.58,Default,,0,0,0,,{\i1}♪ Nơi chân trời kia? ♪{\i0}
+Dialogue: 0,4:05:42.75,4:05:47.59,Default,,0,0,0,,{\i1}♪ Cớ sao đàn hải âu trắng ♪{\i0}
+Dialogue: 0,4:05:47.76,4:05:48.56,Default,,0,0,0,,{\i1}♪ Đang gọi bạn? ♪{\i0}
+Dialogue: 0,4:05:53.30,4:05:58.43,Default,,0,0,0,,{\i1}♪ Bên kia đại dương ♪{\i0}
+Dialogue: 0,4:05:58.60,4:06:03.61,Default,,0,0,0,,{\i1}♪ Trăng đang lên ♪{\i0}
+Dialogue: 0,4:06:03.77,4:06:06.57,Default,,0,0,0,,{\i1}♪ Và thuyền đã đến ♪{\i0}
+Dialogue: 0,4:06:06.73,4:06:12.73,Default,,0,0,0,,{\i1}♪ Đón bạn về nhà ♪{\i0}
+Dialogue: 0,4:06:14.28,4:06:19.41,Default,,0,0,0,,{\i1}♪ Tất cả sẽ trở thành ♪{\i0}
+Dialogue: 0,4:06:19.95,4:06:24.79,Default,,0,0,0,,{\i1}♪ Một màn gương bạc ♪{\i0}
+Dialogue: 0,4:06:24.96,4:06:29.13,Default,,0,0,0,,{\i1}♪ Một tia sáng trên mặt nước ♪{\i0}
+Dialogue: 0,4:06:29.30,4:06:33.13,Default,,0,0,0,,{\i1}♪ Con thuyền đã rời bến ♪{\i0}
+Dialogue: 0,4:06:33.30,4:06:38.97,Default,,0,0,0,,{\i1}♪ Về tận phương Tây xa xôi ♪{\i0}
