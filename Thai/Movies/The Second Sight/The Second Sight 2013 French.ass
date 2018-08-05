@@ -1,0 +1,769 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:36.40,0:00:41.00,Default,,0,0,0,,Nous avons tous\Ndes facultés sensorielles différentes.
+Dialogue: 0,0:00:41.24,0:00:45.52,Default,,0,0,0,,Ce que vous allez voir dans ce film,
+Dialogue: 0,0:00:45.84,0:00:51.44,Default,,0,0,0,,voyez-le avec votre propre perception.
+Dialogue: 0,0:01:03.64,0:01:06.08,Default,,0,0,0,,{\i1}Pourquoi se regroupe-t-on ?{\i0}
+Dialogue: 0,0:01:08.08,0:01:10.06,Default,,0,0,0,,{\i1}Pourquoi rencontrons-nous certaines personnes...{\i0}
+Dialogue: 0,0:01:11.32,0:01:12.90,Default,,0,0,0,,{\i1}...et échangeons-nous avec eux ?{\i0}
+Dialogue: 0,0:01:13.80,0:01:14.88,Default,,0,0,0,,{\i1}Pourquoi ?{\i0}
+Dialogue: 0,0:01:23.84,0:01:26.24,Default,,0,0,0,,{\i1}Je crois que c'est en raison\Nde nos propres karmas.{\i0}
+Dialogue: 0,0:01:27.76,0:01:29.38,Default,,0,0,0,,{\i1}Soit il est bon...{\i0}
+Dialogue: 0,0:01:32.52,0:01:34.28,Default,,0,0,0,,{\i1}soit c'est un mauvais karma.{\i0}
+Dialogue: 0,0:01:36.12,0:01:37.96,Default,,0,0,0,,{\i1}Dans la vie d'avant comme dans cette vie.{\i0}
+Dialogue: 0,0:01:38.72,0:01:40.70,Default,,0,0,0,,{\i1}Quel que soit notre karma avec les autres,{\i0}
+Dialogue: 0,0:01:41.44,0:01:43.32,Default,,0,0,0,,{\i1}on doit payer ses dettes.{\i0}
+Dialogue: 0,0:01:53.20,0:01:54.42,Default,,0,0,0,,{\i1}Les karmas...{\i0}
+Dialogue: 0,0:01:54.80,0:01:56.88,Default,,0,0,0,,{\i1}nous connectent en chaînes...{\i0}
+Dialogue: 0,0:01:58.80,0:02:00.08,Default,,0,0,0,,{\i1}à l'infini.{\i0}
+Dialogue: 0,0:02:01.20,0:02:02.88,Default,,0,0,0,,{\i1}Jusqu'à ce que toutes les dettes...{\i0}
+Dialogue: 0,0:02:03.92,0:02:05.25,Default,,0,0,0,,{\i1}soient payées.{\i0}
+Dialogue: 0,0:02:10.76,0:02:12.76,Default,,0,0,0,,{\i1}Nous vivons tous pour payer\Nnotre dette à la vie.{\i0}
+Dialogue: 0,0:02:15.64,0:02:18.04,Default,,0,0,0,,{\i1}Mais jamais mon karma\Nne dirige ma vie.{\i0}
+Dialogue: 0,0:02:20.04,0:02:21.50,Default,,0,0,0,,{\i1}Pourquoi ?...{\i0}
+Dialogue: 0,0:02:22.36,0:02:25.84,Default,,0,0,0,,{\i1}Parce que je ne vois\Nque le karma des autres.{\i0}
+Dialogue: 0,0:02:27.36,0:02:28.92,Default,,0,0,0,,Pourquoi tu dis ça ?
+Dialogue: 0,0:02:29.52,0:02:31.77,Default,,0,0,0,,Tu crois que je n'oserais pas te punir ?
+Dialogue: 0,0:02:34.12,0:02:36.40,Default,,0,0,0,,Dis-le. Pourquoi tu ne le dis pas maintenant ?
+Dialogue: 0,0:02:36.52,0:02:37.94,Default,,0,0,0,,Hein ? Dis-le.
+Dialogue: 0,0:02:38.36,0:02:40.52,Default,,0,0,0,,Tu aimes ça ? Tu en veux encore ?
+Dialogue: 0,0:02:40.80,0:02:43.46,Default,,0,0,0,,Je t'ai vu mourir en tombant du balcon !
+Dialogue: 0,0:02:47.12,0:02:48.68,Default,,0,0,0,,Eh, viens ici !
+Dialogue: 0,0:02:49.32,0:02:52.00,Default,,0,0,0,,{\i1}Personne ne sait\Nce que son karma lui apportera{\i0}
+Dialogue: 0,0:02:52.68,0:02:54.82,Default,,0,0,0,,{\i1}jusqu'au jour où ça arrive.{\i0}
+Dialogue: 0,0:02:55.60,0:02:57.24,Default,,0,0,0,,{\i1}Et quand ce jour est venu,{\i0}
+Dialogue: 0,0:02:57.32,0:03:03.08,Default,,0,0,0,,{\i1}tout le monde se pose la même question :{\i0}
+Dialogue: 0,0:03:03.54,0:03:04.83,Default,,0,0,0,,{\i1}Quel karma ai-je dégagé ?{\i0}
+Dialogue: 0,0:03:04.84,0:03:06.38,Default,,0,0,0,,Qui t'a dit de dire ça ?
+Dialogue: 0,0:03:07.16,0:03:08.43,Default,,0,0,0,,Pourquoi tu dis ça ?
+Dialogue: 0,0:03:08.44,0:03:09.51,Default,,0,0,0,,Me dire comment je meurs !
+Dialogue: 0,0:03:09.52,0:03:11.90,Default,,0,0,0,,Dis-moi. Dis-moi.\NJe vais mourir ici même, c'est ça ?
+Dialogue: 0,0:03:13.00,0:03:14.92,Default,,0,0,0,,Tu veux que je meure tout de suite ?
+Dialogue: 0,0:03:15.60,0:03:17.80,Default,,0,0,0,,Dis-moi comment je vais mourir.
+Dialogue: 0,0:03:47.60,0:03:50.68,Default,,0,0,0,,{\i1}Moi, je ne connais pas\Nla dette de mon karma.{\i0}
+Dialogue: 0,0:03:51.20,0:03:54.72,Default,,0,0,0,,{\i1}Ni pourquoi je vois la dette\Ndu karma des autres.{\i0}
+Dialogue: 0,0:04:10.72,0:04:13.28,Default,,0,0,0,,{\i1}Le karma n'appartient qu'à soi.{\i0}
+Dialogue: 0,0:04:13.64,0:04:16.18,Default,,0,0,0,,{\i1}Tenter d'agir sur la roue du karma\Nest inutile.{\i0}
+Dialogue: 0,0:04:22.64,0:04:30.00,Default,,0,0,0,,DOUBLE VUE
+Dialogue: 0,0:04:32.68,0:04:35.60,Default,,0,0,0,,Maître, avant de passer au verdict,
+Dialogue: 0,0:04:36.04,0:04:38.54,Default,,0,0,0,,voulez-vous ajouter quelque chose ?
+Dialogue: 0,0:04:48.68,0:04:49.80,Default,,0,0,0,,Non Monsieur.
+Dialogue: 0,0:04:57.68,0:05:01.57,Default,,0,0,0,,Alors la Cour clôt l'affaire
+Dialogue: 0,0:05:02.28,0:05:04.85,Default,,0,0,0,,pour laquelle M. Pongpaisan
+Dialogue: 0,0:05:04.86,0:05:09.05,Default,,0,0,0,,est accusé du viol et du meurtre\Nde Mme Jumdee.
+Dialogue: 0,0:05:29.88,0:05:32.16,Default,,0,0,0,,Voici vos honoraires, avec un triple bonus.
+Dialogue: 0,0:05:37.72,0:05:40.12,Default,,0,0,0,,Alors c'est vrai ce qu'on dit,
+Dialogue: 0,0:05:41.12,0:05:44.09,Default,,0,0,0,,que les lois ne vous résistent pas !
+Dialogue: 0,0:05:48.08,0:05:49.38,Default,,0,0,0,,M. Niwat...
+Dialogue: 0,0:05:49.88,0:05:51.88,Default,,0,0,0,,Vous vous en sortez bien dans cette affaire,
+Dialogue: 0,0:05:51.92,0:05:54.81,Default,,0,0,0,,mais vous n'échapperez pas à votre karma.
+Dialogue: 0,0:07:24.88,0:07:25.99,Default,,0,0,0,,Bonjour.
+Dialogue: 0,0:07:27.04,0:07:29.50,Default,,0,0,0,,Jum ? J'ai quelque chose à te dire.
+Dialogue: 0,0:07:30.60,0:07:31.98,Default,,0,0,0,,Eh Jate !
+Dialogue: 0,0:07:32.72,0:07:34.70,Default,,0,0,0,,Vous venez vous amuser avec nous ?
+Dialogue: 0,0:07:43.16,0:07:44.68,Default,,0,0,0,,Laisse tomber...
+Dialogue: 0,0:07:48.12,0:07:50.69,Default,,0,0,0,,Jate, j'ai aussi un truc à te dire.
+Dialogue: 0,0:07:50.88,0:07:51.98,Default,,0,0,0,,Vraiment ?
+Dialogue: 0,0:07:52.56,0:07:53.86,Default,,0,0,0,,Ne me dis pas que...
+Dialogue: 0,0:07:54.32,0:07:55.96,Default,,0,0,0,,Je veux me marier.
+Dialogue: 0,0:07:56.60,0:07:58.20,Default,,0,0,0,,Marions-nous, Jate.
+Dialogue: 0,0:08:52.04,0:08:54.72,Default,,0,0,0,,{\i1}Il y a une chanson...{\i0}
+Dialogue: 0,0:08:58.24,0:09:05.21,Default,,0,0,0,,{\i1}Un air de piano que je voudrais te jouer{\i0}
+Dialogue: 0,0:09:09.88,0:09:12.48,Default,,0,0,0,,{\i1}Pour que tu te sentes...{\i0}
+Dialogue: 0,0:09:13.12,0:09:15.72,Default,,0,0,0,,{\i1}Pour que tu te sentes...{\i0}
+Dialogue: 0,0:09:21.80,0:09:22.90,Default,,0,0,0,,Merci.
+Dialogue: 0,0:09:23.24,0:09:25.66,Default,,0,0,0,,Il faut que je retrouve mon ordi.
+Dialogue: 0,0:09:26.20,0:09:27.74,Default,,0,0,0,,Entre amoureux,
+Dialogue: 0,0:09:29.92,0:09:31.94,Default,,0,0,0,,chacun connaît les pensées de l'autre.
+Dialogue: 0,0:09:35.64,0:09:37.84,Default,,0,0,0,,Alors tu sais\Nque je me suis inquiétée pour toi...
+Dialogue: 0,0:09:38.28,0:09:40.36,Default,,0,0,0,,J'étais si inquiète après les infos,
+Dialogue: 0,0:09:40.60,0:09:42.26,Default,,0,0,0,,pour cet accident, sur le pont.
+Dialogue: 0,0:09:45.80,0:09:48.28,Default,,0,0,0,,En fait, j'y étais.
+Dialogue: 0,0:09:49.32,0:09:51.70,Default,,0,0,0,,J'ai moi aussi frôlé la mort.
+Dialogue: 0,0:09:52.08,0:09:53.60,Default,,0,0,0,,Qu'est-ce que tu dis ?
+Dialogue: 0,0:09:53.88,0:09:56.08,Default,,0,0,0,,Ecoute, tu sais que cet...
+Dialogue: 0,0:09:56.44,0:09:58.80,Default,,0,0,0,,accident ne m'étais pas destiné,\Nn'est-ce pas ?
+Dialogue: 0,0:09:59.56,0:10:02.80,Default,,0,0,0,,C'est toi qui pourrais avoir\Nun accident sur ce sol humide.
+Dialogue: 0,0:10:03.20,0:10:04.90,Default,,0,0,0,,Tu pourrais tomber.
+Dialogue: 0,0:10:05.68,0:10:06.94,Default,,0,0,0,,Pardon.
+Dialogue: 0,0:10:07.24,0:10:10.80,Default,,0,0,0,,J'ai trouvé des paroles\Nen me lavant les cheveux.
+Dialogue: 0,0:10:12.12,0:10:13.18,Default,,0,0,0,,C'est vrai ?
+Dialogue: 0,0:10:13.28,0:10:15.42,Default,,0,0,0,,Alors ta chanson est finie.\NFais-moi écouter.
+Dialogue: 0,0:10:15.56,0:10:18.64,Default,,0,0,0,,Pas encore. Il reste quelques lignes.
+Dialogue: 0,0:11:20.88,0:11:24.30,Default,,0,0,0,,C'est l'accident le plus important\Nayant jamais eu lieu sur le pont Rama.{\i0}
+Dialogue: 0,0:11:24.44,0:11:25.85,Default,,0,0,0,,{\i1}Des témoins racontent{\i0}
+Dialogue: 0,0:11:25.96,0:11:28.99,Default,,0,0,0,,{\i1}avoir vu la voiture de Mlle Kaewkwan\Ncouper la route à un taxi{\i0}
+Dialogue: 0,0:11:29.24,0:11:31.42,Default,,0,0,0,,{\i1}qui est alors venu renverser un couple{\i0}
+Dialogue: 0,0:11:31.48,0:11:33.40,Default,,0,0,0,,{\i1}et le photographe qui prenait{\i0}
+Dialogue: 0,0:11:33.48,0:11:36.24,Default,,0,0,0,,{\i1}des photos des fiancés.\NTous ont été tués.{\i0}
+Dialogue: 0,0:11:36.52,0:11:39.82,Default,,0,0,0,,{\i1}Le taxi, lui, a perdu le contrôle\Net heurté le rail du pont{\i0}
+Dialogue: 0,0:11:39.88,0:11:42.28,Default,,0,0,0,,{\i1}avant que la voiture de M. Niwat,{\i0}
+Dialogue: 0,0:11:42.68,0:11:45.88,Default,,0,0,0,,{\i1}un homme d'affaires coureur de jupons,{\i0}
+Dialogue: 0,0:11:46.24,0:11:47.99,Default,,0,0,0,,{\i1}ne vienne le percuter,{\i0}
+Dialogue: 0,0:11:48.12,0:11:50.40,Default,,0,0,0,,{\i1}tuant sur le coup\Nle conducteur et les passagers.{\i0}
+Dialogue: 0,0:11:50.56,0:11:53.92,Default,,0,0,0,,{\i1}Puis la voiture de M. Niwat a plongé\Ndans la rivière.{\i0}
+Dialogue: 0,0:11:56.00,0:11:57.50,Default,,0,0,0,,M. Jate,
+Dialogue: 0,0:11:57.66,0:11:59.80,Default,,0,0,0,,SVP, venez en salle de réunion.
+Dialogue: 0,0:12:00.32,0:12:01.40,Default,,0,0,0,,OK.
+Dialogue: 0,0:12:17.64,0:12:18.94,Default,,0,0,0,,Vous voilà.
+Dialogue: 0,0:12:19.36,0:12:21.58,Default,,0,0,0,,Le dossier de l'affaire de Mlle Kaewkwan.
+Dialogue: 0,0:12:21.76,0:12:24.52,Default,,0,0,0,,C'est une nouvelle grosse affaire,\Nle patron veut vous en charger.
+Dialogue: 0,0:12:24.88,0:12:25.92,Default,,0,0,0,,Merci.
+Dialogue: 0,0:12:28.40,0:12:29.50,Default,,0,0,0,,Et...
+Dialogue: 0,0:12:43.44,0:12:45.27,Default,,0,0,0,,Quelque chose ne va pas ?
+Dialogue: 0,0:12:45.28,0:12:46.34,Default,,0,0,0,,Marisa,
+Dialogue: 0,0:12:46.44,0:12:50.08,Default,,0,0,0,,SVP, portez un pull à col roulé\Net un pantalon demain.
+Dialogue: 0,0:12:50.70,0:12:52.67,Default,,0,0,0,,Ainsi, l'esprit du tiers sera apaisé.
+Dialogue: 0,0:12:52.72,0:12:54.72,Default,,0,0,0,,Quel tiers ?
+Dialogue: 0,0:12:55.32,0:12:56.83,Default,,0,0,0,,Faites-le.
+Dialogue: 0,0:13:05.80,0:13:08.20,Default,,0,0,0,,C'est l'accident d'hier.
+Dialogue: 0,0:13:08.84,0:13:12.24,Default,,0,0,0,,Oui, c'est la nouvelle du jour.
+Dialogue: 0,0:13:13.12,0:13:15.92,Default,,0,0,0,,C'est une grosse affaire.\NPourquoi ne pas la donner à Jane ?
+Dialogue: 0,0:13:16.24,0:13:17.52,Default,,0,0,0,,Elle est excellente.
+Dialogue: 0,0:13:17.56,0:13:19.64,Default,,0,0,0,,Elle ne fait pas les poursuites.
+Dialogue: 0,0:13:20.84,0:13:22.36,Default,,0,0,0,,Notre cliente...
+Dialogue: 0,0:13:22.60,0:13:25.92,Default,,0,0,0,,Kaewkwan Wisitwanich, 16 ans,
+Dialogue: 0,0:13:26.20,0:13:28.54,Default,,0,0,0,,belle-fille de Kue Wisitwanich,
+Dialogue: 0,0:13:28.56,0:13:31.40,Default,,0,0,0,,le fondateur de Wisitwanich Petroleum.
+Dialogue: 0,0:13:32.20,0:13:35.12,Default,,0,0,0,,Toute la famille vit à l'étranger,\Nn'est-ce pas ?
+Dialogue: 0,0:13:36.48,0:13:39.24,Default,,0,0,0,,Cette affaire va rapporter\Nbeaucoup d'argent au bureau.
+Dialogue: 0,0:13:40.68,0:13:41.70,Default,,0,0,0,,Oui.
+Dialogue: 0,0:13:41.84,0:13:45.60,Default,,0,0,0,,Le patron dit que ça doit être vous.
+Dialogue: 0,0:13:46.00,0:13:48.26,Default,,0,0,0,,Et que vous ne devez pas échouer.
+Dialogue: 0,0:14:07.76,0:14:08.96,Default,,0,0,0,,Qu'y a-t-il ?
+Dialogue: 0,0:14:09.08,0:14:10.78,Default,,0,0,0,,Encore une migraine ?
+Dialogue: 0,0:14:12.52,0:14:14.36,Default,,0,0,0,,Je vais vous trouver des cachets.
+Dialogue: 0,0:14:16.00,0:14:17.92,Default,,0,0,0,,Je reviens tout de suite.
+Dialogue: 0,0:14:31.84,0:14:33.79,Default,,0,0,0,,M. Jate. Maintenant que vous êtes là.
+Dialogue: 0,0:14:33.84,0:14:36.24,Default,,0,0,0,,Alors vous êtes sur l'affaire Kaewkwan ?
+Dialogue: 0,0:14:37.36,0:14:38.50,Default,,0,0,0,,En effet.
+Dialogue: 0,0:14:38.88,0:14:41.45,Default,,0,0,0,,C'est une meurtrière.
+Dialogue: 0,0:14:41.80,0:14:43.60,Default,,0,0,0,,Elle vous paie\Npour éviter une condamnation.
+Dialogue: 0,0:14:43.68,0:14:45.68,Default,,0,0,0,,C'est juste un suspect, pas une meurtrière.
+Dialogue: 0,0:14:45.72,0:14:47.84,Default,,0,0,0,,Par ailleurs, Kaewkwan est toujours mineure.
+Dialogue: 0,0:14:49.32,0:14:52.36,Default,,0,0,0,,Tout le monde est perdant dans cette tragédie.
+Dialogue: 0,0:14:52.76,0:14:54.80,Default,,0,0,0,,Eh, nous avons perdu notre famille !
+Dialogue: 0,0:14:55.12,0:14:56.96,Default,,0,0,0,,Et Kaewkwan est toujours vivante !
+Dialogue: 0,0:14:57.28,0:14:59.00,Default,,0,0,0,,Elle aussi devrait être morte !
+Dialogue: 0,0:15:00.72,0:15:03.76,Default,,0,0,0,,Salaud ! Ces foutus avocats\Nqui gagnent sur tous les tableaux !
+Dialogue: 0,0:15:04.04,0:15:05.88,Default,,0,0,0,,Vous avez quelque chose à ajouter ?
+Dialogue: 0,0:15:07.12,0:15:08.61,Default,,0,0,0,,Pour ce genre d'infos,
+Dialogue: 0,0:15:08.96,0:15:11.77,Default,,0,0,0,,vous les journalistes, osez dire\Nque ça ne vous rapporte rien !
+Dialogue: 0,0:15:33.32,0:15:34.98,Default,,0,0,0,,Qu'est-ce que vous regardez ?
+Dialogue: 0,0:15:37.84,0:15:40.30,Default,,0,0,0,,Je suis votre avocat.\NVotre père m'a engagé.
+Dialogue: 0,0:15:40.84,0:15:43.10,Default,,0,0,0,,Comment allez-vous ? Vous êtes blessée ?
+Dialogue: 0,0:15:43.24,0:15:44.54,Default,,0,0,0,,Vous avez mis le temps !
+Dialogue: 0,0:15:44.56,0:15:46.90,Default,,0,0,0,,Ramenez-moi chez moi.\NJe veux rentrer à mon appartement !
+Dialogue: 0,0:15:47.16,0:15:50.00,Default,,0,0,0,,Je crois que vous devriez rester ici.
+Dialogue: 0,0:15:51.96,0:15:53.44,Default,,0,0,0,,Vous voulez que je reste ?
+Dialogue: 0,0:15:53.72,0:15:56.61,Default,,0,0,0,,Ici, on me prend pour une meurtrière.
+Dialogue: 0,0:15:56.88,0:15:58.90,Default,,0,0,0,,Pourquoi devais-je supporter ça ?
+Dialogue: 0,0:16:00.20,0:16:02.24,Default,,0,0,0,,Vous devrez le supporter quelques temps.
+Dialogue: 0,0:16:02.32,0:16:04.78,Default,,0,0,0,,J'ai amené des journalistes\Npour qu'ils parlent de vous.
+Dialogue: 0,0:16:04.84,0:16:05.84,Default,,0,0,0,,Quoi ?
+Dialogue: 0,0:16:06.16,0:16:07.50,Default,,0,0,0,,Vous êtes viré.
+Dialogue: 0,0:16:07.52,0:16:09.12,Default,,0,0,0,,Vous ne pouvez pas me virer.
+Dialogue: 0,0:16:09.16,0:16:11.72,Default,,0,0,0,,Je suis le seul à pouvoir\Nvous éviter la prison.
+Dialogue: 0,0:16:12.00,0:16:16.16,Default,,0,0,0,,Et à pouvoir vous sortir\Nde ce qui vous pend au nez.
+Dialogue: 0,0:16:19.48,0:16:20.94,Default,,0,0,0,,Que voulez-vous dire ?
+Dialogue: 0,0:16:23.76,0:16:26.57,Default,,0,0,0,,Pendant l'accident, vous ne dormiez pas.
+Dialogue: 0,0:16:27.08,0:16:29.24,Default,,0,0,0,,Mais vous ne pouviez pas bouger, pas vrai ?
+Dialogue: 0,0:16:31.04,0:16:32.84,Default,,0,0,0,,C'est comme ça qu'ils ont fait.
+Dialogue: 0,0:16:33.28,0:16:35.08,Default,,0,0,0,,Vous en avez réchappé cette fois,
+Dialogue: 0,0:16:35.80,0:16:38.12,Default,,0,0,0,,Mais ils finiront par vous avoir.
+Dialogue: 0,0:16:41.44,0:16:42.44,Default,,0,0,0,,Infirmière,
+Dialogue: 0,0:16:42.84,0:16:44.84,Default,,0,0,0,,il lui faut plus de bandages.
+Dialogue: 0,0:16:45.32,0:16:46.56,Default,,0,0,0,,Beaucoup de bandages.
+Dialogue: 0,0:16:54.36,0:16:55.38,Default,,0,0,0,,Pour quoi faire ?
+Dialogue: 0,0:16:56.68,0:16:59.41,Default,,0,0,0,,D'abord, il faut que je vous aide\Nà éviter la prison.
+Dialogue: 0,0:16:59.88,0:17:02.08,Default,,0,0,0,,Si les journalistes\Nne voient que des ecchymoses,
+Dialogue: 0,0:17:02.44,0:17:03.60,Default,,0,0,0,,ça ne sera pas bon.
+Dialogue: 0,0:17:23.00,0:17:24.04,Default,,0,0,0,,Ok.
+Dialogue: 0,0:17:24.52,0:17:25.60,Default,,0,0,0,,Voilà.
+Dialogue: 0,0:17:35.88,0:17:37.40,Default,,0,0,0,,C'est terminé. Merci.
+Dialogue: 0,0:17:41.80,0:17:43.40,Default,,0,0,0,,Ca y est ? Je suis libre ?
+Dialogue: 0,0:17:44.36,0:17:47.39,Default,,0,0,0,,Dans ce pays, celui qui a de l'argent\Nne fait jamais rien de mal.
+Dialogue: 0,0:17:49.96,0:17:50.99,Default,,0,0,0,,C'est...
+Dialogue: 0,0:17:52.40,0:17:53.99,Default,,0,0,0,,C'est vrai, pour les fantômes ?
+Dialogue: 0,0:17:56.28,0:17:57.30,Default,,0,0,0,,Ouais.
+Dialogue: 0,0:17:57.88,0:17:59.50,Default,,0,0,0,,Comment vous le savez ?
+Dialogue: 0,0:18:01.52,0:18:03.94,Default,,0,0,0,,Je vois des choses\Nque les gens normaux ne voient pas...
+Dialogue: 0,0:18:04.24,0:18:06.64,Default,,0,0,0,,...ou ne veulent pas voir.
+Dialogue: 0,0:18:11.60,0:18:13.69,Default,,0,0,0,,Il y en a dans cette pièce ?
+Dialogue: 0,0:18:25.36,0:18:26.86,Default,,0,0,0,,Je vois une momie.
+Dialogue: 0,0:18:27.84,0:18:29.88,Default,,0,0,0,,Vous cherchez à me faire peur.
+Dialogue: 0,0:18:31.28,0:18:32.52,Default,,0,0,0,,Non, pas du tout.
+Dialogue: 0,0:18:33.60,0:18:35.62,Default,,0,0,0,,Mais ce qui va vous faire peur...
+Dialogue: 0,0:18:38.96,0:18:39.99,Default,,0,0,0,,c'est ça.
+Dialogue: 0,0:19:14.64,0:19:15.96,Default,,0,0,0,,Tu es fatigué ?
+Dialogue: 0,0:19:16.08,0:19:17.52,Default,,0,0,0,,Fais-moi un câlin.
+Dialogue: 0,0:19:21.08,0:19:22.54,Default,,0,0,0,,Oh, tu m'étouffes.
+Dialogue: 0,0:19:24.40,0:19:25.50,Default,,0,0,0,,Jate...
+Dialogue: 0,0:19:27.68,0:19:29.68,Default,,0,0,0,,Tu dois vraiment t'occuper de cette affaire ?
+Dialogue: 0,0:19:30.36,0:19:32.54,Default,,0,0,0,,Je ne voudrais pas\Nque tu aides la mauvaise personne.
+Dialogue: 0,0:19:32.60,0:19:33.76,Default,,0,0,0,,Crois-moi...
+Dialogue: 0,0:19:34.12,0:19:35.77,Default,,0,0,0,,Elle n'est pas coupable.
+Dialogue: 0,0:19:37.20,0:19:38.86,Default,,0,0,0,,Toutes les apparences sont contre elle,
+Dialogue: 0,0:19:39.16,0:19:40.68,Default,,0,0,0,,mais elle est innocente.
+Dialogue: 0,0:19:42.80,0:19:44.57,Default,,0,0,0,,Tu ne me crois pas.
+Dialogue: 0,0:19:45.32,0:19:46.70,Default,,0,0,0,,C'est comme tu veux.
+Dialogue: 0,0:19:46.88,0:19:50.44,Default,,0,0,0,,Ce n'est qu'un boulot.\NAllez, fais-moi un câlin, maintenant.
+Dialogue: 0,0:19:52.04,0:19:54.45,Default,,0,0,0,,KAEWKWAN
+Dialogue: 0,0:20:01.98,0:20:03.06,Default,,0,0,0,,Allo ?
+Dialogue: 0,0:20:03.07,0:20:05.64,Default,,0,0,0,,{\i1}Jate ! Aidez-moi, un fantôme !{\i0}
+Dialogue: 0,0:20:05.92,0:20:07.08,Default,,0,0,0,,{\i1}Jate, aidez-moi !{\i0}
+Dialogue: 0,0:20:15.92,0:20:17.96,Default,,0,0,0,,Oh, vous êtes venu.
+Dialogue: 0,0:20:21.04,0:20:22.54,Default,,0,0,0,,Ca vous amuse ?
+Dialogue: 0,0:20:23.72,0:20:26.76,Default,,0,0,0,,C'est votre faute. Vous m'avez fait peur\Navec votre histoire de fantômes.
+Dialogue: 0,0:20:28.08,0:20:29.89,Default,,0,0,0,,Vous devez rester avec moi cette nuit.
+Dialogue: 0,0:20:45.72,0:20:47.56,Default,,0,0,0,,Je te ramène d'abord.
+Dialogue: 0,0:20:49.80,0:20:51.84,Default,,0,0,0,,Ca ira. Je peux rentrer seule.
+Dialogue: 0,0:20:56.04,0:20:57.06,Default,,0,0,0,,Jum...
+Dialogue: 0,0:20:57.44,0:20:58.50,Default,,0,0,0,,Jum...
+Dialogue: 0,0:21:10.52,0:21:12.36,Default,,0,0,0,,Vous voulez un cachet pour dormir ?
+Dialogue: 0,0:21:13.48,0:21:14.48,Default,,0,0,0,,Non.
+Dialogue: 0,0:21:30.80,0:21:33.04,Default,,0,0,0,,Les morts me suivent, vraiment ?
+Dialogue: 0,0:21:36.76,0:21:38.52,Default,,0,0,0,,Est-ce qu'ils sont tous là ?
+Dialogue: 0,0:21:42.32,0:21:43.84,Default,,0,0,0,,Il y en a 3, ici.
+Dialogue: 0,0:21:53.76,0:21:55.75,Default,,0,0,0,,Comment pourrais-je les voir, moi aussi ?
+Dialogue: 0,0:21:59.92,0:22:02.52,Default,,0,0,0,,Pourquoi vouloir les voir?\NCa ne vous effraie pas ?
+Dialogue: 0,0:22:02.60,0:22:03.68,Default,,0,0,0,,Non.
+Dialogue: 0,0:22:04.40,0:22:07.56,Default,,0,0,0,,Penchez-vous et regardez entre vos jambes.
+Dialogue: 0,0:22:08.28,0:22:09.79,Default,,0,0,0,,Vous devriez voir.
+Dialogue: 0,0:22:39.80,0:22:41.38,Default,,0,0,0,,Vous me faites marcher.
+Dialogue: 0,0:22:42.04,0:22:44.91,Default,,0,0,0,,Si vous me preniez au sérieux,\Nje suis sûre que je pourrais les voir.
+Dialogue: 0,0:22:46.00,0:22:47.52,Default,,0,0,0,,Mieux vaut pas.
+Dialogue: 0,0:22:48.52,0:22:51.41,Default,,0,0,0,,Ce n'est pas un don...\NC'est une malédiction.
+Dialogue: 0,0:22:54.72,0:22:57.37,Default,,0,0,0,,SOIGNE-TOI BIEN
+Dialogue: 0,0:23:51.32,0:23:52.35,Default,,0,0,0,,Jate...
+Dialogue: 0,0:23:52.60,0:23:53.99,Default,,0,0,0,,Jate, aidez-moi !
+Dialogue: 0,0:24:06.12,0:24:07.63,Default,,0,0,0,,Jate, au secours !
+Dialogue: 0,0:24:10.52,0:24:12.24,Default,,0,0,0,,Je vais te tuer !
+Dialogue: 0,0:24:13.04,0:24:16.93,Default,,0,0,0,,Je vais te tuer !
+Dialogue: 0,0:24:32.96,0:24:34.04,Default,,0,0,0,,Jate !
+Dialogue: 0,0:24:41.32,0:24:42.52,Default,,0,0,0,,Jate !
+Dialogue: 0,0:24:45.96,0:24:47.08,Default,,0,0,0,,Jate !
+Dialogue: 0,0:24:47.80,0:24:49.60,Default,,0,0,0,,Jate, au secours !
+Dialogue: 0,0:24:54.64,0:24:55.64,Default,,0,0,0,,Jate !
+Dialogue: 0,0:25:09.36,0:25:10.36,Default,,0,0,0,,Jate !
+Dialogue: 0,0:25:13.00,0:25:14.24,Default,,0,0,0,,Aidez-moi !
+Dialogue: 0,0:25:37.80,0:25:38.88,Default,,0,0,0,,Jate !
+Dialogue: 0,0:25:52.24,0:25:53.99,Default,,0,0,0,,Quel monstre êtes-vous ?
+Dialogue: 0,0:25:54.08,0:25:56.48,Default,,0,0,0,,Mon fils est mort, ça ne vous fait rien ?
+Dialogue: 0,0:25:56.68,0:25:59.88,Default,,0,0,0,,Vous semblez tirée d'affaire.\NC'est grâce à M. Jate ?
+Dialogue: 0,0:26:00.40,0:26:04.29,Default,,0,0,0,,Alors le meurtrier n'est pas responsable ?
+Dialogue: 0,0:26:04.64,0:26:06.25,Default,,0,0,0,,{\i1}C'est au tribunal de juger.{\i0}
+Dialogue: 0,0:26:06.28,0:26:07.76,Default,,0,0,0,,{\i1}S'il l'autorise à sortir,{\i0}
+Dialogue: 0,0:26:07.78,0:26:09.24,Default,,0,0,0,,{\i1}c'est que ma cliente ne fuira pas.{\i0}
+Dialogue: 0,0:26:09.32,0:26:10.97,Default,,0,0,0,,{\i1}Par ailleurs, elle n'est qu'un suspect.{\i0}
+Dialogue: 0,0:26:11.28,0:26:13.40,Default,,0,0,0,,{\i1}Et non une meurtrière.{\i0}
+Dialogue: 0,0:26:14.60,0:26:17.44,Default,,0,0,0,,{\i1}Salope, tu as tué mon fils.{\i0}
+Dialogue: 0,0:26:17.72,0:26:19.12,Default,,0,0,0,,{\i1}Comment tu peux dire ça, connasse ?{\i0}
+Dialogue: 0,0:26:20.00,0:26:21.96,Default,,0,0,0,,{\i1}Salope ! Mauvaise fille !{\i0}
+Dialogue: 0,0:26:22.20,0:26:23.44,Default,,0,0,0,,{\i1}Assassin !{\i0}
+Dialogue: 0,0:26:23.64,0:26:25.13,Default,,0,0,0,,{\i1}Avocat véreux !{\i0}
+Dialogue: 0,0:26:25.76,0:26:28.60,Default,,0,0,0,,{\i1}Vous estimez que l'accusée\Nne doit pas être punie ?{\i0}
+Dialogue: 0,0:26:28.88,0:26:30.00,Default,,0,0,0,,{\i1}Je crois à la justice.{\i0}
+Dialogue: 0,0:26:30.08,0:26:31.74,Default,,0,0,0,,{\i1}Laissez la Cour prononcer son jugement.{\i0}
+Dialogue: 0,0:26:32.40,0:26:34.05,Default,,0,0,0,,{\i1}Comment pouvez-vous dire ça ?{\i0}
+Dialogue: 0,0:26:34.48,0:26:36.92,Default,,0,0,0,,{\i1}Salopard ! Enfoiré d'avocat !{\i0}
+Dialogue: 0,0:26:37.16,0:26:39.16,Default,,0,0,0,,{\i1}Une vie ne signifie donc rien, pour vous ?{\i0}
+Dialogue: 0,0:26:39.80,0:26:42.12,Default,,0,0,0,,{\i1}C'était les dernières infos\Ndu tribunal pour aujourd'hui.{\i0}
+Dialogue: 0,0:26:42.16,0:26:43.96,Default,,0,0,0,,{\i1}Cette affaire suscite bien des passions{\i0}
+Dialogue: 0,0:26:44.12,0:26:46.64,Default,,0,0,0,,{\i1}et tout le monde se sent concerné.{\i0}
+Dialogue: 0,0:26:47.04,0:26:51.88,Default,,0,0,0,,{\i1}Nous vous tiendrons informés\Ndes suites données à cette affaire.{\i0}
+Dialogue: 0,0:28:02.04,0:28:04.80,Default,,0,0,0,,Si je le fais,\Nles fantômes arrêteront de me suivre ?
+Dialogue: 0,0:28:06.68,0:28:07.94,Default,,0,0,0,,Peut-être pas.
+Dialogue: 0,0:28:08.00,0:28:10.58,Default,,0,0,0,,Mais vous aurez au moins fait quelque chose.
+Dialogue: 0,0:28:11.16,0:28:13.40,Default,,0,0,0,,Vous ne vous serez pas contentée d'avoir peur.
+Dialogue: 0,0:28:14.68,0:28:16.60,Default,,0,0,0,,C'est comme si je m'offrais un cercueil.
+Dialogue: 0,0:28:18.28,0:28:19.30,Default,,0,0,0,,Non...
+Dialogue: 0,0:28:19.92,0:28:21.33,Default,,0,0,0,,Celui-ci est réservé.
+Dialogue: 0,0:28:41.48,0:28:43.98,Default,,0,0,0,,Mon Père, vous auriez quelque chose\Npour protéger du mal
+Dialogue: 0,0:28:44.20,0:28:47.64,Default,,0,0,0,,ou des fantômes, vous voyez ?
+Dialogue: 0,0:28:49.08,0:28:52.64,Default,,0,0,0,,Vous le savez très bien. Rien d'autre\Nne peux vous protéger que vous-même.
+Dialogue: 0,0:28:54.84,0:28:56.17,Default,,0,0,0,,Je sais.
+Dialogue: 0,0:28:56.76,0:28:59.68,Default,,0,0,0,,Pourquoi ne pas dire ou faire quelque chose\Npour rassurer les gens...
+Dialogue: 0,0:29:00.40,0:29:02.46,Default,,0,0,0,,comme le feraient d'autres moines ?
+Dialogue: 0,0:29:18.12,0:29:20.00,Default,,0,0,0,,Ca peut vraiment protéger des fantômes ?
+Dialogue: 0,0:29:21.44,0:29:24.44,Default,,0,0,0,,Si votre esprit\Nest aussi fort que ce chapelet,
+Dialogue: 0,0:29:25.08,0:29:27.48,Default,,0,0,0,,nul mal ne pourra vous atteindre.
+Dialogue: 0,0:30:12.96,0:30:14.52,Default,,0,0,0,,Jate, vous avez faim ?
+Dialogue: 0,0:30:15.76,0:30:17.78,Default,,0,0,0,,Je peux vous préparer quelque chose.
+Dialogue: 0,0:30:44.92,0:30:47.49,Default,,0,0,0,,Pourquoi me regardez-vous comme ça ?
+Dialogue: 0,0:30:48.68,0:30:52.96,Default,,0,0,0,,C'est le même regard...\Nque lors de notre première rencontre.
+Dialogue: 0,0:30:54.92,0:30:57.44,Default,,0,0,0,,C'est comme si je vous avais connue avant.
+Dialogue: 0,0:30:58.16,0:30:59.84,Default,,0,0,0,,J'ai compris !
+Dialogue: 0,0:31:00.44,0:31:02.48,Default,,0,0,0,,Une ancienne petite amie, pas vrai ?
+Dialogue: 0,0:31:03.00,0:31:06.64,Default,,0,0,0,,Ce truc est aussi vieux que vous.
+Dialogue: 0,0:31:07.32,0:31:10.05,Default,,0,0,0,,Ecoutez... Comprenez-moi bien.
+Dialogue: 0,0:31:10.92,0:31:13.00,Default,,0,0,0,,Inutile de nier...
+Dialogue: 0,0:31:13.84,0:31:17.64,Default,,0,0,0,,vous n'aimeriez pas avoir\Nune petite amie plus jeune ?
+Dialogue: 0,0:31:19.40,0:31:20.93,Default,,0,0,0,,Vous ne seriez pas trop jeune ?
+Dialogue: 0,0:31:21.36,0:31:23.72,Default,,0,0,0,,J'ai 20 ans de plus que vous.
+Dialogue: 0,0:31:24.64,0:31:27.12,Default,,0,0,0,,De plus, j'ai déjà une petite amie.
+Dialogue: 0,0:31:27.56,0:31:29.05,Default,,0,0,0,,Vous l'avez vue, n'est-ce pas ?
+Dialogue: 0,0:31:29.40,0:31:32.60,Default,,0,0,0,,Ca m'est égal, ce n'est pas important.
+Dialogue: 0,0:31:50.52,0:31:52.32,Default,,0,0,0,,C'est ma recette perso.
+Dialogue: 0,0:31:52.40,0:31:54.52,Default,,0,0,0,,Ca boostera votre énergie.
+Dialogue: 0,0:31:55.52,0:31:58.24,Default,,0,0,0,,Je suppose que là, vous n'avez pas peur,\Nn'est-ce pas ?
+Dialogue: 0,0:31:58.80,0:32:00.60,Default,,0,0,0,,Alors, je peux donc rentrer chez moi.
+Dialogue: 0,0:32:03.48,0:32:07.64,Default,,0,0,0,,Pourquoi faut-il que vous en parliez ?\NLa peur est revenue, maintenant.
+Dialogue: 0,0:32:10.92,0:32:12.26,Default,,0,0,0,,C'est étrange.
+Dialogue: 0,0:32:12.88,0:32:16.32,Default,,0,0,0,,Vous n'étiez pas comme ça,\Nà notre première rencontre.
+Dialogue: 0,0:32:17.72,0:32:21.52,Default,,0,0,0,,Ce jour-là, vous étiez sacrément délurée.
+Dialogue: 0,0:32:29.88,0:32:31.28,Default,,0,0,0,,C'est vrai.
+Dialogue: 0,0:32:31.84,0:32:35.00,Default,,0,0,0,,Je ne sais pas pourquoi je me sens si bien...
+Dialogue: 0,0:32:37.64,0:32:39.60,Default,,0,0,0,,quand vous êtes là.
+Dialogue: 0,0:32:42.80,0:32:44.84,Default,,0,0,0,,Je crois que je ferais mieux d'y aller.
+Dialogue: 0,0:32:45.72,0:32:47.00,Default,,0,0,0,,Reposez-vous.
+Dialogue: 0,0:32:47.44,0:32:48.80,Default,,0,0,0,,On se voit demain.
+Dialogue: 0,0:33:14.72,0:33:21.92,Default,,0,0,0,,{\i1}C'est une chanson que j'ai écrite...{\i0}
+Dialogue: 0,0:33:23.60,0:33:31.24,Default,,0,0,0,,{\i1}...Un air de piano que je joue pour toi...{\i0}
+Dialogue: 0,0:33:32.20,0:33:33.28,Default,,0,0,0,,{\i1}Pour...{\i0}
+Dialogue: 0,0:33:35.64,0:33:38.21,Default,,0,0,0,,{\i1}...pour te faire...{\i0}
+Dialogue: 0,0:33:38.76,0:33:41.12,Default,,0,0,0,,{\i1}ressentir...{\i0}
+Dialogue: 0,0:33:43.12,0:33:46.40,Default,,0,0,0,,{\i1}...pour te régaler...{\i0}
+Dialogue: 0,0:33:46.76,0:33:49.04,Default,,0,0,0,,{\i1}...de l'amour profond{\i0}
+Dialogue: 0,0:33:49.40,0:33:53.08,Default,,0,0,0,,{\i1}...pour te régaler...{\i0}
+Dialogue: 0,0:33:53.56,0:33:57.53,Default,,0,0,0,,{\i1}de mon profond amour...{\i0}
+Dialogue: 0,0:33:58.32,0:34:05.32,Default,,0,0,0,,{\i1}Jour après jour je déverse mes mots...{\i0}
+Dialogue: 0,0:34:09.76,0:34:17.28,Default,,0,0,0,,{\i1}et le jour où s'achève cette mélodie...{\i0}
+Dialogue: 0,0:34:27.08,0:34:33.44,Default,,0,0,0,,{\i1}est le jour que tu choisis pour me quitter,{\i0}
+Dialogue: 0,0:34:33.92,0:34:36.24,Default,,0,0,0,,{\i1}sans préavis...{\i0}
+Dialogue: 0,0:34:57.56,0:35:01.36,Default,,0,0,0,,{\i1}ce profond amour dans mon coeur...{\i0}
+Dialogue: 0,0:35:01.80,0:35:06.08,Default,,0,0,0,,{\i1}est sans objet si tu n'es pas là{\i0}
+Dialogue: 0,0:35:06.32,0:35:07.04,Default,,0,0,0,,{\i1}pour me dire...{\i0}
+Dialogue: 0,0:37:06.08,0:37:07.16,Default,,0,0,0,,Jum ...?
+Dialogue: 0,0:37:08.68,0:37:09.74,Default,,0,0,0,,Jum ...?
+Dialogue: 0,0:37:09.80,0:37:11.24,Default,,0,0,0,,Jate...
+Dialogue: 0,0:37:17.08,0:37:18.18,Default,,0,0,0,,Le café.
+Dialogue: 0,0:37:19.08,0:37:20.16,Default,,0,0,0,,Voilà.
+Dialogue: 0,0:37:21.40,0:37:22.52,Default,,0,0,0,,Merci.
+Dialogue: 0,0:37:29.00,0:37:30.35,Default,,0,0,0,,Jum, n'y pense plus.
+Dialogue: 0,0:37:30.36,0:37:32.00,Default,,0,0,0,,C'est un mauvais rêve. Tu ne crains rien.
+Dialogue: 0,0:37:32.40,0:37:33.96,Default,,0,0,0,,Tu ne me crois pas ?
+Dialogue: 0,0:37:34.08,0:37:35.76,Default,,0,0,0,,je te dis que ce n'était pas un rêve.
+Dialogue: 0,0:37:36.48,0:37:37.96,Default,,0,0,0,,C'est pas que je ne te crois pas,
+Dialogue: 0,0:37:38.04,0:37:41.52,Default,,0,0,0,,mais j'ai tout vérifié et j'ai rien trouvé.
+Dialogue: 0,0:37:42.64,0:37:45.68,Default,,0,0,0,,Super. Avec moi, tu ne vois rien,
+Dialogue: 0,0:37:46.12,0:37:49.12,Default,,0,0,0,,mais avec cette fille,\Nje suppose que tu vois tout.
+Dialogue: 0,0:37:50.60,0:37:51.99,Default,,0,0,0,,De quoi tu parles ?
+Dialogue: 0,0:37:52.16,0:37:54.52,Default,,0,0,0,,C'est ma cliente et ce n'est qu'une enfant.
+Dialogue: 0,0:37:55.32,0:37:57.44,Default,,0,0,0,,KAEW
+Dialogue: 0,0:38:03.56,0:38:04.60,Default,,0,0,0,,Jum, attends !
+Dialogue: 0,0:38:04.88,0:38:05.98,Default,,0,0,0,,Il n'y a rien entre...
+Dialogue: 0,0:38:26.18,0:38:27.24,Default,,0,0,0,,Jate ! Jate !
+Dialogue: 0,0:38:27.32,0:38:29.20,Default,,0,0,0,,Jate ! Que se passe-t-il ? Monsieur !
+Dialogue: 0,0:38:29.48,0:38:30.74,Default,,0,0,0,,Jate ! Monsieur !
+Dialogue: 0,0:38:44.84,0:38:46.50,Default,,0,0,0,,Toujours mal à la tête ?
+Dialogue: 0,0:38:47.24,0:38:48.38,Default,,0,0,0,,Plus maintenant.
+Dialogue: 0,0:38:48.40,0:38:52.96,Default,,0,0,0,,Ce symptôme provient souvent\Nd'une pression excessive dans le cerveau.
+Dialogue: 0,0:38:53.76,0:38:56.65,Default,,0,0,0,,On le retrouve dans les cas\Nde tumeurs cérébrales avancées.
+Dialogue: 0,0:38:56.88,0:38:57.92,Default,,0,0,0,,Bizarrement...
+Dialogue: 0,0:38:58.20,0:39:01.01,Default,,0,0,0,,nous n'avons rien trouvé d'inhabituel.
+Dialogue: 0,0:39:01.88,0:39:03.76,Default,,0,0,0,,Si c'est une question de stress,
+Dialogue: 0,0:39:04.44,0:39:06.46,Default,,0,0,0,,vous devez être la personne
+Dialogue: 0,0:39:06.52,0:39:08.52,Default,,0,0,0,,la plus stressée que le monde ait connue.
+Dialogue: 0,0:39:09.46,0:39:10.65,Default,,0,0,0,,Pardon de demander ça,
+Dialogue: 0,0:39:10.68,0:39:13.25,Default,,0,0,0,,mais qu'est-ce qui vous stresse autant ?
+Dialogue: 0,0:39:16.20,0:39:18.85,Default,,0,0,0,,Une dispute avec ma petite amie.
+Dialogue: 0,0:39:19.64,0:39:22.88,Default,,0,0,0,,Ce doit être une grosse dispute, alors.
+Dialogue: 0,0:39:23.32,0:39:25.12,Default,,0,0,0,,Ne vous angoissez pas trop,
+Dialogue: 0,0:39:25.16,0:39:26.88,Default,,0,0,0,,vous risqueriez l'accident vasculaire.
+Dialogue: 0,0:39:36.16,0:39:37.20,Default,,0,0,0,,Jum...
+Dialogue: 0,0:39:37.92,0:39:39.59,Default,,0,0,0,,Je ne suis pas infidèle.
+Dialogue: 0,0:39:39.76,0:39:41.98,Default,,0,0,0,,Ces photos ont été prises quand je dormais.
+Dialogue: 0,0:39:42.64,0:39:45.76,Default,,0,0,0,,Tu devais être très fatigué\Npour dormir aussi profondément.
+Dialogue: 0,0:39:53.08,0:39:54.76,Default,,0,0,0,,Elle ne m'attire pas.
+Dialogue: 0,0:39:55.44,0:39:58.04,Default,,0,0,0,,Ce n'est qu'une gamine que je veux aider.
+Dialogue: 0,0:39:58.12,0:39:59.32,Default,,0,0,0,,C'est tout.
+Dialogue: 0,0:40:00.72,0:40:03.50,Default,,0,0,0,,Ce n'est pas qu'elle te rappelle\Nquelqu'un, dans ton passé ?
+Dialogue: 0,0:40:09.12,0:40:10.97,Default,,0,0,0,,Si tu veux rester avec moi,
+Dialogue: 0,0:40:11.24,0:40:12.99,Default,,0,0,0,,retire-toi de cette affaire.
+Dialogue: 0,0:40:20.84,0:40:21.92,Default,,0,0,0,,Oh, Jate !
+Dialogue: 0,0:40:22.80,0:40:25.46,Default,,0,0,0,,Content de vous voir.\NVous pourriez parler au patron ?
+Dialogue: 0,0:40:25.52,0:40:27.15,Default,,0,0,0,,J'aimerais me retirer de l'affaire.
+Dialogue: 0,0:40:27.44,0:40:28.48,Default,,0,0,0,,Pourquoi ?
+Dialogue: 0,0:40:29.16,0:40:30.60,Default,,0,0,0,,Ca ne vous concerne pas.
+Dialogue: 0,0:40:30.64,0:40:31.99,Default,,0,0,0,,Faites comme j'ai dit.
+Dialogue: 0,0:40:33.56,0:40:34.97,Default,,0,0,0,,La police vient d'appeler.
+Dialogue: 0,0:40:35.34,0:40:36.98,Default,,0,0,0,,Ils vous réclament sur la scène de crime.
+Dialogue: 0,0:40:37.00,0:40:38.64,Default,,0,0,0,,Il y a un autre corps.
+Dialogue: 0,0:40:39.44,0:40:40.50,Default,,0,0,0,,OK.
+Dialogue: 0,0:40:42.36,0:40:43.46,Default,,0,0,0,,D'ailleurs, Marisa...
+Dialogue: 0,0:40:44.52,0:40:47.52,Default,,0,0,0,,il y a un corps ici aussi.
+Dialogue: 0,0:41:06.48,0:41:08.52,Default,,0,0,0,,{\i1}Où est ce dossier ?{\i0}
+Dialogue: 0,0:41:08.84,0:41:10.84,Default,,0,0,0,,{\i1}Oui, parfois ils sont à part.{\i0}
+Dialogue: 0,0:41:28.36,0:41:30.41,Default,,0,0,0,,Vous voilà, M.l'avocat.
+Dialogue: 0,0:41:35.64,0:41:37.29,Default,,0,0,0,,J'ai vu les infos.
+Dialogue: 0,0:41:39.24,0:41:43.32,Default,,0,0,0,,Le public en veut à l'accusée.
+Dialogue: 0,0:41:46.84,0:41:48.55,Default,,0,0,0,,Je suis curieux de voir
+Dialogue: 0,0:41:48.64,0:41:52.40,Default,,0,0,0,,si, cette fois, vous parviendrez\Nà aider un meurtrier à s'en sortir.
+Dialogue: 0,0:41:55.32,0:41:58.00,Default,,0,0,0,,Apparemment, vous apprécieriez mieux\Nme voir perdre l'affaire
+Dialogue: 0,0:41:58.04,0:42:01.16,Default,,0,0,0,,que de voir ma cliente en prison.
+Dialogue: 0,0:42:04.80,0:42:06.82,Default,,0,0,0,,Je dois constater...
+Dialogue: 0,0:42:07.52,0:42:09.88,Default,,0,0,0,,que votre karma aurait dû\Nvous rattraper depuis longtemps.
+Dialogue: 0,0:42:14.00,0:42:16.52,Default,,0,0,0,,A chacun son propre karma.
+Dialogue: 0,0:42:17.16,0:42:19.81,Default,,0,0,0,,Il en rattrape certains une fois pour toutes
+Dialogue: 0,0:42:20.44,0:42:21.80,Default,,0,0,0,,mais pour d'autres,
+Dialogue: 0,0:42:22.40,0:42:24.52,Default,,0,0,0,,il se contente de grignoter leur âme
+Dialogue: 0,0:42:24.68,0:42:26.60,Default,,0,0,0,,jusqu'à ce qu'il n'en reste rien.
+Dialogue: 0,0:42:38.40,0:42:41.88,Default,,0,0,0,,Inspecteur, mes intentions sont bonnes\Nen disant cela.
+Dialogue: 0,0:42:42.64,0:42:44.69,Default,,0,0,0,,Vous devriez cesser de manger du serpent.
+Dialogue: 0,0:42:44.84,0:42:46.84,Default,,0,0,0,,Les serpents sont des animaux maudits.
+Dialogue: 0,0:42:47.44,0:42:49.48,Default,,0,0,0,,Ils peuvent dévorer votre âme...
+Dialogue: 0,0:42:49.80,0:42:51.94,Default,,0,0,0,,jusqu'à en prélever la moindre parcelle.
+Dialogue: 0,0:42:53.44,0:42:56.04,Default,,0,0,0,,{\i1}Je plaide coupable...{\i0}
+Dialogue: 0,0:42:58.40,0:43:00.44,Default,,0,0,0,,Vous avez parlé à mes subordonnés, hein ?
+Dialogue: 0,0:43:01.72,0:43:04.32,Default,,0,0,0,,Gardez vos trucs de cirque\Npour le tribunal.
+Dialogue: 0,0:43:09.52,0:43:10.86,Default,,0,0,0,,Comme vous voudrez.
+Dialogue: 0,0:43:11.16,0:43:14.13,Default,,0,0,0,,Veuillez m'excuser, mais\Nje dois voir la voiture de ma cliente.
+Dialogue: 0,0:43:38.84,0:43:41.00,Default,,0,0,0,,C'est bon. Je vais descendre à pied.
+Dialogue: 0,0:43:41.84,0:43:43.86,Default,,0,0,0,,Une bonne poire comme vous,\Nça prend les escaliers.
+Dialogue: 0,0:43:44.24,0:43:45.32,Default,,0,0,0,,Et moi...
+Dialogue: 0,0:43:46.72,0:43:47.94,Default,,0,0,0,,...l'ascenseur.
+Dialogue: 0,0:43:58.76,0:43:59.78,Default,,0,0,0,,Mais que...?
+Dialogue: 0,0:44:37.92,0:44:39.06,Default,,0,0,0,,Qu'est ce que...?
+Dialogue: 0,0:44:59.52,0:45:01.52,Default,,0,0,0,,VEHICULES DE SCENES DE CRIME
+Dialogue: 0,0:45:07.80,0:45:08.88,Default,,0,0,0,,Bonjour.
+Dialogue: 0,0:45:10.00,0:45:13.08,Default,,0,0,0,,Où se trouve la voiture\Ndu dernier accident ?
+Dialogue: 0,0:45:19.68,0:45:20.70,Default,,0,0,0,,Merci.
+Dialogue: 0,0:47:15.92,0:47:17.87,Default,,0,0,0,,A chaque fois que vous avez une vision,
+Dialogue: 0,0:47:17.96,0:47:19.64,Default,,0,0,0,,vous avez la migraine ?
+Dialogue: 0,0:47:24.88,0:47:26.45,Default,,0,0,0,,Ca va, Jate ?
+Dialogue: 0,0:47:34.28,0:47:35.54,Default,,0,0,0,,Puis-je prendre votre main ?
+Dialogue: 0,0:47:35.56,0:47:36.62,Default,,0,0,0,,Pourquoi ?
+Dialogue: 0,0:47:37.44,0:47:39.31,Default,,0,0,0,,Quand je tiens la main de quelqu'un,
+Dialogue: 0,0:47:39.44,0:47:42.68,Default,,0,0,0,,je vois son passé comme son futur.
+Dialogue: 0,0:47:43.44,0:47:45.69,Default,,0,0,0,,Et si je tiens votre main assez longtemps,
+Dialogue: 0,0:47:46.04,0:47:49.93,Default,,0,0,0,,je saurai pourquoi\Nles fantômes sont après vous.
+Dialogue: 0,0:48:18.40,0:48:19.44,Default,,0,0,0,,Jate !
+Dialogue: 0,0:48:19.52,0:48:20.74,Default,,0,0,0,,Jate, qu'y a-t-il ?
+Dialogue: 0,0:48:21.80,0:48:23.54,Default,,0,0,0,,Ils ne veulent pas que je vois.
+Dialogue: 0,0:48:25.32,0:48:26.39,Default,,0,0,0,,Encore !
+Dialogue: 0,0:48:26.40,0:48:28.27,Default,,0,0,0,,Non, vous devez être épuisé !
+Dialogue: 0,0:48:32.40,0:48:33.48,Default,,0,0,0,,Jum...
+Dialogue: 0,0:48:33.96,0:48:34.96,Default,,0,0,0,,Jum !
+Dialogue: 0,0:50:58.64,0:50:59.97,Default,,0,0,0,,Au secours !
+Dialogue: 0,0:51:01.08,0:51:03.44,Default,,0,0,0,,Aidez-moi !
+Dialogue: 0,0:52:08.28,0:52:10.16,Default,,0,0,0,,Jate, c'est encore elle.
+Dialogue: 0,0:52:14.20,0:52:15.64,Default,,0,0,0,,Je vais mourir ici ?
+Dialogue: 0,0:52:16.80,0:52:17.84,Default,,0,0,0,,Jum...
+Dialogue: 0,0:52:18.60,0:52:20.88,Default,,0,0,0,,souviens-toi que je t'aime.
+Dialogue: 0,0:52:22.60,0:52:26.00,Default,,0,0,0,,Ce que je vais faire,\Nc'est t'aider dans la mort.
+Dialogue: 0,0:52:26.68,0:52:29.25,Default,,0,0,0,,Alors tu dois me faire confiance.
+Dialogue: 0,0:52:30.00,0:52:31.72,Default,,0,0,0,,Tu dois me faire confiance.
+Dialogue: 0,0:53:19.84,0:53:22.28,Default,,0,0,0,,Calme-toi, Jum. Du calme.
+Dialogue: 0,0:53:22.92,0:53:23.92,Default,,0,0,0,,Calme.
+Dialogue: 0,0:53:25.52,0:53:27.92,Default,,0,0,0,,Tu échappes à l'instant\Nentre la vie et la mort.
+Dialogue: 0,0:53:28.28,0:53:29.80,Default,,0,0,0,,En te ramenant,
+Dialogue: 0,0:53:32.84,0:53:34.56,Default,,0,0,0,,tu nais à nouveau.
+Dialogue: 0,0:53:34.84,0:53:37.44,Default,,0,0,0,,A partir de maintenant,\Nplus personne ne pourra te faire de mal.
+Dialogue: 0,0:53:37.52,0:53:38.96,Default,,0,0,0,,Mais je l'ai vue.
+Dialogue: 0,0:53:39.08,0:53:40.12,Default,,0,0,0,,Elle veux me tuer.
+Dialogue: 0,0:53:40.44,0:53:41.84,Default,,0,0,0,,Elle est dans l'eau, Jate.
+Dialogue: 0,0:53:41.92,0:53:43.72,Default,,0,0,0,,Tu as vu qui ?
+Dialogue: 0,0:53:52.40,0:53:54.80,Default,,0,0,0,,Pouvez-vous venir\Nsur la scène de crime, demain ?
+Dialogue: 0,0:53:55.44,0:53:58.17,Default,,0,0,0,,Vous trouverez le corps manquant.
+Dialogue: 0,0:54:08.28,0:54:11.92,Default,,0,0,0,,{\i1}Cette maison a été construite\Npour les jeunes mariés.{\i0}
+Dialogue: 0,0:54:12.24,0:54:14.64,Default,,0,0,0,,{\i1}Mais ils sont morts dans l'accident\Navant d'y emménager.{\i0}
+Dialogue: 0,0:54:14.80,0:54:16.90,Default,,0,0,0,,{\i1}Vous êtes sûr de pouvoir rester ici ?{\i0}
+Dialogue: 0,0:54:18.32,0:54:21.20,Default,,0,0,0,,{\i1}Préparez de la nourriture\Npour rendre hommage aux esprits.{\i0}
+Dialogue: 0,0:54:21.28,0:54:23.20,Default,,0,0,0,,{\i1}N'oubliez pas d'allumer les bâtons d'encens.{\i0}
+Dialogue: 0,0:54:48.36,0:54:51.33,Default,,0,0,0,,{\i1}Si vous voulez que quelqu'un\Nreste avec vous, attention.{\i0}
+Dialogue: 0,0:54:51.84,0:54:54.00,Default,,0,0,0,,{\i1}Mon amie porte des extensions de cheveux...{\i0}
+Dialogue: 0,0:54:55.32,0:54:58.00,Default,,0,0,0,,{\i1}Et une nuit...{\i0}
+Dialogue: 0,0:54:58.28,0:55:01.28,Default,,0,0,0,,{\i1}La fille lui a dit...{\i0}
+Dialogue: 0,0:55:01.60,0:55:04.33,Default,,0,0,0,,{\i1}Le premier baiser vous dira...{\i0}
+Dialogue: 0,0:55:04.80,0:55:06.92,Default,,0,0,0,,{\i1}Tu m'aimeras ? Est-ce que...{\i0}
+Dialogue: 0,0:55:07.32,0:55:09.84,Default,,0,0,0,,{\i1}Les fiancés, pour la séance de présentation,{\i0}
+Dialogue: 0,0:55:10.20,0:55:12.64,Default,,0,0,0,,{\i1}j'aimerais que vous montriez votre amour\Nà toute l'assistance.{\i0}
+Dialogue: 0,0:55:12.76,0:55:15.65,Default,,0,0,0,,{\i1}Prenez-vous dans les bras.\NRegardez-vous dans les yeux.{\i0}
+Dialogue: 0,0:55:15.92,0:55:18.04,Default,,0,0,0,,{\i1}Serrez-vous. Regardez-vous.{\i0}
+Dialogue: 0,0:55:18.28,0:55:20.40,Default,,0,0,0,,{\i1}Et un baiser.{\i0}
+Dialogue: 0,0:55:20.76,0:55:23.16,Default,,0,0,0,,{\i1}Montrez-leur votre amour.{\i0}
+Dialogue: 0,0:55:23.44,0:55:26.09,Default,,0,0,0,,{\i1}Bien... Doucement. Doucement.{\i0}
+Dialogue: 0,0:55:26.40,0:55:28.48,Default,,0,0,0,,{\i1}Bien. Et action !{\i0}
+Dialogue: 0,0:56:00.20,0:56:02.24,Default,,0,0,0,,{\i1}Les fiancés...{\i0}
+Dialogue: 0,0:56:02.52,0:56:06.44,Default,,0,0,0,,{\i1}j'aimerais que vous montriez votre amour\Nà toute l'assistance.{\i0}
+Dialogue: 0,0:56:06.68,0:56:10.28,Default,,0,0,0,,{\i1}Prenez-vous dans les bras.\NRegardez-vous les yeux dans les yeux.{\i0}
+Dialogue: 0,0:56:10.60,0:56:12.09,Default,,0,0,0,,{\i1}Serrez-vous.{\i0}
+Dialogue: 0,0:56:16.72,0:56:19.32,Default,,0,0,0,,{\i1}j'aimerais que vous montriez votre amour\Nà toute l'assistance.{\i0}
+Dialogue: 0,0:56:19.68,0:56:22.76,Default,,0,0,0,,{\i1}Prenez-vous dans les bras.\NRegardez-vous les yeux dans les yeux.{\i0}
+Dialogue: 0,0:56:23.24,0:56:25.04,Default,,0,0,0,,{\i1}j'aimerais que vous montriez votre amour...{\i0}
+Dialogue: 0,0:56:26.76,0:56:32.08,Default,,0,0,0,,{\i1}Les fiancés, offrez-moi un moment de tendresse.{\i0}
+Dialogue: 0,0:56:34.48,0:56:37.13,Default,,0,0,0,,{\i1}Bien. Rapprochez-vous.{\i0}
+Dialogue: 0,0:56:38.88,0:56:40.29,Default,,0,0,0,,{\i1}Excellent.{\i0}
+Dialogue: 0,0:56:40.60,0:56:42.32,Default,,0,0,0,,{\i1}Le fiancé, regardez votre promise.{\i0}
+Dialogue: 0,0:56:43.52,0:56:46.41,Default,,0,0,0,,{\i1}Et la fiancée, regardez votre homme.{\i0}
+Dialogue: 0,0:56:46.76,0:56:50.56,Default,,0,0,0,,{\i1}Excellent. Je vais filmer, maintenant.{\i0}
+Dialogue: 0,0:56:51.88,0:56:54.45,Default,,0,0,0,,{\i1}Excellent. Serrez-vous gentiment.{\i0}
+Dialogue: 0,0:56:55.16,0:56:57.00,Default,,0,0,0,,{\i1}Embrassez-vous doucement.{\i0}
+Dialogue: 0,0:56:59.00,0:57:02.20,Default,,0,0,0,,{\i1}C'est ça. Tenez-vous gentiment les mains.{\i0}
+Dialogue: 0,0:57:05.16,0:57:07.68,Default,,0,0,0,,{\i1}M. le fiancé, un câlin à votre future.{\i0}
+Dialogue: 0,0:57:09.78,0:57:10.82,Default,,0,0,0,,{\i1}Bien.{\i0}
+Dialogue: 0,0:57:10.84,0:57:12.20,Default,,0,0,0,,{\i1}Embrassez-la.{\i0}
+Dialogue: 0,0:57:24.04,0:57:25.08,Default,,0,0,0,,Kaew !
+Dialogue: 0,0:57:37.08,0:57:38.14,Default,,0,0,0,,Kaew !
+Dialogue: 0,0:57:40.08,0:57:41.16,Default,,0,0,0,,Jate...
+Dialogue: 0,0:57:56.92,0:57:59.96,Default,,0,0,0,,N'ayez pas peur, vous êtes à l'abri.
+Dialogue: 0,0:58:01.64,0:58:02.64,Default,,0,0,0,,Jate...
+Dialogue: 0,0:58:03.56,0:58:05.64,Default,,0,0,0,,Comment pourrais-je leur échapper ?
+Dialogue: 0,0:58:06.00,0:58:07.82,Default,,0,0,0,,Laissez-moi aller en prison,\Ns'il vous plaît.
+Dialogue: 0,0:58:08.12,0:58:10.60,Default,,0,0,0,,Peut-être que c'est ce qu'ils veulent.
+Dialogue: 0,0:58:12.28,0:58:14.08,Default,,0,0,0,,Ecoutez-moi...
+Dialogue: 0,0:58:16.24,0:58:17.76,Default,,0,0,0,,Reposez-vous.
+Dialogue: 0,0:58:18.64,0:58:21.00,Default,,0,0,0,,Je vais m'occuper de ça.
+Dialogue: 0,0:58:27.72,0:58:29.98,Default,,0,0,0,,Peu importe combien de cercueils j'achèterai,
+Dialogue: 0,0:58:30.08,0:58:31.88,Default,,0,0,0,,ils ne me pardonneront pas.
+Dialogue: 0,0:58:33.16,0:58:36.52,Default,,0,0,0,,Ils le doivent\Nsi nous leur faisons des excuses.
+Dialogue: 0,0:58:40.40,0:58:41.80,Default,,0,0,0,,Mon Père, bonjour.
+Dialogue: 0,0:58:43.60,0:58:44.60,Default,,0,0,0,,Mon Père,
+Dialogue: 0,0:58:44.92,0:58:48.28,Default,,0,0,0,,puis-je utiliser l'arrière-salle du temple ?
+Dialogue: 0,0:58:53.88,0:58:54.94,Default,,0,0,0,,Allons-y.
+Dialogue: 0,0:59:30.24,0:59:32.42,Default,,0,0,0,,Jate, que voulez-vous que je fasse ?
+Dialogue: 0,0:59:33.52,0:59:35.98,Default,,0,0,0,,Que voulez-vous dire\Npar "leur faire des excuses" ?
+Dialogue: 0,0:59:37.04,0:59:39.72,Default,,0,0,0,,Vous comprendrez le moment venu.
+Dialogue: 0,1:00:17.64,1:00:18.70,Default,,0,0,0,,Jate !
+Dialogue: 0,1:00:18.88,1:00:20.37,Default,,0,0,0,,Jate !
+Dialogue: 0,1:00:24.36,1:00:25.48,Default,,0,0,0,,Jate !
+Dialogue: 0,1:00:26.20,1:00:28.12,Default,,0,0,0,,Jate, aidez-moi !
+Dialogue: 0,1:00:33.08,1:00:35.08,Default,,0,0,0,,Laissez-moi sortir !
+Dialogue: 0,1:00:53.60,1:00:54.64,Default,,0,0,0,,Jate !
+Dialogue: 0,1:01:02.44,1:01:04.42,Default,,0,0,0,,Je suis désolée !
+Dialogue: 0,1:01:05.04,1:01:07.24,Default,,0,0,0,,SVP, laissez-moi !
+Dialogue: 0,1:01:08.76,1:01:10.88,Default,,0,0,0,,Je ne voulais pas !
+Dialogue: 0,1:01:13.32,1:01:15.48,Default,,0,0,0,,S'il vous plaît, pardonnez-moi !
+Dialogue: 0,1:01:17.28,1:01:19.64,Default,,0,0,0,,Je ne voulais pas !
+Dialogue: 0,1:02:22.52,1:02:24.50,Default,,0,0,0,,Mon Père, inutile de faire une prière.
+Dialogue: 0,1:02:25.12,1:02:26.20,Default,,0,0,0,,C'est inutile.
+Dialogue: 0,1:02:31.00,1:02:33.50,Default,,0,0,0,,Vous agissez toujours\Ncomme un miroir pour les autres.
+Dialogue: 0,1:02:34.12,1:02:36.50,Default,,0,0,0,,Avez-vous déjà pensé\Nà vous réfléter vous-même ?
+Dialogue: 0,1:02:37.96,1:02:39.45,Default,,0,0,0,,Un miroir qui reflète un miroir
+Dialogue: 0,1:02:40.24,1:02:41.94,Default,,0,0,0,,ne reflète rien, Mon Père.
+Dialogue: 0,1:02:42.48,1:02:44.68,Default,,0,0,0,,Tout ce qu'on y voit, c'est le vide.
+Dialogue: 0,1:02:47.36,1:02:49.58,Default,,0,0,0,,Répandre le bien a de la valeur.
+Dialogue: 0,1:02:49.84,1:02:51.98,Default,,0,0,0,,Ainsi la dette de votre karma\Nne sera pas trop élevée.
+Dialogue: 0,1:02:53.52,1:02:55.53,Default,,0,0,0,,Je le fais en permanence, Mon Père.
+Dialogue: 0,1:03:36.20,1:03:37.22,Default,,0,0,0,,Kaew...
+Dialogue: 0,1:03:38.12,1:03:39.16,Default,,0,0,0,,Kaew...
+Dialogue: 0,1:03:47.40,1:03:48.44,Default,,0,0,0,,Jate...
+Dialogue: 0,1:03:50.08,1:03:51.41,Default,,0,0,0,,Cette femme...
+Dialogue: 0,1:03:52.24,1:03:53.73,Default,,0,0,0,,c'est ma mère.
+Dialogue: 0,1:04:00.40,1:04:02.80,Default,,0,0,0,,Ma mère est morte après que mon père...
+Dialogue: 0,1:04:04.16,1:04:06.82,Default,,0,0,0,,Je ne connais pas mes vrais parents.
+Dialogue: 0,1:04:08.84,1:04:11.57,Default,,0,0,0,,C'est mon beau-père\Nqui m'a sortie de l'hôpital.
+Dialogue: 0,1:04:13.28,1:04:14.99,Default,,0,0,0,,Je suis revenue ici
+Dialogue: 0,1:04:15.12,1:04:17.38,Default,,0,0,0,,parce que je veux savoir qui je suis.
+Dialogue: 0,1:04:20.80,1:04:21.84,Default,,0,0,0,,Jate...
+Dialogue: 0,1:04:23.56,1:04:26.45,Default,,0,0,0,,pourquoi ne me voulait-elle pas de mal ?
+Dialogue: 0,1:04:29.84,1:04:33.20,Default,,0,0,0,,Peut-être qu'elle n'était pas là pour ça.
+Dialogue: 0,1:04:33.88,1:04:35.12,Default,,0,0,0,,Certains esprits...
+Dialogue: 0,1:04:35.84,1:04:37.96,Default,,0,0,0,,ne souhaitent que rester\Nauprès de ceux qu'ils aiment.
+Dialogue: 0,1:04:40.32,1:04:42.00,Default,,0,0,0,,Au moment de l'accident,
+Dialogue: 0,1:04:42.80,1:04:44.80,Default,,0,0,0,,pourquoi a-t-elle mis sa main sur mes yeux ?
+Dialogue: 0,1:04:47.80,1:04:49.21,Default,,0,0,0,,Je ne sais pas.
+Dialogue: 0,1:04:50.44,1:04:51.98,Default,,0,0,0,,Mais je suis certain qu'elle...
+Dialogue: 0,1:04:52.36,1:04:53.96,Default,,0,0,0,,Qu'elle est ici pour vous sauver.
+Dialogue: 0,1:04:58.40,1:05:01.21,Default,,0,0,0,,Vous savez ce que c'est, ce grincement ?
+Dialogue: 0,1:05:09.80,1:05:12.82,Default,,0,0,0,,Certaines choses\Nne sont pas destinées à être connues...
+Dialogue: 0,1:05:13.28,1:05:14.46,Default,,0,0,0,,...ou vues.
+Dialogue: 0,1:05:42.72,1:05:44.38,Default,,0,0,0,,Vous devez être exténuée.
+Dialogue: 0,1:05:44.48,1:05:46.05,Default,,0,0,0,,Allez dormir, maintenant.
+Dialogue: 0,1:05:47.12,1:05:48.48,Default,,0,0,0,,Désormais,
+Dialogue: 0,1:05:48.68,1:05:50.72,Default,,0,0,0,,vous ne ferez plus de mauvais rêves.
+Dialogue: 0,1:05:54.92,1:05:55.98,Default,,0,0,0,,Jate...
+Dialogue: 0,1:06:02.84,1:06:04.04,Default,,0,0,0,,Merci.
+Dialogue: 0,1:06:05.96,1:06:07.56,Default,,0,0,0,,De m'avoir aidée.
+Dialogue: 0,1:06:23.88,1:06:26.40,Default,,0,0,0,,Votre mère doit être bouleversée.
+Dialogue: 0,1:06:28.24,1:06:29.40,Default,,0,0,0,,Dormez, maintenant.
+Dialogue: 0,1:06:37.60,1:06:39.64,Default,,0,0,0,,Faites attention. SVP, faites attention.
+Dialogue: 0,1:06:40.00,1:06:41.79,Default,,0,0,0,,Sergent, un coup de main !
+Dialogue: 0,1:06:42.96,1:06:44.98,Default,,0,0,0,,{\i1}Quartier Général. Pour unité 2. A vous.{\i0}
+Dialogue: 0,1:06:45.20,1:06:47.27,Default,,0,0,0,,{\i1}Quartier Général. Pour unité 2. A vous.{\i0}
+Dialogue: 0,1:06:47.56,1:06:49.55,Default,,0,0,0,,{\i1}La morte est une inconnue.{\i0}
+Dialogue: 0,1:06:49.96,1:06:51.59,Default,,0,0,0,,{\i1}Age : 20 ans environ.{\i0}
+Dialogue: 0,1:06:51.72,1:06:53.96,Default,,0,0,0,,{\i1}Grande, la peau claire.{\i0}
+Dialogue: 0,1:06:55.36,1:06:57.64,Default,,0,0,0,,{\i1}Bien reçu.\NMorte depuis environ 24h.{\i0}
+Dialogue: 0,1:06:57.88,1:07:00.32,Default,,0,0,0,,Alors Inspecteur,\Nvous avez trouvé les 2 corps.
+Dialogue: 0,1:07:01.40,1:07:02.94,Default,,0,0,0,,Celui-là, c'est le premier.
+Dialogue: 0,1:07:03.20,1:07:04.60,Default,,0,0,0,,L'autre est toujours manquant.
+Dialogue: 0,1:07:04.64,1:07:05.92,Default,,0,0,0,,Qu'avez-vous trouvé ?
+Dialogue: 0,1:07:12.72,1:07:13.92,Default,,0,0,0,,Inspecteur,
+Dialogue: 0,1:07:14.16,1:07:15.44,Default,,0,0,0,,vous mangez toujours...
+Dialogue: 0,1:07:15.50,1:07:18.61,Default,,0,0,0,,...des serpents, en plat principal ?
+Dialogue: 0,1:07:19.28,1:07:20.32,Default,,0,0,0,,Oui.
+Dialogue: 0,1:07:20.56,1:07:22.92,Default,,0,0,0,,Pourquoi ? J'ai l'air plus jeune ?
+Dialogue: 0,1:07:23.20,1:07:25.01,Default,,0,0,0,,The things that go below,\NI'm second to none.
+Dialogue: 0,1:07:28.40,1:07:29.84,Default,,0,0,0,,{\i1}Inspecteur, on a trouvé.{\i0}
+Dialogue: 0,1:07:31.56,1:07:32.88,Default,,0,0,0,,L'autre corps ?
+Dialogue: 0,1:07:32.92,1:07:35.92,Default,,0,0,0,,Nous avons trouvé une caméra\Navec une carte-mémoire à l'intérieur.
+Dialogue: 0,1:07:37.80,1:07:38.96,Default,,0,0,0,,Récupérez les données.
+Dialogue: 0,1:07:39.24,1:07:41.48,Default,,0,0,0,,On trouvera peut-être une preuve\Npour notre affaire.
+Dialogue: 0,1:07:41.60,1:07:42.83,Default,,0,0,0,,Il y a autre chose ?
+Dialogue: 0,1:07:42.84,1:07:44.52,Default,,0,0,0,,Oui...
+Dialogue: 0,1:07:46.24,1:07:47.82,Default,,0,0,0,,L'autre corps, pas vrai ?
+Dialogue: 0,1:07:47.92,1:07:50.92,Default,,0,0,0,,On a trouvé un autre ordinateur.\NIl était en eaux profondes.
+Dialogue: 0,1:07:59.96,1:08:01.93,Default,,0,0,0,,Vous donnez votre langue au chat,\NM. l'avocat ?
+Dialogue: 0,1:08:02.20,1:08:03.78,Default,,0,0,0,,Je crois que cette fois...
+Dialogue: 0,1:08:03.80,1:08:05.94,Default,,0,0,0,,votre cliente ne s'en sortira pas\Navec son crime.
+Dialogue: 0,1:08:06.18,1:08:07.24,Default,,0,0,0,,Inspecteur,
+Dialogue: 0,1:08:07.28,1:08:09.15,Default,,0,0,0,,dites à vos plongeurs d'y retourner, SVP.
+Dialogue: 0,1:08:09.20,1:08:11.28,Default,,0,0,0,,Qu'ils aillent plus profond.
+Dialogue: 0,1:08:12.32,1:08:14.52,Default,,0,0,0,,SVP, je vous en supplie. Je reviens.
+Dialogue: 0,1:09:30.80,1:09:31.86,Default,,0,0,0,,Jate...
+Dialogue: 0,1:09:32.28,1:09:33.36,Default,,0,0,0,,Jate, qu'y a-t-il ?
+Dialogue: 0,1:09:34.56,1:09:35.58,Default,,0,0,0,,Jate...
+Dialogue: 0,1:09:37.84,1:09:39.00,Default,,0,0,0,,Jate, Jate...
+Dialogue: 0,1:09:40.96,1:09:42.76,Default,,0,0,0,,Où est-ce que tu m'emmènes ?
+Dialogue: 0,1:10:43.04,1:10:44.10,Default,,0,0,0,,Jum...
+Dialogue: 0,1:10:45.40,1:10:46.86,Default,,0,0,0,,Aie confiance.
+Dialogue: 0,1:10:47.52,1:10:48.94,Default,,0,0,0,,Et viens avec moi.
+Dialogue: 0,1:10:59.04,1:11:00.12,Default,,0,0,0,,Jate...
+Dialogue: 0,1:11:00.44,1:11:02.56,Default,,0,0,0,,Jate, pourquoi me ramener à cet endroit ?
+Dialogue: 0,1:11:02.68,1:11:04.64,Default,,0,0,0,,Attends-moi dans la voiture.
+Dialogue: 0,1:11:13.40,1:11:15.44,Default,,0,0,0,,Sergent, fermez le périmètre.
+Dialogue: 0,1:11:18.84,1:11:19.96,Default,,0,0,0,,M. l'avocat.
+Dialogue: 0,1:11:21.04,1:11:23.52,Default,,0,0,0,,Pourquoi voulez-vous\Nque mes plongeurs y retournent ?
+Dialogue: 0,1:11:23.72,1:11:25.32,Default,,0,0,0,,Il n'y a plus rien, là-dessous.
+Dialogue: 0,1:11:35.84,1:11:36.86,Default,,0,0,0,,Jate !
+Dialogue: 0,1:11:40.60,1:11:41.63,Default,,0,0,0,,Jate !
+Dialogue: 0,1:12:11.16,1:12:12.10,Default,,0,0,0,,Jum !
+Dialogue: 0,1:12:12.20,1:12:13.11,Default,,0,0,0,,Jum ! Jum !
+Dialogue: 0,1:12:13.12,1:12:14.74,Default,,0,0,0,,Calme-toi, Jum.
+Dialogue: 0,1:12:15.80,1:12:16.96,Default,,0,0,0,,Jum ! Jum !
+Dialogue: 0,1:12:20.32,1:12:21.80,Default,,0,0,0,,Viens avec moi.
+Dialogue: 0,1:12:38.24,1:12:39.94,Default,,0,0,0,,Qu'est-ce qu'il fait ?
+Dialogue: 0,1:12:45.44,1:12:47.56,Default,,0,0,0,,Inspecteur, venez voir, SVP.
+Dialogue: 0,1:12:52.08,1:12:53.25,Default,,0,0,0,,Qu'y a-t-il ?
+Dialogue: 0,1:12:53.36,1:12:55.50,Default,,0,0,0,,On a récupéré\Nla carte-mémoire de la caméra.
+Dialogue: 0,1:12:56.12,1:12:57.66,Default,,0,0,0,,Et l'ordinateur ?
+Dialogue: 0,1:12:58.40,1:12:59.99,Default,,0,0,0,,Nous pouvons aussi l'ouvrir.
+Dialogue: 0,1:13:00.52,1:13:01.74,Default,,0,0,0,,Excellent.
+Dialogue: 0,1:13:03.60,1:13:04.84,Default,,0,0,0,,Ouvrez-le.
+Dialogue: 0,1:13:09.84,1:13:11.92,Default,,0,0,0,,On peut ouvrir le couvercle,\Nmais pas l'ordi.
+Dialogue: 0,1:13:17.36,1:13:19.48,Default,,0,0,0,,Mais on peut lire sa mémoire.
+Dialogue: 0,1:13:20.76,1:13:23.44,Default,,0,0,0,,On peut l'ouvrir avec notre ordinateur ?
+Dialogue: 0,1:13:23.76,1:13:25.98,Default,,0,0,0,,On peut, depuis notre ordinateur.
+Dialogue: 0,1:13:26.08,1:13:27.06,Default,,0,0,0,,Excellent.
+Dialogue: 0,1:13:30.16,1:13:31.64,Default,,0,0,0,,N'aie pas peur.
+Dialogue: 0,1:13:32.64,1:13:33.96,Default,,0,0,0,,Parce que cette fois...
+Dialogue: 0,1:13:34.28,1:13:36.42,Default,,0,0,0,,ça ne sera pas comme la dernière fois.
+Dialogue: 0,1:13:40.00,1:13:41.60,Default,,0,0,0,,Cette fois, tu ne risques rien.
+Dialogue: 0,1:13:44.44,1:13:47.80,Default,,0,0,0,,Et tu n'auras rien à craindre\Nde quoi que ce soit.
+Dialogue: 0,1:13:48.04,1:13:51.20,Default,,0,0,0,,{\i1}Les fiancés, montrez-leur\Nvotre amour, doucement.{\i0}
+Dialogue: 0,1:13:51.48,1:13:55.12,Default,,0,0,0,,{\i1}Serrez-vous. Embrassez-vous.{\i0}
+Dialogue: 0,1:13:55.52,1:13:57.48,Default,,0,0,0,,{\i1}Montrez votre amour.{\i0}
+Dialogue: 0,1:14:55.32,1:14:56.34,Default,,0,0,0,,Jate...
+Dialogue: 0,1:14:57.04,1:14:58.91,Default,,0,0,0,,J'ai moi aussi quelque chose à te dire.
+Dialogue: 0,1:14:59.72,1:15:01.16,Default,,0,0,0,,A propos de quoi ?
+Dialogue: 0,1:15:01.24,1:15:02.68,Default,,0,0,0,,Ne me dis pas que...
+Dialogue: 0,1:15:02.72,1:15:04.22,Default,,0,0,0,,Je veux me marier, Jate.
+Dialogue: 0,1:15:04.88,1:15:06.16,Default,,0,0,0,,Marions-nous.
+Dialogue: 0,1:15:06.64,1:15:09.00,Default,,0,0,0,,Alors, les fiancés. Après,\Non a la vidéo à faire.
+Dialogue: 0,1:15:10.64,1:15:12.50,Default,,0,0,0,,Offrez-moi un moment de tendresse.\NPlus près...
+Dialogue: 0,1:15:12.60,1:15:13.64,Default,,0,0,0,,Plus près.
+Dialogue: 0,1:15:21.56,1:15:22.86,Default,,0,0,0,,Tellement amoureux.
+Dialogue: 0,1:15:26.76,1:15:27.96,Default,,0,0,0,,Bon sang.
+Dialogue: 0,1:15:36.88,1:15:37.90,Default,,0,0,0,,Jate...
+Dialogue: 0,1:15:38.28,1:15:39.88,Default,,0,0,0,,Jate, qu'est-ce qui m'arrive ?
+Dialogue: 0,1:15:43.64,1:15:44.88,Default,,0,0,0,,Pourquoi ?
+Dialogue: 0,1:15:46.68,1:15:48.60,Default,,0,0,0,,Pourquoi veut-elle me tuer ?
+Dialogue: 0,1:15:50.72,1:15:51.90,Default,,0,0,0,,Aucune idée.
+Dialogue: 0,1:15:54.24,1:15:56.04,Default,,0,0,0,,Je ne sais pas comment, toi et elle, êtes...
+Dialogue: 0,1:15:56.12,1:15:57.88,Default,,0,0,0,,liées l'une à l'autre.
+Dialogue: 0,1:15:58.88,1:16:00.39,Default,,0,0,0,,Tout ce que je sais, c'est que...
+Dialogue: 0,1:16:00.52,1:16:02.55,Default,,0,0,0,,elle est la mère de Kaew.
+Dialogue: 0,1:16:11.36,1:16:12.46,Default,,0,0,0,,Maintenant, tu...
+Dialogue: 0,1:16:12.76,1:16:14.74,Default,,0,0,0,,es partie pour l'autre monde.
+Dialogue: 0,1:16:16.96,1:16:19.44,Default,,0,0,0,,Tu dois aller à l'endroit\Nauquel tu appartiens.
+Dialogue: 0,1:16:22.36,1:16:23.64,Default,,0,0,0,,Et un jour, tu...
+Dialogue: 0,1:16:25.04,1:16:26.24,Default,,0,0,0,,Un jour...
+Dialogue: 0,1:16:29.56,1:16:31.56,Default,,0,0,0,,nous nous retrouverons.
+Dialogue: 0,1:18:25.12,1:18:26.16,Default,,0,0,0,,Jate ?
+Dialogue: 0,1:18:28.36,1:18:29.42,Default,,0,0,0,,Jate ?
+Dialogue: 0,1:18:53.72,1:18:55.25,Default,,0,0,0,,{\i1}Va aider Kaew.{\i0}
+Dialogue: 0,1:20:01.68,1:20:02.74,Default,,0,0,0,,Kaew...
+Dialogue: 0,1:20:03.48,1:20:04.98,Default,,0,0,0,,qu'est-ce que tu fais ?
+Dialogue: 0,1:20:05.44,1:20:06.96,Default,,0,0,0,,Reviens à l'intérieur.
+Dialogue: 0,1:20:15.08,1:20:16.10,Default,,0,0,0,,Jate...
+Dialogue: 0,1:20:17.04,1:20:18.80,Default,,0,0,0,,Entre moi et ta petite amie,
+Dialogue: 0,1:20:19.32,1:20:20.80,Default,,0,0,0,,qui aimes-tu le plus ?
+Dialogue: 0,1:20:21.52,1:20:22.94,Default,,0,0,0,,Pourquoi tu me demandes ça ?
+Dialogue: 0,1:20:23.64,1:20:25.18,Default,,0,0,0,,Ma petite amie est morte.
+Dialogue: 0,1:20:25.48,1:20:27.36,Default,,0,0,0,,Dis-moi qui tu aimes le plus.
+Dialogue: 0,1:20:34.76,1:20:35.80,Default,,0,0,0,,Je t'aime, Kaew.
+Dialogue: 0,1:20:41.56,1:20:43.32,Default,,0,0,0,,Tu l'as enfin dit, Jate.
+Dialogue: 0,1:20:44.72,1:20:45.76,Default,,0,0,0,,Jum !
+Dialogue: 0,1:20:46.52,1:20:47.56,Default,,0,0,0,,Jum !
+Dialogue: 0,1:20:49.80,1:20:51.32,Default,,0,0,0,,Jum, qu'est-ce que tu fais ?
+Dialogue: 0,1:20:51.52,1:20:54.12,Default,,0,0,0,,Je me venge de celle qui nous a séparés.
+Dialogue: 0,1:20:56.92,1:20:58.38,Default,,0,0,0,,Au revoir, Jate.
+Dialogue: 0,1:21:03.64,1:21:04.82,Default,,0,0,0,,Jum ! Jum !
+Dialogue: 0,1:21:10.80,1:21:13.77,Default,,0,0,0,,Jate, ce serait merveilleux\Nd'avoir un enfant.
+Dialogue: 0,1:21:14.80,1:21:16.20,Default,,0,0,0,,Comment ça, Gift ?
+Dialogue: 0,1:21:16.32,1:21:17.80,Default,,0,0,0,,Je ne veux pas de bébé.
+Dialogue: 0,1:21:18.24,1:21:19.62,Default,,0,0,0,,Ca va, Gift.
+Dialogue: 0,1:21:20.88,1:21:22.31,Default,,0,0,0,,{\i1}Si tu aimes toujours Jate,{\i0}
+Dialogue: 0,1:21:22.64,1:21:24.62,Default,,0,0,0,,{\i1}je crois que tu dois prendre une décision.{\i0}
+Dialogue: 0,1:21:30.72,1:21:32.29,Default,,0,0,0,,Jum, je t'aime.
+Dialogue: 0,1:21:32.72,1:21:34.28,Default,,0,0,0,,Je t'aime aussi, Jate.
+Dialogue: 0,1:21:47.08,1:21:50.48,Default,,0,0,0,,Je suis désolé. Nous allons tout faire\Npour sauver le bébé.
+Dialogue: 0,1:21:53.12,1:21:54.20,Default,,0,0,0,,Jate...
+Dialogue: 0,1:21:59.64,1:22:01.64,Default,,0,0,0,,Docteur, la patiente n'a plus de pouls.
+Dialogue: 0,1:22:02.12,1:22:03.18,Default,,0,0,0,,Monsieur,
+Dialogue: 0,1:22:03.48,1:22:04.81,Default,,0,0,0,,votre femme est morte.
+Dialogue: 0,1:22:05.88,1:22:08.72,Default,,0,0,0,,Gift, mon bébé.
+Dialogue: 0,1:22:15.10,1:22:16.38,Default,,0,0,0,,Laisse-la partir, Jate.
+Dialogue: 0,1:22:16.40,1:22:17.90,Default,,0,0,0,,Pourquoi retiens-tu sa main ?
+Dialogue: 0,1:22:18.08,1:22:19.60,Default,,0,0,0,,Tu veux mourir avec elle ?
+Dialogue: 0,1:22:20.80,1:22:22.80,Default,,0,0,0,,Tu l'aimes tant que ça ?
+Dialogue: 0,1:22:24.04,1:22:25.48,Default,,0,0,0,,Kaew est la fille de Gift.
+Dialogue: 0,1:22:26.00,1:22:27.52,Default,,0,0,0,,C'est ma fille.
+Dialogue: 0,1:22:33.08,1:22:34.65,Default,,0,0,0,,Tu l'aimes toujours ?
+Dialogue: 0,1:22:37.48,1:22:38.48,Default,,0,0,0,,Oui.
+Dialogue: 0,1:22:39.08,1:22:40.92,Default,,0,0,0,,Et Gift veut nous tuer tous les deux.
+Dialogue: 0,1:22:45.92,1:22:47.48,Default,,0,0,0,,Que choisiras-tu...
+Dialogue: 0,1:22:49.08,1:22:50.60,Default,,0,0,0,,entre ta vie...
+Dialogue: 0,1:22:52.24,1:22:53.78,Default,,0,0,0,,et celle de ta fille ?
+Dialogue: 0,1:22:54.68,1:22:55.70,Default,,0,0,0,,Gift !
+Dialogue: 0,1:22:57.64,1:22:58.72,Default,,0,0,0,,Gift !
+Dialogue: 0,1:23:05.32,1:23:07.06,Default,,0,0,0,,{\i1}Si tu avais su ce qui se passait vraiment,{\i0}
+Dialogue: 0,1:23:08.52,1:23:10.10,Default,,0,0,0,,tu aurais choisi de vivre...
+Dialogue: 0,1:23:10.32,1:23:11.56,Default,,0,0,0,,ou de mourir ?
+Dialogue: 0,1:23:35.20,1:23:36.40,Default,,0,0,0,,{\i1}C'est vrai.{\i0}
+Dialogue: 0,1:23:36.88,1:23:38.26,Default,,0,0,0,,{\i1}Comment choisir ?{\i0}
+Dialogue: 0,1:23:38.52,1:23:41.68,Default,,0,0,0,,{\i1}C'est la conséquence de mes actes.{\i0}
+Dialogue: 0,1:23:42.56,1:23:43.97,Default,,0,0,0,,{\i1}Il est bientôt temps...{\i0}
+Dialogue: 0,1:23:44.40,1:23:46.48,Default,,0,0,0,,{\i1}que je paie mes dettes.{\i0}
+Dialogue: 0,1:24:06.80,1:24:08.46,Default,,0,0,0,,Ne t'inquiète pas, Jate.
+Dialogue: 0,1:24:09.24,1:24:11.04,Default,,0,0,0,,Je vais prendre soin de toi.
+Dialogue: 0,1:24:24.40,1:24:25.94,Default,,0,0,0,,{\i1}N'est-ce pas ironique ?{\i0}
+Dialogue: 0,1:24:26.64,1:24:28.27,Default,,0,0,0,,{\i1}Celui qu'on nommait miroir des karmas,{\i0}
+Dialogue: 0,1:24:28.36,1:24:29.64,Default,,0,0,0,,{\i1}moi, le médium,{\i0}
+Dialogue: 0,1:24:30.20,1:24:32.98,Default,,0,0,0,,{\i1}je ne pouvais voir\Nl'état de mon propre karma,{\i0}
+Dialogue: 0,1:24:33.00,1:24:35.60,Default,,0,0,0,,{\i1}ni le karma de celles que j' aimais.{\i0}
+Dialogue: 0,1:24:36.32,1:24:38.82,Default,,0,0,0,,{\i1}C'est comme un miroir qui reflète un miroir,{\i0}
+Dialogue: 0,1:24:39.48,1:24:43.24,Default,,0,0,0,,{\i1}il n'y a que le vide.{\i0}
+Dialogue: 0,1:24:44.16,1:24:45.73,Default,,0,0,0,,{\i1}Désormais,{\i0}
+Dialogue: 0,1:24:46.84,1:24:50.89,Default,,0,0,0,,{\i1}je dois payer mes dettes.{\i0}
+Dialogue: 0,1:24:52.00,1:24:55.00,Default,,0,0,0,,{\i1}A celles à qui j'ai fait du tort.{\i0}
