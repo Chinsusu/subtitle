@@ -1,0 +1,828 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:02:13.96,0:02:16.00,Default,,0,0,0,,Alice Springs, last stop.
+Dialogue: 0,0:02:27.68,0:02:31.91,Default,,0,0,0,,'Dear Sir, I am planning to walk\Nacross the Australian desert,
+Dialogue: 0,0:02:31.92,0:02:35.87,Default,,0,0,0,,from Alice Springs to the Indian\NOcean... a distance of 2,000 miles.'
+Dialogue: 0,0:02:40.76,0:02:43.36,Default,,0,0,0,,'The trip will take\Nsix-to-seven months.'
+Dialogue: 0,0:02:44.28,0:02:46.13,Default,,0,0,0,,Dickheads.
+Dialogue: 0,0:02:50.60,0:02:53.59,Default,,0,0,0,,'I arrived in Alice\NSprings over a year ago.
+Dialogue: 0,0:02:53.60,0:02:57.59,Default,,0,0,0,,There are herds of feral camels roaming\Nfreely throughout Central Australia
+Dialogue: 0,0:02:57.60,0:03:01.20,Default,,0,0,0,,and my idea was to capture a few\Nand train them to carry my gear.'
+Dialogue: 0,0:03:10.16,0:03:12.12,Default,,0,0,0,,Diggity, stay.
+Dialogue: 0,0:03:15.04,0:03:17.79,Default,,0,0,0,,'The trip wasn't conceived\Nas an adventure,
+Dialogue: 0,0:03:17.80,0:03:20.51,Default,,0,0,0,,in the sense of something\Nto be proved or conquered.
+Dialogue: 0,0:03:20.52,0:03:24.23,Default,,0,0,0,,And when people ask me why I'm doing\Nit, my usual answer is "why not?".'
+Dialogue: 0,0:03:24.24,0:03:26.15,Default,,0,0,0,,I was wondering if\Nyou had any work.
+Dialogue: 0,0:03:26.16,0:03:29.63,Default,,0,0,0,,- What kind of work?\N- Behind the bar, anything.
+Dialogue: 0,0:03:29.64,0:03:32.07,Default,,0,0,0,,Ask the missus. She's out the back.
+Dialogue: 0,0:03:32.08,0:03:33.91,Default,,0,0,0,,Got a place to stay?
+Dialogue: 0,0:03:33.92,0:03:36.59,Default,,0,0,0,,I was planning on\Ncamping somewhere.
+Dialogue: 0,0:03:36.60,0:03:38.39,Default,,0,0,0,,Got a tent?
+Dialogue: 0,0:03:38.40,0:03:39.96,Default,,0,0,0,,No.
+Dialogue: 0,0:03:43.24,0:03:45.75,Default,,0,0,0,,One meal per shift is provided,
+Dialogue: 0,0:03:45.76,0:03:49.39,Default,,0,0,0,,rent's deducted from first week's\Npay, the loo's down the hall.
+Dialogue: 0,0:03:49.40,0:03:51.17,Default,,0,0,0,,Great. Thanks.
+Dialogue: 0,0:03:57.56,0:03:59.56,Default,,0,0,0,,I have a dog.
+Dialogue: 0,0:04:13.84,0:04:16.87,Default,,0,0,0,,'I'd always been drawn to\Nthe purity of the desert,
+Dialogue: 0,0:04:16.88,0:04:20.71,Default,,0,0,0,,its hot wind and\Nwide, open spaces.'
+Dialogue: 0,0:04:20.72,0:04:22.55,Default,,0,0,0,,Alone?
+Dialogue: 0,0:04:22.56,0:04:26.11,Default,,0,0,0,,Yeah, well, I'll need to train\Nsome camels to carry my gear
+Dialogue: 0,0:04:26.12,0:04:29.13,Default,,0,0,0,,and... then there's\NDiggity, of course.
+Dialogue: 0,0:04:31.80,0:04:35.15,Default,,0,0,0,,You go right ahead, love.\NGo right ahead.
+Dialogue: 0,0:04:35.16,0:04:37.79,Default,,0,0,0,,'But mainly I was bored\Nof life in the city,
+Dialogue: 0,0:04:37.80,0:04:39.51,Default,,0,0,0,,with its repetitions,
+Dialogue: 0,0:04:39.52,0:04:42.19,Default,,0,0,0,,my half-finished,\Nhalf-hearted attempts at jobs
+Dialogue: 0,0:04:42.20,0:04:44.19,Default,,0,0,0,,and various studies.'
+Dialogue: 0,0:04:47.32,0:04:49.27,Default,,0,0,0,,'And I was sick of carrying around
+Dialogue: 0,0:04:49.28,0:04:52.15,Default,,0,0,0,,the self-indulgent negativity\Nthat was so much the malaise
+Dialogue: 0,0:04:52.16,0:04:54.75,Default,,0,0,0,,of my generation, my\Nsex and my class.'
+Dialogue: 0,0:04:54.76,0:04:56.53,Default,,0,0,0,,Come on!
+Dialogue: 0,0:05:04.92,0:05:06.71,Default,,0,0,0,,'The decision to act was in itself
+Dialogue: 0,0:05:06.72,0:05:08.44,Default,,0,0,0,,the beginning of the journey.
+Dialogue: 0,0:05:15.60,0:05:18.11,Default,,0,0,0,,I believe when you've been\Nstuck too long in one spot,
+Dialogue: 0,0:05:18.12,0:05:19.75,Default,,0,0,0,,it's best to throw a grenade
+Dialogue: 0,0:05:19.76,0:05:21.75,Default,,0,0,0,,where you're standing, and jump...
+Dialogue: 0,0:05:21.76,0:05:23.56,Default,,0,0,0,,and pray.'
+Dialogue: 0,0:05:36.60,0:05:40.24,Default,,0,0,0,,Hey. We are closed today.
+Dialogue: 0,0:05:41.28,0:05:44.11,Default,,0,0,0,,Your plan is ridiculous.
+Dialogue: 0,0:05:44.12,0:05:46.83,Default,,0,0,0,,My father crossed the\NKalahari in 1935...
+Dialogue: 0,0:05:46.84,0:05:48.51,Default,,0,0,0,,that wasn't so ridiculous.
+Dialogue: 0,0:05:48.52,0:05:50.43,Default,,0,0,0,,Nothing's in the blood.
+Dialogue: 0,0:05:50.44,0:05:52.21,Default,,0,0,0,,I'm a hard worker.
+Dialogue: 0,0:05:54.68,0:06:00.39,Default,,0,0,0,,You can work for me for\Neight months... for free.
+Dialogue: 0,0:06:00.40,0:06:02.63,Default,,0,0,0,,I'll show you how to train them.
+Dialogue: 0,0:06:02.64,0:06:06.79,Default,,0,0,0,,After that, I give you...\Ntwo wild camels.
+Dialogue: 0,0:06:06.80,0:06:08.87,Default,,0,0,0,,And that will be that.
+Dialogue: 0,0:06:08.88,0:06:11.95,Default,,0,0,0,,So... do we sign a contract?
+Dialogue: 0,0:06:11.96,0:06:13.92,Default,,0,0,0,,I'm good to my word.
+Dialogue: 0,0:06:17.64,0:06:19.95,Default,,0,0,0,,You can stay here.
+Dialogue: 0,0:06:19.96,0:06:21.79,Default,,0,0,0,,I'll clean out one of the sheds.
+Dialogue: 0,0:06:21.80,0:06:26.00,Default,,0,0,0,,That's OK, I'll find my\Nown place. Thanks.
+Dialogue: 0,0:06:36.16,0:06:42.71,Default,,0,0,0,,Misch-Misch, Khartoum,\NAli, Fahani and Aba.
+Dialogue: 0,0:06:44.32,0:06:47.11,Default,,0,0,0,,And these are my new\Nwild bulls... Dookie and Bub.
+Dialogue: 0,0:06:48.88,0:06:50.59,Default,,0,0,0,,What's wrong with him?
+Dialogue: 0,0:06:50.60,0:06:55.31,Default,,0,0,0,,Nothing's wrong with him.\NHe's in rut. He's a bull.
+Dialogue: 0,0:06:55.32,0:06:57.63,Default,,0,0,0,,Those other males are bullocks.
+Dialogue: 0,0:06:57.64,0:06:59.59,Default,,0,0,0,,These are still bulls.
+Dialogue: 0,0:07:02.96,0:07:05.07,Default,,0,0,0,,Die haben eier.
+Dialogue: 0,0:07:05.08,0:07:08.91,Default,,0,0,0,,In rut season, they become\Nextremely aggressive.
+Dialogue: 0,0:07:08.92,0:07:10.67,Default,,0,0,0,,Very dangerous.
+Dialogue: 0,0:07:10.68,0:07:12.48,Default,,0,0,0,,He doesn't look very dangerous.
+Dialogue: 0,0:07:13.40,0:07:17.52,Default,,0,0,0,,He's young. He will learn.
+Dialogue: 0,0:07:32.32,0:07:34.92,Default,,0,0,0,,Hey, Dookie.
+Dialogue: 0,0:07:35.84,0:07:37.51,Default,,0,0,0,,Hey, Dookie. Hello.
+Dialogue: 0,0:07:43.60,0:07:45.23,Default,,0,0,0,,Hey.
+Dialogue: 0,0:07:49.32,0:07:51.67,Default,,0,0,0,,Come on.
+Dialogue: 0,0:07:53.56,0:07:55.92,Default,,0,0,0,,So you want to play\Nwith the camels?
+Dialogue: 0,0:07:58.56,0:08:00.88,Default,,0,0,0,,Always watch the animal.
+Dialogue: 0,0:08:01.84,0:08:04.07,Default,,0,0,0,,Watch how he thinks.
+Dialogue: 0,0:08:13.80,0:08:16.28,Default,,0,0,0,,Let him know who's boss.
+Dialogue: 0,0:08:17.96,0:08:21.51,Default,,0,0,0,,Come on. Try it again.
+Dialogue: 0,0:08:23.32,0:08:26.83,Default,,0,0,0,,Careful.
+Dialogue: 0,0:08:36.72,0:08:39.24,Default,,0,0,0,,Hurry up. We open soon.
+Dialogue: 0,0:08:43.84,0:08:45.92,Default,,0,0,0,,Are you finished?
+Dialogue: 0,0:08:47.92,0:08:49.64,Default,,0,0,0,,Yep.
+Dialogue: 0,0:08:52.52,0:08:54.23,Default,,0,0,0,,What's that?
+Dialogue: 0,0:08:54.24,0:08:56.11,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:08:56.12,0:09:00.24,Default,,0,0,0,,Take off those shoes.\NYou must toughen the feet.
+Dialogue: 0,0:09:02.68,0:09:05.00,Default,,0,0,0,,There are two species of camel.
+Dialogue: 0,0:09:05.84,0:09:08.79,Default,,0,0,0,,Neither is native to Australia.
+Dialogue: 0,0:09:08.80,0:09:11.15,Default,,0,0,0,,Some of the first camels\Nbrought into the country
+Dialogue: 0,0:09:11.16,0:09:14.23,Default,,0,0,0,,were for the Burke and Wills\Nexpedition in 1860...
+Dialogue: 0,0:09:14.24,0:09:16.19,Default,,0,0,0,,Louder. More effort!
+Dialogue: 0,0:09:16.20,0:09:19.88,Default,,0,0,0,,Today there are over 50,000\Nferal camels across Australia.
+Dialogue: 0,0:09:37.08,0:09:39.12,Default,,0,0,0,,Hey! Goldie!
+Dialogue: 0,0:09:40.24,0:09:42.80,Default,,0,0,0,,Here, Goldie! Come on.
+Dialogue: 0,0:09:43.64,0:09:45.41,Default,,0,0,0,,Hold it.
+Dialogue: 0,0:09:47.20,0:09:48.92,Default,,0,0,0,,Wait.
+Dialogue: 0,0:10:02.88,0:10:06.63,Default,,0,0,0,,'If my trip was inspired by\Nanyone, it would be my father.
+Dialogue: 0,0:10:06.64,0:10:08.79,Default,,0,0,0,,He trekked across East\NAfrica in his youth
+Dialogue: 0,0:10:08.80,0:10:11.60,Default,,0,0,0,,and was happiest on his\Nown out in the bush.'
+Dialogue: 0,0:10:16.44,0:10:18.91,Default,,0,0,0,,'When I was young, he showed\Nme a tree on our property
+Dialogue: 0,0:10:18.92,0:10:22.15,Default,,0,0,0,,marked with the letter L by the\Nexplorer Ludwig Leichhardt.
+Dialogue: 0,0:10:22.16,0:10:25.83,Default,,0,0,0,,In 1848, he attempted to\Ncross Australia to the ocean
+Dialogue: 0,0:10:25.84,0:10:28.40,Default,,0,0,0,,with 7 horses and 20 mules.
+Dialogue: 0,0:10:29.40,0:10:31.60,Default,,0,0,0,,He disappeared and was never found.
+Dialogue: 0,0:10:36.88,0:10:39.75,Default,,0,0,0,,I remember imagining\NLudwig alone in the desert
+Dialogue: 0,0:10:39.76,0:10:41.59,Default,,0,0,0,,with the animals,
+Dialogue: 0,0:10:41.60,0:10:43.56,Default,,0,0,0,,and it sounded like a dream.'
+Dialogue: 0,0:11:07.32,0:11:09.35,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:11:09.36,0:11:13.03,Default,,0,0,0,,Can we talk about my trip?\NMy camels?
+Dialogue: 0,0:11:13.04,0:11:15.31,Default,,0,0,0,,Your camels?
+Dialogue: 0,0:11:15.32,0:11:17.39,Default,,0,0,0,,Yeah, our deal.
+Dialogue: 0,0:11:17.40,0:11:20.57,Default,,0,0,0,,I've tried to talk to you\Nabout it already... twice.
+Dialogue: 0,0:11:21.56,0:11:23.83,Default,,0,0,0,,I need you to get\Nup early tomorrow.
+Dialogue: 0,0:11:23.84,0:11:25.67,Default,,0,0,0,,I want the camels in by five.
+Dialogue: 0,0:11:25.68,0:11:27.75,Default,,0,0,0,,I've been here for\Nover eight months now,
+Dialogue: 0,0:11:27.76,0:11:29.91,Default,,0,0,0,,I don't have to do shit for you.
+Dialogue: 0,0:11:29.92,0:11:31.95,Default,,0,0,0,,You're fired.
+Dialogue: 0,0:11:31.96,0:11:33.87,Default,,0,0,0,,I'm going to talk\Nto Gladdy about it.
+Dialogue: 0,0:11:33.88,0:11:37.48,Default,,0,0,0,,Gladdy's gone! And I\Nwant you gone, too.
+Dialogue: 0,0:11:39.24,0:11:41.72,Default,,0,0,0,,I want all bitches\Ngone from my sight.
+Dialogue: 0,0:11:45.72,0:11:48.23,Default,,0,0,0,,'The early settlers\Nneeded beasts of burden
+Dialogue: 0,0:11:48.24,0:11:50.75,Default,,0,0,0,,better suited to the harsh\Nclimate of the outback,
+Dialogue: 0,0:11:50.76,0:11:52.61,Default,,0,0,0,,so they imported camels.
+Dialogue: 0,0:11:53.64,0:11:55.35,Default,,0,0,0,,When trains and cars came along
+Dialogue: 0,0:11:55.36,0:11:57.31,Default,,0,0,0,,and there was no longer\Nany use for them,
+Dialogue: 0,0:11:57.32,0:11:58.99,Default,,0,0,0,,the camels were set free.
+Dialogue: 0,0:11:59.00,0:12:02.55,Default,,0,0,0,,But instead of perishing,\Nthey flourished.
+Dialogue: 0,0:12:02.56,0:12:05.31,Default,,0,0,0,,Now Australia has the largest\Nferal camel population
+Dialogue: 0,0:12:05.32,0:12:06.99,Default,,0,0,0,,in the world.
+Dialogue: 0,0:12:07.00,0:12:09.32,Default,,0,0,0,,I just needed three of them.'
+Dialogue: 0,0:12:57.84,0:13:00.23,Default,,0,0,0,,Hey. What do you think, Dig?
+Dialogue: 0,0:13:00.24,0:13:02.36,Default,,0,0,0,,Home sweet home, eh?
+Dialogue: 0,0:13:10.04,0:13:14.07,Default,,0,0,0,,You must be mad, girly. You\Nknow that's about 2,000 miles?
+Dialogue: 0,0:13:14.08,0:13:16.23,Default,,0,0,0,,Six months of hard walking.
+Dialogue: 0,0:13:16.24,0:13:18.51,Default,,0,0,0,,It gets tougher if\Nyou get an injury.
+Dialogue: 0,0:13:18.52,0:13:24.56,Default,,0,0,0,,No it's easy enough to get lost,\Nrun out of water, food...
+Dialogue: 0,0:13:26.92,0:13:29.39,Default,,0,0,0,,You don't have to be\Nunlucky to die out there.
+Dialogue: 0,0:13:29.40,0:13:31.91,Default,,0,0,0,,I just want to be by myself.
+Dialogue: 0,0:13:31.92,0:13:33.59,Default,,0,0,0,,Oi, oi, oi, oi, oi!
+Dialogue: 0,0:13:35.20,0:13:38.31,Default,,0,0,0,,Well, we don't train these\Ncamels for kiddie rides. Hm?
+Dialogue: 0,0:13:38.32,0:13:40.35,Default,,0,0,0,,We catch 'em, we sell 'em.
+Dialogue: 0,0:13:42.00,0:13:43.63,Default,,0,0,0,,So, will you help me out?
+Dialogue: 0,0:13:43.64,0:13:45.63,Default,,0,0,0,,I can teach you how to break one.
+Dialogue: 0,0:13:45.64,0:13:47.63,Default,,0,0,0,,The rest of it you\Ndo in your own time.
+Dialogue: 0,0:13:47.64,0:13:49.51,Default,,0,0,0,,You'll hire me?
+Dialogue: 0,0:13:49.52,0:13:52.03,Default,,0,0,0,,Anyone who can put up with\NKurt Posel for eight months
+Dialogue: 0,0:13:52.04,0:13:53.71,Default,,0,0,0,,deserves a chance.
+Dialogue: 0,0:13:53.72,0:13:55.57,Default,,0,0,0,,Come back tomorrow. See how you go.
+Dialogue: 0,0:13:59.16,0:14:03.27,Default,,0,0,0,,'I went to work for a camel\Nwrangler named Sallay Mahomet.
+Dialogue: 0,0:14:03.28,0:14:05.91,Default,,0,0,0,,He came from a long line\Nof Afghan cameleers.'
+Dialogue: 0,0:14:05.92,0:14:08.59,Default,,0,0,0,,Righto! Arms up, you've\Ngotta look tall.
+Dialogue: 0,0:14:08.60,0:14:10.27,Default,,0,0,0,,Stand tall, arms up.
+Dialogue: 0,0:14:10.28,0:14:13.59,Default,,0,0,0,,'He offered me one wild camel for\Na month's work at half pay.'
+Dialogue: 0,0:14:13.60,0:14:15.55,Default,,0,0,0,,Robyn, shut the gate.
+Dialogue: 0,0:15:24.72,0:15:26.88,Default,,0,0,0,,You'll have to break her.
+Dialogue: 0,0:15:29.44,0:15:31.15,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:15:31.16,0:15:33.01,Default,,0,0,0,,You've earned it.
+Dialogue: 0,0:15:36.64,0:15:39.00,Default,,0,0,0,,You're an odd girl, Robyn Davidson.
+Dialogue: 0,0:16:13.80,0:16:15.84,Default,,0,0,0,,Rob?
+Dialogue: 0,0:16:17.20,0:16:18.91,Default,,0,0,0,,We know you're here!
+Dialogue: 0,0:16:18.92,0:16:21.71,Default,,0,0,0,,You can run but you can't hide!
+Dialogue: 0,0:16:21.72,0:16:23.60,Default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:16:25.04,0:16:26.67,Default,,0,0,0,,How did you find me?
+Dialogue: 0,0:16:26.68,0:16:28.27,Default,,0,0,0,,Well, I asked around.
+Dialogue: 0,0:16:28.28,0:16:30.91,Default,,0,0,0,,I guess there's not too many\Ncamel ladies in this town.
+Dialogue: 0,0:16:30.92,0:16:34.35,Default,,0,0,0,,Mm. I hate that. It makes me\Nsound like a crazy woman.
+Dialogue: 0,0:16:34.36,0:16:36.24,Default,,0,0,0,,Hey, come on.
+Dialogue: 0,0:16:38.20,0:16:40.36,Default,,0,0,0,,- Hi.\N- How ya going, Robbie?
+Dialogue: 0,0:16:41.28,0:16:44.83,Default,,0,0,0,,This is Peter, Bernard, Annie\Nand Annie's mate Rick.
+Dialogue: 0,0:16:44.84,0:16:46.43,Default,,0,0,0,,He's out from the States.
+Dialogue: 0,0:16:46.44,0:16:49.51,Default,,0,0,0,,I love your place. I didn't\Nrealise how big camels are.
+Dialogue: 0,0:16:49.52,0:16:51.51,Default,,0,0,0,,It's like a cow and a\Ngiraffe mixture...
+Dialogue: 0,0:16:51.52,0:16:53.64,Default,,0,0,0,,They're beautiful.
+Dialogue: 0,0:16:55.04,0:16:56.91,Default,,0,0,0,,Going to invite us in?
+Dialogue: 0,0:16:56.92,0:16:58.64,Default,,0,0,0,,Yep, come in.
+Dialogue: 0,0:17:03.04,0:17:07.83,Default,,0,0,0,,That's what I have,\Nthat's what I don't have.
+Dialogue: 0,0:17:07.84,0:17:09.96,Default,,0,0,0,,Plus I need two more camels.
+Dialogue: 0,0:17:10.84,0:17:13.15,Default,,0,0,0,,Mostly I just need money.
+Dialogue: 0,0:17:13.16,0:17:15.63,Default,,0,0,0,,Money, money, money.
+Dialogue: 0,0:17:15.64,0:17:18.15,Default,,0,0,0,,The eternal, uh... the\Neternal explorer's dilemma.
+Dialogue: 0,0:17:18.16,0:17:20.51,Default,,0,0,0,,Hm.
+Dialogue: 0,0:17:20.52,0:17:22.67,Default,,0,0,0,,Well, why don't you\Njust shorten the trip?
+Dialogue: 0,0:17:22.68,0:17:24.39,Default,,0,0,0,,To the Rock and back?
+Dialogue: 0,0:17:24.40,0:17:26.95,Default,,0,0,0,,I mean, Toly and I will come\Nwith you. We can chip in.
+Dialogue: 0,0:17:26.96,0:17:28.95,Default,,0,0,0,,- Yeah. Why not?\N- Mm...
+Dialogue: 0,0:17:28.96,0:17:32.31,Default,,0,0,0,,Have you looked into\Nsponsorship? Like a magazine?
+Dialogue: 0,0:17:32.32,0:17:35.11,Default,,0,0,0,,- Rick knows lots of editors.\N- Yeah, I know lots of editors.
+Dialogue: 0,0:17:35.12,0:17:36.75,Default,,0,0,0,,I could put in a good word for you.
+Dialogue: 0,0:17:36.76,0:17:39.63,Default,,0,0,0,,I think they'd think it was fas...\NI think it's fascinating.
+Dialogue: 0,0:17:39.64,0:17:41.31,Default,,0,0,0,,So I know they would.
+Dialogue: 0,0:17:41.32,0:17:43.09,Default,,0,0,0,,Oh, it's OK. I'll do it myself.
+Dialogue: 0,0:17:55.44,0:17:57.84,Default,,0,0,0,,Do you know what's\Ngoing on politically?
+Dialogue: 0,0:18:27.76,0:18:30.19,Default,,0,0,0,,It's about acting on what\Njudgements you make...
+Dialogue: 0,0:18:30.20,0:18:31.92,Default,,0,0,0,,It's about making a critique...
+Dialogue: 0,0:18:41.60,0:18:44.63,Default,,0,0,0,,Hey, Zelly. Hey, girl.
+Dialogue: 0,0:18:44.64,0:18:46.39,Default,,0,0,0,,Hey.
+Dialogue: 0,0:18:55.36,0:18:57.35,Default,,0,0,0,,Kangaroo!
+Dialogue: 0,0:18:57.36,0:18:59.39,Default,,0,0,0,,Hey, do you mind?
+Dialogue: 0,0:18:59.40,0:19:01.32,Default,,0,0,0,,Sorry, bad habit.
+Dialogue: 0,0:19:02.56,0:19:06.35,Default,,0,0,0,,Oh, I, uh... I made you this.
+Dialogue: 0,0:19:09.68,0:19:11.84,Default,,0,0,0,,You're a darling. Thank you.
+Dialogue: 0,0:19:13.28,0:19:17.20,Default,,0,0,0,,You know, um... your room's\Nstill available, Rob.
+Dialogue: 0,0:19:18.56,0:19:20.25,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:19:21.96,0:19:24.35,Default,,0,0,0,,Bye, Rob! Love you!
+Dialogue: 0,0:19:24.36,0:19:26.60,Default,,0,0,0,,Bye, Robyn! Bye,\NDiggity! Good luck!
+Dialogue: 0,0:19:27.56,0:19:29.56,Default,,0,0,0,,Don't die out there!
+Dialogue: 0,0:19:46.52,0:19:48.63,Default,,0,0,0,,I know you well enough
+Dialogue: 0,0:19:48.64,0:19:50.55,Default,,0,0,0,,never to ask why you're doing this,
+Dialogue: 0,0:19:50.56,0:19:53.59,Default,,0,0,0,,or why you want to do it alone.
+Dialogue: 0,0:19:53.60,0:19:55.87,Default,,0,0,0,,But I guess if the reason's\Ngood enough for you,
+Dialogue: 0,0:19:55.88,0:19:57.96,Default,,0,0,0,,it's good enough for me.
+Dialogue: 0,0:19:58.96,0:20:01.55,Default,,0,0,0,,Anyway, I made you a\Ntape for your trip.
+Dialogue: 0,0:20:01.56,0:20:03.35,Default,,0,0,0,,That old record of your mother's,
+Dialogue: 0,0:20:03.36,0:20:05.36,Default,,0,0,0,,the one you used to play to death.
+Dialogue: 0,0:20:06.80,0:20:09.99,Default,,0,0,0,,Whatever it is you're\Nlooking for, Robbie,
+Dialogue: 0,0:20:10.00,0:20:12.27,Default,,0,0,0,,find it and come home, OK?
+Dialogue: 0,0:20:12.28,0:20:15.59,Default,,0,0,0,,♪ The lonely night
+Dialogue: 0,0:20:15.60,0:20:18.35,Default,,0,0,0,,♪ Dreaming of a song
+Dialogue: 0,0:20:18.36,0:20:24.43,Default,,0,0,0,,♪ And the melody haunts my reverie
+Dialogue: 0,0:20:24.44,0:20:28.83,Default,,0,0,0,,♪ And I am once again with you
+Dialogue: 0,0:20:28.84,0:20:32.11,Default,,0,0,0,,♪ When our love was new... ♪
+Dialogue: 0,0:20:47.64,0:20:51.99,Default,,0,0,0,,Girlie, I reckon you've got\Nyourself a pregnant cow.
+Dialogue: 0,0:20:52.00,0:20:53.79,Default,,0,0,0,,What?
+Dialogue: 0,0:20:53.80,0:20:57.59,Default,,0,0,0,,Pregnant? But is that good or bad?
+Dialogue: 0,0:20:57.60,0:20:59.99,Default,,0,0,0,,You've got a calf tied\Nup in camp overnight,
+Dialogue: 0,0:21:00.00,0:21:02.20,Default,,0,0,0,,none of the others are\Ngonna stray very far.
+Dialogue: 0,0:21:03.28,0:21:05.20,Default,,0,0,0,,So that's good.
+Dialogue: 0,0:21:08.64,0:21:12.15,Default,,0,0,0,,'A few weeks later, I heard that\NKurt Posel sold his ranch.'
+Dialogue: 0,0:21:12.16,0:21:14.15,Default,,0,0,0,,Like I said, it's not possible.
+Dialogue: 0,0:21:14.16,0:21:17.07,Default,,0,0,0,,'The new owner had little\Nexperience with camels.'
+Dialogue: 0,0:21:17.08,0:21:21.99,Default,,0,0,0,,One camel. That's all I want.\NThe bastard owed me two.
+Dialogue: 0,0:21:22.00,0:21:23.92,Default,,0,0,0,,Sorry. Never mentioned that to me.
+Dialogue: 0,0:21:24.88,0:21:27.15,Default,,0,0,0,,Hey, do you even know\Nwhat you're doing?
+Dialogue: 0,0:21:30.12,0:21:31.91,Default,,0,0,0,,I wouldn't use a nose-line.
+Dialogue: 0,0:21:34.20,0:21:36.79,Default,,0,0,0,,- Settle down, you bastard!\N- Let go of the rope.
+Dialogue: 0,0:21:38.64,0:21:41.20,Default,,0,0,0,,Get outta there!
+Dialogue: 0,0:21:47.64,0:21:49.67,Default,,0,0,0,,Shut the gate.
+Dialogue: 0,0:21:49.68,0:21:51.35,Default,,0,0,0,,Hey, Dookie.
+Dialogue: 0,0:21:54.80,0:21:56.35,Default,,0,0,0,,Easy.
+Dialogue: 0,0:21:56.36,0:21:58.59,Default,,0,0,0,,That's the way.
+Dialogue: 0,0:21:58.60,0:22:00.32,Default,,0,0,0,,Come on, Dookie.
+Dialogue: 0,0:22:01.16,0:22:04.84,Default,,0,0,0,,Whoosh, Dookie. Whoosh.
+Dialogue: 0,0:22:28.92,0:22:30.80,Default,,0,0,0,,Do they do that often?
+Dialogue: 0,0:22:31.68,0:22:34.07,Default,,0,0,0,,- The bulls?\N- Yeah.
+Dialogue: 0,0:22:34.08,0:22:36.67,Default,,0,0,0,,Oh, hell yeah. All the time.
+Dialogue: 0,0:22:36.68,0:22:39.48,Default,,0,0,0,,You want to keep your kids\Naway from them, for sure.
+Dialogue: 0,0:22:40.88,0:22:42.92,Default,,0,0,0,,Come on, Dig!
+Dialogue: 0,0:22:53.16,0:22:54.87,Default,,0,0,0,,'And so I'm writing to you
+Dialogue: 0,0:22:54.88,0:22:57.55,Default,,0,0,0,,in the hope that your magazine\Nwill sponsor my trip.
+Dialogue: 0,0:22:57.56,0:22:59.15,Default,,0,0,0,,I believe National Geographic
+Dialogue: 0,0:22:59.16,0:23:01.40,Default,,0,0,0,,to be of the highest\Ninternational repute.
+Dialogue: 0,0:23:03.16,0:23:04.83,Default,,0,0,0,,The trip will take me through
+Dialogue: 0,0:23:04.84,0:23:07.11,Default,,0,0,0,,some of the most beautiful\Nand barren country
+Dialogue: 0,0:23:07.12,0:23:08.75,Default,,0,0,0,,the desert can show.
+Dialogue: 0,0:23:08.76,0:23:10.75,Default,,0,0,0,,I am enclosing a map\Nof my proposed route,
+Dialogue: 0,0:23:10.76,0:23:12.63,Default,,0,0,0,,from Alice Springs to Ayers Rock,
+Dialogue: 0,0:23:12.64,0:23:15.41,Default,,0,0,0,,then on through the Western\NDesert to the Indian Ocean.'
+Dialogue: 0,0:23:20.84,0:23:23.11,Default,,0,0,0,,'I have three camels\Nand one small calf
+Dialogue: 0,0:23:23.12,0:23:25.23,Default,,0,0,0,,trained and ready to go.
+Dialogue: 0,0:23:25.24,0:23:27.84,Default,,0,0,0,,They are perfectly reliable beasts.
+Dialogue: 0,0:23:30.08,0:23:31.91,Default,,0,0,0,,Their names are Dookie...'
+Dialogue: 0,0:23:34.52,0:23:37.55,Default,,0,0,0,,'...Bub, Zelly
+Dialogue: 0,0:23:37.56,0:23:39.76,Default,,0,0,0,,and baby Goliath.
+Dialogue: 0,0:23:42.24,0:23:45.39,Default,,0,0,0,,I am well aware of the\Nhardship I will be facing
+Dialogue: 0,0:23:45.40,0:23:47.95,Default,,0,0,0,,and the first to admit I\Nam remarkably unqualified
+Dialogue: 0,0:23:47.96,0:23:50.03,Default,,0,0,0,,for such a hazardous undertaking.
+Dialogue: 0,0:23:50.04,0:23:52.83,Default,,0,0,0,,But this is precisely the\Npoint of my journey.
+Dialogue: 0,0:23:52.84,0:23:56.71,Default,,0,0,0,,I'd like to think an ordinary\Nperson is capable of anything.
+Dialogue: 0,0:23:56.72,0:23:59.71,Default,,0,0,0,,I look forward to hearing\Nfrom you in the near future.
+Dialogue: 0,0:23:59.72,0:24:02.20,Default,,0,0,0,,Yours faithfully, Robyn Davidson.'
+Dialogue: 0,0:24:21.76,0:24:24.15,Default,,0,0,0,,Sorry, Dookie.
+Dialogue: 0,0:24:24.16,0:24:27.55,Default,,0,0,0,,Grab that. A bull in rut would\Ndo anything to get at Zelly.
+Dialogue: 0,0:24:27.56,0:24:30.31,Default,,0,0,0,,He'll bite, kick or kill\Nwhatever gets in his way.
+Dialogue: 0,0:24:30.32,0:24:32.35,Default,,0,0,0,,That includes you.
+Dialogue: 0,0:24:43.08,0:24:45.44,Default,,0,0,0,,No choice. Hm?
+Dialogue: 0,0:24:46.60,0:24:49.19,Default,,0,0,0,,You see what happens when\None of these bull camels
+Dialogue: 0,0:24:49.20,0:24:51.27,Default,,0,0,0,,gets those lovelies\Nset on something.
+Dialogue: 0,0:24:51.28,0:24:53.31,Default,,0,0,0,,No stopping him.
+Dialogue: 0,0:24:53.32,0:24:56.03,Default,,0,0,0,,Rule number one...\Nprotect your camels.
+Dialogue: 0,0:24:56.04,0:24:58.91,Default,,0,0,0,,If you're out there on your own\Nand a wild bull's coming at ya,
+Dialogue: 0,0:24:58.92,0:25:00.55,Default,,0,0,0,,you shoot it.
+Dialogue: 0,0:25:00.56,0:25:02.60,Default,,0,0,0,,Don't think. You shoot.\NYou understand?
+Dialogue: 0,0:25:08.12,0:25:11.08,Default,,0,0,0,,Ah, I forgot... these\Npackages came for you.
+Dialogue: 0,0:25:12.24,0:25:14.01,Default,,0,0,0,,Oh, there's a letter too.
+Dialogue: 0,0:25:35.24,0:25:37.72,Default,,0,0,0,,I got it! I got the money!
+Dialogue: 0,0:25:46.84,0:25:49.71,Default,,0,0,0,,I think they'd think it was fas...\NI think it's fascinating.
+Dialogue: 0,0:25:49.72,0:25:51.60,Default,,0,0,0,,So I know they would.
+Dialogue: 0,0:26:05.72,0:26:07.83,Default,,0,0,0,,- Aunty Robbie!\N- Aunty Rob!
+Dialogue: 0,0:26:07.84,0:26:09.51,Default,,0,0,0,,We came to say goodbye!
+Dialogue: 0,0:26:09.52,0:26:12.71,Default,,0,0,0,,How you doing? Hey,\Ncome here. Look at you.
+Dialogue: 0,0:26:12.72,0:26:14.41,Default,,0,0,0,,Hey, sis.
+Dialogue: 0,0:26:16.40,0:26:18.92,Default,,0,0,0,,- You look well.\N- Thanks for coming.
+Dialogue: 0,0:26:19.88,0:26:21.80,Default,,0,0,0,,Hey, Pop.
+Dialogue: 0,0:26:33.84,0:26:35.96,Default,,0,0,0,,I want to pat the camel!
+Dialogue: 0,0:26:40.64,0:26:42.52,Default,,0,0,0,,Wow.
+Dialogue: 0,0:26:54.40,0:26:56.25,Default,,0,0,0,,Oh, it's freezing in here.
+Dialogue: 0,0:27:01.40,0:27:03.11,Default,,0,0,0,,Hi.
+Dialogue: 0,0:27:03.12,0:27:06.87,Default,,0,0,0,,Um... this is Rick,\Nthe photographer.
+Dialogue: 0,0:27:06.88,0:27:09.04,Default,,0,0,0,,Hi, you must be her father?
+Dialogue: 0,0:27:10.08,0:27:11.96,Default,,0,0,0,,Sister?
+Dialogue: 0,0:27:13.64,0:27:15.88,Default,,0,0,0,,I don't know who you are.
+Dialogue: 0,0:27:21.08,0:27:23.04,Default,,0,0,0,,This is obviously for me.
+Dialogue: 0,0:27:23.88,0:27:26.00,Default,,0,0,0,,This was surprisingly expensive.
+Dialogue: 0,0:27:26.84,0:27:30.20,Default,,0,0,0,,Inflatable raft. For flash floods.
+Dialogue: 0,0:27:32.08,0:27:33.85,Default,,0,0,0,,And...
+Dialogue: 0,0:27:41.40,0:27:45.55,Default,,0,0,0,,Um... why would I need\Nan exercise bike?
+Dialogue: 0,0:27:45.56,0:27:47.15,Default,,0,0,0,,Oh, it's not an exercise bike.
+Dialogue: 0,0:27:47.16,0:27:49.79,Default,,0,0,0,,It's a... backup\Ngenerator for the radio
+Dialogue: 0,0:27:49.80,0:27:51.71,Default,,0,0,0,,in case the batteries fail.
+Dialogue: 0,0:27:51.72,0:27:54.27,Default,,0,0,0,,I'm... I'm not taking a radio.
+Dialogue: 0,0:27:54.28,0:27:56.07,Default,,0,0,0,,Please, Robyn, just take the radio.
+Dialogue: 0,0:27:56.08,0:27:58.80,Default,,0,0,0,,You want to die out\Nthere or something?
+Dialogue: 0,0:28:03.40,0:28:06.43,Default,,0,0,0,,Take the radio. In case.
+Dialogue: 0,0:28:06.44,0:28:09.35,Default,,0,0,0,,OK, I'll take the radio, but\NI'm not taking the bike.
+Dialogue: 0,0:28:09.36,0:28:11.35,Default,,0,0,0,,You know, it's really\Nreassuring to know
+Dialogue: 0,0:28:11.36,0:28:13.31,Default,,0,0,0,,that my sister won't\Nbe alone out there.
+Dialogue: 0,0:28:13.32,0:28:15.63,Default,,0,0,0,,I'm only meeting up with\Nher four or five times.
+Dialogue: 0,0:28:15.64,0:28:18.76,Default,,0,0,0,,Two or three times. Two or three.
+Dialogue: 0,0:28:31.76,0:28:33.39,Default,,0,0,0,,No, I don't want a gun.
+Dialogue: 0,0:28:33.40,0:28:35.12,Default,,0,0,0,,But you will.
+Dialogue: 0,0:29:01.12,0:29:03.89,Default,,0,0,0,,Hi. Hi.
+Dialogue: 0,0:29:09.44,0:29:11.21,Default,,0,0,0,,Take care, Pop.
+Dialogue: 0,0:29:13.56,0:29:15.41,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:29:19.40,0:29:22.79,Default,,0,0,0,,If you get in trouble, there's\Nno shame in turning back, OK?
+Dialogue: 0,0:29:22.80,0:29:25.16,Default,,0,0,0,,- OK?\N- OK.
+Dialogue: 0,0:29:34.96,0:29:38.11,Default,,0,0,0,,- Bye, darlin'.\N- Bye, Aunty Rob!
+Dialogue: 0,0:29:38.12,0:29:40.07,Default,,0,0,0,,- Bye, Aunty Robbie!\N- Bye, Robyn.
+Dialogue: 0,0:29:40.08,0:29:42.48,Default,,0,0,0,,- Call us from Ayers Rock.\N- Bye, Diggity!
+Dialogue: 0,0:29:43.84,0:29:46.72,Default,,0,0,0,,Diggity, come on!
+Dialogue: 0,0:30:16.96,0:30:19.03,Default,,0,0,0,,You've gotta be kidding me.
+Dialogue: 0,0:30:19.04,0:30:20.95,Default,,0,0,0,,Hey hey!
+Dialogue: 0,0:30:20.96,0:30:23.55,Default,,0,0,0,,That's great. And keep\Nback, looking at me.
+Dialogue: 0,0:30:23.56,0:30:25.36,Default,,0,0,0,,Alright.
+Dialogue: 0,0:30:26.44,0:30:28.80,Default,,0,0,0,,Good. Good. And smile.
+Dialogue: 0,0:30:29.64,0:30:32.23,Default,,0,0,0,,Great. Great. That's great.\NOK. Great.
+Dialogue: 0,0:30:32.24,0:30:34.35,Default,,0,0,0,,Oh, let me get this\Nother stuff right here.
+Dialogue: 0,0:30:34.36,0:30:37.31,Default,,0,0,0,,Everybody I keep telling about\Nthis really can't believe it.
+Dialogue: 0,0:30:37.32,0:30:39.39,Default,,0,0,0,,'2,000 miles? Is she\Ncrazy or something?'
+Dialogue: 0,0:30:43.76,0:30:46.19,Default,,0,0,0,,Let me find your light\Na little bit. Face a little...
+Dialogue: 0,0:30:46.20,0:30:47.91,Default,,0,0,0,,That's great.
+Dialogue: 0,0:30:47.92,0:30:51.11,Default,,0,0,0,,OK, what's the camel's\Nname? Bub! Hey!
+Dialogue: 0,0:30:51.12,0:30:52.95,Default,,0,0,0,,Everybody smile.
+Dialogue: 0,0:30:52.96,0:30:54.79,Default,,0,0,0,,How do you feel?
+Dialogue: 0,0:30:54.80,0:30:56.39,Default,,0,0,0,,Are we done?
+Dialogue: 0,0:30:56.40,0:30:58.56,Default,,0,0,0,,Yeah, I think you're...\NI think it's good.
+Dialogue: 0,0:31:01.20,0:31:02.95,Default,,0,0,0,,Alright, see you in a month.
+Dialogue: 0,0:32:09.20,0:32:12.52,Default,,0,0,0,,Oi, lady, can we get\Na photo? Over here!
+Dialogue: 0,0:32:17.04,0:32:18.71,Default,,0,0,0,,Sorry, campground's full.
+Dialogue: 0,0:32:18.72,0:32:20.35,Default,,0,0,0,,It would just be for one night.
+Dialogue: 0,0:32:20.36,0:32:22.95,Default,,0,0,0,,Besides, camels aren't\Nallowed in the park grounds.
+Dialogue: 0,0:32:22.96,0:32:24.79,Default,,0,0,0,,Why?
+Dialogue: 0,0:32:24.80,0:32:26.83,Default,,0,0,0,,'Cause it's a sacred site.
+Dialogue: 0,0:32:26.84,0:32:28.92,Default,,0,0,0,,Hey, camel lady!
+Dialogue: 0,0:33:01.04,0:33:02.67,Default,,0,0,0,,Figuring 20 miles a day,
+Dialogue: 0,0:33:02.68,0:33:04.59,Default,,0,0,0,,if that's how fast\Nyou're travelling,
+Dialogue: 0,0:33:04.60,0:33:06.35,Default,,0,0,0,,determine how long\Nit takes to get to
+Dialogue: 0,0:33:06.36,0:33:08.31,Default,,0,0,0,,the next town with a\Nmail plane service,
+Dialogue: 0,0:33:08.32,0:33:10.51,Default,,0,0,0,,divide that by 20, and I\Nshould, more or less,
+Dialogue: 0,0:33:10.52,0:33:12.95,Default,,0,0,0,,be able to figure out when\Nyou're gonna be arriving.
+Dialogue: 0,0:33:12.96,0:33:14.63,Default,,0,0,0,,I ran into a group of Aboriginals
+Dialogue: 0,0:33:14.64,0:33:16.95,Default,,0,0,0,,who were able to point me\Nin the right direction.
+Dialogue: 0,0:33:16.96,0:33:19.67,Default,,0,0,0,,They just knew where you were.\NI said 'camel lady' and...
+Dialogue: 0,0:33:19.68,0:33:21.99,Default,,0,0,0,,I guess there's not really\Na lot of camel ladies.
+Dialogue: 0,0:33:22.00,0:33:23.63,Default,,0,0,0,,Before I get on any kind of plane,
+Dialogue: 0,0:33:23.64,0:33:26.31,Default,,0,0,0,,I have this ritual I've been\Ndoing for the past five years
+Dialogue: 0,0:33:26.32,0:33:29.27,Default,,0,0,0,,where I eat an orange before and\Nafter when I get off the flight.
+Dialogue: 0,0:33:29.28,0:33:30.83,Default,,0,0,0,,And this time I was gonna do it,
+Dialogue: 0,0:33:30.84,0:33:32.79,Default,,0,0,0,,but I didn't 'cause\NI ran out of time.
+Dialogue: 0,0:33:32.80,0:33:35.24,Default,,0,0,0,,I got back late and\Nmy deli was closed.
+Dialogue: 0,0:33:38.20,0:33:40.43,Default,,0,0,0,,Wow. I love lentils.
+Dialogue: 0,0:33:40.44,0:33:43.91,Default,,0,0,0,,Maybe try some with, uh...\Nwith the hat.
+Dialogue: 0,0:33:45.80,0:33:48.91,Default,,0,0,0,,The white really pops against\Nthe red of the Rock.
+Dialogue: 0,0:33:48.92,0:33:51.03,Default,,0,0,0,,And don't worry, I'm\Nshooting on a long lens
+Dialogue: 0,0:33:51.04,0:33:52.67,Default,,0,0,0,,so it compresses the distance...
+Dialogue: 0,0:33:52.68,0:33:55.15,Default,,0,0,0,,it looks like you're standing\Nright in front of it.
+Dialogue: 0,0:33:55.16,0:33:56.95,Default,,0,0,0,,Great. OK, maybe a... a tiny smile?
+Dialogue: 0,0:33:56.96,0:33:59.08,Default,,0,0,0,,What about honest journalism?
+Dialogue: 0,0:34:02.92,0:34:04.99,Default,,0,0,0,,Hey, camel lady!
+Dialogue: 0,0:34:05.00,0:34:06.75,Default,,0,0,0,,A friend of mine, David Burnett,
+Dialogue: 0,0:34:06.76,0:34:09.75,Default,,0,0,0,,says the greatest photographs\Nare motivated by human feeling.
+Dialogue: 0,0:34:09.76,0:34:11.39,Default,,0,0,0,,Are we done?
+Dialogue: 0,0:34:11.40,0:34:13.55,Default,,0,0,0,,Uh, almost.
+Dialogue: 0,0:34:13.56,0:34:15.59,Default,,0,0,0,,Oh, no, I thought the hat was good!
+Dialogue: 0,0:34:15.60,0:34:17.60,Default,,0,0,0,,See you tomorrow.
+Dialogue: 0,0:35:07.16,0:35:09.20,Default,,0,0,0,,Parasite.
+Dialogue: 0,0:35:10.24,0:35:11.99,Default,,0,0,0,,Go away.
+Dialogue: 0,0:35:58.56,0:36:00.84,Default,,0,0,0,,So your father was\Nan explorer, huh?
+Dialogue: 0,0:36:01.68,0:36:03.87,Default,,0,0,0,,Not really.
+Dialogue: 0,0:36:03.88,0:36:05.73,Default,,0,0,0,,Oh, I thought you said he was.
+Dialogue: 0,0:36:06.56,0:36:08.59,Default,,0,0,0,,I said he walked\Naround East Africa,
+Dialogue: 0,0:36:08.60,0:36:10.92,Default,,0,0,0,,harpooning crocodiles\Nand looking for gold.
+Dialogue: 0,0:36:15.52,0:36:17.40,Default,,0,0,0,,What about your mom?
+Dialogue: 0,0:36:19.96,0:36:21.92,Default,,0,0,0,,I don't really remember her.
+Dialogue: 0,0:36:23.88,0:36:26.11,Default,,0,0,0,,Oh, what happened to her?
+Dialogue: 0,0:36:26.12,0:36:27.89,Default,,0,0,0,,She hung herself.
+Dialogue: 0,0:36:41.40,0:36:44.03,Default,,0,0,0,,♪ ...why I spend
+Dialogue: 0,0:36:44.04,0:36:47.56,Default,,0,0,0,,♪ The lonely night
+Dialogue: 0,0:36:48.60,0:36:50.56,Default,,0,0,0,,♪ Dreaming of a song
+Dialogue: 0,0:36:51.52,0:36:56.80,Default,,0,0,0,,♪ The melody haunts my reverie... ♪
+Dialogue: 0,0:37:35.40,0:37:37.28,Default,,0,0,0,,Jesus.
+Dialogue: 0,0:37:48.80,0:37:50.65,Default,,0,0,0,,I'm gonna grab all this...!
+Dialogue: 0,0:37:53.40,0:37:55.28,Default,,0,0,0,,Agh!
+Dialogue: 0,0:37:57.60,0:38:00.19,Default,,0,0,0,,Put the bed stuff in\Nthe back of the truck!
+Dialogue: 0,0:38:00.20,0:38:01.97,Default,,0,0,0,,Leave that, get the food.
+Dialogue: 0,0:38:09.80,0:38:11.57,Default,,0,0,0,,Whoosh, Dookie, whoosh.
+Dialogue: 0,0:38:15.20,0:38:17.08,Default,,0,0,0,,Diggity!
+Dialogue: 0,0:38:20.44,0:38:22.21,Default,,0,0,0,,Robyn!
+Dialogue: 0,0:38:23.60,0:38:25.67,Default,,0,0,0,,Fuck off!
+Dialogue: 0,0:38:40.20,0:38:41.75,Default,,0,0,0,,Could've been worse...
+Dialogue: 0,0:38:41.76,0:38:44.72,Default,,0,0,0,,we could've been in a small\Nplane flying through a typhoon.
+Dialogue: 0,0:38:45.56,0:38:48.39,Default,,0,0,0,,That's something you don't\Nwant to experience.
+Dialogue: 0,0:38:48.40,0:38:51.23,Default,,0,0,0,,I was in Irian Jaya covering\Nthe riots for Time.
+Dialogue: 0,0:38:51.24,0:38:54.35,Default,,0,0,0,,David Burnett was there.\NHe won the Capa Medal in '73.
+Dialogue: 0,0:38:54.36,0:38:57.43,Default,,0,0,0,,He's a good friend of mine. We\Nwere trying to land the plane
+Dialogue: 0,0:38:57.44,0:38:59.63,Default,,0,0,0,,on this narrow strip on\Nthe side of a mountain
+Dialogue: 0,0:38:59.64,0:39:02.15,Default,,0,0,0,,and the wind kept blowing\Nthe wings back and forth...
+Dialogue: 0,0:39:02.16,0:39:03.96,Default,,0,0,0,,I just can't stand it anymore.
+Dialogue: 0,0:39:05.28,0:39:09.87,Default,,0,0,0,,This whole thing is just some\Nludicrous, pointless farce.
+Dialogue: 0,0:39:09.88,0:39:12.79,Default,,0,0,0,,Every day, I load a pile of junk,
+Dialogue: 0,0:39:12.80,0:39:15.71,Default,,0,0,0,,I walk 20 miles,\NI unload a pile of junk,
+Dialogue: 0,0:39:15.72,0:39:19.83,Default,,0,0,0,,and you just stand around like\Nsome idiot, taking pictures of me.
+Dialogue: 0,0:39:19.84,0:39:21.67,Default,,0,0,0,,And I can't do it anymore!
+Dialogue: 0,0:39:34.20,0:39:36.12,Default,,0,0,0,,It's OK.
+Dialogue: 0,0:40:33.36,0:40:35.21,Default,,0,0,0,,Dookie! Leave him alone.
+Dialogue: 0,0:40:58.04,0:40:59.96,Default,,0,0,0,,- Good morning.\N- Morning.
+Dialogue: 0,0:41:08.44,0:41:10.32,Default,,0,0,0,,You don't have to do that.
+Dialogue: 0,0:41:16.32,0:41:19.92,Default,,0,0,0,,So I think... I was thinking\Nabout staying on for a few days.
+Dialogue: 0,0:41:20.76,0:41:22.43,Default,,0,0,0,,Why?
+Dialogue: 0,0:41:22.44,0:41:24.16,Default,,0,0,0,,Just, uh...
+Dialogue: 0,0:41:29.72,0:41:32.04,Default,,0,0,0,,So I guess I'll see\Nyou in five weeks.
+Dialogue: 0,0:41:32.88,0:41:34.36,Default,,0,0,0,,OK.
+Dialogue: 0,0:41:40.24,0:41:42.40,Default,,0,0,0,,Whoa-kay.
+Dialogue: 0,0:42:12.56,0:42:14.28,Default,,0,0,0,,Hey, Dig. Come here.
+Dialogue: 0,0:42:17.96,0:42:20.73,Default,,0,0,0,,Come on! Don't get out.
+Dialogue: 0,0:42:27.20,0:42:29.19,Default,,0,0,0,,Come on, girl, come back in.
+Dialogue: 0,0:42:58.36,0:43:01.00,Default,,0,0,0,,Hey. Hey.
+Dialogue: 0,0:43:22.56,0:43:24.41,Default,,0,0,0,,Where are they, Dig?
+Dialogue: 0,0:43:29.88,0:43:31.80,Default,,0,0,0,,Dookie!
+Dialogue: 0,0:43:33.32,0:43:35.36,Default,,0,0,0,,Zelly!
+Dialogue: 0,0:43:38.20,0:43:40.16,Default,,0,0,0,,Bub!
+Dialogue: 0,0:43:47.44,0:43:49.60,Default,,0,0,0,,Dookie!
+Dialogue: 0,0:44:10.28,0:44:12.19,Default,,0,0,0,,Hey.
+Dialogue: 0,0:44:12.20,0:44:13.91,Default,,0,0,0,,You stay here, OK?
+Dialogue: 0,0:44:13.92,0:44:15.36,Default,,0,0,0,,Good girl.
+Dialogue: 0,0:44:41.28,0:44:43.43,Default,,0,0,0,,Dookie!
+Dialogue: 0,0:44:52.72,0:44:55.19,Default,,0,0,0,,Never do this to me again!
+Dialogue: 0,0:44:55.20,0:44:57.16,Default,,0,0,0,,Don't you ever leave me!
+Dialogue: 0,0:45:03.88,0:45:05.84,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:45:22.76,0:45:25.20,Default,,0,0,0,,Hey, Dig. Hey.
+Dialogue: 0,0:45:46.00,0:45:48.56,Default,,0,0,0,,- Hi.\N- Hi.
+Dialogue: 0,0:45:49.44,0:45:51.71,Default,,0,0,0,,- How are you?\N- Good. How are you?
+Dialogue: 0,0:45:51.72,0:45:53.39,Default,,0,0,0,,I missed you.
+Dialogue: 0,0:45:53.40,0:45:55.28,Default,,0,0,0,,I take it you're the camel lady.
+Dialogue: 0,0:45:56.12,0:45:59.07,Default,,0,0,0,,- Hi. Thanks for having us here.\N- You're welcome.
+Dialogue: 0,0:45:59.08,0:46:02.48,Default,,0,0,0,,Sorry, can I get you guys\Nto shake hands again?
+Dialogue: 0,0:46:07.28,0:46:09.00,Default,,0,0,0,,Great, thank you.
+Dialogue: 0,0:46:10.84,0:46:12.51,Default,,0,0,0,,Hello there.
+Dialogue: 0,0:46:12.52,0:46:16.24,Default,,0,0,0,,The, uh, old fellas can be a bit\Nstand-offish with strangers.
+Dialogue: 0,0:46:17.92,0:46:20.15,Default,,0,0,0,,Takes a while for them to warm up.
+Dialogue: 0,0:46:35.36,0:46:37.60,Default,,0,0,0,,Would you mind not taking pictures?
+Dialogue: 0,0:46:39.76,0:46:41.51,Default,,0,0,0,,A man has to do his job.
+Dialogue: 0,0:46:41.52,0:46:45.07,Default,,0,0,0,,That's exactly the reason blacks\Nwere dumped in missions...
+Dialogue: 0,0:46:45.08,0:46:47.39,Default,,0,0,0,,men just doing their job.
+Dialogue: 0,0:46:47.40,0:46:49.88,Default,,0,0,0,,11 million readers will\Nsee these photographs.
+Dialogue: 0,0:46:50.72,0:46:54.75,Default,,0,0,0,,I like to think that what I'm...\Ndoing is a service.
+Dialogue: 0,0:46:54.76,0:46:56.39,Default,,0,0,0,,Couple of pictures in a magazine?
+Dialogue: 0,0:46:56.40,0:46:58.79,Default,,0,0,0,,You think that's really\Ngoing to make a difference?
+Dialogue: 0,0:46:58.80,0:47:00.43,Default,,0,0,0,,Yeah, I do.
+Dialogue: 0,0:47:00.44,0:47:03.31,Default,,0,0,0,,If it wasn't for the magazine,\Nyou wouldn't be on this trip.
+Dialogue: 0,0:48:24.80,0:48:26.60,Default,,0,0,0,,You didn't, did you?
+Dialogue: 0,0:48:27.44,0:48:29.44,Default,,0,0,0,,Nobody saw me.
+Dialogue: 0,0:48:31.40,0:48:33.63,Default,,0,0,0,,It was great images.
+Dialogue: 0,0:48:33.64,0:48:37.11,Default,,0,0,0,,Some kind of... grieving ceremony.
+Dialogue: 0,0:48:37.12,0:48:39.39,Default,,0,0,0,,That was secret business.
+Dialogue: 0,0:48:39.40,0:48:41.36,Default,,0,0,0,,Get it? Secret.
+Dialogue: 0,0:48:43.64,0:48:46.36,Default,,0,0,0,,After Malaysia, I have\Na shoot in Tasmania.
+Dialogue: 0,0:48:47.56,0:48:50.11,Default,,0,0,0,,I'll check in on this\Nnumber for messages.
+Dialogue: 0,0:48:50.12,0:48:52.52,Default,,0,0,0,,OK, I should make Warburton\Nin about six weeks.
+Dialogue: 0,0:48:53.40,0:48:55.28,Default,,0,0,0,,I'll be there.
+Dialogue: 0,0:49:13.24,0:49:15.09,Default,,0,0,0,,Can I sit here?
+Dialogue: 0,0:49:31.16,0:49:33.64,Default,,0,0,0,,Husband no good.
+Dialogue: 0,0:49:34.52,0:49:36.48,Default,,0,0,0,,He's not my husband.
+Dialogue: 0,0:49:40.92,0:49:45.27,Default,,0,0,0,,There's an adviser named Glendle\Nliving outside Pipalyatjara.
+Dialogue: 0,0:49:45.28,0:49:49.03,Default,,0,0,0,,Now he's the last whitefella\Nyou'll see until Warburton.
+Dialogue: 0,0:49:49.04,0:49:51.75,Default,,0,0,0,,OK. But this is the most\Ndirect route, though, right?
+Dialogue: 0,0:49:51.76,0:49:55.07,Default,,0,0,0,,Yeah, but it's dotted\Nwith sacred sites.
+Dialogue: 0,0:49:55.08,0:49:57.43,Default,,0,0,0,,It's forbidden to\Nwomen, I'm afraid.
+Dialogue: 0,0:49:57.44,0:49:59.83,Default,,0,0,0,,You'd need an old fella\Nto guide you through.
+Dialogue: 0,0:49:59.84,0:50:03.36,Default,,0,0,0,,But the other way is 160\Nmiles out of my way.
+Dialogue: 0,0:50:04.80,0:50:06.87,Default,,0,0,0,,If you like, I can ask round,
+Dialogue: 0,0:50:06.88,0:50:09.89,Default,,0,0,0,,see if there's an Elder who\Nwould travel with you.
+Dialogue: 0,0:50:18.80,0:50:20.39,Default,,0,0,0,,Seems your boyfriend
+Dialogue: 0,0:50:20.40,0:50:22.55,Default,,0,0,0,,was seen taking photos\Nof secret business.
+Dialogue: 0,0:50:22.56,0:50:24.31,Default,,0,0,0,,He's not my boyfriend.
+Dialogue: 0,0:50:24.32,0:50:26.17,Default,,0,0,0,,Sorry. Can't help you.
+Dialogue: 0,0:50:27.00,0:50:28.77,Default,,0,0,0,,Their answer is no.
+Dialogue: 0,0:50:32.64,0:50:35.28,Default,,0,0,0,,Just tell them I'm sorry.
+Dialogue: 0,0:50:43.08,0:50:45.52,Default,,0,0,0,,Looks like we're taking\Nthe long way, Bub.
+Dialogue: 0,0:51:41.04,0:51:43.11,Default,,0,0,0,,If you're out there on your own
+Dialogue: 0,0:51:43.12,0:51:45.83,Default,,0,0,0,,and a wild bull's coming\Nat ya, you shoot it.
+Dialogue: 0,0:51:45.84,0:51:48.12,Default,,0,0,0,,Don't think. You shoot.\NYou understand?
+Dialogue: 0,0:55:22.56,0:55:24.27,Default,,0,0,0,,Where you go?
+Dialogue: 0,0:55:24.28,0:55:25.91,Default,,0,0,0,,West to the ocean.
+Dialogue: 0,0:55:25.92,0:55:28.43,Default,,0,0,0,,Uru Pulka? Big lake?
+Dialogue: 0,0:55:28.44,0:55:30.21,Default,,0,0,0,,Yeah, Uru Pulka.
+Dialogue: 0,0:55:31.08,0:55:35.17,Default,,0,0,0,,Too long way. Too long way for you.
+Dialogue: 0,0:55:45.92,0:55:48.43,Default,,0,0,0,,You go Pipalyatjara?
+Dialogue: 0,0:55:48.44,0:55:50.76,Default,,0,0,0,,- Yeah.\N- Which way?
+Dialogue: 0,0:55:51.60,0:55:53.87,Default,,0,0,0,,Along the road.
+Dialogue: 0,0:55:53.88,0:55:56.65,Default,,0,0,0,,Too far. Too many sleeps that way.
+Dialogue: 0,0:55:57.52,0:55:59.80,Default,,0,0,0,,Miil-miil. Sacred country.
+Dialogue: 0,0:56:01.68,0:56:03.56,Default,,0,0,0,,Need old fella.
+Dialogue: 0,0:56:16.84,0:56:23.44,Default,,0,0,0,,Mr Eddy.
+Dialogue: 0,0:58:23.92,0:58:25.63,Default,,0,0,0,,Glendle?
+Dialogue: 0,0:58:27.32,0:58:29.11,Default,,0,0,0,,Glendle.
+Dialogue: 0,0:58:29.12,0:58:31.07,Default,,0,0,0,,I know he helped me get the money,
+Dialogue: 0,0:58:31.08,0:58:33.91,Default,,0,0,0,,but he doesn't understand that\Nhe's part of the problem.
+Dialogue: 0,0:58:33.92,0:58:37.35,Default,,0,0,0,,He's a nice person, but I don't\Nwant him and his cameras
+Dialogue: 0,0:58:37.36,0:58:39.67,Default,,0,0,0,,and his hopeless romantic notions
+Dialogue: 0,0:58:39.68,0:58:41.71,Default,,0,0,0,,along with my trip, you know?
+Dialogue: 0,0:58:41.72,0:58:43.75,Default,,0,0,0,,I can deal with pigs really easily,
+Dialogue: 0,0:58:43.76,0:58:45.75,Default,,0,0,0,,but nice people confound me.
+Dialogue: 0,0:58:45.76,0:58:47.87,Default,,0,0,0,,You know, how can you\Ntell a nice person
+Dialogue: 0,0:58:47.88,0:58:51.84,Default,,0,0,0,,that you just wish they'd\Ncrawl into a hole and die?
+Dialogue: 0,0:58:52.88,0:58:54.79,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:58:54.80,0:58:57.40,Default,,0,0,0,,It's been a while since I've\Nhad anybody to talk to.
+Dialogue: 0,0:58:58.24,0:58:59.87,Default,,0,0,0,,You had Eddy.
+Dialogue: 0,0:58:59.88,0:59:02.55,Default,,0,0,0,,He's one of the most respected\NElders in the community.
+Dialogue: 0,0:59:02.56,0:59:04.79,Default,,0,0,0,,Yeah. I wish I could.
+Dialogue: 0,0:59:04.80,0:59:08.12,Default,,0,0,0,,Ah... Words are overrated.
+Dialogue: 0,0:59:11.52,0:59:13.88,Default,,0,0,0,,Hey, it's been real\Nnice having you around.
+Dialogue: 0,0:59:14.96,0:59:17.16,Default,,0,0,0,,Hope you can stick\Naround for a bit.
+Dialogue: 0,0:59:18.40,0:59:20.32,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:59:52.64,0:59:55.11,Default,,0,0,0,,Will you walk to\NWarburton with me, Eddy?
+Dialogue: 0,0:59:55.12,0:59:56.95,Default,,0,0,0,,Hey?
+Dialogue: 0,0:59:56.96,1:00:00.43,Default,,0,0,0,,To Warburton? Will\Nyou walk with me?
+Dialogue: 0,1:00:00.44,1:00:02.43,Default,,0,0,0,,Long way, Warburton.
+Dialogue: 0,1:00:02.44,1:00:04.52,Default,,0,0,0,,Little bit long way.
+Dialogue: 0,1:00:05.52,1:00:09.12,Default,,0,0,0,,- Long way?\N- Yeah, long way.
+Dialogue: 0,1:00:11.92,1:00:15.40,Default,,0,0,0,,My... My shoes no good.
+Dialogue: 0,1:00:18.72,1:00:20.64,Default,,0,0,0,,OK. Hm.
+Dialogue: 0,1:00:27.04,1:00:29.36,Default,,0,0,0,,Looks good in your shoes, huh?
+Dialogue: 0,1:00:34.12,1:00:38.27,Default,,0,0,0,,Do you think he's up for this?\NIt's over 200 miles.
+Dialogue: 0,1:00:38.28,1:00:41.45,Default,,0,0,0,,Him? He'll outwalk the two of us.
+Dialogue: 0,1:00:48.16,1:00:50.16,Default,,0,0,0,,Don't forget my telegram.
+Dialogue: 0,1:01:01.16,1:01:04.99,Default,,0,0,0,,OK. Thanks.
+Dialogue: 0,1:01:05.00,1:01:06.80,Default,,0,0,0,,- Bye.\N- See ya.
+Dialogue: 0,1:01:09.56,1:01:12.07,Default,,0,0,0,,Bye!
+Dialogue: 0,1:01:12.08,1:01:15.72,Default,,0,0,0,,Come on, Dig.
+Dialogue: 0,1:01:27.96,1:01:30.24,Default,,0,0,0,,Come on, Goliath.
+Dialogue: 0,1:01:35.00,1:01:37.63,Default,,0,0,0,,Come on, Goliath.
+Dialogue: 0,1:01:39.44,1:01:41.16,Default,,0,0,0,,Come on, Goliath.
+Dialogue: 0,1:01:50.44,1:01:52.24,Default,,0,0,0,,The ground's too hot.
+Dialogue: 0,1:02:00.00,1:02:01.85,Default,,0,0,0,,Come on, Golly. That's the way.
+Dialogue: 0,1:02:05.84,1:02:08.07,Default,,0,0,0,,You got new shoes.
+Dialogue: 0,1:02:29.60,1:02:31.39,Default,,0,0,0,,What is it?
+Dialogue: 0,1:02:31.40,1:02:35.87,Default,,0,0,0,,Mingkulpa. Alright? Mingkulpa.
+Dialogue: 0,1:02:35.88,1:02:37.71,Default,,0,0,0,,Should I... Do I eat it?
+Dialogue: 0,1:02:42.96,1:02:44.39,Default,,0,0,0,,Mmm.
+Dialogue: 0,1:03:20.32,1:03:22.48,Default,,0,0,0,,Whoosh, Bub. That's the way.
+Dialogue: 0,1:03:30.32,1:03:32.07,Default,,0,0,0,,How was it, Eddy?
+Dialogue: 0,1:03:44.92,1:03:46.71,Default,,0,0,0,,Whitefellas.
+Dialogue: 0,1:03:46.72,1:03:48.44,Default,,0,0,0,,Where?
+Dialogue: 0,1:04:00.12,1:04:02.19,Default,,0,0,0,,Come on, Bub.
+Dialogue: 0,1:04:02.20,1:04:04.27,Default,,0,0,0,,Stand up. Come on.
+Dialogue: 0,1:04:04.28,1:04:07.35,Default,,0,0,0,,Come on, Bub. Come on.
+Dialogue: 0,1:04:07.36,1:04:09.88,Default,,0,0,0,,Stand up. Come on, get up.
+Dialogue: 0,1:04:12.44,1:04:14.67,Default,,0,0,0,,Come on, Bub. Come on.
+Dialogue: 0,1:04:18.28,1:04:20.03,Default,,0,0,0,,Get them to stop.
+Dialogue: 0,1:04:20.04,1:04:21.87,Default,,0,0,0,,Can you stop so we\Ncan take a photo?
+Dialogue: 0,1:04:21.88,1:04:23.55,Default,,0,0,0,,- Wait up!\N- Come on, Eddy.
+Dialogue: 0,1:04:23.56,1:04:25.19,Default,,0,0,0,,Hold up there, love.
+Dialogue: 0,1:04:25.20,1:04:26.87,Default,,0,0,0,,Do you mind if we take a picture?
+Dialogue: 0,1:04:26.88,1:04:29.15,Default,,0,0,0,,- Can we take a photo?\N- Can I take your photo?
+Dialogue: 0,1:04:29.16,1:04:30.91,Default,,0,0,0,,Yeah, let us take your photo.
+Dialogue: 0,1:04:30.92,1:04:32.87,Default,,0,0,0,,Can you stop so I can take a photo?
+Dialogue: 0,1:04:32.88,1:04:34.55,Default,,0,0,0,,Please?
+Dialogue: 0,1:04:34.56,1:04:37.11,Default,,0,0,0,,- Where are you heading?\N- Thanks, love.
+Dialogue: 0,1:04:37.12,1:04:39.15,Default,,0,0,0,,How far are you going?
+Dialogue: 0,1:04:39.16,1:04:40.87,Default,,0,0,0,,I'm going to the ocean.
+Dialogue: 0,1:04:40.88,1:04:43.35,Default,,0,0,0,,To the ocean? You're dreaming.
+Dialogue: 0,1:04:43.36,1:04:46.19,Default,,0,0,0,,Hey, Jacky-Jacky. Get a\Nphoto with the camel, boy.
+Dialogue: 0,1:04:46.20,1:04:48.07,Default,,0,0,0,,- Take your picture, eh?\N- Hey. Jack.
+Dialogue: 0,1:04:48.08,1:04:49.99,Default,,0,0,0,,- You're a prick!\N- Whoa, whoa, steady!
+Dialogue: 0,1:04:50.00,1:04:52.35,Default,,0,0,0,,- What's her problem?\N- Bloody swine!
+Dialogue: 0,1:04:52.36,1:04:54.59,Default,,0,0,0,,Hey, hey, hey, hey. Give me money.
+Dialogue: 0,1:04:54.60,1:04:56.75,Default,,0,0,0,,Give me money! Give me money!
+Dialogue: 0,1:04:56.76,1:04:58.99,Default,,0,0,0,,- Got any money?\N- Agghh! Agghh!
+Dialogue: 0,1:04:59.00,1:05:01.52,Default,,0,0,0,,- Three dollar!\N- Yeah, don't give him too much.
+Dialogue: 0,1:05:41.04,1:05:44.36,Default,,0,0,0,,Wiya, wiya, wiya, wiya!
+Dialogue: 0,1:05:48.36,1:05:50.08,Default,,0,0,0,,No, I don't understand.
+Dialogue: 0,1:05:53.56,1:05:58.11,Default,,0,0,0,,Woman never break the law.\NWoman never break the law.
+Dialogue: 0,1:05:58.12,1:06:01.51,Default,,0,0,0,,OK, I won't. I won't. Only men\Ndo the cutting. I understand.
+Dialogue: 0,1:06:03.24,1:06:04.96,Default,,0,0,0,,OK.
+Dialogue: 0,1:06:24.60,1:06:27.08,Default,,0,0,0,,...Rick.
+Dialogue: 0,1:06:36.40,1:06:39.04,Default,,0,0,0,,- Hi.\N- Hi.
+Dialogue: 0,1:06:43.52,1:06:45.56,Default,,0,0,0,,This is Mr Eddy.
+Dialogue: 0,1:06:46.56,1:06:48.25,Default,,0,0,0,,Eddy, Rick.
+Dialogue: 0,1:06:52.40,1:06:54.64,Default,,0,0,0,,I got your telegram.
+Dialogue: 0,1:07:02.44,1:07:04.11,Default,,0,0,0,,Thanks.
+Dialogue: 0,1:07:04.12,1:07:06.00,Default,,0,0,0,,You're welcome.
+Dialogue: 0,1:07:07.24,1:07:09.11,Default,,0,0,0,,This is for you.
+Dialogue: 0,1:07:09.12,1:07:11.20,Default,,0,0,0,,Oh...
+Dialogue: 0,1:07:33.28,1:07:36.05,Default,,0,0,0,,Diggity! Stay close!
+Dialogue: 0,1:08:10.36,1:08:12.48,Default,,0,0,0,,What happened to this place?
+Dialogue: 0,1:08:14.12,1:08:17.36,Default,,0,0,0,,Nobody here. Everybody all gone.
+Dialogue: 0,1:08:44.92,1:08:49.52,Default,,0,0,0,,I look up, he nearly kill me.
+Dialogue: 0,1:09:05.84,1:09:10.20,Default,,0,0,0,,So... Eddy's very insistent\Nthat you take along an Elder.
+Dialogue: 0,1:09:11.04,1:09:14.31,Default,,0,0,0,,Yeah. I prefer to do\Nthis stretch on my own.
+Dialogue: 0,1:09:14.32,1:09:17.51,Default,,0,0,0,,Yeah, but it's better to do\Nthis stretch with company.
+Dialogue: 0,1:09:17.52,1:09:19.52,Default,,0,0,0,,No, I'll be fine.
+Dialogue: 0,1:09:21.52,1:09:23.44,Default,,0,0,0,,You won't find a drop of water.
+Dialogue: 0,1:09:24.36,1:09:26.15,Default,,0,0,0,,It'll be two months' travel
+Dialogue: 0,1:09:26.16,1:09:28.88,Default,,0,0,0,,on a dead-straight track\Nthrough empty desert.
+Dialogue: 0,1:09:30.04,1:09:32.20,Default,,0,0,0,,It's lucky to get six\Ncars a year along it.
+Dialogue: 0,1:09:33.32,1:09:35.28,Default,,0,0,0,,I'll be fine.
+Dialogue: 0,1:09:38.00,1:09:39.99,Default,,0,0,0,,Would it make any\Ndifference if I told you
+Dialogue: 0,1:09:40.00,1:09:41.83,Default,,0,0,0,,I didn't want you to go alone?
+Dialogue: 0,1:09:41.84,1:09:43.35,Default,,0,0,0,,What do you think?
+Dialogue: 0,1:09:43.36,1:09:45.60,Default,,0,0,0,,Well, I think you have\Na problem with people.
+Dialogue: 0,1:09:56.12,1:09:58.59,Default,,0,0,0,,You know, I'm sorry but I'm\Ndriving ahead to Wiluna
+Dialogue: 0,1:09:58.60,1:10:00.76,Default,,0,0,0,,and dropping water\Ndrums along the track.
+Dialogue: 0,1:10:03.80,1:10:06.59,Default,,0,0,0,,That's almost 1,000\Nmiles out of your way.
+Dialogue: 0,1:10:06.60,1:10:08.40,Default,,0,0,0,,Yeah. Yeah, I know how far it is.
+Dialogue: 0,1:10:10.80,1:10:13.24,Default,,0,0,0,,- Are you sure?\N- 100%.
+Dialogue: 0,1:10:14.68,1:10:16.72,Default,,0,0,0,,I'll mark the drop\Npoints on your map.
+Dialogue: 0,1:10:17.68,1:10:19.63,Default,,0,0,0,,OK.
+Dialogue: 0,1:10:19.64,1:10:21.33,Default,,0,0,0,,Thanks.
+Dialogue: 0,1:10:40.16,1:10:45.39,Default,,0,0,0,,Good luck.
+Dialogue: 0,1:10:45.40,1:10:47.23,Default,,0,0,0,,Goodbye.
+Dialogue: 0,1:10:47.24,1:10:48.52,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:11:58.44,1:12:00.08,Default,,0,0,0,,Come on.
+Dialogue: 0,1:12:01.52,1:12:03.29,Default,,0,0,0,,Steady.
+Dialogue: 0,1:12:58.28,1:13:00.60,Default,,0,0,0,,The compass, Dig.
+Dialogue: 0,1:13:01.80,1:13:03.44,Default,,0,0,0,,Fuck.
+Dialogue: 0,1:13:04.36,1:13:06.24,Default,,0,0,0,,Come on, Dig.
+Dialogue: 0,1:13:22.76,1:13:24.61,Default,,0,0,0,,Hey.
+Dialogue: 0,1:13:31.60,1:13:33.48,Default,,0,0,0,,Your mother gave me that.
+Dialogue: 0,1:13:36.92,1:13:38.61,Default,,0,0,0,,Thanks, Pop.
+Dialogue: 0,1:13:41.36,1:13:43.15,Default,,0,0,0,,You be sure you look after it.
+Dialogue: 0,1:13:43.16,1:13:44.93,Default,,0,0,0,,I will.
+Dialogue: 0,1:14:29.56,1:14:31.56,Default,,0,0,0,,Where are we, Dig?
+Dialogue: 0,1:14:57.72,1:14:59.57,Default,,0,0,0,,Fuck.
+Dialogue: 0,1:15:15.64,1:15:18.35,Default,,0,0,0,,Diggity. Hey. Go home.
+Dialogue: 0,1:15:18.36,1:15:21.15,Default,,0,0,0,,Go on. Go home.
+Dialogue: 0,1:15:26.04,1:15:28.40,Default,,0,0,0,,Home! Diggity, go home!
+Dialogue: 0,1:15:40.12,1:15:43.52,Default,,0,0,0,,Go home. Go on, go home, Dig.
+Dialogue: 0,1:15:46.88,1:15:49.08,Default,,0,0,0,,Diggity, go home.
+Dialogue: 0,1:16:08.00,1:16:10.27,Default,,0,0,0,,Diggity! Good girl!
+Dialogue: 0,1:16:10.28,1:16:12.43,Default,,0,0,0,,Hey!
+Dialogue: 0,1:16:15.44,1:16:18.07,Default,,0,0,0,,We're back! Did you miss me?
+Dialogue: 0,1:16:19.72,1:16:22.67,Default,,0,0,0,,Come on. Come on, bring\Nit back. Come on, girl.
+Dialogue: 0,1:16:29.84,1:16:31.63,Default,,0,0,0,,Good girl.
+Dialogue: 0,1:16:31.64,1:16:33.31,Default,,0,0,0,,Hello.
+Dialogue: 0,1:16:33.32,1:16:35.03,Default,,0,0,0,,Hi.
+Dialogue: 0,1:16:35.04,1:16:37.31,Default,,0,0,0,,Hey. Come on, girl.
+Dialogue: 0,1:16:37.32,1:16:39.32,Default,,0,0,0,,Come on, give it here.
+Dialogue: 0,1:17:34.64,1:17:36.55,Default,,0,0,0,,Aaargghh!
+Dialogue: 0,1:17:36.56,1:17:39.49,Default,,0,0,0,,Go away! Go away!
+Dialogue: 0,1:21:14.56,1:21:17.52,Default,,0,0,0,,Hey! Is that the camel lady?
+Dialogue: 0,1:21:21.36,1:21:23.43,Default,,0,0,0,,Oh. G'day.
+Dialogue: 0,1:21:23.44,1:21:26.03,Default,,0,0,0,,Oh. Fire's nice, eh?
+Dialogue: 0,1:21:26.04,1:21:28.43,Default,,0,0,0,,Been following your\Ntracks since Warburton.
+Dialogue: 0,1:21:28.44,1:21:30.87,Default,,0,0,0,,Yeah, I'm going for\Nan overland record.
+Dialogue: 0,1:21:30.88,1:21:33.51,Default,,0,0,0,,Flat chat out of Bundaberg,\Nstraight shot to Ningaloo.
+Dialogue: 0,1:21:33.52,1:21:36.91,Default,,0,0,0,,Nonstop, mate.\NReckon I'm the first.
+Dialogue: 0,1:21:36.92,1:21:38.71,Default,,0,0,0,,I'm gonna be famous.
+Dialogue: 0,1:21:38.72,1:21:42.83,Default,,0,0,0,,Suzuki TS400. Bike of the future.
+Dialogue: 0,1:21:42.84,1:21:45.19,Default,,0,0,0,,Fuck me, it's cold out here.
+Dialogue: 0,1:21:45.20,1:21:46.91,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:21:46.92,1:21:48.71,Default,,0,0,0,,You like bikes?
+Dialogue: 0,1:21:48.72,1:21:51.75,Default,,0,0,0,,Nah. Nah, nah, you like...\Nyou like camels.
+Dialogue: 0,1:21:51.76,1:21:53.79,Default,,0,0,0,,Yeah, nice, nice.
+Dialogue: 0,1:21:53.80,1:21:56.87,Default,,0,0,0,,Yeah. Gives you a chance\Nto see the scenery, eh?
+Dialogue: 0,1:21:56.88,1:21:58.67,Default,,0,0,0,,Me, all I wanna see of the desert
+Dialogue: 0,1:21:58.68,1:22:00.67,Default,,0,0,0,,is a fuckin' blur, you know?
+Dialogue: 0,1:22:59.40,1:23:03.00,Default,,0,0,0,,Hello, dear. Nice to see you.
+Dialogue: 0,1:23:04.00,1:23:06.12,Default,,0,0,0,,Will you come in for tea?
+Dialogue: 0,1:23:12.68,1:23:14.59,Default,,0,0,0,,Where you from?
+Dialogue: 0,1:23:14.60,1:23:18.67,Default,,0,0,0,,I grew up on a cattle\Nstation near Darling Downs.
+Dialogue: 0,1:23:18.68,1:23:20.84,Default,,0,0,0,,Oh, a Queenslander, eh?
+Dialogue: 0,1:23:22.00,1:23:24.03,Default,,0,0,0,,What'd you run?
+Dialogue: 0,1:23:24.04,1:23:25.84,Default,,0,0,0,,Hereford.
+Dialogue: 0,1:23:29.40,1:23:31.64,Default,,0,0,0,,Hard country, that.
+Dialogue: 0,1:23:33.24,1:23:35.39,Default,,0,0,0,,Reckon she copped her\Nshare of drought, eh?
+Dialogue: 0,1:23:35.40,1:23:37.60,Default,,0,0,0,,Seven years.
+Dialogue: 0,1:23:42.88,1:23:44.88,Default,,0,0,0,,Muster through it, did ya?
+Dialogue: 0,1:23:46.36,1:23:48.60,Default,,0,0,0,,We went broke.
+Dialogue: 0,1:24:19.88,1:24:21.73,Default,,0,0,0,,♪ Dye-da-dye
+Dialogue: 0,1:24:22.56,1:24:25.83,Default,,0,0,0,,♪ Daisy, have you seen the\Nlatest dancers come along?
+Dialogue: 0,1:24:25.84,1:24:28.67,Default,,0,0,0,,♪ Daisy, go and put your\NSunday hat and jacket on
+Dialogue: 0,1:24:28.68,1:24:31.63,Default,,0,0,0,,♪ There's going to be some jollity
+Dialogue: 0,1:24:31.64,1:24:33.23,Default,,0,0,0,,♪ Come with me, happy me
+Dialogue: 0,1:24:33.24,1:24:35.12,Default,,0,0,0,,♪ Fill your heart with ecstasy... ♪
+Dialogue: 0,1:25:22.76,1:25:24.76,Default,,0,0,0,,Your mother's dead, darling.
+Dialogue: 0,1:25:27.56,1:25:30.49,Default,,0,0,0,,You're gonna have to live with\Nyour Aunt Gillian from now on.
+Dialogue: 0,1:25:37.44,1:25:40.37,Default,,0,0,0,,Is Goldie coming with me?
+Dialogue: 0,1:25:41.44,1:25:44.61,Default,,0,0,0,,No, darling. There's\Nno room for her there.
+Dialogue: 0,1:25:47.20,1:25:50.19,Default,,0,0,0,,Will I be able to visit her?
+Dialogue: 0,1:25:50.20,1:25:52.08,Default,,0,0,0,,No, darling.
+Dialogue: 0,1:25:53.68,1:25:55.88,Default,,0,0,0,,We're gonna have to put her down.
+Dialogue: 0,1:26:08.36,1:26:11.95,Default,,0,0,0,,After that, you'll join up\Nat the Canning at well ten.
+Dialogue: 0,1:26:11.96,1:26:13.63,Default,,0,0,0,,Follow this track here.
+Dialogue: 0,1:26:13.64,1:26:16.67,Default,,0,0,0,,I reckon you're, uh, three\Nweeks or so out of Wiluna.
+Dialogue: 0,1:26:16.68,1:26:18.92,Default,,0,0,0,,A little something\Nto keep you going.
+Dialogue: 0,1:26:20.60,1:26:23.72,Default,,0,0,0,,Thank you... both.
+Dialogue: 0,1:26:33.88,1:26:35.60,Default,,0,0,0,,- Bye.\N- Bye.
+Dialogue: 0,1:26:41.68,1:26:43.84,Default,,0,0,0,,Good luck.
+Dialogue: 0,1:26:47.72,1:26:49.84,Default,,0,0,0,,Bye.
+Dialogue: 0,1:27:31.80,1:27:35.52,Default,,0,0,0,,Hey.
+Dialogue: 0,1:27:43.20,1:27:45.24,Default,,0,0,0,,Hey, good girl. You found dinner.
+Dialogue: 0,1:27:52.88,1:27:57.03,Default,,0,0,0,,Wiya, wiya, wiya, wiya!
+Dialogue: 0,1:27:57.04,1:28:01.84,Default,,0,0,0,,Woman never break the law.\NWoman never break the law.
+Dialogue: 0,1:28:06.64,1:28:09.57,Default,,0,0,0,,Come on, Diggity. Come on.
+Dialogue: 0,1:28:53.20,1:28:55.44,Default,,0,0,0,,Last one, girl.
+Dialogue: 0,1:28:57.28,1:28:58.99,Default,,0,0,0,,That's all there is.
+Dialogue: 0,1:28:59.00,1:29:00.80,Default,,0,0,0,,There's no more.
+Dialogue: 0,1:29:15.80,1:29:18.79,Default,,0,0,0,,♪ Sometimes I wonder
+Dialogue: 0,1:29:18.80,1:29:23.88,Default,,0,0,0,,♪ Why I spend the lonely night
+Dialogue: 0,1:29:24.76,1:29:27.55,Default,,0,0,0,,♪ Dreaming of a song
+Dialogue: 0,1:29:27.56,1:29:29.39,Default,,0,0,0,,♪ The melody... ♪
+Dialogue: 0,1:29:31.08,1:29:33.71,Default,,0,0,0,,♪ Haunts my reverie
+Dialogue: 0,1:29:33.72,1:29:36.99,Default,,0,0,0,,♪ And I am once again with you... ♪
+Dialogue: 0,1:29:49.92,1:29:51.72,Default,,0,0,0,,Hey, Dig.
+Dialogue: 0,1:29:53.20,1:29:55.05,Default,,0,0,0,,Dig?
+Dialogue: 0,1:29:56.92,1:29:58.88,Default,,0,0,0,,Dig?
+Dialogue: 0,1:30:03.84,1:30:05.80,Default,,0,0,0,,Dig?
+Dialogue: 0,1:30:08.56,1:30:10.56,Default,,0,0,0,,Come here, girl.
+Dialogue: 0,1:30:11.52,1:30:14.64,Default,,0,0,0,,Diggity! Diggity.
+Dialogue: 0,1:30:18.40,1:30:20.12,Default,,0,0,0,,Dig!
+Dialogue: 0,1:30:21.88,1:30:24.20,Default,,0,0,0,,Come here, girl.
+Dialogue: 0,1:30:28.20,1:30:29.87,Default,,0,0,0,,Dig.
+Dialogue: 0,1:30:29.88,1:30:31.83,Default,,0,0,0,,Diggity.
+Dialogue: 0,1:30:31.84,1:30:33.51,Default,,0,0,0,,Diggity!
+Dialogue: 0,1:30:33.52,1:30:35.35,Default,,0,0,0,,Diggity!
+Dialogue: 0,1:30:35.36,1:30:37.55,Default,,0,0,0,,Hey, Diggity! Diggity, Come here!
+Dialogue: 0,1:30:40.08,1:30:42.27,Default,,0,0,0,,Spit it out. Come on,\Ngirl. Come on.
+Dialogue: 0,1:30:42.28,1:30:44.39,Default,,0,0,0,,Come on, girl, spit it out.
+Dialogue: 0,1:30:48.60,1:30:50.71,Default,,0,0,0,,No, no, no, no, no. Come\Non, come on, come on.
+Dialogue: 0,1:30:50.72,1:30:52.51,Default,,0,0,0,,Diggity, Diggity, come on.
+Dialogue: 0,1:30:52.52,1:30:54.99,Default,,0,0,0,,Hey...
+Dialogue: 0,1:30:55.00,1:30:56.71,Default,,0,0,0,,Diggity!
+Dialogue: 0,1:30:56.72,1:30:58.35,Default,,0,0,0,,Diggity, come on!
+Dialogue: 0,1:30:58.36,1:31:00.28,Default,,0,0,0,,Diggity!
+Dialogue: 0,1:31:32.20,1:31:33.92,Default,,0,0,0,,No!
+Dialogue: 0,1:31:38.76,1:31:42.28,Default,,0,0,0,,No! Go away!
+Dialogue: 0,1:31:44.40,1:31:45.84,Default,,0,0,0,,Stay here.
+Dialogue: 0,1:32:16.76,1:32:19.40,Default,,0,0,0,,Hello?
+Dialogue: 0,1:32:20.64,1:32:23.59,Default,,0,0,0,,Hello?
+Dialogue: 0,1:32:23.60,1:32:25.56,Default,,0,0,0,,Is anybody there?
+Dialogue: 0,1:35:40.92,1:35:43.44,Default,,0,0,0,,Miss Davidson? Robyn?
+Dialogue: 0,1:35:44.32,1:35:47.00,Default,,0,0,0,,- Hello?\N- Where are you, Robyn?
+Dialogue: 0,1:36:07.76,1:36:09.67,Default,,0,0,0,,- Wait a minute!\N- Here she is!
+Dialogue: 0,1:36:09.68,1:36:12.03,Default,,0,0,0,,- Hey! Whoa!\N- Hey! Hey, Robyn!
+Dialogue: 0,1:36:13.60,1:36:15.87,Default,,0,0,0,,Stay right where you are! Hang on!
+Dialogue: 0,1:36:15.88,1:36:18.31,Default,,0,0,0,,- You OK?\N- We need to get a photo!
+Dialogue: 0,1:36:18.32,1:36:20.23,Default,,0,0,0,,Hey, you OK? You alright?
+Dialogue: 0,1:36:20.24,1:36:22.43,Default,,0,0,0,,I've been trying to find\Nyou for over a week.
+Dialogue: 0,1:36:22.44,1:36:24.27,Default,,0,0,0,,Miss Davidson!
+Dialogue: 0,1:36:26.36,1:36:28.11,Default,,0,0,0,,Calm down! Just stand back!
+Dialogue: 0,1:36:31.12,1:36:33.39,Default,,0,0,0,,- Just give her a little space.\N- Leave me alone!
+Dialogue: 0,1:36:35.64,1:36:37.52,Default,,0,0,0,,Go away!
+Dialogue: 0,1:36:38.76,1:36:40.76,Default,,0,0,0,,Go away!
+Dialogue: 0,1:36:43.80,1:36:45.83,Default,,0,0,0,,Where's Dig?
+Dialogue: 0,1:36:45.84,1:36:47.56,Default,,0,0,0,,She's gone.
+Dialogue: 0,1:36:49.20,1:36:51.20,Default,,0,0,0,,Poison.
+Dialogue: 0,1:36:55.96,1:36:59.72,Default,,0,0,0,,You have one from London,\Nanother from New York.
+Dialogue: 0,1:37:00.64,1:37:03.60,Default,,0,0,0,,Paris, Saigon, Singapore...
+Dialogue: 0,1:37:05.04,1:37:07.60,Default,,0,0,0,,Wow. I can't even read\Nwhere that's from.
+Dialogue: 0,1:37:09.24,1:37:11.23,Default,,0,0,0,,Doesn't matter anyway.
+Dialogue: 0,1:37:11.24,1:37:13.23,Default,,0,0,0,,What doesn't matter?
+Dialogue: 0,1:37:13.24,1:37:15.03,Default,,0,0,0,,This trip.
+Dialogue: 0,1:37:15.04,1:37:17.32,Default,,0,0,0,,I never should have started it.
+Dialogue: 0,1:37:39.84,1:37:41.83,Default,,0,0,0,,They're gone?
+Dialogue: 0,1:37:41.84,1:37:45.52,Default,,0,0,0,,Yeah. For now.
+Dialogue: 0,1:37:49.92,1:37:51.67,Default,,0,0,0,,Ow.
+Dialogue: 0,1:37:51.68,1:37:53.45,Default,,0,0,0,,Sorry.
+Dialogue: 0,1:38:00.64,1:38:02.52,Default,,0,0,0,,Rick?
+Dialogue: 0,1:38:10.04,1:38:12.04,Default,,0,0,0,,I'm so alone.
+Dialogue: 0,1:38:14.08,1:38:16.04,Default,,0,0,0,,We all are.
+Dialogue: 0,1:38:29.64,1:38:31.88,Default,,0,0,0,,I miss her so much.
+Dialogue: 0,1:39:00.96,1:39:03.48,Default,,0,0,0,,Agh! No!
+Dialogue: 0,1:39:09.80,1:39:11.91,Default,,0,0,0,,Hey!
+Dialogue: 0,1:39:11.92,1:39:13.72,Default,,0,0,0,,Way up high!
+Dialogue: 0,1:39:25.08,1:39:26.88,Default,,0,0,0,,Alright, you ready?
+Dialogue: 0,1:40:33.40,1:40:35.52,Default,,0,0,0,,I've been thinking...
+Dialogue: 0,1:40:38.72,1:40:40.99,Default,,0,0,0,,Yeah?
+Dialogue: 0,1:40:41.00,1:40:43.16,Default,,0,0,0,,I want to finish what I started.
+Dialogue: 0,1:40:44.20,1:40:46.76,Default,,0,0,0,,You know, but I can't face\Nthose reporters again.
+Dialogue: 0,1:40:48.96,1:40:51.20,Default,,0,0,0,,Oh, I can go ahead of\Nyou into town and...
+Dialogue: 0,1:40:52.40,1:40:54.91,Default,,0,0,0,,and say that one of\Nyour camels is sick,
+Dialogue: 0,1:40:54.92,1:40:57.07,Default,,0,0,0,,and it won't be\Nbetter for six weeks.
+Dialogue: 0,1:40:57.08,1:40:58.71,Default,,0,0,0,,Trust me, none of them
+Dialogue: 0,1:40:58.72,1:41:00.76,Default,,0,0,0,,will be able to stay\Nthere for six weeks.
+Dialogue: 0,1:41:01.88,1:41:04.28,Default,,0,0,0,,You think they'll go?
+Dialogue: 0,1:41:07.00,1:41:10.12,Default,,0,0,0,,No, they'll be waiting\Nfor you at Carnarvon.
+Dialogue: 0,1:41:10.96,1:41:12.87,Default,,0,0,0,,But I'm not going to Carnarvon.
+Dialogue: 0,1:41:12.88,1:41:14.57,Default,,0,0,0,,I know.
+Dialogue: 0,1:42:04.44,1:42:06.35,Default,,0,0,0,,Come on.
+Dialogue: 0,1:42:06.36,1:42:08.13,Default,,0,0,0,,Here, Dook.
+Dialogue: 0,1:42:42.44,1:42:44.24,Default,,0,0,0,,Steady.
+Dialogue: 0,1:43:01.68,1:43:03.48,Default,,0,0,0,,Come on.
+Dialogue: 0,1:43:51.24,1:43:53.03,Default,,0,0,0,,Here, Bub.
+Dialogue: 0,1:43:53.04,1:43:55.04,Default,,0,0,0,,Ooh! Ooh!
+Dialogue: 0,1:43:55.92,1:43:57.67,Default,,0,0,0,,Just be careful.
+Dialogue: 0,1:44:04.92,1:44:06.61,Default,,0,0,0,,Come on.
+Dialogue: 0,1:44:10.60,1:44:12.80,Default,,0,0,0,,Come on.
+Dialogue: 0,1:44:20.56,1:44:22.41,Default,,0,0,0,,Come on.
+Dialogue: 0,1:45:44.04,1:45:47.24,Default,,0,0,0,,Captions by CSI Australia
