@@ -18,20 +18,17 @@ Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:08.39,0:00:10.00,Default,,0,0,0,,JAMES GUNN:\NSo, tell us about\Nhow it all started.
-Dialogue: 0,0:00:10.04,0:00:11.13,Default,,0,0,0,,[LAUGHTER]
-Dialogue: 0,0:00:13.30,0:00:15.65,Default,,0,0,0,,JON FAVREAU: Oh,\Nit's all coming out tonight,\Nisn't it?
-Dialogue: 0,0:00:15.70,0:00:17.92,Default,,0,0,0,,PEYTON REED: Ryan, did you\Ncome down just for this?RYAN COOGLER: Yeah.
-Dialogue: 0,0:00:17.96,0:00:20.09,Default,,0,0,0,,FAVREAU:\NSeven directors here.\NNo shortage of opinion.
-Dialogue: 0,0:00:20.14,0:00:21.27,Default,,0,0,0,,[ALL LAUGHING]
-Dialogue: 0,0:00:21.31,0:00:22.83,Default,,0,0,0,,[INAUDIBLE CONVERSATIONS]
-Dialogue: 0,0:00:58.09,0:00:59.79,Default,,0,0,0,,FAVREAU: I just like\Nthe superhero stuff,
+Dialogue: 0,0:00:08.39,0:00:10.00,Default,,0,0,0,,So, tell us about\Nhow it all started.
+Dialogue: 0,0:00:13.30,0:00:15.65,Default,,0,0,0,,Oh,\Nit's all coming out tonight,\Nisn't it?
+Dialogue: 0,0:00:15.70,0:00:17.92,Default,,0,0,0,,Ryan, did you\Ncome down just for this?RYAN COOGLER: Yeah.
+Dialogue: 0,0:00:17.96,0:00:20.09,Default,,0,0,0,,- Seven directors here.\N- No shortage of opinion.
+Dialogue: 0,0:00:58.09,0:00:59.79,Default,,0,0,0,,I just like\Nthe superhero stuff,
 Dialogue: 0,0:00:59.83,0:01:02.71,Default,,0,0,0,,you know, I'm a geek\Nand I thought\Nit was supercool.
 Dialogue: 0,0:01:02.74,0:01:05.35,Default,,0,0,0,,And I've even done\Na bit part in one of\Nthe Batman movies.
 Dialogue: 0,0:01:05.40,0:01:07.28,Default,,0,0,0,,So, to me, it was...Which Batman movie\Nwere you in?
 Dialogue: 0,0:01:07.31,0:01:09.49,Default,,0,0,0,,It was in Batman Forever.
 Dialogue: 0,0:01:09.53,0:01:11.14,Default,,0,0,0,,The Adam West one,\Nback in '66.
-Dialogue: 0,0:01:11.19,0:01:13.19,Default,,0,0,0,,[LAUGHING]\NYes, that's right.\NThat's right.
+Dialogue: 0,0:01:11.19,0:01:13.19,Default,,0,0,0,,Yes, that's right.\NThat's right.
 Dialogue: 0,0:01:13.23,0:01:15.80,Default,,0,0,0,,It was the early days\Nof my acting career.
 Dialogue: 0,0:01:15.84,0:01:17.36,Default,,0,0,0,,No, yeah, it was\Nthe Batman Forever,
 Dialogue: 0,0:01:17.41,0:01:19.19,Default,,0,0,0,,the Joel Schumacher one\Nwith Val Kilmer.
@@ -61,7 +58,7 @@ Dialogue: 0,0:02:14.77,0:02:16.03,Default,,0,0,0,,And then, of course,\Nthe big 
 Dialogue: 0,0:02:16.08,0:02:18.30,Default,,0,0,0,,Like, getting Robert in
 Dialogue: 0,0:02:18.34,0:02:21.21,Default,,0,0,0,,and he's been\Na really big through-line\Nthrough the whole journey.
 Dialogue: 0,0:02:21.26,0:02:22.66,Default,,0,0,0,,I am Iron Man.
-Dialogue: 0,0:02:22.69,0:02:25.39,Default,,0,0,0,,FAVREAU: It carried\Na lot of us through,
+Dialogue: 0,0:02:22.69,0:02:25.39,Default,,0,0,0,,It carried\Na lot of us through,
 Dialogue: 0,0:02:25.44,0:02:29.71,Default,,0,0,0,,and then also just great\Ncasting decisions after that
 Dialogue: 0,0:02:29.74,0:02:32.79,Default,,0,0,0,,that were, I think,\Ninfluenced by the sensibility\Nor tone
 Dialogue: 0,0:02:32.83,0:02:34.05,Default,,0,0,0,,of hiring Robert\Nto play Iron Man.
@@ -73,8 +70,8 @@ Dialogue: 0,0:02:45.98,0:02:48.86,Default,,0,0,0,,Like, when Robert is saying,\N
 Dialogue: 0,0:02:48.89,0:02:51.02,Default,,0,0,0,,'cause he's been so glib,\Nand so good,
 Dialogue: 0,0:02:51.07,0:02:53.63,Default,,0,0,0,,and so attractive\Nwhile he's being terrible,
 Dialogue: 0,0:02:53.68,0:02:57.59,Default,,0,0,0,,that when he actually shows\Nhis heart, literally while\Nshe's pulling his...
-Dialogue: 0,0:02:57.64,0:02:58.86,Default,,0,0,0,,FAVREAU: Yes. Right.
-Dialogue: 0,0:03:00.12,0:03:01.95,Default,,0,0,0,,WHEDON:\NFor me, that was like,
+Dialogue: 0,0:02:57.64,0:02:58.86,Default,,0,0,0,,Yes. Right.
+Dialogue: 0,0:03:00.12,0:03:01.95,Default,,0,0,0,,For me, that was like,
 Dialogue: 0,0:03:01.99,0:03:03.03,Default,,0,0,0,,"Oh, my God.\NI'm so on board\Nwith this guy now."
 Dialogue: 0,0:03:03.08,0:03:04.60,Default,,0,0,0,,Was that so hard?
 Dialogue: 0,0:03:04.65,0:03:05.83,Default,,0,0,0,,That was fun, right?
@@ -83,7 +80,7 @@ Dialogue: 0,0:03:07.43,0:03:08.17,Default,,0,0,0,,Nice.
 Dialogue: 0,0:03:13.92,0:03:19.41,Default,,0,0,0,,I had had a lot of training\Nbeing around\Nanimated characters.
 Dialogue: 0,0:03:19.45,0:03:22.28,Default,,0,0,0,,So when I came intoGuardians,
 Dialogue: 0,0:03:22.32,0:03:24.06,Default,,0,0,0,,I was fortunate\Nto have had\Nthat background...
-Dialogue: 0,0:03:24.10,0:03:26.97,Default,,0,0,0,,FAVREAU: Sure. ...to deal with Rocket\Nand Groot,
+Dialogue: 0,0:03:24.10,0:03:26.97,Default,,0,0,0,,Sure. ...to deal with Rocket\Nand Groot,
 Dialogue: 0,0:03:27.02,0:03:32.51,Default,,0,0,0,,because I had\Ntwo main characters\Nthat were both CGI aliens.
 Dialogue: 0,0:03:32.55,0:03:35.47,Default,,0,0,0,,Well, it's a character-first\Ntable and I think that\Nthat's what...
 Dialogue: 0,0:03:35.51,0:03:39.21,Default,,0,0,0,,What we were\Nmost impressed with\Nwhen we saw Iron Man
@@ -93,24 +90,24 @@ Dialogue: 0,0:03:46.04,0:03:49.09,Default,,0,0,0,,who's presented\Nas a drunk an
 Dialogue: 0,0:03:49.13,0:03:50.35,Default,,0,0,0,,We'll be throwing\None of these in
 Dialogue: 0,0:03:50.39,0:03:51.65,Default,,0,0,0,,with every purchase of\N500 million or more.
 Dialogue: 0,0:03:51.70,0:03:53.88,Default,,0,0,0,,To peace.
-Dialogue: 0,0:03:53.92,0:03:54.66,Default,,0,0,0,,JOE: And this is the guy\Nthat I'm supposed to get\Non board with...
-Dialogue: 0,0:03:54.70,0:03:56.62,Default,,0,0,0,,FAVREAU: Right.
-Dialogue: 0,0:03:56.66,0:03:58.14,Default,,0,0,0,,JOE: ...who goes on this amazing journey over the course of the movie
+Dialogue: 0,0:03:53.92,0:03:54.66,Default,,0,0,0,,And this is the guy\Nthat I'm supposed to get\Non board with...
+Dialogue: 0,0:03:54.70,0:03:56.62,Default,,0,0,0,,Right.
+Dialogue: 0,0:03:56.66,0:03:58.14,Default,,0,0,0,,...who goes on this amazing journey over the course of the movie
 Dialogue: 0,0:03:58.18,0:03:59.79,Default,,0,0,0,,and I do get on board\Nwith him.
 Dialogue: 0,0:03:59.83,0:04:01.27,Default,,0,0,0,,And I think\Nthat that was unique.
 Dialogue: 0,0:04:01.31,0:04:03.66,Default,,0,0,0,,If you look back\Nat superhero films,
 Dialogue: 0,0:04:03.71,0:04:07.37,Default,,0,0,0,,there's a tendency\Nfor the hero\Nor the costume
 Dialogue: 0,0:04:07.41,0:04:10.37,Default,,0,0,0,,to outshine the personality\Nof the character.
 Dialogue: 0,0:04:10.41,0:04:15.24,Default,,0,0,0,,And this was one of\Nthe first times I can remember\Nthe character first.
-Dialogue: 0,0:04:15.28,0:04:16.59,Default,,0,0,0,,GUNN: Yes.
-Dialogue: 0,0:04:16.63,0:04:18.59,Default,,0,0,0,,JOE: And that was\Nenlightening to us
+Dialogue: 0,0:04:15.28,0:04:16.59,Default,,0,0,0,,Yes.
+Dialogue: 0,0:04:16.63,0:04:18.59,Default,,0,0,0,,And that was\Nenlightening to us
 Dialogue: 0,0:04:18.64,0:04:21.25,Default,,0,0,0,,and what excited us\Nabout Iron Man.
-Dialogue: 0,0:04:21.29,0:04:22.98,Default,,0,0,0,,FAVREAU: And very flawed...\NThe Marvel characters\Nare very flawed, generally.
-Dialogue: 0,0:04:23.03,0:04:24.64,Default,,0,0,0,,JOE: Very flawed.
-Dialogue: 0,0:04:24.69,0:04:27.61,Default,,0,0,0,,FURY: Sir! I'm going to\Nhave to ask you to exit\Nthe doughnut.
-Dialogue: 0,0:04:27.65,0:04:29.83,Default,,0,0,0,,JOE: And that's what\NI loved about him\Nas a kid.
+Dialogue: 0,0:04:21.29,0:04:22.98,Default,,0,0,0,,And very flawed...\NThe Marvel characters\Nare very flawed, generally.
+Dialogue: 0,0:04:23.03,0:04:24.64,Default,,0,0,0,,Very flawed.
+Dialogue: 0,0:04:24.69,0:04:27.61,Default,,0,0,0,,Sir! I'm going to\Nhave to ask you to exit\Nthe doughnut.
+Dialogue: 0,0:04:27.65,0:04:29.83,Default,,0,0,0,,And that's what\NI loved about him\Nas a kid.
 Dialogue: 0,0:04:29.86,0:04:31.69,Default,,0,0,0,,And then reading\Nthe books... I think a lot\Nof us read the books.
-Dialogue: 0,0:04:31.74,0:04:33.22,Default,,0,0,0,,FAVREAU: And it allows you\Nto have arcs, too,
+Dialogue: 0,0:04:31.74,0:04:33.22,Default,,0,0,0,,And it allows you\Nto have arcs, too,
 Dialogue: 0,0:04:33.26,0:04:34.92,Default,,0,0,0,,character arcs,\Nwhich is a big deal.
 Dialogue: 0,0:04:34.96,0:04:37.75,Default,,0,0,0,,And that opens you up\Nto the mythic aspect of it,
 Dialogue: 0,0:04:37.79,0:04:40.18,Default,,0,0,0,,which I think is really\Nthe key of the success here,
@@ -124,7 +121,7 @@ Dialogue: 0,0:04:57.11,0:05:01.29,Default,,0,0,0,,"He's... Now, I'm in,"\Nand su
 Dialogue: 0,0:05:01.33,0:05:03.63,Default,,0,0,0,,Remember, I was there\Nthe night of the premiere\Nwith you.
 Dialogue: 0,0:05:03.68,0:05:05.98,Default,,0,0,0,,Yeah, I remember seeing you.Most of us were there,\Nactually. Right?
 Dialogue: 0,0:05:06.03,0:05:08.29,Default,,0,0,0,,That was kind of nice, too.GUNN: I think we were\Nall there. Yeah.
-Dialogue: 0,0:05:08.34,0:05:10.00,Default,,0,0,0,,FAVREAU: Yeah.\NThat was really cool,
+Dialogue: 0,0:05:08.34,0:05:10.00,Default,,0,0,0,,Yeah.\NThat was really cool,
 Dialogue: 0,0:05:10.04,0:05:14.17,Default,,0,0,0,,to be in the gallery\Non the balcony with\Nall these guys.
 Dialogue: 0,0:05:14.21,0:05:15.73,Default,,0,0,0,,And here was...The rowdy section.
 Dialogue: 0,0:05:15.78,0:05:17.95,Default,,0,0,0,,And here was the new guy\Nwho was coming out
@@ -146,8 +143,8 @@ Dialogue: 0,0:05:50.68,0:05:53.03,Default,,0,0,0,,and then seeing\NIron Man's fo
 Dialogue: 0,0:05:53.08,0:05:55.48,Default,,0,0,0,,There were a few folks\Nthat were heavy into comics,\Nyou know what I mean?
 Dialogue: 0,0:05:55.52,0:05:59.35,Default,,0,0,0,,Like,Iron Man hit a chord with us, like true comic book fann a way,
 Dialogue: 0,0:05:59.39,0:06:02.66,Default,,0,0,0,,and I was there, actually,\Nthe night that you guys\Ncame out to the ArcLight.
-Dialogue: 0,0:06:02.70,0:06:04.57,Default,,0,0,0,,FAVREAU: Oh, yeah?COOGLER: Yeah. I was...
-Dialogue: 0,0:06:04.61,0:06:06.39,Default,,0,0,0,,FAVREAU: When me and Robert were running around?COOGLER: Yeah, yeah.
+Dialogue: 0,0:06:02.70,0:06:04.57,Default,,0,0,0,,Oh, yeah?COOGLER: Yeah. I was...
+Dialogue: 0,0:06:04.61,0:06:06.39,Default,,0,0,0,,When me and Robert were running around?COOGLER: Yeah, yeah.
 Dialogue: 0,0:06:06.44,0:06:07.58,Default,,0,0,0,,Man, like you were all wearing\NStark Industries jackets\Nand stuff.
 Dialogue: 0,0:06:07.61,0:06:09.57,Default,,0,0,0,,Yes.I was there\Nwith my classmates.
 Dialogue: 0,0:06:09.62,0:06:11.01,Default,,0,0,0,,Man, I'll never forget\Nthat night.
@@ -170,7 +167,7 @@ Dialogue: 0,0:06:44.13,0:06:45.92,Default,,0,0,0,,that we've never had before.
 Dialogue: 0,0:06:45.96,0:06:48.31,Default,,0,0,0,,While at the same time,\Non a character level,
 Dialogue: 0,0:06:48.35,0:06:50.52,Default,,0,0,0,,you're running hardcore\Nin the opposite direction
 Dialogue: 0,0:06:50.57,0:06:54.09,Default,,0,0,0,,to something very real,\Ngrounded, relatable,\Ntangible.
-Dialogue: 0,0:06:54.14,0:06:57.58,Default,,0,0,0,,FAVREAU: And the irony is that the more focused and specific you make it,
+Dialogue: 0,0:06:54.14,0:06:57.58,Default,,0,0,0,,And the irony is that the more focused and specific you make it,
 Dialogue: 0,0:06:57.62,0:06:59.92,Default,,0,0,0,,the more universal\Nthe appeal seems to be.
 Dialogue: 0,0:06:59.97,0:07:02.32,Default,,0,0,0,,Because these are all\Nvery specific titles,
 Dialogue: 0,0:07:02.36,0:07:06.32,Default,,0,0,0,,and in some cases,\Nstarting with real\Nobscure characters.
@@ -190,11 +187,11 @@ Dialogue: 0,0:07:36.14,0:07:38.36,Default,,0,0,0,,And I mean, Rudd is amazing.
 Dialogue: 0,0:07:38.40,0:07:41.62,Default,,0,0,0,,I think he's one of\Nthose guys who can do drama,\Ncomedy, anything.
 Dialogue: 0,0:07:41.67,0:07:44.37,Default,,0,0,0,,I ruined the moment,\Ndidn't I?Yes, you did. Yes.
 Dialogue: 0,0:07:45.89,0:07:46.89,Default,,0,0,0,,I'm gonna make some tea.
-Dialogue: 0,0:07:52.59,0:07:56.38,Default,,0,0,0,,CREW MEMBER:\NWe have a special guest\Nthat is going to join us here.
-Dialogue: 0,0:07:56.42,0:07:57.38,Default,,0,0,0,,FAVREAU: Here it is.[LAUGHTER]
-Dialogue: 0,0:07:58.38,0:08:00.30,Default,,0,0,0,,REED: Oh, no.FAVREAU: Hello.
-Dialogue: 0,0:08:01.95,0:08:03.87,Default,,0,0,0,,REED: Oh, no, no.WHEDON: This can only\Nend in tears.
-Dialogue: 0,0:08:03.90,0:08:05.68,Default,,0,0,0,,REED: No, no, no.How are you, my friend?
+Dialogue: 0,0:07:52.59,0:07:56.38,Default,,0,0,0,,We have a special guest\Nthat is going to join us here.
+Dialogue: 0,0:07:56.42,0:07:57.38,Default,,0,0,0,,Here it is.
+Dialogue: 0,0:07:58.38,0:08:00.30,Default,,0,0,0,,Oh, no.FAVREAU: Hello.
+Dialogue: 0,0:08:01.95,0:08:03.87,Default,,0,0,0,,Oh, no, no.WHEDON: This can only\Nend in tears.
+Dialogue: 0,0:08:03.90,0:08:05.68,Default,,0,0,0,,No, no, no.How are you, my friend?
 Dialogue: 0,0:08:05.73,0:08:08.64,Default,,0,0,0,,Who thought\Nthis was a good idea?
 Dialogue: 0,0:08:08.69,0:08:11.73,Default,,0,0,0,,So, Taika, since you're here,\Nwhy don't we talk a little bit\Nabout Thor: Ragnarok?
 Dialogue: 0,0:08:11.78,0:08:13.82,Default,,0,0,0,,Yeah? How'd you get\Ninvolved?
@@ -203,13 +200,13 @@ Dialogue: 0,0:08:16.22,0:08:17.91,Default,,0,0,0,,Then they lifted up\Nthe barre
 Dialogue: 0,0:08:17.96,0:08:21.31,Default,,0,0,0,,and looked at all the things\Nthat were underneath it,
 Dialogue: 0,0:08:21.36,0:08:24.45,Default,,0,0,0,,and they said,\N"Oh, this guy here,\Nhe's desperate."
 Dialogue: 0,0:08:24.49,0:08:27.40,Default,,0,0,0,,So, yeah, that's how\NI assumed it happened.
-Dialogue: 0,0:08:27.45,0:08:29.41,Default,,0,0,0,,WHEDON: I want to know\Nhow they let you go\Nfull Taika
+Dialogue: 0,0:08:27.45,0:08:29.41,Default,,0,0,0,,I want to know\Nhow they let you go\Nfull Taika
 Dialogue: 0,0:08:29.45,0:08:30.75,Default,,0,0,0,,for that entire movie.FAVREAU: True.
 Dialogue: 0,0:08:30.80,0:08:33.93,Default,,0,0,0,,I was like...\NThat was so exciting to me
 Dialogue: 0,0:08:33.98,0:08:37.20,Default,,0,0,0,,that it just kept just going\Nto the next level.
 Dialogue: 0,0:08:37.24,0:08:39.20,Default,,0,0,0,,I think James had\Nsomething to do with that.
 Dialogue: 0,0:08:39.24,0:08:40.76,Default,,0,0,0,,I feel like Guardians...
-Dialogue: 0,0:08:40.81,0:08:42.24,Default,,0,0,0,,FAVREAU: He opened the door\Na little bit. Yeah.
+Dialogue: 0,0:08:40.81,0:08:42.24,Default,,0,0,0,,He opened the door\Na little bit. Yeah.
 Dialogue: 0,0:08:42.29,0:08:44.24,Default,,0,0,0,,That opened the door\Nto a kind of anarchy
 Dialogue: 0,0:08:44.29,0:08:46.86,Default,,0,0,0,,and just extraordinary\Nnext-level humor.
 Dialogue: 0,0:08:46.90,0:08:48.94,Default,,0,0,0,,A lot of the, sort of,\Npitch thing\Nthat I had was
@@ -254,7 +251,7 @@ Dialogue: 0,0:10:24.22,0:10:26.88,Default,,0,0,0,,of how we shift quickly,\Nhow 
 Dialogue: 0,0:10:26.92,0:10:29.45,Default,,0,0,0,,how the tone can shift\Ndramatically,
 Dialogue: 0,0:10:29.48,0:10:31.83,Default,,0,0,0,,and they appreciate it\Nbecause they're\Nconstantly being surprised.
 Dialogue: 0,0:10:31.88,0:10:33.97,Default,,0,0,0,,I think that's a big part\Nof Marvel's success.
-Dialogue: 0,0:10:34.01,0:10:36.70,Default,,0,0,0,,WHEDON: Ragnarok,\Nfor me, I loved...
+Dialogue: 0,0:10:34.01,0:10:36.70,Default,,0,0,0,,Ragnarok,\Nfor me, I loved...
 Dialogue: 0,0:10:36.75,0:10:39.53,Default,,0,0,0,,'Cause I read Marvel\Nall the time,\Nsince I was nine.
 Dialogue: 0,0:10:39.58,0:10:43.32,Default,,0,0,0,,It was like when Gene Colan\Nwould take overIron Man\Nfor a couple of issues
 Dialogue: 0,0:10:43.37,0:10:45.68,Default,,0,0,0,,and for two issues, Iron Man\Nlooked like he was made\Nout of smoke
@@ -279,7 +276,7 @@ Dialogue: 0,0:11:43.56,0:11:47.65,Default,,0,0,0,,that was letting go\Nof the id
 Dialogue: 0,0:11:47.69,0:11:50.04,Default,,0,0,0,,Because to have to tell\Nthe stories that\Nwe have been telling,
 Dialogue: 0,0:11:50.09,0:11:52.05,Default,,0,0,0,,while somebody's hiding\Nfrom Aunt May\Nin the closet...
 Dialogue: 0,0:11:52.09,0:11:53.97,Default,,0,0,0,,It's so hard to\Nkeep it feeling real.It's hard.
-Dialogue: 0,0:11:54.00,0:11:55.87,Default,,0,0,0,,FAVREAU: A lot of that\Nwas Kevin,\Nto be honest with you,
+Dialogue: 0,0:11:54.00,0:11:55.87,Default,,0,0,0,,A lot of that\Nwas Kevin,\Nto be honest with you,
 Dialogue: 0,0:11:55.92,0:11:57.10,Default,,0,0,0,,like, we came up...\NHe was like,\N"Yes, we should."
 Dialogue: 0,0:11:57.14,0:11:58.88,Default,,0,0,0,,He latched onto that
 Dialogue: 0,0:11:58.92,0:12:02.62,Default,,0,0,0,,and he latched very much\Nonto the Nick Fury setup\Npost-credits scene.
@@ -294,23 +291,22 @@ Dialogue: 0,0:12:23.21,0:12:25.17,Default,,0,0,0,,By the way,\Ncan we talk about
 Dialogue: 0,0:12:25.21,0:12:28.70,Default,,0,0,0,,So you did\Na post-credits scene\Nthat you filmed,
 Dialogue: 0,0:12:28.73,0:12:30.47,Default,,0,0,0,,was it after\Nthe premiere even or...
 Dialogue: 0,0:12:30.52,0:12:32.13,Default,,0,0,0,,Yes.FAVREAU:\NIt wasn't in the premiere.
-Dialogue: 0,0:12:32.17,0:12:33.69,Default,,0,0,0,,REED: That's the legend\Nthat they got.FAVREAU: That's crazy!
+Dialogue: 0,0:12:32.17,0:12:33.69,Default,,0,0,0,,That's the legend\Nthat they got.FAVREAU: That's crazy!
 Dialogue: 0,0:12:33.74,0:12:36.92,Default,,0,0,0,,Yes. It did not go out\Nin Europe because we didn't\Nhave time.
 Dialogue: 0,0:12:36.96,0:12:40.96,Default,,0,0,0,,It was during... While we were\Ndoing press after the premiere\Nat the hotel.
 Dialogue: 0,0:12:41.01,0:12:43.54,Default,,0,0,0,,There was a shawarma place,\Nlike, three blocks away.
 Dialogue: 0,0:12:43.58,0:12:44.89,Default,,0,0,0,,He got everybody in there.
 Dialogue: 0,0:12:44.92,0:12:46.44,Default,,0,0,0,,He had to cover...\NDidn't he have facial hair?
-Dialogue: 0,0:12:46.49,0:12:47.57,Default,,0,0,0,,WHEDON: Yep.FAVREAU: It was Chris Evans.
+Dialogue: 0,0:12:46.49,0:12:47.57,Default,,0,0,0,,Yep.FAVREAU: It was Chris Evans.
 Dialogue: 0,0:12:47.62,0:12:49.58,Default,,0,0,0,,Evans had a beard.\NSo they put, like...
 Dialogue: 0,0:12:49.62,0:12:51.80,Default,,0,0,0,,It looked like\Nthe Warren Beatty Dick Tracy,
 Dialogue: 0,0:12:51.84,0:12:53.41,Default,,0,0,0,,like, giant jaw on him,
 Dialogue: 0,0:12:53.45,0:12:55.10,Default,,0,0,0,,and he just sort of\Nhid it like this.
-Dialogue: 0,0:12:55.15,0:12:57.58,Default,,0,0,0,,COOGLER: That's also\Nsomeone I love.
+Dialogue: 0,0:12:55.15,0:12:57.58,Default,,0,0,0,,That's also\Nsomeone I love.
 Dialogue: 0,0:12:57.63,0:13:00.41,Default,,0,0,0,,Like, you hear\Nstories about...
 Dialogue: 0,0:13:00.46,0:13:03.20,Default,,0,0,0,,It's like,\N"Y'all gonna work up\Nto the last second."
-Dialogue: 0,0:13:03.25,0:13:04.73,Default,,0,0,0,,[ALL LAUGHING]
 Dialogue: 0,0:13:04.77,0:13:06.90,Default,,0,0,0,,But it's like\Na double-edged sword.Yeah.
-Dialogue: 0,0:13:06.95,0:13:08.65,Default,,0,0,0,,COOGLER: It's like, yo,\Nanything's possible
+Dialogue: 0,0:13:06.95,0:13:08.65,Default,,0,0,0,,It's like, yo,\Nanything's possible
 Dialogue: 0,0:13:08.69,0:13:11.48,Default,,0,0,0,,that you want to do,\Nmaybe if you get\Na late-in-the-game idea,
 Dialogue: 0,0:13:11.52,0:13:14.05,Default,,0,0,0,,but you also are gonna\Nnot sleep for four months,\Nyou know.
 Dialogue: 0,0:13:14.08,0:13:16.60,Default,,0,0,0,,And having Nate is great,
@@ -318,11 +314,10 @@ Dialogue: 0,0:13:16.65,0:13:20.04,Default,,0,0,0,,'cause I'm constantly asking,\
 Dialogue: 0,0:13:20.09,0:13:21.52,Default,,0,0,0,,He's like,\N"Oh, man, that was...
 Dialogue: 0,0:13:21.57,0:13:25.01,Default,,0,0,0,,"I guess we were two weeks\Nfrom having the print master."
 Dialogue: 0,0:13:25.05,0:13:26.66,Default,,0,0,0,,So, I'm like, "Okay, cool..."
-Dialogue: 0,0:13:26.71,0:13:28.89,Default,,0,0,0,,FAVREAU:\NIt's not healthy.\NIt's not healthy.
-Dialogue: 0,0:13:28.92,0:13:32.88,Default,,0,0,0,,COOGLER: Yeah, it's not,\Nbut at the same time, I feel\Nlike we all got those stories
+Dialogue: 0,0:13:26.71,0:13:28.89,Default,,0,0,0,,- It's not healthy.\N- It's not healthy.
+Dialogue: 0,0:13:28.92,0:13:32.88,Default,,0,0,0,,Yeah, it's not,\Nbut at the same time, I feel\Nlike we all got those stories
 Dialogue: 0,0:13:32.93,0:13:35.55,Default,,0,0,0,,where you throw\Nsomething crazy out
 Dialogue: 0,0:13:35.58,0:13:38.58,Default,,0,0,0,,and then, Kevin is like,\N"Yeah, we can do that."
-Dialogue: 0,0:13:38.63,0:13:40.58,Default,,0,0,0,,[ALL LAUGHING]
 Dialogue: 0,0:13:46.94,0:13:49.29,Default,,0,0,0,,I was editing\NThe Break-Up.FAVREAU: Yes.
 Dialogue: 0,0:13:49.34,0:13:50.47,Default,,0,0,0,,In which you were\Nan actor.Yes.
 Dialogue: 0,0:13:50.51,0:13:51.59,Default,,0,0,0,,And I remember you...\NI think it...
@@ -358,21 +353,21 @@ Dialogue: 0,0:15:04.06,0:15:05.58,Default,,0,0,0,,And it can be subtle.
 Dialogue: 0,0:15:05.63,0:15:10.20,Default,,0,0,0,,In all of our films,\Nthe comedy was snuck in.
 Dialogue: 0,0:15:10.24,0:15:12.94,Default,,0,0,0,,But I think it was with\NGuardians where it felt like
 Dialogue: 0,0:15:12.99,0:15:14.38,Default,,0,0,0,,it could be called a comedy\Nfirst and foremost.
-Dialogue: 0,0:15:14.42,0:15:15.50,Default,,0,0,0,,GUNN: We ran at it.
+Dialogue: 0,0:15:14.42,0:15:15.50,Default,,0,0,0,,We ran at it.
 Dialogue: 0,0:15:15.55,0:15:18.33,Default,,0,0,0,,Dance-off, bro!\NMe and you!
 Dialogue: 0,0:15:18.38,0:15:20.42,Default,,0,0,0,,And then certainly\Nwith Ragnarok.
 Dialogue: 0,0:15:20.47,0:15:22.60,Default,,0,0,0,,I think Ragnarok\Nis a comedy,
 Dialogue: 0,0:15:22.65,0:15:24.92,Default,,0,0,0,,whereas my movie was\Na really funny space opera.
-Dialogue: 0,0:15:24.95,0:15:26.52,Default,,0,0,0,,FAVREAU: Space opera.
+Dialogue: 0,0:15:24.95,0:15:26.52,Default,,0,0,0,,Space opera.
 Dialogue: 0,0:15:26.56,0:15:27.47,Default,,0,0,0,,Well, but it also had\Nsome serious emotion\Nin it, man.
 Dialogue: 0,0:15:27.52,0:15:29.00,Default,,0,0,0,,And it's emote drama.
 Dialogue: 0,0:15:29.04,0:15:33.04,Default,,0,0,0,,The way you got\Nemotion out of\Na raccoon
 Dialogue: 0,0:15:33.09,0:15:36.26,Default,,0,0,0,,and out of a tree and things\Nlike that, that was\Nreally heartfelt and genuine.
 Dialogue: 0,0:15:36.31,0:15:38.22,Default,,0,0,0,,I remember reading\Nyour first outline\Nthat you gave us
 Dialogue: 0,0:15:38.27,0:15:40.05,Default,,0,0,0,,and it had a picture\Nof a Walkman.
-Dialogue: 0,0:15:40.10,0:15:42.19,Default,,0,0,0,,GUNN: Yeah,\Nthat was the first.
-Dialogue: 0,0:15:42.23,0:15:43.66,Default,,0,0,0,,WHEDON: And at the end of\Nthe first paragraph,\NI was crying.
-Dialogue: 0,0:15:43.71,0:15:45.32,Default,,0,0,0,,GUNN: Joss,\Nyou were the hugest\Ninfluence on me
+Dialogue: 0,0:15:40.10,0:15:42.19,Default,,0,0,0,,Yeah,\Nthat was the first.
+Dialogue: 0,0:15:42.23,0:15:43.66,Default,,0,0,0,,And at the end of\Nthe first paragraph,\NI was crying.
+Dialogue: 0,0:15:43.71,0:15:45.32,Default,,0,0,0,,Joss,\Nyou were the hugest\Ninfluence on me
 Dialogue: 0,0:15:45.37,0:15:48.20,Default,,0,0,0,,because I turned in\Nmy first draft\Nof the screenplay
 Dialogue: 0,0:15:48.24,0:15:52.12,Default,,0,0,0,,and I was really afraid,\Nbecause I felt good about it,
 Dialogue: 0,0:15:52.16,0:15:54.38,Default,,0,0,0,,but I actually thought\Nit was too funny.
@@ -380,7 +375,6 @@ Dialogue: 0,0:15:54.42,0:15:56.99,Default,,0,0,0,,And the thing\Nthat you said t
 Dialogue: 0,0:15:57.03,0:15:59.91,Default,,0,0,0,,was, "Just make it\Nmore James Gunn."
 Dialogue: 0,0:15:59.95,0:16:02.39,Default,,0,0,0,,And I went home\Nand that's when I...
 Dialogue: 0,0:16:02.43,0:16:06.22,Default,,0,0,0,,That night, after hearing\Nthat, is when I went home\Nand wrote the 12% scene.
-Dialogue: 0,0:16:06.26,0:16:08.00,Default,,0,0,0,,[LAUGHING]
 Dialogue: 0,0:16:08.04,0:16:09.52,Default,,0,0,0,,That's a fake laugh.
 Dialogue: 0,0:16:09.56,0:16:11.60,Default,,0,0,0,,It's real.Totally fake.
 Dialogue: 0,0:16:11.65,0:16:16.22,Default,,0,0,0,,That is the most real,\Nauthentic, hysterical laugh\Nof my entire life,
@@ -445,8 +439,8 @@ Dialogue: 0,0:18:52.34,0:18:55.60,Default,,0,0,0,,There was a little bit of\NHam
 Dialogue: 0,0:18:55.64,0:18:59.86,Default,,0,0,0,,But also, we're looking\Nat The Godfather.
 Dialogue: 0,0:18:59.91,0:19:03.44,Default,,0,0,0,,And it was crazy\Nbecause I got a chance\Nto meet Francis.
 Dialogue: 0,0:19:03.48,0:19:07.49,Default,,0,0,0,,He watched the film at the ranch while we were still with friends and family.
-Dialogue: 0,0:19:07.52,0:19:10.70,Default,,0,0,0,,And I'm just like...\NI was sick with nerves.[ALL LAUGHING]
-Dialogue: 0,0:19:10.74,0:19:12.92,Default,,0,0,0,,FAVREAU: What'd he say?Like, out of my mind, man.
+Dialogue: 0,0:19:07.52,0:19:10.70,Default,,0,0,0,,And I'm just like...\NI was sick with nerves.
+Dialogue: 0,0:19:10.74,0:19:12.92,Default,,0,0,0,,What'd he say?Like, out of my mind, man.
 Dialogue: 0,0:19:12.96,0:19:15.74,Default,,0,0,0,,I'm nervous\Njust hearing about it.Yeah.
 Dialogue: 0,0:19:15.79,0:19:18.53,Default,,0,0,0,,After the movie was over,\Nhe was just talking like this,
 Dialogue: 0,0:19:18.58,0:19:21.24,Default,,0,0,0,,he's giving me notes\Nfaster than I could write.
@@ -454,7 +448,7 @@ Dialogue: 0,0:19:21.28,0:19:23.81,Default,,0,0,0,,He just started naming\Nall of
 Dialogue: 0,0:19:23.84,0:19:26.49,Default,,0,0,0,,and all of these books\Nthat I needed to go read.
 Dialogue: 0,0:19:26.54,0:19:28.32,Default,,0,0,0,,That related to...That related to like,\Nyou know, he...
 Dialogue: 0,0:19:28.37,0:19:30.46,Default,,0,0,0,,So, what was\Nhe calling out?\NWhat was he...
-Dialogue: 0,0:19:30.50,0:19:33.50,Default,,0,0,0,,COOGLER: Well, he was like,\N"Have you seen Brigadoon?"
+Dialogue: 0,0:19:30.50,0:19:33.50,Default,,0,0,0,,Well, he was like,\N"Have you seen Brigadoon?"
 Dialogue: 0,0:19:33.55,0:19:36.33,Default,,0,0,0,,I was like,\N"No, I've never seen\NBrigadoon."
 Dialogue: 0,0:19:36.38,0:19:37.78,Default,,0,0,0,,He was, like,\N"Whoa, man, you've got\Nto see Brigadoon
 Dialogue: 0,0:19:37.82,0:19:40.48,Default,,0,0,0,,"'cause you've got\Nthis thing\Ngoing on in this."
@@ -475,13 +469,13 @@ Dialogue: 0,0:20:10.54,0:20:12.32,Default,,0,0,0,,And the writers\Nof the comic 
 Dialogue: 0,0:20:12.37,0:20:14.50,Default,,0,0,0,,because they were\Nchurning out\Nso much stuff.
 Dialogue: 0,0:20:14.55,0:20:17.43,Default,,0,0,0,,What movies were you all...\NWere there any\Ntouchstone films?
 Dialogue: 0,0:20:17.46,0:20:20.85,Default,,0,0,0,,I mean, for me, Rocket is\NFrankenstein's monster.
-Dialogue: 0,0:20:20.90,0:20:22.94,Default,,0,0,0,,FAVREAU: Right.
-Dialogue: 0,0:20:22.99,0:20:26.73,Default,,0,0,0,,GUNN: He is this\Nlittle creature that was\Nthis innocent animal
+Dialogue: 0,0:20:20.90,0:20:22.94,Default,,0,0,0,,Right.
+Dialogue: 0,0:20:22.99,0:20:26.73,Default,,0,0,0,,He is this\Nlittle creature that was\Nthis innocent animal
 Dialogue: 0,0:20:26.78,0:20:30.35,Default,,0,0,0,,who was turned\Ninto something that isn't\Nwhat he was supposed to be
 Dialogue: 0,0:20:30.39,0:20:33.44,Default,,0,0,0,,and is completely alone\Nand completely lost,
 Dialogue: 0,0:20:33.48,0:20:37.79,Default,,0,0,0,,and has no connection, has no tenderness from anyone.
 Dialogue: 0,0:20:37.83,0:20:42.00,Default,,0,0,0,,To me, that was the seed\Nfrom which\Nthe entire story grew.
-Dialogue: 0,0:20:42.05,0:20:44.83,Default,,0,0,0,,JOE: Part of, again,\Nthe passing of the baton is,
+Dialogue: 0,0:20:42.05,0:20:44.83,Default,,0,0,0,,Part of, again,\Nthe passing of the baton is,
 Dialogue: 0,0:20:44.88,0:20:47.58,Default,,0,0,0,,as storytellers,\Nwe look at that and go,\N"Oh, interesting."
 Dialogue: 0,0:20:47.62,0:20:50.54,Default,,0,0,0,,We have somewhere\Nreally dynamic to go\Nwith this character
 Dialogue: 0,0:20:50.58,0:20:54.84,Default,,0,0,0,,who never emotionally\Nconnects,'cause it's not\Npart of his DNA.
@@ -513,10 +507,10 @@ Dialogue: 0,0:21:56.08,0:21:57.30,Default,,0,0,0,,Well, he's been\Ndead before.
 Dialogue: 0,0:22:04.22,0:22:08.79,Default,,0,0,0,,There's a belief out there\Nthatsomehow, over the past\Nhowever many years,
 Dialogue: 0,0:22:08.84,0:22:13.85,Default,,0,0,0,,we sat in a room\Nand we came up\Nwith this long big story
 Dialogue: 0,0:22:13.88,0:22:19.71,Default,,0,0,0,,that all leads to this\None thing, and it's just\Nnot the way it is.
-Dialogue: 0,0:22:19.76,0:22:21.90,Default,,0,0,0,,FAVREAU: It's not, but it...It's much more\Nlike what you say.
-Dialogue: 0,0:22:21.94,0:22:23.64,Default,,0,0,0,,FAVREAU: But it kind of is\Nin a weird way, and a lot of\Nit's Kevin. Right?
-Dialogue: 0,0:22:23.68,0:22:25.03,Default,,0,0,0,,COOGLER: Yeah.
-Dialogue: 0,0:22:25.07,0:22:26.82,Default,,0,0,0,,FAVREAU: All kidding aside,\NI mean, there was...
+Dialogue: 0,0:22:19.76,0:22:21.90,Default,,0,0,0,,It's not, but it...It's much more\Nlike what you say.
+Dialogue: 0,0:22:21.94,0:22:23.64,Default,,0,0,0,,But it kind of is\Nin a weird way, and a lot of\Nit's Kevin. Right?
+Dialogue: 0,0:22:23.68,0:22:25.03,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:22:25.07,0:22:26.82,Default,,0,0,0,,All kidding aside,\NI mean, there was...
 Dialogue: 0,0:22:26.85,0:22:28.55,Default,,0,0,0,,Yeah.He's a constant.
 Dialogue: 0,0:22:28.59,0:22:32.59,Default,,0,0,0,,There was a map on the wall\Nbehind Tony Stark\Nand Nick Fury
 Dialogue: 0,0:22:32.64,0:22:37.56,Default,,0,0,0,,at the end ofIron Man 2\Nthat had Wakanda on it,
@@ -603,15 +597,15 @@ Dialogue: 0,0:26:24.22,0:26:26.31,Default,,0,0,0,,and I remember\Nshowing you st
 Dialogue: 0,0:26:26.35,0:26:28.79,Default,,0,0,0,,for when Rudd's breaking in\Nand seeing the suit and stuff
 Dialogue: 0,0:26:28.83,0:26:31.57,Default,,0,0,0,,just to get an idea of\Nhow he was playing\NScott Lang...
 Dialogue: 0,0:26:31.62,0:26:33.84,Default,,0,0,0,,Nice.
-Dialogue: 0,0:26:33.88,0:26:35.71,Default,,0,0,0,,REED: ...knowing he was\Ngoing to be worked into\NCivil War in some way.
+Dialogue: 0,0:26:33.88,0:26:35.71,Default,,0,0,0,,...knowing he was\Ngoing to be worked into\NCivil War in some way.
 Dialogue: 0,0:26:35.75,0:26:39.10,Default,,0,0,0,,Oh, this is awesome.\NCaptain America.\NI know you, too. You're great.
-Dialogue: 0,0:26:39.15,0:26:41.68,Default,,0,0,0,,REED: And then, of course,\Nyou just came across...
+Dialogue: 0,0:26:39.15,0:26:41.68,Default,,0,0,0,,And then, of course,\Nyou just came across...
 Dialogue: 0,0:26:41.72,0:26:44.33,Default,,0,0,0,,"Wait, are we supposed to be\Ngetting a Giant-Man reveal?
 Dialogue: 0,0:26:44.37,0:26:47.33,Default,,0,0,0,,"Wait, wait, hold on.\NLet's discuss\Nthis thing, man."
 Dialogue: 0,0:26:47.37,0:26:51.29,Default,,0,0,0,,And at a point, I think,\Nmaybe Wasp was even\Ngoing to be in at one point.
 Dialogue: 0,0:26:51.34,0:26:52.95,Default,,0,0,0,,She was.Yeah, early on.
 Dialogue: 0,0:26:52.99,0:26:54.60,Default,,0,0,0,,She was also going to be\Nin Avengersat one point.
-Dialogue: 0,0:26:54.64,0:26:56.47,Default,,0,0,0,,REED: That's right, yeah.\NYeah, yeah.
+Dialogue: 0,0:26:54.64,0:26:56.47,Default,,0,0,0,,That's right, yeah.\NYeah, yeah.
 Dialogue: 0,0:26:56.51,0:26:59.99,Default,,0,0,0,,So, I wrote, like,\Na whole draft. Wakanda was\Ngoing to be in Ultron.
 Dialogue: 0,0:27:00.04,0:27:03.31,Default,,0,0,0,,And then we kept, like,\N"Well, it's at the gates.\NIt's by the..."
 Dialogue: 0,0:27:03.35,0:27:05.83,Default,,0,0,0,,And then we started\Nreferring to it as "Wakinda."
@@ -620,12 +614,12 @@ Dialogue: 0,0:27:09.01,0:27:11.97,Default,,0,0,0,,Well, you start to figure out,
 Dialogue: 0,0:27:12.01,0:27:14.15,Default,,0,0,0,,I don't think these guys\Nasked that question\Nlast time.
 Dialogue: 0,0:27:14.18,0:27:17.75,Default,,0,0,0,,The fact that you took\Nall of those worlds\Nand people
 Dialogue: 0,0:27:17.80,0:27:20.80,Default,,0,0,0,,and made it all matter\Nand made it all flow.
-Dialogue: 0,0:27:20.84,0:27:23.62,Default,,0,0,0,,ANTHONY: There's something terrifying about it when you look at it at first.
+Dialogue: 0,0:27:20.84,0:27:23.62,Default,,0,0,0,,There's something terrifying about it when you look at it at first.
 Dialogue: 0,0:27:23.67,0:27:25.54,Default,,0,0,0,,But therein lies\Nthe opportunity,
 Dialogue: 0,0:27:25.59,0:27:28.73,Default,,0,0,0,,because you know\Nyou have to go somewhere\Nwhere you weren't expecting
 Dialogue: 0,0:27:28.76,0:27:31.11,Default,,0,0,0,,and that you don't have\Na lot of road-map for.
 Dialogue: 0,0:27:31.16,0:27:32.90,Default,,0,0,0,,And that's the fun of it.
-Dialogue: 0,0:27:32.94,0:27:35.37,Default,,0,0,0,,JOE:\NAnd what's amazing about it,\Nand this is unique, again, is
+Dialogue: 0,0:27:32.94,0:27:35.37,Default,,0,0,0,,And what's amazing about it,\Nand this is unique, again, is
 Dialogue: 0,0:27:35.42,0:27:36.81,Default,,0,0,0,,it is a united artist
 Dialogue: 0,0:27:36.86,0:27:39.21,Default,,0,0,0,,and everybody's standing\Non everybody else's shoulders.
 Dialogue: 0,0:27:39.25,0:27:42.47,Default,,0,0,0,,What Marvel has done\Nis hired a group of\Nvery passionate people.
@@ -658,7 +652,7 @@ Dialogue: 0,0:28:58.03,0:29:01.64,Default,,0,0,0,,"This is the ultimate\Nsuperhe
 Dialogue: 0,0:29:01.68,0:29:04.03,Default,,0,0,0,,And thenWinter Soldier\Ncame along and said,
 Dialogue: 0,0:29:04.08,0:29:05.56,Default,,0,0,0,,"It's not really\Na superhero movie.
 Dialogue: 0,0:29:05.60,0:29:08.00,Default,,0,0,0,,"It's kind of a 1970s\Nparanoia thriller."
-Dialogue: 0,0:29:08.04,0:29:09.52,Default,,0,0,0,,FAVREAU: Well, I think\Nthat's the trick.
+Dialogue: 0,0:29:08.04,0:29:09.52,Default,,0,0,0,,Well, I think\Nthat's the trick.
 Dialogue: 0,0:29:09.56,0:29:12.86,Default,,0,0,0,,And going into\Nmaking genre films...That's right.
 Dialogue: 0,0:29:12.91,0:29:14.78,Default,,0,0,0,,...is what has been...\NDifferent genre films.
 Dialogue: 0,0:29:14.83,0:29:17.40,Default,,0,0,0,,I also think\Nyou guys defined
@@ -696,7 +690,7 @@ Dialogue: 0,0:30:47.83,0:30:49.39,Default,,0,0,0,,but every day\Nwe were aiming 
 Dialogue: 0,0:30:49.44,0:30:51.96,Default,,0,0,0,,And fortunately,\Nwhen we pitched these themes,
 Dialogue: 0,0:30:52.01,0:30:53.40,Default,,0,0,0,,Kevin, Lou and Victoria\Nand Nate,
 Dialogue: 0,0:30:53.45,0:30:54.93,Default,,0,0,0,,they were like,\N"Yeah, let's go.\NLet's do it."
-Dialogue: 0,0:30:54.97,0:30:57.46,Default,,0,0,0,,GUNN: So much of\Nthe secret has to do\Nwith Marvel Comics.
+Dialogue: 0,0:30:54.97,0:30:57.46,Default,,0,0,0,,So much of\Nthe secret has to do\Nwith Marvel Comics.
 Dialogue: 0,0:30:57.49,0:31:01.49,Default,,0,0,0,,I mean, it really is\Nwhat Marvel Comics\Nalways did.
 Dialogue: 0,0:31:01.54,0:31:05.50,Default,,0,0,0,,They had these stories with\Ncharacters that continued\Nfrom one story to the next.
 Dialogue: 0,0:31:05.55,0:31:08.21,Default,,0,0,0,,They were all very different,\Nindividual stories
@@ -716,73 +710,56 @@ Dialogue: 0,0:31:50.37,0:31:56.85,Default,,0,0,0,,and each film sort of builds\N
 Dialogue: 0,0:31:56.90,0:31:59.86,Default,,0,0,0,,it's still relevant now\Nthrough the voices\Nof everybody here
 Dialogue: 0,0:31:59.90,0:32:01.60,Default,,0,0,0,,who has worked on it\Nand others who aren't here
 Dialogue: 0,0:32:01.65,0:32:03.52,Default,,0,0,0,,and the people at Marvel\Nand Kevin.
-Dialogue: 0,0:32:03.56,0:32:06.65,Default,,0,0,0,,JOE: I think\Nit's interesting\Nthat all of us, I think,
+Dialogue: 0,0:32:03.56,0:32:06.65,Default,,0,0,0,,I think\Nit's interesting\Nthat all of us, I think,
 Dialogue: 0,0:32:06.69,0:32:11.82,Default,,0,0,0,,showed up at the moment\Nthat we needed to show up\Nin the Marvel Universe.
 Dialogue: 0,0:32:11.87,0:32:14.26,Default,,0,0,0,,You kind of go back\Nand look at it,
 Dialogue: 0,0:32:14.31,0:32:20.22,Default,,0,0,0,,that everyone played a part,\Nin a way,\Nthat built this mosaic
 Dialogue: 0,0:32:20.27,0:32:23.10,Default,,0,0,0,,and in a way\Nthat's completely\Nunpredictable.
 Dialogue: 0,0:32:23.15,0:32:25.33,Default,,0,0,0,,And I don't know\Nof any other way\Nit could have been built.
-Dialogue: 0,0:32:34.20,0:32:35.16,Default,,0,0,0,,[ROARING]
-Dialogue: 0,0:32:56.31,0:32:58.05,Default,,0,0,0,,[DRAMATIC MUSIC PLAYING]
-Dialogue: 0,0:33:05.84,0:33:07.85,Default,,0,0,0,,[SHUDDERS][ALL LAUGHING]
-Dialogue: 0,0:33:07.89,0:33:09.20,Default,,0,0,0,,[UPBEAT MUSIC PLAYING]
 Dialogue: 0,0:33:14.59,0:33:15.29,Default,,0,0,0,,Because you're worth it.
-Dialogue: 0,0:33:19.68,0:33:20.73,Default,,0,0,0,,[GRUNTS][BLEEPING]
-Dialogue: 0,0:33:21.38,0:33:22.56,Default,,0,0,0,,[GRUNTS] Ohh!
+Dialogue: 0,0:33:21.38,0:33:22.56,Default,,0,0,0,,Ohh!
 Dialogue: 0,0:33:22.60,0:33:25.82,Default,,0,0,0,,Rolling.
 Dialogue: 0,0:33:25.86,0:33:28.48,Default,,0,0,0,,I'm Doctor... Ugh...\NI'm Doctor I-Can't-Walk\Nat the moment.
 Dialogue: 0,0:33:29.52,0:33:31.04,Default,,0,0,0,,Yep.I'm in.
-Dialogue: 0,0:33:31.08,0:33:33.08,Default,,0,0,0,,Yeah?[LAUGHING]
+Dialogue: 0,0:33:31.08,0:33:33.08,Default,,0,0,0,,Yeah?
 Dialogue: 0,0:33:33.13,0:33:38.01,Default,,0,0,0,,Flying about 80 miles an hour.\NJust a big chocolate missile.
 Dialogue: 0,0:33:38.05,0:33:40.18,Default,,0,0,0,,Hey, Russo, you want me\Nto go Jamie Foxx on this one?
-Dialogue: 0,0:33:42.14,0:33:44.06,Default,,0,0,0,,Oh... [BLEEP]
+Dialogue: 0,0:33:42.14,0:33:44.06,Default,,0,0,0,,Oh...
 Dialogue: 0,0:33:44.10,0:33:48.50,Default,,0,0,0,,Everybody put on\Nyour sunglasses.\NDenzel's coming out.
 Dialogue: 0,0:33:48.53,0:33:50.66,Default,,0,0,0,,I'm going full Cheadle\Non this take.
-Dialogue: 0,0:33:50.71,0:33:51.97,Default,,0,0,0,,JOE: Oh. [BLEEP]\NDon't give 'em full Cheadle.
+Dialogue: 0,0:33:50.71,0:33:51.97,Default,,0,0,0,,Oh.\NDon't give 'em full Cheadle.
 Dialogue: 0,0:33:52.02,0:33:53.98,Default,,0,0,0,,Full Cheadle.
-Dialogue: 0,0:33:54.02,0:33:56.24,Default,,0,0,0,,I know you have\Nfound something.[GOAT BLEATING]
-Dialogue: 0,0:33:57.54,0:33:59.80,Default,,0,0,0,,A sense of peace.[GOAT BLEATING LOUDLY]
-Dialogue: 0,0:33:59.85,0:34:01.11,Default,,0,0,0,,[LAUGHING]
+Dialogue: 0,0:33:54.02,0:33:56.24,Default,,0,0,0,,I know you have\Nfound something.
+Dialogue: 0,0:33:57.54,0:33:59.80,Default,,0,0,0,,A sense of peace.
 Dialogue: 0,0:34:01.16,0:34:03.03,Default,,0,0,0,,Okay, now you are\Ngoing too far now.
-Dialogue: 0,0:34:03.07,0:34:04.68,Default,,0,0,0,,[GOAT BLEATING][ALL LAUGHING]
 Dialogue: 0,0:34:04.72,0:34:06.29,Default,,0,0,0,,We don't trade lives,\NCaptain.
-Dialogue: 0,0:34:06.34,0:34:07.95,Default,,0,0,0,,[BOTH LAUGHING]
 Dialogue: 0,0:34:07.99,0:34:09.39,Default,,0,0,0,,I told you to go.
-Dialogue: 0,0:34:09.43,0:34:10.61,Default,,0,0,0,,[BOTH PANTING]
-Dialogue: 0,0:34:10.64,0:34:12.21,Default,,0,0,0,,[BOTH LAUGH]
-Dialogue: 0,0:34:12.25,0:34:15.34,Default,,0,0,0,,We need to destroy...\N[BLEEP] you, Ruffalo. [LAUGHS]
+Dialogue: 0,0:34:12.25,0:34:15.34,Default,,0,0,0,,- We need to destroy...\N- you, Ruffalo.
 Dialogue: 0,0:34:15.39,0:34:17.53,Default,,0,0,0,,How long do I stand here\Noveracting for?
 Dialogue: 0,0:34:17.56,0:34:21.52,Default,,0,0,0,,Oh, yeah. Okay. Oh, my God.\NThis is going to be\Nsome bad acting now.
 Dialogue: 0,0:34:21.57,0:34:24.75,Default,,0,0,0,,Supercalifragilisticexpiali-\Nnano.RUFFALO: ...expiali-dada.
-Dialogue: 0,0:34:24.79,0:34:26.27,Default,,0,0,0,,[UPBEAT MUSIC PLAYING]
 Dialogue: 0,0:34:32.23,0:34:33.40,Default,,0,0,0,,Hold on. There's a fly.
-Dialogue: 0,0:34:36.45,0:34:38.49,Default,,0,0,0,,[LAUGHS]God [BLEEP] bugs!
+Dialogue: 0,0:34:36.45,0:34:38.49,Default,,0,0,0,,God bugs!
 Dialogue: 0,0:34:40.02,0:34:41.63,Default,,0,0,0,,Who are you guys?
-Dialogue: 0,0:34:41.67,0:34:43.11,Default,,0,0,0,,[ALL LAUGHING]
-Dialogue: 0,0:34:45.29,0:34:46.95,Default,,0,0,0,,Why was she up there\Nall this time... [BLEEP]
-Dialogue: 0,0:34:46.98,0:34:48.46,Default,,0,0,0,,[IMITATES RUMBLING]
-Dialogue: 0,0:34:55.25,0:34:55.99,Default,,0,0,0,,Was that good?[CREW LAUGHING]
+Dialogue: 0,0:34:45.29,0:34:46.95,Default,,0,0,0,,Why was she up there\Nall this time...
+Dialogue: 0,0:34:55.25,0:34:55.99,Default,,0,0,0,,Was that good?
 Dialogue: 0,0:35:14.36,0:35:15.32,Default,,0,0,0,,Mr. Stark.
 Dialogue: 0,0:35:16.06,0:35:18.06,Default,,0,0,0,,Captain.
-Dialogue: 0,0:35:18.10,0:35:21.27,Default,,0,0,0,,KEVIN FEIGE: There is\Njust something awesome\Nabout seeing these
+Dialogue: 0,0:35:18.10,0:35:21.27,Default,,0,0,0,,There is\Njust something awesome\Nabout seeing these
 Dialogue: 0,0:35:21.32,0:35:25.32,Default,,0,0,0,,different franchise heroes\Ninteracting with each other\Nfor the first time.
-Dialogue: 0,0:35:25.37,0:35:26.93,Default,,0,0,0,,BANNER: Who are you?Natasha Romanoff.
+Dialogue: 0,0:35:25.37,0:35:26.93,Default,,0,0,0,,Who are you?Natasha Romanoff.
 Dialogue: 0,0:35:29.24,0:35:32.98,Default,,0,0,0,,The notion of seeing\Ncharacters who you've grown\Nto love in their own movies
 Dialogue: 0,0:35:33.03,0:35:35.81,Default,,0,0,0,,walking into another movie\Nfor the first time,
 Dialogue: 0,0:35:35.86,0:35:38.26,Default,,0,0,0,,there is just something\Nthat is satisfying.
-Dialogue: 0,0:35:40.12,0:35:41.34,Default,,0,0,0,,[ROARING]
 Dialogue: 0,0:35:43.48,0:35:46.27,Default,,0,0,0,,We haven't really seen that\Nsince the firstAvengers.
 Dialogue: 0,0:35:46.30,0:35:48.08,Default,,0,0,0,,Avengers: Age of Ultron introduced some new characters
 Dialogue: 0,0:35:48.13,0:35:50.70,Default,,0,0,0,,within the body of that film.
 Dialogue: 0,0:35:50.74,0:35:54.05,Default,,0,0,0,,Captain America: Civil Warintroduced Black Panther\Nand Spider-Man.
 Dialogue: 0,0:35:54.09,0:35:55.22,Default,,0,0,0,,Hey, everyone.
 Dialogue: 0,0:35:55.27,0:35:56.67,Default,,0,0,0,,And then,\Nhere we are years later...
-Dialogue: 0,0:35:56.71,0:35:58.06,Default,,0,0,0,,[WAKANDANS CHANTING\NIN XHOSA]
 Dialogue: 0,0:35:58.10,0:35:59.41,Default,,0,0,0,,...doing Infinity War.
-Dialogue: 0,0:36:05.50,0:36:07.07,Default,,0,0,0,,[ALL EXCLAIM]
-Dialogue: 0,0:36:07.89,0:36:09.67,Default,,0,0,0,,ROCKET: Wipers! Wipers!
+Dialogue: 0,0:36:07.89,0:36:09.67,Default,,0,0,0,,Wipers! Wipers!
 Dialogue: 0,0:36:09.72,0:36:10.81,Default,,0,0,0,,Get it off.
-Dialogue: 0,0:36:11.68,0:36:13.08,Default,,0,0,0,,[ALL GASP]
 Dialogue: 0,0:36:13.11,0:36:15.76,Default,,0,0,0,,How the hell\Nis this dude still alive?
 Dialogue: 0,0:36:15.81,0:36:16.90,Default,,0,0,0,,He is not a dude.
 Dialogue: 0,0:36:17.86,0:36:18.91,Default,,0,0,0,,You're a dude.
@@ -796,7 +773,7 @@ Dialogue: 0,0:36:37.83,0:36:40.79,Default,,0,0,0,,I was really wishing that\Nthe
 Dialogue: 0,0:36:40.84,0:36:43.50,Default,,0,0,0,,We like to combine things\Nthat don't seem like\Nthey belong together.
 Dialogue: 0,0:36:44.45,0:36:45.76,Default,,0,0,0,,I feel your pain.
 Dialogue: 0,0:36:45.80,0:36:47.89,Default,,0,0,0,,I feel your pain as well.
-Dialogue: 0,0:36:47.93,0:36:49.80,Default,,0,0,0,,JOE: The exciting aspect\Nof the film
+Dialogue: 0,0:36:47.93,0:36:49.80,Default,,0,0,0,,The exciting aspect\Nof the film
 Dialogue: 0,0:36:49.85,0:36:51.37,Default,,0,0,0,,is that we're gonna take\Nall of these characters
 Dialogue: 0,0:36:51.41,0:36:52.80,Default,,0,0,0,,from different franchises\Nin the Marvel Universe
 Dialogue: 0,0:36:52.85,0:36:53.81,Default,,0,0,0,,and we're gonna\Nput them together.
@@ -812,27 +789,25 @@ Dialogue: 0,0:37:19.70,0:37:21.05,Default,,0,0,0,,"and how do we balance it?"
 Dialogue: 0,0:37:21.09,0:37:22.87,Default,,0,0,0,,What exactly is it\Nthat they do?
 Dialogue: 0,0:37:22.92,0:37:24.53,Default,,0,0,0,,Kick names, take ass.
 Dialogue: 0,0:37:24.58,0:37:25.97,Default,,0,0,0,,Yeah, that's right.
-Dialogue: 0,0:37:26.01,0:37:27.62,Default,,0,0,0,,JOE: That's gonna create\Nthe most spark
+Dialogue: 0,0:37:26.01,0:37:27.62,Default,,0,0,0,,That's gonna create\Nthe most spark
 Dialogue: 0,0:37:27.67,0:37:29.98,Default,,0,0,0,,because conflict between\Nheroes can be entertaining.
 Dialogue: 0,0:37:31.19,0:37:33.32,Default,,0,0,0,,What are you doing?Taking your pod.
-Dialogue: 0,0:37:33.37,0:37:34.85,Default,,0,0,0,,[PETER CLEARS THROAT]
-Dialogue: 0,0:37:34.89,0:37:36.10,Default,,0,0,0,,[IN DEEP VOICE]\NNo, you're not.
+Dialogue: 0,0:37:34.89,0:37:36.10,Default,,0,0,0,,No, you're not.
 Dialogue: 0,0:37:36.15,0:37:39.98,Default,,0,0,0,,You will not be taking\Nour pod today, sir.
 Dialogue: 0,0:37:40.03,0:37:41.12,Default,,0,0,0,,Are you making\Nyour voice deeper?
 Dialogue: 0,0:37:43.51,0:37:46.52,Default,,0,0,0,,We had the opportunity\Nto bring all of the\NMarvel Universe
 Dialogue: 0,0:37:46.56,0:37:47.34,Default,,0,0,0,,practically together.
-Dialogue: 0,0:37:48.60,0:37:49.38,Default,,0,0,0,,RHODES: You guys...
+Dialogue: 0,0:37:48.60,0:37:49.38,Default,,0,0,0,,You guys...
 Dialogue: 0,0:37:50.69,0:37:51.48,Default,,0,0,0,,really look like crap.
-Dialogue: 0,0:37:53.34,0:37:55.30,Default,,0,0,0,,TRAN: I think\Nthose small little\Ncharacter moments
+Dialogue: 0,0:37:53.34,0:37:55.30,Default,,0,0,0,,I think\Nthose small little\Ncharacter moments
 Dialogue: 0,0:37:55.35,0:37:57.09,Default,,0,0,0,,are what makes\NMarvel movies so special.
-Dialogue: 0,0:37:57.13,0:37:58.39,Default,,0,0,0,,[GROWLS]Where's your guy?
-Dialogue: 0,0:37:58.44,0:37:59.88,Default,,0,0,0,,[GRUNTING]
+Dialogue: 0,0:37:57.13,0:37:58.39,Default,,0,0,0,,Where's your guy?
 Dialogue: 0,0:38:02.61,0:38:04.09,Default,,0,0,0,,Dude, you're embarrassing me\Nin front of the wizard.
-Dialogue: 0,0:38:08.23,0:38:10.45,Default,,0,0,0,,T'CHALLA: Today,\Nwe don't fight for one life,
+Dialogue: 0,0:38:08.23,0:38:10.45,Default,,0,0,0,,Today,\Nwe don't fight for one life,
 Dialogue: 0,0:38:11.67,0:38:13.85,Default,,0,0,0,,we fight for all of them.
-Dialogue: 0,0:38:13.89,0:38:18.03,Default,,0,0,0,,JOE: So, the greatest test\Nthat these characters\Nwill ever face,
+Dialogue: 0,0:38:13.89,0:38:18.03,Default,,0,0,0,,So, the greatest test\Nthat these characters\Nwill ever face,
 Dialogue: 0,0:38:18.06,0:38:19.45,Default,,0,0,0,,they can barely\Nface it together.
-Dialogue: 0,0:38:20.76,0:38:21.45,Default,,0,0,0,,DR. STRANGE:\NWe're in the endgame now.
+Dialogue: 0,0:38:20.76,0:38:21.45,Default,,0,0,0,,We're in the endgame now.
 Dialogue: 0,0:38:22.68,0:38:24.73,Default,,0,0,0,,We are embarking on something
 Dialogue: 0,0:38:24.77,0:38:26.99,Default,,0,0,0,,that is much bigger than we've ever embarked on before.
 Dialogue: 0,0:38:28.86,0:38:29.82,Default,,0,0,0,,Where's the fight?
@@ -843,34 +818,33 @@ Dialogue: 0,0:38:39.48,0:38:41.66,Default,,0,0,0,,That's really something\Nto en
 Dialogue: 0,0:38:41.70,0:38:43.88,Default,,0,0,0,,I am Spider-Man.Dr. Strange.
 Dialogue: 0,0:38:43.92,0:38:46.10,Default,,0,0,0,,There was sort of\Na camaraderie between us.
 Dialogue: 0,0:38:46.14,0:38:47.97,Default,,0,0,0,,They all make each other\Nbetter in the scenes.
-Dialogue: 0,0:38:48.66,0:38:49.57,Default,,0,0,0,,PETER: Who are you?
+Dialogue: 0,0:38:48.66,0:38:49.57,Default,,0,0,0,,Who are you?
 Dialogue: 0,0:38:50.62,0:38:52.15,Default,,0,0,0,,We're the Avengers, man.
-Dialogue: 0,0:38:53.67,0:38:54.98,Default,,0,0,0,,THANOS: The end is near.
+Dialogue: 0,0:38:53.67,0:38:54.98,Default,,0,0,0,,The end is near.
 Dialogue: 0,0:38:56.49,0:38:57.45,Default,,0,0,0,,There's never been\Nanything like this.
 Dialogue: 0,0:38:57.97,0:38:59.19,Default,,0,0,0,,Ready?
 Dialogue: 0,0:38:59.24,0:38:59.98,Default,,0,0,0,,Let's go.
-Dialogue: 0,0:39:01.93,0:39:03.37,Default,,0,0,0,,FEIGE: It's fun putting people
+Dialogue: 0,0:39:01.93,0:39:03.37,Default,,0,0,0,,It's fun putting people
 Dialogue: 0,0:39:03.41,0:39:05.24,Default,,0,0,0,,who have no business being on the same planet together...
-Dialogue: 0,0:39:05.29,0:39:07.64,Default,,0,0,0,,This is a friend of mine.[GRUNTING]
+Dialogue: 0,0:39:05.29,0:39:07.64,Default,,0,0,0,,This is a friend of mine.
 Dialogue: 0,0:39:07.68,0:39:09.16,Default,,0,0,0,,...much less,\Nthe same room together.
 Dialogue: 0,0:39:09.20,0:39:10.94,Default,,0,0,0,,I am Groot.
 Dialogue: 0,0:39:11.73,0:39:13.69,Default,,0,0,0,,I am Steve Rogers.
-Dialogue: 0,0:39:13.73,0:39:17.13,Default,,0,0,0,,FEIGE: The amount of actors\Nin this film is staggering.
+Dialogue: 0,0:39:13.73,0:39:17.13,Default,,0,0,0,,The amount of actors\Nin this film is staggering.
 Dialogue: 0,0:39:17.17,0:39:18.48,Default,,0,0,0,,How much for the gun?Not for sale.
 Dialogue: 0,0:39:19.39,0:39:21.26,Default,,0,0,0,,Okay. How much for the arm?
 Dialogue: 0,0:39:21.30,0:39:23.69,Default,,0,0,0,,Just look around.\NIt's like, "Oh, wow.
 Dialogue: 0,0:39:23.74,0:39:24.83,Default,,0,0,0,,"There's all this potential."
 Dialogue: 0,0:39:28.66,0:39:29.79,Default,,0,0,0,,Thank you\Nfor standing with us.
 Dialogue: 0,0:39:31.96,0:39:34.83,Default,,0,0,0,,Everybody knows this has\Nall been leading to something.\NWell, this is it.
-Dialogue: 0,0:39:38.45,0:39:39.19,Default,,0,0,0,,[SHOUTS IN XHOSA]
 Dialogue: 0,0:39:42.76,0:39:46.29,Default,,0,0,0,,Everybody wants the characters\Nuniting for a big battle.
-Dialogue: 0,0:39:46.33,0:39:47.07,Default,,0,0,0,,PROXIMA MIDNIGHT:\NYou'll die alone.
-Dialogue: 0,0:39:48.24,0:39:49.15,Default,,0,0,0,,BLACK WIDOW: She's not alone.
+Dialogue: 0,0:39:46.33,0:39:47.07,Default,,0,0,0,,You'll die alone.
+Dialogue: 0,0:39:48.24,0:39:49.15,Default,,0,0,0,,She's not alone.
 Dialogue: 0,0:39:51.59,0:39:53.20,Default,,0,0,0,,That's why\Nwe make these movies.
 Dialogue: 0,0:39:53.25,0:39:54.51,Default,,0,0,0,,That, to us, is the fun.
 Dialogue: 0,0:39:54.55,0:39:55.64,Default,,0,0,0,,You're an Avenger now.
 Dialogue: 0,0:39:55.68,0:39:57.12,Default,,0,0,0,,Wakanda forever!
-Dialogue: 0,0:40:18.49,0:40:22.54,Default,,0,0,0,,GAMORA:\NThe entire time I knew him,\Nhe only ever had one goal.
+Dialogue: 0,0:40:18.49,0:40:22.54,Default,,0,0,0,,The entire time I knew him,\Nhe only ever had one goal.
 Dialogue: 0,0:40:24.89,0:40:26.42,Default,,0,0,0,,To bring balance\Nto the universe
 Dialogue: 0,0:40:28.24,0:40:29.59,Default,,0,0,0,,by wiping out\Nhalf of all life.
 Dialogue: 0,0:40:32.85,0:40:34.37,Default,,0,0,0,,He kills people\Nplanet by planet,
@@ -881,18 +855,18 @@ Dialogue: 0,0:40:47.52,0:40:50.44,Default,,0,0,0,,Thanos has been lurking\Nin th
 Dialogue: 0,0:40:51.57,0:40:52.83,Default,,0,0,0,,sinceAvengers one.
 Dialogue: 0,0:40:56.18,0:40:58.53,Default,,0,0,0,,We see a glimpse of him\NinGuardians of the Galaxy.
 Dialogue: 0,0:40:59.84,0:41:03.41,Default,,0,0,0,,I will bathe the star ways\Nin your blood.
-Dialogue: 0,0:41:03.45,0:41:06.28,Default,,0,0,0,,FEIGE: We see a tiny glimpse of him at the end ofAge of Ultron.
+Dialogue: 0,0:41:03.45,0:41:06.28,Default,,0,0,0,,We see a tiny glimpse of him at the end ofAge of Ultron.
 Dialogue: 0,0:41:07.23,0:41:09.40,Default,,0,0,0,,He has had his hand
 Dialogue: 0,0:41:09.45,0:41:13.45,Default,,0,0,0,,in every action\Nthat has occurred\Non a grand level in the MCU,
 Dialogue: 0,0:41:15.37,0:41:19.89,Default,,0,0,0,,all surrounding his desire to obtain these Infinity Stones.
 Dialogue: 0,0:41:19.94,0:41:22.77,Default,,0,0,0,,Someone has been playing\Nan intricate game\Nand has made pawns of us.
-Dialogue: 0,0:41:24.25,0:41:26.68,Default,,0,0,0,,GAMORA: If he gets\Nall the Infinity Stones,
+Dialogue: 0,0:41:24.25,0:41:26.68,Default,,0,0,0,,If he gets\Nall the Infinity Stones,
 Dialogue: 0,0:41:26.73,0:41:28.64,Default,,0,0,0,,he can wipe out\Nhalf the universe
 Dialogue: 0,0:41:31.69,0:41:33.30,Default,,0,0,0,,with the snap of his fingers.
 Dialogue: 0,0:41:35.57,0:41:36.57,Default,,0,0,0,,Just like that.
 Dialogue: 0,0:41:38.31,0:41:41.75,Default,,0,0,0,,The Stones are spread out\Nthroughout the franchises.
 Dialogue: 0,0:41:41.79,0:41:44.96,Default,,0,0,0,,We're building\Nevery one of them into\Nthis epic, colossal event.
-Dialogue: 0,0:41:46.27,0:41:47.88,Default,,0,0,0,,STARK: So, this is it?
+Dialogue: 0,0:41:46.27,0:41:47.88,Default,,0,0,0,,So, this is it?
 Dialogue: 0,0:41:47.93,0:41:48.98,Default,,0,0,0,,It's all been\Nleading to this.
 Dialogue: 0,0:41:54.37,0:41:57.03,Default,,0,0,0,,Josh Brolin is bringing\Na new iconic villain to life.
 Dialogue: 0,0:41:59.76,0:42:02.89,Default,,0,0,0,,Thanos is a very\Ncomplex character.
@@ -902,35 +876,33 @@ Dialogue: 0,0:42:12.69,0:42:16.82,Default,,0,0,0,,and he wants to eliminate\N50%
 Dialogue: 0,0:42:22.57,0:42:25.19,Default,,0,0,0,,We wanted to tell a story\Nabout a character
 Dialogue: 0,0:42:25.22,0:42:29.83,Default,,0,0,0,,with a really complex\Nand empathetic interior life.
 Dialogue: 0,0:42:29.88,0:42:33.36,Default,,0,0,0,,And there's not a lot of\Nactors that can give you\Nboth of those things.
-Dialogue: 0,0:42:33.41,0:42:37.15,Default,,0,0,0,,D'ESPOSITO: Josh Brolin brings a reality to the character.
+Dialogue: 0,0:42:33.41,0:42:37.15,Default,,0,0,0,,Josh Brolin brings a reality to the character.
 Dialogue: 0,0:42:37.19,0:42:40.80,Default,,0,0,0,,He's wearing that mocap suit,\Nhe's wearing\Nmotion capture cameras.
 Dialogue: 0,0:42:40.85,0:42:42.42,Default,,0,0,0,,The performance\Nis coming through,
 Dialogue: 0,0:42:42.46,0:42:46.42,Default,,0,0,0,,not only in his gestures, in his face, but in his eyes.
-Dialogue: 0,0:42:46.46,0:42:50.16,Default,,0,0,0,,VICTORIA ALONSO:\NThere's about 2,900 visual\Neffects shots in the movie.
+Dialogue: 0,0:42:46.46,0:42:50.16,Default,,0,0,0,,There's about 2,900 visual\Neffects shots in the movie.
 Dialogue: 0,0:42:50.21,0:42:52.34,Default,,0,0,0,,We wanted to make it\Nas photographic as possible.
 Dialogue: 0,0:42:54.17,0:42:56.30,Default,,0,0,0,,And I think that that's\Nthe most important part.
-Dialogue: 0,0:42:56.34,0:42:57.16,Default,,0,0,0,,[SCREAMING]
 Dialogue: 0,0:43:02.96,0:43:04.53,Default,,0,0,0,,Oh, my God.
-Dialogue: 0,0:43:04.57,0:43:05.84,Default,,0,0,0,,MANTIS: What happened?
-Dialogue: 0,0:43:07.79,0:43:09.80,Default,,0,0,0,,GAMORA: Death follows him\Nlike a shadow.
+Dialogue: 0,0:43:04.57,0:43:05.84,Default,,0,0,0,,What happened?
+Dialogue: 0,0:43:07.79,0:43:09.80,Default,,0,0,0,,Death follows him\Nlike a shadow.
 Dialogue: 0,0:43:11.10,0:43:12.76,Default,,0,0,0,,That's who Thanos is.
 Dialogue: 0,0:43:14.27,0:43:15.88,Default,,0,0,0,,You seem to know\Na great deal about Thanos.
 Dialogue: 0,0:43:16.89,0:43:19.72,Default,,0,0,0,,Gamora is\Nthe daughter of Thanos.
 Dialogue: 0,0:43:21.67,0:43:25.06,Default,,0,0,0,,Infinity Warreveals\Nthis whole new world
 Dialogue: 0,0:43:25.11,0:43:28.72,Default,,0,0,0,,that Nebula and Gamora\Nhave been running away\Nfrom for years.
-Dialogue: 0,0:43:35.47,0:43:36.30,Default,,0,0,0,,GAMORA: Nebula!
-Dialogue: 0,0:43:39.08,0:43:42.56,Default,,0,0,0,,THANOS: Some time ago,\Nyour sister snuck aboard\Nthis ship to kill me.
+Dialogue: 0,0:43:35.47,0:43:36.30,Default,,0,0,0,,Nebula!
+Dialogue: 0,0:43:39.08,0:43:42.56,Default,,0,0,0,,Some time ago,\Nyour sister snuck aboard\Nthis ship to kill me.
 Dialogue: 0,0:43:43.48,0:43:44.44,Default,,0,0,0,,So I brought her here.
 Dialogue: 0,0:43:45.30,0:43:46.87,Default,,0,0,0,,To talk.
 Dialogue: 0,0:43:46.92,0:43:49.23,Default,,0,0,0,,His relationship with Gamora,\Nit's quite emotional.
-Dialogue: 0,0:43:50.44,0:43:51.44,Default,,0,0,0,,[SCREAMING]
 Dialogue: 0,0:43:55.71,0:43:58.50,Default,,0,0,0,,I ignored my destiny once.
 Dialogue: 0,0:43:58.54,0:44:00.06,Default,,0,0,0,,I cannot do that again.
 Dialogue: 0,0:44:00.93,0:44:04.42,Default,,0,0,0,,Even for you.
-Dialogue: 0,0:44:04.45,0:44:07.15,Default,,0,0,0,,D'ESPOSITO: What makes Thanos so great is his conviction.
+Dialogue: 0,0:44:04.45,0:44:07.15,Default,,0,0,0,,What makes Thanos so great is his conviction.
 Dialogue: 0,0:44:07.20,0:44:08.64,Default,,0,0,0,,This is the only solution.
 Dialogue: 0,0:44:08.68,0:44:10.68,Default,,0,0,0,,He's seen it firsthand\Non his planet.
-Dialogue: 0,0:44:13.07,0:44:14.59,Default,,0,0,0,,THANOS:\NTitan was like most planets.
+Dialogue: 0,0:44:13.07,0:44:14.59,Default,,0,0,0,,Titan was like most planets.
 Dialogue: 0,0:44:14.64,0:44:17.56,Default,,0,0,0,,And when we faced extinction,\NI offered a solution.
 Dialogue: 0,0:44:18.21,0:44:19.43,Default,,0,0,0,,Genocide.
 Dialogue: 0,0:44:19.47,0:44:21.04,Default,,0,0,0,,What I predicted\Ncame to pass.
@@ -938,26 +910,23 @@ Dialogue: 0,0:44:23.17,0:44:25.00,Default,,0,0,0,,Congratulations,\Nyou're a pro
 Dialogue: 0,0:44:25.56,0:44:26.60,Default,,0,0,0,,I'm a survivor.
 Dialogue: 0,0:44:33.61,0:44:38.05,Default,,0,0,0,,Tony knows just by the way\Nthat Bruce Banner\Ndescribes Thanos,
 Dialogue: 0,0:44:38.10,0:44:39.06,Default,,0,0,0,,it's a different game now.
-Dialogue: 0,0:44:41.27,0:44:42.49,Default,,0,0,0,,BANNER: He sent Loki.
+Dialogue: 0,0:44:41.27,0:44:42.49,Default,,0,0,0,,He sent Loki.
 Dialogue: 0,0:44:42.54,0:44:44.50,Default,,0,0,0,,The attack on New York,\Nthat's him.
 Dialogue: 0,0:44:46.76,0:44:50.46,Default,,0,0,0,,He has the biggest army\Nin the universe,\Nand he is not gonna stop.
 Dialogue: 0,0:44:53.07,0:44:55.42,Default,,0,0,0,,Just his sheer force\Nis something
 Dialogue: 0,0:44:55.46,0:44:57.24,Default,,0,0,0,,that none of the Avengers\Nhas ever encountered before.
 Dialogue: 0,0:44:59.64,0:45:02.00,Default,,0,0,0,,Thanos has been\Ninside my head\Nfor six years.
 Dialogue: 0,0:45:02.03,0:45:04.42,Default,,0,0,0,,So I say we take\Nthe fight to him.
-Dialogue: 0,0:45:04.47,0:45:06.12,Default,,0,0,0,,JOE: Heroes are only\Nas good as their villain,
+Dialogue: 0,0:45:04.47,0:45:06.12,Default,,0,0,0,,Heroes are only\Nas good as their villain,
 Dialogue: 0,0:45:06.17,0:45:08.09,Default,,0,0,0,,but if the Avengers\Nwere built for anything,
 Dialogue: 0,0:45:08.13,0:45:09.39,Default,,0,0,0,,it's for stopping Thanos\Nfrom completing his goal.
-Dialogue: 0,0:45:22.01,0:45:26.71,Default,,0,0,0,,THANOS: Fun really isn't\Nsomething one considers\Nwhen balancing the universe,
+Dialogue: 0,0:45:22.01,0:45:26.71,Default,,0,0,0,,Fun really isn't\Nsomething one considers\Nwhen balancing the universe,
 Dialogue: 0,0:45:26.75,0:45:29.93,Default,,0,0,0,,but this does put a smile\Non my face.
 Dialogue: 0,0:45:29.97,0:45:31.06,Default,,0,0,0,,Oh, man.
-Dialogue: 0,0:45:31.11,0:45:32.11,Default,,0,0,0,,[GRUNTS]
 Dialogue: 0,0:45:39.24,0:45:41.07,Default,,0,0,0,,Thanos is the greatest villain
 Dialogue: 0,0:45:41.12,0:45:42.51,Default,,0,0,0,,in the history\Nof Marvel Cinematic Universe.
-Dialogue: 0,0:45:42.55,0:45:43.64,Default,,0,0,0,,[SCREAMS]
 Dialogue: 0,0:45:46.38,0:45:50.42,Default,,0,0,0,,The hardest choices require\Nthe strongest wills.
 Dialogue: 0,0:45:53.39,0:45:57.31,Default,,0,0,0,,I think you'll find our will\Nequal to yours.
-Dialogue: 0,0:46:01.01,0:46:01.97,Default,,0,0,0,,[SCREAMS]
 Dialogue: 0,0:46:06.58,0:46:09.71,Default,,0,0,0,,Imagine if\Nour heroes all lost.
 Dialogue: 0,0:46:11.02,0:46:13.54,Default,,0,0,0,,You should have gone\Nfor the head.
 Dialogue: 0,0:46:14.93,0:46:15.93,Default,,0,0,0,,No!
@@ -967,7 +936,6 @@ Dialogue: 0,0:46:27.55,0:46:28.29,Default,,0,0,0,,He did it.
 Dialogue: 0,0:46:34.13,0:46:35.26,Default,,0,0,0,,What did it cost?
 Dialogue: 0,0:46:36.95,0:46:37.95,Default,,0,0,0,,Everything.
 Dialogue: 0,0:47:06.64,0:47:09.30,Default,,0,0,0,,Avengers 3is by far and away\Nthe most intense\Nof all three films.
-Dialogue: 0,0:47:10.38,0:47:12.17,Default,,0,0,0,,[PEOPLE SCREAMING]
 Dialogue: 0,0:47:14.95,0:47:18.61,Default,,0,0,0,,Part of the reason why\Nwe were drawn to tell\Nthe story of Civil War
 Dialogue: 0,0:47:18.65,0:47:20.44,Default,,0,0,0,,and one of the reasons\Nwhy we thought
 Dialogue: 0,0:47:20.48,0:47:23.61,Default,,0,0,0,,it was such a great place\Nto leave the Avengers divided
@@ -977,7 +945,7 @@ Dialogue: 0,0:47:31.75,0:47:34.63,Default,,0,0,0,,For storytellers,\Nyou want yo
 Dialogue: 0,0:47:34.66,0:47:36.01,Default,,0,0,0,,when they meet\Ntheir worst threat.
 Dialogue: 0,0:47:37.49,0:47:40.19,Default,,0,0,0,,The hardest choices require\Nthe strongest wills.
 Dialogue: 0,0:47:41.63,0:47:46.33,Default,,0,0,0,,I think you'll find our will\Nequal to yours.
-Dialogue: 0,0:47:51.42,0:47:53.24,Default,,0,0,0,,JOE: This film was taking\Nall the characters
+Dialogue: 0,0:47:51.42,0:47:53.24,Default,,0,0,0,,This film was taking\Nall the characters
 Dialogue: 0,0:47:53.29,0:47:55.33,Default,,0,0,0,,from all the\Ndifferent franchises
 Dialogue: 0,0:47:55.38,0:47:57.81,Default,,0,0,0,,and putting them together\Nin one movie\Nfor the first time.
 Dialogue: 0,0:47:57.86,0:48:01.69,Default,,0,0,0,,It's about as massive\Na production\Nas you could mount.
@@ -995,7 +963,6 @@ Dialogue: 0,0:48:26.72,0:48:28.33,Default,,0,0,0,,Do what you want to do\Non thi
 Dialogue: 0,0:48:28.37,0:48:30.85,Default,,0,0,0,,and then we'll start\Nto tweak it from there.
 Dialogue: 0,0:48:30.89,0:48:36.20,Default,,0,0,0,,The Russos elevated\Nthe franchise,\Neven past its inception.
 Dialogue: 0,0:48:37.64,0:48:39.38,Default,,0,0,0,,Who are you guys?
-Dialogue: 0,0:48:39.42,0:48:41.38,Default,,0,0,0,,[ALL LAUGHING]
 Dialogue: 0,0:48:41.77,0:48:43.38,Default,,0,0,0,,Sorry.
 Dialogue: 0,0:48:43.43,0:48:46.00,Default,,0,0,0,,We spent a lot of time\Nwith Joe and Anthony,\NMarkus and McFeely
 Dialogue: 0,0:48:46.04,0:48:49.96,Default,,0,0,0,,creating storylines\Nthat really allow these\Ncharacters their moments.
@@ -1005,19 +972,19 @@ Dialogue: 0,0:48:54.44,0:48:57.71,Default,,0,0,0,,He could destroy life\Non a sc
 Dialogue: 0,0:48:57.75,0:49:00.15,Default,,0,0,0,,Did you seriously just say\N"hitherto undreamt of"?
 Dialogue: 0,0:49:00.18,0:49:02.44,Default,,0,0,0,,You really look\Nat how all the characters\Ninterweave
 Dialogue: 0,0:49:02.49,0:49:04.53,Default,,0,0,0,,into the main arc.
-Dialogue: 0,0:49:04.58,0:49:07.27,Default,,0,0,0,,ANTHONY:\NThe connective tissue that\Npulls our entire MCU together
+Dialogue: 0,0:49:04.58,0:49:07.27,Default,,0,0,0,,The connective tissue that\Npulls our entire MCU together
 Dialogue: 0,0:49:07.32,0:49:10.71,Default,,0,0,0,,is the fact that the Stones\Nare spread out throughout\Nthe franchises.
-Dialogue: 0,0:49:12.68,0:49:14.64,Default,,0,0,0,,JOE: The exciting aspect of the film is that
+Dialogue: 0,0:49:12.68,0:49:14.64,Default,,0,0,0,,The exciting aspect of the film is that
 Dialogue: 0,0:49:14.68,0:49:16.73,Default,,0,0,0,,we're going to take\Nall of these characters
 Dialogue: 0,0:49:16.77,0:49:18.99,Default,,0,0,0,,from different franchises in the Marvel Universe
 Dialogue: 0,0:49:19.03,0:49:21.69,Default,,0,0,0,,and we're going to put them\Ntogether to stop Thanos\Nfrom completing his goal.
 Dialogue: 0,0:49:24.34,0:49:26.30,Default,,0,0,0,,It takes months\Nto plan sequences\Nlike Titan.
 Dialogue: 0,0:49:32.48,0:49:36.40,Default,,0,0,0,,Titan, we shot\Nthat exclusively\Non a sound stage.
-Dialogue: 0,0:49:39.83,0:49:40.92,Default,,0,0,0,,DAN DELEEUW:\NBeautiful set built\Nby Charlie Wood,
+Dialogue: 0,0:49:39.83,0:49:40.92,Default,,0,0,0,,Beautiful set built\Nby Charlie Wood,
 Dialogue: 0,0:49:40.96,0:49:42.35,Default,,0,0,0,,our production designer.
 Dialogue: 0,0:49:42.40,0:49:44.66,Default,,0,0,0,,There's green screen\Nin the background.
 Dialogue: 0,0:49:44.71,0:49:47.58,Default,,0,0,0,,All that extension will be\Nfrom plates that we went\Nto Chile and shot.
-Dialogue: 0,0:49:47.62,0:49:50.93,Default,,0,0,0,,VICTORIA ALONSO:\NThis entire movie\Nis one big CG scene.
+Dialogue: 0,0:49:47.62,0:49:50.93,Default,,0,0,0,,This entire movie\Nis one big CG scene.
 Dialogue: 0,0:49:50.97,0:49:53.67,Default,,0,0,0,,The environment is CG,\Nthe weapons are CG,
 Dialogue: 0,0:49:53.72,0:49:55.68,Default,,0,0,0,,every shot is dense in layers.
 Dialogue: 0,0:49:57.89,0:50:00.15,Default,,0,0,0,,We were pushing colors\Nin both locations,
@@ -1035,9 +1002,9 @@ Dialogue: 0,0:50:33.50,0:50:35.24,Default,,0,0,0,,that the Marvel Universe\Nhas 
 Dialogue: 0,0:50:35.28,0:50:37.46,Default,,0,0,0,,We had had\Nan initial meeting,\Nme and the Russos,
 Dialogue: 0,0:50:37.50,0:50:39.59,Default,,0,0,0,,and it was incredibly helpful.
 Dialogue: 0,0:50:39.63,0:50:42.54,Default,,0,0,0,,I felt like they cared deeply.
-Dialogue: 0,0:50:43.85,0:50:45.15,Default,,0,0,0,,MATT AITKEN:\NThanos is entirely digital,
+Dialogue: 0,0:50:43.85,0:50:45.15,Default,,0,0,0,,Thanos is entirely digital,
 Dialogue: 0,0:50:45.20,0:50:47.90,Default,,0,0,0,,so we have Josh Brolin\Nperforming him on stage.
-Dialogue: 0,0:50:47.94,0:50:51.42,Default,,0,0,0,,SWEN GILLBERG: We record\Nall the positions\Nof all their joints,
+Dialogue: 0,0:50:47.94,0:50:51.42,Default,,0,0,0,,We record\Nall the positions\Nof all their joints,
 Dialogue: 0,0:50:51.47,0:50:53.39,Default,,0,0,0,,and we record their motion.
 Dialogue: 0,0:50:53.43,0:50:56.83,Default,,0,0,0,,We've dotted up his face,\Nand basically\Nthose two cameras give us
 Dialogue: 0,0:50:56.87,0:51:00.40,Default,,0,0,0,,a three-dimensional solid\Nof his face\Nin very fine detail.
@@ -1060,11 +1027,9 @@ Dialogue: 0,0:51:42.22,0:51:45.66,Default,,0,0,0,,so they can get to work\Non Th
 Dialogue: 0,0:51:45.70,0:51:47.27,Default,,0,0,0,,and everything else\Naround Dr. Strange.
 Dialogue: 0,0:51:50.88,0:51:52.10,Default,,0,0,0,,You're full of tricks, wizard.
 Dialogue: 0,0:51:53.36,0:51:54.80,Default,,0,0,0,,Action sequences\Nare very difficult.
-Dialogue: 0,0:51:55.32,0:51:56.89,Default,,0,0,0,,[GRUNTS]
 Dialogue: 0,0:51:56.93,0:51:59.63,Default,,0,0,0,,Every action sequence\Nis used\Nto illuminate character,
 Dialogue: 0,0:51:59.67,0:52:01.68,Default,,0,0,0,,who the character is,\Nwhat they're made of.
 Dialogue: 0,0:52:03.45,0:52:06.63,Default,,0,0,0,,You never once used\Nyour greatest weapon.
-Dialogue: 0,0:52:06.68,0:52:07.64,Default,,0,0,0,,[STRAINING]
 Dialogue: 0,0:52:09.07,0:52:10.29,Default,,0,0,0,,A fake.
 Dialogue: 0,0:52:13.94,0:52:19.07,Default,,0,0,0,,Those battles usually start\Nwith either the stunt team\Nor the VFX team.
 Dialogue: 0,0:52:19.12,0:52:20.86,Default,,0,0,0,,Yes, sir!
@@ -1079,8 +1044,7 @@ Dialogue: 0,0:52:48.76,0:52:51.15,Default,,0,0,0,,We would show them\Nour previz
 Dialogue: 0,0:52:51.20,0:52:53.07,Default,,0,0,0,,just to let them know, like,\Nthese are the certain things
 Dialogue: 0,0:52:53.11,0:52:57.24,Default,,0,0,0,,that you would be working with to get to this final product.
 Dialogue: 0,0:52:57.29,0:53:00.51,Default,,0,0,0,,It's going to look awesome\Nwhen Chris does it.
-Dialogue: 0,0:53:00.56,0:53:01.87,Default,,0,0,0,,[ALL CHUCKLE]
-Dialogue: 0,0:53:05.65,0:53:07.57,Default,,0,0,0,,JOE: Every character,\Nevery hero involved
+Dialogue: 0,0:53:05.65,0:53:07.57,Default,,0,0,0,,Every character,\Nevery hero involved
 Dialogue: 0,0:53:07.61,0:53:11.09,Default,,0,0,0,,has to use\Nthe highest level\Nof their power
 Dialogue: 0,0:53:11.13,0:53:13.26,Default,,0,0,0,,just to stay on the\Nbattlefield with him.
 Dialogue: 0,0:53:13.31,0:53:16.36,Default,,0,0,0,,The big two.\NThanos versus Iron Man.\NThis is the showdown.
@@ -1088,7 +1052,7 @@ Dialogue: 0,0:53:16.40,0:53:17.88,Default,,0,0,0,,This is what it's all about.
 Dialogue: 0,0:53:17.92,0:53:20.05,Default,,0,0,0,,This is what\Nthe whole movie's\Nleading up to right here.
 Dialogue: 0,0:53:20.10,0:53:22.63,Default,,0,0,0,,We've got\NRobert Downey, Jr.,\NJosh Brolin,
 Dialogue: 0,0:53:22.66,0:53:24.31,Default,,0,0,0,,going hand-to-hand,\Nright here!
-Dialogue: 0,0:53:24.36,0:53:25.71,Default,,0,0,0,,THANOS: Stark.
+Dialogue: 0,0:53:24.36,0:53:25.71,Default,,0,0,0,,Stark.
 Dialogue: 0,0:53:26.54,0:53:27.85,Default,,0,0,0,,How do you know my name?
 Dialogue: 0,0:53:28.63,0:53:31.03,Default,,0,0,0,,I know your soul.
 Dialogue: 0,0:53:31.06,0:53:34.11,Default,,0,0,0,,It is much like mine,\Ncursed with knowledge.
@@ -1096,20 +1060,16 @@ Dialogue: 0,0:53:34.15,0:53:35.85,Default,,0,0,0,,My only curse is you.
 Dialogue: 0,0:53:35.89,0:53:38.85,Default,,0,0,0,,Iron Man has been battling\Nfor six years now
 Dialogue: 0,0:53:38.90,0:53:41.12,Default,,0,0,0,,the shadow of Thanos.
 Dialogue: 0,0:53:41.16,0:53:42.59,Default,,0,0,0,,He has been waiting\Nfor this moment.
-Dialogue: 0,0:53:44.86,0:53:46.03,Default,,0,0,0,,[PANTING]
 Dialogue: 0,0:53:47.82,0:53:49.74,Default,,0,0,0,,All that for a drop of blood.
-Dialogue: 0,0:53:53.26,0:53:54.44,Default,,0,0,0,,[GASPS]
 Dialogue: 0,0:54:03.01,0:54:05.58,Default,,0,0,0,,We knew we were going\Nto a place in the story
 Dialogue: 0,0:54:05.62,0:54:07.62,Default,,0,0,0,,that audiences\Nwouldn't expect.
 Dialogue: 0,0:54:07.67,0:54:10.19,Default,,0,0,0,,And then I drive him\Nback like this,
 Dialogue: 0,0:54:10.23,0:54:11.62,Default,,0,0,0,,pin him down like that...
 Dialogue: 0,0:54:16.46,0:54:18.38,Default,,0,0,0,,Yes or no?Yeah, I like it.
 Dialogue: 0,0:54:18.42,0:54:21.90,Default,,0,0,0,,It was our intent\Nin this movie to play\Nagainst your expectations.
-Dialogue: 0,0:54:21.94,0:54:23.11,Default,,0,0,0,,MAN: Action!
-Dialogue: 0,0:54:23.16,0:54:24.51,Default,,0,0,0,,[GROANING]
+Dialogue: 0,0:54:21.94,0:54:23.11,Default,,0,0,0,,Action!
 Dialogue: 0,0:54:24.55,0:54:25.98,Default,,0,0,0,,You have my respect, Stark.
 Dialogue: 0,0:54:28.08,0:54:30.74,Default,,0,0,0,,When I'm done, half of\Nhumanity will still be alive.
-Dialogue: 0,0:54:33.47,0:54:34.95,Default,,0,0,0,,[GROANS]
 Dialogue: 0,0:54:35.00,0:54:37.27,Default,,0,0,0,,The movie\Nsort of keeps twisting\Nat the end there
 Dialogue: 0,0:54:37.30,0:54:40.56,Default,,0,0,0,,in ways that you can't believe that it's going one step beyond,
 Dialogue: 0,0:54:40.61,0:54:43.09,Default,,0,0,0,,and that the fate\Nof our characters
@@ -1118,14 +1078,14 @@ Dialogue: 0,0:54:45.27,0:54:47.19,Default,,0,0,0,,Mr. Stark?\NI don't feel so go
 Dialogue: 0,0:54:49.40,0:54:52.84,Default,,0,0,0,,Peter Parker uses\Nall of the strength\Nthat he has as a hero
 Dialogue: 0,0:54:52.88,0:54:54.58,Default,,0,0,0,,to fight against disappearing.
 Dialogue: 0,0:54:54.63,0:54:56.72,Default,,0,0,0,,You're all right.\NYou're all right.
-Dialogue: 0,0:54:56.76,0:54:58.77,Default,,0,0,0,,JOE: It allows him\Nto last longer\Nthan some of the others.
+Dialogue: 0,0:54:56.76,0:54:58.77,Default,,0,0,0,,It allows him\Nto last longer\Nthan some of the others.
 Dialogue: 0,0:55:01.72,0:55:05.47,Default,,0,0,0,,The emotional experience\Nthat the characters\Nare going through
 Dialogue: 0,0:55:05.51,0:55:08.73,Default,,0,0,0,,as they experience that\Nis where the power lies.
 Dialogue: 0,0:55:08.77,0:55:12.64,Default,,0,0,0,,Please, I don't want to go.\NI don't want to go.
-Dialogue: 0,0:55:12.69,0:55:15.91,Default,,0,0,0,,DOWNEY JR.: The Russos realized how you had to bring it to the next level
+Dialogue: 0,0:55:12.69,0:55:15.91,Default,,0,0,0,,The Russos realized how you had to bring it to the next level
 Dialogue: 0,0:55:15.95,0:55:17.86,Default,,0,0,0,,and also have it have\Na great surprise.
-Dialogue: 0,0:55:18.52,0:55:19.61,Default,,0,0,0,,[SOFTLY] I'm sorry.
-Dialogue: 0,0:55:27.18,0:55:29.06,Default,,0,0,0,,D'ESPOSITO: Never seen our Avengers really lose,
+Dialogue: 0,0:55:18.52,0:55:19.61,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:55:27.18,0:55:29.06,Default,,0,0,0,,Never seen our Avengers really lose,
 Dialogue: 0,0:55:29.09,0:55:31.92,Default,,0,0,0,,and they lost,\Nand it's quite emotional\Nto see that.
 Dialogue: 0,0:55:32.75,0:55:34.49,Default,,0,0,0,,Where is he?
 Dialogue: 0,0:55:34.54,0:55:36.89,Default,,0,0,0,,McFEELY: It's a big,\Nepic movie,
@@ -1139,19 +1099,19 @@ Dialogue: 0,0:55:53.51,0:55:57.68,Default,,0,0,0,,do commercial movies\Ngo to th
 Dialogue: 0,0:56:00.65,0:56:01.83,Default,,0,0,0,,Quill?
 Dialogue: 0,0:56:05.74,0:56:06.95,Default,,0,0,0,,Oh, man.
 Dialogue: 0,0:56:08.53,0:56:10.01,Default,,0,0,0,,Why would you do that?
-Dialogue: 0,0:56:13.70,0:56:15.01,Default,,0,0,0,,DR. STRANGE:\NWe're in the endgame now.
+Dialogue: 0,0:56:13.70,0:56:15.01,Default,,0,0,0,,We're in the endgame now.
 Dialogue: 0,0:56:41.65,0:56:44.09,Default,,0,0,0,,You murdered\Nhalf the planet.
 Dialogue: 0,0:56:44.13,0:56:48.57,Default,,0,0,0,,A small price to pay\Nfor salvation.
-Dialogue: 0,0:56:48.61,0:56:50.75,Default,,0,0,0,,JOE RUSSO: The level of\Nambition withAvengers 3\Nis unprecedented.
+Dialogue: 0,0:56:48.61,0:56:50.75,Default,,0,0,0,,The level of\Nambition withAvengers 3\Nis unprecedented.
 Dialogue: 0,0:56:50.79,0:56:53.01,Default,,0,0,0,,But that was the reason\Nthat we wanted to do it.
-Dialogue: 0,0:56:53.05,0:56:55.36,Default,,0,0,0,,ROBERT DOWNEY JR.:\NInfinity War is nuts.
+Dialogue: 0,0:56:53.05,0:56:55.36,Default,,0,0,0,,Infinity War is nuts.
 Dialogue: 0,0:56:55.40,0:56:59.02,Default,,0,0,0,,The difficulty in executing it\Nwas so well thought out.
 Dialogue: 0,0:56:59.05,0:57:02.36,Default,,0,0,0,,A lot of things have to\Nkind of fit into place,
 Dialogue: 0,0:57:02.41,0:57:03.98,Default,,0,0,0,,and that's just\Na tricky target to hit.
 Dialogue: 0,0:57:04.02,0:57:06.20,Default,,0,0,0,,This is D-Day, man.
 Dialogue: 0,0:57:06.24,0:57:08.72,Default,,0,0,0,,People don't understand what\Nthey're walking into\Nwith this movie.
 Dialogue: 0,0:57:08.76,0:57:10.90,Default,,0,0,0,,This is not going to end well for a lot of people.
-Dialogue: 0,0:57:10.94,0:57:12.55,Default,,0,0,0,,KAREN GILLAN:\NThe stakes are very high,
+Dialogue: 0,0:57:10.94,0:57:12.55,Default,,0,0,0,,The stakes are very high,
 Dialogue: 0,0:57:12.59,0:57:14.60,Default,,0,0,0,,and we are going\Nto say goodbye to people.
 Dialogue: 0,0:57:14.64,0:57:17.34,Default,,0,0,0,,The whole thing\Nis just gigantic.
 Dialogue: 0,0:57:17.38,0:57:20.99,Default,,0,0,0,,Through the experience of\Nworking with Markus\Nand McFeely on Civil War,
@@ -1172,7 +1132,7 @@ Dialogue: 0,0:57:51.76,0:57:54.16,Default,,0,0,0,,We've seen Wakanda\Nas a power
 Dialogue: 0,0:57:54.20,0:57:57.03,Default,,0,0,0,,but we've also seen it\Nhave to battle with itself.
 Dialogue: 0,0:57:57.07,0:58:00.82,Default,,0,0,0,,And so being a part of this\Nmajor moment for the Avengers,
 Dialogue: 0,0:58:00.86,0:58:04.65,Default,,0,0,0,,it felt like very significant\Nstorylines merging.
-Dialogue: 0,0:58:04.69,0:58:07.26,Default,,0,0,0,,ROGERS: Seems like I'm always\Nthanking you for something.
+Dialogue: 0,0:58:04.69,0:58:07.26,Default,,0,0,0,,Seems like I'm always\Nthanking you for something.
 Dialogue: 0,0:58:07.30,0:58:11.35,Default,,0,0,0,,I think the men really respect\Neach other and have similar\Nmoral compasses,
 Dialogue: 0,0:58:11.39,0:58:14.22,Default,,0,0,0,,and are eager to be there\Nwhen the other person's\Nin need.
 Dialogue: 0,0:58:14.26,0:58:15.70,Default,,0,0,0,,He just happens to have\Na whole army.
@@ -1186,8 +1146,6 @@ Dialogue: 0,0:58:33.84,0:58:35.75,Default,,0,0,0,,was execute\Nthat Wakanda sequ
 Dialogue: 0,0:58:35.80,0:58:38.45,Default,,0,0,0,,The scope is gigantic\Non this movie,
 Dialogue: 0,0:58:38.50,0:58:41.80,Default,,0,0,0,,and it's the largest battle\Nthat we've ever done.
 Dialogue: 0,0:58:41.85,0:58:43.94,Default,,0,0,0,,Thank you\Nfor standing with us.
-Dialogue: 0,0:58:43.99,0:58:45.60,Default,,0,0,0,,[SPEAKS XHOSA]
-Dialogue: 0,0:58:45.64,0:58:48.12,Default,,0,0,0,,[HELICOPTER BLADES WHIRRING]
 Dialogue: 0,0:58:48.16,0:58:52.68,Default,,0,0,0,,We shot Wakanda\Nin a practical location.\NIt was a big ranch in Georgia
 Dialogue: 0,0:58:52.73,0:58:56.30,Default,,0,0,0,,that we transformed\Ninto the fields of Wakanda.
 Dialogue: 0,0:58:56.35,0:58:57.79,Default,,0,0,0,,DAN DeLEEUW: Working with\Nthe Russo brothers,
@@ -1207,7 +1165,6 @@ Dialogue: 0,0:59:28.73,0:59:32.82,Default,,0,0,0,,He and his team had\Nmaps of W
 Dialogue: 0,0:59:32.86,0:59:34.99,Default,,0,0,0,,so that we could look\Nat where we wanted\Nto place the battle,
 Dialogue: 0,0:59:35.04,0:59:36.61,Default,,0,0,0,,understand strategy.
 Dialogue: 0,0:59:36.65,0:59:38.70,Default,,0,0,0,,So it's literally\Nlike doing a Jenga puzzle.
-Dialogue: 0,0:59:38.74,0:59:40.79,Default,,0,0,0,,[CHANTING IN XHOSA]
 Dialogue: 0,0:59:42.78,0:59:46.09,Default,,0,0,0,,The way the Russos work,\Nthey're willing to try\Ndifferent things.
 Dialogue: 0,0:59:46.13,0:59:50.57,Default,,0,0,0,,There was a lot of input,\Nand we could share how\Nwe would express ourselves,
 Dialogue: 0,0:59:50.62,0:59:52.58,Default,,0,0,0,,what war cries we use\Nas Wakandans.
@@ -1215,7 +1172,7 @@ Dialogue: 0,0:59:52.62,0:59:54.54,Default,,0,0,0,,We have another one\Nthat's mo
 Dialogue: 0,0:59:54.58,0:59:55.98,Default,,0,0,0,,Okay, what's that one?
 Dialogue: 0,0:59:56.01,0:59:58.62,Default,,0,0,0,,It's mie effa,\Nwhich means "win them."
 Dialogue: 0,0:59:58.67,1:00:00.68,Default,,0,0,0,,Sie effameans\N"separate them."
-Dialogue: 0,1:00:00.71,1:00:02.49,Default,,0,0,0,,And they just go...\N[GRUNTING]
+Dialogue: 0,1:00:00.71,1:00:02.49,Default,,0,0,0,,And they just go...
 Dialogue: 0,1:00:02.54,1:00:04.28,Default,,0,0,0,,You get\Nthe actors involved,
 Dialogue: 0,1:00:04.33,1:00:05.81,Default,,0,0,0,,and of course they know\Ntheir characters better\Nthan anybody.
 Dialogue: 0,1:00:05.85,1:00:07.81,Default,,0,0,0,,They have great input.
@@ -1225,7 +1182,6 @@ Dialogue: 0,1:00:11.81,1:00:13.29,Default,,0,0,0,,because this could be it.
 Dialogue: 0,1:00:13.34,1:00:15.82,Default,,0,0,0,,You know, it became sort of\Nthe cadence of the whole set.
 Dialogue: 0,1:00:15.86,1:00:19.09,Default,,0,0,0,,People walking around saying,\N"Wakanda forever!"
 Dialogue: 0,1:00:19.12,1:00:20.42,Default,,0,0,0,,Wakanda forever!
-Dialogue: 0,1:00:20.47,1:00:22.99,Default,,0,0,0,,[ALL SHOUTING]
 Dialogue: 0,1:00:23.04,1:00:27.82,Default,,0,0,0,,We're gonna clash\Nthe Wakandan army\Nwith the Outriders.
 Dialogue: 0,1:00:27.87,1:00:31.52,Default,,0,0,0,,Where good meets evil, and they battle.
 Dialogue: 0,1:00:31.57,1:00:34.74,Default,,0,0,0,,It was really amazing\Nto see the vastness\Nof the battlefield.
@@ -1238,12 +1194,9 @@ Dialogue: 0,1:00:47.46,1:00:49.90,Default,,0,0,0,,We'll do digital versions\Nof 
 Dialogue: 0,1:00:49.94,1:00:51.64,Default,,0,0,0,,to take them out to about 500.
 Dialogue: 0,1:00:51.68,1:00:54.60,Default,,0,0,0,,Then we've got the Outriders, which are Thanos' beasts.
 Dialogue: 0,1:00:54.64,1:00:55.99,Default,,0,0,0,,There's 10,000 of those.
-Dialogue: 0,1:00:56.03,1:00:58.03,Default,,0,0,0,,[SNARLING]
-Dialogue: 0,1:00:58.08,1:01:00.39,Default,,0,0,0,,VICTORIA ALONSO:\NThere was a lot of thinking\Ninto the texture,
+Dialogue: 0,1:00:58.08,1:01:00.39,Default,,0,0,0,,There was a lot of thinking\Ninto the texture,
 Dialogue: 0,1:01:00.43,1:01:02.96,Default,,0,0,0,,what they felt like,\Nwhat they looked like,\Nwhat the teeth looked like.
 Dialogue: 0,1:01:02.99,1:01:04.73,Default,,0,0,0,,They had to pose\Na real threat.
-Dialogue: 0,1:01:05.21,1:01:06.34,Default,,0,0,0,,[GRUNTS]
-Dialogue: 0,1:01:06.39,1:01:07.74,Default,,0,0,0,,[ALIENS YELPING]
 Dialogue: 0,1:01:10.04,1:01:11.82,Default,,0,0,0,,Why was she up there\Nall this time?
 Dialogue: 0,1:01:11.87,1:01:15.31,Default,,0,0,0,,A lot of our action is based\Naround character decisions\Nand moments.
 Dialogue: 0,1:01:15.35,1:01:17.70,Default,,0,0,0,,Less punch/jab/cross/uppercut,
@@ -1256,11 +1209,9 @@ Dialogue: 0,1:01:30.37,1:01:32.99,Default,,0,0,0,,He'll die alone. As will you.
 Dialogue: 0,1:01:33.02,1:01:34.41,Default,,0,0,0,,She's not alone.
 Dialogue: 0,1:01:34.46,1:01:37.60,Default,,0,0,0,,In a real,\Nreal moment of threat,
 Dialogue: 0,1:01:37.64,1:01:40.43,Default,,0,0,0,,there's two other women there, standing by each other.
-Dialogue: 0,1:01:40.47,1:01:43.56,Default,,0,0,0,,[YELLING][ALL GRUNTING]
 Dialogue: 0,1:01:43.60,1:01:47.04,Default,,0,0,0,,It's really great to see\Nthat the audiences\Nare embracing
 Dialogue: 0,1:01:47.08,1:01:49.34,Default,,0,0,0,,really strong female superheroines.
 Dialogue: 0,1:01:51.39,1:01:54.96,Default,,0,0,0,,That is one of the biggest\Ncheer moments in the film.
-Dialogue: 0,1:01:56.66,1:01:57.92,Default,,0,0,0,,[YELLS]
 Dialogue: 0,1:01:59.79,1:02:03.23,Default,,0,0,0,,Coming into Infinity War,\Nadmittedly I was\Na little hesitant
 Dialogue: 0,1:02:03.27,1:02:08.05,Default,,0,0,0,,because I just was so\Nprotective of what myself\Nand Taika sort of built.
 Dialogue: 0,1:02:08.10,1:02:10.27,Default,,0,0,0,,And I said, "Well, you know,\Nit's not\Nthe old Thor anymore,"
@@ -1273,28 +1224,26 @@ Dialogue: 0,1:02:21.07,1:02:22.81,Default,,0,0,0,,New haircut?
 Dialogue: 0,1:02:22.86,1:02:23.82,Default,,0,0,0,,Notice you've copied\Nmy beard.
 Dialogue: 0,1:02:24.51,1:02:25.99,Default,,0,0,0,,Pretty good.
 Dialogue: 0,1:02:26.03,1:02:28.25,Default,,0,0,0,,Evans was a bit off,\Nbut I think\Nmine sounds good.
-Dialogue: 0,1:02:28.30,1:02:29.43,Default,,0,0,0,,[LAUGHTER]
 Dialogue: 0,1:02:31.69,1:02:34.78,Default,,0,0,0,,In Atlanta, you get days\Nlike this, which are amazing,
 Dialogue: 0,1:02:34.82,1:02:37.04,Default,,0,0,0,,that just resonate what we're\Ntrying to get with Africa.
 Dialogue: 0,1:02:37.09,1:02:39.09,Default,,0,0,0,,And other days\Nyou'll get the rain.
-Dialogue: 0,1:02:39.13,1:02:40.04,Default,,0,0,0,,[THUNDER RUMBLING]MAN: Oh, God.
-Dialogue: 0,1:02:46.18,1:02:48.31,Default,,0,0,0,,ALONSO: We had a lot\Nof different weather issues.
+Dialogue: 0,1:02:39.13,1:02:40.04,Default,,0,0,0,,Oh, God.
+Dialogue: 0,1:02:46.18,1:02:48.31,Default,,0,0,0,,We had a lot\Nof different weather issues.
 Dialogue: 0,1:02:48.36,1:02:52.63,Default,,0,0,0,,We had rain, sun, fog,\Ncold, heat. We had it all.
-Dialogue: 0,1:02:52.67,1:02:54.98,Default,,0,0,0,,TRAN: The weather was one of the biggest challenges,
+Dialogue: 0,1:02:52.67,1:02:54.98,Default,,0,0,0,,The weather was one of the biggest challenges,
 Dialogue: 0,1:02:55.02,1:02:59.11,Default,,0,0,0,,because it would just be\Npouring and there would be\Nmud just sliding down
 Dialogue: 0,1:02:59.15,1:03:02.19,Default,,0,0,0,,as we're trying to get\Nour talent up to the field.
 Dialogue: 0,1:03:02.24,1:03:04.15,Default,,0,0,0,,And it was incredible.
 Dialogue: 0,1:03:04.20,1:03:05.76,Default,,0,0,0,,DeLEEUW: We do\Nthe best we can.
 Dialogue: 0,1:03:05.81,1:03:08.59,Default,,0,0,0,,We try to cover actors\Nfor close-ups\Nand shoot the close-ups,
 Dialogue: 0,1:03:08.64,1:03:11.68,Default,,0,0,0,,and then hopefully the next day we get a shot, you know, a day without rain.
-Dialogue: 0,1:03:16.87,1:03:18.61,Default,,0,0,0,,TRAN: So when Thanos\Nshows up,
+Dialogue: 0,1:03:16.87,1:03:18.61,Default,,0,0,0,,So when Thanos\Nshows up,
 Dialogue: 0,1:03:18.65,1:03:21.13,Default,,0,0,0,,we really wanted to make this\Nthe most powerful moment ever.
 Dialogue: 0,1:03:21.83,1:03:24.27,Default,,0,0,0,,Eyes up, stay sharp.
 Dialogue: 0,1:03:24.31,1:03:26.49,Default,,0,0,0,,The movie sort of keeps\Ntwisting at the end there
 Dialogue: 0,1:03:26.53,1:03:29.28,Default,,0,0,0,,in ways that you can't believe that it's going one step beyond,
 Dialogue: 0,1:03:29.31,1:03:31.70,Default,,0,0,0,,and that the fate of our characters
 Dialogue: 0,1:03:31.75,1:03:33.14,Default,,0,0,0,,and the fate of the universe\Nare still at play.
-Dialogue: 0,1:03:35.36,1:03:36.53,Default,,0,0,0,,[SCREAMS]
 Dialogue: 0,1:03:37.76,1:03:39.20,Default,,0,0,0,,In terms of our choices
 Dialogue: 0,1:03:39.24,1:03:42.90,Default,,0,0,0,,about who Thanos would end up\Neradicating with his snap,
 Dialogue: 0,1:03:42.94,1:03:44.90,Default,,0,0,0,,it was very story focused.
@@ -1320,7 +1269,7 @@ Dialogue: 0,1:04:35.86,1:04:37.52,Default,,0,0,0,,that even just\Nthe smallest c
 Dialogue: 0,1:04:37.56,1:04:39.04,Default,,0,0,0,,can tell them\Nwhere the film\Nis going to go.
 Dialogue: 0,1:04:39.08,1:04:40.74,Default,,0,0,0,,So we worked really hard\Nto make sure
 Dialogue: 0,1:04:40.78,1:04:42.57,Default,,0,0,0,,that none of the secrets\Nof the film leaked.
-Dialogue: 0,1:04:42.60,1:04:46.21,Default,,0,0,0,,TRAN: This, by far, has been\Nthe most top-secret movie
+Dialogue: 0,1:04:42.60,1:04:46.21,Default,,0,0,0,,This, by far, has been\Nthe most top-secret movie
 Dialogue: 0,1:04:46.26,1:04:47.87,Default,,0,0,0,,out of all\Nof the previous 18 movies.
 Dialogue: 0,1:04:48.78,1:04:49.87,Default,,0,0,0,,Did you do it?
 Dialogue: 0,1:04:52.09,1:04:53.61,Default,,0,0,0,,Yes.
@@ -1332,7 +1281,7 @@ Dialogue: 0,1:05:06.28,1:05:08.36,Default,,0,0,0,,and there's about\N2,900 visua
 Dialogue: 0,1:05:08.41,1:05:11.37,Default,,0,0,0,,So it's a puzzle.\NIt's a difficult one.
 Dialogue: 0,1:05:11.42,1:05:15.69,Default,,0,0,0,,No one has ever assembled\Na cast of this size\Nand this caliber.
 Dialogue: 0,1:05:15.72,1:05:20.29,Default,,0,0,0,,So it was a completely unique\Nfilmmaking experience\Nfor everybody involved.
-Dialogue: 0,1:05:20.34,1:05:22.56,Default,,0,0,0,,FEIGE: Of all the films\Nwe've made,
+Dialogue: 0,1:05:20.34,1:05:22.56,Default,,0,0,0,,Of all the films\Nwe've made,
 Dialogue: 0,1:05:22.60,1:05:25.56,Default,,0,0,0,,Infinity War will have the greatest repercussions.
 Dialogue: 0,1:05:25.60,1:05:29.69,Default,,0,0,0,,And, really, the only way\Nthis film could be made
 Dialogue: 0,1:05:29.74,1:05:32.01,Default,,0,0,0,,is in the hands\Nof Anthony and Joe Russo.
@@ -1350,13 +1299,11 @@ Dialogue: 0,1:06:01.86,1:06:02.95,Default,,0,0,0,,in a seamless manner.
 Dialogue: 0,1:06:02.99,1:06:04.73,Default,,0,0,0,,The energy's perfect.Yeah, right?
 Dialogue: 0,1:06:04.77,1:06:06.81,Default,,0,0,0,,Besides being\Nincredibly smart,
 Dialogue: 0,1:06:06.86,1:06:10.17,Default,,0,0,0,,the Russos are very trusting and they are very kind to the crew.
-Dialogue: 0,1:06:10.21,1:06:11.95,Default,,0,0,0,,ANTHONY: Okay, everybody\Ngive it up for Geoff Haley!
-Dialogue: 0,1:06:12.00,1:06:15.18,Default,,0,0,0,,[CHEERING AND APPLAUSE]
+Dialogue: 0,1:06:10.21,1:06:11.95,Default,,0,0,0,,Okay, everybody\Ngive it up for Geoff Haley!
 Dialogue: 0,1:06:15.22,1:06:19.53,Default,,0,0,0,,Joe and Anthony want to\Ncreate a relationship\Nas quickly as possible,
 Dialogue: 0,1:06:19.57,1:06:22.53,Default,,0,0,0,,and that's what people respond to.
 Dialogue: 0,1:06:22.57,1:06:26.09,Default,,0,0,0,,Last weekend were\Nthe Taurus World Stunt Awards,
 Dialogue: 0,1:06:26.14,1:06:29.58,Default,,0,0,0,,and the team from Civil War\Ndid very well.
-Dialogue: 0,1:06:29.62,1:06:31.01,Default,,0,0,0,,[CHEERING AND APPLAUSE]
 Dialogue: 0,1:06:32.98,1:06:34.98,Default,,0,0,0,,The Russo brothers\Nhave brought some
 Dialogue: 0,1:06:35.02,1:06:39.24,Default,,0,0,0,,extraordinary precision\Nand complexity\Nto the Marvel Universe.
 Dialogue: 0,1:06:39.29,1:06:43.30,Default,,0,0,0,,They are extraordinary\Ntechnicians.
@@ -1364,7 +1311,7 @@ Dialogue: 0,1:06:43.33,1:06:45.77,Default,,0,0,0,,They are making\Nthe biggest m
 Dialogue: 0,1:06:45.81,1:06:48.68,Default,,0,0,0,,with the biggest movie\Nof all time right after it.
 Dialogue: 0,1:06:48.73,1:06:50.51,Default,,0,0,0,,We've had a very strong\Ncollaboration
 Dialogue: 0,1:06:50.56,1:06:52.39,Default,,0,0,0,,with Markus and McFeely\Nover all four movies.
-Dialogue: 0,1:06:52.43,1:06:54.09,Default,,0,0,0,,ANTHONY:\NIt's a very organic process.
+Dialogue: 0,1:06:52.43,1:06:54.09,Default,,0,0,0,,It's a very organic process.
 Dialogue: 0,1:06:54.13,1:06:57.40,Default,,0,0,0,,We sit there and we grab\Na character and we start\Nto tell a story.
 Dialogue: 0,1:06:57.43,1:06:59.91,Default,,0,0,0,,We love this work so much\Nthat we want real fidelity
 Dialogue: 0,1:06:59.96,1:07:02.27,Default,,0,0,0,,to what it is that we think and believe about these characters,
@@ -1374,10 +1321,10 @@ Dialogue: 0,1:07:05.96,1:07:07.35,Default,,0,0,0,,you'll understand our point of
 Dialogue: 0,1:07:07.40,1:07:08.31,Default,,0,0,0,,and our point of view as filmmakers.
 Dialogue: 0,1:07:08.36,1:07:09.63,Default,,0,0,0,,So making these movies,
 Dialogue: 0,1:07:09.66,1:07:11.27,Default,,0,0,0,,it's been a very\Npersonal journey for us.
-Dialogue: 0,1:07:29.81,1:07:31.20,Default,,0,0,0,,STARK: Slow down.PEPPER: Honey.
-Dialogue: 0,1:07:31.25,1:07:32.60,Default,,0,0,0,,STARK: Slow down, slow down.\NI'll spell it out for you.
-Dialogue: 0,1:07:32.64,1:07:33.29,Default,,0,0,0,,PEPPER: You're totally\Nrambling.No, I'm not.
-Dialogue: 0,1:07:33.34,1:07:34.64,Default,,0,0,0,,PEPPER: You lost me.
+Dialogue: 0,1:07:29.81,1:07:31.20,Default,,0,0,0,,Slow down.PEPPER: Honey.
+Dialogue: 0,1:07:31.25,1:07:32.60,Default,,0,0,0,,Slow down, slow down.\NI'll spell it out for you.
+Dialogue: 0,1:07:32.64,1:07:33.29,Default,,0,0,0,,You're totally\Nrambling.No, I'm not.
+Dialogue: 0,1:07:33.34,1:07:34.64,Default,,0,0,0,,You lost me.
 Dialogue: 0,1:07:34.69,1:07:36.30,Default,,0,0,0,,Look, you know how\Nyou're having a dream,
 Dialogue: 0,1:07:36.34,1:07:37.73,Default,,0,0,0,,and in the dream\Nyou gotta pee.
 Dialogue: 0,1:07:37.78,1:07:39.39,Default,,0,0,0,,Yeah.Okay.
@@ -1404,14 +1351,14 @@ Dialogue: 0,1:08:16.56,1:08:17.78,Default,,0,0,0,,Yes. No, after that date.
 Dialogue: 0,1:08:17.82,1:08:19.43,Default,,0,0,0,,You know,\Nyou two should just elope.
 Dialogue: 0,1:08:19.47,1:08:21.56,Default,,0,0,0,,Because this media circus\Nthat's going on\Nis driving me crazy.
 Dialogue: 0,1:08:21.61,1:08:23.31,Default,,0,0,0,,Okay.This is me on edge.
-Dialogue: 0,1:08:23.35,1:08:24.87,Default,,0,0,0,,STARK: I'm sorry.Because I'm trying to keep
+Dialogue: 0,1:08:23.35,1:08:24.87,Default,,0,0,0,,I'm sorry.Because I'm trying to keep
 Dialogue: 0,1:08:24.91,1:08:26.26,Default,,0,0,0,,all the pictures\Nout of the paper\Nand off the Internet
 Dialogue: 0,1:08:26.31,1:08:27.79,Default,,0,0,0,,so your wedding's not ruined.
 Dialogue: 0,1:08:27.83,1:08:28.92,Default,,0,0,0,,No one's working\Nharder than you.
 Dialogue: 0,1:08:28.96,1:08:30.44,Default,,0,0,0,,Do you remember\Nthat kid from TMZ
 Dialogue: 0,1:08:30.48,1:08:31.65,Default,,0,0,0,,that you had me\Ntrade paint with\Non the FDR Drive?
 Dialogue: 0,1:08:31.70,1:08:33.31,Default,,0,0,0,,Well, I got a case\Nagainst me now.
-Dialogue: 0,1:08:33.36,1:08:34.97,Default,,0,0,0,,STARK: That's my fault?Yeah, it's your fault.
+Dialogue: 0,1:08:33.36,1:08:34.97,Default,,0,0,0,,That's my fault?Yeah, it's your fault.
 Dialogue: 0,1:08:35.01,1:08:36.22,Default,,0,0,0,,"Lose 'em, Hap.\NLose 'em, Hap,"\Nlike The Godfather.
 Dialogue: 0,1:08:36.27,1:08:37.66,Default,,0,0,0,,It's really funny.\NNow I gotta go to court.
 Dialogue: 0,1:08:37.71,1:08:39.02,Default,,0,0,0,,That's why we want you\Nto get out of the car
@@ -1424,21 +1371,14 @@ Dialogue: 0,1:08:47.59,1:08:49.25,Default,,0,0,0,,Man, we gotta get him\Na girlf
 Dialogue: 0,1:08:49.29,1:08:51.73,Default,,0,0,0,,You know anyone?\NAnyone come to mind\Nwho would maybe...
 Dialogue: 0,1:08:51.77,1:08:52.82,Default,,0,0,0,,What?
 Dialogue: 0,1:08:55.90,1:08:57.98,Default,,0,0,0,,That blade severed\Nmy vibranium tissue.
-Dialogue: 0,1:08:58.03,1:08:59.20,Default,,0,0,0,,[BOTH PANTING]
 Dialogue: 0,1:08:59.25,1:09:00.34,Default,,0,0,0,,Is that even possible?
 Dialogue: 0,1:09:00.38,1:09:02.55,Default,,0,0,0,,It isn't supposed to be.
 Dialogue: 0,1:09:02.60,1:09:03.95,Default,,0,0,0,,I don't know why.It's all right.
 Dialogue: 0,1:09:05.39,1:09:07.53,Default,,0,0,0,,I'm beginning to think\Nwe should've stayed in bed.
-Dialogue: 0,1:09:25.28,1:09:26.59,Default,,0,0,0,,[LOUD CLANGING]
 Dialogue: 0,1:10:15.59,1:10:16.55,Default,,0,0,0,,Vis!
-Dialogue: 0,1:10:17.16,1:10:17.94,Default,,0,0,0,,[SCREECHES]
-Dialogue: 0,1:10:21.94,1:10:24.03,Default,,0,0,0,,[LOW GRUNTING]
-Dialogue: 0,1:10:39.61,1:10:41.44,Default,,0,0,0,,[UPBEAT MUSIC PLAYING]
-Dialogue: 0,1:10:47.19,1:10:48.67,Default,,0,0,0,,[GRUNTING]
 Dialogue: 0,1:10:50.80,1:10:51.76,Default,,0,0,0,,Record message.
-Dialogue: 0,1:11:10.73,1:11:11.90,Default,,0,0,0,,[MUSIC STOPS]
 Dialogue: 0,1:11:17.09,1:11:18.48,Default,,0,0,0,,Turn it back on!
-Dialogue: 0,1:11:18.52,1:11:19.47,Default,,0,0,0,,DRAX: No.
+Dialogue: 0,1:11:18.52,1:11:19.47,Default,,0,0,0,,No.
 Dialogue: 0,1:11:21.35,1:11:23.09,Default,,0,0,0,,Turn it back on.
 Dialogue: 0,1:11:23.13,1:11:26.09,Default,,0,0,0,,Can't keep listening\Nto the same song\Nagain and again and again!
 Dialogue: 0,1:11:26.14,1:11:28.54,Default,,0,0,0,,I told you.\NI'm screwed up, man.
@@ -1450,24 +1390,22 @@ Dialogue: 0,1:11:35.23,1:11:36.40,Default,,0,0,0,,Give it!
 Dialogue: 0,1:11:36.45,1:11:38.97,Default,,0,0,0,,The man who sings this song\Nis a degenerate.
 Dialogue: 0,1:11:39.02,1:11:42.15,Default,,0,0,0,,I will not sit here\Nand allow you\Nto malign Ace Frehley!
 Dialogue: 0,1:11:42.20,1:11:43.46,Default,,0,0,0,,Give me the Zune.No.
-Dialogue: 0,1:11:43.50,1:11:44.89,Default,,0,0,0,,[SOFT BLEEPING]
 Dialogue: 0,1:11:47.03,1:11:49.38,Default,,0,0,0,,Ace Frehley is not helping!
 Dialogue: 0,1:11:49.42,1:11:51.16,Default,,0,0,0,,We haven't even\Nleft Knowhere yet.
-Dialogue: 0,1:11:54.43,1:11:55.43,Default,,0,0,0,,[GRUNTS]
 Dialogue: 0,1:11:57.17,1:11:59.70,Default,,0,0,0,,Ace Frehley is helping\Nmore than you are.
 Dialogue: 0,1:11:59.74,1:12:01.66,Default,,0,0,0,,We lost Gamora\Nbecause of you.
 Dialogue: 0,1:12:01.70,1:12:08.05,Default,,0,0,0,,We lost Gamora because\Nyou would not let me\Nseize the moment!
 Dialogue: 0,1:12:08.09,1:12:10.57,Default,,0,0,0,,What do you care?\NYou tried to kill her!
 Dialogue: 0,1:12:10.62,1:12:13.36,Default,,0,0,0,,She said I'd be saving\Nthe universe!
-Dialogue: 0,1:12:13.40,1:12:15.18,Default,,0,0,0,,MANTIS: I would kill\Neither of you
+Dialogue: 0,1:12:13.40,1:12:15.18,Default,,0,0,0,,I would kill\Neither of you
 Dialogue: 0,1:12:15.23,1:12:19.36,Default,,0,0,0,,if it would stop\Nthat blinking yellow light.
-Dialogue: 0,1:12:19.41,1:12:21.20,Default,,0,0,0,,PETER: What blinking\Nyellow light?
+Dialogue: 0,1:12:19.41,1:12:21.20,Default,,0,0,0,,What blinking\Nyellow light?
 Dialogue: 0,1:12:21.24,1:12:23.81,Default,,0,0,0,,The coded message channel?\NHow long has this been on?
-Dialogue: 0,1:12:23.85,1:12:25.11,Default,,0,0,0,,MANTIS: It was so beautiful.
+Dialogue: 0,1:12:23.85,1:12:25.11,Default,,0,0,0,,It was so beautiful.
 Dialogue: 0,1:12:25.15,1:12:26.93,Default,,0,0,0,,Wait.
 Dialogue: 0,1:12:26.98,1:12:29.41,Default,,0,0,0,,Mantis,\Na blinking yellow light
 Dialogue: 0,1:12:29.46,1:12:31.15,Default,,0,0,0,,indicates an important\Nsecret coded message.
-Dialogue: 0,1:12:31.20,1:12:32.76,Default,,0,0,0,,DRAX: Shame on you,\NMantis.How long...
+Dialogue: 0,1:12:31.20,1:12:32.76,Default,,0,0,0,,Shame on you,\NMantis.How long...
 Dialogue: 0,1:12:32.81,1:12:34.07,Default,,0,0,0,,This was your job.
 Dialogue: 0,1:12:34.12,1:12:35.52,Default,,0,0,0,,It was his job.
 Dialogue: 0,1:12:35.56,1:12:38.08,Default,,0,0,0,,Drax, you didn't see\Nthe blinking yellow light?
@@ -1478,7 +1416,7 @@ Dialogue: 0,1:12:46.00,1:12:48.00,Default,,0,0,0,,Twenty-two important\Ncoded se
 Dialogue: 0,1:12:48.05,1:12:49.97,Default,,0,0,0,,That could have been helpful.
 Dialogue: 0,1:12:50.00,1:12:51.87,Default,,0,0,0,,Five hours.\NI've been sitting five hours.
 Dialogue: 0,1:12:51.92,1:12:53.75,Default,,0,0,0,,We have twenty-two messages.
-Dialogue: 0,1:12:53.79,1:12:55.35,Default,,0,0,0,,[BLEEPS]Twenty-three messages.
+Dialogue: 0,1:12:53.79,1:12:55.35,Default,,0,0,0,,Twenty-three messages.
 Dialogue: 0,1:12:55.40,1:12:57.44,Default,,0,0,0,,Oh, they keep coming in.
 Dialogue: 0,1:12:57.49,1:13:00.06,Default,,0,0,0,,From Nebula. Gamora is alive!
 Dialogue: 0,1:13:00.10,1:13:02.79,Default,,0,0,0,,"Thanos is taking her\Nto Titan.
@@ -1496,23 +1434,23 @@ Dialogue: 0,1:13:22.65,1:13:25.31,Default,,0,0,0,,"or I will sew his face\Nto hi
 Dialogue: 0,1:13:26.52,1:13:28.48,Default,,0,0,0,,That's her.
 Dialogue: 0,1:13:28.52,1:13:31.04,Default,,0,0,0,,She's always wanted\Nto sew my face to my genitals.
 Dialogue: 0,1:13:32.74,1:13:33.56,Default,,0,0,0,,We're going to Titan.
-Dialogue: 0,1:13:50.93,1:13:52.93,Default,,0,0,0,,GAMORA: The planet\Nhas been taken, Father.
+Dialogue: 0,1:13:50.93,1:13:52.93,Default,,0,0,0,,The planet\Nhas been taken, Father.
 Dialogue: 0,1:13:56.46,1:14:00.29,Default,,0,0,0,,The Theradite King pledges\Neternal loyalty to your cause.
 Dialogue: 0,1:14:01.12,1:14:03.00,Default,,0,0,0,,He accepted my terms?
 Dialogue: 0,1:14:03.03,1:14:04.20,Default,,0,0,0,,Eventually.
-Dialogue: 0,1:14:13.57,1:14:15.01,Default,,0,0,0,,THANOS: Well done, daughter.
+Dialogue: 0,1:14:13.57,1:14:15.01,Default,,0,0,0,,Well done, daughter.
 Dialogue: 0,1:14:16.48,1:14:17.65,Default,,0,0,0,,Well done.
 Dialogue: 0,1:14:21.44,1:14:23.09,Default,,0,0,0,,Stop it.
-Dialogue: 0,1:14:24.05,1:14:25.05,Default,,0,0,0,,THANOS: Why?
+Dialogue: 0,1:14:24.05,1:14:25.05,Default,,0,0,0,,Why?
 Dialogue: 0,1:14:29.71,1:14:33.49,Default,,0,0,0,,By the look of it,\Nyou seemed content enough\Nat the time.
 Dialogue: 0,1:14:37.50,1:14:39.06,Default,,0,0,0,,I was a prisoner.
-Dialogue: 0,1:14:42.33,1:14:44.50,Default,,0,0,0,,THANOS: You were a warrior.
+Dialogue: 0,1:14:42.33,1:14:44.50,Default,,0,0,0,,You were a warrior.
 Dialogue: 0,1:14:44.55,1:14:45.77,Default,,0,0,0,,I didn't ask for it.
-Dialogue: 0,1:14:45.82,1:14:47.47,Default,,0,0,0,,THANOS: You didn't refuse.
+Dialogue: 0,1:14:45.82,1:14:47.47,Default,,0,0,0,,You didn't refuse.
 Dialogue: 0,1:14:56.09,1:14:57.88,Default,,0,0,0,,After my planet died,
 Dialogue: 0,1:14:59.26,1:15:01.87,Default,,0,0,0,,I had nothing. No one.
 Dialogue: 0,1:15:02.92,1:15:05.80,Default,,0,0,0,,And I thought I never would.
-Dialogue: 0,1:15:05.84,1:15:08.54,Default,,0,0,0,,And I was all right with that.\NI had a new vocation.\N[CHUCKLES LIGHTLY]
+Dialogue: 0,1:15:05.84,1:15:08.54,Default,,0,0,0,,- And I was all right with that.\N- I had a new vocation.
 Dialogue: 0,1:15:13.45,1:15:14.32,Default,,0,0,0,,Then I found you.
 Dialogue: 0,1:15:16.19,1:15:19.76,Default,,0,0,0,,And at my side, you became\Nthe fiercest woman\Nin the galaxy.
 Dialogue: 0,1:15:22.77,1:15:25.34,Default,,0,0,0,,That's why I chose you\Nto find the Soul Stone.
@@ -1521,7 +1459,7 @@ Dialogue: 0,1:15:28.90,1:15:30.77,Default,,0,0,0,,I am disappointed.
 Dialogue: 0,1:15:30.82,1:15:32.35,Default,,0,0,0,,But not because\Nyou didn't find it.
 Dialogue: 0,1:15:41.96,1:15:43.62,Default,,0,0,0,,But because you did.
 Dialogue: 0,1:15:44.96,1:15:46.96,Default,,0,0,0,,And you lied.
-Dialogue: 0,1:15:47.01,1:15:48.06,Default,,0,0,0,,[SOFTLY] I don't know\Nwhat you're talking about.
+Dialogue: 0,1:15:47.01,1:15:48.06,Default,,0,0,0,,I don't know\Nwhat you're talking about.
 Dialogue: 0,1:15:48.10,1:15:50.54,Default,,0,0,0,,I gave you my trust!
 Dialogue: 0,1:15:50.58,1:15:52.67,Default,,0,0,0,,You repaid it with deceit.
 Dialogue: 0,1:15:52.71,1:15:54.24,Default,,0,0,0,,At least be honest\Nabout it now.
@@ -1529,21 +1467,21 @@ Dialogue: 0,1:15:57.19,1:16:02.45,Default,,0,0,0,,I can make you tell me.\NYou s
 Dialogue: 0,1:16:02.50,1:16:04.72,Default,,0,0,0,,I never wanted to\Nforce you into anything.
 Dialogue: 0,1:16:07.72,1:16:13.16,Default,,0,0,0,,That's why when you left me\Nall those years ago,
 Dialogue: 0,1:16:13.21,1:16:14.34,Default,,0,0,0,,I allowed it.
-Dialogue: 0,1:16:14.38,1:16:15.86,Default,,0,0,0,,[SCOFFS] You allowed it?
-Dialogue: 0,1:16:15.91,1:16:18.35,Default,,0,0,0,,THANOS: You haven't been\Nunder the impression\Nyou escaped?
+Dialogue: 0,1:16:14.38,1:16:15.86,Default,,0,0,0,,You allowed it?
+Dialogue: 0,1:16:15.91,1:16:18.35,Default,,0,0,0,,You haven't been\Nunder the impression\Nyou escaped?
 Dialogue: 0,1:16:22.22,1:16:24.61,Default,,0,0,0,,Daughter, I raised you\Nsmarter than that.
 Dialogue: 0,1:16:24.65,1:16:26.22,Default,,0,0,0,,Your daughter?
 Dialogue: 0,1:16:26.87,1:16:28.22,Default,,0,0,0,,You didn't raise me.
 Dialogue: 0,1:16:28.27,1:16:31.49,Default,,0,0,0,,You kidnapped me, orphaned me,\Nand imprisoned me!
 Dialogue: 0,1:16:31.53,1:16:34.15,Default,,0,0,0,,Everything I hate about myself\Ncomes from you.
 Dialogue: 0,1:16:37.41,1:16:41.59,Default,,0,0,0,,I stayed because\Nyou taught me\NI didn't deserve better.
-Dialogue: 0,1:16:41.63,1:16:43.33,Default,,0,0,0,,THANOS: Why did you leave?
+Dialogue: 0,1:16:41.63,1:16:43.33,Default,,0,0,0,,Why did you leave?
 Dialogue: 0,1:16:47.15,1:16:49.33,Default,,0,0,0,,Because I found people\Nthat showed me I did.
-Dialogue: 0,1:16:50.64,1:16:52.64,Default,,0,0,0,,THANOS: You had a family here,\Nlittle one.
+Dialogue: 0,1:16:50.64,1:16:52.64,Default,,0,0,0,,You had a family here,\Nlittle one.
 Dialogue: 0,1:16:52.68,1:16:55.55,Default,,0,0,0,,No. I didn't.
-Dialogue: 0,1:16:55.60,1:16:56.86,Default,,0,0,0,,THANOS: Yes.
+Dialogue: 0,1:16:55.60,1:16:56.86,Default,,0,0,0,,Yes.
 Dialogue: 0,1:16:56.90,1:16:58.20,Default,,0,0,0,,No.
 Dialogue: 0,1:16:58.25,1:17:00.29,Default,,0,0,0,,You just didn't care\Nwhat happened to it.
-Dialogue: 0,1:17:23.80,1:17:24.85,Default,,0,0,0,,GAMORA: Nebula.
+Dialogue: 0,1:17:23.80,1:17:24.85,Default,,0,0,0,,Nebula.
 Dialogue: 0,1:17:31.89,1:17:33.24,Default,,0,0,0,,Don't do this.
 Dialogue: 0,1:17:37.73,1:17:38.91,Default,,0,0,0,,Please don't do this.
