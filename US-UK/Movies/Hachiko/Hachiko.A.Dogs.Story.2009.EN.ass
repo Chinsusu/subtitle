@@ -1,0 +1,954 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:32.46,0:00:35.80,Default,,0,0,0,,{\i1}So, even if Columbus got lost and\Nwasn't the first to discover America,{\i0}
+Dialogue: 0,0:00:35.80,0:00:37.68,Default,,0,0,0,,he is still my hero.
+Dialogue: 0,0:00:37.68,0:00:42.27,Default,,0,0,0,,He was really brave to sail his\Ntiny ship over a really big ocean.
+Dialogue: 0,0:00:42.27,0:00:44.98,Default,,0,0,0,,And because of him, we get\NColumbus Day off from school.
+Dialogue: 0,0:00:48.52,0:00:50.73,Default,,0,0,0,,Thank you, Heather. Ronnie?
+Dialogue: 0,0:00:50.73,0:00:52.82,Default,,0,0,0,,Tell us about your hero.
+Dialogue: 0,0:01:06.58,0:01:07.92,Default,,0,0,0,,What is he writing?
+Dialogue: 0,0:01:09.17,0:01:11.88,Default,,0,0,0,,Hachiko was my Grandfather\NWilson's dog.
+Dialogue: 0,0:01:15.42,0:01:18.05,Default,,0,0,0,,Everyone called Hachi a\Nmystery dog because,
+Dialogue: 0,0:01:18.05,0:01:20.55,Default,,0,0,0,,they never really knew\Nwhere he came from.
+Dialogue: 0,0:01:22.85,0:01:25.64,Default,,0,0,0,,Maybe Hachi escaped from\Na dog pound.
+Dialogue: 0,0:01:26.68,0:01:29.10,Default,,0,0,0,,Or maybe he jumped out\Nof somebody's car,
+Dialogue: 0,0:01:29.10,0:01:31.81,Default,,0,0,0,,from some place faraway\Nlike Florida or New Jersey.
+Dialogue: 0,0:01:35.65,0:01:38.90,Default,,0,0,0,,But no matter how, Hachi was lost.
+Dialogue: 0,0:03:07.70,0:03:09.41,Default,,0,0,0,,No matter how it happened,
+Dialogue: 0,0:03:09.41,0:03:13.67,Default,,0,0,0,,a long time ago, in a town my\Ngrandfather lived in...
+Dialogue: 0,0:03:14.42,0:03:16.71,Default,,0,0,0,,Hachi appeared at the train station.
+Dialogue: 0,0:03:17.54,0:03:20.13,Default,,0,0,0,,And that's where their story begin.
+Dialogue: 0,0:03:56.12,0:03:57.88,Default,,0,0,0,,{\i1}Six days?{\i0}
+Dialogue: 0,0:03:57.88,0:04:00.50,Default,,0,0,0,,- I'll miss it.\N- Yes.
+Dialogue: 0,0:04:00.50,0:04:02.80,Default,,0,0,0,,{\i1}That was great, a lot of music.{\i0}
+Dialogue: 0,0:04:02.80,0:04:05.38,Default,,0,0,0,,{\i1}No, no, no, I'll walk. I'll walk.{\i0}
+Dialogue: 0,0:04:06.01,0:04:08.43,Default,,0,0,0,,Yeah, I love you, too. Bye.
+Dialogue: 0,0:04:11.85,0:04:14.98,Default,,0,0,0,,Hey, buddy... you lost?
+Dialogue: 0,0:04:14.98,0:04:17.06,Default,,0,0,0,,Come here.
+Dialogue: 0,0:04:17.40,0:04:18.73,Default,,0,0,0,,Come...
+Dialogue: 0,0:04:21.44,0:04:23.65,Default,,0,0,0,,You lost here, bud?
+Dialogue: 0,0:04:24.99,0:04:27.41,Default,,0,0,0,,Someone must be looking for you.
+Dialogue: 0,0:04:32.29,0:04:34.29,Default,,0,0,0,,This guy was wandering around.
+Dialogue: 0,0:04:34.29,0:04:36.53,Default,,0,0,0,,{\i1}- Really... out on the platform?{\i0}\N- On the platform, yeah!
+Dialogue: 0,0:04:37.08,0:04:38.75,Default,,0,0,0,,{\i1}Good for you for finding him.{\i0}
+Dialogue: 0,0:04:38.75,0:04:41.46,Default,,0,0,0,,Yeah. Well...
+Dialogue: 0,0:04:41.46,0:04:43.61,Default,,0,0,0,,I tell you, this little crate\Nout there is broken.
+Dialogue: 0,0:04:43.61,0:04:45.76,Default,,0,0,0,,I don't know what's going on but,
+Dialogue: 0,0:04:47.09,0:04:48.97,Default,,0,0,0,,Hey, someone gonna be\Nhere for him, sorry.
+Dialogue: 0,0:04:48.97,0:04:50.74,Default,,0,0,0,,- Yeah.\N- You just hold him here.
+Dialogue: 0,0:04:50.74,0:04:52.51,Default,,0,0,0,,Please hold him till they comes.
+Dialogue: 0,0:04:52.51,0:04:53.97,Default,,0,0,0,,No, I can't... I can't do that.
+Dialogue: 0,0:04:53.97,0:04:56.18,Default,,0,0,0,,- I can't do that, Professor.\N- What?
+Dialogue: 0,0:04:56.27,0:04:59.40,Default,,0,0,0,,Well, he was here... No one was\Ngonna leave this dog, this...
+Dialogue: 0,0:04:59.40,0:05:01.27,Default,,0,0,0,,I... know, I know that. I know,\Nno one's gonna leave it there.
+Dialogue: 0,0:05:01.27,0:05:03.15,Default,,0,0,0,,They'll be back for it so...
+Dialogue: 0,0:05:03.15,0:05:05.03,Default,,0,0,0,,You take him with ya, and\Nwhen anyone show's up...
+Dialogue: 0,0:05:05.03,0:05:06.90,Default,,0,0,0,,I'll tell them that you've it.
+Dialogue: 0,0:05:06.90,0:05:08.36,Default,,0,0,0,,- Someone gonna be here.\N- Yeah.
+Dialogue: 0,0:05:08.36,0:05:09.82,Default,,0,0,0,,You know, you don't understand.
+Dialogue: 0,0:05:09.82,0:05:11.28,Default,,0,0,0,,Someone will come for him.\NReally, just...
+Dialogue: 0,0:05:11.28,0:05:14.20,Default,,0,0,0,,I'm gonna have to put this in here for\Nlike the whole night if nobody comes.
+Dialogue: 0,0:05:14.20,0:05:16.14,Default,,0,0,0,,If they're not here,\NI'll locked him in here and
+Dialogue: 0,0:05:16.14,0:05:18.08,Default,,0,0,0,,he'll be safe for the night but...
+Dialogue: 0,0:05:18.08,0:05:21.71,Default,,0,0,0,,I... I... all I can do is take him to\Nthe pound in the morning.
+Dialogue: 0,0:05:35.06,0:05:37.27,Default,,0,0,0,,Well, today's Friday.
+Dialogue: 0,0:05:37.27,0:05:43.11,Default,,0,0,0,,Know where you went...\NMeanwhile stay with me.
+Dialogue: 0,0:05:43.31,0:05:47.07,Default,,0,0,0,,In a warm house, plenty of company,\Nyou'll be alright.
+Dialogue: 0,0:05:47.07,0:05:50.28,Default,,0,0,0,,What? Yeah, you'll like it.
+Dialogue: 0,0:06:52.42,0:06:53.68,Default,,0,0,0,,Sh-sh-sh...
+Dialogue: 0,0:06:55.89,0:06:57.35,Default,,0,0,0,,Alright...
+Dialogue: 0,0:06:59.01,0:07:01.93,Default,,0,0,0,,Here, sit right here.
+Dialogue: 0,0:07:01.93,0:07:05.77,Default,,0,0,0,,Sit right there.\NOkay... yeah, here you go.
+Dialogue: 0,0:07:06.60,0:07:10.90,Default,,0,0,0,,Ok, come on. Stay, stay...\NIt's your house, it's okay.
+Dialogue: 0,0:07:17.03,0:07:18.41,Default,,0,0,0,,Hello, handsome.
+Dialogue: 0,0:07:18.41,0:07:20.49,Default,,0,0,0,,- Hi.\N- Hi.
+Dialogue: 0,0:07:20.49,0:07:22.58,Default,,0,0,0,,- How did it go?\N- It was great.
+Dialogue: 0,0:07:22.58,0:07:25.50,Default,,0,0,0,,- You good, you missed me?\N- Not a bit, and you?
+Dialogue: 0,0:07:25.50,0:07:28.08,Default,,0,0,0,,No, didn't think about you none.
+Dialogue: 0,0:07:30.80,0:07:33.09,Default,,0,0,0,,I've a little surprise.
+Dialogue: 0,0:07:33.92,0:07:37.13,Default,,0,0,0,,Yeah... well, I might have a little\Nsurprise for you too.
+Dialogue: 0,0:07:37.18,0:07:39.26,Default,,0,0,0,,Come on,\Nwe've some catching up to do.
+Dialogue: 0,0:07:39.27,0:07:40.27,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:07:42.39,0:07:44.35,Default,,0,0,0,,Catching up. Catch up!
+Dialogue: 0,0:07:59.78,0:08:01.87,Default,,0,0,0,,Do you hear something?
+Dialogue: 0,0:08:01.87,0:08:04.79,Default,,0,0,0,,That was a branch against\Nthe window.
+Dialogue: 0,0:08:53.50,0:08:55.67,Default,,0,0,0,,- Okay, okay... it's alright!\N- Parker!
+Dialogue: 0,0:08:55.67,0:08:57.26,Default,,0,0,0,,- We had an agreement!\N- I know, I know...
+Dialogue: 0,0:08:57.26,0:08:59.76,Default,,0,0,0,,- Or did you forget?\N- No, I didn't forget!
+Dialogue: 0,0:08:59.76,0:09:03.39,Default,,0,0,0,,No, he was at the train station.\NI mean, it just...
+Dialogue: 0,0:09:03.39,0:09:06.52,Default,,0,0,0,,Kind of lost. Carl was gonna send him\Nto the pound tomorrow and I thought...
+Dialogue: 0,0:09:06.52,0:09:09.64,Default,,0,0,0,,You just thought you bring him home\Nand talk me into keeping him, right?
+Dialogue: 0,0:09:09.64,0:09:12.06,Default,,0,0,0,,No, no, I don't want to keep him.\NI don't.
+Dialogue: 0,0:09:12.06,0:09:13.46,Default,,0,0,0,,Tomorrow morning I'm\Ngetting up early and find
+Dialogue: 0,0:09:13.46,0:09:14.86,Default,,0,0,0,,out exactly where he belongs,\Nokay. I promise.
+Dialogue: 0,0:09:14.86,0:09:16.94,Default,,0,0,0,,I promise you, I will do that.
+Dialogue: 0,0:09:18.19,0:09:20.70,Default,,0,0,0,,Alright, this was Lucas's stuff.
+Dialogue: 0,0:09:20.70,0:09:22.78,Default,,0,0,0,,Okay... okay.
+Dialogue: 0,0:09:22.78,0:09:24.99,Default,,0,0,0,,Okay, here we go. Get in there.
+Dialogue: 0,0:09:30.16,0:09:33.83,Default,,0,0,0,,Now look, a lot of good stuffs here.
+Dialogue: 0,0:09:33.96,0:09:36.54,Default,,0,0,0,,Keeps you warm, you get that.
+Dialogue: 0,0:09:38.55,0:09:40.30,Default,,0,0,0,,This is pretty cool.
+Dialogue: 0,0:09:40.34,0:09:43.68,Default,,0,0,0,,You like this?\NYep, this was Luke's favorite.
+Dialogue: 0,0:09:46.39,0:09:48.47,Default,,0,0,0,,Here's your water.
+Dialogue: 0,0:09:50.02,0:09:53.77,Default,,0,0,0,,Seems strange. You could tell, huh.\NCould ya?
+Dialogue: 0,0:09:55.77,0:09:57.32,Default,,0,0,0,,Okay, buddy.
+Dialogue: 0,0:10:02.90,0:10:04.32,Default,,0,0,0,,That's better.
+Dialogue: 0,0:10:06.07,0:10:07.53,Default,,0,0,0,,Good night, buddy.
+Dialogue: 0,0:10:18.92,0:10:21.51,Default,,0,0,0,,{\i1}You know, you're the one who's\Nshould be in the doghouse.{\i0}
+Dialogue: 0,0:10:21.84,0:10:24.63,Default,,0,0,0,,{\i1}I promise,\NI won't bite your finger.{\i0}
+Dialogue: 0,0:10:33.48,0:10:35.48,Default,,0,0,0,,Puppy, puppy!
+Dialogue: 0,0:10:35.48,0:10:38.40,Default,,0,0,0,,Here, hey... puppy.\NPuppy, puppy... come on.
+Dialogue: 0,0:10:38.40,0:10:42.69,Default,,0,0,0,,That's good... ohh.\NGood puppy.
+Dialogue: 0,0:10:43.86,0:10:46.03,Default,,0,0,0,,Dad, I love him.
+Dialogue: 0,0:10:46.91,0:10:48.12,Default,,0,0,0,,Does he have a name yet?
+Dialogue: 0,0:10:48.12,0:10:51.12,Default,,0,0,0,,Yes, he does. {\i1}Temporary guest!{\i0}
+Dialogue: 0,0:10:57.12,0:10:59.79,Default,,0,0,0,,You'll have to keep him.\NDon't the house
+Dialogue: 0,0:10:59.80,0:11:02.46,Default,,0,0,0,,feel so empty since Lucas been gone.
+Dialogue: 0,0:11:02.46,0:11:05.72,Default,,0,0,0,,Ask your mother.
+Dialogue: 0,0:11:05.72,0:11:07.18,Default,,0,0,0,,Mom!
+Dialogue: 0,0:11:07.18,0:11:08.09,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:11:08.09,0:11:09.76,Default,,0,0,0,,Could you come here, please?
+Dialogue: 0,0:11:12.06,0:11:13.93,Default,,0,0,0,,Look, he even likes your music.
+Dialogue: 0,0:11:13.93,0:11:16.54,Default,,0,0,0,,Really? I can't believe it,\Nhe's a wonder dog.
+Dialogue: 0,0:11:16.54,0:11:19.15,Default,,0,0,0,,I absolutely have to keep this.
+Dialogue: 0,0:11:19.15,0:11:22.40,Default,,0,0,0,,No more dog.\NDon't encourage him.
+Dialogue: 0,0:11:22.40,0:11:23.44,Default,,0,0,0,,I won't!
+Dialogue: 0,0:11:23.44,0:11:24.69,Default,,0,0,0,,You're so mean.
+Dialogue: 0,0:11:25.19,0:11:27.82,Default,,0,0,0,,Dad, he's gonna jump out\Nof it, here.
+Dialogue: 0,0:11:27.82,0:11:29.49,Default,,0,0,0,,Oh yeah, that's better.
+Dialogue: 0,0:11:33.24,0:11:34.91,Default,,0,0,0,,You know what, bud?
+Dialogue: 0,0:11:36.87,0:11:40.00,Default,,0,0,0,,Well, that's good.\NI like it, great!
+Dialogue: 0,0:11:40.63,0:11:42.71,Default,,0,0,0,,So, you saw Michael last night?
+Dialogue: 0,0:11:42.71,0:11:48.76,Default,,0,0,0,,Yeah, we drove over to the look-out.\NLooks common but it's beautiful.
+Dialogue: 0,0:11:48.76,0:11:50.84,Default,,0,0,0,,Very romantic.
+Dialogue: 0,0:11:50.84,0:11:52.51,Default,,0,0,0,,It was.
+Dialogue: 0,0:11:58.56,0:11:59.60,Default,,0,0,0,,Are you the...
+Dialogue: 0,0:11:59.60,0:12:00.65,Default,,0,0,0,,Can I help you, pop?
+Dialogue: 0,0:12:00.65,0:12:03.07,Default,,0,0,0,,Yeah... yeah, I just found this little\Ntyke at the station last night.
+Dialogue: 0,0:12:03.07,0:12:05.48,Default,,0,0,0,,Can you board him till\Nwe find his owner?
+Dialogue: 0,0:12:05.48,0:12:07.57,Default,,0,0,0,,Board him?\NWe can't board him.
+Dialogue: 0,0:12:07.57,0:12:09.66,Default,,0,0,0,,This isn't a boarding service,\Nit's a pound, pal!
+Dialogue: 0,0:12:11.53,0:12:14.45,Default,,0,0,0,,Look, I just found him,\Nwhat am I going to do with him?
+Dialogue: 0,0:12:16.58,0:12:18.29,Default,,0,0,0,,Listen...
+Dialogue: 0,0:12:20.50,0:12:23.42,Default,,0,0,0,,He's cute. That'll help with\Nthe adoption but...
+Dialogue: 0,0:12:24.42,0:12:26.55,Default,,0,0,0,,We give them two weeks.
+Dialogue: 0,0:12:28.42,0:12:30.09,Default,,0,0,0,,Two weeks?
+Dialogue: 0,0:12:30.09,0:12:32.59,Default,,0,0,0,,We're packed!
+Dialogue: 0,0:12:34.89,0:12:36.14,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:12:40.27,0:12:42.48,Default,,0,0,0,,I'll call you next week then,\Nalright... bye-bye.
+Dialogue: 0,0:12:42.48,0:12:45.32,Default,,0,0,0,,- Morning Mary Anne.\N- How are you doing, Parker?
+Dialogue: 0,0:12:45.32,0:12:48.94,Default,,0,0,0,,I'm doing great. I was wondering\Nif I could ask you for a favor?
+Dialogue: 0,0:12:48.94,0:12:50.40,Default,,0,0,0,,Sure... anything.
+Dialogue: 0,0:12:56.37,0:12:59.37,Default,,0,0,0,,Oh... look at this!
+Dialogue: 0,0:13:00.41,0:13:03.67,Default,,0,0,0,,Hey little one. Hello... hello.
+Dialogue: 0,0:13:03.67,0:13:06.88,Default,,0,0,0,,Oh... oh, he's gorgeous.\NWhere did you comes from?
+Dialogue: 0,0:13:06.88,0:13:08.96,Default,,0,0,0,,Well, he was wandering\Naround the station last night.
+Dialogue: 0,0:13:08.97,0:13:11.05,Default,,0,0,0,,- Hi, sweetheart.\N- I don't know, it's pretty strange.
+Dialogue: 0,0:13:11.05,0:13:13.84,Default,,0,0,0,,Really? He is adorable!
+Dialogue: 0,0:13:13.84,0:13:15.93,Default,,0,0,0,,I just want to put that up.
+Dialogue: 0,0:13:15.93,0:13:18.01,Default,,0,0,0,,- Okay, fine... fine!\N- Window? - Yep, and over there.
+Dialogue: 0,0:13:18.02,0:13:19.41,Default,,0,0,0,,And anyone of those.
+Dialogue: 0,0:13:19.68,0:13:22.81,Default,,0,0,0,,Parker, this dog is just fabulous!
+Dialogue: 0,0:13:22.81,0:13:24.69,Default,,0,0,0,,You wouldn't be interested, would you?
+Dialogue: 0,0:13:24.69,0:13:26.56,Default,,0,0,0,,What, the puppy?
+Dialogue: 0,0:13:26.56,0:13:28.23,Default,,0,0,0,,Fine young puppy like that.
+Dialogue: 0,0:13:28.23,0:13:31.07,Default,,0,0,0,,What do you think, Anthonio?\NNew room-mate?
+Dialogue: 0,0:13:31.69,0:13:33.57,Default,,0,0,0,,Oh no, Anthonio!
+Dialogue: 0,0:13:36.57,0:13:38.66,Default,,0,0,0,,Sit quietly.
+Dialogue: 0,0:13:49.09,0:13:51.09,Default,,0,0,0,,Good morning, Mr. Professor.
+Dialogue: 0,0:13:51.09,0:13:52.13,Default,,0,0,0,,Jess!
+Dialogue: 0,0:13:52.13,0:13:53.70,Default,,0,0,0,,Sugar, 2 creams coming up.
+Dialogue: 0,0:13:53.70,0:13:55.26,Default,,0,0,0,,- Er-huh.\N- Hey, what've you got there?
+Dialogue: 0,0:13:55.26,0:13:57.76,Default,,0,0,0,,A new friend here, you want a dog?
+Dialogue: 0,0:13:57.76,0:13:59.51,Default,,0,0,0,,I prefer cash.
+Dialogue: 0,0:13:59.51,0:14:02.02,Default,,0,0,0,,It'll be a great guard dog for ya.\NLook at it.
+Dialogue: 0,0:14:02.02,0:14:06.40,Default,,0,0,0,,Guard dog to guard the hot-dogs?\NI don't think so.
+Dialogue: 0,0:14:06.40,0:14:08.19,Default,,0,0,0,,Ha-ha, I don't think so either.
+Dialogue: 0,0:14:08.19,0:14:11.82,Default,,0,0,0,,- Sorry about that.\N- Why you want a dog, eh?
+Dialogue: 0,0:14:11.86,0:14:13.95,Default,,0,0,0,,Everyday you'll have to walk him,
+Dialogue: 0,0:14:13.95,0:14:16.03,Default,,0,0,0,,feed him, clean him,\Npick up the food...
+Dialogue: 0,0:14:16.03,0:14:17.49,Default,,0,0,0,,How many of these gonna help him?
+Dialogue: 0,0:14:17.57,0:14:19.66,Default,,0,0,0,,On the house.
+Dialogue: 0,0:14:19.66,0:14:21.04,Default,,0,0,0,,Why trouble?
+Dialogue: 0,0:14:21.04,0:14:23.12,Default,,0,0,0,,Yeah, you're right.\NThank you, Jess.
+Dialogue: 0,0:14:23.12,0:14:24.16,Default,,0,0,0,,My pleasure.
+Dialogue: 0,0:14:25.58,0:14:26.87,Default,,0,0,0,,Hey, any news?
+Dialogue: 0,0:14:26.87,0:14:29.21,Default,,0,0,0,,No, nobody came, nobody show up,\Nnobody call.
+Dialogue: 0,0:14:29.25,0:14:30.71,Default,,0,0,0,,Nobody?
+Dialogue: 0,0:14:31.84,0:14:33.92,Default,,0,0,0,,Strange, really strange.
+Dialogue: 0,0:14:35.59,0:14:36.97,Default,,0,0,0,,Just one second.
+Dialogue: 0,0:14:37.05,0:14:42.26,Default,,0,0,0,,Cate made up some flyers.\NPut that up for me.
+Dialogue: 0,0:14:42.81,0:14:44.27,Default,,0,0,0,,Come on!
+Dialogue: 0,0:14:44.98,0:14:46.44,Default,,0,0,0,,Alright, I'll put them up for you.
+Dialogue: 0,0:14:46.44,0:14:47.90,Default,,0,0,0,,What a samaritan you are.
+Dialogue: 0,0:14:47.90,0:14:48.94,Default,,0,0,0,,I know... I know.
+Dialogue: 0,0:14:50.61,0:14:52.69,Default,,0,0,0,,He really likes being in the bag.
+Dialogue: 0,0:14:53.82,0:14:55.94,Default,,0,0,0,,Professor, no dog's on the train.
+Dialogue: 0,0:14:56.24,0:14:58.53,Default,,0,0,0,,- No dog's on the train\N- Right!
+Dialogue: 0,0:16:01.93,0:16:04.22,Default,,0,0,0,,Okay, hold on a second.\NLet me show you something.
+Dialogue: 0,0:16:04.22,0:16:06.16,Default,,0,0,0,,We skipped the...\Nrepeated the first section,
+Dialogue: 0,0:16:06.16,0:16:08.10,Default,,0,0,0,,go directly to the lyrical section.
+Dialogue: 0,0:16:08.10,0:16:09.14,Default,,0,0,0,,Let's try that.
+Dialogue: 0,0:16:09.14,0:16:10.19,Default,,0,0,0,,Okay.
+Dialogue: 0,0:16:10.19,0:16:12.56,Default,,0,0,0,,It just mean you've got to\Nbuild up quicker.
+Dialogue: 0,0:16:12.56,0:16:15.00,Default,,0,0,0,,And then when you, when we\Nget to the lyrical section, just...
+Dialogue: 0,0:16:15.40,0:16:17.48,Default,,0,0,0,,Deep breath, deep breath.
+Dialogue: 0,0:16:49.81,0:16:51.06,Default,,0,0,0,,Hello.
+Dialogue: 0,0:17:00.94,0:17:02.32,Default,,0,0,0,,That's great.
+Dialogue: 0,0:17:05.62,0:17:09.61,Default,,0,0,0,,Do you want a puppy?\NYou want a puppy
+Dialogue: 0,0:17:12.04,0:17:14.62,Default,,0,0,0,,- Well, let's go again.\N- Yes, from the start.
+Dialogue: 0,0:17:17.04,0:17:18.92,Default,,0,0,0,,This was the only thing\Nleft on the crate.
+Dialogue: 0,0:17:18.92,0:17:22.13,Default,,0,0,0,,{\i1}Yamanashi,{\i0} it's all I can read.
+Dialogue: 0,0:17:22.13,0:17:25.18,Default,,0,0,0,,- Where is that?\N- It's a part of central Japan.
+Dialogue: 0,0:17:27.47,0:17:29.85,Default,,0,0,0,,- No ordinary dog, Parker.\N- I know.
+Dialogue: 0,0:17:29.85,0:17:33.52,Default,,0,0,0,,It's a Akita. Akita, as you say.
+Dialogue: 0,0:17:33.52,0:17:36.23,Default,,0,0,0,,- A very special breed.\N- Yeah?
+Dialogue: 0,0:17:39.77,0:17:41.73,Default,,0,0,0,,- And what's that?\N- Hachi.
+Dialogue: 0,0:17:41.73,0:17:44.99,Default,,0,0,0,,- What? - Japanese, for 8,\Na number of good fortune.
+Dialogue: 0,0:17:44.99,0:17:48.82,Default,,0,0,0,,Good fortune, very nice.
+Dialogue: 0,0:17:49.37,0:17:53.20,Default,,0,0,0,,Hachi... Hachi, it's good name.\NI like that.
+Dialogue: 0,0:17:53.20,0:17:55.29,Default,,0,0,0,,He might have been born\Nthe eighth in the litter.
+Dialogue: 0,0:17:55.29,0:17:59.79,Default,,0,0,0,,Spiritual significant in a 8, reaches\Nup to heaven comes down to earth.
+Dialogue: 0,0:18:02.50,0:18:05.01,Default,,0,0,0,,So, will you take him?\NYou want him?
+Dialogue: 0,0:18:05.01,0:18:08.89,Default,,0,0,0,,Me? No, I think he made his choice.
+Dialogue: 0,0:18:08.89,0:18:10.97,Default,,0,0,0,,Meaning what?
+Dialogue: 0,0:18:10.97,0:18:14.22,Default,,0,0,0,,Well, meaning he's your problem,\Nnot mine brother.
+Dialogue: 0,0:18:15.27,0:18:16.94,Default,,0,0,0,,You are not a problem, right?
+Dialogue: 0,0:18:16.94,0:18:23.28,Default,,0,0,0,,Well, wether you found\Nhim or he found you,
+Dialogue: 0,0:18:23.28,0:18:27.03,Default,,0,0,0,,who's to say. It's meant to be.
+Dialogue: 0,0:18:27.82,0:18:32.24,Default,,0,0,0,,It's also said that the {\i1}Shoguns{\i0} breed\Nthese Akita for combat and hunting.
+Dialogue: 0,0:18:32.24,0:18:36.75,Default,,0,0,0,,I guess in a way,\Nthey're a kind of dog royalty.
+Dialogue: 0,0:18:38.62,0:18:41.96,Default,,0,0,0,,Did Ken give you any ideas where\Nyou can find this royal dog a home?
+Dialogue: 0,0:18:44.30,0:18:49.97,Default,,0,0,0,,I put up 10 flyers already. You\Nknow, someone gonna claim Hachi.
+Dialogue: 0,0:18:50.97,0:18:52.10,Default,,0,0,0,,Who's Hachi?
+Dialogue: 0,0:18:52.10,0:18:56.89,Default,,0,0,0,,This... It was what on his collar,\Nthere's this symbol.
+Dialogue: 0,0:18:56.89,0:18:58.56,Default,,0,0,0,,You named him?
+Dialogue: 0,0:18:58.56,0:18:59.81,Default,,0,0,0,,- No, I didn't...\N- Parker, do you wanna keep...
+Dialogue: 0,0:18:59.81,0:19:01.60,Default,,0,0,0,,- keep him?\N- No, I do have...
+Dialogue: 0,0:19:01.60,0:19:03.90,Default,,0,0,0,,I don't want to keep him.\NI just...
+Dialogue: 0,0:19:03.90,0:19:05.65,Default,,0,0,0,,Admit it! You do....\Nyou want to keep it.
+Dialogue: 0,0:19:05.65,0:19:07.74,Default,,0,0,0,,- I wasn't even thinking about it.\N- Yes!
+Dialogue: 0,0:19:08.78,0:19:10.16,Default,,0,0,0,,Hachi?
+Dialogue: 0,0:19:12.45,0:19:13.78,Default,,0,0,0,,Where did you go?
+Dialogue: 0,0:19:16.70,0:19:18.29,Default,,0,0,0,,Oh no...
+Dialogue: 0,0:19:19.33,0:19:22.67,Default,,0,0,0,,Oh god... Parker,\Nthat's months of hard work.
+Dialogue: 0,0:19:22.67,0:19:23.50,Default,,0,0,0,,I'm sorry... I'm sorry.
+Dialogue: 0,0:19:23.50,0:19:25.21,Default,,0,0,0,,I want him to stay out\Nthere all night long.
+Dialogue: 0,0:19:25.21,0:19:26.07,Default,,0,0,0,,Do not let him get back in here,\Nyou hear me?
+Dialogue: 0,0:19:26.07,0:19:26.92,Default,,0,0,0,,Yes... yes, I hear you.
+Dialogue: 0,0:19:26.92,0:19:28.51,Default,,0,0,0,,- End of discussion!\N- I hear you!
+Dialogue: 0,0:19:28.51,0:19:31.63,Default,,0,0,0,,I hear you.\NI heard you alright now.
+Dialogue: 0,0:19:38.81,0:19:42.15,Default,,0,0,0,,{\i1}- It's two months of work!\N- Believe me, I'm sorry.{\i0}
+Dialogue: 0,0:19:42.15,0:19:44.65,Default,,0,0,0,,{\i1}The work is important not only for me,\Nit is important for the city!{\i0}
+Dialogue: 0,0:19:44.65,0:19:45.69,Default,,0,0,0,,{\i1}For...{\i0}
+Dialogue: 0,0:19:45.69,0:19:47.98,Default,,0,0,0,,{\i1}4 months of work.{\i0}
+Dialogue: 0,0:19:48.03,0:19:52.61,Default,,0,0,0,,{\i1}No, you do not care what I do.\NYes, you just spit on it!{\i0}
+Dialogue: 0,0:19:52.61,0:19:54.57,Default,,0,0,0,,{\i1}Cate, that's not true.{\i0}
+Dialogue: 0,0:19:54.57,0:19:56.45,Default,,0,0,0,,{\i1}Calm down!{\i0}
+Dialogue: 0,0:20:06.79,0:20:08.05,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:20:10.13,0:20:13.05,Default,,0,0,0,,Come on, buddy. Come on.
+Dialogue: 0,0:20:13.47,0:20:15.64,Default,,0,0,0,,Yeah, come on inside.
+Dialogue: 0,0:20:16.47,0:20:18.47,Default,,0,0,0,,And I'll take these too.
+Dialogue: 0,0:20:33.49,0:20:34.95,Default,,0,0,0,,Okay...
+Dialogue: 0,0:20:35.66,0:20:38.28,Default,,0,0,0,,found you here.
+Dialogue: 0,0:20:39.83,0:20:43.08,Default,,0,0,0,,Yeah, here you are.
+Dialogue: 0,0:20:44.50,0:20:49.42,Default,,0,0,0,,Your blood line goes back at least\N4000 years, maybe much more.
+Dialogue: 0,0:20:50.25,0:20:53.67,Default,,0,0,0,,Yeah?\NWhat else we've got here?
+Dialogue: 0,0:21:00.14,0:21:01.52,Default,,0,0,0,,Look at that.
+Dialogue: 0,0:21:01.52,0:21:09.52,Default,,0,0,0,,It's said the first partnership\Nbetween man and animal is with you.
+Dialogue: 0,0:21:10.48,0:21:13.07,Default,,0,0,0,,Do you knew about that?\NYou knew that already?
+Dialogue: 0,0:21:13.07,0:21:15.49,Default,,0,0,0,,You did, didn't you?\NYeah, you did.
+Dialogue: 0,0:21:16.95,0:21:19.12,Default,,0,0,0,,There you are.
+Dialogue: 0,0:21:21.33,0:21:23.62,Default,,0,0,0,,Let's see, settle you down now.
+Dialogue: 0,0:21:28.21,0:21:30.17,Default,,0,0,0,,This isn't too bad.
+Dialogue: 0,0:21:31.13,0:21:34.26,Default,,0,0,0,,Alright, stay there.\NStay there now, okay.
+Dialogue: 0,0:21:44.77,0:21:47.39,Default,,0,0,0,,Sit quietly. Now...
+Dialogue: 0,0:21:50.52,0:21:54.28,Default,,0,0,0,,{\i1}no idea that Stan was inside,\Nso they... lean out there.{\i0}
+Dialogue: 0,0:21:54.28,0:21:55.84,Default,,0,0,0,,{\i1}Out there and shoot the\Nball into the right field,{\i0}
+Dialogue: 0,0:21:55.84,0:21:57.40,Default,,0,0,0,,{\i1}which's what they did in game 2.{\i0}
+Dialogue: 0,0:22:01.99,0:22:03.74,Default,,0,0,0,,All right there,\Njust step a little bit closer.
+Dialogue: 0,0:22:03.74,0:22:06.25,Default,,0,0,0,,{\i1}Bad. Still one point in the lead{\i0}
+Dialogue: 0,0:22:12.71,0:22:14.09,Default,,0,0,0,,Catch!
+Dialogue: 0,0:22:14.09,0:22:16.80,Default,,0,0,0,,Come on.
+Dialogue: 0,0:22:50.87,0:22:52.96,Default,,0,0,0,,Forgive me, please.
+Dialogue: 0,0:22:52.96,0:22:55.04,Default,,0,0,0,,Don't move...
+Dialogue: 0,0:22:55.04,0:22:57.67,Default,,0,0,0,,- I was just coming up.\N- Yeah, yeah... sure.
+Dialogue: 0,0:23:02.89,0:23:06.43,Default,,0,0,0,,Just one night.\NOne night only, okay?
+Dialogue: 0,0:23:06.43,0:23:08.22,Default,,0,0,0,,Be a good boy.
+Dialogue: 0,0:23:09.56,0:23:12.40,Default,,0,0,0,,Stay there, alright. You will be fine.
+Dialogue: 0,0:23:16.02,0:23:20.19,Default,,0,0,0,,I can't believe it.\NHe loves the {\i1}Yankees.{\i0}
+Dialogue: 0,0:23:20.19,0:23:21.65,Default,,0,0,0,,No.
+Dialogue: 0,0:23:21.65,0:23:23.95,Default,,0,0,0,,- Yeah, honestly.\N- Really?
+Dialogue: 0,0:23:23.95,0:23:26.37,Default,,0,0,0,,Oh, this is gonna be fun.
+Dialogue: 0,0:23:26.37,0:23:28.45,Default,,0,0,0,,Alright... Hachi,\Nthis is what we gonna do.
+Dialogue: 0,0:23:28.45,0:23:30.75,Default,,0,0,0,,This is ball. Ball.
+Dialogue: 0,0:23:30.75,0:23:33.87,Default,,0,0,0,,Throw, you go get it.\NYou bring it back, okay?
+Dialogue: 0,0:23:33.87,0:23:35.75,Default,,0,0,0,,Okay, you ready?
+Dialogue: 0,0:23:35.75,0:23:38.67,Default,,0,0,0,,Go get it! Go get it!
+Dialogue: 0,0:23:40.42,0:23:41.88,Default,,0,0,0,,No, no, no, the ball.
+Dialogue: 0,0:23:41.88,0:23:45.14,Default,,0,0,0,,Hachi, Hachi! Hachi...\NHey, Hachi!
+Dialogue: 0,0:23:45.98,0:23:46.98,Default,,0,0,0,,Hachi...
+Dialogue: 0,0:23:47.39,0:23:50.14,Default,,0,0,0,,I'll throw it, you bring it, okay?\NGood!
+Dialogue: 0,0:23:52.02,0:23:53.02,Default,,0,0,0,,Go get it!
+Dialogue: 0,0:23:55.77,0:23:58.07,Default,,0,0,0,,Hachi, no, no, no.\NGet the ball!
+Dialogue: 0,0:23:59.53,0:24:01.69,Default,,0,0,0,,Hachi, come here.\NHachi, come here!
+Dialogue: 0,0:24:02.65,0:24:06.28,Default,,0,0,0,,Go get it. Wait... wait.\NHachi... Hachi.
+Dialogue: 0,0:24:06.28,0:24:09.74,Default,,0,0,0,,Come on, this ball.\NSee this ball, come here.
+Dialogue: 0,0:24:09.74,0:24:13.91,Default,,0,0,0,,Come here, Hachi. Hachi, come here.\NYou can do this. I know you can.
+Dialogue: 0,0:24:14.46,0:24:16.54,Default,,0,0,0,,I just think that you're being\Na little tough about that dog.
+Dialogue: 0,0:24:16.54,0:24:19.55,Default,,0,0,0,,That dog's in a fix and dad just\Ntrying to do the right thing.
+Dialogue: 0,0:24:20.88,0:24:22.88,Default,,0,0,0,,{\i1}Okay, let's see.{\i0}
+Dialogue: 0,0:24:22.88,0:24:23.88,Default,,0,0,0,,Mom!
+Dialogue: 0,0:24:25.63,0:24:28.43,Default,,0,0,0,,{\i1}Ball, ball, ball, ball!\NGet the ball!{\i0}
+Dialogue: 0,0:24:28.43,0:24:30.18,Default,,0,0,0,,Hey, come on.
+Dialogue: 0,0:24:34.48,0:24:35.81,Default,,0,0,0,,He has lost it.
+Dialogue: 0,0:24:39.73,0:24:41.02,Default,,0,0,0,,Hello?
+Dialogue: 0,0:24:41.86,0:24:45.11,Default,,0,0,0,,Oh, the puppy flyer, yes?\NAre you the dog's owner?
+Dialogue: 0,0:24:47.82,0:24:50.22,Default,,0,0,0,,No, no one comes forward yet.
+Dialogue: 0,0:24:50.22,0:24:52.62,Default,,0,0,0,,We just want to make sure\Nthe dog has a good home.
+Dialogue: 0,0:24:54.33,0:24:56.08,Default,,0,0,0,,Could I get your number?
+Dialogue: 0,0:24:56.08,0:24:57.83,Default,,0,0,0,,I'm sure my husband\Nwould want to call you.
+Dialogue: 0,0:24:58.54,0:25:01.04,Default,,0,0,0,,One second, I need to find a pen,\Nhold on.
+Dialogue: 0,0:25:26.65,0:25:28.15,Default,,0,0,0,,Hello.
+Dialogue: 0,0:25:30.82,0:25:33.16,Default,,0,0,0,,The dog's already been taken.
+Dialogue: 0,0:25:36.83,0:25:39.17,Default,,0,0,0,,I'm really sorry.
+Dialogue: 0,0:26:06.90,0:26:08.78,Default,,0,0,0,,Ow! No, no, no, Hachi!
+Dialogue: 0,0:26:08.78,0:26:10.86,Default,,0,0,0,,Hachi Hachi Hachi Hachi!
+Dialogue: 0,0:26:12.53,0:26:15.24,Default,,0,0,0,,Come on! Take it in. Take it in!
+Dialogue: 0,0:26:15.24,0:26:19.12,Default,,0,0,0,,No, you can't go. Can't go.\NGotta work.
+Dialogue: 0,0:26:19.12,0:26:21.42,Default,,0,0,0,,See you back here tonight, bye.
+Dialogue: 0,0:26:57.99,0:27:00.83,Default,,0,0,0,,Good morning, Professor.\NYou are late today.
+Dialogue: 0,0:27:00.83,0:27:04.17,Default,,0,0,0,,- I'm already working.\N- One sugar, two creams.
+Dialogue: 0,0:27:04.17,0:27:10.30,Default,,0,0,0,,{\i1}Last call for Amtrak Express. Final\Nboarding call for Amtrak Express.{\i0}
+Dialogue: 0,0:27:23.77,0:27:25.23,Default,,0,0,0,,Excuse me! Excuse me!
+Dialogue: 0,0:27:26.27,0:27:29.07,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:27:30.86,0:27:34.82,Default,,0,0,0,,What're you doing here? What are\Nyou doing? What're you doing.
+Dialogue: 0,0:27:34.82,0:27:37.32,Default,,0,0,0,,You gotta go home, okay.\NGo... No!
+Dialogue: 0,0:27:37.32,0:27:39.08,Default,,0,0,0,,Yes, I know. Go, go home,\Ngo on.
+Dialogue: 0,0:27:39.08,0:27:42.83,Default,,0,0,0,,Go home! Go on!\NI gotta get on the train. Go... go!
+Dialogue: 0,0:27:42.83,0:27:44.75,Default,,0,0,0,,Okay, come on... gotta go.\NCome on!
+Dialogue: 0,0:27:44.75,0:27:46.92,Default,,0,0,0,,Ho-oh... Professor, you want\Nme to hold him?
+Dialogue: 0,0:27:46.92,0:27:47.96,Default,,0,0,0,,Yeah... could you?
+Dialogue: 0,0:27:47.96,0:27:49.00,Default,,0,0,0,,{\i1}30 seconds.{\i0}
+Dialogue: 0,0:27:49.00,0:27:50.05,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:27:52.13,0:27:54.97,Default,,0,0,0,,Go home... go home, okay.\NGo... go on, gotta go home.
+Dialogue: 0,0:27:54.97,0:27:56.01,Default,,0,0,0,,Go home.
+Dialogue: 0,0:27:56.01,0:27:57.81,Default,,0,0,0,,Hey Chuck, hold that up for\Na moment, alright.
+Dialogue: 0,0:27:57.97,0:28:02.68,Default,,0,0,0,,Go home! Go home!\NGo, go, go, go... go on home.
+Dialogue: 0,0:28:05.48,0:28:07.06,Default,,0,0,0,,You really got him train, doesn't it?
+Dialogue: 0,0:28:07.06,0:28:08.61,Default,,0,0,0,,Good boy!
+Dialogue: 0,0:28:10.40,0:28:11.94,Default,,0,0,0,,{\i1}Er... professor.{\i0}
+Dialogue: 0,0:28:12.98,0:28:14.36,Default,,0,0,0,,Oh, no.
+Dialogue: 0,0:28:14.99,0:28:16.66,Default,,0,0,0,,Okay.
+Dialogue: 0,0:28:18.74,0:28:21.74,Default,,0,0,0,,- Okay, thanks. Yeah, yeah.\N- Are you sure?
+Dialogue: 0,0:28:21.74,0:28:23.83,Default,,0,0,0,,- Alright, let her go.\N- Let her go!
+Dialogue: 0,0:28:25.00,0:28:26.54,Default,,0,0,0,,You want me to call you a cab?
+Dialogue: 0,0:28:26.54,0:28:30.09,Default,,0,0,0,,No, I'll walk him home.\NIt's all right.
+Dialogue: 0,0:28:39.80,0:28:40.93,Default,,0,0,0,,Oh, God.
+Dialogue: 0,0:28:46.56,0:28:49.69,Default,,0,0,0,,Parker? I thought you left for work.
+Dialogue: 0,0:28:49.69,0:28:52.32,Default,,0,0,0,,- I didn't go.\N- You're gardening now?
+Dialogue: 0,0:28:52.32,0:28:54.40,Default,,0,0,0,,He ran out, missed the train.
+Dialogue: 0,0:28:55.61,0:28:58.07,Default,,0,0,0,,Don't say it.\NI know what you're going to say.
+Dialogue: 0,0:28:58.07,0:28:59.68,Default,,0,0,0,,No, let me do this.\NYou're gonna get filthy.
+Dialogue: 0,0:28:59.68,0:29:01.28,Default,,0,0,0,,I'll fill it, get the next train.
+Dialogue: 0,0:29:01.28,0:29:03.53,Default,,0,0,0,,- Okay.\N- Thanks!
+Dialogue: 0,0:29:06.04,0:29:08.87,Default,,0,0,0,,And you - you stay.
+Dialogue: 0,0:29:08.87,0:29:11.04,Default,,0,0,0,,- He will.\N- See you tonight.
+Dialogue: 0,0:29:58.17,0:29:59.63,Default,,0,0,0,,Here's your treat!
+Dialogue: 0,0:29:59.63,0:30:01.51,Default,,0,0,0,,Here's your treat!
+Dialogue: 0,0:30:04.85,0:30:09.56,Default,,0,0,0,,Alright, okay... just one more.\NJust one more, that's it.
+Dialogue: 0,0:30:09.56,0:30:10.60,Default,,0,0,0,,Hold on! Hold on!
+Dialogue: 0,0:30:14.23,0:30:19.15,Default,,0,0,0,,Well... you're okay?
+Dialogue: 0,0:30:19.15,0:30:23.32,Default,,0,0,0,,Alright, alright... this's the last.
+Dialogue: 0,0:30:23.32,0:30:26.95,Default,,0,0,0,,Here you go. Good boy, Hachi!
+Dialogue: 0,0:30:34.79,0:30:37.17,Default,,0,0,0,,Okay, one last one.
+Dialogue: 0,0:30:38.55,0:30:40.92,Default,,0,0,0,,Take it.
+Dialogue: 0,0:30:58.23,0:31:01.07,Default,,0,0,0,,That's great... that's really great\Neverybody. I'm proud of ya.
+Dialogue: 0,0:31:01.69,0:31:04.61,Default,,0,0,0,,{\i1}- Finally.\N- And the ending to be repeated.{\i0}
+Dialogue: 0,0:31:04.61,0:31:06.70,Default,,0,0,0,,- Sorry, I'm running late.\N- No problem.
+Dialogue: 0,0:31:06.70,0:31:08.87,Default,,0,0,0,,- Off the hook?\N{\i1}- Yeah!{\i0}
+Dialogue: 0,0:31:08.87,0:31:09.91,Default,,0,0,0,,Good, thank you.
+Dialogue: 0,0:31:45.90,0:31:49.74,Default,,0,0,0,,Hey, Hachi!\NWhat are you doing here?
+Dialogue: 0,0:31:49.74,0:31:51.62,Default,,0,0,0,,{\i1}Sugar in your drink.{\i0}
+Dialogue: 0,0:32:23.02,0:32:24.69,Default,,0,0,0,,- Chuck.\N- Good bye.
+Dialogue: 0,0:32:36.29,0:32:38.37,Default,,0,0,0,,Hey... hey Hachi.
+Dialogue: 0,0:32:40.96,0:32:42.50,Default,,0,0,0,,What're you doing here?
+Dialogue: 0,0:32:42.50,0:32:44.59,Default,,0,0,0,,Bedridge Station!
+Dialogue: 0,0:32:47.01,0:32:50.13,Default,,0,0,0,,Yes, yes, ma'am,\Nwe've got one at 7:30.
+Dialogue: 0,0:32:53.05,0:32:55.14,Default,,0,0,0,,He's been here all day?
+Dialogue: 0,0:32:55.14,0:32:57.22,Default,,0,0,0,,No... no, he's just rode up 2 minutes\Nago. He went right there.
+Dialogue: 0,0:32:57.22,0:32:59.60,Default,,0,0,0,,You're kidding. You seen Cate?
+Dialogue: 0,0:33:00.02,0:33:01.40,Default,,0,0,0,,I haven't seen her.
+Dialogue: 0,0:33:01.40,0:33:03.69,Default,,0,0,0,,Okay.
+Dialogue: 0,0:33:03.69,0:33:06.90,Default,,0,0,0,,Ok... come on.\NGuess we'll go home.
+Dialogue: 0,0:33:08.49,0:33:10.99,Default,,0,0,0,,That son of a gun.
+Dialogue: 0,0:33:10.99,0:33:16.70,Default,,0,0,0,,Come on, come on, boy.\NCome on... come on.
+Dialogue: 0,0:33:19.20,0:33:20.25,Default,,0,0,0,,Mom!
+Dialogue: 0,0:33:20.25,0:33:22.33,Default,,0,0,0,,Yeah sweetie, I'm in here.
+Dialogue: 0,0:33:23.38,0:33:25.59,Default,,0,0,0,,- Hey... hi!\N- Hi!
+Dialogue: 0,0:33:25.59,0:33:27.25,Default,,0,0,0,,- I got the chips.\N- Oh, thanks.
+Dialogue: 0,0:33:27.25,0:33:28.80,Default,,0,0,0,,Hi... Mrs. Wilson, good to see you.
+Dialogue: 0,0:33:28.80,0:33:30.88,Default,,0,0,0,,Oh, Michael, nice to see you!\NCall me Cate.
+Dialogue: 0,0:33:30.88,0:33:32.93,Default,,0,0,0,,Ok. Thank you... thank you.
+Dialogue: 0,0:33:33.39,0:33:34.64,Default,,0,0,0,,Everything looks delicious.
+Dialogue: 0,0:33:35.39,0:33:36.93,Default,,0,0,0,,- It's a great spread.\N- Why don't you take this to dad?
+Dialogue: 0,0:33:36.93,0:33:38.52,Default,,0,0,0,,- You sure?\N- Yeah, he's out back.
+Dialogue: 0,0:33:38.52,0:33:40.06,Default,,0,0,0,,Okay, the grill's ready?
+Dialogue: 0,0:33:40.06,0:33:42.27,Default,,0,0,0,,It's getting there, yeah.\NYeah, nice to see you.
+Dialogue: 0,0:33:42.27,0:33:43.31,Default,,0,0,0,,Nice to meet you.
+Dialogue: 0,0:33:43.31,0:33:45.59,Default,,0,0,0,,- Cut? And where is...\N- Yeah, that would be great, honey.
+Dialogue: 0,0:33:47.36,0:33:51.03,Default,,0,0,0,,You know, I actually took\Nthe dialog when I was a kid.
+Dialogue: 0,0:33:51.03,0:33:52.07,Default,,0,0,0,,You do?
+Dialogue: 0,0:33:52.07,0:33:54.87,Default,,0,0,0,,Yeah, when I was nine\Nor ten years old.
+Dialogue: 0,0:33:54.87,0:33:58.33,Default,,0,0,0,,I had to stop because my brother\Nslammed my fingers in the car door.
+Dialogue: 0,0:33:59.66,0:34:01.75,Default,,0,0,0,,I mean he always said that\Nit was an accident but
+Dialogue: 0,0:34:01.75,0:34:03.83,Default,,0,0,0,,after that, I don't know...\NI stopped practising.
+Dialogue: 0,0:34:03.83,0:34:07.38,Default,,0,0,0,,I wish I didn't though cause\NI really loved music,
+Dialogue: 0,0:34:07.38,0:34:11.88,Default,,0,0,0,,and I've so much respect for\Nmusicians and people playing...
+Dialogue: 0,0:34:11.88,0:34:14.26,Default,,0,0,0,,Michael, do you love my daughter?
+Dialogue: 0,0:34:16.55,0:34:18.85,Default,,0,0,0,,Yes, sir... Yes, I do.
+Dialogue: 0,0:34:18.85,0:34:21.45,Default,,0,0,0,,You know... that's good.\NCause that's what
+Dialogue: 0,0:34:21.46,0:34:24.06,Default,,0,0,0,,you want to remember\Non a bad days.
+Dialogue: 0,0:34:25.94,0:34:27.81,Default,,0,0,0,,Right.
+Dialogue: 0,0:34:29.69,0:34:33.36,Default,,0,0,0,,Hachi, this is Michael.\N{\i1}Michael, Hachi.{\i0}
+Dialogue: 0,0:34:33.36,0:34:35.11,Default,,0,0,0,,Pleased to meet you.
+Dialogue: 0,0:34:39.49,0:34:42.41,Default,,0,0,0,,Hachi, hey... you wanna play\Na little catch, huh?
+Dialogue: 0,0:34:42.41,0:34:45.25,Default,,0,0,0,,Yeah... ready?\NOkay, go get the ball.
+Dialogue: 0,0:34:45.25,0:34:49.21,Default,,0,0,0,,Go get it... there it is.\NGo get the ball, right there.
+Dialogue: 0,0:34:49.21,0:34:53.88,Default,,0,0,0,,Go Hachi, go get it.\NGo... go get the ball.
+Dialogue: 0,0:34:54.72,0:34:56.70,Default,,0,0,0,,Go get it.
+Dialogue: 0,0:34:56.70,0:34:57.69,Default,,0,0,0,,Micheal, you want to get\Nthat ball back,
+Dialogue: 0,0:34:57.69,0:34:58.68,Default,,0,0,0,,you gonna have to get it yourself.\NHachi doesn't fetch.
+Dialogue: 0,0:34:58.68,0:35:00.89,Default,,0,0,0,,He doesn't do it!?
+Dialogue: 0,0:35:03.39,0:35:04.43,Default,,0,0,0,,Okay!
+Dialogue: 0,0:35:06.19,0:35:07.56,Default,,0,0,0,,Are you alright... are you okay?
+Dialogue: 0,0:35:07.56,0:35:08.60,Default,,0,0,0,,- All is good.\N- Honey, are you okay?
+Dialogue: 0,0:35:08.60,0:35:09.65,Default,,0,0,0,,Honey, are you okay?
+Dialogue: 0,0:35:09.65,0:35:10.69,Default,,0,0,0,,Keep playing.
+Dialogue: 0,0:35:10.69,0:35:11.73,Default,,0,0,0,,- Totally, I'm gonna get the ball.\N- Are you sure?
+Dialogue: 0,0:35:11.73,0:35:12.78,Default,,0,0,0,,Okay!
+Dialogue: 0,0:35:12.78,0:35:15.99,Default,,0,0,0,,I'm good. Look at that.
+Dialogue: 0,0:35:15.99,0:35:18.70,Default,,0,0,0,,- Everything okay?\N- Don't let me distrupt the game.
+Dialogue: 0,0:35:18.70,0:35:19.74,Default,,0,0,0,,- Okay.\N- Okay.
+Dialogue: 0,0:35:23.20,0:35:26.62,Default,,0,0,0,,Look, I'll throw the ball,\Njust one foot. Go get it, okay?
+Dialogue: 0,0:35:26.62,0:35:29.96,Default,,0,0,0,,Really, if I... even if I just tossed\Nit right here, he's not gonna get it?
+Dialogue: 0,0:35:47.81,0:35:49.81,Default,,0,0,0,,Argh!
+Dialogue: 0,0:35:51.90,0:35:52.94,Default,,0,0,0,,Ball?
+Dialogue: 0,0:35:52.94,0:35:55.73,Default,,0,0,0,,Fetch, right. I throw it,\Nhe brings it back. He won't do it.
+Dialogue: 0,0:35:55.73,0:35:57.82,Default,,0,0,0,,Not Akita, Parker.
+Dialogue: 0,0:35:57.82,0:36:00.11,Default,,0,0,0,,They have something\Nagainst fetching?
+Dialogue: 0,0:36:00.11,0:36:02.45,Default,,0,0,0,,No, if you wants a dog\Nthat fetches,
+Dialogue: 0,0:36:02.45,0:36:04.79,Default,,0,0,0,,you get a collie,\Nyou get a sprinter-spaniel.
+Dialogue: 0,0:36:04.79,0:36:06.66,Default,,0,0,0,,Alright, Hachi fine with me.\NI'm okay.
+Dialogue: 0,0:36:06.66,0:36:10.62,Default,,0,0,0,,Well good, because Akita's\Nare not into people pleasing.
+Dialogue: 0,0:36:10.62,0:36:12.08,Default,,0,0,0,,What are they up to?
+Dialogue: 0,0:36:12.08,0:36:15.63,Default,,0,0,0,,It comes with the training because\Nof your special connection.
+Dialogue: 0,0:36:15.63,0:36:19.59,Default,,0,0,0,,Hey buddy, go get that ball.\NWhy would you do that?
+Dialogue: 0,0:36:19.59,0:36:23.97,Default,,0,0,0,,Well, for fun. For a cookies.
+Dialogue: 0,0:36:23.97,0:36:26.06,Default,,0,0,0,,Because it made me happy, basically.
+Dialogue: 0,0:36:27.27,0:36:30.14,Default,,0,0,0,,They can't be bought.\NThey're Japanese not Americans.
+Dialogue: 0,0:36:30.14,0:36:31.69,Default,,0,0,0,,- Yeah, American...\N- I know.
+Dialogue: 0,0:36:32.44,0:36:36.69,Default,,0,0,0,,Well, if he's gonna fetch, it'll\Nbe for a very special reason.
+Dialogue: 0,0:36:38.57,0:36:40.65,Default,,0,0,0,,I'll find a reason.
+Dialogue: 0,0:36:42.53,0:36:44.74,Default,,0,0,0,,No, no, no, no...\NHac, come on.
+Dialogue: 0,0:36:44.74,0:36:47.04,Default,,0,0,0,,You can't go. I'm sorry.\NYou can't go, come on.
+Dialogue: 0,0:36:50.66,0:36:52.04,Default,,0,0,0,,No, stay.
+Dialogue: 0,0:37:02.47,0:37:04.34,Default,,0,0,0,,Okay! Come on... come on.
+Dialogue: 0,0:37:04.34,0:37:05.39,Default,,0,0,0,,It's alright... come on.
+Dialogue: 0,0:37:06.75,0:37:08.12,Default,,0,0,0,,Come on. Good boy.
+Dialogue: 0,0:37:08.93,0:37:12.49,Default,,0,0,0,,Hey... Hac Hac Hac Hac!\NCome on, come on!
+Dialogue: 0,0:37:15.27,0:37:19.73,Default,,0,0,0,,Hey... Hac...\NHey...
+Dialogue: 0,0:37:20.75,0:37:23.20,Default,,0,0,0,,Let's go!\NCome on. Come here.
+Dialogue: 0,0:37:26.32,0:37:28.20,Default,,0,0,0,,- Good morning, Milton.\N- Good morning.
+Dialogue: 0,0:37:28.20,0:37:29.24,Default,,0,0,0,,How're you doing today?
+Dialogue: 0,0:37:29.24,0:37:31.66,Default,,0,0,0,,- Myra.\N- Morning Parker.
+Dialogue: 0,0:37:31.66,0:37:33.67,Default,,0,0,0,,Stayed out of the sun.
+Dialogue: 0,0:37:36.67,0:37:39.17,Default,,0,0,0,,Careful.
+Dialogue: 0,0:37:44.59,0:37:45.99,Default,,0,0,0,,Good morning, Mr. Professor.
+Dialogue: 0,0:37:45.99,0:37:47.39,Default,,0,0,0,,- Hey, good morning.\N- Good morning, Parker!
+Dialogue: 0,0:37:47.39,0:37:49.47,Default,,0,0,0,,He won't bite, eh?
+Dialogue: 0,0:37:49.47,0:37:51.56,Default,,0,0,0,,Oh no, he's doing really good.
+Dialogue: 0,0:37:51.56,0:37:52.60,Default,,0,0,0,,Come on, boy!
+Dialogue: 0,0:37:53.14,0:37:55.54,Default,,0,0,0,,Alright, I want you to go\Nstraight home.
+Dialogue: 0,0:37:55.54,0:37:57.94,Default,,0,0,0,,Go straight home,\Nyou understand me?
+Dialogue: 0,0:37:57.94,0:38:01.28,Default,,0,0,0,,I'll see you here tonight.\NSo go ahead... go on home.
+Dialogue: 0,0:38:02.61,0:38:05.11,Default,,0,0,0,,Good boy. Good boy!
+Dialogue: 0,0:38:11.58,0:38:14.29,Default,,0,0,0,,- Great day Carl, isn't it?\N- Have a good one, professor.
+Dialogue: 0,0:38:23.46,0:38:24.63,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:38:25.97,0:38:30.56,Default,,0,0,0,,There... yeah, sh-sh-sh...\NDon't tell Milton, okay?
+Dialogue: 0,0:39:04.76,0:39:06.42,Default,,0,0,0,,Hey... Hachi.
+Dialogue: 0,0:39:09.44,0:39:10.84,Default,,0,0,0,,Oh, what a good boy.
+Dialogue: 0,0:39:17.69,0:39:20.04,Default,,0,0,0,,You've been waiting for me all\Nday and thinking...
+Dialogue: 0,0:39:20.04,0:39:22.40,Default,,0,0,0,,{\i1}Oh, how good I am, how good I am!{\i0}
+Dialogue: 0,0:39:27.70,0:39:28.95,Default,,0,0,0,,Hey, Hac!
+Dialogue: 0,0:39:36.87,0:39:39.29,Default,,0,0,0,,More champagne!\NBring more champagne.
+Dialogue: 0,0:39:39.29,0:39:41.67,Default,,0,0,0,,I could, well... I don't know.
+Dialogue: 0,0:39:41.67,0:39:42.71,Default,,0,0,0,,Should be in the kitchen.
+Dialogue: 0,0:39:42.71,0:39:45.55,Default,,0,0,0,,{\i1}Seems like no one else at\Nthe wedding other than us.{\i0}
+Dialogue: 0,0:39:47.09,0:39:48.97,Default,,0,0,0,,Boy, girl, boy, girl.
+Dialogue: 0,0:39:55.56,0:39:57.43,Default,,0,0,0,,You love the snow, huh?
+Dialogue: 0,0:40:04.61,0:40:07.11,Default,,0,0,0,,Let's take a walk, you and me.
+Dialogue: 0,0:40:07.11,0:40:09.82,Default,,0,0,0,,Only the two of us, let's go.
+Dialogue: 0,0:40:09.82,0:40:11.82,Default,,0,0,0,,Tell me about something.
+Dialogue: 0,0:40:34.84,0:40:36.43,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:40:45.61,0:40:47.36,Default,,0,0,0,,That's great, Jake.
+Dialogue: 0,0:40:47.36,0:40:48.40,Default,,0,0,0,,{\i1}Thanks.{\i0}
+Dialogue: 0,0:40:48.40,0:40:51.44,Default,,0,0,0,,Cate! Have you seen Hachi?\NHe wasn't at the station.
+Dialogue: 0,0:40:52.36,0:40:54.41,Default,,0,0,0,,No, I haven't seen him since\Nthis morning.
+Dialogue: 0,0:40:54.41,0:40:56.45,Default,,0,0,0,,- Hmm.\N- Here!
+Dialogue: 0,0:40:59.66,0:41:01.66,Default,,0,0,0,,Look at her.
+Dialogue: 0,0:41:05.00,0:41:07.71,Default,,0,0,0,,Can you believe they had\Nher cover for 30 years?
+Dialogue: 0,0:41:09.25,0:41:10.92,Default,,0,0,0,,It's beautiful.
+Dialogue: 0,0:41:11.46,0:41:13.13,Default,,0,0,0,,Yes, yes.
+Dialogue: 0,0:41:15.84,0:41:19.06,Default,,0,0,0,,- I'm falling behind schedule.\N- Aww, you'll catch up.
+Dialogue: 0,0:41:19.06,0:41:21.77,Default,,0,0,0,,Just think about opening night,\Nthat will freak you out?
+Dialogue: 0,0:41:23.02,0:41:27.40,Default,,0,0,0,,The young soloist step down stage\Nsings from La Bohème.
+Dialogue: 0,0:41:27.40,0:41:31.63,Default,,0,0,0,,And then dance, of course.\NFollowing that,
+Dialogue: 0,0:41:31.63,0:41:35.86,Default,,0,0,0,,rock, rap, hip-hop, jazz and...\NHamlet!
+Dialogue: 0,0:41:36.91,0:41:41.85,Default,,0,0,0,,Then, of course, the entire town is\Ngoing to rise up, standing ovation,
+Dialogue: 0,0:41:41.86,0:41:43.12,Default,,0,0,0,,the whole place going crazy.
+Dialogue: 0,0:41:43.13,0:41:45.60,Default,,0,0,0,,Mayor seize you down,\Nhe pulls you up on stage,
+Dialogue: 0,0:41:45.60,0:41:48.67,Default,,0,0,0,,put you center stage and thank\Nyou for making it all possible.
+Dialogue: 0,0:41:48.67,0:41:49.71,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:41:49.71,0:41:50.75,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:41:50.75,0:41:52.63,Default,,0,0,0,,I like it.
+Dialogue: 0,0:41:55.13,0:41:56.51,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:41:58.39,0:42:00.35,Default,,0,0,0,,Come on boy.
+Dialogue: 0,0:42:05.89,0:42:07.23,Default,,0,0,0,,Hachi?
+Dialogue: 0,0:42:12.44,0:42:14.11,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:42:17.36,0:42:18.91,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:42:26.66,0:42:28.21,Default,,0,0,0,,Alright!
+Dialogue: 0,0:42:32.54,0:42:34.88,Default,,0,0,0,,Stay, stay Hachi.
+Dialogue: 0,0:42:37.05,0:42:38.51,Default,,0,0,0,,Sh-sh-sh, don't bother it.
+Dialogue: 0,0:42:41.85,0:42:45.39,Default,,0,0,0,,Okay, go on, go away.\NGo on, get out!
+Dialogue: 0,0:42:49.00,0:42:53.86,Default,,0,0,0,,Get... get, get out of here.\NGet out! Get out!
+Dialogue: 0,0:43:10.00,0:43:11.17,Default,,0,0,0,,Well, okay.
+Dialogue: 0,0:43:12.58,0:43:14.00,Default,,0,0,0,,Come on... come on.
+Dialogue: 0,0:43:15.85,0:43:16.85,Default,,0,0,0,,Wooh!
+Dialogue: 0,0:43:19.44,0:43:20.44,Default,,0,0,0,,Ugh!
+Dialogue: 0,0:43:31.48,0:43:32.98,Default,,0,0,0,,Parker!
+Dialogue: 0,0:43:48.20,0:43:49.95,Default,,0,0,0,,We got skunk!
+Dialogue: 0,0:43:51.62,0:43:53.21,Default,,0,0,0,,You want to come in with us?
+Dialogue: 0,0:43:53.21,0:43:54.88,Default,,0,0,0,,No, I'm going to pass.
+Dialogue: 0,0:43:57.17,0:43:58.42,Default,,0,0,0,,Well, okay.
+Dialogue: 0,0:44:03.51,0:44:05.72,Default,,0,0,0,,Better open the window\Nbefore you go to sleep.
+Dialogue: 0,0:44:06.97,0:44:09.06,Default,,0,0,0,,You really think we smell\Nthat bad?
+Dialogue: 0,0:44:12.06,0:44:13.73,Default,,0,0,0,,Perhaps you're right.
+Dialogue: 0,0:44:19.48,0:44:20.82,Default,,0,0,0,,Mom!
+Dialogue: 0,0:44:22.20,0:44:24.16,Default,,0,0,0,,Oh, hi honey.
+Dialogue: 0,0:44:24.16,0:44:26.66,Default,,0,0,0,,What's up?
+Dialogue: 0,0:44:29.04,0:44:31.04,Default,,0,0,0,,Hey, can I tell you something?
+Dialogue: 0,0:44:32.83,0:44:33.87,Default,,0,0,0,,Guess what?
+Dialogue: 0,0:44:33.87,0:44:34.92,Default,,0,0,0,,What?
+Dialogue: 0,0:44:34.92,0:44:36.88,Default,,0,0,0,,- Okay, wait... that's right.\N- What?
+Dialogue: 0,0:44:40.59,0:44:42.63,Default,,0,0,0,,See anything different?
+Dialogue: 0,0:44:42.63,0:44:44.38,Default,,0,0,0,,No.
+Dialogue: 0,0:44:44.38,0:44:45.43,Default,,0,0,0,,Yes!
+Dialogue: 0,0:44:46.97,0:44:49.60,Default,,0,0,0,,Oh... it's so sweet.
+Dialogue: 0,0:44:49.64,0:44:52.85,Default,,0,0,0,,Oh, it's so wonderful!
+Dialogue: 0,0:44:52.85,0:44:55.48,Default,,0,0,0,,I've to call grandma right away.
+Dialogue: 0,0:44:56.35,0:44:57.44,Default,,0,0,0,,Where is dad?
+Dialogue: 0,0:44:57.44,0:44:59.11,Default,,0,0,0,,Out there, as usual.
+Dialogue: 0,0:45:00.69,0:45:01.78,Default,,0,0,0,,Daddy!
+Dialogue: 0,0:45:04.70,0:45:06.16,Default,,0,0,0,,Dad!
+Dialogue: 0,0:45:09.83,0:45:11.16,Default,,0,0,0,,Dad, what're you doing?
+Dialogue: 0,0:45:11.16,0:45:15.54,Default,,0,0,0,,It's a full body massage,\Nfollowing the book, see it?
+Dialogue: 0,0:45:15.54,0:45:17.33,Default,,0,0,0,,You're gonna be a grandfather.
+Dialogue: 0,0:45:17.33,0:45:18.58,Default,,0,0,0,,You gotta get really deep\Ndown into the muscle...
+Dialogue: 0,0:45:18.58,0:45:20.67,Default,,0,0,0,,Dad, dad!
+Dialogue: 0,0:45:21.80,0:45:25.97,Default,,0,0,0,,Micheal and I are having a baby.\NI am pregnant.
+Dialogue: 0,0:45:27.55,0:45:28.55,Default,,0,0,0,,You...
+Dialogue: 0,0:45:31.60,0:45:33.60,Default,,0,0,0,,Really?
+Dialogue: 0,0:45:33.60,0:45:34.64,Default,,0,0,0,,Yes.
+Dialogue: 0,0:45:35.06,0:45:36.39,Default,,0,0,0,,You're having a baby?
+Dialogue: 0,0:45:42.78,0:45:44.44,Default,,0,0,0,,- I'm going to be a grandpa.\N- Yes.
+Dialogue: 0,0:45:45.07,0:45:48.28,Default,,0,0,0,,Cathy, I can't believe this!
+Dialogue: 0,0:45:49.38,0:45:52.19,Default,,0,0,0,,This is terrific news.\NI'm so happy for you.
+Dialogue: 0,0:45:53.62,0:45:55.16,Default,,0,0,0,,Hi sweetie.
+Dialogue: 0,0:45:55.16,0:45:56.96,Default,,0,0,0,,- Mom.\N- I'm sorry I'm late.
+Dialogue: 0,0:45:58.29,0:45:59.54,Default,,0,0,0,,Oh, what you got?
+Dialogue: 0,0:45:59.54,0:46:01.42,Default,,0,0,0,,All kinds of healthy things for you.
+Dialogue: 0,0:46:01.42,0:46:05.71,Default,,0,0,0,,Fresh vegetables, raspberries,\Npita with cholesterol-less sprouts...
+Dialogue: 0,0:46:05.71,0:46:08.68,Default,,0,0,0,,You know, when I was carrying you,
+Dialogue: 0,0:46:08.68,0:46:10.16,Default,,0,0,0,,I was sending out your\Nfather for pizza with red pepper
+Dialogue: 0,0:46:10.16,0:46:11.64,Default,,0,0,0,,and double anchovies for\Na week straight.
+Dialogue: 0,0:46:11.64,0:46:13.64,Default,,0,0,0,,He couldn't even watch when I eat it.
+Dialogue: 0,0:46:15.39,0:46:18.23,Default,,0,0,0,,You and dad have been\Ntogether for 25 years.
+Dialogue: 0,0:46:18.23,0:46:20.52,Default,,0,0,0,,We've been longer together\Nthan we've been apart.
+Dialogue: 0,0:46:20.52,0:46:21.56,Default,,0,0,0,,Wow.
+Dialogue: 0,0:46:25.40,0:46:29.86,Default,,0,0,0,,Dad said after your first date,\Nby the time he got back...
+Dialogue: 0,0:46:29.91,0:46:33.24,Default,,0,0,0,,to the car, he miss you so much,\Nhe went back for you.
+Dialogue: 0,0:46:33.95,0:46:36.45,Default,,0,0,0,,I know, I was watching\Nfrom the window.
+Dialogue: 0,0:46:37.08,0:46:39.64,Default,,0,0,0,,And when I saw him come\Nup the walk again,
+Dialogue: 0,0:46:39.64,0:46:42.21,Default,,0,0,0,,I almost ran out the door\Nand jumps into his arm.
+Dialogue: 0,0:46:42.21,0:46:44.17,Default,,0,0,0,,- Should have.\N- I know.
+Dialogue: 0,0:46:44.17,0:46:46.25,Default,,0,0,0,,But I always stop and\Nthink too much.
+Dialogue: 0,0:46:46.25,0:46:48.67,Default,,0,0,0,,That's true... you do.
+Dialogue: 0,0:46:48.67,0:46:50.01,Default,,0,0,0,,- Don't do that.\N- Okay.
+Dialogue: 0,0:46:50.01,0:46:51.05,Default,,0,0,0,,Okay!
+Dialogue: 0,0:46:53.35,0:46:55.43,Default,,0,0,0,,Hey, Hachi!\NCome on... Hachi, come on.
+Dialogue: 0,0:46:56.68,0:46:58.14,Default,,0,0,0,,He always greets him there?
+Dialogue: 0,0:46:58.14,0:46:59.18,Default,,0,0,0,,Look.
+Dialogue: 0,0:47:02.73,0:47:04.61,Default,,0,0,0,,- Isn't it strange?\N- Come on, let's go home.
+Dialogue: 0,0:47:06.90,0:47:08.07,Default,,0,0,0,,Hey, Mr. Professor.
+Dialogue: 0,0:47:08.07,0:47:09.53,Default,,0,0,0,,Good night, Parker!
+Dialogue: 0,0:47:09.53,0:47:10.57,Default,,0,0,0,,Good night, Mary Anne.
+Dialogue: 0,0:47:10.57,0:47:11.82,Default,,0,0,0,,How do you taught your\Ndog to do that?
+Dialogue: 0,0:47:11.82,0:47:13.91,Default,,0,0,0,,That's amazing, everyday.
+Dialogue: 0,0:47:25.59,0:47:26.71,Default,,0,0,0,,Parker!
+Dialogue: 0,0:47:32.47,0:47:33.72,Default,,0,0,0,,Parker!
+Dialogue: 0,0:47:51.94,0:47:53.86,Default,,0,0,0,,You're all dress.
+Dialogue: 0,0:47:56.95,0:48:01.37,Default,,0,0,0,,Well, that might be something\NI'll be able to do without.
+Dialogue: 0,0:48:03.25,0:48:04.50,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:48:06.33,0:48:08.96,Default,,0,0,0,,Anything else you required, madam?
+Dialogue: 0,0:48:10.34,0:48:12.30,Default,,0,0,0,,It depends on what you've got.
+Dialogue: 0,0:48:14.30,0:48:15.63,Default,,0,0,0,,Everything.
+Dialogue: 0,0:48:15.63,0:48:16.68,Default,,0,0,0,,Everything?
+Dialogue: 0,0:48:28.90,0:48:31.28,Default,,0,0,0,,Yeah... everything.
+Dialogue: 0,0:48:44.91,0:48:48.13,Default,,0,0,0,,You've to put up with a lot,\NI know that.
+Dialogue: 0,0:48:48.17,0:48:52.00,Default,,0,0,0,,I don't remember ever\Nthanking you.
+Dialogue: 0,0:48:59.93,0:49:02.14,Default,,0,0,0,,You know how much I love you.
+Dialogue: 0,0:49:05.35,0:49:07.35,Default,,0,0,0,,And I love you.
+Dialogue: 0,0:49:08.48,0:49:09.94,Default,,0,0,0,,Strange.
+Dialogue: 0,0:49:13.19,0:49:16.61,Default,,0,0,0,,Especially when you do smell\Nlike a dog or a skunk.
+Dialogue: 0,0:49:18.70,0:49:21.53,Default,,0,0,0,,That doesn't happen very often,\Nactually you should worried about...
+Dialogue: 0,0:49:21.53,0:49:23.83,Default,,0,0,0,,It happens, just don't know when.
+Dialogue: 0,0:49:39.26,0:49:41.85,Default,,0,0,0,,- I love you. Call you later.\N- And I love you too, bye-bye.
+Dialogue: 0,0:49:45.93,0:49:48.10,Default,,0,0,0,,Okay, Hachi... come on.
+Dialogue: 0,0:49:52.69,0:49:54.48,Default,,0,0,0,,Hachi... come on.
+Dialogue: 0,0:49:57.07,0:49:59.70,Default,,0,0,0,,Come on now, what's wrong\Nwith you... come on.
+Dialogue: 0,0:50:02.07,0:50:03.53,Default,,0,0,0,,What's it?
+Dialogue: 0,0:50:07.50,0:50:10.62,Default,,0,0,0,,Come here Come here!\NCome here...
+Dialogue: 0,0:50:11.88,0:50:16.05,Default,,0,0,0,,Come here, what's with you?\NCome here now, you've got a problem?
+Dialogue: 0,0:50:18.34,0:50:21.59,Default,,0,0,0,,Alright, what's going on?
+Dialogue: 0,0:50:23.26,0:50:27.10,Default,,0,0,0,,Alright... okay.\NAlright now, okay.
+Dialogue: 0,0:50:27.22,0:50:28.92,Default,,0,0,0,,Come on! Come on!
+Dialogue: 0,0:50:32.44,0:50:33.98,Default,,0,0,0,,What's wrong with him?
+Dialogue: 0,0:50:33.98,0:50:35.65,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:50:35.65,0:50:38.69,Default,,0,0,0,,Hachi, you wanna come because\NI've got to go, it's a work day.
+Dialogue: 0,0:50:38.70,0:50:40.48,Default,,0,0,0,,Come on, buddy.\NCome on!
+Dialogue: 0,0:50:41.40,0:50:43.49,Default,,0,0,0,,I've got to go.
+Dialogue: 0,0:50:44.20,0:50:47.03,Default,,0,0,0,,- Love you, honey.\N- Love you too. See you tonight.
+Dialogue: 0,0:50:49.00,0:50:50.66,Default,,0,0,0,,Last chance.
+Dialogue: 0,0:50:52.67,0:50:54.21,Default,,0,0,0,,Bye!
+Dialogue: 0,0:51:21.74,0:51:24.45,Default,,0,0,0,,- Hi, Mary Anne.\N- Hey Jess, how're you?
+Dialogue: 0,0:51:24.45,0:51:28.20,Default,,0,0,0,,- I already've your coffee and donuts.\N- Oh yeah, thank you. - Alright.
+Dialogue: 0,0:51:41.88,0:51:43.34,Default,,0,0,0,,Where's Hachi?
+Dialogue: 0,0:51:51.35,0:51:53.64,Default,,0,0,0,,Hey, Hachi.
+Dialogue: 0,0:51:53.64,0:51:56.06,Default,,0,0,0,,Ah, here he comes.
+Dialogue: 0,0:51:56.77,0:51:59.61,Default,,0,0,0,,Oh, I'm happy to see you.
+Dialogue: 0,0:51:59.61,0:52:01.69,Default,,0,0,0,,Why did you bring the ball for?
+Dialogue: 0,0:52:01.69,0:52:03.78,Default,,0,0,0,,{\i1}Why you giving me the ball?{\i0}
+Dialogue: 0,0:52:03.78,0:52:06.70,Default,,0,0,0,,You want to play catch?\NHere, here... here.
+Dialogue: 0,0:52:06.75,0:52:07.37,Default,,0,0,0,,Wait... wait!
+Dialogue: 0,0:52:07.61,0:52:10.03,Default,,0,0,0,,Here boy. Go get it!
+Dialogue: 0,0:52:11.08,0:52:13.25,Default,,0,0,0,,Go get it. Go get it!
+Dialogue: 0,0:52:14.50,0:52:16.37,Default,,0,0,0,,Quite good. Now, bring it back.
+Dialogue: 0,0:52:17.33,0:52:20.75,Default,,0,0,0,,Oh... that's it.\NThat's what I wanted.
+Dialogue: 0,0:52:20.75,0:52:23.80,Default,,0,0,0,,Try another one. Big one.\NBig long one.
+Dialogue: 0,0:52:25.11,0:52:27.02,Default,,0,0,0,,Okay, go get it. Go on!
+Dialogue: 0,0:52:27.55,0:52:31.93,Default,,0,0,0,,Good boy!\NOh yeah, now bring it back.
+Dialogue: 0,0:52:32.40,0:52:34.21,Default,,0,0,0,,Okay, come on... come on.\NCome on!
+Dialogue: 0,0:52:34.31,0:52:37.77,Default,,0,0,0,,Come on. Oh, what a good boy.\NWhat a good boy.
+Dialogue: 0,0:52:37.77,0:52:41.02,Default,,0,0,0,,Aren't you the good boy?\NYou see that.
+Dialogue: 0,0:52:41.02,0:52:42.07,Default,,0,0,0,,Hmm.
+Dialogue: 0,0:52:42.07,0:52:45.82,Default,,0,0,0,,Threw the ball, he brought it back.\NFirst time he fetch. A real fetch.
+Dialogue: 0,0:52:45.82,0:52:48.20,Default,,0,0,0,,Congratulations.
+Dialogue: 0,0:52:48.20,0:52:50.91,Default,,0,0,0,,Thanks you. Good boy!
+Dialogue: 0,0:52:50.91,0:52:54.45,Default,,0,0,0,,Okay, gotta go work.\NCome on, take the ball.
+Dialogue: 0,0:52:56.25,0:52:58.00,Default,,0,0,0,,First time!
+Dialogue: 0,0:52:58.00,0:52:59.79,Default,,0,0,0,,Heh, first time!
+Dialogue: 0,0:53:00.71,0:53:04.38,Default,,0,0,0,,{\i1}No... wait, Mr. Professor! Wait!\NI'll make you a coffee right now.{\i0}
+Dialogue: 0,0:53:04.38,0:53:05.42,Default,,0,0,0,,Alright.
+Dialogue: 0,0:53:05.42,0:53:06.46,Default,,0,0,0,,Sorry, I'm late today.
+Dialogue: 0,0:53:06.46,0:53:08.03,Default,,0,0,0,,Did you see what he did?
+Dialogue: 0,0:53:08.03,0:53:09.59,Default,,0,0,0,,I threw the ball, he brought it back.\NIt was a fetch.
+Dialogue: 0,0:53:09.59,0:53:11.05,Default,,0,0,0,,No, no, no.
+Dialogue: 0,0:53:11.05,0:53:13.14,Default,,0,0,0,,You keep the ball.
+Dialogue: 0,0:53:13.93,0:53:16.14,Default,,0,0,0,,Do you want me to have that?\NI can't play now.
+Dialogue: 0,0:53:16.14,0:53:18.35,Default,,0,0,0,,I've got to go to work.\NI've got to go to work.
+Dialogue: 0,0:53:18.35,0:53:20.52,Default,,0,0,0,,I'll take the ball, alright.
+Dialogue: 0,0:53:20.52,0:53:22.27,Default,,0,0,0,,- Okay.\N- Here you go.
+Dialogue: 0,0:53:22.27,0:53:23.94,Default,,0,0,0,,- Okay, thank you.\N- You're welcome.
+Dialogue: 0,0:53:23.94,0:53:26.03,Default,,0,0,0,,- See you at 5.\N- I will be here.
+Dialogue: 0,0:53:26.03,0:53:28.53,Default,,0,0,0,,Okay! Go home Hac... go home.
+Dialogue: 0,0:53:37.20,0:53:40.00,Default,,0,0,0,,Alright... come here!\NCome here... come here.
+Dialogue: 0,0:53:40.00,0:53:42.92,Default,,0,0,0,,Okay, it's alright.
+Dialogue: 0,0:53:43.46,0:53:48.13,Default,,0,0,0,,See you at 5 o' clock, alright.\NHere you go. Hey, go home, go on.
+Dialogue: 0,0:54:46.52,0:54:48.11,Default,,0,0,0,,You think it was better that time?
+Dialogue: 0,0:54:48.11,0:54:49.15,Default,,0,0,0,,{\i1}Laughter.{\i0}
+Dialogue: 0,0:54:52.28,0:54:58.20,Default,,0,0,0,,Alright, you remember we were\Ntalking about John Philip Sousa,
+Dialogue: 0,0:54:58.20,0:55:02.08,Default,,0,0,0,,a great {\i1}March{\i0} composer\Nat the turn of the century?
+Dialogue: 0,0:55:02.08,0:55:08.34,Default,,0,0,0,,He... very famous man but he\Nhad a huge thing about...
+Dialogue: 0,0:55:08.34,0:55:11.46,Default,,0,0,0,,recorded music. He never\Nallowed his music to be recorded.
+Dialogue: 0,0:55:11.46,0:55:14.01,Default,,0,0,0,,Even when Thomas Edison\Ncame to him
+Dialogue: 0,0:55:14.01,0:55:16.55,Default,,0,0,0,,with his brand new invention\N- the phonograph.
+Dialogue: 0,0:55:17.18,0:55:20.58,Default,,0,0,0,,But Edison's didn't care, he\Nwent ahead and did it anyhow.
+Dialogue: 0,0:55:20.58,0:55:23.98,Default,,0,0,0,,He secretly recorded his\Nmarching band in a parade.
+Dialogue: 0,0:55:25.02,0:55:27.40,Default,,0,0,0,,I guess makes it the very\Nfirst boot-leg.
+Dialogue: 0,0:55:31.78,0:55:35.24,Default,,0,0,0,,So what do you think about that?\NDo you think Sousa was right?
+Dialogue: 0,0:55:35.24,0:55:37.16,Default,,0,0,0,,Do you think it's okay now?
+Dialogue: 0,0:55:37.16,0:55:39.07,Default,,0,0,0,,What about today's performance,\Nwill you be able to just walk up...
+Dialogue: 0,0:55:39.07,0:55:40.47,Default,,0,0,0,,to the middle of the stage,
+Dialogue: 0,0:55:40.47,0:55:45.87,Default,,0,0,0,,plug in your CD player to a {\i1}Marshall\NStack{\i0} and that's it, good enough?
+Dialogue: 0,0:55:46.79,0:55:48.92,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:55:49.96,0:55:51.34,Default,,0,0,0,,I am a lot older than you but
+Dialogue: 0,0:55:51.34,0:55:56.72,Default,,0,0,0,,I tend to think that\Nthere's an element of music...
+Dialogue: 0,0:55:56.72,0:56:00.28,Default,,0,0,0,,that cannot be capture.\NLife cannot be capture.
+Dialogue: 0,0:56:00.28,0:56:01.85,Default,,0,0,0,,The human heart cannot\Nbe captured.
+Dialogue: 0,0:56:01.85,0:56:05.18,Default,,0,0,0,,The moment of creation\Nitself is fleeting.
+Dialogue: 0,0:56:39.38,0:56:41.47,Default,,0,0,0,,{\i1}Oh my God!{\i0}
+Dialogue: 0,0:56:41.47,0:56:43.43,Default,,0,0,0,,{\i1}What's wrong with him?{\i0}
+Dialogue: 0,0:56:43.43,0:56:45.52,Default,,0,0,0,,{\i1}It looks like a heart attack.{\i0}
+Dialogue: 0,0:56:53.94,0:56:56.07,Default,,0,0,0,,Hey Hachi... how're you doing?
+Dialogue: 0,0:56:57.11,0:56:58.86,Default,,0,0,0,,Hey Hachi.
+Dialogue: 0,0:57:01.16,0:57:02.95,Default,,0,0,0,,See you tomorrow, Hachi.
+Dialogue: 0,0:57:45.24,0:57:47.45,Default,,0,0,0,,Good night, Hachi.
+Dialogue: 0,0:58:02.76,0:58:04.76,Default,,0,0,0,,Hey, buddy.
+Dialogue: 0,0:58:05.89,0:58:07.60,Default,,0,0,0,,You ready to go home?
+Dialogue: 0,0:58:10.08,0:58:11.08,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:58:45.59,0:58:47.43,Default,,0,0,0,,Hey, Hachi.
+Dialogue: 0,0:58:48.85,0:58:50.85,Default,,0,0,0,,Are you alright?
+Dialogue: 0,0:59:01.69,0:59:04.82,Default,,0,0,0,,And that's how he did it?
+Dialogue: 0,0:59:04.82,0:59:06.91,Default,,0,0,0,,Sorry, I'm learning.
+Dialogue: 0,0:59:15.75,0:59:19.96,Default,,0,0,0,,Andy! Time to go... sweetheart.
+Dialogue: 0,0:59:21.38,0:59:25.17,Default,,0,0,0,,Good boy. You stay here, okay.\NWe'll be back.
+Dialogue: 0,0:59:54.54,0:59:57.71,Default,,0,0,0,,I've said that the soul is\Nnot more than the body.
+Dialogue: 0,0:59:57.71,1:00:01.33,Default,,0,0,0,,And I have said, that the body\Nis not more than the soul.
+Dialogue: 0,1:00:01.38,1:00:06.67,Default,,0,0,0,,And nothing, not God is greater\Nto one than one self is.
+Dialogue: 0,1:00:06.67,1:00:09.76,Default,,0,0,0,,I hear,\Nbehold God in every object
+Dialogue: 0,1:00:09.76,1:00:12.85,Default,,0,0,0,,that understand God not\Nin the least.
+Dialogue: 0,1:00:12.85,1:00:17.52,Default,,0,0,0,,Nor do I understand who's there\Ncan be more wonderful than myself.
+Dialogue: 0,1:00:17.52,1:00:20.54,Default,,0,0,0,,In the faces of men and women,
+Dialogue: 0,1:00:20.54,1:00:23.56,Default,,0,0,0,,I see God and in my own face\Nin a glance.
+Dialogue: 0,1:00:23.56,1:00:26.48,Default,,0,0,0,,I find letters from God\Ndropped in the street
+Dialogue: 0,1:00:26.49,1:00:29.40,Default,,0,0,0,,and everyone signed by\NGod's name.
+Dialogue: 0,1:00:29.40,1:00:32.32,Default,,0,0,0,,But I leave them where there are
+Dialogue: 0,1:00:32.32,1:00:37.66,Default,,0,0,0,,for I know that wherever I go,\Nothers will constant comes.
+Dialogue: 0,1:00:37.66,1:00:40.87,Default,,0,0,0,,Forever and ever.
+Dialogue: 0,1:01:36.26,1:01:40.64,Default,,0,0,0,,Look, you don't have\Nto wait anymore.
+Dialogue: 0,1:01:42.43,1:01:44.60,Default,,0,0,0,,He's not coming back.
+Dialogue: 0,1:01:55.28,1:02:01.16,Default,,0,0,0,,Alright Hachi,\Nyou do what you've to do.
+Dialogue: 0,1:02:46.25,1:02:48.83,Default,,0,0,0,,Come on... buddy.\NCome on... let's go.
+Dialogue: 0,1:02:48.83,1:02:50.79,Default,,0,0,0,,Come on boy, come on.
+Dialogue: 0,1:02:53.76,1:02:56.76,Default,,0,0,0,,Come on Hachi.\NCome on Hachi.
+Dialogue: 0,1:02:56.76,1:02:59.76,Default,,0,0,0,,You're gonna be with us now.\NLet's go... come on.
+Dialogue: 0,1:03:00.97,1:03:03.51,Default,,0,0,0,,Alright, time to go, Ronnie's waiting.\NCome on.
+Dialogue: 0,1:03:06.84,1:03:08.16,Default,,0,0,0,,Let me get that for you, sweetie.
+Dialogue: 0,1:03:13.52,1:03:15.57,Default,,0,0,0,,Come on, Hac, up, up up.\NHere we go.
+Dialogue: 0,1:03:15.57,1:03:19.74,Default,,0,0,0,,What a good boy.\NCome on Hachi.
+Dialogue: 0,1:03:23.97,1:03:25.25,Default,,0,0,0,,Watch your head.\NWatch your head!
+Dialogue: 0,1:03:25.91,1:03:26.91,Default,,0,0,0,,Good boy!
+Dialogue: 0,1:04:21.38,1:04:23.68,Default,,0,0,0,,Hey, there's my guy!\NAndy!
+Dialogue: 0,1:04:23.68,1:04:24.72,Default,,0,0,0,,- Yeah?\N- Hachi!
+Dialogue: 0,1:04:24.72,1:04:25.76,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:04:25.76,1:04:28.14,Default,,0,0,0,,- Andy!\N- What, dear?
+Dialogue: 0,1:04:28.14,1:04:31.73,Default,,0,0,0,,Hachi! Hachi! Come back here.
+Dialogue: 0,1:04:33.04,1:04:34.04,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:04:35.56,1:04:36.76,Default,,0,0,0,,Hachi... come on!
+Dialogue: 0,1:04:40.59,1:04:41.59,Default,,0,0,0,,{\i1}Hachi!{\i0}
+Dialogue: 0,1:04:43.99,1:04:44.99,Default,,0,0,0,,{\i1}Hachi!{\i0}
+Dialogue: 0,1:06:59.33,1:07:01.58,Default,,0,0,0,,{\i1}Inaudible dialog{\i0}
+Dialogue: 0,1:07:01.58,1:07:04.71,Default,,0,0,0,,Hey, looks like we got the\Nfirst visitor.
+Dialogue: 0,1:07:04.71,1:07:09.09,Default,,0,0,0,,Hey there buddy! Come to\Nwelcome us to our new home?
+Dialogue: 0,1:07:10.22,1:07:12.43,Default,,0,0,0,,{\i1}We started from the top,\Nwhere almost everything is ready.{\i0}
+Dialogue: 0,1:07:12.43,1:07:14.31,Default,,0,0,0,,{\i1}Yeah, but something\Nwith the basement too?{\i0}
+Dialogue: 0,1:07:14.31,1:07:16.27,Default,,0,0,0,,{\i1}The cellar has long been ready.{\i0}
+Dialogue: 0,1:07:21.48,1:07:23.77,Default,,0,0,0,,{\i1}Donut with chocolate icing.{\i0}
+Dialogue: 0,1:07:23.77,1:07:26.48,Default,,0,0,0,,{\i1}No, I don't like chocolate.{\i0}
+Dialogue: 0,1:07:26.48,1:07:29.82,Default,,0,0,0,,Hey Hachi,\Nwhat are you doing here?
+Dialogue: 0,1:07:29.82,1:07:32.45,Default,,0,0,0,,Look it... look it!
+Dialogue: 0,1:07:35.83,1:07:38.29,Default,,0,0,0,,He's staying right in the\Nsame spot.
+Dialogue: 0,1:07:38.29,1:07:41.29,Default,,0,0,0,,{\i1}- I thought he moved away.\N- He did.{\i0}
+Dialogue: 0,1:07:41.29,1:07:46.88,Default,,0,0,0,,- He looks hungry, huh.\N- You're a softie, Jess.
+Dialogue: 0,1:07:46.88,1:07:48.30,Default,,0,0,0,,{\i1}We must give him a little.{\i0}
+Dialogue: 0,1:07:48.30,1:07:54.06,Default,,0,0,0,,{\i1}Hey, Hachi! Want a hotdog, bud?\NCome on, boy.{\i0}
+Dialogue: 0,1:07:56.86,1:07:57.86,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:07:58.02,1:08:00.23,Default,,0,0,0,,{\i1}Maybe he don't likes your\Ncooking, Jess.{\i0}
+Dialogue: 0,1:08:00.23,1:08:03.77,Default,,0,0,0,,This is Jess special. Come on, lick it.\NYou'll like it. It's good for you.
+Dialogue: 0,1:08:10.86,1:08:12.74,Default,,0,0,0,,Where did he comes from?
+Dialogue: 0,1:08:12.74,1:08:15.87,Default,,0,0,0,,Just show up.\NCome on boy! Eat it.
+Dialogue: 0,1:08:15.87,1:08:21.08,Default,,0,0,0,,Oh... you better be careful. Hachi\Ngot hotdogs in there older than you.
+Dialogue: 0,1:08:21.08,1:08:23.42,Default,,0,0,0,,Don't listen to them.
+Dialogue: 0,1:08:38.30,1:08:39.47,Default,,0,0,0,,Hachi.
+Dialogue: 0,1:08:39.47,1:08:40.77,Default,,0,0,0,,Oh, God.
+Dialogue: 0,1:08:40.81,1:08:43.81,Default,,0,0,0,,Hi! Oh... hi, I was so worried\Nabout you...
+Dialogue: 0,1:08:46.60,1:08:48.19,Default,,0,0,0,,{\i1}I need you.{\i0}
+Dialogue: 0,1:08:48.19,1:08:50.48,Default,,0,0,0,,And why does she just\Nhanging around him for?
+Dialogue: 0,1:08:50.48,1:08:54.45,Default,,0,0,0,,{\i1}This the professor's daughter.\NHe probably lived with them.{\i0}
+Dialogue: 0,1:08:54.45,1:08:56.53,Default,,0,0,0,,{\i1}And Hachi ran out?{\i0}
+Dialogue: 0,1:08:56.53,1:08:57.57,Default,,0,0,0,,{\i1}Disappeared?{\i0}
+Dialogue: 0,1:08:57.57,1:08:58.95,Default,,0,0,0,,{\i1}Oh, dear God...{\i0}
+Dialogue: 0,1:08:58.95,1:09:01.04,Default,,0,0,0,,Will you come home with me?
+Dialogue: 0,1:09:01.95,1:09:03.00,Default,,0,0,0,,Hey, hey, hey, hey, she took it.
+Dialogue: 0,1:09:03.00,1:09:04.04,Default,,0,0,0,,It's alright. It's okay.
+Dialogue: 0,1:09:04.04,1:09:05.42,Default,,0,0,0,,It's okay.
+Dialogue: 0,1:09:06.12,1:09:08.51,Default,,0,0,0,,- Come on, come on\N- Let's go, buddy.
+Dialogue: 0,1:09:09.04,1:09:10.28,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,1:09:10.98,1:09:11.98,Default,,0,0,0,,Thank you!
+Dialogue: 0,1:09:17.39,1:09:21.26,Default,,0,0,0,,- That's the best stuff.\N- Alright, get me a coffee.
+Dialogue: 0,1:09:22.93,1:09:25.23,Default,,0,0,0,,Jess, come on, pour me a coffee.
+Dialogue: 0,1:09:39.28,1:09:43.04,Default,,0,0,0,,I think of him too, everyday.
+Dialogue: 0,1:10:11.40,1:10:12.57,Default,,0,0,0,,Hey.
+Dialogue: 0,1:10:12.57,1:10:19.24,Default,,0,0,0,,You know we love you Hachi.\NWe want you to stay here with us.
+Dialogue: 0,1:10:22.57,1:10:27.58,Default,,0,0,0,,If you've to go, that's okay too.
+Dialogue: 0,1:10:29.67,1:10:31.21,Default,,0,0,0,,Okay!
+Dialogue: 0,1:10:49.69,1:10:51.77,Default,,0,0,0,,Bye, Hachi.
+Dialogue: 0,1:11:03.45,1:11:05.74,Default,,0,0,0,,Good afternoon, Hachi.
+Dialogue: 0,1:11:35.94,1:11:42.03,Default,,0,0,0,,Hey Hachi, here you go.\NDon't tell Myra, alright!
+Dialogue: 0,1:11:44.03,1:11:45.99,Default,,0,0,0,,Good night, Hachi.
+Dialogue: 0,1:12:10.47,1:12:13.94,Default,,0,0,0,,{\i1}- Good morning, Jess.\N- Hello, how are you?{\i0}
+Dialogue: 0,1:12:13.94,1:12:17.69,Default,,0,0,0,,{\i1}- I think a big hot dog and\Ntwo donuts. - Okay.{\i0}
+Dialogue: 0,1:12:24.15,1:12:26.78,Default,,0,0,0,,{\i1}Be careful, it's hot.{\i0}
+Dialogue: 0,1:12:31.66,1:12:34.50,Default,,0,0,0,,{\i1}Lucky, let's go!{\i0}
+Dialogue: 0,1:12:34.50,1:12:36.87,Default,,0,0,0,,Come on, sweetie.\NHey, Lucky!
+Dialogue: 0,1:12:36.87,1:12:40.42,Default,,0,0,0,,- Your coffee, enjoy your meal.\N- Here girl. Come on Lucky, let's go.
+Dialogue: 0,1:12:47.51,1:12:50.85,Default,,0,0,0,,- Oh, excuse me, sir. - Uh-hmm?\N- That dog out there...
+Dialogue: 0,1:12:51.26,1:12:52.64,Default,,0,0,0,,Yeah?
+Dialogue: 0,1:12:52.64,1:12:55.77,Default,,0,0,0,,Is that the dog that I've been\Nhearing so much about?
+Dialogue: 0,1:12:57.85,1:12:59.73,Default,,0,0,0,,What's it to you?
+Dialogue: 0,1:12:59.73,1:13:04.53,Default,,0,0,0,,Oh, I am sorry. I'm Teddy Barnes,\NI'm with the Metro {\i1}The Call.{\i0}
+Dialogue: 0,1:13:05.74,1:13:08.99,Default,,0,0,0,,Yeah, I've been hearing a lot\Nof talks about him on the train.
+Dialogue: 0,1:13:08.99,1:13:12.24,Default,,0,0,0,,I don't know. Sounds like\Nit could make a good story.
+Dialogue: 0,1:13:14.95,1:13:17.46,Default,,0,0,0,,That's Boilils, Carl Boilils.
+Dialogue: 0,1:13:17.46,1:13:20.88,Default,,0,0,0,,B-o-i-l-i-l-s.
+Dialogue: 0,1:13:20.88,1:13:21.94,Default,,0,0,0,,- Yes, there's no 'Y' in there.\N- Got it.
+Dialogue: 0,1:13:21.96,1:13:25.05,Default,,0,0,0,,I'm the one that found him,\Nhanded him over.
+Dialogue: 0,1:13:25.09,1:13:26.63,Default,,0,0,0,,Oh yeah?
+Dialogue: 0,1:13:26.63,1:13:31.01,Default,,0,0,0,,So Carl... where does he live?
+Dialogue: 0,1:13:31.01,1:13:35.81,Default,,0,0,0,,Well... we're not really sure.\NHe comes and goes.
+Dialogue: 0,1:13:35.81,1:13:38.52,Default,,0,0,0,,- Nobody bothers him?\N- No, we put up with him.
+Dialogue: 0,1:13:39.48,1:13:41.23,Default,,0,0,0,,He just does what's he is doing.
+Dialogue: 0,1:13:41.23,1:13:46.24,Default,,0,0,0,,Mind if I take a picture?\NFor the newspaper.
+Dialogue: 0,1:13:46.24,1:13:48.95,Default,,0,0,0,,Oh, I don't mind,\NHachi don't mind?
+Dialogue: 0,1:13:48.95,1:13:50.82,Default,,0,0,0,,Thank you very much.\NVery nice... very nice.
+Dialogue: 0,1:13:50.82,1:13:53.66,Default,,0,0,0,,Er... one without first please.
+Dialogue: 0,1:13:53.66,1:13:56.66,Default,,0,0,0,,Not the dog, alright.\NStay there.
+Dialogue: 0,1:13:57.33,1:13:59.29,Default,,0,0,0,,Hmm... No, I...
+Dialogue: 0,1:13:59.96,1:14:02.71,Default,,0,0,0,,- Oh yeah, alright.\N- I appreciated it.
+Dialogue: 0,1:14:02.71,1:14:05.55,Default,,0,0,0,,That's very kind of you.
+Dialogue: 0,1:14:06.63,1:14:08.26,Default,,0,0,0,,Okay, nice and easy.
+Dialogue: 0,1:14:08.26,1:14:09.72,Default,,0,0,0,,- Oh yeah!\N- Yeah... yeah.
+Dialogue: 0,1:14:09.72,1:14:11.80,Default,,0,0,0,,Look there, big smile.
+Dialogue: 0,1:14:11.80,1:14:14.18,Default,,0,0,0,,Smile... Aah, that's...
+Dialogue: 0,1:14:15.38,1:14:17.58,Default,,0,0,0,,That's beautiful, thank you.
+Dialogue: 0,1:14:18.27,1:14:22.02,Default,,0,0,0,,{\i1}Faithful dog awaits return\Nof deceased master{\i0}
+Dialogue: 0,1:14:30.82,1:14:32.32,Default,,0,0,0,,Hey Hachi.
+Dialogue: 0,1:14:34.45,1:14:38.29,Default,,0,0,0,,This kid in Gary,\Nsend you his lunch money.
+Dialogue: 0,1:14:38.29,1:14:41.12,Default,,0,0,0,,He ask me to buy you\Ntreats with it.
+Dialogue: 0,1:14:42.42,1:14:44.75,Default,,0,0,0,,It's the third one this week.
+Dialogue: 0,1:14:44.75,1:14:47.88,Default,,0,0,0,,If this keeps up, I've gotta\Nopen a bank account for you.
+Dialogue: 0,1:14:48.51,1:14:50.59,Default,,0,0,0,,Don't say I never gave you though.
+Dialogue: 0,1:14:53.93,1:14:56.22,Default,,0,0,0,,Dog's making it like a bandit here.
+Dialogue: 0,1:14:56.97,1:14:59.47,Default,,0,0,0,,Look at this! Isn't that cute?
+Dialogue: 0,1:15:00.56,1:15:02.19,Default,,0,0,0,,{\i1}Hey Hac!{\i0}
+Dialogue: 0,1:15:02.52,1:15:04.90,Default,,0,0,0,,- What're you doing with his money?\N- I am his executor.
+Dialogue: 0,1:15:14.91,1:15:17.20,Default,,0,0,0,,- Be right with you, sir.\N- Thank you.
+Dialogue: 0,1:15:32.84,1:15:37.30,Default,,0,0,0,,Hello Hachi, how are you?
+Dialogue: 0,1:15:39.01,1:15:42.73,Default,,0,0,0,,Here you are Hachi.\NThere you are.
+Dialogue: 0,1:15:43.52,1:15:45.23,Default,,0,0,0,,Hungry... eh?
+Dialogue: 0,1:15:45.23,1:15:49.11,Default,,0,0,0,,Yes, very cold. He must eat.
+Dialogue: 0,1:15:50.57,1:15:53.57,Default,,0,0,0,,I'm just Jess,\NI run the hotdog stand.
+Dialogue: 0,1:15:53.57,1:15:56.32,Default,,0,0,0,,I'm Ken-Vijish,\NProfessor Wilson's friend.
+Dialogue: 0,1:15:56.32,1:15:58.41,Default,,0,0,0,,Mr. Professor, ha.
+Dialogue: 0,1:15:58.41,1:16:01.04,Default,,0,0,0,,One sugar, two creams.
+Dialogue: 0,1:16:02.16,1:16:04.37,Default,,0,0,0,,So then you must have\Nread the article then?
+Dialogue: 0,1:16:04.37,1:16:05.41,Default,,0,0,0,,I did!
+Dialogue: 0,1:16:05.41,1:16:07.50,Default,,0,0,0,,You saw my name in the article?
+Dialogue: 0,1:16:07.50,1:16:09.67,Default,,0,0,0,,Yes, I did. That...
+Dialogue: 0,1:16:09.67,1:16:10.71,Default,,0,0,0,,Twice.
+Dialogue: 0,1:16:11.05,1:16:13.21,Default,,0,0,0,,Please, let me help with the expense.
+Dialogue: 0,1:16:13.21,1:16:15.51,Default,,0,0,0,,No, no, no, please. No money.
+Dialogue: 0,1:16:15.51,1:16:17.59,Default,,0,0,0,,What if he get sick?\NMedical expenses...
+Dialogue: 0,1:16:17.59,1:16:20.37,Default,,0,0,0,,They get collection,\Nfrom the travellers,
+Dialogue: 0,1:16:20.37,1:16:23.14,Default,,0,0,0,,the vendors and\Nwe will take care of it.
+Dialogue: 0,1:16:23.14,1:16:25.48,Default,,0,0,0,,This station is where Hachi\Nroams now.
+Dialogue: 0,1:16:25.48,1:16:27.81,Default,,0,0,0,,Everyday he comes same time,\Nsame place...
+Dialogue: 0,1:16:27.81,1:16:29.27,Default,,0,0,0,,here only.
+Dialogue: 0,1:16:29.27,1:16:30.86,Default,,0,0,0,,You'll do that for him?
+Dialogue: 0,1:16:30.86,1:16:32.61,Default,,0,0,0,,Take care of him?
+Dialogue: 0,1:16:32.61,1:16:34.19,Default,,0,0,0,,Of course!
+Dialogue: 0,1:16:36.07,1:16:40.32,Default,,0,0,0,,Okay then.\NGot to serve some hotdogs.
+Dialogue: 0,1:16:40.32,1:16:41.37,Default,,0,0,0,,Good to meet you.
+Dialogue: 0,1:16:41.37,1:16:43.87,Default,,0,0,0,,Me too.\NThank you very much.
+Dialogue: 0,1:17:30.58,1:17:36.76,Default,,0,0,0,,Come on, mister.\NHere we go.
+Dialogue: 0,1:17:40.51,1:17:44.68,Default,,0,0,0,,Want some more?\NHere, take this.
+Dialogue: 0,1:17:46.56,1:17:51.44,Default,,0,0,0,,Okay... come on boy, last piece.\NTaste good, eh?
+Dialogue: 0,1:18:01.99,1:18:03.53,Default,,0,0,0,,{\i1}This is where you\Nall brought it?{\i0}
+Dialogue: 0,1:18:03.53,1:18:06.66,Default,,0,0,0,,{\i1}- Oh, thank you.\N- See you tomorrow, Hachi.{\i0}
+Dialogue: 0,1:18:07.91,1:18:09.70,Default,,0,0,0,,{\i1}Ciao, Hachi!{\i0}
+Dialogue: 0,1:18:47.95,1:18:49.54,Default,,0,0,0,,{\i1}Thanks.{\i0}
+Dialogue: 0,1:19:02.63,1:19:04.97,Default,,0,0,0,,{\i1}The usual, eh?{\i0}
+Dialogue: 0,1:19:04.97,1:19:07.55,Default,,0,0,0,,{\i1}Why you ever not take\Nchicken wings?{\i0}
+Dialogue: 0,1:19:07.55,1:19:08.60,Default,,0,0,0,,{\i1}Hey, this...{\i0}
+Dialogue: 0,1:19:08.60,1:19:09.64,Default,,0,0,0,,{\i1}Mustard?{\i0}
+Dialogue: 0,1:19:10.68,1:19:12.98,Default,,0,0,0,,Mrs. Wilson, nice to\Nsee you again.
+Dialogue: 0,1:19:12.98,1:19:14.02,Default,,0,0,0,,Good afternoon.
+Dialogue: 0,1:19:15.90,1:19:18.65,Default,,0,0,0,,Hey, that's the professor's wife, eh?
+Dialogue: 0,1:19:29.45,1:19:31.79,Default,,0,0,0,,{\i1}Now Showing\NThe Merchant of Venice{\i0}
+Dialogue: 0,1:20:11.16,1:20:15.37,Default,,0,0,0,,{\i1}Parker H. Wilson\NLoving husband and father{\i0}
+Dialogue: 0,1:20:18.71,1:20:20.79,Default,,0,0,0,,Cate.
+Dialogue: 0,1:20:24.42,1:20:25.76,Default,,0,0,0,,Ken...
+Dialogue: 0,1:20:28.47,1:20:30.55,Default,,0,0,0,,It's been awhile.
+Dialogue: 0,1:20:31.18,1:20:33.26,Default,,0,0,0,,Certainly have.
+Dialogue: 0,1:20:42.86,1:20:47.65,Default,,0,0,0,,It's been 10 years...\Ncan you believe it.
+Dialogue: 0,1:21:02.25,1:21:04.04,Default,,0,0,0,,Hi Hachi!
+Dialogue: 0,1:21:10.18,1:21:12.68,Default,,0,0,0,,{\i1}Good day, Hachi.{\i0}
+Dialogue: 0,1:21:26.23,1:21:28.63,Default,,0,0,0,,{\i1}Coffee without sugar, and don't\Nput mustard in the hot dog.{\i0}
+Dialogue: 0,1:21:28.63,1:21:31.03,Default,,0,0,0,,{\i1}Ketchup is the best.{\i0}
+Dialogue: 0,1:21:31.03,1:21:33.11,Default,,0,0,0,,{\i1}Alright, have a good one.{\i0}
+Dialogue: 0,1:21:56.80,1:21:58.56,Default,,0,0,0,,Hachi?
+Dialogue: 0,1:22:05.15,1:22:07.23,Default,,0,0,0,,Hachi...
+Dialogue: 0,1:22:11.07,1:22:14.20,Default,,0,0,0,,Oh, you poor thing,\Nyou're still waiting.
+Dialogue: 0,1:22:25.17,1:22:27.46,Default,,0,0,0,,Good boy.
+Dialogue: 0,1:22:29.21,1:22:32.34,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:22:47.27,1:22:51.03,Default,,0,0,0,,If it's alright, could I wait with\Nyou for the next train?
+Dialogue: 0,1:22:53.82,1:22:55.40,Default,,0,0,0,,Yeah?
+Dialogue: 0,1:22:56.95,1:22:59.03,Default,,0,0,0,,Thanks.
+Dialogue: 0,1:23:07.79,1:23:09.46,Default,,0,0,0,,Oh, Hachi...
+Dialogue: 0,1:23:22.26,1:23:23.31,Default,,0,0,0,,{\i1}You're so tiny.{\i0}
+Dialogue: 0,1:23:23.35,1:23:24.39,Default,,0,0,0,,{\i1}You like that mom?{\i0}
+Dialogue: 0,1:23:24.39,1:23:25.43,Default,,0,0,0,,- Yeah.\N- Yeah.
+Dialogue: 0,1:23:25.43,1:23:27.39,Default,,0,0,0,,Let's go somewhere.
+Dialogue: 0,1:23:27.39,1:23:28.44,Default,,0,0,0,,Oh, that's me.
+Dialogue: 0,1:23:28.44,1:23:31.46,Default,,0,0,0,,I know, I remember.
+Dialogue: 0,1:23:31.46,1:23:34.48,Default,,0,0,0,,I remember I was there that day\Nwhen the picture was taken.
+Dialogue: 0,1:23:35.44,1:23:37.32,Default,,0,0,0,,- He is so excited.\N- Hmm!
+Dialogue: 0,1:23:38.99,1:23:40.95,Default,,0,0,0,,Oh, he's at the wedding.
+Dialogue: 0,1:23:40.95,1:23:45.95,Default,,0,0,0,,Yeah, he's right there.\NRight there.
+Dialogue: 0,1:23:45.95,1:23:48.37,Default,,0,0,0,,Where did grandpa find Hachi?
+Dialogue: 0,1:23:49.50,1:23:53.46,Default,,0,0,0,,{\i1}Ronnie, actually Hachi found\Nyour grandfather.{\i0}
+Dialogue: 0,1:23:53.46,1:23:55.34,Default,,0,0,0,,{\i1}How?{\i0}
+Dialogue: 0,1:23:55.34,1:24:00.05,Default,,0,0,0,,{\i1}One night, your grandfather\Nwas coming back from a trip.{\i0}
+Dialogue: 0,1:24:01.59,1:24:06.60,Default,,0,0,0,,{\i1}Got out of the train station\Nand on the platform...{\i0}
+Dialogue: 0,1:26:00.38,1:26:02.05,Default,,0,0,0,,Hey, wake up.
+Dialogue: 0,1:26:02.05,1:26:04.55,Default,,0,0,0,,Hey, boy.
+Dialogue: 0,1:26:05.68,1:26:09.43,Default,,0,0,0,,Hey, come on. Let's go!
+Dialogue: 0,1:26:37.79,1:26:39.46,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:26:39.46,1:26:41.75,Default,,0,0,0,,Hey boy!
+Dialogue: 0,1:27:24.09,1:27:29.09,Default,,0,0,0,,{\i1}I never met my grandfather.\NHe died when I was just a baby.{\i0}
+Dialogue: 0,1:27:29.13,1:27:35.39,Default,,0,0,0,,But when I hear about him and Hachi,\NI feel like I know him.
+Dialogue: 0,1:27:35.39,1:27:39.04,Default,,0,0,0,,{\i1}They taught me the\Nmeaning of loyalty,{\i0}
+Dialogue: 0,1:27:39.04,1:27:42.69,Default,,0,0,0,,{\i1}and you should never forget\Nanyone that you love.{\i0}
+Dialogue: 0,1:27:43.11,1:27:47.49,Default,,0,0,0,,And that's why Hachi will\Nforever be my hero.
+Dialogue: 0,1:28:01.42,1:28:03.54,Default,,0,0,0,,Oh, he's happy to see somebody.
+Dialogue: 0,1:28:05.92,1:28:07.59,Default,,0,0,0,,Move along.
+Dialogue: 0,1:28:10.93,1:28:13.43,Default,,0,0,0,,Come on Hachi, let's go!

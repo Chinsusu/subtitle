@@ -1,0 +1,868 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:24.15,0:00:29.00,Default,,0,0,0,,Çeviri: Zero Cool\Nİyi Seyirler
+Dialogue: 0,0:00:33.00,0:00:36.20,Default,,0,0,0,,Kristof Kolomb yolunu kaybedip\NAmerika'yı keşfetti.
+Dialogue: 0,0:00:36.20,0:00:38.00,Default,,0,0,0,,Her neyse...\No benim kahramanım.
+Dialogue: 0,0:00:38.00,0:00:42.40,Default,,0,0,0,,Küçük gemisini engin okyanusta\Nyiğitçe muhafaza etti.
+Dialogue: 0,0:00:42.40,0:00:45.00,Default,,0,0,0,,Ve Kolomb gününde\Nokula gitmiyoruz.
+Dialogue: 0,0:00:49.10,0:00:51.20,Default,,0,0,0,,Teşekkürler, Heather.\NRonnie?
+Dialogue: 0,0:00:51.20,0:00:53.20,Default,,0,0,0,,Sen de bize kahramanından bahset.
+Dialogue: 0,0:01:02.33,0:01:05.11,Default,,0,0,0,,HACHİKO Bir Köpeğin Hikayesi
+Dialogue: 0,0:01:06.40,0:01:07.70,Default,,0,0,0,,Ne yazıyor?
+Dialogue: 0,0:01:08.90,0:01:11.50,Default,,0,0,0,,Hachiko, büyükbabamın köpeğiydi.
+Dialogue: 0,0:01:15.70,0:01:18.20,Default,,0,0,0,,Herkes ona\Ngizemli köpek Hachi derdi.
+Dialogue: 0,0:01:18.20,0:01:20.60,Default,,0,0,0,,Çünkü, kimse\Nnereden geldiğini bilmiyordu.
+Dialogue: 0,0:01:23.53,0:01:26.23,Default,,0,0,0,,Belki bir köpek barınağından kaçmıştı.
+Dialogue: 0,0:01:27.23,0:01:29.53,Default,,0,0,0,,Belki de uzaklarda bir\Nyerde, arabanın birinden düşmüştü.
+Dialogue: 0,0:01:29.53,0:01:32.13,Default,,0,0,0,,Florida ya da\NNew Jersey gibi bir yerde.
+Dialogue: 0,0:01:35.83,0:01:38.93,Default,,0,0,0,,Nasıl olduğunun önemi yok,\NHachi kaybolmuştu.
+Dialogue: 0,0:03:08.44,0:03:10.05,Default,,0,0,0,,Ne olduğunun önemi yok.
+Dialogue: 0,0:03:10.05,0:03:14.14,Default,,0,0,0,,Uzun zaman önce,\Nbüyükbabamın yaşadığı yerde,
+Dialogue: 0,0:03:14.84,0:03:17.04,Default,,0,0,0,,bir tren istasyonunda,\NHachi bir anda karşısına çıktı.
+Dialogue: 0,0:03:17.84,0:03:20.34,Default,,0,0,0,,Onların hikayesi de\Nişte böyle başladı.
+Dialogue: 0,0:03:54.84,0:03:56.54,Default,,0,0,0,,Altı gün mü?\NÇok fazla.
+Dialogue: 0,0:04:01.54,0:04:03.74,Default,,0,0,0,,Evet, harikayım.
+Dialogue: 0,0:04:03.75,0:04:05.36,Default,,0,0,0,,Hayır, hayır, yürüyeceğim.
+Dialogue: 0,0:04:06.65,0:04:08.95,Default,,0,0,0,,Tamam, ben de seni seviyorum.\NGörüşürüz.
+Dialogue: 0,0:04:12.25,0:04:15.25,Default,,0,0,0,,Ahbap, yolunu mu kaybettin?
+Dialogue: 0,0:04:15.25,0:04:17.25,Default,,0,0,0,,Gel bakalım.
+Dialogue: 0,0:04:21.44,0:04:23.55,Default,,0,0,0,,Kaybolmuş gibisin, ahbap.
+Dialogue: 0,0:04:24.85,0:04:27.15,Default,,0,0,0,,Sana bakan biri olmalı.
+Dialogue: 0,0:04:32.83,0:04:34.53,Default,,0,0,0,,Peronda gezinen birini buldum.
+Dialogue: 0,0:04:34.79,0:04:36.89,Default,,0,0,0,,- Peronda mı?\N- Evet, peronda.
+Dialogue: 0,0:04:37.49,0:04:39.09,Default,,0,0,0,,İyi bir şey bulmuşsunuz gibi.
+Dialogue: 0,0:04:39.10,0:04:41.70,Default,,0,0,0,,Evet öyle. Pekala...
+Dialogue: 0,0:04:41.70,0:04:45.80,Default,,0,0,0,,Orada kırılmış bir kutu var.\NKimin olduğunu bilmiyorum, ama...
+Dialogue: 0,0:04:47.10,0:04:48.88,Default,,0,0,0,,mutlaka birinindir.
+Dialogue: 0,0:04:48.88,0:04:52.28,Default,,0,0,0,,- Evet, kesin öyledir.\N- Sen göz kulak olursun.
+Dialogue: 0,0:04:52.28,0:04:53.68,Default,,0,0,0,,Ama... olmaz, yapamam.
+Dialogue: 0,0:04:53.68,0:04:55.78,Default,,0,0,0,,- Ne?\N- Yapamam, Profesör.
+Dialogue: 0,0:04:55.88,0:04:58.88,Default,,0,0,0,,Buralarda gezinir.\NBu tür köpekler dışarıda bırakılmaz...
+Dialogue: 0,0:04:58.89,0:05:02.58,Default,,0,0,0,,Elbette öyle.\NBunu biliyorum, kiminse geri gelebilir.
+Dialogue: 0,0:05:03.70,0:05:07.30,Default,,0,0,0,,Siz alın. Biri sorarsa,\Nsizde olduğunu söylerim.
+Dialogue: 0,0:05:07.30,0:05:08.70,Default,,0,0,0,,Mutlaka biri gelecektir.
+Dialogue: 0,0:05:08.70,0:05:14.29,Default,,0,0,0,,Anlamıyorsunuz. Biri gelmezse\Nbütün gece burada kalacak,
+Dialogue: 0,0:05:14.29,0:05:17.99,Default,,0,0,0,,kimse gelmezse...\Ngece boyunca bakarım...
+Dialogue: 0,0:05:17.99,0:05:21.49,Default,,0,0,0,,ama sabah, barınağa\Nteslim ederim.
+Dialogue: 0,0:05:36.39,0:05:41.99,Default,,0,0,0,,Nereye gittiğini biliyor musun?\NBenimle geliyorsun.
+Dialogue: 0,0:05:42.19,0:05:45.79,Default,,0,0,0,,Sıcacık bir ev, bir sürü arkadaş.\NNasıl?
+Dialogue: 0,0:05:45.79,0:05:48.89,Default,,0,0,0,,Ne?\NEvet, seveceksin.
+Dialogue: 0,0:06:59.80,0:07:02.60,Default,,0,0,0,,Buraya yat bakalım.
+Dialogue: 0,0:07:02.60,0:07:06.30,Default,,0,0,0,,Buraya, tamam mı?\NEvet, işte böyle.
+Dialogue: 0,0:07:08.72,0:07:12.82,Default,,0,0,0,,Kalkma. Yat.\NTamam. Burada kal.
+Dialogue: 0,0:07:17.50,0:07:18.81,Default,,0,0,0,,Merhaba, yakışıklı.
+Dialogue: 0,0:07:18.81,0:07:20.81,Default,,0,0,0,,- Merhaba.\N- Merhaba.
+Dialogue: 0,0:07:20.81,0:07:22.81,Default,,0,0,0,,- Nasıldı?\N- Harika.
+Dialogue: 0,0:07:22.81,0:07:25.61,Default,,0,0,0,,- Beni özledin mi?\N- Biraz, peki ya sen?
+Dialogue: 0,0:07:25.61,0:07:28.11,Default,,0,0,0,,Bilmem, düşünmem lazım.
+Dialogue: 0,0:07:31.55,0:07:33.75,Default,,0,0,0,,Sana bir sürprizim var.
+Dialogue: 0,0:07:34.55,0:07:37.63,Default,,0,0,0,,Evet, aslında benim de sana\Nküçük bir sürprizim var.
+Dialogue: 0,0:07:37.63,0:07:40.13,Default,,0,0,0,,Hadi, zamanı boşa harcamayalım.
+Dialogue: 0,0:07:42.63,0:07:44.53,Default,,0,0,0,,Bence de harcamayalım.
+Dialogue: 0,0:08:00.55,0:08:01.55,Default,,0,0,0,,Bir şey duydun mu?
+Dialogue: 0,0:08:01.98,0:08:04.78,Default,,0,0,0,,Herhalde ağacın dalı\Npencereye falan çarpıyordur.
+Dialogue: 0,0:08:54.14,0:08:56.24,Default,,0,0,0,,- Tamam, her şey yolunda.\N- Parker!
+Dialogue: 0,0:08:56.24,0:08:57.74,Default,,0,0,0,,- Anlaşmıştık!\N- Biliyorum, biliyorum...
+Dialogue: 0,0:08:57.74,0:09:00.14,Default,,0,0,0,,- Bunu unuttun mu?\N- Hiç bir şeyi unutmadım.
+Dialogue: 0,0:09:00.15,0:09:03.65,Default,,0,0,0,,Onu istasyonda buldum,\Nkaybolmuştu.
+Dialogue: 0,0:09:03.65,0:09:06.65,Default,,0,0,0,,Carl onu barınağa\Nvermek istiyordu, ben de düşündüm ki..
+Dialogue: 0,0:09:07.33,0:09:10.33,Default,,0,0,0,,Köpek yavrusunu eve getirip\Nbeni ikna etmeyi düşündün, değil mi?
+Dialogue: 0,0:09:10.33,0:09:12.63,Default,,0,0,0,,Hayır, hayır,\Nonu öylece bırakmak istemedim.
+Dialogue: 0,0:09:12.63,0:09:15.33,Default,,0,0,0,,Yarın sabah nerede bulduysam\Noraya götüreceğim, tamam mı?
+Dialogue: 0,0:09:15.33,0:09:17.33,Default,,0,0,0,,Söz veriyorum, bunu yapacağım.
+Dialogue: 0,0:09:19.10,0:09:21.50,Default,,0,0,0,,İşte, Lucas'ın eşyaları buradaymış.
+Dialogue: 0,0:09:21.50,0:09:23.50,Default,,0,0,0,,Evet, evet.
+Dialogue: 0,0:09:23.50,0:09:25.60,Default,,0,0,0,,Tamam, gidiyoruz, atla bakalım.
+Dialogue: 0,0:09:30.85,0:09:34.37,Default,,0,0,0,,Bak, burada ilginç şeyler varmış.
+Dialogue: 0,0:09:34.47,0:09:36.97,Default,,0,0,0,,Isıtır, anladın mı?
+Dialogue: 0,0:09:38.87,0:09:40.57,Default,,0,0,0,,Bu güzelmiş.
+Dialogue: 0,0:09:40.57,0:09:43.77,Default,,0,0,0,,Sevdin mi?\NLucas'ın favorisiydi.
+Dialogue: 0,0:09:47.37,0:09:49.37,Default,,0,0,0,,Bak, suyunda burada.
+Dialogue: 0,0:09:50.87,0:09:54.47,Default,,0,0,0,,Söyleyecek çok şeyin var, değil mi?
+Dialogue: 0,0:09:56.37,0:09:57.87,Default,,0,0,0,,Tamam, ahbap.
+Dialogue: 0,0:10:03.25,0:10:04.57,Default,,0,0,0,,Fena değil, ha?
+Dialogue: 0,0:10:06.20,0:10:07.39,Default,,0,0,0,,İyi geceler ahbap.
+Dialogue: 0,0:10:18.57,0:10:21.07,Default,,0,0,0,,O köpeğin bir eve ihtiyacı var.
+Dialogue: 0,0:10:21.38,0:10:24.08,Default,,0,0,0,,Sadece parmaklarını yaladı,\Nısırmadı bile.
+Dialogue: 0,0:10:34.35,0:10:36.28,Default,,0,0,0,,Ufaklık, ufaklık!
+Dialogue: 0,0:10:36.28,0:10:39.08,Default,,0,0,0,,Ufaklık, hadi ama.
+Dialogue: 0,0:10:39.08,0:10:43.18,Default,,0,0,0,,İşte bu, harika!\Nİyi çocuk!
+Dialogue: 0,0:10:44.29,0:10:46.38,Default,,0,0,0,,Baba, onu sevdim.
+Dialogue: 0,0:10:47.25,0:10:48.38,Default,,0,0,0,,Bir ismi var mı?
+Dialogue: 0,0:10:48.38,0:10:51.28,Default,,0,0,0,,Evet var.\N"Geçici Ziyaretçi"
+Dialogue: 0,0:10:57.81,0:11:02.91,Default,,0,0,0,,Onu rahat bırakın, zaten Lucas\Nolmayınca bu ev çok boş geliyordu.
+Dialogue: 0,0:11:04.37,0:11:06.47,Default,,0,0,0,,Annene sormalısın.
+Dialogue: 0,0:11:06.47,0:11:07.87,Default,,0,0,0,,Anne!
+Dialogue: 0,0:11:07.87,0:11:08.77,Default,,0,0,0,,Evet?
+Dialogue: 0,0:11:08.77,0:11:10.37,Default,,0,0,0,,Lütfen buraya gelir misin?
+Dialogue: 0,0:11:12.57,0:11:14.37,Default,,0,0,0,,Müziğini oldukça tatlı buldu.
+Dialogue: 0,0:11:14.37,0:11:19.37,Default,,0,0,0,,Gerçekten mi? Ne kadar iyi bir köpek!\NVe onu bırakmam gerekiyor.
+Dialogue: 0,0:11:19.37,0:11:22.47,Default,,0,0,0,,Kıvırma yok.\NVe sen... onu teşvik etme.
+Dialogue: 0,0:11:22.47,0:11:23.47,Default,,0,0,0,,Etmiyordum.
+Dialogue: 0,0:11:23.47,0:11:24.67,Default,,0,0,0,,Aynen öyle.
+Dialogue: 0,0:11:25.77,0:11:28.27,Default,,0,0,0,,Baba, ondan\Ndışarı çıkabilir, bunu al.
+Dialogue: 0,0:11:28.28,0:11:29.88,Default,,0,0,0,,Evet, bu daha iyi.
+Dialogue: 0,0:11:30.65,0:11:31.94,Default,,0,0,0,,- Hoşuma gitti.\N- Güvenli.
+Dialogue: 0,0:11:33.48,0:11:35.08,Default,,0,0,0,,Hazır mısın, evlat?
+Dialogue: 0,0:11:36.98,0:11:39.98,Default,,0,0,0,,Artık gidebiliriz,\Nbunu beğendim.
+Dialogue: 0,0:11:41.37,0:11:43.37,Default,,0,0,0,,Dün gece Michael'la görüştün mü?
+Dialogue: 0,0:11:43.37,0:11:46.62,Default,,0,0,0,,Evet, yıldız kaymalarını\Nizlemeye gittik.
+Dialogue: 0,0:11:48.69,0:11:49.69,Default,,0,0,0,,Güzel, değil mi?
+Dialogue: 0,0:11:50.08,0:11:51.17,Default,,0,0,0,,Çok romantik.
+Dialogue: 0,0:11:51.17,0:11:52.77,Default,,0,0,0,,Evet, çok.
+Dialogue: 0,0:11:59.49,0:12:00.51,Default,,0,0,0,,Acaba siz...
+Dialogue: 0,0:12:00.51,0:12:01.51,Default,,0,0,0,,Yardımcı olabilir miyim?
+Dialogue: 0,0:12:01.51,0:12:06.11,Default,,0,0,0,,Bu ufaklığı dün istasyonda buldum,\Nsahibi bulunana kadar bakamaz mısınız?
+Dialogue: 0,0:12:06.11,0:12:10.11,Default,,0,0,0,,Bakmak mı? Burası misafirhane değil,\Nköpek barınağı ahbap.
+Dialogue: 0,0:12:11.92,0:12:14.72,Default,,0,0,0,,Onu buldum sadece, ne yapacağım?
+Dialogue: 0,0:12:17.79,0:12:19.42,Default,,0,0,0,,Bir bakayım.
+Dialogue: 0,0:12:21.22,0:12:24.02,Default,,0,0,0,,Şirinmiş,\Nyeni bir sahip bulabilirim, ama...
+Dialogue: 0,0:12:24.99,0:12:27.02,Default,,0,0,0,,Bana iki hafta verin.
+Dialogue: 0,0:12:28.82,0:12:30.42,Default,,0,0,0,,İki hafta mı?
+Dialogue: 0,0:12:30.42,0:12:32.82,Default,,0,0,0,,Evet, yerimiz yok.
+Dialogue: 0,0:12:35.02,0:12:36.22,Default,,0,0,0,,Affedersiniz.
+Dialogue: 0,0:12:40.19,0:12:42.32,Default,,0,0,0,,Sizi önümüzdeki hafta ararım,\Ntamam, hoşça kal.
+Dialogue: 0,0:12:42.32,0:12:45.02,Default,,0,0,0,,- Selam, Mary Anne.\N- Nasıl gidiyor, Parker?
+Dialogue: 0,0:12:45.02,0:12:48.52,Default,,0,0,0,,Harika. Aslında,\Nsana bir şey sormak istiyorum.
+Dialogue: 0,0:12:48.53,0:12:49.93,Default,,0,0,0,,Elbette, istediğini sorabilirsin.
+Dialogue: 0,0:12:58.56,0:12:59.86,Default,,0,0,0,,Şuna bak!
+Dialogue: 0,0:13:01.32,0:13:04.42,Default,,0,0,0,,Minik yaramaz, merhaba.
+Dialogue: 0,0:13:04.42,0:13:07.52,Default,,0,0,0,,Muhteşem!\NNereden geldin sen?
+Dialogue: 0,0:13:07.52,0:13:11.48,Default,,0,0,0,,Dün onu istasyonda buldum...\Nbilmiyorum, kaybolmuş gibiydi.
+Dialogue: 0,0:13:11.48,0:13:14.18,Default,,0,0,0,,Gerçekten mi? Çok şirin!
+Dialogue: 0,0:13:14.19,0:13:16.19,Default,,0,0,0,,- Bunu asmak istiyorum.\N- Tamam, iyi.
+Dialogue: 0,0:13:16.19,0:13:19.28,Default,,0,0,0,,- Pencereye mi?\N- Farketmez, nereye istersen.
+Dialogue: 0,0:13:19.79,0:13:22.79,Default,,0,0,0,,Parker, bu köpek yavrusu olağanüstü!
+Dialogue: 0,0:13:22.79,0:13:24.59,Default,,0,0,0,,Onu ister misin?
+Dialogue: 0,0:13:24.59,0:13:26.39,Default,,0,0,0,,Ne, ben mi alayım?
+Dialogue: 0,0:13:26.39,0:13:27.99,Default,,0,0,0,,Güzel bir köpek yavrusu.
+Dialogue: 0,0:13:28.66,0:13:31.36,Default,,0,0,0,,Ne dersin, Antonio?\NYeni oda arkadaşı.
+Dialogue: 0,0:13:31.96,0:13:33.76,Default,,0,0,0,,Hayır, Antonio!
+Dialogue: 0,0:13:36.66,0:13:38.66,Default,,0,0,0,,Tamam, tamam.
+Dialogue: 0,0:13:49.64,0:13:51.54,Default,,0,0,0,,Günaydın, Profesör.
+Dialogue: 0,0:13:51.55,0:13:52.55,Default,,0,0,0,,Jess.
+Dialogue: 0,0:13:52.55,0:13:55.55,Default,,0,0,0,,Tek şeker, 2 porsiyon krema...\NNasılsınız?
+Dialogue: 0,0:13:55.55,0:13:57.95,Default,,0,0,0,,Karşılığında bir arkadaş istemez misin?\NMesela bir köpek.
+Dialogue: 0,0:13:57.95,0:13:59.65,Default,,0,0,0,,Nakiti tercih ederim.
+Dialogue: 0,0:13:59.65,0:14:02.05,Default,,0,0,0,,Büyüyünce\Niyi bir bekçi köpeği olur.
+Dialogue: 0,0:14:02.05,0:14:06.25,Default,,0,0,0,,Hot dog'lar için bekçi köpeği mi?\NHiç sanmıyorum.
+Dialogue: 0,0:14:07.80,0:14:09.50,Default,,0,0,0,,Ben de sanmıyorum.
+Dialogue: 0,0:14:09.50,0:14:13.00,Default,,0,0,0,,Bu zamanda\Nkim bir köpek almak ister ki?
+Dialogue: 0,0:14:13.00,0:14:17.00,Default,,0,0,0,,Yani, onu besleyeceksin,\Nyürüyüşe çıkartacaksın, yıkayacaksın...
+Dialogue: 0,0:14:17.00,0:14:18.48,Default,,0,0,0,,Onun için de\Nbir şeyler alabilir miyim?
+Dialogue: 0,0:14:18.50,0:14:20.50,Default,,0,0,0,,Tabii ki.
+Dialogue: 0,0:14:20.50,0:14:21.80,Default,,0,0,0,,Biraz daha alın.
+Dialogue: 0,0:14:21.80,0:14:23.80,Default,,0,0,0,,Tamamdır, sağ ol, Jess.
+Dialogue: 0,0:14:23.80,0:14:24.80,Default,,0,0,0,,Sağlıcakla.
+Dialogue: 0,0:14:26.55,0:14:29.26,Default,,0,0,0,,- Bir haber var mı?\N- Hayır, ne arayan var ne soran.
+Dialogue: 0,0:14:29.52,0:14:31.63,Default,,0,0,0,,Kimse yok mu?
+Dialogue: 0,0:14:32.33,0:14:34.34,Default,,0,0,0,,Tuhaf, gerçekten tuhaf.
+Dialogue: 0,0:14:35.94,0:14:37.24,Default,,0,0,0,,Tutar mısın?
+Dialogue: 0,0:14:38.74,0:14:42.97,Default,,0,0,0,,Kate... yardımcı olması\Niçin hazırladı, asabilir misin?
+Dialogue: 0,0:14:43.30,0:14:44.70,Default,,0,0,0,,Hadi ama.
+Dialogue: 0,0:14:45.40,0:14:46.80,Default,,0,0,0,,Olur, asarım.
+Dialogue: 0,0:14:46.80,0:14:48.20,Default,,0,0,0,,Duyarlı birisin.
+Dialogue: 0,0:14:48.20,0:14:49.20,Default,,0,0,0,,Biliyorum, biliyorum.
+Dialogue: 0,0:14:50.79,0:14:52.80,Default,,0,0,0,,Sırt çantasından\Ngerçekten hoşlanmış gibi.
+Dialogue: 0,0:14:53.89,0:14:55.90,Default,,0,0,0,,Profesör trene\Nköpekle binemezsiniz.
+Dialogue: 0,0:14:56.20,0:14:58.40,Default,,0,0,0,,- Köpekle binilmiyor.\N- Aynen öyle.
+Dialogue: 0,0:16:02.73,0:16:04.93,Default,,0,0,0,,Tamam kesin, bir dakika,\Nbir şey söyleyeceğim.
+Dialogue: 0,0:16:04.93,0:16:08.63,Default,,0,0,0,,İlk bölümdeki tekrarı atla\Nve sözlerle birlikte girin.
+Dialogue: 0,0:16:08.63,0:16:09.63,Default,,0,0,0,,Tamam mı?
+Dialogue: 0,0:16:09.63,0:16:10.63,Default,,0,0,0,,Daha iyi.
+Dialogue: 0,0:16:10.63,0:16:12.93,Default,,0,0,0,,Bir parça daha hızlı çalmalısın.
+Dialogue: 0,0:16:12.93,0:16:14.93,Default,,0,0,0,,Ve söz kısmı geldikten sonra...
+Dialogue: 0,0:16:15.63,0:16:17.63,Default,,0,0,0,,Derin bir nefes almaları lazım.
+Dialogue: 0,0:16:50.64,0:16:51.84,Default,,0,0,0,,Merhaba.
+Dialogue: 0,0:17:01.84,0:17:03.14,Default,,0,0,0,,Bu harika.
+Dialogue: 0,0:17:06.32,0:17:08.04,Default,,0,0,0,,Ufaklığı da oynatalım mı?
+Dialogue: 0,0:17:12.44,0:17:14.94,Default,,0,0,0,,- Pekala, tekrar yapalım.\N- Evet, en baştan.
+Dialogue: 0,0:17:17.24,0:17:19.04,Default,,0,0,0,,Kutusundan çıkan tek şey bu.
+Dialogue: 0,0:17:19.04,0:17:22.14,Default,,0,0,0,,"Yamanashi", görünen kadarıyla.
+Dialogue: 0,0:17:22.14,0:17:25.04,Default,,0,0,0,,- Nedir bu?\N- Japonya'da bir yer.
+Dialogue: 0,0:17:27.24,0:17:29.54,Default,,0,0,0,,- Sıradışı bir köpek, Parker.\N- Kesinlikle.
+Dialogue: 0,0:17:29.54,0:17:33.04,Default,,0,0,0,,Bu bir Akita,\NAkita... böyle derler.
+Dialogue: 0,0:17:33.04,0:17:35.64,Default,,0,0,0,,- Özel bir cins.\N- Öyle mi?
+Dialogue: 0,0:17:40.45,0:17:42.35,Default,,0,0,0,,- Nedir o?\N- Hachi.
+Dialogue: 0,0:17:42.35,0:17:45.45,Default,,0,0,0,,- Ne?\N- Japonca 8 demektir, şanslı rakam.
+Dialogue: 0,0:17:45.45,0:17:49.15,Default,,0,0,0,,Öyle mi?\Nİyi şans, çok hoş.
+Dialogue: 0,0:17:49.65,0:17:53.35,Default,,0,0,0,,Hachi...\NHachi güzel bir isim, sence?
+Dialogue: 0,0:17:53.35,0:17:55.35,Default,,0,0,0,,Belli ki, sekizinci yavru olarak doğdu.
+Dialogue: 0,0:17:55.35,0:17:59.65,Default,,0,0,0,,Sekizin mistik bir anlamı vardır,\Ncennete uzanıp, toprağa düşendir.
+Dialogue: 0,0:18:03.12,0:18:05.52,Default,,0,0,0,,Ne düşünüyorsun?\NOnu ister misin?
+Dialogue: 0,0:18:05.52,0:18:09.25,Default,,0,0,0,,Ben mi? Hayır.\NO seçimini yapmış gibi görünüyor.
+Dialogue: 0,0:18:09.25,0:18:11.25,Default,,0,0,0,,Ne anlamda?
+Dialogue: 0,0:18:11.26,0:18:14.36,Default,,0,0,0,,O artık senin sorumluluğunda,\Nbenim değil.
+Dialogue: 0,0:18:15.36,0:18:16.96,Default,,0,0,0,,Bu bir sorun yaratır mı?
+Dialogue: 0,0:18:16.96,0:18:23.06,Default,,0,0,0,,Belki, sen onu bulmadın...\No seni buldu.
+Dialogue: 0,0:18:24.43,0:18:28.03,Default,,0,0,0,,Kim bilir?\NBu nedenle, takma kafana.
+Dialogue: 0,0:18:28.76,0:18:33.03,Default,,0,0,0,,Dediğine göre Akita,\Nsavaş ve avlanma için yetiştirilirmiş.
+Dialogue: 0,0:18:33.03,0:18:37.33,Default,,0,0,0,,Bir anlamda, asil bir cins.
+Dialogue: 0,0:18:39.16,0:18:42.33,Default,,0,0,0,,Ken, onun görkemli evini\Nnerede bulabileceğini de söyledi mi?
+Dialogue: 0,0:18:44.56,0:18:50.03,Default,,0,0,0,,Bir sürü yere afişi astım.\NBirisi Hachi'ye sahip çıkacaktır.
+Dialogue: 0,0:18:51.27,0:18:52.37,Default,,0,0,0,,Hachi de kim?
+Dialogue: 0,0:18:52.37,0:18:56.97,Default,,0,0,0,,Bu... tasmasında asılıydı, bir sembol.
+Dialogue: 0,0:18:56.97,0:18:58.57,Default,,0,0,0,,Ona isim mi verdin?
+Dialogue: 0,0:18:58.57,0:18:59.77,Default,,0,0,0,,- Hayır, ben...\N- Onu bırakmak istemiyorsun.
+Dialogue: 0,0:18:59.77,0:19:01.47,Default,,0,0,0,,- Hayır, ben...\N- İstiyor musun?
+Dialogue: 0,0:19:01.47,0:19:03.67,Default,,0,0,0,,Onu bırakmak istemiyorum, sadece...
+Dialogue: 0,0:19:03.68,0:19:05.38,Default,,0,0,0,,Kendin itiraf ettin...\Nbizim gitmemizi mi istiyorsun?
+Dialogue: 0,0:19:05.38,0:19:07.38,Default,,0,0,0,,Öyle bir şey demedim.
+Dialogue: 0,0:19:09.33,0:19:10.63,Default,,0,0,0,,Hachi?
+Dialogue: 0,0:19:12.83,0:19:14.13,Default,,0,0,0,,Nereye gittin?
+Dialogue: 0,0:19:17.29,0:19:18.34,Default,,0,0,0,,Hayır.
+Dialogue: 0,0:19:20.42,0:19:23.62,Default,,0,0,0,,Tanrım... Parker, aylardır\Nuğraştığım zor bir çalışmaydı!
+Dialogue: 0,0:19:23.62,0:19:24.42,Default,,0,0,0,,Üzgünüm, üzgünüm.
+Dialogue: 0,0:19:24.42,0:19:27.72,Default,,0,0,0,,Bütün gece dışarıda kalacak Parker.\NBuraya giremez, beni duydun mu?
+Dialogue: 0,0:19:28.53,0:19:32.22,Default,,0,0,0,,Seni duydum.\NŞimdi hallediyorum.
+Dialogue: 0,0:19:39.12,0:19:42.32,Default,,0,0,0,,- Aylardır bununla uğraşıyordum!\N- İnan bana, üzgünüm.
+Dialogue: 0,0:19:42.32,0:19:44.72,Default,,0,0,0,,Bu iş sadece benim için değil,\Ntüm şehir için önemli!
+Dialogue: 0,0:19:44.72,0:19:45.72,Default,,0,0,0,,Benim için de öyle.
+Dialogue: 0,0:19:45.73,0:19:47.93,Default,,0,0,0,,Dört aydır bu\Nmodel üzerinde çalışıyorum.
+Dialogue: 0,0:19:47.93,0:19:52.33,Default,,0,0,0,,Yaptığın çalışmaları beğeniyorum.\NBelli oluyor, içine ediyorsun!
+Dialogue: 0,0:19:52.33,0:19:54.23,Default,,0,0,0,,Kate, bu doğru değil.
+Dialogue: 0,0:19:54.23,0:19:56.03,Default,,0,0,0,,Bana sakin ol deme!
+Dialogue: 0,0:20:07.60,0:20:08.80,Default,,0,0,0,,Hachi.
+Dialogue: 0,0:20:10.80,0:20:13.60,Default,,0,0,0,,Hadi ufaklık, hadi.
+Dialogue: 0,0:20:14.00,0:20:16.10,Default,,0,0,0,,İşte böyle, içeri gidiyoruz.
+Dialogue: 0,0:20:16.90,0:20:18.80,Default,,0,0,0,,Ve seni onlara kabul ettireceğim.
+Dialogue: 0,0:20:33.20,0:20:34.60,Default,,0,0,0,,Tamamdır.
+Dialogue: 0,0:20:37.30,0:20:39.80,Default,,0,0,0,,Pekala, işte buldum seni.
+Dialogue: 0,0:20:40.60,0:20:44.41,Default,,0,0,0,,Evet.\NBak burada ne var.
+Dialogue: 0,0:20:45.78,0:20:50.51,Default,,0,0,0,,Soyun 4000 yıldan\Ndaha eskiye dayanıyormuş.
+Dialogue: 0,0:20:51.03,0:20:54.33,Default,,0,0,0,,Doğru mu?\NBaşka neler varmış?
+Dialogue: 0,0:21:00.53,0:21:01.83,Default,,0,0,0,,Bu nasıl?
+Dialogue: 0,0:21:01.83,0:21:09.73,Default,,0,0,0,,Yazdıklarına göre\Ninsanlara son derece yakınmışsın.
+Dialogue: 0,0:21:10.43,0:21:12.93,Default,,0,0,0,,Bunu biliyor muydun?\NBana söyleyebilirsin.
+Dialogue: 0,0:21:12.93,0:21:15.23,Default,,0,0,0,,Biliyorsun, evet,\Ntabii ki biliyorsun, o biliyor.
+Dialogue: 0,0:21:16.63,0:21:18.73,Default,,0,0,0,,Her şeyi kapatalım.
+Dialogue: 0,0:21:22.08,0:21:24.28,Default,,0,0,0,,Şimdi senin için\Nbir yer bulmalıyız.
+Dialogue: 0,0:21:28.68,0:21:30.58,Default,,0,0,0,,Şurası fena görünmüyor, ha?
+Dialogue: 0,0:21:31.48,0:21:34.48,Default,,0,0,0,,Tamam.\NBurada kal, tamam mı?
+Dialogue: 0,0:21:45.52,0:21:48.02,Default,,0,0,0,,Orada kal. Yat.
+Dialogue: 0,0:22:02.02,0:22:03.72,Default,,0,0,0,,Tamam,\Nseninle biraz oturabilirim.
+Dialogue: 0,0:22:12.31,0:22:13.62,Default,,0,0,0,,Yakala!
+Dialogue: 0,0:22:51.46,0:22:53.46,Default,,0,0,0,,Affedersin.
+Dialogue: 0,0:22:53.46,0:22:55.46,Default,,0,0,0,,Rahatsız etmek istememiştim.
+Dialogue: 0,0:22:55.46,0:22:57.96,Default,,0,0,0,,- Ben de yukarı geliyordum.\N- Evet, elbette.
+Dialogue: 0,0:23:03.84,0:23:07.24,Default,,0,0,0,,Sadece bir geceliğine, tamam mı?
+Dialogue: 0,0:23:07.25,0:23:08.95,Default,,0,0,0,,İyi çocuk.
+Dialogue: 0,0:23:10.25,0:23:12.95,Default,,0,0,0,,Burada kal, her şey yolunda.
+Dialogue: 0,0:23:16.45,0:23:20.45,Default,,0,0,0,,İnanamıyorum.\NO bir "Yankees" hayranı.
+Dialogue: 0,0:23:20.45,0:23:21.85,Default,,0,0,0,,Olamaz.
+Dialogue: 0,0:23:21.85,0:23:23.90,Default,,0,0,0,,- Evet, aynen öyle.\N- Gerçekten mi?
+Dialogue: 0,0:23:25.04,0:23:27.34,Default,,0,0,0,,Eğlenceli olacak.
+Dialogue: 0,0:23:27.34,0:23:29.34,Default,,0,0,0,,Hachi, seninle\Nbir oyun oynayacağız.
+Dialogue: 0,0:23:29.34,0:23:31.54,Default,,0,0,0,,Bu bir top. Top.
+Dialogue: 0,0:23:31.54,0:23:34.54,Default,,0,0,0,,Atacağım, sen de onu bana\Ngeri getireceksin, tamam mı?
+Dialogue: 0,0:23:34.54,0:23:36.34,Default,,0,0,0,,Evet, hazır mısın?
+Dialogue: 0,0:23:36.35,0:23:39.15,Default,,0,0,0,,Hadi, koş yakala.
+Dialogue: 0,0:23:40.85,0:23:42.25,Default,,0,0,0,,Hayır, hayır, hayır, topu.
+Dialogue: 0,0:23:42.25,0:23:45.35,Default,,0,0,0,,Hachi, Hachi! Hayır.\NHachi!
+Dialogue: 0,0:23:47.52,0:23:50.15,Default,,0,0,0,,Atacağım, ve getireceksin,\Ntamam mı? Hadi.
+Dialogue: 0,0:23:51.95,0:23:52.95,Default,,0,0,0,,Getir.
+Dialogue: 0,0:23:56.43,0:23:58.63,Default,,0,0,0,,Hachi, hayır, topu al!
+Dialogue: 0,0:24:00.03,0:24:02.13,Default,,0,0,0,,Hachi, buraya!\NHadi, gel!
+Dialogue: 0,0:24:03.03,0:24:06.53,Default,,0,0,0,,Hadi, al, al.\NHachi, Hachi!
+Dialogue: 0,0:24:06.53,0:24:09.83,Default,,0,0,0,,Hadi, bu top, al.
+Dialogue: 0,0:24:11.80,0:24:14.50,Default,,0,0,0,,Hadi ama, yapabilirsin,\Nyapabileceğini biliyorum.
+Dialogue: 0,0:24:14.89,0:24:16.89,Default,,0,0,0,,Onlara çok acımasız davranıyorsun.
+Dialogue: 0,0:24:16.89,0:24:19.79,Default,,0,0,0,,Köpeğin başı dertte,\Nve babam da iyilik yapmak istiyor.
+Dialogue: 0,0:24:21.05,0:24:22.99,Default,,0,0,0,,{\i1}İşte, gördün mü?{\i0}
+Dialogue: 0,0:24:22.99,0:24:23.99,Default,,0,0,0,,Anne.
+Dialogue: 0,0:24:25.65,0:24:28.29,Default,,0,0,0,,Top, top, top!\NTopu almalısın.
+Dialogue: 0,0:24:28.29,0:24:29.99,Default,,0,0,0,,{\i1}Bak böyle.{\i0}
+Dialogue: 0,0:24:35.15,0:24:36.45,Default,,0,0,0,,Onu kaybettik.
+Dialogue: 0,0:24:40.20,0:24:41.45,Default,,0,0,0,,Alo?
+Dialogue: 0,0:24:42.25,0:24:45.35,Default,,0,0,0,,Afişte mi gördünüz?\NKöpek sahibi misiniz?
+Dialogue: 0,0:24:47.95,0:24:52.55,Default,,0,0,0,,Hayır, henüz arayan olmadı.\NEmin ellerde olsun istiyoruz.
+Dialogue: 0,0:24:54.20,0:24:57.55,Default,,0,0,0,,Ama numaranızı bırakırsanız,\Nkocam daha sonra sizi arayacaktır.
+Dialogue: 0,0:24:59.11,0:25:01.51,Default,,0,0,0,,Bir saniye, kalem arıyorum.
+Dialogue: 0,0:25:27.33,0:25:28.78,Default,,0,0,0,,Alo.
+Dialogue: 0,0:25:31.33,0:25:33.58,Default,,0,0,0,,Köpek yavrusu verilmiş.
+Dialogue: 0,0:25:37.08,0:25:39.33,Default,,0,0,0,,Evet, çok üzgünüm.
+Dialogue: 0,0:26:07.33,0:26:09.13,Default,,0,0,0,,Hayır hayır, Hachi!
+Dialogue: 0,0:26:12.72,0:26:15.33,Default,,0,0,0,,Pekala, hadi oraya götür.\NGötür.
+Dialogue: 0,0:26:15.33,0:26:19.03,Default,,0,0,0,,Hayır, gelemezsin. Olmaz.\NBen işe gidiyorum.
+Dialogue: 0,0:26:19.70,0:26:21.90,Default,,0,0,0,,Akşam döndüğümde görüşürüz.\NHoşça kal.
+Dialogue: 0,0:26:58.83,0:27:01.53,Default,,0,0,0,,Günaydın, Profesör.\NGeciktiniz.
+Dialogue: 0,0:27:01.53,0:27:04.73,Default,,0,0,0,,Buyrun hazır.\NTek şeker, iki porsiyon krema.
+Dialogue: 0,0:27:04.73,0:27:10.63,Default,,0,0,0,,{\i1}Trenin kalkması için 3 dakika tüm\Nyolcularımız lütfen yerlerine geçsinler.{\i0}
+Dialogue: 0,0:27:23.53,0:27:24.93,Default,,0,0,0,,Pardon, pardon.
+Dialogue: 0,0:27:28.22,0:27:29.60,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:27:31.50,0:27:35.30,Default,,0,0,0,,Ne yapıyorsun burada?\NNe yapıyorsun? Ne?
+Dialogue: 0,0:27:35.30,0:27:37.70,Default,,0,0,0,,Eve git, tamam mı? Git.
+Dialogue: 0,0:27:37.70,0:27:39.40,Default,,0,0,0,,Evet, biliyorum, yapma.
+Dialogue: 0,0:27:39.40,0:27:43.00,Default,,0,0,0,,Eve git, hadi. Ben trene\Nbinmeliyim, yürü, yürü.
+Dialogue: 0,0:27:43.00,0:27:44.80,Default,,0,0,0,,Tamam, hadi,\Ngel bakalım. Hadi.
+Dialogue: 0,0:27:44.80,0:27:46.90,Default,,0,0,0,,Profesör.\NTreni bekletmemi ister misiniz?
+Dialogue: 0,0:27:46.90,0:27:47.90,Default,,0,0,0,,Yapabilir misin?
+Dialogue: 0,0:27:47.90,0:27:48.90,Default,,0,0,0,,30 saniye.
+Dialogue: 0,0:27:48.91,0:27:49.91,Default,,0,0,0,,Sağ ol.
+Dialogue: 0,0:27:52.79,0:27:55.49,Default,,0,0,0,,Eve, git! Tamam mı?\NGit! Eve git.
+Dialogue: 0,0:27:55.49,0:27:57.49,Default,,0,0,0,,Chuck, treni biraz\Nbekleteceğiz, tamam mı?
+Dialogue: 0,0:27:58.40,0:28:02.90,Default,,0,0,0,,Eve git! Yürü, yürü!\NEve dön!
+Dialogue: 0,0:28:05.60,0:28:07.10,Default,,0,0,0,,İşte eğitim bu, değil mi?
+Dialogue: 0,0:28:07.10,0:28:08.60,Default,,0,0,0,,İyi çocuk!
+Dialogue: 0,0:28:10.30,0:28:11.80,Default,,0,0,0,,Profesör...
+Dialogue: 0,0:28:18.30,0:28:21.20,Default,,0,0,0,,- Beklettiğin için sağ ol.\N- Emin misiniz? - Evet, eminim.
+Dialogue: 0,0:28:21.20,0:28:23.20,Default,,0,0,0,,Tamam, gidiyoruz, yürü.
+Dialogue: 0,0:28:25.76,0:28:27.26,Default,,0,0,0,,Belki bir taksi çağırmalısınız.
+Dialogue: 0,0:28:27.26,0:28:30.66,Default,,0,0,0,,Hayır, eve yürürüm, sağ ol.
+Dialogue: 0,0:28:39.96,0:28:41.06,Default,,0,0,0,,Tanrım.
+Dialogue: 0,0:28:47.36,0:28:50.36,Default,,0,0,0,,Parker?\Nİşe gitmemiş miydin sen?
+Dialogue: 0,0:28:50.37,0:28:52.87,Default,,0,0,0,,- Gitmiştim.\N- Öyleyse neden bahçeyi kazıyorsun?
+Dialogue: 0,0:28:52.87,0:28:54.87,Default,,0,0,0,,Treni kaçırdım.
+Dialogue: 0,0:28:56.03,0:28:58.37,Default,,0,0,0,,Söyleme, ne diyeceğini biliyorum.
+Dialogue: 0,0:28:58.37,0:29:01.47,Default,,0,0,0,,Üstünü kirleteceksin,\Nbunu ben hallederim, sonraki treni yakala.
+Dialogue: 0,0:29:01.47,0:29:03.63,Default,,0,0,0,,Tamam, teşekkürler.
+Dialogue: 0,0:29:07.00,0:29:09.70,Default,,0,0,0,,Ve sen...\NBuradan ayrılma.
+Dialogue: 0,0:29:09.70,0:29:12.66,Default,,0,0,0,,- Ayrılmayacak.\N- Akşama görüşürüz. Hoşça kal.
+Dialogue: 0,0:29:57.00,0:29:58.40,Default,,0,0,0,,Keyfine bak.
+Dialogue: 0,0:29:58.40,0:30:00.20,Default,,0,0,0,,Al bakalım.
+Dialogue: 0,0:30:05.48,0:30:09.98,Default,,0,0,0,,Tamam, bir tane daha vereceğim.\NBir tane, başka yok.
+Dialogue: 0,0:30:09.98,0:30:10.98,Default,,0,0,0,,Yavaş, yavaş.
+Dialogue: 0,0:30:14.48,0:30:19.18,Default,,0,0,0,,İyi mi?\NTatlı mı?
+Dialogue: 0,0:30:19.18,0:30:23.18,Default,,0,0,0,,Tamam, tamam...\Nbu sonuncu artık.
+Dialogue: 0,0:30:23.19,0:30:26.69,Default,,0,0,0,,Al, çiğne.\NAkıllı Hachi.
+Dialogue: 0,0:30:35.45,0:30:37.75,Default,,0,0,0,,Tamam, bu beni son ikna edişin.
+Dialogue: 0,0:30:39.05,0:30:41.35,Default,,0,0,0,,Hepsini al.
+Dialogue: 0,0:30:59.00,0:31:01.71,Default,,0,0,0,,Bu harika, herkes harikaydı.\NSizinle gurur duyuyorum.
+Dialogue: 0,0:31:02.31,0:31:05.11,Default,,0,0,0,,- Nihayet.\N- Tekrardan sonra bitirin.
+Dialogue: 0,0:31:05.11,0:31:07.11,Default,,0,0,0,,- Ve geç kaldığım için affet, tamam mı?\N- Sorun değil.
+Dialogue: 0,0:31:07.11,0:31:09.21,Default,,0,0,0,,- Ceza yok mu?\N- Hayır, vermeyeceğiz.
+Dialogue: 0,0:31:09.21,0:31:10.21,Default,,0,0,0,,O zaman teşekkürler.
+Dialogue: 0,0:31:46.85,0:31:50.55,Default,,0,0,0,,Hachi!\NBurada ne arıyorsun?
+Dialogue: 0,0:31:50.55,0:31:52.35,Default,,0,0,0,,Şeker de ister misiniz?
+Dialogue: 0,0:32:22.45,0:32:24.05,Default,,0,0,0,,- Chuck.\N- İyi şanslar.
+Dialogue: 0,0:32:36.94,0:32:38.94,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:32:41.44,0:32:42.92,Default,,0,0,0,,Ne yapıyorsun burada?
+Dialogue: 0,0:32:42.92,0:32:44.92,Default,,0,0,0,,Tren istasyonu.
+Dialogue: 0,0:32:47.22,0:32:50.22,Default,,0,0,0,,Evet bayan, 7:30'da trenimiz var.
+Dialogue: 0,0:32:53.80,0:32:57.80,Default,,0,0,0,,- Tüm gün burada mıydı?\N- Hayır, 2 dakika önce geldi ve oraya oturdu.
+Dialogue: 0,0:32:57.80,0:33:00.10,Default,,0,0,0,,Dalga mı geçiyorsun?\NKate'le mi geldi?
+Dialogue: 0,0:33:00.50,0:33:01.80,Default,,0,0,0,,Ben görmedim.
+Dialogue: 0,0:33:01.80,0:33:04.00,Default,,0,0,0,,Pekala.
+Dialogue: 0,0:33:04.00,0:33:07.10,Default,,0,0,0,,O zaman eve gidiyoruz.
+Dialogue: 0,0:33:08.60,0:33:11.00,Default,,0,0,0,,Aynı saatte.
+Dialogue: 0,0:33:11.00,0:33:16.50,Default,,0,0,0,,Hadi, hadi oğlum.
+Dialogue: 0,0:33:19.87,0:33:20.87,Default,,0,0,0,,Anne!
+Dialogue: 0,0:33:20.87,0:33:22.87,Default,,0,0,0,,Evet, hayatım.\NBuradayım.
+Dialogue: 0,0:33:23.87,0:33:25.97,Default,,0,0,0,,Merhaba!
+Dialogue: 0,0:33:25.97,0:33:27.57,Default,,0,0,0,,- Cips getirdim.\N- Harika.
+Dialogue: 0,0:33:27.57,0:33:29.07,Default,,0,0,0,,Bayan Wilson, memnun oldum.
+Dialogue: 0,0:33:29.07,0:33:31.07,Default,,0,0,0,,Michael, ben de!\NBana Kate diyebilirsin.
+Dialogue: 0,0:33:31.07,0:33:32.07,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:33:33.47,0:33:34.66,Default,,0,0,0,,Lezzetli görünüyor.
+Dialogue: 0,0:33:36.26,0:33:37.76,Default,,0,0,0,,Bunları babama götürür müsün?
+Dialogue: 0,0:33:37.76,0:33:39.26,Default,,0,0,0,,- Emin misin?\N- Evet, arka bahçedeydi.
+Dialogue: 0,0:33:39.26,0:33:40.76,Default,,0,0,0,,Tamam, ızgara orada mıydı?
+Dialogue: 0,0:33:40.76,0:33:42.86,Default,,0,0,0,,Evet, orada.\NTanıştığımıza memnun oldun.
+Dialogue: 0,0:33:42.86,0:33:43.86,Default,,0,0,0,,Ben de.
+Dialogue: 0,0:33:43.86,0:33:45.86,Default,,0,0,0,,- Keseyim mi?\N- Evet, ufak ufak, hayatım.
+Dialogue: 0,0:33:47.76,0:33:51.26,Default,,0,0,0,,Küçüklüğümden beri\Ngitar çalmak istiyordum.
+Dialogue: 0,0:33:51.26,0:33:52.26,Default,,0,0,0,,Öyle mi?
+Dialogue: 0,0:33:52.26,0:33:54.96,Default,,0,0,0,,Evet, dokuz veya on yaşlarındaydım.
+Dialogue: 0,0:33:54.96,0:33:58.26,Default,,0,0,0,,Ama kardeşim parmaklarımı\Narabanın kapısına sıkıştırdı.
+Dialogue: 0,0:33:59.55,0:34:02.08,Default,,0,0,0,,Ben de bırakmak zorunda kaldım.
+Dialogue: 0,0:34:03.05,0:34:06.45,Default,,0,0,0,,Bilmiyorum, belki tekrar başlarım,\Nmüziği çok severim.
+Dialogue: 0,0:34:06.45,0:34:12.01,Default,,0,0,0,,Ve kim çalarsa çalsın\Nhepsine büyük saygı duyarım.
+Dialogue: 0,0:34:12.52,0:34:14.82,Default,,0,0,0,,Michael, kızımı seviyor musun?
+Dialogue: 0,0:34:17.02,0:34:19.22,Default,,0,0,0,,Evet, efendim.\NSeviyorum.
+Dialogue: 0,0:34:19.22,0:34:24.22,Default,,0,0,0,,Güzel, zor günlerinizde de bunu unutma.
+Dialogue: 0,0:34:26.02,0:34:27.82,Default,,0,0,0,,Elbette.
+Dialogue: 0,0:34:30.27,0:34:33.77,Default,,0,0,0,,Hachi bu Michael.\NMichael, Hachi.
+Dialogue: 0,0:34:33.77,0:34:35.47,Default,,0,0,0,,Memnun oldum.
+Dialogue: 0,0:34:39.67,0:34:42.47,Default,,0,0,0,,Hachi, yakalamaca oynar mısın?
+Dialogue: 0,0:34:42.47,0:34:45.17,Default,,0,0,0,,Evet? Tamam, hazır mısın?\NYakala!
+Dialogue: 0,0:34:45.17,0:34:48.97,Default,,0,0,0,,Git, getir onu buraya!
+Dialogue: 0,0:34:48.97,0:34:53.47,Default,,0,0,0,,Hachi! Koş arkasından!\NHadi, topu getir!
+Dialogue: 0,0:34:55.41,0:34:59.21,Default,,0,0,0,,Michael, topu istiyorsan gidip\Nkendin almalısın, Hachi getirmez.
+Dialogue: 0,0:34:59.21,0:35:01.31,Default,,0,0,0,,Kafasına silah\Ndayasan da getirmez.
+Dialogue: 0,0:35:07.16,0:35:08.46,Default,,0,0,0,,Michael, iyi misin?
+Dialogue: 0,0:35:08.47,0:35:09.96,Default,,0,0,0,,- Her şey yolunda.\N- Aşkım, sen iyi misin?
+Dialogue: 0,0:35:09.98,0:35:11.44,Default,,0,0,0,,- Devam edin.\N- İyi olduğuna emin misin?
+Dialogue: 0,0:35:11.47,0:35:12.47,Default,,0,0,0,,Acımadı, sorun yok.\NBen topu alıp geleyim.
+Dialogue: 0,0:35:12.47,0:35:13.47,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:35:13.47,0:35:16.57,Default,,0,0,0,,Ben iyiyim, bakın.
+Dialogue: 0,0:35:16.57,0:35:19.17,Default,,0,0,0,,- Ayağın burkulmadı değil mi?\N- Bensiz oynayamazsın.
+Dialogue: 0,0:35:19.17,0:35:20.17,Default,,0,0,0,,Tamam, tamam.
+Dialogue: 0,0:35:23.47,0:35:26.77,Default,,0,0,0,,Topu yarım metre uzağa\Natacağım sen de getireceksin, tamam mı?
+Dialogue: 0,0:35:26.77,0:35:31.25,Default,,0,0,0,,O kadar atarsam getirir misin?\NGetirmez misin?
+Dialogue: 0,0:35:47.05,0:35:48.98,Default,,0,0,0,,Öldüm.
+Dialogue: 0,0:35:52.52,0:35:53.52,Default,,0,0,0,,Getirmek mi?
+Dialogue: 0,0:35:53.52,0:35:56.22,Default,,0,0,0,,Evet. Geri getirmesi\Niçin topu atıyorum ama getirmiyor.
+Dialogue: 0,0:35:56.22,0:35:58.22,Default,,0,0,0,,Akita'dan değil, Parker.
+Dialogue: 0,0:35:58.87,0:36:01.07,Default,,0,0,0,,Getirmeye karşı bir şeyleri mi var?
+Dialogue: 0,0:36:01.07,0:36:05.54,Default,,0,0,0,,Hayır, ama top peşinde\Nkoşturacak bir cins istiyorsan, buluruz.
+Dialogue: 0,0:36:05.54,0:36:07.33,Default,,0,0,0,,Hayır, Hachi iyi, memnunum.
+Dialogue: 0,0:36:07.68,0:36:11.48,Default,,0,0,0,,İyi. Çünkü, Akita istemediği bir\Nşeyin peşinden koşmak istemiyor.
+Dialogue: 0,0:36:11.48,0:36:12.88,Default,,0,0,0,,Peki ya ne isterler?
+Dialogue: 0,0:36:12.88,0:36:16.28,Default,,0,0,0,,Trene geliyor, çünkü seninle\Narasında özel bir bağ var.
+Dialogue: 0,0:36:16.28,0:36:20.08,Default,,0,0,0,,Ve sonra, "Dostum, topu getir!"\NBunu neden yapsın?
+Dialogue: 0,0:36:20.76,0:36:23.64,Default,,0,0,0,,Eğlence için olabilir.\NBelki kurabiye için.
+Dialogue: 0,0:36:24.60,0:36:26.60,Default,,0,0,0,,Aslında, benim\Nmutlu olmam için yapabilir.
+Dialogue: 0,0:36:27.75,0:36:30.50,Default,,0,0,0,,Onları satın alamazsın,\Nonlar Japon, Amerikan değil.
+Dialogue: 0,0:36:30.50,0:36:32.00,Default,,0,0,0,,Evet, bütün hepsi saçmalık.
+Dialogue: 0,0:36:33.50,0:36:37.60,Default,,0,0,0,,Topu getirmesini istiyorsan...\Nonun için özel bir nedeni olmalı.
+Dialogue: 0,0:36:39.40,0:36:41.40,Default,,0,0,0,,Ona sorarım.
+Dialogue: 0,0:36:43.20,0:36:45.30,Default,,0,0,0,,Hayır, hayır, Hachi, buraya gel.
+Dialogue: 0,0:36:45.30,0:36:47.50,Default,,0,0,0,,Sen gelemezsin, üzgünüm.\NGelemezsin. Hadi.
+Dialogue: 0,0:36:51.00,0:36:52.30,Default,,0,0,0,,Burada kal.
+Dialogue: 0,0:37:03.35,0:37:05.15,Default,,0,0,0,,Pekala, gidelim.
+Dialogue: 0,0:37:05.15,0:37:06.15,Default,,0,0,0,,Hadi gidelim.
+Dialogue: 0,0:37:09.51,0:37:12.17,Default,,0,0,0,,Hachi, hachi,\Nburaya gel, buraya gel.
+Dialogue: 0,0:37:20.83,0:37:22.50,Default,,0,0,0,,Gidelim, buraya gel, hadi.
+Dialogue: 0,0:37:27.05,0:37:28.85,Default,,0,0,0,,- Günaydın, Milton.\N- Günaydın.
+Dialogue: 0,0:37:28.85,0:37:29.85,Default,,0,0,0,,Seni gördüğüme sevindim.
+Dialogue: 0,0:37:29.85,0:37:32.15,Default,,0,0,0,,- Selam Myra.\N- Günaydın, Parker.
+Dialogue: 0,0:37:32.15,0:37:34.05,Default,,0,0,0,,Güneşten mi kaçıyorsun?
+Dialogue: 0,0:37:36.95,0:37:39.35,Default,,0,0,0,,Önce yola bak.
+Dialogue: 0,0:37:45.41,0:37:48.11,Default,,0,0,0,,- Günaydın, Profesör.\N- Günaydın, Parker!
+Dialogue: 0,0:37:48.11,0:37:50.11,Default,,0,0,0,,Hala söz geçiremiyor musun?
+Dialogue: 0,0:37:50.11,0:37:52.11,Default,,0,0,0,,Hayır, hayır, onu ben getirdim.
+Dialogue: 0,0:37:52.12,0:37:53.12,Default,,0,0,0,,Buraya gel evlat.
+Dialogue: 0,0:37:53.62,0:37:58.21,Default,,0,0,0,,Artık eve dönebilirsin, eve.\NBeni anlıyor musun?
+Dialogue: 0,0:37:58.21,0:38:01.41,Default,,0,0,0,,Akşam görüşürüz,\Nhadi şimdi hemen eve.
+Dialogue: 0,0:38:02.71,0:38:05.11,Default,,0,0,0,,Akıllı çocuk.
+Dialogue: 0,0:38:12.19,0:38:14.79,Default,,0,0,0,,- İyi günler, Carl.\N- Size de, Profesör.
+Dialogue: 0,0:38:24.41,0:38:25.51,Default,,0,0,0,,Hachi.
+Dialogue: 0,0:38:26.81,0:38:31.21,Default,,0,0,0,,Al bakalım.\NMilton'a söyleme, tamam mı?
+Dialogue: 0,0:39:05.31,0:39:06.91,Default,,0,0,0,,Hachi.
+Dialogue: 0,0:39:08.47,0:39:11.54,Default,,0,0,0,,Tamam, tamam, bu kadar yeter.
+Dialogue: 0,0:39:12.78,0:39:15.21,Default,,0,0,0,,Pekala, hadi eve gidelim.\NHadi, hadi.
+Dialogue: 0,0:39:17.71,0:39:22.21,Default,,0,0,0,,Her gün beni beklerken "Ne kadar iyiyim"\Ndiye düşünüyorsundur kesin.
+Dialogue: 0,0:39:28.45,0:39:29.65,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:39:35.41,0:39:37.26,Default,,0,0,0,,Hadi, gidelim, gidelim.
+Dialogue: 0,0:39:38.10,0:39:40.40,Default,,0,0,0,,Daha şampanya!\NŞampanya getirin.
+Dialogue: 0,0:39:40.40,0:39:42.69,Default,,0,0,0,,Ben... Bilmiyorum.
+Dialogue: 0,0:39:42.69,0:39:43.69,Default,,0,0,0,,Belki mutfaktadır.
+Dialogue: 0,0:39:43.69,0:39:46.39,Default,,0,0,0,,Düğünümüzde\Nbile kimse bizi takmıyor.
+Dialogue: 0,0:39:47.89,0:39:49.69,Default,,0,0,0,,Erkek, kız, erkek, kız.
+Dialogue: 0,0:39:55.99,0:39:57.79,Default,,0,0,0,,Karı seviyorsun, ha?
+Dialogue: 0,0:40:04.69,0:40:07.09,Default,,0,0,0,,Gel yürüyüşe çıkalım,\Nsen ve ben.
+Dialogue: 0,0:40:07.09,0:40:09.69,Default,,0,0,0,,Sadece ikimiz.
+Dialogue: 0,0:40:09.69,0:40:11.59,Default,,0,0,0,,Bir şeyler söyle.
+Dialogue: 0,0:40:35.68,0:40:37.19,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:40:45.99,0:40:47.69,Default,,0,0,0,,Bu harika oldu, Jake.
+Dialogue: 0,0:40:47.69,0:40:48.69,Default,,0,0,0,,Teşekkürler.
+Dialogue: 0,0:40:48.69,0:40:51.59,Default,,0,0,0,,Kate! Hachi'yi gördün mü?\Nİstasyonda değildi.
+Dialogue: 0,0:40:52.48,0:40:56.39,Default,,0,0,0,,Hayır, sabahtan beri görmedim...\Nburaya gel.
+Dialogue: 0,0:40:59.48,0:41:01.39,Default,,0,0,0,,Ona bir bak.
+Dialogue: 0,0:41:05.55,0:41:08.15,Default,,0,0,0,,Gözlerinde gizlenmiş 30 yıl.
+Dialogue: 0,0:41:09.65,0:41:11.25,Default,,0,0,0,,Güzel, değil mi?
+Dialogue: 0,0:41:11.75,0:41:13.35,Default,,0,0,0,,Evet, öyle.
+Dialogue: 0,0:41:15.95,0:41:19.03,Default,,0,0,0,,- Programın gerisindeyim.\N- Yakalarsın.
+Dialogue: 0,0:41:19.03,0:41:21.63,Default,,0,0,0,,Şovun başladığını hayal et.
+Dialogue: 0,0:41:22.84,0:41:27.83,Default,,0,0,0,,Genç bir şarkıcı\NLa Bohème söylemektedir.
+Dialogue: 0,0:41:28.88,0:41:36.88,Default,,0,0,0,,Bir sürü dansçı tabii ki. Sonra, rock,\Nrap, hip-hop, jazz ve... HAMLET!
+Dialogue: 0,0:41:37.98,0:41:43.38,Default,,0,0,0,,Her şey bittiğinde bütün konuklar\Nşovu ayakta alkışlamaktadır.
+Dialogue: 0,0:41:43.38,0:41:49.28,Default,,0,0,0,,Belediye başkanı seni bulur, yanına\Nçağırır ve yaptıkların için teşekkür eder.
+Dialogue: 0,0:41:49.28,0:41:50.28,Default,,0,0,0,,Nasıl?
+Dialogue: 0,0:41:50.28,0:41:51.28,Default,,0,0,0,,Evet.
+Dialogue: 0,0:41:51.28,0:41:53.08,Default,,0,0,0,,Hoşuma gitti.
+Dialogue: 0,0:41:55.47,0:41:56.78,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:41:58.57,0:42:00.48,Default,,0,0,0,,Buraya gel oğlum!
+Dialogue: 0,0:42:06.71,0:42:08.01,Default,,0,0,0,,Hachi?
+Dialogue: 0,0:42:13.01,0:42:14.61,Default,,0,0,0,,Hachi.
+Dialogue: 0,0:42:17.71,0:42:19.21,Default,,0,0,0,,Burada ne yapıyorsun?
+Dialogue: 0,0:42:26.62,0:42:28.11,Default,,0,0,0,,Pekala.
+Dialogue: 0,0:42:33.25,0:42:35.46,Default,,0,0,0,,Geride dur, otur, Hachi, sakin.
+Dialogue: 0,0:42:42.97,0:42:45.96,Default,,0,0,0,,Hadi, hadi, git.
+Dialogue: 0,0:42:52.35,0:42:55.75,Default,,0,0,0,,Yürü, yürü, defol git!
+Dialogue: 0,0:43:13.35,0:43:14.67,Default,,0,0,0,,Kaç, kaç, kaç!
+Dialogue: 0,0:43:32.23,0:43:33.65,Default,,0,0,0,,Parker!
+Dialogue: 0,0:43:49.58,0:43:51.28,Default,,0,0,0,,Bir kokarca\Ntarafından saldırıya uğradık.
+Dialogue: 0,0:43:52.29,0:43:53.82,Default,,0,0,0,,Bize katılmak ister misin?
+Dialogue: 0,0:43:53.82,0:43:55.42,Default,,0,0,0,,Hayır, ben gitsem iyi olacak.
+Dialogue: 0,0:43:57.62,0:43:58.82,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:44:04.41,0:44:06.51,Default,,0,0,0,,Gece pencereleri açın.
+Dialogue: 0,0:44:07.71,0:44:09.71,Default,,0,0,0,,Gerçekten hala kokuyor muyuz?
+Dialogue: 0,0:44:12.61,0:44:14.21,Default,,0,0,0,,Sanırım öyle.
+Dialogue: 0,0:44:20.29,0:44:21.59,Default,,0,0,0,,Anne!
+Dialogue: 0,0:44:22.90,0:44:24.80,Default,,0,0,0,,Merhaba, hayatım!
+Dialogue: 0,0:44:26.15,0:44:28.55,Default,,0,0,0,,Ne oldu?
+Dialogue: 0,0:44:29.74,0:44:31.67,Default,,0,0,0,,Sana bir şey söylemem gerek.
+Dialogue: 0,0:44:33.37,0:44:34.37,Default,,0,0,0,,Tahmin et.
+Dialogue: 0,0:44:34.37,0:44:35.37,Default,,0,0,0,,Ne?
+Dialogue: 0,0:44:35.37,0:44:37.27,Default,,0,0,0,,Pekala, sıkı dur.
+Dialogue: 0,0:44:41.60,0:44:43.53,Default,,0,0,0,,Bende bir farklılık görüyor musun?
+Dialogue: 0,0:44:43.53,0:44:45.23,Default,,0,0,0,,Olamaz.
+Dialogue: 0,0:44:45.24,0:44:46.24,Default,,0,0,0,,Evet!
+Dialogue: 0,0:44:47.95,0:44:50.49,Default,,0,0,0,,Bu harika hayatım!
+Dialogue: 0,0:44:50.49,0:44:53.59,Default,,0,0,0,,Bu harika bir haber!
+Dialogue: 0,0:44:53.59,0:44:56.09,Default,,0,0,0,,Hemen büyükanneni aramalıyım!
+Dialogue: 0,0:44:56.79,0:44:57.83,Default,,0,0,0,,Babam nerede?
+Dialogue: 0,0:44:57.83,0:44:59.43,Default,,0,0,0,,Her zamanki yerinde.
+Dialogue: 0,0:45:00.93,0:45:01.99,Default,,0,0,0,,Baba!
+Dialogue: 0,0:45:05.55,0:45:06.95,Default,,0,0,0,,Baba!
+Dialogue: 0,0:45:10.63,0:45:11.93,Default,,0,0,0,,Ne yapıyorsun?
+Dialogue: 0,0:45:11.93,0:45:16.13,Default,,0,0,0,,Bu tam vücut masajı,\Nher şey kitapta var, gördün mü?
+Dialogue: 0,0:45:16.13,0:45:17.83,Default,,0,0,0,,Yakında büyükbaba oluyorsun.
+Dialogue: 0,0:45:17.83,0:45:19.03,Default,,0,0,0,,Kaslarının altına\Ndoğru ovalamam lazım...
+Dialogue: 0,0:45:19.03,0:45:21.03,Default,,0,0,0,,Baba, baba!
+Dialogue: 0,0:45:22.13,0:45:26.13,Default,,0,0,0,,Yakında bir bebeğim olacak.\NHamileyim.
+Dialogue: 0,0:45:27.63,0:45:28.63,Default,,0,0,0,,Sen...
+Dialogue: 0,0:45:30.00,0:45:31.00,Default,,0,0,0,,Tanrım.
+Dialogue: 0,0:45:33.22,0:45:34.22,Default,,0,0,0,,Gerçekten mi?
+Dialogue: 0,0:45:34.50,0:45:35.50,Default,,0,0,0,,Evet.
+Dialogue: 0,0:45:35.90,0:45:37.20,Default,,0,0,0,,Bir bebeğin mi olacak?
+Dialogue: 0,0:45:43.30,0:45:44.90,Default,,0,0,0,,Büyükbaba olacağım.
+Dialogue: 0,0:45:45.50,0:45:48.60,Default,,0,0,0,,Cate, buna inanamıyorum!
+Dialogue: 0,0:45:54.56,0:45:56.06,Default,,0,0,0,,Merhaba, hayatım.
+Dialogue: 0,0:45:56.06,0:45:57.76,Default,,0,0,0,,- Anne.\N- Üzgünüm, geciktim.
+Dialogue: 0,0:45:59.06,0:46:00.26,Default,,0,0,0,,Bunlar ne?
+Dialogue: 0,0:46:00.26,0:46:02.06,Default,,0,0,0,,Sana yararı dokunacak bir kaç ürün.
+Dialogue: 0,0:46:02.06,0:46:06.16,Default,,0,0,0,,Taze sebze, ahududu,\Nkısrak sütlü pide, tahıllar...
+Dialogue: 0,0:46:06.16,0:46:11.86,Default,,0,0,0,,Hamileyken, baban bana sürekli\Nançüezli, acı biberli pizza getirirdi.
+Dialogue: 0,0:46:12.84,0:46:14.74,Default,,0,0,0,,Beni yerken görmeliydin.
+Dialogue: 0,0:46:16.42,0:46:19.14,Default,,0,0,0,,25 yılda neler\Nyaşadığıma inanabiliyor musun?
+Dialogue: 0,0:46:19.14,0:46:21.34,Default,,0,0,0,,Biz daha uzun süredir birlikteyiz.
+Dialogue: 0,0:46:26.02,0:46:30.32,Default,,0,0,0,,Babamın bana ilk hoşça kal\Ndediğini hatırlıyorum, arabayla dönmüştü,
+Dialogue: 0,0:46:30.32,0:46:33.52,Default,,0,0,0,,işlerden çok sıkıldığı için\Nkaçıp seni görmeye gelmişti.
+Dialogue: 0,0:46:34.22,0:46:36.62,Default,,0,0,0,,Pencereden onu izlediğini hatırlıyorum.
+Dialogue: 0,0:46:37.23,0:46:42.13,Default,,0,0,0,,Ona sarılmak için\Nkapıdan koşarak çıkmıştın.
+Dialogue: 0,0:46:42.13,0:46:44.03,Default,,0,0,0,,- Telaş yapıyorum.\N- Biliyorum.
+Dialogue: 0,0:46:45.24,0:46:47.24,Default,,0,0,0,,Am ben hep\Ndaha fazla düşünürdüm.
+Dialogue: 0,0:46:47.24,0:46:49.54,Default,,0,0,0,,Evet, kesinlikle.\NHiç kimse gibi.
+Dialogue: 0,0:46:49.54,0:46:50.84,Default,,0,0,0,,- Böyle yapman gerekmiyor.\N- Yapmayacağım.
+Dialogue: 0,0:46:50.84,0:46:51.84,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:46:54.03,0:46:56.04,Default,,0,0,0,,Hachi! buraya gel,\NHachi, buraya gel!
+Dialogue: 0,0:46:57.24,0:46:58.64,Default,,0,0,0,,Her zaman orada onu mu bekliyor?
+Dialogue: 0,0:46:58.64,0:46:59.64,Default,,0,0,0,,Baksana.
+Dialogue: 0,0:47:04.62,0:47:06.34,Default,,0,0,0,,Hadi, eve gidelim.\NEve gidiyoruz.
+Dialogue: 0,0:47:07.03,0:47:08.15,Default,,0,0,0,,Merhaba, Profesör.
+Dialogue: 0,0:47:08.15,0:47:09.55,Default,,0,0,0,,İyi akşamlar, Parker!
+Dialogue: 0,0:47:09.55,0:47:10.97,Default,,0,0,0,,İyi akşamlar, Mary Anne.
+Dialogue: 0,0:47:11.32,0:47:12.52,Default,,0,0,0,,Bir köpeğe bunları nasıl öğrettin?
+Dialogue: 0,0:47:12.52,0:47:15.52,Default,,0,0,0,,Her gün gelmesi şaşırtıcı.
+Dialogue: 0,0:47:26.10,0:47:27.20,Default,,0,0,0,,Parker!
+Dialogue: 0,0:47:33.02,0:47:34.22,Default,,0,0,0,,Parker!
+Dialogue: 0,0:47:52.72,0:47:54.52,Default,,0,0,0,,Muhteşem görünüyorsun.
+Dialogue: 0,0:47:57.50,0:48:01.72,Default,,0,0,0,,Kusursuz biri değilim.
+Dialogue: 0,0:48:03.52,0:48:04.72,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:48:06.50,0:48:09.02,Default,,0,0,0,,Başka bir arzunuz var mı,\Nhanımefendi?
+Dialogue: 0,0:48:10.32,0:48:12.22,Default,,0,0,0,,Yerine göre olabilir.
+Dialogue: 0,0:48:14.12,0:48:15.42,Default,,0,0,0,,Her şey.
+Dialogue: 0,0:48:15.42,0:48:16.42,Default,,0,0,0,,Her şey mi?
+Dialogue: 0,0:48:29.42,0:48:31.72,Default,,0,0,0,,Evet.\NHer şey.
+Dialogue: 0,0:48:45.86,0:48:48.96,Default,,0,0,0,,Çok uzun zamandır beraberiz.
+Dialogue: 0,0:48:48.96,0:48:52.66,Default,,0,0,0,,Sana en son ne zaman\Nteşekkür ettiğimi bile hatırlamıyorum.
+Dialogue: 0,0:49:01.17,0:49:03.27,Default,,0,0,0,,Seni çok seviyorum.
+Dialogue: 0,0:49:06.37,0:49:08.27,Default,,0,0,0,,Ben de seni.
+Dialogue: 0,0:49:09.37,0:49:10.77,Default,,0,0,0,,İlginç.
+Dialogue: 0,0:49:13.87,0:49:17.17,Default,,0,0,0,,Özellikle de köpek ya da kokarca\Ngibi kokmadığın zamanlarda.
+Dialogue: 0,0:49:19.17,0:49:21.87,Default,,0,0,0,,Ama bu sık sık olmuyor.
+Dialogue: 0,0:49:21.87,0:49:24.07,Default,,0,0,0,,Öyle mi?\NSen öyle san.
+Dialogue: 0,0:49:40.01,0:49:42.51,Default,,0,0,0,,- Seni seviyorum.\N- Ben de seni seviyorum.
+Dialogue: 0,0:49:46.41,0:49:48.51,Default,,0,0,0,,Pekala, Hachi, hadi!
+Dialogue: 0,0:49:53.66,0:49:55.36,Default,,0,0,0,,Hachi, hadi!
+Dialogue: 0,0:49:57.86,0:50:00.36,Default,,0,0,0,,Hadi ama, Hachi, sorunun ne?
+Dialogue: 0,0:50:02.65,0:50:04.06,Default,,0,0,0,,Ne var?
+Dialogue: 0,0:50:07.86,0:50:10.86,Default,,0,0,0,,Buraya gel! Gel.
+Dialogue: 0,0:50:12.82,0:50:16.82,Default,,0,0,0,,Sorun ne söyle bakalım.\NTers giden bir şey mi var?
+Dialogue: 0,0:50:19.01,0:50:22.12,Default,,0,0,0,,İyi görünüyorsun.\NNeler oluyor?
+Dialogue: 0,0:50:23.72,0:50:28.10,Default,,0,0,0,,İyi misin?\NPekala, şimdi iyi misin? Hadi.
+Dialogue: 0,0:50:32.52,0:50:34.02,Default,,0,0,0,,Nesi var?
+Dialogue: 0,0:50:34.02,0:50:35.62,Default,,0,0,0,,Bilmiyorum.
+Dialogue: 0,0:50:36.59,0:50:40.38,Default,,0,0,0,,Hachi, karar ver.\Nİşe gitmeliyim. Hadi dostum.
+Dialogue: 0,0:50:42.08,0:50:44.08,Default,,0,0,0,,Ben gidiyorum.
+Dialogue: 0,0:50:44.78,0:50:47.48,Default,,0,0,0,,- Gelmiyor. Seni seviyorum tatlım.\N- Ben de seni. Akşama görüşürüz.
+Dialogue: 0,0:50:49.38,0:50:50.98,Default,,0,0,0,,Son şansın.
+Dialogue: 0,0:50:52.88,0:50:54.38,Default,,0,0,0,,Hoşça kal!
+Dialogue: 0,0:51:22.55,0:51:25.15,Default,,0,0,0,,- Selam, Mary Anne.\N- Sana da Jess. Nasılsın?
+Dialogue: 0,0:51:25.15,0:51:28.75,Default,,0,0,0,,- Sana kahve ve çörek getirdim.\N- Teşekkürler.
+Dialogue: 0,0:51:42.74,0:51:44.14,Default,,0,0,0,,Hachi nerede?
+Dialogue: 0,0:51:53.01,0:51:55.21,Default,,0,0,0,,Hachi!
+Dialogue: 0,0:51:55.21,0:51:57.51,Default,,0,0,0,,İşte geldi.
+Dialogue: 0,0:51:58.20,0:52:00.91,Default,,0,0,0,,Seni gördüğüme sevindim.
+Dialogue: 0,0:52:00.91,0:52:01.91,Default,,0,0,0,,Topunu mu getirdin?
+Dialogue: 0,0:52:02.45,0:52:04.45,Default,,0,0,0,,Topu nereden bulmuşlar?
+Dialogue: 0,0:52:04.45,0:52:07.25,Default,,0,0,0,,Oynamak ister misin?\NBak burada.
+Dialogue: 0,0:52:08.15,0:52:10.45,Default,,0,0,0,,Hazır mısın?\NKoş.
+Dialogue: 0,0:52:11.46,0:52:13.56,Default,,0,0,0,,Git yakala, yakala.
+Dialogue: 0,0:52:14.74,0:52:16.56,Default,,0,0,0,,Harika, şimdi bana getir!
+Dialogue: 0,0:52:17.46,0:52:20.76,Default,,0,0,0,,İşte bu!\NBen de bunu istiyordum.
+Dialogue: 0,0:52:20.76,0:52:23.66,Default,,0,0,0,,Hadi tekrar, daha uzağa.\NBırakmak yok.
+Dialogue: 0,0:52:25.56,0:52:29.55,Default,,0,0,0,,Tamam, git yakala, git.\Nİyi çocuk.
+Dialogue: 0,0:52:31.07,0:52:35.27,Default,,0,0,0,,Evet, işte böyle!\NGeri getir. Gel, gel.
+Dialogue: 0,0:52:37.57,0:52:40.38,Default,,0,0,0,,Nasılda akıllı!\Nİyi çocuk! Sen çok akıllısın!
+Dialogue: 0,0:52:40.70,0:52:41.88,Default,,0,0,0,,Bunu gördün mü?
+Dialogue: 0,0:52:42.35,0:52:45.95,Default,,0,0,0,,Topu atttım, ve getirdi!\Nİlk defa getirdi! Harbiden getirdi!
+Dialogue: 0,0:52:45.95,0:52:48.25,Default,,0,0,0,,Evet, tebrikler.
+Dialogue: 0,0:52:48.25,0:52:50.85,Default,,0,0,0,,Sağ ol.\Nİyi çocuk!
+Dialogue: 0,0:52:51.84,0:52:55.24,Default,,0,0,0,,Tamam, ben işe gidiyorum.\NTopunu al.
+Dialogue: 0,0:52:56.94,0:52:58.64,Default,,0,0,0,,İlk defa.
+Dialogue: 0,0:52:58.64,0:53:00.34,Default,,0,0,0,,İlk defa!
+Dialogue: 0,0:53:01.24,0:53:04.74,Default,,0,0,0,,Durun, bekleyin, Profesör!\NSize hemen bir kahve yapacağım!
+Dialogue: 0,0:53:04.74,0:53:05.74,Default,,0,0,0,,Pekala.
+Dialogue: 0,0:53:05.74,0:53:06.74,Default,,0,0,0,,Üzgünüm, geciktirdim.
+Dialogue: 0,0:53:06.75,0:53:09.75,Default,,0,0,0,,Ne yaptığını gördün mü?\NTopunu atıyorum ve getiriyor.
+Dialogue: 0,0:53:09.75,0:53:11.15,Default,,0,0,0,,Görmemişsindir.
+Dialogue: 0,0:53:11.15,0:53:13.15,Default,,0,0,0,,Topunu al.
+Dialogue: 0,0:53:14.74,0:53:18.98,Default,,0,0,0,,Benim almamı mı istiyorsun?\NYapamam, işe gitmeliyim.
+Dialogue: 0,0:53:18.98,0:53:21.08,Default,,0,0,0,,Bunu yanıma alıyorum, tamam mı?
+Dialogue: 0,0:53:21.08,0:53:22.74,Default,,0,0,0,,Hazır.
+Dialogue: 0,0:53:22.74,0:53:24.34,Default,,0,0,0,,- Sağ ol.\N- Bir şey değil.
+Dialogue: 0,0:53:24.34,0:53:26.34,Default,,0,0,0,,- Saat 5'te görüşürüz.\N- Ben yerimde olacağım.
+Dialogue: 0,0:53:26.34,0:53:28.74,Default,,0,0,0,,Eve, Hachi!\NEve dön!
+Dialogue: 0,0:53:37.98,0:53:40.68,Default,,0,0,0,,Tamam, gel buraya.\NGel buraya, bana gel.
+Dialogue: 0,0:53:40.68,0:53:43.48,Default,,0,0,0,,Tamam, tamam.
+Dialogue: 0,0:53:43.98,0:53:48.48,Default,,0,0,0,,5'te görüşürüz, tamam mı?\NAkıllı oğlum, eve dön şimdi.
+Dialogue: 0,0:54:47.57,0:54:49.08,Default,,0,0,0,,Artık daha iyi şeyler var mı?
+Dialogue: 0,0:54:53.49,0:54:59.19,Default,,0,0,0,,Pekala, hatırlarsınız, size\NJohn Philip Suso'dan bahsetmiştim?
+Dialogue: 0,0:54:59.19,0:55:02.89,Default,,0,0,0,,Yüzyılın başlarında yaşadı.
+Dialogue: 0,0:55:02.89,0:55:08.89,Default,,0,0,0,,Çok ünlü biriydi,\Nama bilinen büyük bir kaydı yoktu.
+Dialogue: 0,0:55:08.89,0:55:11.89,Default,,0,0,0,,Müziğin kaydedilmesine izin vermezdi.
+Dialogue: 0,0:55:11.89,0:55:16.79,Default,,0,0,0,,Her şey Thomas Edison'un\Nyeni icadıyla başladı... Fonograf.
+Dialogue: 0,0:55:18.14,0:55:24.64,Default,,0,0,0,,Ama, yasak Edison'u durdurmadı ve gizlice\Ngeçit töreninde çaldığı marşı kaydetti.
+Dialogue: 0,0:55:25.64,0:55:27.94,Default,,0,0,0,,Bu ilk korsan\Nkayıt olarak tarihe geçti.
+Dialogue: 0,0:55:32.14,0:55:35.44,Default,,0,0,0,,Siz ne düşünüyorsunuz?\NSuso haklı mıydı?
+Dialogue: 0,0:55:35.44,0:55:39.14,Default,,0,0,0,,Peki şimdi? Belki bugün\Nbazı şeyler yeterli geliyor,
+Dialogue: 0,0:55:39.14,0:55:45.64,Default,,0,0,0,,sahnede cd-player'ı fişe\Ntakıyorsunuz ve... bu kadar.
+Dialogue: 0,0:55:47.53,0:55:49.55,Default,,0,0,0,,Bilmiyorum.
+Dialogue: 0,0:55:50.55,0:55:57.05,Default,,0,0,0,,Sizden oldukça yaşlıyım, ama müziğin\Niçinde özel bir şeyler olduğuna inanıyorum.
+Dialogue: 0,0:55:57.05,0:56:01.95,Default,,0,0,0,,Hayat kaydedilebilir, ama kalp yazılamaz.
+Dialogue: 0,0:56:01.95,0:56:05.15,Default,,0,0,0,,Kolaya kaçmak doğamızda var.
+Dialogue: 0,0:56:41.95,0:56:43.95,Default,,0,0,0,,Efendim.
+Dialogue: 0,0:56:43.95,0:56:45.85,Default,,0,0,0,,Nesi var?
+Dialogue: 0,0:56:45.85,0:56:47.85,Default,,0,0,0,,Kalp krizi gibi görünüyor.
+Dialogue: 0,0:56:54.93,0:56:56.95,Default,,0,0,0,,Hoş geldin Hachi.\NNasılsın?
+Dialogue: 0,0:56:57.95,0:56:59.65,Default,,0,0,0,,Merhaba, Hachi!
+Dialogue: 0,0:57:01.85,0:57:03.55,Default,,0,0,0,,Yarın görüşürüz, Hachi.
+Dialogue: 0,0:57:46.16,0:57:48.29,Default,,0,0,0,,İyi geceler, Hachi.
+Dialogue: 0,0:58:03.76,0:58:04.76,Default,,0,0,0,,Dostum.
+Dialogue: 0,0:58:06.48,0:58:07.48,Default,,0,0,0,,Eve gitmeye hazır mısın?
+Dialogue: 0,0:58:10.23,0:58:11.40,Default,,0,0,0,,Evet mi?
+Dialogue: 0,0:58:46.60,0:58:47.86,Default,,0,0,0,,Merhaba Hachi.
+Dialogue: 0,0:58:49.75,0:58:51.68,Default,,0,0,0,,Nasılsın?
+Dialogue: 0,0:59:02.05,0:59:05.08,Default,,0,0,0,,Bunu nasıl yapıyorsun?
+Dialogue: 0,0:59:05.08,0:59:07.08,Default,,0,0,0,,Üzgünüm.
+Dialogue: 0,0:59:16.56,0:59:20.59,Default,,0,0,0,,Andy!\NGitme zamanı hayatım.
+Dialogue: 0,0:59:21.96,0:59:25.60,Default,,0,0,0,,Burada kal, tamam mı?\NDöneceğiz.
+Dialogue: 0,0:59:55.20,0:59:58.24,Default,,0,0,0,,Ruh artık bedenden öte değil dedim.
+Dialogue: 0,0:59:58.24,1:00:01.74,Default,,0,0,0,,Ve beden artık ruh değil.
+Dialogue: 0,1:00:01.74,1:00:06.84,Default,,0,0,0,,Ve kimse, Tanrı bile, hiçbirimizden\Nyüce değil.
+Dialogue: 0,1:00:06.85,1:00:12.75,Default,,0,0,0,,Baktığım her yerde\NTanrı'yı duyuyor ve görüyorum.
+Dialogue: 0,1:00:12.75,1:00:17.25,Default,,0,0,0,,Benim için kusursuz birinin\Nvar olduğuna inanmıyorum.
+Dialogue: 0,1:00:17.25,1:00:23.05,Default,,0,0,0,,Tanrı'yı kadın ve erkeklerin yüzlerinde ve\Naynadaki yansımamda görüyorum.
+Dialogue: 0,1:00:23.05,1:00:28.65,Default,,0,0,0,,Sokaklarda, her birinde imzası bulunan,\NTanrı'dan gelen mektuplar buluyorum.
+Dialogue: 0,1:00:28.65,1:00:31.45,Default,,0,0,0,,Ama bırakın oldukları yerde kalsınlar.
+Dialogue: 0,1:00:31.45,1:00:36.55,Default,,0,0,0,,Çünkü ben nereye gidersem\Ngideyim aynı mesajı ileteceğim.
+Dialogue: 0,1:00:38.15,1:00:41.25,Default,,0,0,0,,Sonsuza dek.
+Dialogue: 0,1:01:38.81,1:01:40.29,Default,,0,0,0,,Artık beklemene gerek yok.
+Dialogue: 0,1:01:43.19,1:01:45.24,Default,,0,0,0,,O geri gelmeyecek.
+Dialogue: 0,1:01:55.49,1:02:01.14,Default,,0,0,0,,Pekala, Hachi.\NSen ne yapacağını daha iyi bilirsin.
+Dialogue: 0,1:02:47.11,1:02:49.56,Default,,0,0,0,,Hadi, dostum, hadi.\NGidelim.
+Dialogue: 0,1:02:49.57,1:02:51.47,Default,,0,0,0,,Hadi, gel.
+Dialogue: 0,1:02:54.31,1:03:00.07,Default,,0,0,0,,Hadi, Hachi, gel hadi.\NArtık bizimle kalacaksın, gidelim.
+Dialogue: 0,1:03:01.21,1:03:03.67,Default,,0,0,0,,Gitme vakti,\NRonnie bizi bekliyor.
+Dialogue: 0,1:03:13.27,1:03:15.21,Default,,0,0,0,,Hadi, Hachi, atla bakalım.
+Dialogue: 0,1:03:15.21,1:03:19.21,Default,,0,0,0,,İşte bu iyi çocuk.\NAferin, Hachi.
+Dialogue: 0,1:04:22.41,1:04:24.61,Default,,0,0,0,,Ne haber, hergeleler?\NAndy?
+Dialogue: 0,1:04:24.62,1:04:25.62,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:04:25.62,1:04:26.62,Default,,0,0,0,,Andy!
+Dialogue: 0,1:04:26.62,1:04:28.92,Default,,0,0,0,,Ne oldu hayatım?
+Dialogue: 0,1:04:28.92,1:04:32.36,Default,,0,0,0,,Hachi! Hachi, geri dön!
+Dialogue: 0,1:04:35.96,1:04:37.59,Default,,0,0,0,,Hachi! Hadi ama.
+Dialogue: 0,1:07:03.58,1:07:04.70,Default,,0,0,0,,Bir ziyaretçiniz var gibi.
+Dialogue: 0,1:07:05.71,1:07:09.91,Default,,0,0,0,,Selam dostum, yeni eve\Nhoşgeldine mi geldin?
+Dialogue: 0,1:07:11.01,1:07:13.11,Default,,0,0,0,,Üst kattan başlıyoruz,\Nhemen hemen her şey hazır.
+Dialogue: 0,1:07:13.11,1:07:14.91,Default,,0,0,0,,Bodrum katına bir şeyler yapabilir miyiz?
+Dialogue: 0,1:07:14.91,1:07:16.81,Default,,0,0,0,,Kiler uzun süredir hazır.
+Dialogue: 0,1:07:21.82,1:07:24.02,Default,,0,0,0,,Çörekle beraber çikolata ister misin?
+Dialogue: 0,1:07:24.02,1:07:26.62,Default,,0,0,0,,Hayır, çikolata sevmiyorum.
+Dialogue: 0,1:07:27.75,1:07:30.95,Default,,0,0,0,,Hachi, burada ne arıyorsun?
+Dialogue: 0,1:07:30.95,1:07:33.45,Default,,0,0,0,,Şuna bak...
+Dialogue: 0,1:07:36.69,1:07:39.05,Default,,0,0,0,,Yerine gidiyor.
+Dialogue: 0,1:07:39.05,1:07:41.95,Default,,0,0,0,,- Uzaklardadır sanıyordum.\N- Ben de öyle.
+Dialogue: 0,1:07:41.95,1:07:46.65,Default,,0,0,0,,- Muhtemelen açtır.\N- Yumuşak kalpli birisin, Jess.
+Dialogue: 0,1:07:49.85,1:07:56.75,Default,,0,0,0,,Hachi! Hot dog ister misin?\NAl, ye, hot dog.
+Dialogue: 0,1:07:59.15,1:08:01.29,Default,,0,0,0,,Belki verdiğin şeyi beğenmemiştir.
+Dialogue: 0,1:08:01.29,1:08:04.69,Default,,0,0,0,,Lezzetlidir. Bunu Jess hazırladı,\Nseversin.
+Dialogue: 0,1:08:11.65,1:08:13.45,Default,,0,0,0,,Nereden geldi o buraya?
+Dialogue: 0,1:08:13.45,1:08:16.45,Default,,0,0,0,,Bir anda çıkıverdi.\NHadi evlat, ye.
+Dialogue: 0,1:08:16.45,1:08:21.45,Default,,0,0,0,,Dikkatli ol, Hachi.\NOnun hot dogları senden bile yaşlıdır.
+Dialogue: 0,1:08:21.45,1:08:23.68,Default,,0,0,0,,Hayır, dinleme onu, boşver.
+Dialogue: 0,1:08:39.45,1:08:40.55,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:08:40.55,1:08:41.81,Default,,0,0,0,,Tanrım.
+Dialogue: 0,1:08:41.81,1:08:44.71,Default,,0,0,0,,Merhaba!\NSeni için çok endişelendim.
+Dialogue: 0,1:08:47.41,1:08:48.91,Default,,0,0,0,,Sana ihtiyacım var.
+Dialogue: 0,1:08:48.91,1:08:51.11,Default,,0,0,0,,Onun yanındaki de kim?
+Dialogue: 0,1:08:51.11,1:08:54.91,Default,,0,0,0,,Profesörün kızı.\NMuhtemelen onlarla birlikte yaşıyor.
+Dialogue: 0,1:08:54.91,1:08:56.91,Default,,0,0,0,,Hachi de kaçmış mı?
+Dialogue: 0,1:08:56.92,1:08:57.92,Default,,0,0,0,,Sanırım öyle.
+Dialogue: 0,1:08:59.22,1:09:01.22,Default,,0,0,0,,Hadi eve gidelim.
+Dialogue: 0,1:09:02.12,1:09:04.12,Default,,0,0,0,,Onu yalnız bıraksanıza!
+Dialogue: 0,1:09:04.12,1:09:05.42,Default,,0,0,0,,Sessiz ol, onların sorunu.
+Dialogue: 0,1:09:06.12,1:09:08.92,Default,,0,0,0,,- Hadi.\N- Hadi dostum.
+Dialogue: 0,1:09:08.92,1:09:10.72,Default,,0,0,0,,Çok teşekkürler.
+Dialogue: 0,1:09:11.09,1:09:12.30,Default,,0,0,0,,Teşekkürler.
+Dialogue: 0,1:09:18.20,1:09:21.91,Default,,0,0,0,,Böylesi daha iyi.\NBana kahve ver.
+Dialogue: 0,1:09:23.51,1:09:25.71,Default,,0,0,0,,Jess, hadi, bana bir kahve ver.
+Dialogue: 0,1:09:39.20,1:09:42.81,Default,,0,0,0,,Ben de onu düşünüyorum.\NHem de her gün.
+Dialogue: 0,1:10:12.37,1:10:19.55,Default,,0,0,0,,Hachi, seni sevdiğimizi biliyorsun\Nve bizimle kalmanı istiyoruz.
+Dialogue: 0,1:10:23.44,1:10:28.24,Default,,0,0,0,,Gitmek istersen de...\Nİyi ol.
+Dialogue: 0,1:10:30.24,1:10:31.74,Default,,0,0,0,,Tamam mı?
+Dialogue: 0,1:10:50.51,1:10:52.51,Default,,0,0,0,,Hoşça kal, Hachi.
+Dialogue: 0,1:11:03.71,1:11:05.91,Default,,0,0,0,,İyi günler, Hachi.
+Dialogue: 0,1:11:37.20,1:11:43.02,Default,,0,0,0,,Hachi! Al bakalım.\NAma Myra'ya söyleme, tamam mı?
+Dialogue: 0,1:11:44.92,1:11:46.82,Default,,0,0,0,,İyi geceler, Hachi.
+Dialogue: 0,1:12:10.30,1:12:13.62,Default,,0,0,0,,- Günaydın, Jess.\N- Selam, ne istersin?
+Dialogue: 0,1:12:13.62,1:12:17.22,Default,,0,0,0,,- Sanırım büyük bir hot dog ve iki çörek.\N- Güzel.
+Dialogue: 0,1:12:23.43,1:12:25.93,Default,,0,0,0,,Dikkatli ol, sıcaktır.
+Dialogue: 0,1:12:32.63,1:12:35.33,Default,,0,0,0,,Lucky, buraya gel!
+Dialogue: 0,1:12:35.33,1:12:37.63,Default,,0,0,0,,Hadi, tatlım.\NLucky!
+Dialogue: 0,1:12:47.83,1:12:51.03,Default,,0,0,0,,Affedersiniz efendim.\NŞu köpek...
+Dialogue: 0,1:12:51.43,1:12:52.73,Default,,0,0,0,,Evet?
+Dialogue: 0,1:12:52.73,1:12:55.73,Default,,0,0,0,,Herkes onun farklı olduğunu söylüyor?
+Dialogue: 0,1:12:57.73,1:12:59.53,Default,,0,0,0,,Sizi niye ilgilendiriyor?
+Dialogue: 0,1:13:00.88,1:13:05.48,Default,,0,0,0,,Üzgünüm,\Nben Teddy Barnes, gazeteciyim.
+Dialogue: 0,1:13:06.64,1:13:09.78,Default,,0,0,0,,Yolculardan onun\Nhakkında bir sürü şey duydum.
+Dialogue: 0,1:13:09.78,1:13:12.88,Default,,0,0,0,,Bilmiyorum ama,\Nbelki iyi bir hikaye çıkabilir.
+Dialogue: 0,1:13:15.48,1:13:17.88,Default,,0,0,0,,Ben Boliens, Carl Boliens.
+Dialogue: 0,1:13:17.88,1:13:21.18,Default,,0,0,0,,B- o-l-i-e-n-s.
+Dialogue: 0,1:13:21.18,1:13:22.18,Default,,0,0,0,,- "H" yok.\N- Anladım.
+Dialogue: 0,1:13:22.18,1:13:25.18,Default,,0,0,0,,Onu buldum ve güvenilir\Nellere teslim ettim.
+Dialogue: 0,1:13:25.19,1:13:26.69,Default,,0,0,0,,Öyle mi?
+Dialogue: 0,1:13:26.69,1:13:30.89,Default,,0,0,0,,Peki Carl...\NNerede yaşıyor?
+Dialogue: 0,1:13:30.89,1:13:35.49,Default,,0,0,0,,Pekala... Kimse tam olarak\Nnereden geldiğini bilmiyor.
+Dialogue: 0,1:13:35.49,1:13:38.09,Default,,0,0,0,,- Onu hiç takip etmedin mi?\N- Hayır, etmedim.
+Dialogue: 0,1:13:38.99,1:13:40.69,Default,,0,0,0,,Her zaman istediği gibi davranır.
+Dialogue: 0,1:13:43.93,1:13:46.37,Default,,0,0,0,,Fotoğraf çekebilir miyim?\NGazete için.
+Dialogue: 0,1:13:47.02,1:13:49.62,Default,,0,0,0,,Elbette, sorun değil.\NHachi, sorun yok, değil mi?
+Dialogue: 0,1:13:49.62,1:13:51.42,Default,,0,0,0,,Teşekkür ederim, bu çok iyi.
+Dialogue: 0,1:13:51.42,1:13:54.12,Default,,0,0,0,,İlk olarak, tek çeksem?
+Dialogue: 0,1:13:54.12,1:13:57.02,Default,,0,0,0,,Köpek olmadan mı?\NTamam. Otur bakalım.
+Dialogue: 0,1:13:57.67,1:13:59.52,Default,,0,0,0,,Hayır, yani...
+Dialogue: 0,1:14:00.91,1:14:03.56,Default,,0,0,0,,Tamam, anladım, elbette.
+Dialogue: 0,1:14:03.56,1:14:06.26,Default,,0,0,0,,Memnun olurum, çok naziksiniz.
+Dialogue: 0,1:14:07.31,1:14:08.86,Default,,0,0,0,,Tamam, şimdi beraber alayım.
+Dialogue: 0,1:14:08.86,1:14:10.26,Default,,0,0,0,,Evet böyle iyi.
+Dialogue: 0,1:14:10.27,1:14:12.27,Default,,0,0,0,,Oraya bak, kafanı çevirme.
+Dialogue: 0,1:14:12.27,1:14:14.57,Default,,0,0,0,,Gülümse... Harika.
+Dialogue: 0,1:14:18.47,1:14:22.07,Default,,0,0,0,,"Sadık köpek ölen\Nsahibinin dönmesini bekliyor."
+Dialogue: 0,1:14:31.83,1:14:33.29,Default,,0,0,0,,Hachi.
+Dialogue: 0,1:14:35.23,1:14:38.93,Default,,0,0,0,,Sana para göndermişler,\Nyiyecek bir şeyler alınsın diye.
+Dialogue: 0,1:14:38.93,1:14:41.63,Default,,0,0,0,,Ben de sana\Nyiyecek bir şeyler alıverdim.
+Dialogue: 0,1:14:42.87,1:14:45.13,Default,,0,0,0,,Bu hafta, bu üçüncü.
+Dialogue: 0,1:14:45.13,1:14:48.13,Default,,0,0,0,,Bir şey istersen, bankam açık.
+Dialogue: 0,1:14:48.73,1:14:50.73,Default,,0,0,0,,Sakın seni beslemediğimi söyleme.
+Dialogue: 0,1:14:53.93,1:14:56.13,Default,,0,0,0,,Hachi'yi seviyorlar.
+Dialogue: 0,1:14:56.84,1:14:59.24,Default,,0,0,0,,Bak, hoş değil mi?
+Dialogue: 0,1:15:00.27,1:15:01.84,Default,,0,0,0,,Merhaba Hachi.
+Dialogue: 0,1:15:03.29,1:15:05.56,Default,,0,0,0,,- Bu parayla ne yapacaksın?\N- Ben onun bakıcısıyım.
+Dialogue: 0,1:15:15.16,1:15:17.36,Default,,0,0,0,,Ne demişler bak.
+Dialogue: 0,1:15:32.36,1:15:36.66,Default,,0,0,0,,Hachi. Merhaba.\NNasılsın?
+Dialogue: 0,1:15:39.72,1:15:43.30,Default,,0,0,0,,Al bakalım, Hachi.\NBu senin için.
+Dialogue: 0,1:15:44.03,1:15:45.70,Default,,0,0,0,,Acıkmış, ha?
+Dialogue: 0,1:15:45.70,1:15:49.40,Default,,0,0,0,,Evet, öyle görünüyor.\NÇok soğuk, değil mi?
+Dialogue: 0,1:15:50.80,1:15:53.70,Default,,0,0,0,,Ben Jess,\Naperatif standım şurada.
+Dialogue: 0,1:15:53.70,1:15:56.32,Default,,0,0,0,,Ken-Fyuts Esi,\NProfesör Wilson'un arkadaşıyım.
+Dialogue: 0,1:15:56.33,1:15:58.33,Default,,0,0,0,,Profesörün arkadaşı mısınız?
+Dialogue: 0,1:15:59.74,1:16:01.12,Default,,0,0,0,,Tek şeker, iki porsiyon krema.
+Dialogue: 0,1:16:03.01,1:16:05.11,Default,,0,0,0,,Makaleyi okudunuz mu?
+Dialogue: 0,1:16:05.11,1:16:06.11,Default,,0,0,0,,Okudum.
+Dialogue: 0,1:16:06.12,1:16:08.12,Default,,0,0,0,,İsmimi gördünüz mü?
+Dialogue: 0,1:16:08.12,1:16:10.22,Default,,0,0,0,,Evet, gördüm. Bu...
+Dialogue: 0,1:16:10.22,1:16:11.22,Default,,0,0,0,,İki kere.
+Dialogue: 0,1:16:11.52,1:16:13.62,Default,,0,0,0,,Masraflara ben de\Nyardımcı olabilir miyim?
+Dialogue: 0,1:16:13.62,1:16:15.82,Default,,0,0,0,,Hayır, paraya gerek yok.
+Dialogue: 0,1:16:15.82,1:16:17.82,Default,,0,0,0,,Hasta falan olursa?\NTedavisi için.
+Dialogue: 0,1:16:17.82,1:16:23.12,Default,,0,0,0,,Toplarız. Yolcular, satıcılar.\NHepimiz onu seviyoruz, ilgileniriz.
+Dialogue: 0,1:16:24.51,1:16:28.77,Default,,0,0,0,,Burası artık Hachi'nin evi oldu.\NHer gün, aynı saatte, aynı yerine gelir.
+Dialogue: 0,1:16:29.01,1:16:30.01,Default,,0,0,0,,Her gün.
+Dialogue: 0,1:16:30.05,1:16:31.55,Default,,0,0,0,,Ona iyi bakabilir misiniz?
+Dialogue: 0,1:16:31.55,1:16:33.25,Default,,0,0,0,,Ona mı?
+Dialogue: 0,1:16:33.25,1:16:34.75,Default,,0,0,0,,Elbette.
+Dialogue: 0,1:16:36.55,1:16:40.65,Default,,0,0,0,,Gitmeliyim.\NHot doglar beni bekliyor.
+Dialogue: 0,1:16:40.65,1:16:41.65,Default,,0,0,0,,Tanıştığımıza memnun oldum.
+Dialogue: 0,1:16:41.65,1:16:44.05,Default,,0,0,0,,Ben de.\NÇok teşekkürler.
+Dialogue: 0,1:16:48.45,1:16:50.16,Default,,0,0,0,,Yıllar oldu değil mi?
+Dialogue: 0,1:16:52.89,1:16:55.29,Default,,0,0,0,,Bazen, gece uyandığımda,\NParker'ı düşünürüm.
+Dialogue: 0,1:16:55.71,1:16:58.25,Default,,0,0,0,,O iyi bir arkadaştı.
+Dialogue: 0,1:16:59.52,1:17:02.05,Default,,0,0,0,,Nasıl hissettiğini anlıyorum.
+Dialogue: 0,1:17:03.37,1:17:05.55,Default,,0,0,0,,Arkadaşım Parker\Nasla eve dönmeyecek, Hachi.
+Dialogue: 0,1:17:06.89,1:17:09.62,Default,,0,0,0,,Ama Hachi burada\Nbeklemek istiyorsa, Hachi beklemeli.
+Dialogue: 0,1:17:10.50,1:17:13.27,Default,,0,0,0,,Onu beklemek istiyorsun, değil mi?
+Dialogue: 0,1:17:16.57,1:17:20.75,Default,,0,0,0,,Uzun bir ömrün var, Hachi.
+Dialogue: 0,1:17:31.70,1:17:37.60,Default,,0,0,0,,Pekala beyefendi,\Nşimdi yemek zamanı. İyi çocuk.
+Dialogue: 0,1:17:41.20,1:17:45.20,Default,,0,0,0,,Biraz daha ister misin?\NAl bakalım.
+Dialogue: 0,1:17:47.00,1:17:51.70,Default,,0,0,0,,Bunu da al, son parça.\NLezzetli, değil mi?
+Dialogue: 0,1:19:03.63,1:19:05.84,Default,,0,0,0,,Her zamankinden mi?
+Dialogue: 0,1:19:05.84,1:19:08.34,Default,,0,0,0,,Neden hiç tavuk\Nkanadı satmıyorsun?
+Dialogue: 0,1:19:08.35,1:19:09.35,Default,,0,0,0,,Bu...
+Dialogue: 0,1:19:09.35,1:19:10.35,Default,,0,0,0,,Hardal?
+Dialogue: 0,1:19:11.35,1:19:13.55,Default,,0,0,0,,Bayan Wilson?\NSizi görmek güzel.
+Dialogue: 0,1:19:13.55,1:19:14.55,Default,,0,0,0,,Merhaba.
+Dialogue: 0,1:19:16.35,1:19:18.95,Default,,0,0,0,,Profesörün karısı, değil mi?
+Dialogue: 0,1:19:30.20,1:19:31.62,Default,,0,0,0,,Bugün\N- Venedik Taciri -
+Dialogue: 0,1:20:11.55,1:20:15.57,Default,,0,0,0,,Parker Wilson\N- İyi bir koca ve baba -
+Dialogue: 0,1:20:19.94,1:20:21.94,Default,,0,0,0,,Kate.
+Dialogue: 0,1:20:25.27,1:20:26.57,Default,,0,0,0,,Ken?
+Dialogue: 0,1:20:29.17,1:20:31.17,Default,,0,0,0,,Uzun zaman oldu.
+Dialogue: 0,1:20:31.77,1:20:33.77,Default,,0,0,0,,Evet, öyle.
+Dialogue: 0,1:20:43.97,1:20:48.57,Default,,0,0,0,,10 yıl.\NBuna inanabiliyor musun?
+Dialogue: 0,1:21:02.57,1:21:04.27,Default,,0,0,0,,Selam Hachi.
+Dialogue: 0,1:21:10.17,1:21:12.57,Default,,0,0,0,,İyi günler, Hachi.
+Dialogue: 0,1:21:27.60,1:21:30.17,Default,,0,0,0,,Şekerli kahve, ve hot dog\Nüstünde hardal yok. Ketçap olabilir.
+Dialogue: 0,1:21:30.18,1:21:32.18,Default,,0,0,0,,Burası en iyisidir.
+Dialogue: 0,1:21:57.73,1:21:59.42,Default,,0,0,0,,Hachi?
+Dialogue: 0,1:22:05.72,1:22:07.72,Default,,0,0,0,,Hachi.
+Dialogue: 0,1:22:11.42,1:22:14.43,Default,,0,0,0,,Yaşlı dostum,\Nhala bekliyor musun?
+Dialogue: 0,1:22:24.93,1:22:27.13,Default,,0,0,0,,İyi çocuk.
+Dialogue: 0,1:22:30.23,1:22:33.23,Default,,0,0,0,,Sarıl bana.
+Dialogue: 0,1:22:48.13,1:22:51.73,Default,,0,0,0,,Sonraki tren gelene kadar\Nseninle bekleyebilir miyim?
+Dialogue: 0,1:22:54.43,1:22:55.93,Default,,0,0,0,,Sağ ol.
+Dialogue: 0,1:22:57.42,1:22:59.42,Default,,0,0,0,,Sağ ol.
+Dialogue: 0,1:23:07.82,1:23:09.42,Default,,0,0,0,,Hachi.
+Dialogue: 0,1:23:23.24,1:23:24.24,Default,,0,0,0,,Minicikmiş.
+Dialogue: 0,1:23:24.24,1:23:25.24,Default,,0,0,0,,Hoşuna mı gitti?
+Dialogue: 0,1:23:25.25,1:23:26.25,Default,,0,0,0,,Evet.
+Dialogue: 0,1:23:26.25,1:23:28.15,Default,,0,0,0,,Bak şuna.
+Dialogue: 0,1:23:28.15,1:23:29.15,Default,,0,0,0,,Bu benim.
+Dialogue: 0,1:23:29.15,1:23:34.95,Default,,0,0,0,,Bunu hatırlıyorum.\NResmin çekildiği günü hatırlıyorum.
+Dialogue: 0,1:23:35.85,1:23:37.65,Default,,0,0,0,,Çok tatlıymış.
+Dialogue: 0,1:23:39.25,1:23:41.15,Default,,0,0,0,,Bunlar düğünden.
+Dialogue: 0,1:23:41.15,1:23:45.95,Default,,0,0,0,,Evet, burada.
+Dialogue: 0,1:23:46.81,1:23:49.11,Default,,0,0,0,,Büyükbabam Hachi'yi nerede buldu?
+Dialogue: 0,1:23:50.21,1:23:54.01,Default,,0,0,0,,Aslında, Hachi\Nbüyükbabanı buldu.
+Dialogue: 0,1:23:54.01,1:23:55.81,Default,,0,0,0,,Nasıl?
+Dialogue: 0,1:23:56.79,1:24:01.29,Default,,0,0,0,,Bir gece büyükbaban\Ntrenle eve dönüyordu.
+Dialogue: 0,1:24:02.78,1:24:07.59,Default,,0,0,0,,Trenden indi ve\Nperonda yürürken...
+Dialogue: 0,1:26:00.99,1:26:02.59,Default,,0,0,0,,Uyan.
+Dialogue: 0,1:26:03.33,1:26:05.73,Default,,0,0,0,,Oğlum.
+Dialogue: 0,1:26:08.10,1:26:11.70,Default,,0,0,0,,Hadi, gidelim.\NHadi koş!
+Dialogue: 0,1:26:38.44,1:26:40.50,Default,,0,0,0,,Hachi!
+Dialogue: 0,1:26:40.50,1:26:42.70,Default,,0,0,0,,Oğlum!
+Dialogue: 0,1:27:25.05,1:27:29.85,Default,,0,0,0,,Büyükbabamı hiç hatırlamıyorum,\Nben çok küçükken öldü.
+Dialogue: 0,1:27:29.85,1:27:35.85,Default,,0,0,0,,Ama, o ve Hachi hakkında çok şey duydum,\Nsanırım onu tanıyabiliyorum.
+Dialogue: 0,1:27:35.85,1:27:42.85,Default,,0,0,0,,Onlardan değer vermeyi ve sadakati\Nöğrendim, sevdiklerimi asla unutmamayı.
+Dialogue: 0,1:27:43.25,1:27:47.99,Default,,0,0,0,,Kısacası, Hachi sonsuza\Nkadar benim kahramanım.
+Dialogue: 0,1:28:01.89,1:28:03.92,Default,,0,0,0,,Baksana seni\Ngördüğüne nasılda sevindi.
+Dialogue: 0,1:28:06.22,1:28:07.82,Default,,0,0,0,,Gezelim mi?
+Dialogue: 0,1:28:11.02,1:28:13.42,Default,,0,0,0,,Hadi, Hachi, gidelim.
+Dialogue: 0,1:28:24.00,1:28:29.00,Default,,0,0,0,,Asıl Hachi 1923 yılında\NOdate, Japonya'da doğdu.
+Dialogue: 0,1:28:29.01,1:28:36.31,Default,,0,0,0,,Sahibi Tokyo Üniversitesi Profesörü\NDr. Eisaburo Ueno, Mayıs 1925'te öldü.
+Dialogue: 0,1:28:36.31,1:28:40.71,Default,,0,0,0,,Hachi, Shibui istasyonuna\Ndöndü ve onu orada 9 yıl bekledi.
+Dialogue: 0,1:28:40.71,1:28:45.11,Default,,0,0,0,,Hachi, Mart 1934'te öldü.
+Dialogue: 0,1:28:46.41,1:28:52.91,Default,,0,0,0,,Bugün Hachi'nin bronz heykeli Shibui\Nistasyonunun önünde hala onu beklemektedir.
+Dialogue: 0,1:28:53.10,1:28:58.91,Default,,0,0,0,,Çeviri: Zero Cool\NTüm Hayvan Severler İçin\NZeroCool@turkcealtyazi.org
