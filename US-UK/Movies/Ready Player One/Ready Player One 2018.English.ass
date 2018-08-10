@@ -1,0 +1,1651 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:17.34,0:01:21.41,Default,,0,0,0,,Get ready for the feel,\Nthe feel of real. X1.
+Dialogue: 0,0:01:21.41,0:01:23.25,Default,,0,0,0,,No pain, no gain.
+Dialogue: 0,0:01:45.07,0:01:46.54,Default,,0,0,0,,Pizza, guys.
+Dialogue: 0,0:01:52.41,0:01:53.68,Default,,0,0,0,,Whoo-hoo!
+Dialogue: 0,0:02:08.06,0:02:09.59,Default,,0,0,0,,Hello, Wade.
+Dialogue: 0,0:02:09.59,0:02:11.32,Default,,0,0,0,,Hello, Mrs. Gilmore.
+Dialogue: 0,0:02:11.33,0:02:14.23,Default,,0,0,0,,What's the matter?\NLife getting you down?
+Dialogue: 0,0:02:18.90,0:02:21.43,Default,,0,0,0,,I was born in 2027.
+Dialogue: 0,0:02:21.44,0:02:25.24,Default,,0,0,0,,After the Corn Syrup Droughts,\Nafter the Bandwidth Riots.
+Dialogue: 0,0:02:25.24,0:02:27.44,Default,,0,0,0,,After people stopped trying\Nto fix problems
+Dialogue: 0,0:02:27.44,0:02:29.74,Default,,0,0,0,,and just tried to outlive them.
+Dialogue: 0,0:02:36.32,0:02:38.79,Default,,0,0,0,,My parents, they didn't make it\Nthrough those times,
+Dialogue: 0,0:02:38.79,0:02:42.76,Default,,0,0,0,,so I live here in Columbus, Ohio,\Nwith my Aunt Alice.
+Dialogue: 0,0:02:42.76,0:02:48.10,Default,,0,0,0,,In 2045, Columbus is the\Nfastest-growing city on Earth.
+Dialogue: 0,0:02:48.10,0:02:51.44,Default,,0,0,0,,It's where Halliday and Morrow\Nstarted Gregarious Games.
+Dialogue: 0,0:02:56.30,0:02:58.70,Default,,0,0,0,,These days, reality is a bummer.
+Dialogue: 0,0:02:58.71,0:03:00.68,Default,,0,0,0,,Everyone is looking\Nfor a way to escape,
+Dialogue: 0,0:03:00.68,0:03:02.22,Default,,0,0,0,,and that's why Halliday...
+Dialogue: 0,0:03:02.22,0:03:05.04,Default,,0,0,0,,That's why he was\Nsuch a hero to us.
+Dialogue: 0,0:03:05.05,0:03:08.62,Default,,0,0,0,,He showed us that we could go somewhere\Nwithout going anywhere at all.
+Dialogue: 0,0:03:10.55,0:03:12.32,Default,,0,0,0,,You don't need a destination
+Dialogue: 0,0:03:12.32,0:03:14.05,Default,,0,0,0,,when you're running on\Nan omnidirectional treadmill
+Dialogue: 0,0:03:14.06,0:03:16.40,Default,,0,0,0,,with quadraphonic,\Npressure-sensitive underlay.
+Dialogue: 0,0:03:17.33,0:03:19.73,Default,,0,0,0,,James Halliday saw the future.
+Dialogue: 0,0:03:19.73,0:03:21.46,Default,,0,0,0,,And then he built it.
+Dialogue: 0,0:03:21.46,0:03:23.63,Default,,0,0,0,,He gave us a place to go.
+Dialogue: 0,0:03:23.63,0:03:25.96,Default,,0,0,0,,A place called
+Dialogue: 0,0:03:25.97,0:03:27.41,Default,,0,0,0,,the OASIS.
+Dialogue: 0,0:03:40.52,0:03:42.92,Default,,0,0,0,,This is the OASIS.
+Dialogue: 0,0:03:42.92,0:03:47.09,Default,,0,0,0,,It's a place where the limits of\Nreality are your own imagination.
+Dialogue: 0,0:04:00.50,0:04:02.63,Default,,0,0,0,,You can do anything...
+Dialogue: 0,0:04:03.61,0:04:04.68,Default,,0,0,0,,go anywhere.
+Dialogue: 0,0:04:06.24,0:04:07.90,Default,,0,0,0,,Like the vacation planet.
+Dialogue: 0,0:04:07.91,0:04:10.71,Default,,0,0,0,,Surf a 50-foot monster wave\Nin Hawaii.
+Dialogue: 0,0:04:10.71,0:04:13.61,Default,,0,0,0,,You can ski down the pyramids.
+Dialogue: 0,0:04:13.62,0:04:15.52,Default,,0,0,0,,You can climb Mount Everest
+Dialogue: 0,0:04:15.52,0:04:17.02,Default,,0,0,0,,with Batman.
+Dialogue: 0,0:04:19.72,0:04:23.35,Default,,0,0,0,,Check out this place.\NIt's a casino the size of a planet.
+Dialogue: 0,0:04:23.36,0:04:25.03,Default,,0,0,0,,You can lose your money there.
+Dialogue: 0,0:04:25.03,0:04:27.43,Default,,0,0,0,,You can get married.\NYou can get divorced.
+Dialogue: 0,0:04:27.43,0:04:31.27,Default,,0,0,0,,You can...\NYou can go in there.
+Dialogue: 0,0:04:31.27,0:04:34.37,Default,,0,0,0,,People come to the OASIS for\Nall the things they can do,
+Dialogue: 0,0:04:34.37,0:04:37.54,Default,,0,0,0,,but they stay because of all\Nthe things they can be.
+Dialogue: 0,0:04:39.04,0:04:42.81,Default,,0,0,0,,Tall, beautiful, scary,\Na different sex,
+Dialogue: 0,0:04:42.81,0:04:46.04,Default,,0,0,0,,a different species,\Nlive-action, cartoon.
+Dialogue: 0,0:04:46.05,0:04:48.65,Default,,0,0,0,,It's all your call.
+Dialogue: 0,0:04:48.65,0:04:51.98,Default,,0,0,0,,Yeah, that's me.\NWell, that's my avatar.
+Dialogue: 0,0:04:51.99,0:04:55.96,Default,,0,0,0,,At least, until I feel\Nlike changing it.
+Dialogue: 0,0:04:55.96,0:04:58.40,Default,,0,0,0,,Except for eating, sleeping,\Nand bathroom breaks,
+Dialogue: 0,0:04:58.40,0:05:02.46,Default,,0,0,0,,whatever people wanna do,\Nthey do it in the OASIS.
+Dialogue: 0,0:05:02.46,0:05:05.46,Default,,0,0,0,,And since everyone is here,\Nthis is where we meet each other.
+Dialogue: 0,0:05:05.47,0:05:06.81,Default,,0,0,0,,It's where we make friends.
+Dialogue: 0,0:05:06.81,0:05:09.13,Default,,0,0,0,,Locate Aech.
+Dialogue: 0,0:05:09.14,0:05:11.48,Default,,0,0,0,,Locating Aech.
+Dialogue: 0,0:05:14.28,0:05:16.34,Default,,0,0,0,,Aech located.
+Dialogue: 0,0:05:16.34,0:05:19.64,Default,,0,0,0,,Sector 12. Planet Doom.
+Dialogue: 0,0:05:19.65,0:05:22.99,Default,,0,0,0,,Planet Doom, the most\Ndangerous place in the OASIS,
+Dialogue: 0,0:05:22.99,0:05:26.08,Default,,0,0,0,,and a pretty great place\Nto pick up coin.
+Dialogue: 0,0:05:26.09,0:05:27.69,Default,,0,0,0,,Figures Aech would be there.
+Dialogue: 0,0:05:30.29,0:05:33.76,Default,,0,0,0,,Aech is my best friend\Nin the OASIS.
+Dialogue: 0,0:05:33.76,0:05:36.43,Default,,0,0,0,,He's my best friend, period.
+Dialogue: 0,0:05:36.43,0:05:39.33,Default,,0,0,0,,Even though I've never actually\Nmet him in the real world.
+Dialogue: 0,0:05:43.17,0:05:45.50,Default,,0,0,0,,- WADWhat's up, Aech?\N- Hey, what up, Z?
+Dialogue: 0,0:05:45.51,0:05:47.94,Default,,0,0,0,,Next race is in 20 minutes,\Nand I can't do the late one.
+Dialogue: 0,0:05:47.95,0:05:49.64,Default,,0,0,0,,What the hell are you up to?
+Dialogue: 0,0:05:49.64,0:05:52.28,Default,,0,0,0,,Man, gettin' my kills on, bro.
+Dialogue: 0,0:05:52.28,0:05:53.51,Default,,0,0,0,,Is that Daito?
+Dialogue: 0,0:05:53.51,0:05:55.11,Default,,0,0,0,,Daito and Sho.
+Dialogue: 0,0:06:01.52,0:06:02.99,Default,,0,0,0,,This an artifact hunt?
+Dialogue: 0,0:06:02.99,0:06:05.29,Default,,0,0,0,,Yup. Gregarious 120.
+Dialogue: 0,0:06:05.29,0:06:09.86,Default,,0,0,0,,Turn into any giant robot\Nfor two minutes. That's rad.
+Dialogue: 0,0:06:09.86,0:06:11.23,Default,,0,0,0,,Artifacts.
+Dialogue: 0,0:06:11.97,0:06:14.84,Default,,0,0,0,,Those were key.
+Dialogue: 0,0:06:14.84,0:06:17.01,Default,,0,0,0,,Halliday made sure\Nthe OASIS was littered
+Dialogue: 0,0:06:17.01,0:06:19.70,Default,,0,0,0,,with enough\Nrandomly powerful stuff
+Dialogue: 0,0:06:19.71,0:06:24.08,Default,,0,0,0,,that anyone could win\Nif they had the skills.
+Dialogue: 0,0:06:24.08,0:06:26.92,Default,,0,0,0,,Death matches and artifact hunts\Nare a good way to coin-snatch,
+Dialogue: 0,0:06:26.92,0:06:29.68,Default,,0,0,0,,but depending on your level\Nof armor, they're risky.
+Dialogue: 0,0:06:31.19,0:06:33.52,Default,,0,0,0,,You see,\Neveryone starts the same,
+Dialogue: 0,0:06:33.52,0:06:34.98,Default,,0,0,0,,but the more coin you make...
+Dialogue: 0,0:06:34.99,0:06:37.16,Default,,0,0,0,,- Mom! Mom!\N- The more you level up.
+Dialogue: 0,0:06:37.16,0:06:39.07,Default,,0,0,0,,If you get killed, your avatar\Ncan come back to life...
+Dialogue: 0,0:06:39.07,0:06:40.36,Default,,0,0,0,,Go get your dad!
+Dialogue: 0,0:06:40.36,0:06:41.89,Default,,0,0,0,,But you lose all your stuff.
+Dialogue: 0,0:06:43.83,0:06:45.66,Default,,0,0,0,,Everything you've\Never worked for.
+Dialogue: 0,0:06:46.53,0:06:48.00,Default,,0,0,0,,All your money.
+Dialogue: 0,0:06:50.04,0:06:51.57,Default,,0,0,0,,Your clothes.
+Dialogue: 0,0:06:53.11,0:06:55.18,Default,,0,0,0,,Your weapons.
+Dialogue: 0,0:06:55.18,0:06:57.78,Default,,0,0,0,,Since people spend most of\Ntheir time in the OASIS...
+Dialogue: 0,0:07:00.62,0:07:02.46,Default,,0,0,0,,losing your shit means...
+Dialogue: 0,0:07:02.46,0:07:05.08,Default,,0,0,0,,Well, losing your shit.
+Dialogue: 0,0:07:07.46,0:07:09.90,Default,,0,0,0,,Aech, 10 minutes\Nuntil the race starts.
+Dialogue: 0,0:07:09.90,0:07:12.09,Default,,0,0,0,,AECOkay, Mom, I heard you.
+Dialogue: 0,0:07:12.09,0:07:16.23,Default,,0,0,0,,You see, the OASIS was the\Nbrainchild of James Halliday.
+Dialogue: 0,0:07:16.23,0:07:21.13,Default,,0,0,0,,He and his partner, Ogden Morrow,\Nreleased the first OASIS build in 2025.
+Dialogue: 0,0:07:21.14,0:07:25.41,Default,,0,0,0,,It was an instant success, and\Nit made them both very rich.
+Dialogue: 0,0:07:25.41,0:07:29.05,Default,,0,0,0,,But Morrow was out of the picture\Nafter a few years. And Halliday?
+Dialogue: 0,0:07:29.05,0:07:32.38,Default,,0,0,0,,He wasn't just the owner of\Nthe world's biggest company.
+Dialogue: 0,0:07:32.38,0:07:36.31,Default,,0,0,0,,He was like a god.\NPeople loved him.
+Dialogue: 0,0:07:36.32,0:07:38.49,Default,,0,0,0,,They worshiped him\Nas much as his creation.
+Dialogue: 0,0:07:38.49,0:07:41.32,Default,,0,0,0,,Maybe we should stop\Ntalking about it
+Dialogue: 0,0:07:41.32,0:07:43.82,Default,,0,0,0,,and start, uh, showing it.
+Dialogue: 0,0:07:43.83,0:07:46.13,Default,,0,0,0,,If you all wanna reach\Nunder your seats,
+Dialogue: 0,0:07:46.13,0:07:48.47,Default,,0,0,0,,you'll find that there's nothing there.
+Dialogue: 0,0:07:48.47,0:07:52.66,Default,,0,0,0,,But we're gonna... we're each\Ngonna bring you one now.
+Dialogue: 0,0:07:52.67,0:07:56.80,Default,,0,0,0,,And then, on January 7, 2040...
+Dialogue: 0,0:07:59.64,0:08:00.70,Default,,0,0,0,,He died.
+Dialogue: 0,0:08:03.68,0:08:05.60,Default,,0,0,0,,And what he left behind
+Dialogue: 0,0:08:06.28,0:08:08.88,Default,,0,0,0,,changed everything.
+Dialogue: 0,0:08:21.36,0:08:25.60,Default,,0,0,0,,Hello. I am James Halliday.
+Dialogue: 0,0:08:25.60,0:08:29.03,Default,,0,0,0,,If you're watching this,\NI'm dead.
+Dialogue: 0,0:08:29.04,0:08:36.28,Default,,0,0,0,,Before I died, I created what we\Nin the biz call an "Easter egg."
+Dialogue: 0,0:08:36.28,0:08:43.19,Default,,0,0,0,,A hidden object in a game that gives\Nspecial powers to whoever discovers it.
+Dialogue: 0,0:08:44.62,0:08:47.19,Default,,0,0,0,,The first person to find the egg
+Dialogue: 0,0:08:47.19,0:08:50.62,Default,,0,0,0,,I've hidden somewhere\Ninside the OASIS
+Dialogue: 0,0:08:50.63,0:08:54.46,Default,,0,0,0,,will inherit my stock\Nin Gregarious Games,
+Dialogue: 0,0:08:54.46,0:08:58.33,Default,,0,0,0,,currently valued in excess\Nof half a million do...
+Dialogue: 0,0:08:58.33,0:09:01.33,Default,,0,0,0,,Uh, half a trillion\Ndollars' worth,
+Dialogue: 0,0:09:01.34,0:09:07.81,Default,,0,0,0,,and total control\Nof the OASIS itself.
+Dialogue: 0,0:09:07.81,0:09:13.51,Default,,0,0,0,,In the form of my avatar,\NAnorak the All-Knowing,
+Dialogue: 0,0:09:13.51,0:09:17.18,Default,,0,0,0,,I created three keys.
+Dialogue: 0,0:09:17.18,0:09:20.55,Default,,0,0,0,,Three hidden challenges\Ntest for worthy traits
+Dialogue: 0,0:09:20.56,0:09:24.89,Default,,0,0,0,,revealing three hidden keys\Nto three magic gates.
+Dialogue: 0,0:09:24.89,0:09:29.06,Default,,0,0,0,,And those with the skill\Nto survive these straits
+Dialogue: 0,0:09:29.06,0:09:33.86,Default,,0,0,0,,will reach the end,\Nwhere the prize awaits.
+Dialogue: 0,0:09:33.87,0:09:36.44,Default,,0,0,0,,Off you go, keys.
+Dialogue: 0,0:09:38.71,0:09:43.71,Default,,0,0,0,,The keys aren't just laying\Naround under a rock somewhere.
+Dialogue: 0,0:09:43.71,0:09:46.44,Default,,0,0,0,,I suppose you could say\Nthey're invisible,
+Dialogue: 0,0:09:46.45,0:09:50.18,Default,,0,0,0,,hidden in a dark room\Nthat's at the center of a maze
+Dialogue: 0,0:09:50.18,0:09:53.15,Default,,0,0,0,,that's located somewhere
+Dialogue: 0,0:09:54.09,0:09:56.52,Default,,0,0,0,,up here.
+Dialogue: 0,0:09:56.52,0:10:00.62,Default,,0,0,0,,Let the hunt\Nfor Halliday's Easter egg
+Dialogue: 0,0:10:01.23,0:10:02.53,Default,,0,0,0,,begin.
+Dialogue: 0,0:10:08.77,0:10:11.21,Default,,0,0,0,,The challenge\Nis to find three keys,
+Dialogue: 0,0:10:11.21,0:10:14.81,Default,,0,0,0,,but in five years, no one\Nhas even gotten one key.
+Dialogue: 0,0:10:14.81,0:10:17.81,Default,,0,0,0,,And the big scoreboard?\NStill empty.
+Dialogue: 0,0:10:17.81,0:10:19.74,Default,,0,0,0,,Some long-forgotten gunter\Ncracked the first clue
+Dialogue: 0,0:10:19.75,0:10:21.62,Default,,0,0,0,,and found the first challenge.
+Dialogue: 0,0:10:21.62,0:10:24.32,Default,,0,0,0,,Then, this portal appeared.
+Dialogue: 0,0:10:24.32,0:10:27.76,Default,,0,0,0,,But the challenge to win the first\Nkey was a race designed by Halliday
+Dialogue: 0,0:10:27.76,0:10:30.76,Default,,0,0,0,,that was so hard,\Nno one had ever finished it.
+Dialogue: 0,0:10:30.76,0:10:34.27,Default,,0,0,0,,The only ones still trying are the\Ngunters, as in "egg hunters,"
+Dialogue: 0,0:10:34.27,0:10:37.83,Default,,0,0,0,,like me and Sho and Daito,\Nand my best friend, Aech.
+Dialogue: 0,0:10:37.83,0:10:41.63,Default,,0,0,0,,Oh, and of course, the Sixers.
+Dialogue: 0,0:10:41.64,0:10:42.81,Default,,0,0,0,,The Sixers work for IOI...
+Dialogue: 0,0:10:42.81,0:10:44.40,Default,,0,0,0,,Sixers!
+Dialogue: 0,0:10:44.41,0:10:46.14,Default,,0,0,0,,Innovative Online Industries.
+Dialogue: 0,0:10:46.14,0:10:47.60,Default,,0,0,0,,They're the second-largest\Ncompany in the world
+Dialogue: 0,0:10:47.61,0:10:49.85,Default,,0,0,0,,with designs\Non becoming the first.
+Dialogue: 0,0:10:49.85,0:10:51.81,Default,,0,0,0,,Which is why they're putting\Neverything they got
+Dialogue: 0,0:10:51.81,0:10:53.14,Default,,0,0,0,,into winning Halliday's contest.
+Dialogue: 0,0:10:53.15,0:10:54.85,Default,,0,0,0,,Buckle up!
+Dialogue: 0,0:10:55.62,0:10:57.85,Default,,0,0,0,,Sit in!
+Dialogue: 0,0:10:57.85,0:11:00.52,Default,,0,0,0,,We call 'em "Sixers"\N'cause that's the company rule.
+Dialogue: 0,0:11:00.52,0:11:03.79,Default,,0,0,0,,No name, just numbers.
+Dialogue: 0,0:11:03.79,0:11:06.62,Default,,0,0,0,,They have a support team\Nmade up of Halliday scholars.
+Dialogue: 0,0:11:06.63,0:11:09.33,Default,,0,0,0,,Like me, they spend all their\Ntime studying pop culture
+Dialogue: 0,0:11:09.34,0:11:10.99,Default,,0,0,0,,that Halliday was obsessed with,
+Dialogue: 0,0:11:11.00,0:11:13.01,Default,,0,0,0,,trying to find clues\Nto solve the contest.
+Dialogue: 0,0:11:15.60,0:11:18.53,Default,,0,0,0,,They're just following\Nthe orders of the head of IOI,
+Dialogue: 0,0:11:18.54,0:11:21.68,Default,,0,0,0,,this dickweed\Nnamed Nolan Sorrento.
+Dialogue: 0,0:11:27.65,0:11:29.29,Default,,0,0,0,,How'd you get here before me?
+Dialogue: 0,0:11:29.29,0:11:31.71,Default,,0,0,0,,Well, I didn't make a pit stop\Nat the hair salon.
+Dialogue: 0,0:11:31.72,0:11:34.22,Default,,0,0,0,,- What up, Z?\N- What's up, Aech?
+Dialogue: 0,0:11:34.22,0:11:35.52,Default,,0,0,0,,Saved you a spot.
+Dialogue: 0,0:11:35.52,0:11:36.89,Default,,0,0,0,,Thanks, bro.
+Dialogue: 0,0:11:41.06,0:11:42.63,Default,,0,0,0,,I gotta go to the back.
+Dialogue: 0,0:11:42.63,0:11:45.29,Default,,0,0,0,,Ugh. So you can skim coins\Nfrom crashed cars?
+Dialogue: 0,0:11:45.30,0:11:48.07,Default,,0,0,0,,- That's just sad, man.\N- Fuel's low.
+Dialogue: 0,0:11:48.07,0:11:51.88,Default,,0,0,0,,Oh, but you still had enough to pay\Nfor that Something About Mary hairdo.
+Dialogue: 0,0:12:33.11,0:12:34.21,Default,,0,0,0,,First to the key.
+Dialogue: 0,0:12:35.52,0:12:36.88,Default,,0,0,0,,First to the egg!
+Dialogue: 0,0:13:26.07,0:13:28.01,Default,,0,0,0,,Aech, are you seeing this?
+Dialogue: 0,0:13:30.94,0:13:33.18,Default,,0,0,0,,Yeah, I see it.\NThat's Kaneda's bike from Akira.
+Dialogue: 0,0:13:33.18,0:13:35.40,Default,,0,0,0,,It's a licensed skin\Nover a standard frame.
+Dialogue: 0,0:13:35.41,0:13:38.28,Default,,0,0,0,,No, not the bike.\NForget the bike.
+Dialogue: 0,0:13:38.28,0:13:40.12,Default,,0,0,0,,The girl, I think it's Art3mis.
+Dialogue: 0,0:13:40.12,0:13:42.41,Default,,0,0,0,,The Art3mis? The Sixer Fixer?
+Dialogue: 0,0:13:42.42,0:13:45.35,Default,,0,0,0,,I've seen all her walk-throughs,\Nher Twitch streams.
+Dialogue: 0,0:13:45.36,0:13:47.32,Default,,0,0,0,,It's her. It's definitely her.
+Dialogue: 0,0:15:34.40,0:15:36.54,Default,,0,0,0,,Go, go, go!\NGet there! Come on!
+Dialogue: 0,0:15:42.30,0:15:43.43,Default,,0,0,0,,AECYou got it, you got it!
+Dialogue: 0,0:15:52.88,0:15:54.31,Default,,0,0,0,,Balls.
+Dialogue: 0,0:15:59.95,0:16:01.02,Default,,0,0,0,,She's not gonna make it.
+Dialogue: 0,0:16:03.76,0:16:05.59,Default,,0,0,0,,Bail! Bail out!
+Dialogue: 0,0:16:05.59,0:16:06.66,Default,,0,0,0,,Bail!
+Dialogue: 0,0:16:12.80,0:16:14.50,Default,,0,0,0,,Ow!
+Dialogue: 0,0:16:45.03,0:16:46.53,Default,,0,0,0,,Damn, I loved that bike.
+Dialogue: 0,0:16:46.53,0:16:48.20,Default,,0,0,0,,Oh, Aech could...
+Dialogue: 0,0:16:48.20,0:16:50.50,Default,,0,0,0,,Well, he's my friend,\Nbut he could fix it for you.
+Dialogue: 0,0:16:57.85,0:17:00.61,Default,,0,0,0,,This is my workshop.\NTouch nothing.
+Dialogue: 0,0:17:07.15,0:17:09.28,Default,,0,0,0,,Where did you find\Nan Iron Giant?
+Dialogue: 0,0:17:09.29,0:17:12.16,Default,,0,0,0,,Find it? I'm building it.\NThat's a commission.
+Dialogue: 0,0:17:12.16,0:17:15.13,Default,,0,0,0,,Oh, yeah. Aech is\Ntop-rated on the mod boards.
+Dialogue: 0,0:17:15.13,0:17:17.97,Default,,0,0,0,,People all over the OASIS\Npay him serious coin.
+Dialogue: 0,0:17:17.97,0:17:20.33,Default,,0,0,0,,Oh, hey, check this out!
+Dialogue: 0,0:17:20.33,0:17:23.33,Default,,0,0,0,,Hey. Z, yo.
+Dialogue: 0,0:17:23.34,0:17:25.81,Default,,0,0,0,,- The Galactica, of course.\N- These are my babies, all right, man?
+Dialogue: 0,0:17:25.81,0:17:27.57,Default,,0,0,0,,Sulaco, from Aliens.
+Dialogue: 0,0:17:27.57,0:17:30.17,Default,,0,0,0,,Dude, how are you\Nshowing off my shit?
+Dialogue: 0,0:17:30.18,0:17:31.75,Default,,0,0,0,,Valley Forge, from Silent Running.\NOh, where's the Harkonnen Drop-Ship?
+Dialogue: 0,0:17:31.75,0:17:34.31,Default,,0,0,0,,That thing is sick.\NFolds space like a boss.
+Dialogue: 0,0:17:34.31,0:17:36.38,Default,,0,0,0,,I mean, you can get from Incipio\Nto Arrakis in three seconds...
+Dialogue: 0,0:17:36.39,0:17:38.15,Default,,0,0,0,,Fingers!
+Dialogue: 0,0:17:38.15,0:17:39.58,Default,,0,0,0,,You'll have to excuse him.
+Dialogue: 0,0:17:39.59,0:17:41.73,Default,,0,0,0,,He gets a little nervous\Naround pretty girls.
+Dialogue: 0,0:17:48.83,0:17:51.34,Default,,0,0,0,,I can fix it in 10 minutes.
+Dialogue: 0,0:17:52.67,0:17:55.27,Default,,0,0,0,,Yup. He's pretty great.
+Dialogue: 0,0:17:55.27,0:17:58.34,Default,,0,0,0,,I assume you and Shoulder\NBlades are clanned up.
+Dialogue: 0,0:17:58.34,0:18:00.61,Default,,0,0,0,,Oh, Aech? Nah.
+Dialogue: 0,0:18:00.61,0:18:05.58,Default,,0,0,0,,I mean, he's really good,\Nbut I don't clan.
+Dialogue: 0,0:18:05.58,0:18:08.28,Default,,0,0,0,,Oh, 'cause you're Parzival,
+Dialogue: 0,0:18:08.28,0:18:10.85,Default,,0,0,0,,as in the knight who found\Nthe Holy Grail by himself.
+Dialogue: 0,0:18:10.85,0:18:12.85,Default,,0,0,0,,What about you, Art3mis?
+Dialogue: 0,0:18:12.85,0:18:15.85,Default,,0,0,0,,Goddess of the hunt. Clans must\Nbe killing to sign you up.
+Dialogue: 0,0:18:17.42,0:18:19.39,Default,,0,0,0,,- Favorite shooter?\N- Excuse me?
+Dialogue: 0,0:18:19.40,0:18:21.36,Default,,0,0,0,,James Halliday's\Nfavorite first-person shooter.
+Dialogue: 0,0:18:21.36,0:18:22.93,Default,,0,0,0,,- What?\N- Oh. GoldenEye.
+Dialogue: 0,0:18:22.93,0:18:25.29,Default,,0,0,0,,- Playing as?\N- Oddjob. Is this a test?
+Dialogue: 0,0:18:25.30,0:18:27.03,Default,,0,0,0,,Favorite game variant?
+Dialogue: 0,0:18:27.03,0:18:28.63,Default,,0,0,0,,Game variant was "slappers only."\NNo weapons.
+Dialogue: 0,0:18:28.64,0:18:30.31,Default,,0,0,0,,I know what "slappers only" means.\NRacer?
+Dialogue: 0,0:18:30.31,0:18:32.60,Default,,0,0,0,,Turbo. And his favorite food\Nwas Hot Pockets.
+Dialogue: 0,0:18:32.61,0:18:34.58,Default,,0,0,0,,Favorite restaurant\Nwas Chuck E Cheese.
+Dialogue: 0,0:18:34.58,0:18:36.91,Default,,0,0,0,,Song was Video Killed the\NRadio Star by the Buggles.
+Dialogue: 0,0:18:36.91,0:18:38.81,Default,,0,0,0,,Video wTake on Me by A-ha.
+Dialogue: 0,0:18:38.81,0:18:43.41,Default,,0,0,0,,Oh, oh... His favorite\Nquote was from Superman.
+Dialogue: 0,0:18:43.42,0:18:45.38,Default,,0,0,0,,"Some people\Ncan read War and Peace
+Dialogue: 0,0:18:45.39,0:18:47.59,Default,,0,0,0,,"and come away thinking it's\Na simple adventure story..."
+Dialogue: 0,0:18:47.59,0:18:50.06,Default,,0,0,0,,"Others can read the ingredients on\Nthe back of a chewing-gum wrapper
+Dialogue: 0,0:18:50.06,0:18:53.13,Default,,0,0,0,,"and unlock the secrets\Nof the universe."
+Dialogue: 0,0:18:53.13,0:18:55.56,Default,,0,0,0,,Lex Luthor.
+Dialogue: 0,0:18:55.56,0:18:58.23,Default,,0,0,0,,Cool.
+Dialogue: 0,0:18:58.23,0:19:02.16,Default,,0,0,0,,What would you do? If you won.\NThe whole contest, I mean.
+Dialogue: 0,0:19:02.17,0:19:05.28,Default,,0,0,0,,Oh! I mean, I've got tons\Nof plans in the real world.
+Dialogue: 0,0:19:05.28,0:19:10.07,Default,,0,0,0,,I'd... I'd move into a huge mansion,\Nbuy a bunch of cool shit, not be poor.
+Dialogue: 0,0:19:11.28,0:19:14.98,Default,,0,0,0,,Now I know\Nwhy you stopped short.
+Dialogue: 0,0:19:14.98,0:19:18.15,Default,,0,0,0,,I stopped because of Kong.\NNo one ever makes it past Kong.
+Dialogue: 0,0:19:18.15,0:19:20.42,Default,,0,0,0,,That... That's...\NThat's, like, a rule.
+Dialogue: 0,0:19:20.42,0:19:23.75,Default,,0,0,0,,Well, then you know it can't be true.\NBecause Halliday hated making rules.
+Dialogue: 0,0:19:23.76,0:19:25.49,Default,,0,0,0,,I can't afford to zero out.
+Dialogue: 0,0:19:25.49,0:19:27.29,Default,,0,0,0,,- You're afraid to lose your shit.\N- No, I'm not!
+Dialogue: 0,0:19:27.29,0:19:28.86,Default,,0,0,0,,What happens when IOI\Noffers you guaranteed coin
+Dialogue: 0,0:19:28.87,0:19:30.26,Default,,0,0,0,,for the keys to the kingdom?
+Dialogue: 0,0:19:30.26,0:19:32.59,Default,,0,0,0,,Nolan Sorrento\Ntakes over the world.
+Dialogue: 0,0:19:32.60,0:19:36.94,Default,,0,0,0,,A real gunter would risk everything\Nto save the OASIS from IOI.
+Dialogue: 0,0:19:36.94,0:19:38.44,Default,,0,0,0,,Who said that?
+Dialogue: 0,0:19:38.44,0:19:39.91,Default,,0,0,0,,Me.
+Dialogue: 0,0:19:42.11,0:19:44.21,Default,,0,0,0,,There you go. Good as new.
+Dialogue: 0,0:19:44.21,0:19:46.54,Default,,0,0,0,,Thanks for the fix-up, my man.
+Dialogue: 0,0:19:56.22,0:19:58.32,Default,,0,0,0,,That's better.
+Dialogue: 0,0:19:58.33,0:20:02.37,Default,,0,0,0,,I'll wave to you\Nfrom the finish line, McFly.
+Dialogue: 0,0:20:05.70,0:20:07.01,Default,,0,0,0,,That went well.
+Dialogue: 0,0:20:07.01,0:20:08.90,Default,,0,0,0,,Thanks to you,\NCaptain Big Mouth.
+Dialogue: 0,0:20:08.90,0:20:12.33,Default,,0,0,0,,Wade? Wade?\NWhere the hell are my gloves?
+Dialogue: 0,0:20:12.34,0:20:14.38,Default,,0,0,0,,Shit. I gotta go.
+Dialogue: 0,0:20:17.31,0:20:19.41,Default,,0,0,0,,ANNOUNCEX1.
+Dialogue: 0,0:20:19.41,0:20:22.38,Default,,0,0,0,,When I'm after gold on Planet Doom,\NI need every edge I can get.
+Dialogue: 0,0:20:22.38,0:20:26.32,Default,,0,0,0,,Every push, punch, gunshot,\Nyou feel it all.
+Dialogue: 0,0:20:26.32,0:20:30.65,Default,,0,0,0,,Get ready for the feel,\Nthe feel of real. X1.
+Dialogue: 0,0:20:30.66,0:20:33.00,Default,,0,0,0,,The X1 is like\Nwearing a second skin.
+Dialogue: 0,0:20:33.00,0:20:34.99,Default,,0,0,0,,A skin that kicks ass.
+Dialogue: 0,0:20:36.70,0:20:39.60,Default,,0,0,0,,I zeroed out 'cause\Nof your broke-ass gloves.
+Dialogue: 0,0:20:39.61,0:20:41.03,Default,,0,0,0,,Who told you to use them?
+Dialogue: 0,0:20:41.03,0:20:43.17,Default,,0,0,0,,You took hers.
+Dialogue: 0,0:20:44.20,0:20:46.20,Default,,0,0,0,,So you lost a death match.
+Dialogue: 0,0:20:46.21,0:20:50.12,Default,,0,0,0,,Why don't you just respawn and\Nlevel up like everyone else?
+Dialogue: 0,0:20:50.12,0:20:52.27,Default,,0,0,0,,You don't get it.
+Dialogue: 0,0:20:52.28,0:20:54.52,Default,,0,0,0,,I bought all these power-ups for\Nthis challenge, and I lost it all.
+Dialogue: 0,0:20:54.52,0:20:56.38,Default,,0,0,0,,That artifact\Nwas gonna pay for the house!
+Dialogue: 0,0:20:56.39,0:20:58.05,Default,,0,0,0,,Wait.
+Dialogue: 0,0:20:58.05,0:21:02.05,Default,,0,0,0,,How much of our house money\Ndid you spend on upgrades?
+Dialogue: 0,0:21:02.06,0:21:04.92,Default,,0,0,0,,Well, all of it,\Nbut I was gonna win.
+Dialogue: 0,0:21:04.93,0:21:07.87,Default,,0,0,0,,That was our ticket out of here.
+Dialogue: 0,0:21:10.43,0:21:11.96,Default,,0,0,0,,You idiot.
+Dialogue: 0,0:21:11.97,0:21:13.97,Default,,0,0,0,,No, but I only lost 'cause\Nof the bad gloves.
+Dialogue: 0,0:21:13.97,0:21:15.74,Default,,0,0,0,,Our house! Our goddamn house!
+Dialogue: 0,0:21:15.74,0:21:17.44,Default,,0,0,0,,My boys were in that challenge.
+Dialogue: 0,0:21:17.44,0:21:19.75,Default,,0,0,0,,You couldn't have beat them\Nin a bootsuit, you noob.
+Dialogue: 0,0:21:19.75,0:21:22.90,Default,,0,0,0,,Stop! No! No!
+Dialogue: 0,0:21:22.91,0:21:24.22,Default,,0,0,0,,Alice, call the police!
+Dialogue: 0,0:21:24.22,0:21:25.87,Default,,0,0,0,,No, we are not calling the cops.
+Dialogue: 0,0:21:25.88,0:21:27.75,Default,,0,0,0,,Go to your room, Rick.
+Dialogue: 0,0:21:27.75,0:21:30.08,Default,,0,0,0,,Aw, come on, Alice.
+Dialogue: 0,0:21:30.08,0:21:34.08,Default,,0,0,0,,Why do you put up with this guy?\NHe's a shitshow.
+Dialogue: 0,0:21:34.09,0:21:38.66,Default,,0,0,0,,I ought to kick the both of you out.\NI swear to G-O-D, Wade Watts,
+Dialogue: 0,0:21:38.66,0:21:41.43,Default,,0,0,0,,if I catch you\Ntouching my stuff again,
+Dialogue: 0,0:21:41.43,0:21:44.04,Default,,0,0,0,,not joking... Out.
+Dialogue: 0,0:21:50.90,0:21:53.24,Default,,0,0,0,,"Wade Watts."
+Dialogue: 0,0:21:53.24,0:21:55.00,Default,,0,0,0,,My dad picked that name
+Dialogue: 0,0:21:55.01,0:21:57.25,Default,,0,0,0,,because it sounded\Nlike a superhero's alter ego,
+Dialogue: 0,0:21:57.25,0:22:00.91,Default,,0,0,0,,like Peter Parker\Nor Bruce Banner.
+Dialogue: 0,0:22:00.91,0:22:02.98,Default,,0,0,0,,But he died when I was a kid.
+Dialogue: 0,0:22:02.98,0:22:06.18,Default,,0,0,0,,My mom, too,\Nand I ended up here,
+Dialogue: 0,0:22:06.19,0:22:08.09,Default,,0,0,0,,living with Aunt Alice
+Dialogue: 0,0:22:08.09,0:22:10.53,Default,,0,0,0,,and her endless string\Nof hard-loving losers.
+Dialogue: 0,0:22:13.33,0:22:16.20,Default,,0,0,0,,"Halliday hated making rules."
+Dialogue: 0,0:22:16.20,0:22:18.87,Default,,0,0,0,,Why is that line\Nsticking in my head?
+Dialogue: 0,0:22:21.17,0:22:24.70,Default,,0,0,0,,Maybe it's 'cause Art3mis\Nsaid it, and she's hot.
+Dialogue: 0,0:22:24.71,0:22:26.98,Default,,0,0,0,,Maybe it's because\Nshe called me out,
+Dialogue: 0,0:22:26.98,0:22:30.14,Default,,0,0,0,,sitting here\Nin my tiny corner of nowhere,
+Dialogue: 0,0:22:30.14,0:22:32.87,Default,,0,0,0,,protecting my small slice\Nof nothing.
+Dialogue: 0,0:22:32.88,0:22:35.15,Default,,0,0,0,,Or maybe...
+Dialogue: 0,0:22:35.15,0:22:37.66,Default,,0,0,0,,Maybe it's because\Nthat line means something
+Dialogue: 0,0:22:37.66,0:22:39.35,Default,,0,0,0,,and I missed it.
+Dialogue: 0,0:22:42.16,0:22:43.73,Default,,0,0,0,,The day the contest\Nwas announced,
+Dialogue: 0,0:22:43.73,0:22:46.05,Default,,0,0,0,,the Halliday Journals appeared.
+Dialogue: 0,0:22:46.06,0:22:49.23,Default,,0,0,0,,He told us to look in his brain.\NThis was the next best thing.
+Dialogue: 0,0:22:49.23,0:22:52.74,Default,,0,0,0,,At first, it was jammed with\Ngunters looking for answers.
+Dialogue: 0,0:22:52.74,0:22:55.36,Default,,0,0,0,,Now, the once-crowded halls\Nof Halliday's memories
+Dialogue: 0,0:22:55.37,0:22:56.64,Default,,0,0,0,,are left to people like me.
+Dialogue: 0,0:22:56.64,0:22:59.41,Default,,0,0,0,,Parzival. Oh, joy!
+Dialogue: 0,0:22:59.41,0:23:02.91,Default,,0,0,0,,And how will you eat up\Nmy valuable search time today?
+Dialogue: 0,0:23:02.91,0:23:05.08,Default,,0,0,0,,Gregarious Games, 2029...\NOffice party.
+Dialogue: 0,0:23:05.08,0:23:08.25,Default,,0,0,0,,Office party. Yes, you've only\Nseen it a thousand times.
+Dialogue: 0,0:23:08.25,0:23:11.02,Default,,0,0,0,,Why not go back?
+Dialogue: 0,0:23:11.02,0:23:14.72,Default,,0,0,0,,Each entry into Halliday's\NJournals is meticulously assembled
+Dialogue: 0,0:23:14.73,0:23:17.22,Default,,0,0,0,,from personal photographs,\Nhome video recordings,
+Dialogue: 0,0:23:17.22,0:23:19.15,Default,,0,0,0,,surveillance, and nanny cams.
+Dialogue: 0,0:23:19.16,0:23:23.00,Default,,0,0,0,,All rendered into a three-dimensional\Nvirtual experience.
+Dialogue: 0,0:23:23.00,0:23:26.67,Default,,0,0,0,,Also, Halliday archived every film,\Ngame, book, and television program
+Dialogue: 0,0:23:26.67,0:23:30.00,Default,,0,0,0,,he ever saw,\Nlocated on the mezzanine.
+Dialogue: 0,0:23:30.00,0:23:33.57,Default,,0,0,0,,No weapons or mature-themed avatars\Nare permitted within the Journals.
+Dialogue: 0,0:23:33.57,0:23:37.37,Default,,0,0,0,,Please enjoy your time with us,\Nand happy gunting!
+Dialogue: 0,0:23:37.38,0:23:39.22,Default,,0,0,0,,I like cleaning up.
+Dialogue: 0,0:23:39.22,0:23:41.64,Default,,0,0,0,,Okay, Jim,\NI'm, uh... I'm going.
+Dialogue: 0,0:23:46.55,0:23:49.52,Default,,0,0,0,,Everything changes, Jim.\NEverything evolves.
+Dialogue: 0,0:23:49.52,0:23:52.89,Default,,0,0,0,,Some things are perfect\Njust the way they arAsteroids.
+Dialogue: 0,0:23:52.89,0:23:56.96,Default,,0,0,0,,People don't live inside\Nan Asteroids arcade cabinet.
+Dialogue: 0,0:23:58.27,0:24:00.13,Default,,0,0,0,,I know that.
+Dialogue: 0,0:24:00.13,0:24:02.36,Default,,0,0,0,,Yeah, well, people are living\Ninside the arcade we built.
+Dialogue: 0,0:24:02.37,0:24:04.54,Default,,0,0,0,,- I built.\N- Uh, well...
+Dialogue: 0,0:24:04.54,0:24:07.24,Default,,0,0,0,,Right. Well, I guess you\Ncan say whatever you want.
+Dialogue: 0,0:24:07.24,0:24:08.77,Default,,0,0,0,,I don't really wanna\Ntalk about it anymore.
+Dialogue: 0,0:24:08.78,0:24:09.95,Default,,0,0,0,,No, of course\Nyou don't wanna talk about it.
+Dialogue: 0,0:24:09.95,0:24:11.37,Default,,0,0,0,,You're forcing me out.
+Dialogue: 0,0:24:11.38,0:24:12.91,Default,,0,0,0,,Closer on Halliday.
+Dialogue: 0,0:24:12.91,0:24:14.78,Default,,0,0,0,,Look, invention\Ncomes with responsibilities
+Dialogue: 0,0:24:14.78,0:24:16.95,Default,,0,0,0,,you didn't ask for.
+Dialogue: 0,0:24:16.95,0:24:19.15,Default,,0,0,0,,All right, if you make\Nsomething people want or need
+Dialogue: 0,0:24:19.15,0:24:21.95,Default,,0,0,0,,then it's up to you to set the limits.\NYou have to make some rules.
+Dialogue: 0,0:24:21.96,0:24:23.56,Default,,0,0,0,,"I don't wanna\Nmake any more rules."
+Dialogue: 0,0:24:23.56,0:24:25.40,Default,,0,0,0,,I don't wanna make\Nany more rules.
+Dialogue: 0,0:24:25.40,0:24:26.82,Default,,0,0,0,,"I'm a dreamer."
+Dialogue: 0,0:24:26.83,0:24:28.13,Default,,0,0,0,,I'm a dreamer.
+Dialogue: 0,0:24:28.13,0:24:31.06,Default,,0,0,0,,- I build worlds.\N- "I build worlds."
+Dialogue: 0,0:24:31.06,0:24:33.83,Default,,0,0,0,,We created something beautiful,\NJim, but it's changed.
+Dialogue: 0,0:24:33.83,0:24:35.46,Default,,0,0,0,,Okay? It's really\Nnot a game anymore.
+Dialogue: 0,0:24:35.47,0:24:37.10,Default,,0,0,0,,Are we finished?
+Dialogue: 0,0:24:37.10,0:24:41.64,Default,,0,0,0,,I liked how things were\Nwhen they were...
+Dialogue: 0,0:24:43.08,0:24:45.24,Default,,0,0,0,,When it was a game.
+Dialogue: 0,0:24:45.25,0:24:48.02,Default,,0,0,0,,And we're back to where we started.\NBut that's the point, isn't it?
+Dialogue: 0,0:24:48.02,0:24:50.51,Default,,0,0,0,,Things move forward\Nwhether you like it or not.
+Dialogue: 0,0:24:50.52,0:24:52.65,Default,,0,0,0,,Yeah, we're finished.
+Dialogue: 0,0:24:52.65,0:24:54.35,Default,,0,0,0,,Fine.
+Dialogue: 0,0:24:56.52,0:25:00.36,Default,,0,0,0,,Why can't we\Ngo backwards, for once?
+Dialogue: 0,0:25:02.66,0:25:06.86,Default,,0,0,0,,Backwards, really fast.\NFast as we can.
+Dialogue: 0,0:25:06.87,0:25:08.97,Default,,0,0,0,,Really put the pedal to\Nthe metal, you know?
+Dialogue: 0,0:25:08.97,0:25:11.67,Default,,0,0,0,,Go back 10 seconds!
+Dialogue: 0,0:25:11.67,0:25:16.30,Default,,0,0,0,,Why can't we go backwards,\Nfor once?
+Dialogue: 0,0:25:16.31,0:25:20.71,Default,,0,0,0,,Backwards, really fast.\NFast as we can.
+Dialogue: 0,0:25:20.71,0:25:23.51,Default,,0,0,0,,Really put the pedal to\Nthe metal, you know?
+Dialogue: 0,0:25:24.52,0:25:26.32,Default,,0,0,0,,Bill and Ted did it.
+Dialogue: 0,0:25:47.64,0:25:49.70,Default,,0,0,0,,Back again so soon?
+Dialogue: 0,0:25:51.24,0:25:53.44,Default,,0,0,0,,Careful not to lose your shit.
+Dialogue: 0,0:25:57.48,0:25:59.85,Default,,0,0,0,,You figured something out.
+Dialogue: 0,0:25:59.85,0:26:02.08,Default,,0,0,0,,Parzival, tell me.
+Dialogue: 0,0:27:42.16,0:27:46.99,Default,,0,0,0,,Nice racing, Padawan.\NYou're the first to finish.
+Dialogue: 0,0:27:46.99,0:27:51.53,Default,,0,0,0,,Mr. Halliday... Anorak.
+Dialogue: 0,0:27:52.87,0:27:54.43,Default,,0,0,0,,It's such an honor.
+Dialogue: 0,0:27:54.43,0:27:56.73,Default,,0,0,0,,The honor is all mine.
+Dialogue: 0,0:28:07.81,0:28:09.61,Default,,0,0,0,,Get yourself a clue.
+Dialogue: 0,0:28:24.13,0:28:27.73,Default,,0,0,0,,Who is this Parzival,\Nand how the hell is he winning?
+Dialogue: 0,0:28:27.73,0:28:30.37,Default,,0,0,0,,Well, here's a better question.\NWho cares?
+Dialogue: 0,0:28:30.37,0:28:32.47,Default,,0,0,0,,Halliday's contest\Nis vitally important.
+Dialogue: 0,0:28:32.47,0:28:35.57,Default,,0,0,0,,I mean, it's nothing less than a\Nwar for control of the future.
+Dialogue: 0,0:28:35.58,0:28:38.81,Default,,0,0,0,,But this Parzival?\NHe's not even clanned up.
+Dialogue: 0,0:28:38.81,0:28:42.14,Default,,0,0,0,,He's alone. We have an army.
+Dialogue: 0,0:28:42.15,0:28:43.89,Default,,0,0,0,,And yet, he's got the first key.
+Dialogue: 0,0:28:43.89,0:28:45.75,Default,,0,0,0,,Yeah, he has a key,
+Dialogue: 0,0:28:45.75,0:28:48.75,Default,,0,0,0,,but you have to get three\Nof 'em to win the contest.
+Dialogue: 0,0:28:48.76,0:28:51.42,Default,,0,0,0,,Our stock dove 6% yesterday.
+Dialogue: 0,0:28:51.42,0:28:55.39,Default,,0,0,0,,Loyalty division is reporting\Nprofits of 28%. F'Nale.
+Dialogue: 0,0:28:55.40,0:28:58.24,Default,,0,0,0,,We're opening five new\Nloyalty centers this month.
+Dialogue: 0,0:28:58.24,0:29:00.26,Default,,0,0,0,,Debt Services dwarfs Hardware.
+Dialogue: 0,0:29:00.27,0:29:02.34,Default,,0,0,0,,Now, you really wanna talk\Nto me about stock prices?
+Dialogue: 0,0:29:02.34,0:29:04.37,Default,,0,0,0,,The shareholders won't be happy.
+Dialogue: 0,0:29:04.37,0:29:07.04,Default,,0,0,0,,It's not our job to make them happy.\NIt's our job to make them money,
+Dialogue: 0,0:29:07.04,0:29:11.14,Default,,0,0,0,,but once we launch this little\Nbaby, they're gonna flip.
+Dialogue: 0,0:29:12.41,0:29:15.61,Default,,0,0,0,,We call this Pure O2.
+Dialogue: 0,0:29:15.62,0:29:17.52,Default,,0,0,0,,This is the first\Nof our planned upgrades.
+Dialogue: 0,0:29:17.52,0:29:20.13,Default,,0,0,0,,Once we can roll back some of\NHalliday's ad restrictions,
+Dialogue: 0,0:29:20.13,0:29:24.19,Default,,0,0,0,,we estimate\Nwe can sell up to 80%
+Dialogue: 0,0:29:24.19,0:29:29.59,Default,,0,0,0,,of an individual's visual field before\Ninducing seizures, so picture this...
+Dialogue: 0,0:29:29.60,0:29:32.67,Default,,0,0,0,,All of this implies\Nwe win the contest.
+Dialogue: 0,0:29:35.57,0:29:37.74,Default,,0,0,0,,Indeed, it does.
+Dialogue: 0,0:29:39.54,0:29:42.31,Default,,0,0,0,,Dude, you won the key\Nand 100,000 coins?
+Dialogue: 0,0:29:42.31,0:29:43.81,Default,,0,0,0,,As soon as I took the key,
+Dialogue: 0,0:29:43.82,0:29:45.71,Default,,0,0,0,,all the coins\Njust appeared in my account.
+Dialogue: 0,0:29:45.71,0:29:48.04,Default,,0,0,0,,I'll tell you what, I'm\Nsoiling my haptics right now.
+Dialogue: 0,0:29:51.65,0:29:53.45,Default,,0,0,0,,What the hell's a Cataclyst?
+Dialogue: 0,0:29:53.45,0:29:57.22,Default,,0,0,0,,A bomb. Kills every avatar\Non a planet, even the owner.
+Dialogue: 0,0:29:57.22,0:29:58.45,Default,,0,0,0,,Who'd want that?
+Dialogue: 0,0:29:58.46,0:30:00.53,Default,,0,0,0,,IOI.\NThey buy everything.
+Dialogue: 0,0:30:01.83,0:30:04.63,Default,,0,0,0,,Twenty-thou\Nfor the holy hand grenade?
+Dialogue: 0,0:30:04.63,0:30:06.36,Default,,0,0,0,,That's a steal!
+Dialogue: 0,0:30:08.64,0:30:12.47,Default,,0,0,0,,Whoa! Zemeckis Cube!\NI need one of those.
+Dialogue: 0,0:30:12.47,0:30:14.20,Default,,0,0,0,,Okay, don't spend\Nall your money.
+Dialogue: 0,0:30:17.81,0:30:20.18,Default,,0,0,0,,X1 haptic bootsuit.
+Dialogue: 0,0:30:34.76,0:30:36.22,Default,,0,0,0,,Oh, yeah!
+Dialogue: 0,0:31:29.22,0:31:32.42,Default,,0,0,0,,I-R0k, old friend.\NHow are you?
+Dialogue: 0,0:31:34.59,0:31:36.26,Default,,0,0,0,,To be honest,\NI have kind of a neck thing.
+Dialogue: 0,0:31:36.26,0:31:38.23,Default,,0,0,0,,It's like a carpel-tunnel deal
+Dialogue: 0,0:31:38.23,0:31:40.09,Default,,0,0,0,,but with your neck,\Nif that's even a thing.
+Dialogue: 0,0:31:40.10,0:31:42.72,Default,,0,0,0,,So if you could just stand\Nto... to your right.
+Dialogue: 0,0:31:42.73,0:31:44.00,Default,,0,0,0,,My right, your left.
+Dialogue: 0,0:31:45.87,0:31:49.24,Default,,0,0,0,,Thanks, it's the repetitive stress.\NOh.
+Dialogue: 0,0:31:50.27,0:31:51.43,Default,,0,0,0,,Here he is.
+Dialogue: 0,0:31:53.51,0:31:58.51,Default,,0,0,0,,The steampunk pirate king.\NI knew him well, Sorrento.
+Dialogue: 0,0:31:58.51,0:32:00.88,Default,,0,0,0,,There are only three things\Nin this world I hate,
+Dialogue: 0,0:32:00.88,0:32:04.85,Default,,0,0,0,,steampunk, pirates,\Nand tabbouleh.
+Dialogue: 0,0:32:04.85,0:32:07.68,Default,,0,0,0,,I mean,\Nwhy do they even have it?
+Dialogue: 0,0:32:07.69,0:32:10.39,Default,,0,0,0,,Is there a reason\Nwe're meeting here?
+Dialogue: 0,0:32:10.39,0:32:15.62,Default,,0,0,0,,Yes, Nolan. The Orb of Osuvox.
+Dialogue: 0,0:32:15.63,0:32:19.00,Default,,0,0,0,,You wanted it. He had it.\NAnd so here it is.
+Dialogue: 0,0:32:22.77,0:32:26.74,Default,,0,0,0,,It creates an impenetrable magic\Nshield that can only be taken down
+Dialogue: 0,0:32:26.74,0:32:29.11,Default,,0,0,0,,by a magic spell.
+Dialogue: 0,0:32:29.11,0:32:31.54,Default,,0,0,0,,The Orb of Osuvox.
+Dialogue: 0,0:32:31.54,0:32:32.94,Default,,0,0,0,,Don't say that again.
+Dialogue: 0,0:32:32.95,0:32:34.05,Default,,0,0,0,,Okay.
+Dialogue: 0,0:32:36.22,0:32:39.92,Default,,0,0,0,,Now, I'm gonna need you\Nto keep this for now.
+Dialogue: 0,0:32:39.92,0:32:42.16,Default,,0,0,0,,I'm gonna let you know\Nwhen I wanna use it.
+Dialogue: 0,0:32:42.16,0:32:43.23,Default,,0,0,0,,Okay?
+Dialogue: 0,0:32:46.63,0:32:50.66,Default,,0,0,0,,Right now, though,\NI have another job for you.
+Dialogue: 0,0:32:50.66,0:32:51.99,Default,,0,0,0,,Ah.
+Dialogue: 0,0:32:52.00,0:32:53.93,Default,,0,0,0,,Parzival.
+Dialogue: 0,0:32:53.93,0:32:56.90,Default,,0,0,0,,Let me guess, you want\Nhim off the scoreboard.
+Dialogue: 0,0:32:57.74,0:32:59.24,Default,,0,0,0,,Can you do that?
+Dialogue: 0,0:32:59.24,0:33:01.77,Default,,0,0,0,,Well, he's a superstar.
+Dialogue: 0,0:33:01.77,0:33:03.64,Default,,0,0,0,,He made it\Nthrough the first gate
+Dialogue: 0,0:33:03.65,0:33:06.24,Default,,0,0,0,,and avatars are gonna be\Non him like hoes on Santa.
+Dialogue: 0,0:33:06.25,0:33:09.48,Default,,0,0,0,,I-R0k, how much more\Ndo you want?
+Dialogue: 0,0:33:09.48,0:33:13.11,Default,,0,0,0,,That's what I like about you, Nolan.\NYou never lick.
+Dialogue: 0,0:33:13.12,0:33:15.16,Default,,0,0,0,,You bite straight\Nto the chocolaty center
+Dialogue: 0,0:33:15.16,0:33:17.29,Default,,0,0,0,,of the Tootsie Pop.
+Dialogue: 0,0:33:17.29,0:33:19.69,Default,,0,0,0,,Remember that old commercial,\Nwith the owl?
+Dialogue: 0,0:33:19.69,0:33:20.76,Default,,0,0,0,,I-R0k.
+Dialogue: 0,0:33:22.70,0:33:24.50,Default,,0,0,0,,Three times my normal fee.
+Dialogue: 0,0:33:24.50,0:33:26.13,Default,,0,0,0,,Done.
+Dialogue: 0,0:33:26.13,0:33:28.00,Default,,0,0,0,,Wait, really?\NI should have asked for five.
+Dialogue: 0,0:33:28.00,0:33:30.00,Default,,0,0,0,,Is four still on the table?
+Dialogue: 0,0:33:32.21,0:33:35.21,Default,,0,0,0,,There's five of us\Non the big board now.
+Dialogue: 0,0:33:35.21,0:33:38.01,Default,,0,0,0,,Art3mis was next,\Nno surprise there.
+Dialogue: 0,0:33:38.01,0:33:41.34,Default,,0,0,0,,She was on the track when I won.\NShe saw me going backwards.
+Dialogue: 0,0:33:41.35,0:33:46.39,Default,,0,0,0,,I gave Aech a tip, made him promise not\Nto say anything, and then he won next.
+Dialogue: 0,0:33:46.39,0:33:49.06,Default,,0,0,0,,I'm pretty sure\Nhe bragged to our pal Daito,
+Dialogue: 0,0:33:49.06,0:33:51.79,Default,,0,0,0,,'cause he won right after.
+Dialogue: 0,0:33:51.79,0:33:55.39,Default,,0,0,0,,And of course, Daito told\Nhis best friend, Sho...
+Dialogue: 0,0:33:55.40,0:33:57.53,Default,,0,0,0,,He totally totaled his car,
+Dialogue: 0,0:33:57.53,0:33:59.69,Default,,0,0,0,,but then Sho got it, too.
+Dialogue: 0,0:34:08.67,0:34:10.91,Default,,0,0,0,,"A creator who hates\Nhis own creation.
+Dialogue: 0,0:34:10.91,0:34:15.41,Default,,0,0,0,,"A hidden key, a leap not taken.\NRetrace your steps, escape your past."
+Dialogue: 0,0:34:15.42,0:34:18.15,Default,,0,0,0,,"A creator who hates\Nhis own creation.
+Dialogue: 0,0:34:18.15,0:34:22.58,Default,,0,0,0,,"A hidden key, a leap not taken.\NRetrace your steps, escape your past.
+Dialogue: 0,0:34:22.59,0:34:25.06,Default,,0,0,0,,"And the key of jade\Nwill be yours at last."
+Dialogue: 0,0:35:06.90,0:35:08.87,Default,,0,0,0,,"Escape your past."
+Dialogue: 0,0:35:12.54,0:35:15.51,Default,,0,0,0,,What part of your past are you\Ntrying to escape, Halliday?
+Dialogue: 0,0:35:27.32,0:35:29.08,Default,,0,0,0,,- Hey, it's Parzival!\N- Dude!
+Dialogue: 0,0:35:30.56,0:35:32.09,Default,,0,0,0,,You're, like, totally my hero!
+Dialogue: 0,0:35:32.09,0:35:33.25,Default,,0,0,0,,Hey, Parzival!\NOver here!
+Dialogue: 0,0:35:33.26,0:35:35.39,Default,,0,0,0,,Dude, you're amazing!
+Dialogue: 0,0:35:35.39,0:35:37.68,Default,,0,0,0,,Hey, Parzival! Right here!\NLet me get an autograph!
+Dialogue: 0,0:35:43.47,0:35:45.30,Default,,0,0,0,,Watch it!
+Dialogue: 0,0:35:45.30,0:35:49.44,Default,,0,0,0,,You're famous now! You can't\Njust go wherever you want!
+Dialogue: 0,0:35:49.44,0:35:50.84,Default,,0,0,0,,No, no, no, I...
+Dialogue: 0,0:35:55.48,0:35:57.65,Default,,0,0,0,,Huh?
+Dialogue: 0,0:36:01.12,0:36:03.52,Default,,0,0,0,,Ahh!
+Dialogue: 0,0:36:09.60,0:36:13.80,Default,,0,0,0,,That is... That is not funny.
+Dialogue: 0,0:36:13.80,0:36:16.47,Default,,0,0,0,,Oh, God.
+Dialogue: 0,0:36:16.47,0:36:19.10,Default,,0,0,0,,Ugh.
+Dialogue: 0,0:36:19.11,0:36:21.87,Default,,0,0,0,,Oh, God. Don't you get it?
+Dialogue: 0,0:36:21.87,0:36:24.37,Default,,0,0,0,,You're "the Parzival" now.
+Dialogue: 0,0:36:24.38,0:36:25.88,Default,,0,0,0,,You have to have a disguise.
+Dialogue: 0,0:36:28.15,0:36:29.79,Default,,0,0,0,,Okay, here.
+Dialogue: 0,0:36:31.02,0:36:32.72,Default,,0,0,0,,Clark Kent glasses.
+Dialogue: 0,0:36:32.72,0:36:35.03,Default,,0,0,0,,They hide your identity\Nwithout changing your look.
+Dialogue: 0,0:36:43.73,0:36:45.33,Default,,0,0,0,,I'm not wearing that.
+Dialogue: 0,0:36:54.87,0:36:57.51,Default,,0,0,0,,This is great.
+Dialogue: 0,0:36:57.51,0:36:59.57,Default,,0,0,0,,The way your inventory\Nbursts out when you die.
+Dialogue: 0,0:36:59.58,0:37:01.25,Default,,0,0,0,,They didn't want any more blood.
+Dialogue: 0,0:37:01.25,0:37:02.89,Default,,0,0,0,,This is right before\Nthe OASIS went live.
+Dialogue: 0,0:37:02.89,0:37:06.48,Default,,0,0,0,,Six days prior.\NDecember 2nd, 2025.
+Dialogue: 0,0:37:06.49,0:37:08.52,Default,,0,0,0,,Check this out.
+Dialogue: 0,0:37:08.52,0:37:10.15,Default,,0,0,0,,You know who that is?
+Dialogue: 0,0:37:11.76,0:37:13.53,Default,,0,0,0,,Is that Sorrento?
+Dialogue: 0,0:37:13.53,0:37:15.50,Default,,0,0,0,,Sorrento started as an intern.
+Dialogue: 0,0:37:15.50,0:37:17.93,Default,,0,0,0,,He claims he learned\Nat the feet of the master.
+Dialogue: 0,0:37:17.93,0:37:20.66,Default,,0,0,0,,That's how he convinced IOI\Nto create the Sixers for him,
+Dialogue: 0,0:37:20.67,0:37:22.23,Default,,0,0,0,,his Halliday knowledge.
+Dialogue: 0,0:37:22.24,0:37:24.54,Default,,0,0,0,,But ask Ogden Morrow?
+Dialogue: 0,0:37:24.54,0:37:28.71,Default,,0,0,0,,He says the only thing Sorrento\Nactually knew about Halliday
+Dialogue: 0,0:37:28.71,0:37:30.38,Default,,0,0,0,,was how he liked his coffee.
+Dialogue: 0,0:37:30.38,0:37:32.88,Default,,0,0,0,,You could have, like,\Ndifferent tiers of accounts,
+Dialogue: 0,0:37:32.88,0:37:34.51,Default,,0,0,0,,like a gold member.
+Dialogue: 0,0:37:34.51,0:37:38.18,Default,,0,0,0,,A person could be\Nsilver, platinum, bronze.
+Dialogue: 0,0:37:38.18,0:37:40.25,Default,,0,0,0,,You know, depending on\Nwhat they paid.
+Dialogue: 0,0:37:40.26,0:37:43.12,Default,,0,0,0,,You know, highest one maybe being\N"Water" because "OASIS," right?
+Dialogue: 0,0:37:43.12,0:37:45.05,Default,,0,0,0,,Hell of a latte.
+Dialogue: 0,0:37:45.06,0:37:47.13,Default,,0,0,0,,Can you fast-forward to the\Nstuff about Halliday's date?
+Dialogue: 0,0:37:47.13,0:37:48.97,Default,,0,0,0,,What? Halliday actually went\Non a date?
+Dialogue: 0,0:37:53.27,0:37:54.73,Default,,0,0,0,,So, what happened?
+Dialogue: 0,0:37:54.73,0:37:57.97,Default,,0,0,0,,Nothing. I invited her over.
+Dialogue: 0,0:37:57.97,0:38:00.60,Default,,0,0,0,,Well, did you at least\Nget her name?
+Dialogue: 0,0:38:00.61,0:38:04.32,Default,,0,0,0,,Yeah. Kira, I told you, like the\Ncharacter in The Dark Crystal.
+Dialogue: 0,0:38:04.32,0:38:06.14,Default,,0,0,0,,That's her gamer tag.
+Dialogue: 0,0:38:08.21,0:38:09.38,Default,,0,0,0,,- Karen.\N- Karen.
+Dialogue: 0,0:38:09.38,0:38:11.71,Default,,0,0,0,,Yeah, okay? Karen Underwood.
+Dialogue: 0,0:38:11.72,0:38:15.32,Default,,0,0,0,,No, no. Karen Underwood,\Nas in Ogden Morrow's wife?
+Dialogue: 0,0:38:15.32,0:38:17.32,Default,,0,0,0,,Just watch.
+Dialogue: 0,0:38:17.32,0:38:21.09,Default,,0,0,0,,So, listen, you and Karen Underwood.\NWhat'd you do?
+Dialogue: 0,0:38:21.09,0:38:23.56,Default,,0,0,0,,She wanted to go dancing,
+Dialogue: 0,0:38:23.56,0:38:25.89,Default,,0,0,0,,so we watched a movie.
+Dialogue: 0,0:38:27.13,0:38:28.36,Default,,0,0,0,,And?
+Dialogue: 0,0:38:30.30,0:38:32.13,Default,,0,0,0,,Where's the juice?
+Dialogue: 0,0:38:32.14,0:38:34.35,Default,,0,0,0,,Give me some juice!
+Dialogue: 0,0:38:34.35,0:38:37.74,Default,,0,0,0,,- There is no juice!\N- Oh, God!
+Dialogue: 0,0:38:37.74,0:38:39.41,Default,,0,0,0,,Hold the phone.
+Dialogue: 0,0:38:39.41,0:38:43.51,Default,,0,0,0,,Halliday went on a date\Nwith Ogden Morrow's wife?
+Dialogue: 0,0:38:43.52,0:38:46.95,Default,,0,0,0,,Just once, years before they\Nwere even married, but yeah.
+Dialogue: 0,0:38:46.96,0:38:49.32,Default,,0,0,0,,And despite that,\Nand the fact that she died,
+Dialogue: 0,0:38:49.32,0:38:52.62,Default,,0,0,0,,the name "Kira" is only mentioned\Nonce in all of Halliday's Journals.
+Dialogue: 0,0:38:52.63,0:38:53.96,Default,,0,0,0,,That's not possible.
+Dialogue: 0,0:38:53.96,0:38:55.86,Default,,0,0,0,,It is. Look it up.
+Dialogue: 0,0:38:55.86,0:38:58.29,Default,,0,0,0,,What we just saw is the only\Ntime she's ever mentioned.
+Dialogue: 0,0:38:58.30,0:38:59.80,Default,,0,0,0,,It makes no sense.
+Dialogue: 0,0:38:59.80,0:39:02.17,Default,,0,0,0,,She was an important part\Nof both their lives.
+Dialogue: 0,0:39:02.17,0:39:04.11,Default,,0,0,0,,I'll bet you anything.\NAll my coin.
+Dialogue: 0,0:39:05.94,0:39:09.81,Default,,0,0,0,,Search\N"Karen Underwood Morrow."
+Dialogue: 0,0:39:09.81,0:39:12.98,Default,,0,0,0,,Kira, I told you, like the\Ncharacter in The Dark Crystal.
+Dialogue: 0,0:39:12.98,0:39:15.18,Default,,0,0,0,,That's her gamer tag.
+Dialogue: 0,0:39:15.18,0:39:17.88,Default,,0,0,0,,Halliday purposely removed every\Nmention of her except for this one.
+Dialogue: 0,0:39:17.88,0:39:19.51,Default,,0,0,0,,That's weird. Why?
+Dialogue: 0,0:39:19.52,0:39:21.53,Default,,0,0,0,,It's like, it was just\Nso painful for him
+Dialogue: 0,0:39:21.53,0:39:24.65,Default,,0,0,0,,to have to see her face\Nor hear her name.
+Dialogue: 0,0:39:24.66,0:39:26.52,Default,,0,0,0,,Well, he loved her.
+Dialogue: 0,0:39:26.53,0:39:28.39,Default,,0,0,0,,He couldn't tell that to Morrow.
+Dialogue: 0,0:39:28.39,0:39:30.06,Default,,0,0,0,,Oh, that's sad. He should\Nhave told her how he felt.
+Dialogue: 0,0:39:30.07,0:39:31.56,Default,,0,0,0,,Yeah, well,\Nhe missed his chance.
+Dialogue: 0,0:39:31.56,0:39:33.69,Default,,0,0,0,,Look.
+Dialogue: 0,0:39:33.70,0:39:36.91,Default,,0,0,0,,I found the clue to the race\Nin the other scene, but...
+Dialogue: 0,0:39:36.91,0:39:38.50,Default,,0,0,0,,I've always felt\Nthat the biggest clue
+Dialogue: 0,0:39:38.50,0:39:40.37,Default,,0,0,0,,to the contest was hidden here.
+Dialogue: 0,0:39:40.38,0:39:42.14,Default,,0,0,0,,You're right.
+Dialogue: 0,0:39:43.21,0:39:45.21,Default,,0,0,0,,I lose.
+Dialogue: 0,0:39:45.21,0:39:47.01,Default,,0,0,0,,Don't sweat it, Curator.
+Dialogue: 0,0:39:47.01,0:39:49.51,Default,,0,0,0,,You see, Kira is the Rosebud\Nat the center of his story.
+Dialogue: 0,0:39:49.52,0:39:50.72,Default,,0,0,0,,She's the big mystery.
+Dialogue: 0,0:39:50.72,0:39:53.09,Default,,0,0,0,,No, no. A bet is a bet.
+Dialogue: 0,0:39:54.59,0:39:57.66,Default,,0,0,0,,Oh, wow. A quarter.\NYou can keep it.
+Dialogue: 0,0:39:57.66,0:39:59.80,Default,,0,0,0,,No. You can keep it.
+Dialogue: 0,0:40:03.10,0:40:05.47,Default,,0,0,0,,- You free Thursday?\N- Who, me?
+Dialogue: 0,0:40:06.20,0:40:07.97,Default,,0,0,0,,No, him.
+Dialogue: 0,0:40:09.17,0:40:11.01,Default,,0,0,0,,Oh, my God. Yes, you!
+Dialogue: 0,0:40:13.27,0:40:15.04,Default,,0,0,0,,You know The Distracted Globe?
+Dialogue: 0,0:40:15.04,0:40:17.14,Default,,0,0,0,,Yeah, the dance club.
+Dialogue: 0,0:40:19.08,0:40:21.91,Default,,0,0,0,,Meet me there. 10:00 p.m.
+Dialogue: 0,0:40:21.91,0:40:24.18,Default,,0,0,0,,There's something\NI wanna show you.
+Dialogue: 0,0:40:24.95,0:40:26.51,Default,,0,0,0,,Uh, bye-bye!
+Dialogue: 0,0:40:27.59,0:40:29.39,Default,,0,0,0,,Did she just ask me out?
+Dialogue: 0,0:40:29.39,0:40:31.26,Default,,0,0,0,,And I was starting to like her.
+Dialogue: 0,0:40:31.26,0:40:33.09,Default,,0,0,0,,All right.
+Dialogue: 0,0:40:33.09,0:40:34.66,Default,,0,0,0,,I don't do that.
+Dialogue: 0,0:40:38.23,0:40:40.29,Default,,0,0,0,,Z, I can't believe\Nyou told her about Kira.
+Dialogue: 0,0:40:40.30,0:40:42.87,Default,,0,0,0,,What? I told you.
+Dialogue: 0,0:40:42.87,0:40:46.77,Default,,0,0,0,,Hey, what about this?
+Dialogue: 0,0:40:46.77,0:40:49.64,Default,,0,0,0,,No. Have you considered that\NArt3mis could be using you?
+Dialogue: 0,0:40:49.64,0:40:54.11,Default,,0,0,0,,Hey, dude, she's giving me a clue.\NMaybe I'm the one using her.
+Dialogue: 0,0:40:54.11,0:40:57.71,Default,,0,0,0,,Should I go more Thriller?
+Dialogue: 0,0:40:57.72,0:40:59.16,Default,,0,0,0,,No.
+Dialogue: 0,0:40:59.89,0:41:00.99,Default,,0,0,0,,Punk?
+Dialogue: 0,0:41:00.99,0:41:02.06,Default,,0,0,0,,No.
+Dialogue: 0,0:41:04.09,0:41:05.46,Default,,0,0,0,,Duran Duran.
+Dialogue: 0,0:41:05.46,0:41:07.29,Default,,0,0,0,,No.
+Dialogue: 0,0:41:07.29,0:41:08.46,Default,,0,0,0,,Does it look like\NI'm trying too hard?
+Dialogue: 0,0:41:08.46,0:41:11.73,Default,,0,0,0,,Yes! Listen to yourself!
+Dialogue: 0,0:41:11.73,0:41:14.90,Default,,0,0,0,,You have a massive cyber crush\Non this girl.
+Dialogue: 0,0:41:14.90,0:41:17.47,Default,,0,0,0,,She's hacking your heart\Nto get to your head.
+Dialogue: 0,0:41:18.97,0:41:20.84,Default,,0,0,0,,I got it!
+Dialogue: 0,0:41:21.97,0:41:24.00,Default,,0,0,0,,- Buckaroo Banzai?\N- Yeah!
+Dialogue: 0,0:41:24.01,0:41:27.28,Default,,0,0,0,,Really? You're gonna wear the\Noutfit from your favorite movie?
+Dialogue: 0,0:41:27.28,0:41:28.65,Default,,0,0,0,,Don't be that guy.
+Dialogue: 0,0:41:28.65,0:41:30.68,Default,,0,0,0,,I am that guy.
+Dialogue: 0,0:41:30.68,0:41:32.45,Default,,0,0,0,,Z, you gotta be more careful\Nabout who you meet in the OASIS.
+Dialogue: 0,0:41:32.45,0:41:35.75,Default,,0,0,0,,Aech, Art3mis gets me.\NShe'll get my outfit.
+Dialogue: 0,0:41:35.75,0:41:38.75,Default,,0,0,0,,There's just this connection.\NI mean, sometimes, we even...
+Dialogue: 0,0:41:38.76,0:41:40.46,Default,,0,0,0,,- Finish each other's sentences?\N- Yeah!
+Dialogue: 0,0:41:40.46,0:41:43.36,Default,,0,0,0,,We have that. Me and you.
+Dialogue: 0,0:41:43.36,0:41:46.93,Default,,0,0,0,,Yeah, I know, but that's because\Nwe're best friends, dude.
+Dialogue: 0,0:41:46.93,0:41:48.86,Default,,0,0,0,,She could be a dude, too, dude.
+Dialogue: 0,0:41:48.87,0:41:50.03,Default,,0,0,0,,Come on.
+Dialogue: 0,0:41:50.04,0:41:51.77,Default,,0,0,0,,I'm serious!
+Dialogue: 0,0:41:51.77,0:41:54.54,Default,,0,0,0,,She could actually be\Na 300-pound dude
+Dialogue: 0,0:41:54.54,0:41:57.71,Default,,0,0,0,,who lives in his mama's\Nbasement in suburban Detroit.
+Dialogue: 0,0:41:57.71,0:41:59.61,Default,,0,0,0,,And her name is Chuck.
+Dialogue: 0,0:42:01.28,0:42:03.88,Default,,0,0,0,,Think about that.
+Dialogue: 0,0:42:33.08,0:42:34.49,Default,,0,0,0,,Whoa, dude, is that Parzival?
+Dialogue: 0,0:42:34.49,0:42:36.21,Default,,0,0,0,,- Parzival!\N- Oh, my God, Parzival!
+Dialogue: 0,0:42:36.22,0:42:39.48,Default,,0,0,0,,Come here, man.\NHey, can we get a photo?
+Dialogue: 0,0:42:41.49,0:42:43.83,Default,,0,0,0,,- Thank you so much!\N- Dude, you're my hero!
+Dialogue: 0,0:42:43.83,0:42:45.15,Default,,0,0,0,,Hey, Parzival.
+Dialogue: 0,0:42:47.39,0:42:49.29,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:43:03.08,0:43:06.18,Default,,0,0,0,,Get out of town!\NBuckaroo Banzai?
+Dialogue: 0,0:43:06.18,0:43:08.52,Default,,0,0,0,,- Huh?\N- I like it. I like Buckaroo Banzai.
+Dialogue: 0,0:43:08.52,0:43:10.18,Default,,0,0,0,,- Oh, thanks!\N- It's great!
+Dialogue: 0,0:43:10.19,0:43:11.95,Default,,0,0,0,,- Yeah! You look...\N- Oh.
+Dialogue: 0,0:43:11.95,0:43:13.45,Default,,0,0,0,,You look awesome!
+Dialogue: 0,0:43:13.45,0:43:14.65,Default,,0,0,0,,- Thank you.\N- Wow.
+Dialogue: 0,0:43:16.39,0:43:18.26,Default,,0,0,0,,A big one, a small one?
+Dialogue: 0,0:43:18.26,0:43:19.46,Default,,0,0,0,,A big one!
+Dialogue: 0,0:43:34.64,0:43:38.31,Default,,0,0,0,,Get out of here.
+Dialogue: 0,0:43:38.31,0:43:40.24,Default,,0,0,0,,- What a freak!\N- I thought he was kind of cute.
+Dialogue: 0,0:43:40.25,0:43:41.78,Default,,0,0,0,,Have you been here before?
+Dialogue: 0,0:43:41.78,0:43:43.48,Default,,0,0,0,,It's cool, right? I mean...
+Dialogue: 0,0:43:43.48,0:43:45.88,Default,,0,0,0,,So, what's the plan?
+Dialogue: 0,0:43:45.88,0:43:48.32,Default,,0,0,0,,Are you gonna kill their avatars?\NZero them out?
+Dialogue: 0,0:43:48.32,0:43:50.45,Default,,0,0,0,,They're both here\Nat The Distracted Globe.
+Dialogue: 0,0:43:50.46,0:43:52.92,Default,,0,0,0,,I can't talk.
+Dialogue: 0,0:43:52.93,0:43:54.83,Default,,0,0,0,,The Distracted Globe\Nwas one of the first clubs
+Dialogue: 0,0:43:54.83,0:43:56.10,Default,,0,0,0,,Halliday created in the OASIS.
+Dialogue: 0,0:43:56.10,0:43:57.60,Default,,0,0,0,,That's common knowledge.
+Dialogue: 0,0:43:57.60,0:43:59.93,Default,,0,0,0,,But I double-checked
+Dialogue: 0,0:43:59.93,0:44:02.40,Default,,0,0,0,,and it turns out he started building it\Nright after that moment you showed me.
+Dialogue: 0,0:44:02.40,0:44:03.66,Default,,0,0,0,,The date with Kira.
+Dialogue: 0,0:44:03.67,0:44:05.78,Default,,0,0,0,,Right, and she was\Na serious dancer.
+Dialogue: 0,0:44:05.78,0:44:07.84,Default,,0,0,0,,Maybe he thought\Nhe'd take her here,
+Dialogue: 0,0:44:07.84,0:44:10.67,Default,,0,0,0,,like on a virtual date.
+Dialogue: 0,0:44:10.68,0:44:12.58,Default,,0,0,0,,As if that ever works.
+Dialogue: 0,0:44:12.58,0:44:14.08,Default,,0,0,0,,So Halliday built it for her?
+Dialogue: 0,0:44:14.08,0:44:15.42,Default,,0,0,0,,But they never made it\Npast the first date.
+Dialogue: 0,0:44:15.42,0:44:16.84,Default,,0,0,0,,So Halliday's the creator...
+Dialogue: 0,0:44:16.85,0:44:18.18,Default,,0,0,0,,Who hates his own creation.
+Dialogue: 0,0:44:18.18,0:44:19.58,Default,,0,0,0,,And the club\Nis the thing he hates.
+Dialogue: 0,0:44:19.59,0:44:21.89,Default,,0,0,0,,And "A hidden key,\Na leap not taken"?
+Dialogue: 0,0:44:25.29,0:44:26.75,Default,,0,0,0,,But people jump off it\Nall night long.
+Dialogue: 0,0:44:26.76,0:44:28.70,Default,,0,0,0,,But none of those people\Nhad the Copper Key,
+Dialogue: 0,0:44:28.70,0:44:32.33,Default,,0,0,0,,so when we jump off,\Nmaybe it's different. Right?
+Dialogue: 0,0:44:32.33,0:44:33.39,Default,,0,0,0,,WADRight.
+Dialogue: 0,0:44:36.20,0:44:37.67,Default,,0,0,0,,So we take it together?
+Dialogue: 0,0:44:37.67,0:44:38.90,Default,,0,0,0,,Sure.
+Dialogue: 0,0:44:40.84,0:44:42.98,Default,,0,0,0,,We're not clanning up\Nor anything.
+Dialogue: 0,0:44:42.98,0:44:46.08,Default,,0,0,0,,Of course not. I don't clan.
+Dialogue: 0,0:44:47.15,0:44:48.31,Default,,0,0,0,,Wait...
+Dialogue: 0,0:44:48.31,0:44:49.68,Default,,0,0,0,,Whoa!
+Dialogue: 0,0:44:51.02,0:44:52.76,Default,,0,0,0,,Ow! Whoa.
+Dialogue: 0,0:44:57.19,0:45:00.99,Default,,0,0,0,,I don't think this is it.\NNo scoreboard, no obstacles.
+Dialogue: 0,0:45:00.99,0:45:03.69,Default,,0,0,0,,- Maybe a dance challenge?\N- Huh? Whoa!
+Dialogue: 0,0:45:19.14,0:45:21.14,Default,,0,0,0,,Old-school!
+Dialogue: 0,0:45:29.35,0:45:32.32,Default,,0,0,0,,♪ Well, you can tell\Nby the way I use my walk
+Dialogue: 0,0:45:32.32,0:45:34.89,Default,,0,0,0,,♪ I'm a woman's man\NNo time to talk
+Dialogue: 0,0:45:34.89,0:45:37.06,Default,,0,0,0,,♪ Music loud and women warm
+Dialogue: 0,0:45:37.06,0:45:39.23,Default,,0,0,0,,♪ I've been kicked around\Nsince I was born
+Dialogue: 0,0:45:39.23,0:45:41.86,Default,,0,0,0,,♪ And now it's all right\NI'm okay
+Dialogue: 0,0:45:41.87,0:45:44.50,Default,,0,0,0,,♪ And you may look\Nthe other way
+Dialogue: 0,0:45:44.50,0:45:45.83,Default,,0,0,0,,You come prepared?
+Dialogue: 0,0:45:45.84,0:45:47.11,Default,,0,0,0,,"Prepared"?
+Dialogue: 0,0:45:50.68,0:45:53.24,Default,,0,0,0,,What kind of haptics\Nyou rockin'?
+Dialogue: 0,0:45:53.25,0:45:55.75,Default,,0,0,0,,You got the gloves and full\Nvisor, or a full body?
+Dialogue: 0,0:45:55.75,0:45:59.68,Default,,0,0,0,,♪ Stayin' alive, stayin' alive\NAh, ha, ha, ha
+Dialogue: 0,0:45:59.69,0:46:01.39,Default,,0,0,0,,Can you feel this?
+Dialogue: 0,0:46:01.39,0:46:04.13,Default,,0,0,0,,♪ Stayin' alive, stayin' alive\NAh, ha, ha, ha
+Dialogue: 0,0:46:04.13,0:46:06.22,Default,,0,0,0,,Um, yeah.
+Dialogue: 0,0:46:06.23,0:46:09.10,Default,,0,0,0,,I got the X1 haptic bootsuit with\Nthe microfiber crotch inlay.
+Dialogue: 0,0:46:21.37,0:46:24.34,Default,,0,0,0,,My, Parzival,\Nyou did come prepared.
+Dialogue: 0,0:46:27.65,0:46:31.25,Default,,0,0,0,,So, I've been thinking.
+Dialogue: 0,0:46:31.25,0:46:33.88,Default,,0,0,0,,Maybe it'd be cool if we\Nmet up in the real world.
+Dialogue: 0,0:46:33.89,0:46:35.46,Default,,0,0,0,,No, you'd be disappointed.
+Dialogue: 0,0:46:35.46,0:46:38.09,Default,,0,0,0,,No, I wouldn't. I like you.
+Dialogue: 0,0:46:38.09,0:46:40.32,Default,,0,0,0,,You don't even know me.
+Dialogue: 0,0:46:40.33,0:46:42.17,Default,,0,0,0,,This isn't\Nwhat I really look like.
+Dialogue: 0,0:46:42.17,0:46:46.16,Default,,0,0,0,,This isn't my real body,\Nor my real face.
+Dialogue: 0,0:46:46.17,0:46:47.90,Default,,0,0,0,,I don't care.
+Dialogue: 0,0:46:47.90,0:46:49.46,Default,,0,0,0,,I wanna know your real name.
+Dialogue: 0,0:46:49.47,0:46:52.97,Default,,0,0,0,,Stayin' alive, stayin' alive\NAh, ha, ha, ha
+Dialogue: 0,0:46:54.17,0:46:56.54,Default,,0,0,0,,♪ Stayin' alive ♪
+Dialogue: 0,0:47:02.68,0:47:04.21,Default,,0,0,0,,- My name's Wade.\N- What?
+Dialogue: 0,0:47:05.68,0:47:07.65,Default,,0,0,0,,- I said my name's...\N- Stop!
+Dialogue: 0,0:47:07.65,0:47:10.52,Default,,0,0,0,,Well, Buckaroo blows it.\NShocking.
+Dialogue: 0,0:47:10.52,0:47:13.15,Default,,0,0,0,,Are you crazy?\NYou don't tell anyone who you are.
+Dialogue: 0,0:47:13.16,0:47:14.66,Default,,0,0,0,,You can't use your real name.
+Dialogue: 0,0:47:14.67,0:47:15.92,Default,,0,0,0,,You're not just anyone.
+Dialogue: 0,0:47:15.93,0:47:17.63,Default,,0,0,0,,You don't know me.
+Dialogue: 0,0:47:17.63,0:47:18.97,Default,,0,0,0,,You don't know anything about me.\NWe've never met.
+Dialogue: 0,0:47:18.97,0:47:20.76,Default,,0,0,0,,I do know you, Arty.
+Dialogue: 0,0:47:22.50,0:47:24.06,Default,,0,0,0,,I'm in love with you.
+Dialogue: 0,0:47:32.54,0:47:34.94,Default,,0,0,0,,- Is this part of the challenge?\N- No.
+Dialogue: 0,0:47:34.95,0:47:36.19,Default,,0,0,0,,It's an ambush.
+Dialogue: 0,0:47:43.62,0:47:46.35,Default,,0,0,0,,IOI, always in the way.
+Dialogue: 0,0:47:46.36,0:47:48.20,Default,,0,0,0,,Did you hear what I said?\NI said I'm in love with you.
+Dialogue: 0,0:47:48.20,0:47:49.62,Default,,0,0,0,,No, you're not.
+Dialogue: 0,0:47:51.16,0:47:52.79,Default,,0,0,0,,You only know\Nwhat I want you to know.
+Dialogue: 0,0:47:52.80,0:47:54.71,Default,,0,0,0,,You only see\Nwhat I want you to see.
+Dialogue: 0,0:47:57.57,0:47:59.44,Default,,0,0,0,,That's what you're in love with.
+Dialogue: 0,0:48:13.25,0:48:14.45,Default,,0,0,0,,Watch out!
+Dialogue: 0,0:48:24.66,0:48:26.13,Default,,0,0,0,,Pull.
+Dialogue: 0,0:48:38.71,0:48:41.91,Default,,0,0,0,,Head back! Z!\NYour armor is running low.
+Dialogue: 0,0:48:41.91,0:48:43.11,Default,,0,0,0,,I just bought this.
+Dialogue: 0,0:48:51.12,0:48:52.42,Default,,0,0,0,,Zemeckis Cube.
+Dialogue: 0,0:48:52.42,0:48:54.32,Default,,0,0,0,,Turns everything\Nback in time 60 seconds.
+Dialogue: 0,0:48:58.90,0:49:00.97,Default,,0,0,0,,And you waited\Nuntil now to use it?
+Dialogue: 0,0:49:09.04,0:49:11.20,Default,,0,0,0,,Wow, you were amazing.
+Dialogue: 0,0:49:14.31,0:49:16.54,Default,,0,0,0,,This isn't a game, Z.
+Dialogue: 0,0:49:17.82,0:49:19.78,Default,,0,0,0,,I'm doing this to stop IOI.
+Dialogue: 0,0:49:19.79,0:49:22.29,Default,,0,0,0,,I'm talking about\Nreal-world consequences.
+Dialogue: 0,0:49:22.29,0:49:23.89,Default,,0,0,0,,People suffering.
+Dialogue: 0,0:49:23.89,0:49:25.76,Default,,0,0,0,,- Actual life-and-death stuff.\N- I know. I know...
+Dialogue: 0,0:49:25.76,0:49:30.66,Default,,0,0,0,,No, you don't know!\NMy dad died in a loyalty center.
+Dialogue: 0,0:49:30.66,0:49:33.83,Default,,0,0,0,,- He borrowed gear.\N- He built up debt.
+Dialogue: 0,0:49:33.83,0:49:37.33,Default,,0,0,0,,He moved in with the promise of\Nworking it off, but he never did.
+Dialogue: 0,0:49:37.34,0:49:39.24,Default,,0,0,0,,IOI just raised\Nhis living expenses,
+Dialogue: 0,0:49:39.24,0:49:40.81,Default,,0,0,0,,then he got sick, and he\Ncouldn't afford to get out.
+Dialogue: 0,0:49:40.81,0:49:43.31,Default,,0,0,0,,And then he died!
+Dialogue: 0,0:49:43.31,0:49:44.68,Default,,0,0,0,,I'm so sorry, I didn't...
+Dialogue: 0,0:49:44.68,0:49:46.78,Default,,0,0,0,,No, you don't live\Nin the real world, Z.
+Dialogue: 0,0:49:46.78,0:49:49.85,Default,,0,0,0,,From what you've told me,\NI don't think you ever have.
+Dialogue: 0,0:49:49.85,0:49:53.45,Default,,0,0,0,,You live inside this...\NThis illusion,
+Dialogue: 0,0:49:53.45,0:49:55.52,Default,,0,0,0,,and I can't afford\Nto let you distract me.
+Dialogue: 0,0:50:08.13,0:50:10.46,Default,,0,0,0,,How the hell did they get away?
+Dialogue: 0,0:50:10.47,0:50:12.78,Default,,0,0,0,,Do you want the long version?\NYour guys suck.
+Dialogue: 0,0:50:12.78,0:50:14.47,Default,,0,0,0,,They failed to kill his avatar,
+Dialogue: 0,0:50:14.47,0:50:16.70,Default,,0,0,0,,which, if we're offering\Nconstructive criticism,
+Dialogue: 0,0:50:16.71,0:50:19.55,Default,,0,0,0,,was a lame idea and only\Nwould've slowed him down.
+Dialogue: 0,0:50:19.55,0:50:23.88,Default,,0,0,0,,Whereas my plan, which was cool\Nbecause I rock, actually worked.
+Dialogue: 0,0:50:23.89,0:50:25.65,Default,,0,0,0,,He's still on the board.
+Dialogue: 0,0:50:25.65,0:50:29.18,Default,,0,0,0,,I know that, Nolan.\NBut he won't be for long.
+Dialogue: 0,0:50:29.19,0:50:31.16,Default,,0,0,0,,I did a search for all the Wades
+Dialogue: 0,0:50:31.16,0:50:33.36,Default,,0,0,0,,who had recently bought\Nan X1 bootsuit,
+Dialogue: 0,0:50:33.36,0:50:36.57,Default,,0,0,0,,cross-referenced that with\Npublic records, and voila,
+Dialogue: 0,0:50:36.57,0:50:40.63,Default,,0,0,0,,which is French for...\N"And then I found out."
+Dialogue: 0,0:50:41.20,0:50:42.97,Default,,0,0,0,,Ready?
+Dialogue: 0,0:50:42.97,0:50:47.28,Default,,0,0,0,,The real-world identity\Nof Parzival is Wade Watts.
+Dialogue: 0,0:50:48.01,0:50:49.61,Default,,0,0,0,,Voila.
+Dialogue: 0,0:50:51.24,0:50:54.14,Default,,0,0,0,,Are you loyal, Ms. Zandor?
+Dialogue: 0,0:50:54.15,0:50:55.91,Default,,0,0,0,,You really want me\Nto answer that?
+Dialogue: 0,0:50:55.91,0:50:57.48,Default,,0,0,0,,Well, when you're at war,
+Dialogue: 0,0:50:57.49,0:51:00.51,Default,,0,0,0,,you need people\Nwho are loyal to a fault.
+Dialogue: 0,0:51:00.52,0:51:02.39,Default,,0,0,0,,People you can count on\Nto get things done.
+Dialogue: 0,0:51:02.39,0:51:05.06,Default,,0,0,0,,I just get people arrested\Nfor not paying their bills.
+Dialogue: 0,0:51:05.06,0:51:08.00,Default,,0,0,0,,Yeah, 'cause there are some problems\Nthat require a physical solution,
+Dialogue: 0,0:51:08.00,0:51:10.56,Default,,0,0,0,,but there are other times,\Nparticularly at war,
+Dialogue: 0,0:51:10.56,0:51:12.26,Default,,0,0,0,,when you need\Na different set of rules.
+Dialogue: 0,0:51:12.26,0:51:14.09,Default,,0,0,0,,- The rules of war.\N- Exactly.
+Dialogue: 0,0:51:14.10,0:51:16.71,Default,,0,0,0,,It's too bad my division doesn't\Noperate inside the OASIS.
+Dialogue: 0,0:51:16.71,0:51:19.60,Default,,0,0,0,,Yeah, but if this war\Nremains in the OASIS,
+Dialogue: 0,0:51:19.60,0:51:22.00,Default,,0,0,0,,then you can't do anything.
+Dialogue: 0,0:51:22.01,0:51:24.94,Default,,0,0,0,,So, this is one of those conversations\Nthat we're not really having.
+Dialogue: 0,0:51:24.94,0:51:26.71,Default,,0,0,0,,Well, we've had these kind\Nof conversations before,
+Dialogue: 0,0:51:26.71,0:51:28.44,Default,,0,0,0,,and look where you are now.
+Dialogue: 0,0:51:28.45,0:51:30.75,Default,,0,0,0,,You got a seat on the board,\Nhead of your own division,
+Dialogue: 0,0:51:30.75,0:51:34.42,Default,,0,0,0,,a division that will cease to exist if\Nthe wrong person wins this contest.
+Dialogue: 0,0:51:34.42,0:51:37.76,Default,,0,0,0,,F'Nale, a game decides our fate.
+Dialogue: 0,0:51:37.76,0:51:41.60,Default,,0,0,0,,The only question is, how far\Nare we willing to go to win it?
+Dialogue: 0,0:51:43.73,0:51:45.84,Default,,0,0,0,,Tell me what you need, Nolan.
+Dialogue: 0,0:53:04.14,0:53:05.71,Default,,0,0,0,,Whoa.
+Dialogue: 0,0:53:09.48,0:53:11.14,Default,,0,0,0,,Where am I?
+Dialogue: 0,0:53:11.15,0:53:13.46,Default,,0,0,0,,IOI Plaza.\NYou're a hologram in the real world.
+Dialogue: 0,0:53:14.32,0:53:15.99,Default,,0,0,0,,That's a really cool rig.
+Dialogue: 0,0:53:15.99,0:53:20.02,Default,,0,0,0,,Thank you.\NIt's a brand-new Habashaw, OIR 9400.
+Dialogue: 0,0:53:20.03,0:53:22.03,Default,,0,0,0,,It looks like\Na giant hamster ball.
+Dialogue: 0,0:53:22.03,0:53:26.80,Default,,0,0,0,,You know, if you came to work\Nat IOI, you'd get one of these.
+Dialogue: 0,0:53:26.80,0:53:28.73,Default,,0,0,0,,I don't clan up.
+Dialogue: 0,0:53:28.73,0:53:30.96,Default,,0,0,0,,You'd also get your own\Npenthouse apartment in Columbus
+Dialogue: 0,0:53:30.97,0:53:33.24,Default,,0,0,0,,with the\Nhighest-speed connection.
+Dialogue: 0,0:53:33.24,0:53:38.64,Default,,0,0,0,,In the OASIS, you'd get unlimited weapons,\Nmagic items, ships.
+Dialogue: 0,0:53:38.64,0:53:40.51,Default,,0,0,0,,You want the ship from Defender?
+Dialogue: 0,0:53:40.51,0:53:43.24,Default,,0,0,0,,You know, the kind that can\Njust jump into hyperspace?
+Dialogue: 0,0:53:43.25,0:53:45.16,Default,,0,0,0,,You want the Millennium Falcon?
+Dialogue: 0,0:53:46.05,0:53:47.51,Default,,0,0,0,,You have that?
+Dialogue: 0,0:53:47.52,0:53:50.36,Default,,0,0,0,,Anything you need\Nto help you find that egg,
+Dialogue: 0,0:53:50.36,0:53:51.73,Default,,0,0,0,,and then there's the salary.
+Dialogue: 0,0:53:52.82,0:53:54.92,Default,,0,0,0,,Four million a year.
+Dialogue: 0,0:53:54.93,0:53:58.54,Default,,0,0,0,,And if you do happen to find that\NEaster egg, there's a bonus.
+Dialogue: 0,0:53:58.54,0:54:00.83,Default,,0,0,0,,Twenty-five million dollars.
+Dialogue: 0,0:54:06.20,0:54:09.77,Default,,0,0,0,,I can see you're using\Nemotion-suppressing software right now,
+Dialogue: 0,0:54:09.77,0:54:12.67,Default,,0,0,0,,and why wouldn't you?\NIt's smart, not to show your hand.
+Dialogue: 0,0:54:18.12,0:54:21.86,Default,,0,0,0,,It is a lot of money.\NI could really use it.
+Dialogue: 0,0:54:26.79,0:54:29.19,Default,,0,0,0,,But I don't think you and I\Nwould have the same plans.
+Dialogue: 0,0:54:29.19,0:54:32.23,Default,,0,0,0,,Well, I don't know about that.\NWhat, for the OASIS?
+Dialogue: 0,0:54:32.24,0:54:35.43,Default,,0,0,0,,I guess if you're not\Na John Hughes fan...
+Dialogue: 0,0:54:36.53,0:54:38.27,Default,,0,0,0,,Of course I am.
+Dialogue: 0,0:54:38.27,0:54:40.90,Default,,0,0,0,,Because the first thing\Nthat I would do
+Dialogue: 0,0:54:40.91,0:54:44.64,Default,,0,0,0,,is convert all the schools\Non Ludus to replicas
+Dialogue: 0,0:54:44.64,0:54:47.81,Default,,0,0,0,,from The Breakfast Club\Nand Ferris Bueller.
+Dialogue: 0,0:54:47.81,0:54:50.98,Default,,0,0,0,,No way. That's a great idea.
+Dialogue: 0,0:54:50.98,0:54:53.45,Default,,0,0,0,,Which school,\NRidgemont or Faber?
+Dialogue: 0,0:54:53.45,0:54:56.55,Default,,0,0,0,,Fast Times at Ridgemont High,\Nnot John Hughes.
+Dialogue: 0,0:54:56.55,0:54:59.79,Default,,0,0,0,,It's a trap. Faber College\Nfrom Animal House.
+Dialogue: 0,0:54:59.79,0:55:01.42,Default,,0,0,0,,John Hughes didn't direct
+Dialogue: 0,0:55:01.43,0:55:04.43,Default,,0,0,0,,Fast Times at Ridgemont High\Nor Animal House.
+Dialogue: 0,0:55:04.43,0:55:07.77,Default,,0,0,0,,Ferris Bueller and The Breakfast Club,\Nthey went to Shermer High School,
+Dialogue: 0,0:55:07.77,0:55:11.31,Default,,0,0,0,,which is in Shermer, Illinois.\NI know what you think.
+Dialogue: 0,0:55:11.31,0:55:13.00,Default,,0,0,0,,You think\NI'm a corporate asshole,
+Dialogue: 0,0:55:13.00,0:55:16.40,Default,,0,0,0,,that I don't appreciate\Npop culture, but...
+Dialogue: 0,0:55:16.41,0:55:19.52,Default,,0,0,0,,Man, that's not true.\NYou know, when I wanna blow off steam...
+Dialogue: 0,0:55:19.52,0:55:23.48,Default,,0,0,0,,Drink Tab, plRobotron,\Nlisten to Duran Duran.
+Dialogue: 0,0:55:23.48,0:55:25.08,Default,,0,0,0,,I crack open a Tab.
+Dialogue: 0,0:55:25.08,0:55:27.48,Default,,0,0,0,,I put on some Duran Duran.\NI play Robotron.
+Dialogue: 0,0:55:27.49,0:55:29.62,Default,,0,0,0,,That's why I love the OASIS.
+Dialogue: 0,0:55:29.62,0:55:32.95,Default,,0,0,0,,'Cause it's just full\Nof all these things, man,
+Dialogue: 0,0:55:32.96,0:55:34.50,Default,,0,0,0,,that people love. You know?
+Dialogue: 0,0:55:42.30,0:55:44.80,Default,,0,0,0,,I'm a businessman. I get it.
+Dialogue: 0,0:55:44.80,0:55:47.60,Default,,0,0,0,,But I gotta do my job.
+Dialogue: 0,0:55:47.61,0:55:53.34,Default,,0,0,0,,But I didn't ask you here just\Nto help us find the egg, Parzival.
+Dialogue: 0,0:55:53.35,0:55:57.19,Default,,0,0,0,,I asked you here\Nfor what comes after.
+Dialogue: 0,0:55:58.35,0:56:00.05,Default,,0,0,0,,What would Halliday say?
+Dialogue: 0,0:56:01.05,0:56:03.78,Default,,0,0,0,,James Halliday is dead.
+Dialogue: 0,0:56:05.02,0:56:09.02,Default,,0,0,0,,Yeah. He is.
+Dialogue: 0,0:56:09.03,0:56:13.96,Default,,0,0,0,,All that's left of him is this contest.\NAnd you know what?
+Dialogue: 0,0:56:13.97,0:56:16.34,Default,,0,0,0,,It just seems like he\Nwouldn't want you winning it.
+Dialogue: 0,0:56:16.34,0:56:18.33,Default,,0,0,0,,A fanboy knows a hater,
+Dialogue: 0,0:56:18.34,0:56:20.41,Default,,0,0,0,,and I know you've got a whole\Ndepartment of oologists in your ear.
+Dialogue: 0,0:56:20.41,0:56:22.68,Default,,0,0,0,,So, if you wanna know\Nwhat I really think...
+Dialogue: 0,0:56:22.68,0:56:24.20,Default,,0,0,0,,I think you're full of shit.
+Dialogue: 0,0:56:29.51,0:56:31.18,Default,,0,0,0,,Here's my offer.
+Dialogue: 0,0:56:31.18,0:56:32.68,Default,,0,0,0,,Your board of directors,\Nyou got them in the other ear?
+Dialogue: 0,0:56:32.68,0:56:34.61,Default,,0,0,0,,Why don't you tell 'em this.
+Dialogue: 0,0:56:35.75,0:56:38.55,Default,,0,0,0,,If they dump you,\NI'll consider it.
+Dialogue: 0,0:56:38.56,0:56:40.66,Default,,0,0,0,,I might say something\Noff the record.
+Dialogue: 0,0:56:41.66,0:56:43.69,Default,,0,0,0,,I had to make the offer.
+Dialogue: 0,0:56:43.70,0:56:46.70,Default,,0,0,0,,The board expected it, but I was\Nreally hoping you'd say no.
+Dialogue: 0,0:56:46.70,0:56:50.11,Default,,0,0,0,,Because if anyone's gonna win\Nthis competition, it's me.
+Dialogue: 0,0:56:50.11,0:56:52.17,Default,,0,0,0,,My avatar gets the egg
+Dialogue: 0,0:56:52.17,0:56:55.54,Default,,0,0,0,,'cause I'm the only one here with\Nthe balls to run this place.
+Dialogue: 0,0:56:55.54,0:56:58.04,Default,,0,0,0,,Wow, you really\Nswitched gears there.
+Dialogue: 0,0:56:58.04,0:57:01.11,Default,,0,0,0,,From fairly reasonable\Nto maniacal overlord.
+Dialogue: 0,0:57:01.11,0:57:04.11,Default,,0,0,0,,You should be grateful, Wade.
+Dialogue: 0,0:57:04.12,0:57:07.55,Default,,0,0,0,,You won't be around\Nto endure my maniacal reign.
+Dialogue: 0,0:57:07.55,0:57:09.35,Default,,0,0,0,,Yeah, that's right.\NI know who you are.
+Dialogue: 0,0:57:09.35,0:57:14.59,Default,,0,0,0,,Wade Owen Watts,\Nborn August 12, 2027.
+Dialogue: 0,0:57:14.59,0:57:18.59,Default,,0,0,0,,I also know where you are.\NUnit 56K, Columbus stacks.
+Dialogue: 0,0:57:18.60,0:57:21.37,Default,,0,0,0,,You were last seen entering\Nyour trailer three days ago.
+Dialogue: 0,0:57:21.37,0:57:22.80,Default,,0,0,0,,You haven't left since.
+Dialogue: 0,0:57:22.80,0:57:24.13,Default,,0,0,0,,What are you doing?\NYou can't...
+Dialogue: 0,0:57:24.14,0:57:25.74,Default,,0,0,0,,With all that's going on\Nin the world,
+Dialogue: 0,0:57:25.74,0:57:27.11,Default,,0,0,0,,do you really think that\Nanyone's gonna give a damn
+Dialogue: 0,0:57:27.11,0:57:28.64,Default,,0,0,0,,about an explosion
+Dialogue: 0,0:57:28.64,0:57:31.20,Default,,0,0,0,,in some ghetto trash\Nrat warren in Columbus?
+Dialogue: 0,0:57:31.21,0:57:33.45,Default,,0,0,0,,Sorrento, don't do this.\NI'm not even there!
+Dialogue: 0,0:57:33.45,0:57:35.35,Default,,0,0,0,,Not for long.
+Dialogue: 0,0:57:38.98,0:57:41.21,Default,,0,0,0,,Call Alice.
+Dialogue: 0,0:57:41.22,0:57:42.96,Default,,0,0,0,,Dial Alice.
+Dialogue: 0,0:58:09.41,0:58:11.31,Default,,0,0,0,,Pick up! Pick up! Alice!
+Dialogue: 0,0:58:16.35,0:58:18.82,Default,,0,0,0,,This bootsuit's pretty awesome.\NThanks for that.
+Dialogue: 0,0:58:18.83,0:58:20.92,Default,,0,0,0,,Rick! Rick, the place\Nis gonna blow!
+Dialogue: 0,0:58:20.93,0:58:22.43,Default,,0,0,0,,Rick, is that Wade?
+Dialogue: 0,0:58:22.43,0:58:24.63,Default,,0,0,0,,- Put Alice on!\N- Let me talk to him.
+Dialogue: 0,0:58:24.63,0:58:26.64,Default,,0,0,0,,Don't call here anymore,\Nyou got me?
+Dialogue: 0,0:58:28.13,0:58:30.93,Default,,0,0,0,,I don't wanna hear your voice\Never again.
+Dialogue: 0,0:59:07.91,0:59:12.31,Default,,0,0,0,,Contact Aech, Daito,\NSho, and Art3mis.
+Dialogue: 0,0:59:12.31,0:59:14.51,Default,,0,0,0,,IOI came for me\Nin the real world.
+Dialogue: 0,0:59:14.51,0:59:17.31,Default,,0,0,0,,They gotta be coming after you,\Nso wherever you are...
+Dialogue: 0,0:59:43.37,0:59:45.41,Default,,0,0,0,,Sorry about the blindfold.
+Dialogue: 0,0:59:45.41,0:59:47.61,Default,,0,0,0,,My guys are a little paranoid.
+Dialogue: 0,0:59:48.41,0:59:50.61,Default,,0,0,0,,Say that again.
+Dialogue: 0,0:59:50.62,0:59:53.02,Default,,0,0,0,,My guys are a little paranoid.
+Dialogue: 0,0:59:54.09,0:59:55.59,Default,,0,0,0,,Art3mis?
+Dialogue: 0,0:59:57.09,1:00:01.16,Default,,0,0,0,,My real name is Samantha,\Nbut yeah, I'm Art3mis.
+Dialogue: 0,1:00:03.03,1:00:05.77,Default,,0,0,0,,Showers are that way,\Nclean clothes, too.
+Dialogue: 0,1:00:09.03,1:00:13.10,Default,,0,0,0,,Welcome to the rebellion, Wade.
+Dialogue: 0,1:00:24.25,1:00:29.75,Default,,0,0,0,,That's IOI.\NSo the stacks are over there?
+Dialogue: 0,1:00:29.75,1:00:32.62,Default,,0,0,0,,We've been living this close\Nto each other the whole time?
+Dialogue: 0,1:00:34.06,1:00:36.23,Default,,0,0,0,,Next door,
+Dialogue: 0,1:00:36.23,1:00:40.34,Default,,0,0,0,,around the world,\Nit's... it's all the same in the OASIS.
+Dialogue: 0,1:00:42.77,1:00:45.17,Default,,0,0,0,,For the record,
+Dialogue: 0,1:00:45.17,1:00:46.67,Default,,0,0,0,,um...
+Dialogue: 0,1:00:46.67,1:00:50.67,Default,,0,0,0,,I'm not disappointed.
+Dialogue: 0,1:00:50.68,1:00:53.78,Default,,0,0,0,,You said I... I would be\Ndisappointed when I met you, but...
+Dialogue: 0,1:00:53.78,1:00:57.01,Default,,0,0,0,,I'm not.
+Dialogue: 0,1:00:57.02,1:00:59.86,Default,,0,0,0,,I've lived with it my whole life.\NYou don't have to pretend.
+Dialogue: 0,1:01:14.37,1:01:17.17,Default,,0,0,0,,You have a birthmark, so what?
+Dialogue: 0,1:01:18.04,1:01:19.78,Default,,0,0,0,,Why would that scare me?
+Dialogue: 0,1:01:26.98,1:01:29.61,Default,,0,0,0,,Z, if I hurt you,\NI'm... I'm sorry.
+Dialogue: 0,1:01:29.61,1:01:31.81,Default,,0,0,0,,No, it's...
+Dialogue: 0,1:01:31.82,1:01:35.12,Default,,0,0,0,,Wait, did... did you\Njust call me "Z"?
+Dialogue: 0,1:01:35.12,1:01:37.16,Default,,0,0,0,,- Oh, my God. Did I?\N- I think you did.
+Dialogue: 0,1:01:37.16,1:01:39.02,Default,,0,0,0,,Wade, I'm sorry.
+Dialogue: 0,1:01:39.02,1:01:41.35,Default,,0,0,0,,Yeah, Wade, Z.
+Dialogue: 0,1:01:41.36,1:01:44.67,Default,,0,0,0,,You can call me whatever you want.\NAnd I'll call you Sam.
+Dialogue: 0,1:01:44.67,1:01:45.73,Default,,0,0,0,,No.
+Dialogue: 0,1:01:46.80,1:01:48.30,Default,,0,0,0,,Uh, Samantha?
+Dialogue: 0,1:01:48.30,1:01:50.57,Default,,0,0,0,,Okay. Cool.
+Dialogue: 0,1:01:57.84,1:01:59.61,Default,,0,0,0,,Wow.
+Dialogue: 0,1:02:00.41,1:02:02.54,Default,,0,0,0,,It's so much slower here.
+Dialogue: 0,1:02:03.88,1:02:07.25,Default,,0,0,0,,I mean, the wind, the people...
+Dialogue: 0,1:02:09.09,1:02:10.96,Default,,0,0,0,,Everything.
+Dialogue: 0,1:02:16.16,1:02:18.59,Default,,0,0,0,,We forget what it's like\Nto be outside.
+Dialogue: 0,1:02:18.60,1:02:19.67,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:02:22.93,1:02:26.40,Default,,0,0,0,,- Uh...\N- Oh, shit!
+Dialogue: 0,1:02:26.40,1:02:28.07,Default,,0,0,0,,- I just figured it out.\N- Figured what out?
+Dialogue: 0,1:02:28.07,1:02:29.55,Default,,0,0,0,,The second clue.\NI know what it means.
+Dialogue: 0,1:02:35.85,1:02:37.92,Default,,0,0,0,,We've been thinking about it\Ntoo literally.
+Dialogue: 0,1:02:37.92,1:02:39.45,Default,,0,0,0,,"The leap not taken,"
+Dialogue: 0,1:02:39.45,1:02:41.68,Default,,0,0,0,,the leap Halliday didn't take,\Nis with Kira.
+Dialogue: 0,1:02:41.69,1:02:45.53,Default,,0,0,0,,Yeah, but... I mean, he blamed her\Nfor breaking up him and Morrow.
+Dialogue: 0,1:02:45.53,1:02:48.45,Default,,0,0,0,,No. Halliday was madly\Nin love with her.
+Dialogue: 0,1:02:48.46,1:02:50.90,Default,,0,0,0,,He had a chance with Kira. He had\Na chance to kiss her, but...
+Dialogue: 0,1:02:50.90,1:02:52.24,Default,,0,0,0,,He didn't take the leap.
+Dialogue: 0,1:02:52.24,1:02:55.96,Default,,0,0,0,,Right. So that's where\Nwe go next.
+Dialogue: 0,1:02:55.97,1:02:57.54,Default,,0,0,0,,The place where the leap\Nwasn't taken.
+Dialogue: 0,1:02:57.54,1:02:59.20,Default,,0,0,0,,Where the date was.
+Dialogue: 0,1:02:59.20,1:03:01.37,Default,,0,0,0,,At the movies!
+Dialogue: 0,1:03:01.37,1:03:03.14,Default,,0,0,0,,Hey, Curator.
+Dialogue: 0,1:03:03.14,1:03:05.14,Default,,0,0,0,,We figured out the second clue.\NThe challenge is here.
+Dialogue: 0,1:03:05.14,1:03:07.21,Default,,0,0,0,,Halliday kept track of every\Nmovie he ever watched,
+Dialogue: 0,1:03:07.21,1:03:10.28,Default,,0,0,0,,the week and the year he watched it,\Nand how many times.
+Dialogue: 0,1:03:10.28,1:03:15.05,Default,,0,0,0,,Curator, can we see\NNovember 23 to 27, 2025?
+Dialogue: 0,1:03:15.05,1:03:16.88,Default,,0,0,0,,That's the week\Nhe went on the date with Kira.
+Dialogue: 0,1:03:21.46,1:03:25.10,Default,,0,0,0,,Okay, so our options for that\Nweek are The Fly remake.
+Dialogue: 0,1:03:25.10,1:03:27.24,Default,,0,0,0,,Great flick,\Nterrible date movie.
+Dialogue: 0,1:03:27.24,1:03:30.73,Default,,0,0,0,,Say Anything...\NThat would make sense.
+Dialogue: 0,1:03:30.74,1:03:35.18,Default,,0,0,0,,We gotta remember the clue.\N"A creator who hates his own creation."
+Dialogue: 0,1:03:39.78,1:03:41.75,Default,,0,0,0,,The Shining!
+Dialogue: 0,1:03:41.75,1:03:44.02,Default,,0,0,0,,It's Halliday's\N11th favorite horror film,
+Dialogue: 0,1:03:44.02,1:03:46.42,Default,,0,0,0,,and it's based on the best-selling\Nbook by Stephen King,
+Dialogue: 0,1:03:46.42,1:03:48.02,Default,,0,0,0,,who hated the movie!
+Dialogue: 0,1:03:48.02,1:03:50.12,Default,,0,0,0,,Hey! No side chitchat.
+Dialogue: 0,1:03:50.12,1:03:51.48,Default,,0,0,0,,I think we found it.
+Dialogue: 0,1:03:55.19,1:03:57.92,Default,,0,0,0,,Are you absolutely sure\Nyou want to go here?
+Dialogue: 0,1:03:57.93,1:03:59.80,Default,,0,0,0,,Absolutely positive.
+Dialogue: 0,1:03:59.80,1:04:02.63,Default,,0,0,0,,Let's hope\Nyou have the belly for it.
+Dialogue: 0,1:04:45.58,1:04:46.75,Default,,0,0,0,,Look.
+Dialogue: 0,1:04:48.18,1:04:50.35,Default,,0,0,0,,Ticking clock.
+Dialogue: 0,1:04:50.35,1:04:53.16,Default,,0,0,0,,Okay, so I'm estimating about
+Dialogue: 0,1:04:54.19,1:04:56.22,Default,,0,0,0,,five minutes to find the key.
+Dialogue: 0,1:04:56.22,1:04:57.85,Default,,0,0,0,,Yeah, there are so many keys\NThe Shining, though.
+Dialogue: 0,1:04:57.86,1:05:00.69,Default,,0,0,0,,Where do we start?
+Dialogue: 0,1:05:00.69,1:05:04.09,Default,,0,0,0,,I've never seen The Shining.\NIs it really scary?
+Dialogue: 0,1:05:04.10,1:05:08.03,Default,,0,0,0,,Uh, I had to watch it\Nthrough my fingers.
+Dialogue: 0,1:05:08.03,1:05:11.00,Default,,0,0,0,,Okay, so we got the key\Nfrom room 237,
+Dialogue: 0,1:05:11.00,1:05:12.90,Default,,0,0,0,,the keys to the Snowcat,
+Dialogue: 0,1:05:12.90,1:05:14.73,Default,,0,0,0,,or the keys they give Jack\Nat the beginning of the movie.
+Dialogue: 0,1:05:14.74,1:05:16.55,Default,,0,0,0,,Well,\Nif it's "the leap not taken,"
+Dialogue: 0,1:05:16.55,1:05:18.00,Default,,0,0,0,,maybe the key\Nisn't a key at all.
+Dialogue: 0,1:05:18.01,1:05:19.08,Default,,0,0,0,,I know\Nwhere the Snowcat keys are!
+Dialogue: 0,1:05:19.08,1:05:20.28,Default,,0,0,0,,I say we split up.
+Dialogue: 0,1:05:20.28,1:05:21.95,Default,,0,0,0,,We get all the keys
+Dialogue: 0,1:05:21.95,1:05:23.91,Default,,0,0,0,,and then we meet back\Nat the Torrances' apartment.
+Dialogue: 0,1:05:27.42,1:05:29.13,Default,,0,0,0,,Hello, Danny.
+Dialogue: 0,1:05:30.29,1:05:32.09,Default,,0,0,0,,Come play with us.
+Dialogue: 0,1:05:32.09,1:05:35.36,Default,,0,0,0,,Little girls, y'all know\Nhow to get out of here?
+Dialogue: 0,1:05:40.30,1:05:41.46,Default,,0,0,0,,Wait, wait!
+Dialogue: 0,1:05:41.47,1:05:43.60,Default,,0,0,0,,Wait, where's Aech?
+Dialogue: 0,1:05:43.60,1:05:44.93,Default,,0,0,0,,Wait!
+Dialogue: 0,1:05:45.97,1:05:47.03,Default,,0,0,0,,Aech!
+Dialogue: 0,1:05:47.77,1:05:48.87,Default,,0,0,0,,No, no, no, no!
+Dialogue: 0,1:06:07.06,1:06:08.73,Default,,0,0,0,,Ahh!
+Dialogue: 0,1:06:13.40,1:06:15.04,Default,,0,0,0,,Ahh!
+Dialogue: 0,1:06:48.50,1:06:51.37,Default,,0,0,0,,Oh, uh, hi, naked lady.\NI'm sorry.
+Dialogue: 0,1:06:51.37,1:06:53.48,Default,,0,0,0,,I didn't mean to interrupt,\Nuh, your bath time.
+Dialogue: 0,1:06:53.48,1:06:55.53,Default,,0,0,0,,Uh, I know self-care\Ncan be important.
+Dialogue: 0,1:06:55.54,1:06:58.71,Default,,0,0,0,,Uh, but can you do me a favor and\Ntell me, where are all the exits?
+Dialogue: 0,1:07:02.28,1:07:03.85,Default,,0,0,0,,Huh. Whoa.
+Dialogue: 0,1:07:03.85,1:07:06.22,Default,,0,0,0,,Okay, am I being punked?
+Dialogue: 0,1:07:06.22,1:07:08.62,Default,,0,0,0,,'Cause you're likin' me\Na little way too much.
+Dialogue: 0,1:07:10.12,1:07:12.28,Default,,0,0,0,,All right, you know what?\NI'ma go with it.
+Dialogue: 0,1:07:25.80,1:07:26.90,Default,,0,0,0,,Ahh!
+Dialogue: 0,1:08:04.18,1:08:05.58,Default,,0,0,0,,Time's running out.
+Dialogue: 0,1:08:05.58,1:08:07.71,Default,,0,0,0,,Yo, Z, is Art3mis pissed at me?
+Dialogue: 0,1:08:07.71,1:08:10.11,Default,,0,0,0,,Dude, I'm pissed at you.\NYou've never seen The Shining, have you?
+Dialogue: 0,1:08:10.11,1:08:11.51,Default,,0,0,0,,You know I hate scary movies!
+Dialogue: 0,1:08:11.52,1:08:12.68,Default,,0,0,0,,We got the key.
+Dialogue: 0,1:08:12.68,1:08:14.08,Default,,0,0,0,,Sweet! To room 237!
+Dialogue: 0,1:08:14.09,1:08:16.63,Default,,0,0,0,,We ain't got no business\Ngoin' to room 237!
+Dialogue: 0,1:08:16.63,1:08:18.42,Default,,0,0,0,,We should stay out!
+Dialogue: 0,1:08:18.42,1:08:20.05,Default,,0,0,0,,Plus, there was this crazy,\Nnaked zombie lady in there.
+Dialogue: 0,1:08:20.06,1:08:21.76,Default,,0,0,0,,There are no zombies\NThe Shining.
+Dialogue: 0,1:08:21.76,1:08:23.73,Default,,0,0,0,,Well, maybe it's not supposed\Nto be like the movie.
+Dialogue: 0,1:08:23.73,1:08:25.43,Default,,0,0,0,,Kira is the key.\NYou're the one who said it.
+Dialogue: 0,1:08:25.43,1:08:27.64,Default,,0,0,0,,Hey, y'all.\NI saw a picture of Kira!
+Dialogue: 0,1:08:27.64,1:08:29.76,Default,,0,0,0,,Huh?
+Dialogue: 0,1:08:32.24,1:08:33.34,Default,,0,0,0,,Where?
+Dialogue: 0,1:08:40.28,1:08:44.41,Default,,0,0,0,,It's Kira.\N"Escape your past."
+Dialogue: 0,1:08:44.42,1:08:47.62,Default,,0,0,0,,"The leap not taken."
+Dialogue: 0,1:08:47.62,1:08:49.63,Default,,0,0,0,,Halliday's greatest fear\Nwasn't The Shining
+Dialogue: 0,1:08:49.63,1:08:52.08,Default,,0,0,0,,or any book or movie.
+Dialogue: 0,1:08:52.09,1:08:55.66,Default,,0,0,0,,His biggest fear\Nwas kissing a girl.
+Dialogue: 0,1:08:55.66,1:08:59.23,Default,,0,0,0,,That's the leap\Nhe couldn't take.
+Dialogue: 0,1:09:06.17,1:09:07.87,Default,,0,0,0,,The ballroom.
+Dialogue: 0,1:09:22.45,1:09:24.58,Default,,0,0,0,,Aech, come on.
+Dialogue: 0,1:09:28.13,1:09:30.17,Default,,0,0,0,,Zombies. Told you.
+Dialogue: 0,1:09:31.53,1:09:32.84,Default,,0,0,0,,That's her.
+Dialogue: 0,1:09:33.86,1:09:34.86,Default,,0,0,0,,That's Kira.
+Dialogue: 0,1:09:38.37,1:09:40.37,Default,,0,0,0,,None of this is in The Shining.
+Dialogue: 0,1:09:40.37,1:09:42.64,Default,,0,0,0,,Z, look. That's the zombie-circle\Nlevel in Mayhem Mansion,
+Dialogue: 0,1:09:42.64,1:09:44.27,Default,,0,0,0,,one of Halliday's first games.
+Dialogue: 0,1:09:44.28,1:09:46.12,Default,,0,0,0,,The whole Shining trivia\Nis just a diversion.
+Dialogue: 0,1:09:47.31,1:09:48.94,Default,,0,0,0,,One minute left.
+Dialogue: 0,1:09:50.35,1:09:51.69,Default,,0,0,0,,How do we get to her?
+Dialogue: 0,1:09:51.69,1:09:52.85,Default,,0,0,0,,Take the leap.
+Dialogue: 0,1:09:52.85,1:09:53.91,Default,,0,0,0,,Wait!
+Dialogue: 0,1:09:55.29,1:09:56.43,Default,,0,0,0,,Whoa!
+Dialogue: 0,1:10:02.23,1:10:04.99,Default,,0,0,0,,Okay, Mr. Dead Guy.\NCool if I lead?
+Dialogue: 0,1:10:52.61,1:10:54.91,Default,,0,0,0,,Care to dance?
+Dialogue: 0,1:10:54.91,1:10:58.44,Default,,0,0,0,,Do you know how long I've\Nbeen waiting for you to ask?
+Dialogue: 0,1:11:04.26,1:11:06.86,Default,,0,0,0,,Well, well, well.
+Dialogue: 0,1:11:06.86,1:11:11.30,Default,,0,0,0,,So you found my Jade Key.
+Dialogue: 0,1:11:13.73,1:11:15.69,Default,,0,0,0,,Imagine that.
+Dialogue: 0,1:11:20.64,1:11:22.28,Default,,0,0,0,,Thank you.
+Dialogue: 0,1:11:26.98,1:11:29.12,Default,,0,0,0,,- Kira was a very beautiful...\N- Go on.
+Dialogue: 0,1:11:58.11,1:12:01.18,Default,,0,0,0,,One of our oologists saw them\Nenter the media library.
+Dialogue: 0,1:12:01.18,1:12:02.85,Default,,0,0,0,,She cracked the clue.
+Dialogue: 0,1:12:02.85,1:12:06.65,Default,,0,0,0,,Now, we just have to win\NThe Shining challenge.
+Dialogue: 0,1:12:08.99,1:12:11.79,Default,,0,0,0,,Get her off me!\NGet her off me!
+Dialogue: 0,1:12:21.20,1:12:25.77,Default,,0,0,0,,Mr. Sorrento, I really think\Nyou need to see this.
+Dialogue: 0,1:12:27.84,1:12:29.71,Default,,0,0,0,,Now Parzival's got the Jade Key.
+Dialogue: 0,1:12:40.05,1:12:42.45,Default,,0,0,0,,He's alive.
+Dialogue: 0,1:12:42.45,1:12:45.38,Default,,0,0,0,,I know. I'll get back to you.
+Dialogue: 0,1:12:45.39,1:12:47.46,Default,,0,0,0,,I got what you're looking for.
+Dialogue: 0,1:12:51.33,1:12:55.60,Default,,0,0,0,,Freeze. This guy.\NThe one with the lame tattoo.
+Dialogue: 0,1:12:59.84,1:13:03.08,Default,,0,0,0,,Run him through our database,\Nevery IOI drone in Columbus.
+Dialogue: 0,1:13:03.08,1:13:04.57,Default,,0,0,0,,Find him.
+Dialogue: 0,1:13:31.44,1:13:33.17,Default,,0,0,0,,Groceries are here.
+Dialogue: 0,1:13:33.17,1:13:34.67,Default,,0,0,0,,All right. Gluten-O's...
+Dialogue: 0,1:13:34.67,1:13:35.90,Default,,0,0,0,,"If you know\Nthe answer ultimate,
+Dialogue: 0,1:13:35.91,1:13:38.17,Default,,0,0,0,,"divide it by the number magic,
+Dialogue: 0,1:13:38.18,1:13:41.01,Default,,0,0,0,,"and what you need, want, and desire\Nwill be found in the fortress tragic."
+Dialogue: 0,1:13:41.01,1:13:43.11,Default,,0,0,0,,"Tragic," that's gotta be\NHalliday referring to himself.
+Dialogue: 0,1:13:43.11,1:13:44.21,Default,,0,0,0,,Why?
+Dialogue: 0,1:13:44.21,1:13:46.01,Default,,0,0,0,,Because he was lonely.
+Dialogue: 0,1:13:46.02,1:13:47.92,Default,,0,0,0,,He had no one to spend his\Nlife with towards the end.
+Dialogue: 0,1:13:47.92,1:13:50.02,Default,,0,0,0,,Yeah, that's true.
+Dialogue: 0,1:13:50.02,1:13:51.95,Default,,0,0,0,,The contest has gotta be somehow\Nabout connecting with someone.
+Dialogue: 0,1:13:51.96,1:13:53.52,Default,,0,0,0,,Anyone.
+Dialogue: 0,1:13:53.52,1:13:55.02,Default,,0,0,0,,He wants the person\Nwho cares for the OASIS
+Dialogue: 0,1:13:55.03,1:13:56.73,Default,,0,0,0,,to be connected with the world.
+Dialogue: 0,1:13:56.73,1:13:59.27,Default,,0,0,0,,That's what I think\Nhe's trying to tell us.
+Dialogue: 0,1:14:05.20,1:14:06.87,Default,,0,0,0,,Wade.
+Dialogue: 0,1:14:08.87,1:14:11.20,Default,,0,0,0,,You understand Halliday.
+Dialogue: 0,1:14:11.21,1:14:14.91,Default,,0,0,0,,You know him better than anyone.
+Dialogue: 0,1:14:14.91,1:14:17.91,Default,,0,0,0,,It's exactly\Nwhy I think you'll win.
+Dialogue: 0,1:14:17.92,1:14:21.79,Default,,0,0,0,,Really? You really think\NI'm gonna win?
+Dialogue: 0,1:14:25.66,1:14:27.46,Default,,0,0,0,,Do not move!
+Dialogue: 0,1:14:32.83,1:14:34.33,Default,,0,0,0,,Target identified!
+Dialogue: 0,1:14:35.33,1:14:36.96,Default,,0,0,0,,Freeze! Don't move!
+Dialogue: 0,1:14:43.77,1:14:46.41,Default,,0,0,0,,- This leads right to the alley.\N- You first.
+Dialogue: 0,1:14:46.41,1:14:48.14,Default,,0,0,0,,I'm right behind you. Go now!
+Dialogue: 0,1:14:49.68,1:14:51.28,Default,,0,0,0,,Come on!
+Dialogue: 0,1:14:51.28,1:14:53.78,Default,,0,0,0,,- Wade, the OASIS needs you.\N- What?
+Dialogue: 0,1:14:53.78,1:14:55.08,Default,,0,0,0,,- I'm gonna delay them.\N- Wait!
+Dialogue: 0,1:14:55.09,1:14:57.52,Default,,0,0,0,,No, no, no, wait! No, no, no!
+Dialogue: 0,1:14:57.52,1:14:59.75,Default,,0,0,0,,You'll forgive me\Nfor this, I promise.
+Dialogue: 0,1:15:08.93,1:15:10.56,Default,,0,0,0,,Freeze, freeze, freeze!
+Dialogue: 0,1:15:11.54,1:15:12.61,Default,,0,0,0,,Don't move!
+Dialogue: 0,1:15:17.84,1:15:20.54,Default,,0,0,0,,Samantha Evelyn Cook.
+Dialogue: 0,1:15:20.54,1:15:24.21,Default,,0,0,0,,IOI has purchased and consolidated\Nall of your outstanding debt,
+Dialogue: 0,1:15:24.21,1:15:27.48,Default,,0,0,0,,currently in excess\Nof 23,000 credits.
+Dialogue: 0,1:15:27.48,1:15:30.35,Default,,0,0,0,,You will be remanded to the\Nnearest IOI loyalty center
+Dialogue: 0,1:15:30.35,1:15:31.85,Default,,0,0,0,,until your debt is paid in full,
+Dialogue: 0,1:15:31.86,1:15:34.66,Default,,0,0,0,,including any interest,\Nprocessing,
+Dialogue: 0,1:15:34.66,1:15:37.33,Default,,0,0,0,,or late fees\Nyou incur henceforth.
+Dialogue: 0,1:15:37.33,1:15:39.89,Default,,0,0,0,,- Does anybody have eyes?\N- Check down the next street!
+Dialogue: 0,1:15:52.34,1:15:54.54,Default,,0,0,0,,- "First to the key."\N- "First to the egg."
+Dialogue: 0,1:15:54.55,1:15:56.85,Default,,0,0,0,,Wait, what?
+Dialogue: 0,1:15:56.85,1:16:00.22,Default,,0,0,0,,"Never trust someone you meet\Nin the OASIS."
+Dialogue: 0,1:16:00.22,1:16:02.86,Default,,0,0,0,,"She might be a 300-pound dude\Nnamed Chuck..."
+Dialogue: 0,1:16:02.86,1:16:06.12,Default,,0,0,0,,"Who lives in his mama's\Nbasement in suburban Detroit."
+Dialogue: 0,1:16:08.43,1:16:10.36,Default,,0,0,0,,Aech!
+Dialogue: 0,1:16:10.36,1:16:13.93,Default,,0,0,0,,Helen. My dad called me "H."\NIt kinda stuck. Let's go!
+Dialogue: 0,1:16:23.74,1:16:25.97,Default,,0,0,0,,That thing's IDing my van.
+Dialogue: 0,1:16:40.76,1:16:42.83,Default,,0,0,0,,Come on. They've spotted us.
+Dialogue: 0,1:16:43.59,1:16:45.19,Default,,0,0,0,,Daito.
+Dialogue: 0,1:16:45.20,1:16:48.03,Default,,0,0,0,,My real name is Toshiro.\NSamantha got us a message.
+Dialogue: 0,1:16:48.03,1:16:49.86,Default,,0,0,0,,She told us to meet you here.
+Dialogue: 0,1:16:49.87,1:16:51.27,Default,,0,0,0,,Samantha,\Nthey took her to the...
+Dialogue: 0,1:16:51.27,1:16:53.30,Default,,0,0,0,,The loyalty center, I know.
+Dialogue: 0,1:16:53.30,1:16:56.87,Default,,0,0,0,,Look, in other awesome news,\Nthe Sixers found the third challenge.
+Dialogue: 0,1:16:56.87,1:16:58.77,Default,,0,0,0,,- What?\N- Just come on, get in!
+Dialogue: 0,1:16:58.78,1:16:59.98,Default,,0,0,0,,All right. Let's go.
+Dialogue: 0,1:16:59.98,1:17:02.18,Default,,0,0,0,,Hurry up.\NGo, go, go. All right.
+Dialogue: 0,1:17:13.89,1:17:16.39,Default,,0,0,0,,How did IOI find\Nthe third challenge so fast?
+Dialogue: 0,1:17:16.39,1:17:18.49,Default,,0,0,0,,IOI cracked the first\Nthree lines of the clue,
+Dialogue: 0,1:17:18.50,1:17:20.16,Default,,0,0,0,,so they knew it was sector 14
+Dialogue: 0,1:17:20.16,1:17:21.76,Default,,0,0,0,,but they couldn't figure out\N"the fortress tragic."
+Dialogue: 0,1:17:21.77,1:17:24.17,Default,,0,0,0,,So they sent every guide\Nthey had into that sector
+Dialogue: 0,1:17:24.17,1:17:26.14,Default,,0,0,0,,until they found\Nthe right fortress.
+Dialogue: 0,1:17:27.17,1:17:28.63,Default,,0,0,0,,Sho?
+Dialogue: 0,1:17:28.64,1:17:30.95,Default,,0,0,0,,Yeah, yeah, yeah.\NI'm 11, so what?
+Dialogue: 0,1:17:30.95,1:17:32.97,Default,,0,0,0,,His real name is Xo.
+Dialogue: 0,1:17:32.98,1:17:35.75,Default,,0,0,0,,But everyone else calls me Sho,\Nno big deal.
+Dialogue: 0,1:17:35.75,1:17:38.51,Default,,0,0,0,,No. It is a big deal.
+Dialogue: 0,1:17:38.52,1:17:42.08,Default,,0,0,0,,Sho, you're the world's most\Nbadass 11-year-old ever.
+Dialogue: 0,1:17:42.09,1:17:43.15,Default,,0,0,0,,He knows.
+Dialogue: 0,1:17:43.15,1:17:45.35,Default,,0,0,0,,Shut up! Let him tell me.
+Dialogue: 0,1:17:45.36,1:17:46.50,Default,,0,0,0,,Aech!
+Dialogue: 0,1:17:49.96,1:17:51.66,Default,,0,0,0,,We have to go save Samantha.
+Dialogue: 0,1:17:51.66,1:17:54.03,Default,,0,0,0,,Well, we can't just\Ngo through the doors of IOI.
+Dialogue: 0,1:17:54.03,1:17:56.26,Default,,0,0,0,,Look, I've been thinkin' about it.\NI got a better plan.
+Dialogue: 0,1:17:56.27,1:17:58.27,Default,,0,0,0,,You saw Sorrento's rig, right?
+Dialogue: 0,1:17:58.27,1:18:00.37,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:18:00.37,1:18:02.80,Default,,0,0,0,,Let's go after the man himself and\Nmake him give Art3mis back to us.
+Dialogue: 0,1:18:02.81,1:18:04.71,Default,,0,0,0,,But first,\NI have to know exactly,
+Dialogue: 0,1:18:04.71,1:18:06.72,Default,,0,0,0,,how much about Sorrento's rig\Ndo you remember?
+Dialogue: 0,1:18:08.11,1:18:10.41,Default,,0,0,0,,Kind of everything.
+Dialogue: 0,1:18:24.13,1:18:28.04,Default,,0,0,0,,Maintenance,\Nreport to loyalty pod 31-B.
+Dialogue: 0,1:18:32.07,1:18:36.71,Default,,0,0,0,,Security, please report\Nto section 97 for escort.
+Dialogue: 0,1:18:57.43,1:19:00.30,Default,,0,0,0,,Hey! Newbie, get to work.
+Dialogue: 0,1:19:02.43,1:19:03.56,Default,,0,0,0,,Get to work.
+Dialogue: 0,1:19:09.87,1:19:13.00,Default,,0,0,0,,Work violation. Work violation.
+Dialogue: 0,1:19:14.75,1:19:17.85,Default,,0,0,0,,Lay those charges\Nevery six feet.
+Dialogue: 0,1:19:22.85,1:19:25.02,Default,,0,0,0,,Keep it moving!
+Dialogue: 0,1:19:26.29,1:19:27.36,Default,,0,0,0,,Hey, you!
+Dialogue: 0,1:19:29.46,1:19:31.29,Default,,0,0,0,,Those are explosives!
+Dialogue: 0,1:19:33.03,1:19:36.24,Default,,0,0,0,,IOI will not reimburse\Nany lost coin if you zero out.
+Dialogue: 0,1:19:36.24,1:19:38.03,Default,,0,0,0,,Keep it moving!
+Dialogue: 0,1:19:42.74,1:19:45.78,Default,,0,0,0,,So what is this challenge,\Nsome sort of video game thing?
+Dialogue: 0,1:19:45.78,1:19:47.88,Default,,0,0,0,,An Atari 2600, sir.
+Dialogue: 0,1:19:47.88,1:19:51.49,Default,,0,0,0,,And every game ever made for it,\Nthousands of possibilities.
+Dialogue: 0,1:19:52.25,1:19:53.62,Default,,0,0,0,,Come up!
+Dialogue: 0,1:19:58.09,1:19:59.56,Default,,0,0,0,,Halliday,
+Dialogue: 0,1:19:59.56,1:20:01.49,Default,,0,0,0,,this is how you plan to resolve
+Dialogue: 0,1:20:01.50,1:20:04.92,Default,,0,0,0,,the fate of the world's most\Nimportant economic resource?
+Dialogue: 0,1:20:04.93,1:20:06.90,Default,,0,0,0,,- Call me when you're close.\N- Yes, sir.
+Dialogue: 0,1:20:06.90,1:20:08.50,Default,,0,0,0,,Go, go! No! Ahh!
+Dialogue: 0,1:20:10.77,1:20:13.94,Default,,0,0,0,,One minute into Centipede,\Nthe ice broke.
+Dialogue: 0,1:20:13.94,1:20:16.01,Default,,0,0,0,,It has to be Joust!
+Dialogue: 0,1:20:16.01,1:20:18.94,Default,,0,0,0,,Halliday still holds the world record\Non the 2600 port of that game.
+Dialogue: 0,1:20:18.95,1:20:20.94,Default,,0,0,0,,Maybe we just need\Nto beat his high score.
+Dialogue: 0,1:20:20.94,1:20:23.24,Default,,0,0,0,,Pitfall! One of the only 2600\Ngames that still hasn't ended.
+Dialogue: 0,1:20:23.25,1:20:24.69,Default,,0,0,0,,And how about\Nthose Swordquest games?
+Dialogue: 0,1:20:24.69,1:20:26.58,Default,,0,0,0,,Yes!\NThe Swordquest games.
+Dialogue: 0,1:20:26.58,1:20:28.74,Default,,0,0,0,,They were created for a contest\NAtari held with real...
+Dialogue: 0,1:20:36.33,1:20:39.33,Default,,0,0,0,,i-R0k, how are we doin'?
+Dialogue: 0,1:20:39.33,1:20:41.60,Default,,0,0,0,,To be honest, I think I need\Nphysical therapy because it's not...
+Dialogue: 0,1:20:41.60,1:20:43.67,Default,,0,0,0,,Is the Orb ready?
+Dialogue: 0,1:20:44.60,1:20:46.33,Default,,0,0,0,,Um, as you wish.
+Dialogue: 0,1:20:50.44,1:20:51.60,Default,,0,0,0,,The Orb...
+Dialogue: 0,1:20:51.61,1:20:53.08,Default,,0,0,0,,Of Osuvox.
+Dialogue: 0,1:20:53.88,1:20:55.04,Default,,0,0,0,,Ah...
+Dialogue: 0,1:20:55.05,1:20:57.11,Default,,0,0,0,,How does it work?
+Dialogue: 0,1:20:57.11,1:21:00.55,Default,,0,0,0,,Has it got, like, a remote or\Nis there a button or something?
+Dialogue: 0,1:21:00.55,1:21:04.18,Default,,0,0,0,,Nolan, it's a level-99\Nmagic artifact,
+Dialogue: 0,1:21:04.19,1:21:07.99,Default,,0,0,0,,not one of your drones,\Nso it is activated by a magic spell.
+Dialogue: 0,1:21:08.00,1:21:10.09,Default,,0,0,0,,Would you care to do the honors?
+Dialogue: 0,1:22:02.01,1:22:03.38,Default,,0,0,0,,Where is she?
+Dialogue: 0,1:22:03.38,1:22:04.68,Default,,0,0,0,,How'd you get in here?
+Dialogue: 0,1:22:04.68,1:22:05.94,Default,,0,0,0,,- Art3mis.\N- Who?
+Dialogue: 0,1:22:05.95,1:22:10.62,Default,,0,0,0,,Samantha Cook. Where is she?
+Dialogue: 0,1:22:10.62,1:22:14.52,Default,,0,0,0,,If you wanna talk, we can talk,\Nbut you gotta put that gun down.
+Dialogue: 0,1:22:14.52,1:22:17.42,Default,,0,0,0,,You killed my mom's sister.
+Dialogue: 0,1:22:17.43,1:22:19.07,Default,,0,0,0,,You think I won't kill you?
+Dialogue: 0,1:22:19.07,1:22:23.26,Default,,0,0,0,,Whoa, whoa, whoa.\NJust slow down, okay?
+Dialogue: 0,1:22:23.27,1:22:26.64,Default,,0,0,0,,That was a corporate decision.\NIt was not personal.
+Dialogue: 0,1:22:26.64,1:22:27.97,Default,,0,0,0,,Where is she?
+Dialogue: 0,1:22:27.97,1:22:30.30,Default,,0,0,0,,She's downstairs\Nin the loyalty center!
+Dialogue: 0,1:22:30.31,1:22:33.64,Default,,0,0,0,,I know she's in\Nthe goddamn loyalty center.
+Dialogue: 0,1:22:33.64,1:22:36.11,Default,,0,0,0,,You're gonna tell me\Nexactly which rig she's in
+Dialogue: 0,1:22:36.11,1:22:38.51,Default,,0,0,0,,and the access code\Nto contact her.
+Dialogue: 0,1:22:39.55,1:22:41.86,Default,,0,0,0,,Yeah, that seems appropriate.
+Dialogue: 0,1:22:44.65,1:22:46.72,Default,,0,0,0,,Start with access code.
+Dialogue: 0,1:22:47.89,1:22:50.16,Default,,0,0,0,,6, 45, 7, 25.
+Dialogue: 0,1:22:50.16,1:22:51.49,Default,,0,0,0,,Where's the rig?
+Dialogue: 0,1:23:02.34,1:23:04.57,Default,,0,0,0,,I think he pissed himself.
+Dialogue: 0,1:23:04.57,1:23:06.57,Default,,0,0,0,,Good job, Z.\NWe're in his account.
+Dialogue: 0,1:23:06.58,1:23:08.38,Default,,0,0,0,,So he really doesn't know\Nhe's in the OASIS?
+Dialogue: 0,1:23:10.68,1:23:13.28,Default,,0,0,0,,This is what Sorrento\Nshould be seeing,
+Dialogue: 0,1:23:13.28,1:23:17.52,Default,,0,0,0,,but this... This is what we're\Nmaking him see.
+Dialogue: 0,1:23:17.52,1:23:20.59,Default,,0,0,0,,We grabbed him in transit just as\Nhe was logging out of the OASIS,
+Dialogue: 0,1:23:20.59,1:23:23.46,Default,,0,0,0,,so he thinks he's back in his\Noffice in the real world.
+Dialogue: 0,1:23:23.46,1:23:27.29,Default,,0,0,0,,But actually, he's here, in the\Nidentical office that Aech built.
+Dialogue: 0,1:23:27.30,1:23:30.00,Default,,0,0,0,,So, you basically\Njust remotely hacked his rig.
+Dialogue: 0,1:23:30.01,1:23:33.03,Default,,0,0,0,,A fixed rig like Sorrento's\Nis easy to locate, hard to hack.
+Dialogue: 0,1:23:33.04,1:23:35.78,Default,,0,0,0,,Unless he's stupid enough to\Nleave his password lying around.
+Dialogue: 0,1:23:35.78,1:23:37.17,Default,,0,0,0,,Loyalty center, I'm in.
+Dialogue: 0,1:23:37.17,1:23:39.00,Default,,0,0,0,,All right, let's get to work.
+Dialogue: 0,1:23:46.72,1:23:49.05,Default,,0,0,0,,- Arty.\N- Z? Z? Z?
+Dialogue: 0,1:23:49.05,1:23:50.62,Default,,0,0,0,,Arty, don't say anything.
+Dialogue: 0,1:23:50.62,1:23:52.62,Default,,0,0,0,,I'm tapped directly\Ninto your audio feed.
+Dialogue: 0,1:23:54.19,1:23:55.69,Default,,0,0,0,,How did you find me?
+Dialogue: 0,1:23:55.69,1:23:57.46,Default,,0,0,0,,We got his password,\Nhacked Sorrento's rig.
+Dialogue: 0,1:23:59.03,1:24:01.50,Default,,0,0,0,,Z, I have something to tell you.
+Dialogue: 0,1:24:01.50,1:24:03.51,Default,,0,0,0,,Not now. I have something to show\Nyou that'll get you out of there.
+Dialogue: 0,1:24:03.51,1:24:06.97,Default,,0,0,0,,The Sixers found the third challenge.\NIt's on Planet Doom.
+Dialogue: 0,1:24:06.97,1:24:08.50,Default,,0,0,0,,And there's more,\Nthey just put a force field
+Dialogue: 0,1:24:08.51,1:24:10.38,Default,,0,0,0,,around Anorak's Castle.
+Dialogue: 0,1:24:14.74,1:24:17.41,Default,,0,0,0,,I heard one of the guards\Ncalling it "the Orb of Osuvox,"
+Dialogue: 0,1:24:17.41,1:24:19.98,Default,,0,0,0,,and the only way to take it\Ndown is from the inside.
+Dialogue: 0,1:24:19.99,1:24:23.15,Default,,0,0,0,,She's right.\NLevel-99 artifact,
+Dialogue: 0,1:24:23.15,1:24:26.08,Default,,0,0,0,,creates a magic-resistant,\Nimpenetrable barrier.
+Dialogue: 0,1:24:26.09,1:24:27.82,Default,,0,0,0,,No way through it.
+Dialogue: 0,1:24:27.82,1:24:29.55,Default,,0,0,0,,Okay, listen.\NThat's not important right now.
+Dialogue: 0,1:24:29.56,1:24:31.56,Default,,0,0,0,,What's important is that\Nwe get you out of the rig.
+Dialogue: 0,1:24:33.70,1:24:36.07,Default,,0,0,0,,All right, so I'm looking\Nat a diagram of your rig.
+Dialogue: 0,1:24:38.74,1:24:41.17,Default,,0,0,0,,If you reach up with your\Nleft hand at 11 o'clock,
+Dialogue: 0,1:24:41.17,1:24:43.05,Default,,0,0,0,,there's some... there's a\Npanel above your head.
+Dialogue: 0,1:24:47.74,1:24:49.91,Default,,0,0,0,,Yeah, yeah.\NYeah, I can feel it.
+Dialogue: 0,1:24:49.91,1:24:51.94,Default,,0,0,0,,Okay, there should be\Ntwo release handles.
+Dialogue: 0,1:24:51.95,1:24:53.59,Default,,0,0,0,,Nine o'clock and three o'clock.\NCan you feel them?
+Dialogue: 0,1:24:53.59,1:24:55.85,Default,,0,0,0,,- Yeah, I got it.\N- Okay, pull it towards you.
+Dialogue: 0,1:24:58.19,1:25:00.09,Default,,0,0,0,,Okay, inside the panel,\Nthere's a lever.
+Dialogue: 0,1:25:00.10,1:25:02.45,Default,,0,0,0,,Grab it with your right hand\Nand slide it to the left.
+Dialogue: 0,1:25:02.46,1:25:03.97,Default,,0,0,0,,That should release you.
+Dialogue: 0,1:25:11.23,1:25:13.97,Default,,0,0,0,,It worked. It worked, I'm out.
+Dialogue: 0,1:25:13.97,1:25:16.10,Default,,0,0,0,,Loyalty pod 41-F,
+Dialogue: 0,1:25:16.11,1:25:19.11,Default,,0,0,0,,you are on an authorized\Nbreak for 10 minutes.
+Dialogue: 0,1:25:24.38,1:25:27.55,Default,,0,0,0,,Pod 41-F, you are\Non 10-minute break.
+Dialogue: 0,1:25:27.55,1:25:29.71,Default,,0,0,0,,Proceed to break area.
+Dialogue: 0,1:25:30.95,1:25:32.32,Default,,0,0,0,,Wade, are you still there?
+Dialogue: 0,1:25:32.32,1:25:33.55,Default,,0,0,0,,Yeah, I'm here. Where are you?
+Dialogue: 0,1:25:33.56,1:25:35.76,Default,,0,0,0,,Where is Sorrento's office?
+Dialogue: 0,1:25:35.76,1:25:37.17,Default,,0,0,0,,It's in the IOI war room,\Ntwo levels above where you are now.
+Dialogue: 0,1:25:37.17,1:25:38.96,Default,,0,0,0,,But that's not the way out.
+Dialogue: 0,1:25:38.96,1:25:40.56,Default,,0,0,0,,What's his password?
+Dialogue: 0,1:25:41.83,1:25:43.23,Default,,0,0,0,,Wade, answer me.
+Dialogue: 0,1:25:43.23,1:25:47.17,Default,,0,0,0,,Okay, it's capital\NB-0-55-man-69.
+Dialogue: 0,1:25:47.17,1:25:49.57,Default,,0,0,0,,But, Arty, you need to go.
+Dialogue: 0,1:25:49.57,1:25:50.90,Default,,0,0,0,,You need to raise an army.
+Dialogue: 0,1:25:51.77,1:25:53.40,Default,,0,0,0,,An army?
+Dialogue: 0,1:25:53.41,1:25:55.02,Default,,0,0,0,,Get to Planet Doom,\Nand wait for my signal.
+Dialogue: 0,1:25:55.02,1:25:56.31,Default,,0,0,0,,What signal?
+Dialogue: 0,1:25:56.31,1:25:58.44,Default,,0,0,0,,I'm gonna take down that shield.
+Dialogue: 0,1:25:58.45,1:26:00.45,Default,,0,0,0,,Wait, Arty, wait!\NYou gotta get out of there! Arty!
+Dialogue: 0,1:26:08.79,1:26:11.42,Default,,0,0,0,,Hey, how much\Nare they paying you?
+Dialogue: 0,1:26:11.43,1:26:13.20,Default,,0,0,0,,'Cause, man, I got a lot of paper.
+Dialogue: 0,1:26:13.20,1:26:15.60,Default,,0,0,0,,You know, I can make you,\Nlike, a forest.
+Dialogue: 0,1:26:15.60,1:26:17.87,Default,,0,0,0,,Hey, shut up.
+Dialogue: 0,1:26:17.87,1:26:19.04,Default,,0,0,0,,Okay.
+Dialogue: 0,1:26:41.62,1:26:43.86,Default,,0,0,0,,This isn't real,\Nyou're tapping my feed.
+Dialogue: 0,1:26:43.87,1:26:45.92,Default,,0,0,0,,Uh-oh. Guys.
+Dialogue: 0,1:27:04.41,1:27:07.15,Default,,0,0,0,,F'Nale, they've hacked my rig.\NThey're after the girl.
+Dialogue: 0,1:27:07.16,1:27:09.41,Default,,0,0,0,,Meet me at loyalty.
+Dialogue: 0,1:27:22.93,1:27:26.53,Default,,0,0,0,,Pod 41-F,\Nyou have exceeded your break time.
+Dialogue: 0,1:27:26.54,1:27:30.31,Default,,0,0,0,,Report to security or your coin\Ncount will be reset to zero.
+Dialogue: 0,1:27:39.22,1:27:44.02,Default,,0,0,0,,So, she just walks out of here,\Nhow does that happen?
+Dialogue: 0,1:27:44.02,1:27:46.28,Default,,0,0,0,,They're smart. They knew\Nwhat they were doing.
+Dialogue: 0,1:27:46.29,1:27:49.13,Default,,0,0,0,,But we know they're in Columbus. And now,\Nall five of them are together.
+Dialogue: 0,1:27:49.13,1:27:51.63,Default,,0,0,0,,Wait. Wait, we know what?\NHow do we know?
+Dialogue: 0,1:27:51.63,1:27:55.40,Default,,0,0,0,,We have the make and model of the van.\NWe'll spot them.
+Dialogue: 0,1:27:55.40,1:27:57.53,Default,,0,0,0,,"We'll spot them"?
+Dialogue: 0,1:27:57.53,1:28:00.77,Default,,0,0,0,,That sounds like a great\Ninscription for our tombstones.
+Dialogue: 0,1:28:00.77,1:28:02.30,Default,,0,0,0,,Why didn't you tell me\Nthis earlier?
+Dialogue: 0,1:28:02.31,1:28:03.91,Default,,0,0,0,,It wasn't relevant yet.
+Dialogue: 0,1:28:03.91,1:28:05.31,Default,,0,0,0,,I need to know where they are.
+Dialogue: 0,1:28:05.31,1:28:06.71,Default,,0,0,0,,We need to know.\NWe need to find them!
+Dialogue: 0,1:28:06.71,1:28:09.75,Default,,0,0,0,,They're kids, Nolan.\NMan the hell up!
+Dialogue: 0,1:28:09.75,1:28:12.95,Default,,0,0,0,,Do your job, and I'll do mine,\Nunless you wanna take this
+Dialogue: 0,1:28:12.95,1:28:15.02,Default,,0,0,0,,and go after them yourself.
+Dialogue: 0,1:28:19.56,1:28:20.86,Default,,0,0,0,,Find them!
+Dialogue: 0,1:28:29.80,1:28:34.48,Default,,0,0,0,,The Complete Nancy Drew,\NKegel Exercises for...
+Dialogue: 0,1:28:36.07,1:28:38.80,Default,,0,0,0,,Bingo. Okay.
+Dialogue: 0,1:28:38.81,1:28:41.08,Default,,0,0,0,,"Congratulations, you are the\Nproud owner of the Orb of Osuvox,
+Dialogue: 0,1:28:41.08,1:28:43.02,Default,,0,0,0,,"a 99th level magic artifact.
+Dialogue: 0,1:28:43.02,1:28:45.84,Default,,0,0,0,,"Read these instructions before deploying.\NTo turn orb on, off."
+Dialogue: 0,1:28:45.85,1:28:47.35,Default,,0,0,0,,Off! Yes, off.
+Dialogue: 0,1:28:47.35,1:28:49.68,Default,,0,0,0,,"Utter spell\Nwithin 10 feet of orb."
+Dialogue: 0,1:29:03.60,1:29:05.80,Default,,0,0,0,,Citizens of the OASIS,
+Dialogue: 0,1:29:05.80,1:29:08.63,Default,,0,0,0,,I am Parzival, first to the key.
+Dialogue: 0,1:29:08.64,1:29:11.68,Default,,0,0,0,,I'm here talking to all of you now\Nbecause our future's being threatened
+Dialogue: 0,1:29:11.68,1:29:15.77,Default,,0,0,0,,by people who will stop at\Nnothing to win this contest.
+Dialogue: 0,1:29:15.78,1:29:17.81,Default,,0,0,0,,Some of you already know this,
+Dialogue: 0,1:29:17.81,1:29:21.78,Default,,0,0,0,,and you've lost much more than\Njust your avatars or your weapons.
+Dialogue: 0,1:29:21.78,1:29:25.72,Default,,0,0,0,,Some have lost their freedom.\NSome have lost their lives.
+Dialogue: 0,1:29:28.16,1:29:30.96,Default,,0,0,0,,And now, this.
+Dialogue: 0,1:29:30.96,1:29:33.96,Default,,0,0,0,,A force field\Naround the third challenge.
+Dialogue: 0,1:29:36.47,1:29:40.48,Default,,0,0,0,,I only came here to escape the\Nshitty hand that life dealt me.
+Dialogue: 0,1:29:40.48,1:29:43.23,Default,,0,0,0,,But I stayed, like many of you,
+Dialogue: 0,1:29:43.24,1:29:48.34,Default,,0,0,0,,because I found something\Nmuch bigger than just myself.
+Dialogue: 0,1:29:48.34,1:29:50.21,Default,,0,0,0,,I found a cause.
+Dialogue: 0,1:29:51.31,1:29:54.58,Default,,0,0,0,,I found my friends.
+Dialogue: 0,1:29:54.58,1:29:58.08,Default,,0,0,0,,And yes, I know\Nit's kind of a groaner, but...
+Dialogue: 0,1:29:59.36,1:30:01.00,Default,,0,0,0,,I found love.
+Dialogue: 0,1:30:02.23,1:30:03.86,Default,,0,0,0,,And I don't wanna lose that
+Dialogue: 0,1:30:03.86,1:30:06.52,Default,,0,0,0,,to this colossal douchebag,\NNolan Sorrento.
+Dialogue: 0,1:30:06.53,1:30:10.73,Default,,0,0,0,,This guy.\NBack to work, people.
+Dialogue: 0,1:30:10.73,1:30:15.00,Default,,0,0,0,,He thinks that we're all too\Ndistracted to even notice...
+Dialogue: 0,1:30:15.00,1:30:19.77,Default,,0,0,0,,Nolan Sorrento thinks\Nthat we won't put up a fight.
+Dialogue: 0,1:30:19.78,1:30:21.04,Default,,0,0,0,,Sir! Sir!
+Dialogue: 0,1:30:21.04,1:30:22.84,Default,,0,0,0,,This is going out live!
+Dialogue: 0,1:30:22.85,1:30:24.95,Default,,0,0,0,,The only thing\NHalliday let this guy do...
+Dialogue: 0,1:30:24.95,1:30:26.62,Default,,0,0,0,,- It's absolutely everywhere.\N- Was get him a cup of coffee.
+Dialogue: 0,1:30:26.62,1:30:28.42,Default,,0,0,0,,And now, we're supposed\Nto hand him the OASIS?
+Dialogue: 0,1:30:35.39,1:30:38.19,Default,,0,0,0,,This Parzival...\NOh, man.
+Dialogue: 0,1:30:42.23,1:30:44.73,Default,,0,0,0,,Come on, come on.\NGive me this thing.
+Dialogue: 0,1:30:44.73,1:30:45.93,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,1:30:46.57,1:30:48.70,Default,,0,0,0,,Left arm.
+Dialogue: 0,1:30:48.70,1:30:51.20,Default,,0,0,0,,- Left arm!\N- Sir.
+Dialogue: 0,1:30:51.21,1:30:53.21,Default,,0,0,0,,No, I need the left arm.
+Dialogue: 0,1:30:53.21,1:30:55.55,Default,,0,0,0,,No, I don't care if...\NI want it on.
+Dialogue: 0,1:30:57.38,1:31:00.14,Default,,0,0,0,,He thinks that we\Nwon't even put up a fight!
+Dialogue: 0,1:31:00.15,1:31:02.95,Default,,0,0,0,,Well, I say he's wrong.
+Dialogue: 0,1:31:02.95,1:31:06.75,Default,,0,0,0,,I say, tell that to the gunter\Nclans in the gold mines of Gygax.
+Dialogue: 0,1:31:06.76,1:31:10.00,Default,,0,0,0,,Activate the Iron Giant.
+Dialogue: 0,1:31:34.08,1:31:39.15,Default,,0,0,0,,Ask yourselves, are you willing\Nto zero out for the OASIS?
+Dialogue: 0,1:31:39.16,1:31:41.10,Default,,0,0,0,,Are you willing to fight?
+Dialogue: 0,1:31:42.49,1:31:45.09,Default,,0,0,0,,I am Parzival of the High Five.
+Dialogue: 0,1:31:45.09,1:31:47.83,Default,,0,0,0,,In the name of Art3mis,\Nin the name of Aech,
+Dialogue: 0,1:31:47.84,1:31:50.53,Default,,0,0,0,,in the name of Daito and Sho,
+Dialogue: 0,1:31:50.53,1:31:54.10,Default,,0,0,0,,we ask you to join us\Non Planet Doom.
+Dialogue: 0,1:31:54.10,1:31:57.20,Default,,0,0,0,,In the name\Nof James Halliday himself,
+Dialogue: 0,1:31:57.21,1:31:59.28,Default,,0,0,0,,help us save the OASIS.
+Dialogue: 0,1:32:54.23,1:32:56.66,Default,,0,0,0,,No, no, no, no.
+Dialogue: 0,1:33:06.74,1:33:09.37,Default,,0,0,0,,"No man is a failure\Nwho has friends."
+Dialogue: 0,1:33:31.47,1:33:34.71,Default,,0,0,0,,Squadron 14, armor up,\Nyou're in the lead.
+Dialogue: 0,1:33:47.58,1:33:51.98,Default,,0,0,0,,One minute into Swordquest,\Nthe ice broke.
+Dialogue: 0,1:33:51.99,1:33:55.76,Default,,0,0,0,,Well, all three Swordquests.\NWhat's next?
+Dialogue: 0,1:33:55.76,1:33:57.60,Default,,0,0,0,,Dark Cavern, Laser Blast.
+Dialogue: 0,1:33:57.60,1:33:58.82,Default,,0,0,0,,It's Adventure.
+Dialogue: 0,1:33:58.83,1:34:01.10,Default,,0,0,0,,Released in 1979, for the 2600,
+Dialogue: 0,1:34:01.10,1:34:03.16,Default,,0,0,0,,Adventure was created by\NWarren Robinett,
+Dialogue: 0,1:34:03.17,1:34:05.34,Default,,0,0,0,,who was the first video game designer\Never to hide his name. In fact...
+Dialogue: 0,1:34:05.34,1:34:07.40,Default,,0,0,0,,Try Adventure.
+Dialogue: 0,1:34:08.60,1:34:10.17,Default,,0,0,0,,Play Adventure.
+Dialogue: 0,1:35:02.49,1:35:04.82,Default,,0,0,0,,More than a minute,\Nwe're still alive.
+Dialogue: 0,1:35:04.83,1:35:06.86,Default,,0,0,0,,This must be the right game.
+Dialogue: 0,1:35:13.64,1:35:16.48,Default,,0,0,0,,How long does it last,\Nthis orb thing?
+Dialogue: 0,1:35:23.88,1:35:26.65,Default,,0,0,0,,I'd say about ten...
+Dialogue: 0,1:35:26.65,1:35:30.02,Default,,0,0,0,,Yeah, about 10 million years,\Nso we should be fine.
+Dialogue: 0,1:35:47.20,1:35:49.07,Default,,0,0,0,,First to the key!
+Dialogue: 0,1:35:49.07,1:35:50.90,Default,,0,0,0,,First to the egg!
+Dialogue: 0,1:35:50.91,1:35:53.78,Default,,0,0,0,,First to the egg!
+Dialogue: 0,1:35:53.78,1:35:57.01,Default,,0,0,0,,♪ We're not gonna take it
+Dialogue: 0,1:35:57.01,1:36:00.38,Default,,0,0,0,,♪ No, we ain't gonna take it
+Dialogue: 0,1:36:00.38,1:36:04.82,Default,,0,0,0,,♪ We're not\Ngonna take it anymore
+Dialogue: 0,1:36:10.43,1:36:13.36,Default,,0,0,0,,♪ We've got the right\Nto choose it
+Dialogue: 0,1:36:13.36,1:36:16.69,Default,,0,0,0,,♪ There ain't no way\Nwe'll lose it
+Dialogue: 0,1:36:16.70,1:36:19.21,Default,,0,0,0,,♪ This is our life,\Nthis is our song
+Dialogue: 0,1:36:22.10,1:36:23.73,Default,,0,0,0,,Adventure.
+Dialogue: 0,1:36:23.74,1:36:26.47,Default,,0,0,0,,♪ We'll fight the powers\Nthat be just
+Dialogue: 0,1:36:26.48,1:36:29.58,Default,,0,0,0,,♪ Don't pick\Nour destiny 'cause
+Dialogue: 0,1:36:29.58,1:36:32.41,Default,,0,0,0,,♪ You don't know us,\Nyou don't belong
+Dialogue: 0,1:36:39.62,1:36:41.89,Default,,0,0,0,,What? Come on!
+Dialogue: 0,1:36:52.23,1:36:55.47,Default,,0,0,0,,♪ Your gall is never-ending
+Dialogue: 0,1:36:55.47,1:36:59.00,Default,,0,0,0,,♪ We don't want nothin'\NNot a thing from you ♪
+Dialogue: 0,1:37:11.45,1:37:13.08,Default,,0,0,0,,Whoa, whoa, whoa!
+Dialogue: 0,1:37:15.19,1:37:17.96,Default,,0,0,0,,The Sixers are in the final challenge.\NIt's an Atari 2600.
+Dialogue: 0,1:37:17.96,1:37:20.19,Default,,0,0,0,,Are you in the Sixer war room?
+Dialogue: 0,1:37:20.20,1:37:21.80,Default,,0,0,0,,No, no, no.\NYou gotta get out of there.
+Dialogue: 0,1:37:21.80,1:37:24.10,Default,,0,0,0,,They're playing Adventure.
+Dialogue: 0,1:37:24.10,1:37:26.50,Default,,0,0,0,,Adventure, of course!
+Dialogue: 0,1:37:26.50,1:37:28.30,Default,,0,0,0,,Created by Warren Robinett!
+Dialogue: 0,1:37:28.30,1:37:29.83,Default,,0,0,0,,He was the first designer to\Never hide an Easter egg in...
+Dialogue: 0,1:37:29.84,1:37:30.91,Default,,0,0,0,,Dude!
+Dialogue: 0,1:37:35.88,1:37:38.72,Default,,0,0,0,,We're looking for a USPS truck,\NOhio plates,
+Dialogue: 0,1:37:38.72,1:37:41.78,Default,,0,0,0,,a drone spitter, 2036 model.
+Dialogue: 0,1:38:00.30,1:38:03.70,Default,,0,0,0,,Daito! When are you\Ngetting into this fight?
+Dialogue: 0,1:38:17.65,1:38:18.88,Default,,0,0,0,,I'm out. Inventory's empty.
+Dialogue: 0,1:38:18.89,1:38:20.05,Default,,0,0,0,,Last clip for me.
+Dialogue: 0,1:38:20.06,1:38:21.26,Default,,0,0,0,,More weapons!
+Dialogue: 0,1:38:21.26,1:38:25.43,Default,,0,0,0,,Anti-personnel ordinance cannon!
+Dialogue: 0,1:38:28.33,1:38:31.06,Default,,0,0,0,,Railgun!
+Dialogue: 0,1:38:36.21,1:38:37.91,Default,,0,0,0,,Yo, Z!
+Dialogue: 0,1:38:37.91,1:38:41.62,Default,,0,0,0,,Yo, Z! Try this little guy.
+Dialogue: 0,1:38:45.11,1:38:46.78,Default,,0,0,0,,Ow!
+Dialogue: 0,1:38:46.78,1:38:48.68,Default,,0,0,0,,Get rid of it! Get rid of it!
+Dialogue: 0,1:38:49.75,1:38:51.62,Default,,0,0,0,,It's fucking Chucky!
+Dialogue: 0,1:38:56.89,1:38:58.96,Default,,0,0,0,,Move! Move!
+Dialogue: 0,1:38:58.96,1:39:00.52,Default,,0,0,0,,Go, go, go!
+Dialogue: 0,1:39:58.25,1:39:59.82,Default,,0,0,0,,Mechagodzilla!
+Dialogue: 0,1:40:20.94,1:40:24.44,Default,,0,0,0,,Daito, we need you!\NDaito, now!
+Dialogue: 0,1:40:24.45,1:40:26.69,Default,,0,0,0,,Get to the bridge.\NGo now, he's distracted.
+Dialogue: 0,1:40:26.69,1:40:27.75,Default,,0,0,0,,Go, go, go.
+Dialogue: 0,1:41:09.02,1:41:10.09,Default,,0,0,0,,Z!
+Dialogue: 0,1:41:29.95,1:41:31.75,Default,,0,0,0,,Arty!
+Dialogue: 0,1:41:31.75,1:41:33.79,Default,,0,0,0,,Get to the castle!\NWin the third key before they do!
+Dialogue: 0,1:41:45.06,1:41:46.76,Default,,0,0,0,,What is that?
+Dialogue: 0,1:41:46.76,1:41:49.19,Default,,0,0,0,,He's only got 30 seconds\Nbefore changing back!
+Dialogue: 0,1:42:00.38,1:42:03.32,Default,,0,0,0,,Daito, abort, abort!\NYou got 10 seconds!
+Dialogue: 0,1:42:17.93,1:42:19.20,Default,,0,0,0,,First to the egg!
+Dialogue: 0,1:42:58.60,1:42:59.93,Default,,0,0,0,,Shit, it's her.
+Dialogue: 0,1:43:19.96,1:43:23.29,Default,,0,0,0,,Arty! Arty!
+Dialogue: 0,1:43:23.29,1:43:25.82,Default,,0,0,0,,Z! Got to get\Nto the castle!
+Dialogue: 0,1:43:31.83,1:43:34.46,Default,,0,0,0,,She never left.\NShe's still here.
+Dialogue: 0,1:43:37.37,1:43:38.97,Default,,0,0,0,,The girl's in the war room.
+Dialogue: 0,1:44:17.05,1:44:18.65,Default,,0,0,0,,No, no, no.
+Dialogue: 0,1:44:32.73,1:44:35.34,Default,,0,0,0,,Sho! Hang on!
+Dialogue: 0,1:44:54.72,1:44:56.36,Default,,0,0,0,,No!
+Dialogue: 0,1:45:18.77,1:45:20.67,Default,,0,0,0,,Arty, we've got this.\NYou need to log out.
+Dialogue: 0,1:45:20.68,1:45:23.45,Default,,0,0,0,,If the game is Adventure,\Nwhy haven't they won yet?
+Dialogue: 0,1:45:23.45,1:45:25.31,Default,,0,0,0,,I don't know. Arty, Arty.
+Dialogue: 0,1:45:25.31,1:45:27.31,Default,,0,0,0,,I'm serious, Sorrento's crazy.\NHe'll kill you.
+Dialogue: 0,1:45:29.48,1:45:31.45,Default,,0,0,0,,What are you looking at?
+Dialogue: 0,1:45:31.45,1:45:33.25,Default,,0,0,0,,There's nothing over there.
+Dialogue: 0,1:45:34.26,1:45:35.46,Default,,0,0,0,,You're in trouble, aren't you?
+Dialogue: 0,1:45:38.69,1:45:42.26,Default,,0,0,0,,Samantha, you know I love you.
+Dialogue: 0,1:45:42.26,1:45:43.63,Default,,0,0,0,,Not the time, Z.
+Dialogue: 0,1:45:43.63,1:45:45.20,Default,,0,0,0,,I can handle the challenge,
+Dialogue: 0,1:45:45.20,1:45:48.17,Default,,0,0,0,,but I can't let you get hurt\Nin the real world.
+Dialogue: 0,1:45:48.17,1:45:51.40,Default,,0,0,0,,Get out of IOI,\Nand meet us at River South.
+Dialogue: 0,1:45:57.71,1:45:59.44,Default,,0,0,0,,Wade, no.
+Dialogue: 0,1:45:59.45,1:46:01.32,Default,,0,0,0,,You'll forgive me\Nfor this, I promise.
+Dialogue: 0,1:46:01.32,1:46:02.52,Default,,0,0,0,,Wade, no, no, no.
+Dialogue: 0,1:46:12.56,1:46:16.03,Default,,0,0,0,,Get it together, Sixer.\NBack to respawn.
+Dialogue: 0,1:46:16.03,1:46:17.36,Default,,0,0,0,,Let's go, move.
+Dialogue: 0,1:46:17.37,1:46:18.64,Default,,0,0,0,,You're in.
+Dialogue: 0,1:46:36.85,1:46:39.48,Default,,0,0,0,,Holy hand grenade!\NHow much did that cost?
+Dialogue: 0,1:46:39.49,1:46:42.00,Default,,0,0,0,,Less than it's gonna cost them.
+Dialogue: 0,1:46:43.06,1:46:44.63,Default,,0,0,0,,What is that?
+Dialogue: 0,1:46:54.94,1:46:57.68,Default,,0,0,0,,Sir, the gunters\Nare approaching the challenge.
+Dialogue: 0,1:46:57.68,1:46:59.67,Default,,0,0,0,,- I-R0k?\N- In position, sir.
+Dialogue: 0,1:46:59.67,1:47:00.94,Default,,0,0,0,,Prepare my rig.
+Dialogue: 0,1:47:00.94,1:47:03.64,Default,,0,0,0,,The ice is holding.\NStill going.
+Dialogue: 0,1:47:13.92,1:47:15.25,Default,,0,0,0,,Wait.
+Dialogue: 0,1:47:15.26,1:47:16.46,Default,,0,0,0,,He's trying to win.
+Dialogue: 0,1:47:19.76,1:47:22.36,Default,,0,0,0,,Yeah! I won.
+Dialogue: 0,1:47:25.80,1:47:27.76,Default,,0,0,0,,He lost.
+Dialogue: 0,1:47:27.77,1:47:29.84,Default,,0,0,0,,Not Adventure.
+Dialogue: 0,1:47:33.91,1:47:38.38,Default,,0,0,0,,Everyone who wins loses.
+Dialogue: 0,1:47:38.38,1:47:41.71,Default,,0,0,0,,It's not about winning.\NIt's about playing.
+Dialogue: 0,1:47:42.78,1:47:45.28,Default,,0,0,0,,Remember\NHalliday's announcement.
+Dialogue: 0,1:47:45.29,1:47:47.73,Default,,0,0,0,,The keys are invisible,\Nand they're hidden in a dark room
+Dialogue: 0,1:47:47.73,1:47:50.29,Default,,0,0,0,,that's at the center of a maze.
+Dialogue: 0,1:47:50.29,1:47:53.96,Default,,0,0,0,,Well, there's a secret in Adventure,\Nand you don't find it by winning.
+Dialogue: 0,1:47:53.96,1:47:56.89,Default,,0,0,0,,You find it by wandering\Naround in a dark room.
+Dialogue: 0,1:47:56.90,1:47:58.60,Default,,0,0,0,,Until you get\Nto the invisible dot.
+Dialogue: 0,1:47:58.60,1:48:00.30,Default,,0,0,0,,It's pretty easy\Nif you know what you're doing.
+Dialogue: 0,1:48:00.30,1:48:01.63,Default,,0,0,0,,Really?
+Dialogue: 0,1:48:02.47,1:48:04.84,Default,,0,0,0,,Let me finish it for you.
+Dialogue: 0,1:48:08.81,1:48:10.74,Default,,0,0,0,,It's your last chance, Wade.
+Dialogue: 0,1:48:10.75,1:48:13.65,Default,,0,0,0,,Last chance. Give me the key.
+Dialogue: 0,1:48:13.65,1:48:18.69,Default,,0,0,0,,I give you 50 million\Nin your account right now.
+Dialogue: 0,1:48:18.69,1:48:20.53,Default,,0,0,0,,Why the hell\Nwould I ever do that?
+Dialogue: 0,1:48:22.26,1:48:24.20,Default,,0,0,0,,Dude!\NThat's the Cataclyst.
+Dialogue: 0,1:48:24.20,1:48:26.09,Default,,0,0,0,,Now, personally, I don't care.
+Dialogue: 0,1:48:26.09,1:48:27.82,Default,,0,0,0,,I'd just as soon never set\Nfoot in the OASIS again,
+Dialogue: 0,1:48:27.83,1:48:30.00,Default,,0,0,0,,let alone have to deal\Nwith any of this absurdity.
+Dialogue: 0,1:48:30.00,1:48:35.20,Default,,0,0,0,,But I know how important Halliday's\Ncompetition is to you, so...
+Dialogue: 0,1:48:35.20,1:48:39.64,Default,,0,0,0,,I will never let the future of the OASIS\Nrest in your hands, Nolan Sorrento.
+Dialogue: 0,1:48:39.64,1:48:43.67,Default,,0,0,0,,Well, that's fine.\NThree easy steps. One.
+Dialogue: 0,1:48:43.68,1:48:46.15,Default,,0,0,0,,Wait, I thought you were bluffing.\NYou know that kills all of us, right?
+Dialogue: 0,1:48:46.15,1:48:48.22,Default,,0,0,0,,I've got 10 years' worth\Nof shit inside of me.
+Dialogue: 0,1:48:48.22,1:48:49.88,Default,,0,0,0,,Last chance. Two.
+Dialogue: 0,1:48:49.89,1:48:51.29,Default,,0,0,0,,I'm not goin' out like that.
+Dialogue: 0,1:48:51.29,1:48:52.82,Default,,0,0,0,,That's a camper move.
+Dialogue: 0,1:48:52.82,1:48:54.50,Default,,0,0,0,,You don't even know\Nhow to activate an orb.
+Dialogue: 0,1:49:06.13,1:49:07.26,Default,,0,0,0,,Yeah, I felt those.
+Dialogue: 0,1:49:08.64,1:49:10.78,Default,,0,0,0,,But this is my world, Sorrento.
+Dialogue: 0,1:49:14.68,1:49:15.98,Default,,0,0,0,,Hadouken!
+Dialogue: 0,1:49:35.53,1:49:38.16,Default,,0,0,0,,- No, no, no!\N- Step three.
+Dialogue: 0,1:49:38.17,1:49:39.94,Default,,0,0,0,,No, no, no!
+Dialogue: 0,1:50:37.39,1:50:39.12,Default,,0,0,0,,Get me out of this thing.
+Dialogue: 0,1:50:53.51,1:50:54.94,Default,,0,0,0,,Uh...
+Dialogue: 0,1:50:54.94,1:50:56.24,Default,,0,0,0,,Guys?
+Dialogue: 0,1:51:02.78,1:51:04.68,Default,,0,0,0,,Z. He's still alive!
+Dialogue: 0,1:51:12.53,1:51:14.40,Default,,0,0,0,,Extra life.
+Dialogue: 0,1:51:16.77,1:51:18.24,Default,,0,0,0,,Thanks, Curator.
+Dialogue: 0,1:51:21.04,1:51:22.24,Default,,0,0,0,,Hold on.
+Dialogue: 0,1:51:29.94,1:51:32.54,Default,,0,0,0,,Live feed in all OASIS channels.
+Dialogue: 0,1:51:32.55,1:51:35.15,Default,,0,0,0,,Halliday's letting everyone\Nwatch the end of the contest.
+Dialogue: 0,1:51:35.16,1:51:36.51,Default,,0,0,0,,That's so Halliday.
+Dialogue: 0,1:51:36.52,1:51:38.79,Default,,0,0,0,,God damn it, we tried Adventure.
+Dialogue: 0,1:51:38.79,1:51:40.35,Default,,0,0,0,,No, we tried to win it.
+Dialogue: 0,1:51:40.36,1:51:42.83,Default,,0,0,0,,But the hidden room isn't\Nat the end of the game.
+Dialogue: 0,1:51:42.83,1:51:45.39,Default,,0,0,0,,You've gotta go straight\Nto the invisible dot at the start.
+Dialogue: 0,1:51:59.01,1:52:00.97,Default,,0,0,0,,Is that her?
+Dialogue: 0,1:52:00.98,1:52:04.38,Default,,0,0,0,,Red hair, IOI uniform,\Ndoesn't know what planet she's on?
+Dialogue: 0,1:52:04.38,1:52:05.49,Default,,0,0,0,,That's her.
+Dialogue: 0,1:52:17.26,1:52:20.07,Default,,0,0,0,,I'm Toshiro.\NYou know me as Daito.
+Dialogue: 0,1:52:22.90,1:52:24.00,Default,,0,0,0,,Oh.
+Dialogue: 0,1:52:26.70,1:52:28.16,Default,,0,0,0,,Hey, Arty.
+Dialogue: 0,1:52:30.17,1:52:34.34,Default,,0,0,0,,Yeah, I know. Not what\Nyou were expecting, huh?
+Dialogue: 0,1:52:34.34,1:52:38.94,Default,,0,0,0,,Yeah, I wasn't expecting\Na late '30s-model postal van.
+Dialogue: 0,1:52:40.95,1:52:43.12,Default,,0,0,0,,Wade?
+Dialogue: 0,1:52:43.12,1:52:45.09,Default,,0,0,0,,Wait, I thought the Cataclyst went off.\NHow are you still playing?
+Dialogue: 0,1:52:45.09,1:52:47.66,Default,,0,0,0,,Extra life, long story.\NSorry I shot you.
+Dialogue: 0,1:52:49.92,1:52:51.55,Default,,0,0,0,,Sho?
+Dialogue: 0,1:52:51.56,1:52:54.10,Default,,0,0,0,,What? Do I have to wear\Na sign saying,
+Dialogue: 0,1:52:54.10,1:52:57.23,Default,,0,0,0,,"I am 11 years old, shoot me first"?\NNo, thanks.
+Dialogue: 0,1:52:57.24,1:52:59.56,Default,,0,0,0,,- Dude, give me a hug.\N- Ninjas don't hug!
+Dialogue: 0,1:52:59.57,1:53:01.25,Default,,0,0,0,,All right, everybody,\Nhold on to somethin'.
+Dialogue: 0,1:53:22.89,1:53:24.22,Default,,0,0,0,,Got you.
+Dialogue: 0,1:53:27.93,1:53:29.70,Default,,0,0,0,,Come on, Nolan. Pick up.
+Dialogue: 0,1:53:31.83,1:53:34.66,Default,,0,0,0,,F'Nale, tell me something good.
+Dialogue: 0,1:53:34.67,1:53:37.24,Default,,0,0,0,,I've got a drone on their tail.\NI'm close.
+Dialogue: 0,1:53:37.24,1:53:38.51,Default,,0,0,0,,Send me coordinates.
+Dialogue: 0,1:53:38.51,1:53:40.75,Default,,0,0,0,,Maybe you should\Nleave this to me, Nolan.
+Dialogue: 0,1:53:42.51,1:53:45.18,Default,,0,0,0,,Nolan? Nolan.
+Dialogue: 0,1:53:46.58,1:53:47.74,Default,,0,0,0,,Out.
+Dialogue: 0,1:53:56.66,1:53:59.20,Default,,0,0,0,,Give me that.
+Dialogue: 0,1:54:02.83,1:54:04.59,Default,,0,0,0,,What's goin' on out there?
+Dialogue: 0,1:54:08.94,1:54:11.44,Default,,0,0,0,,The game is over for them.\NWhat are they watching?
+Dialogue: 0,1:54:13.88,1:54:16.25,Default,,0,0,0,,The final key!\NIt's being broadcast.
+Dialogue: 0,1:54:18.28,1:54:19.95,Default,,0,0,0,,You see,
+Dialogue: 0,1:54:19.95,1:54:22.65,Default,,0,0,0,,Warren Robinett\Nwas proud of Adventure.
+Dialogue: 0,1:54:22.65,1:54:25.72,Default,,0,0,0,,He wanted people to know\Nwho was behind it.
+Dialogue: 0,1:54:25.72,1:54:28.45,Default,,0,0,0,,That's why he created\Nthe first digital Easter egg
+Dialogue: 0,1:54:28.46,1:54:31.16,Default,,0,0,0,,and to find it,\Nyou didn't even have to win.
+Dialogue: 0,1:54:31.16,1:54:35.33,Default,,0,0,0,,You just had to blindly play,\Nsearching around
+Dialogue: 0,1:54:35.33,1:54:39.46,Default,,0,0,0,,in rooms for an invisible dot.
+Dialogue: 0,1:54:39.47,1:54:42.04,Default,,0,0,0,,You took the dot\Nback to the main screen
+Dialogue: 0,1:54:42.04,1:54:46.68,Default,,0,0,0,,and that's when you found the first\NEaster egg ever put in a video game.
+Dialogue: 0,1:54:46.68,1:54:47.97,Default,,0,0,0,,The creator's name.
+Dialogue: 0,1:55:12.60,1:55:14.70,Default,,0,0,0,,What's going on, man?\NI can't see shit.
+Dialogue: 0,1:55:14.70,1:55:16.13,Default,,0,0,0,,Parzival just got\Nthe Crystal Key!
+Dialogue: 0,1:55:31.39,1:55:33.16,Default,,0,0,0,,Do you want it or not?
+Dialogue: 0,1:55:36.42,1:55:38.52,Default,,0,0,0,,Aech, what the hell's going on?
+Dialogue: 0,1:55:38.53,1:55:40.53,Default,,0,0,0,,Just practicing Mario Kart.\NWhat do you think?
+Dialogue: 0,1:55:40.53,1:55:42.64,Default,,0,0,0,,IOI's trying to kill us, man!
+Dialogue: 0,1:55:56.81,1:55:59.14,Default,,0,0,0,,Everyone watching,\Nif you're in the Columbus stacks,
+Dialogue: 0,1:55:59.15,1:56:01.21,Default,,0,0,0,,this is Parzival.
+Dialogue: 0,1:56:01.22,1:56:03.42,Default,,0,0,0,,My real-world name is Wade Watts,\Nand we're gonna need your help.
+Dialogue: 0,1:56:03.42,1:56:04.99,Default,,0,0,0,,Aech, head for the stacks!
+Dialogue: 0,1:56:04.99,1:56:07.25,Default,,0,0,0,,Okay, hold on!
+Dialogue: 0,1:56:31.91,1:56:33.91,Default,,0,0,0,,Stick the key in,\Nhow hard is it?
+Dialogue: 0,1:56:39.59,1:56:40.83,Default,,0,0,0,,Come on.
+Dialogue: 0,1:56:48.20,1:56:50.27,Default,,0,0,0,,Yeah! Yes!
+Dialogue: 0,1:57:06.45,1:57:07.72,Default,,0,0,0,,That's it?
+Dialogue: 0,1:57:08.48,1:57:10.35,Default,,0,0,0,,Yeah, that's it.
+Dialogue: 0,1:57:10.35,1:57:14.85,Default,,0,0,0,,Now, you just sign these papers,\Nand the OASIS is yours.
+Dialogue: 0,1:57:14.86,1:57:19.16,Default,,0,0,0,,You will be its sole proprietor.
+Dialogue: 0,1:57:19.16,1:57:20.69,Default,,0,0,0,,That ain't so bad, is it?
+Dialogue: 0,1:57:42.48,1:57:43.58,Default,,0,0,0,,I'm gonna need a second.
+Dialogue: 0,1:58:12.21,1:58:14.84,Default,,0,0,0,,This is wrong.
+Dialogue: 0,1:58:14.85,1:58:17.79,Default,,0,0,0,,This pen, this contract.
+Dialogue: 0,1:58:20.96,1:58:22.73,Default,,0,0,0,,This is the moment\Nthat Halliday made Morrow
+Dialogue: 0,1:58:22.73,1:58:25.29,Default,,0,0,0,,sign over his shares\Nin Gregarious.
+Dialogue: 0,1:58:25.29,1:58:27.96,Default,,0,0,0,,That was the biggest mistake\Nof his life.
+Dialogue: 0,1:58:27.96,1:58:30.16,Default,,0,0,0,,He knew that.
+Dialogue: 0,1:58:31.87,1:58:33.97,Default,,0,0,0,,This can't be the end.
+Dialogue: 0,1:58:35.10,1:58:36.87,Default,,0,0,0,,It's a test.
+Dialogue: 0,1:58:41.38,1:58:44.12,Default,,0,0,0,,I won't make\Nthe same mistake you did.
+Dialogue: 0,1:58:49.75,1:58:51.68,Default,,0,0,0,,Oh, good.
+Dialogue: 0,1:58:54.32,1:58:57.82,Default,,0,0,0,,I just needed to be sure.
+Dialogue: 0,1:59:11.77,1:59:14.04,Default,,0,0,0,,This is where you grew up.
+Dialogue: 0,1:59:23.25,1:59:26.18,Default,,0,0,0,,Oh, that's just me\Na long time ago.
+Dialogue: 0,1:59:26.19,1:59:29.79,Default,,0,0,0,,I like to have him around\Nfrom time to time.
+Dialogue: 0,1:59:29.79,1:59:32.09,Default,,0,0,0,,Hey, I have\Nto show you something.
+Dialogue: 0,1:59:32.09,1:59:33.79,Default,,0,0,0,,This, uh... Come on.
+Dialogue: 0,1:59:33.79,1:59:35.63,Default,,0,0,0,,This is the button.
+Dialogue: 0,1:59:35.63,1:59:38.93,Default,,0,0,0,,If you push it, the whole\Nsimulation shuts down
+Dialogue: 0,1:59:38.93,1:59:42.53,Default,,0,0,0,,and a tapeworm program will erase\Nall of the backup servers.
+Dialogue: 0,1:59:42.54,1:59:46.31,Default,,0,0,0,,So you now have the power\Nto turn the OASIS off forever.
+Dialogue: 0,1:59:46.31,1:59:47.95,Default,,0,0,0,,Do you understand?
+Dialogue: 0,1:59:53.31,1:59:54.48,Default,,0,0,0,,Yeah,
+Dialogue: 0,1:59:54.48,1:59:56.45,Default,,0,0,0,,try not to accidentally erase
+Dialogue: 0,1:59:56.45,1:59:59.18,Default,,0,0,0,,the whole of the OASIS\Non your first day.
+Dialogue: 0,2:00:08.50,2:00:10.27,Default,,0,0,0,,The stacks are straight ahead!
+Dialogue: 0,2:00:26.01,2:00:28.98,Default,,0,0,0,,Well, I expect you have to go.\NI know I do.
+Dialogue: 0,2:00:28.98,2:00:31.51,Default,,0,0,0,,So, now is the time for you\Nto receive your prize
+Dialogue: 0,2:00:31.52,2:00:34.05,Default,,0,0,0,,because you won all three keys.
+Dialogue: 0,2:00:34.06,2:00:38.76,Default,,0,0,0,,Once you take this egg,\Nthe game will be over.
+Dialogue: 0,2:00:38.76,2:00:41.90,Default,,0,0,0,,The egg, the egg...
+Dialogue: 0,2:00:49.27,2:00:51.70,Default,,0,0,0,,We know what you did here.
+Dialogue: 0,2:00:51.71,2:00:55.08,Default,,0,0,0,,You turn around and walk out\Nof here while you still can.
+Dialogue: 0,2:01:07.62,2:01:10.19,Default,,0,0,0,,I created the OASIS
+Dialogue: 0,2:01:10.19,2:01:14.92,Default,,0,0,0,,because I never felt at home\Nin the real world.
+Dialogue: 0,2:01:14.93,2:01:19.40,Default,,0,0,0,,I just didn't know how to\Nconnect with the people there.
+Dialogue: 0,2:01:19.40,2:01:22.90,Default,,0,0,0,,I was afraid for all of my life.
+Dialogue: 0,2:01:22.90,2:01:25.70,Default,,0,0,0,,Right up until the day\NI knew my life was ending.
+Dialogue: 0,2:01:31.28,2:01:36.28,Default,,0,0,0,,Now, that... That was when\NI realized that,
+Dialogue: 0,2:01:36.28,2:01:41.45,Default,,0,0,0,,as terrifying and painful\Nas reality can be,
+Dialogue: 0,2:01:42.26,2:01:46.33,Default,,0,0,0,,it's also the only place
+Dialogue: 0,2:01:47.93,2:01:49.64,Default,,0,0,0,,that you can get a decent meal.
+Dialogue: 0,2:01:56.24,2:01:57.81,Default,,0,0,0,,Because
+Dialogue: 0,2:01:59.47,2:02:01.14,Default,,0,0,0,,reality
+Dialogue: 0,2:02:06.25,2:02:07.91,Default,,0,0,0,,is real.
+Dialogue: 0,2:02:07.92,2:02:09.69,Default,,0,0,0,,You understand what I'm saying?
+Dialogue: 0,2:02:11.45,2:02:14.15,Default,,0,0,0,,Yes. Yes, I do.
+Dialogue: 0,2:02:23.86,2:02:25.19,Default,,0,0,0,,He did it.
+Dialogue: 0,2:02:26.83,2:02:28.36,Default,,0,0,0,,He got the egg.
+Dialogue: 0,2:02:29.14,2:02:30.44,Default,,0,0,0,,Hooray.
+Dialogue: 0,2:02:31.54,2:02:33.25,Default,,0,0,0,,- No!\N- No! Please!
+Dialogue: 0,2:03:06.74,2:03:08.07,Default,,0,0,0,,Hold it!
+Dialogue: 0,2:03:10.08,2:03:13.85,Default,,0,0,0,,Drop the gun! Now!\NOn the ground!
+Dialogue: 0,2:03:13.85,2:03:16.58,Default,,0,0,0,,Turn around!\NHands on your head.
+Dialogue: 0,2:03:16.58,2:03:18.21,Default,,0,0,0,,Walk back towards me.
+Dialogue: 0,2:03:33.87,2:03:39.11,Default,,0,0,0,,Mr. Halliday.\NSomething I don't understand.
+Dialogue: 0,2:03:39.11,2:03:41.91,Default,,0,0,0,,You're not an avatar, are you?
+Dialogue: 0,2:03:42.44,2:03:44.14,Default,,0,0,0,,No.
+Dialogue: 0,2:03:45.61,2:03:47.68,Default,,0,0,0,,Is Halliday really dead?
+Dialogue: 0,2:03:49.28,2:03:50.95,Default,,0,0,0,,Yes.
+Dialogue: 0,2:03:56.62,2:03:58.45,Default,,0,0,0,,Then what are you?
+Dialogue: 0,2:04:01.63,2:04:03.67,Default,,0,0,0,,Goodbye, Parzival.
+Dialogue: 0,2:04:05.27,2:04:06.44,Default,,0,0,0,,Thanks.
+Dialogue: 0,2:04:07.90,2:04:10.17,Default,,0,0,0,,Thanks for playing my game.
+Dialogue: 0,2:04:39.13,2:04:40.50,Default,,0,0,0,,Wade?
+Dialogue: 0,2:04:41.84,2:04:43.78,Default,,0,0,0,,- Ogden Morrow?\N- Ogden Morrow?
+Dialogue: 0,2:04:43.78,2:04:45.94,Default,,0,0,0,,You can call me "Og."
+Dialogue: 0,2:04:45.94,2:04:48.90,Default,,0,0,0,,Now, there are some people out here\Nthat would very much like to meet you.
+Dialogue: 0,2:04:48.91,2:04:52.15,Default,,0,0,0,,Wow, this is incredible.
+Dialogue: 0,2:04:52.15,2:04:54.99,Default,,0,0,0,,It's an honor to meet you,\NOg, but I...
+Dialogue: 0,2:04:59.12,2:05:00.86,Default,,0,0,0,,There's something\NI need to do first.
+Dialogue: 0,2:05:04.69,2:05:06.52,Default,,0,0,0,,I'm not like Halliday.
+Dialogue: 0,2:05:10.20,2:05:12.34,Default,,0,0,0,,I'm taking the leap.
+Dialogue: 0,2:05:28.72,2:05:31.85,Default,,0,0,0,,We're looking for Wade Watts.
+Dialogue: 0,2:05:31.85,2:05:34.12,Default,,0,0,0,,We need you to make a statement\Nabout the clip you sent in
+Dialogue: 0,2:05:34.12,2:05:36.32,Default,,0,0,0,,of Nolan Sorrento's confession.
+Dialogue: 0,2:05:36.32,2:05:39.05,Default,,0,0,0,,Uh, that was me.
+Dialogue: 0,2:05:39.06,2:05:41.70,Default,,0,0,0,,What? I record everything\Nin my workshop.
+Dialogue: 0,2:05:48.04,2:05:49.98,Default,,0,0,0,,Help me out of this.
+Dialogue: 0,2:05:56.24,2:05:58.54,Default,,0,0,0,,Who are you guys?
+Dialogue: 0,2:05:58.55,2:06:02.92,Default,,0,0,0,,The people you need right now, lawyers.\NFrom Gregarious Games.
+Dialogue: 0,2:06:05.69,2:06:07.39,Default,,0,0,0,,They want your signature, Wade.
+Dialogue: 0,2:06:15.26,2:06:17.53,Default,,0,0,0,,I'm splitting it with my clan.
+Dialogue: 0,2:06:17.53,2:06:19.40,Default,,0,0,0,,We're gonna run things together.
+Dialogue: 0,2:06:23.87,2:06:26.07,Default,,0,0,0,,That's a good choice.
+Dialogue: 0,2:06:53.87,2:06:57.47,Default,,0,0,0,,F'Nale, listen to me\Nvery carefully.
+Dialogue: 0,2:07:06.11,2:07:09.04,Default,,0,0,0,,Mr. Morrow... I mean, Og,
+Dialogue: 0,2:07:09.05,2:07:10.56,Default,,0,0,0,,how'd you get here so fast?
+Dialogue: 0,2:07:10.56,2:07:13.25,Default,,0,0,0,,I flew from the stars\Non my magic sleigh.
+Dialogue: 0,2:07:13.25,2:07:15.82,Default,,0,0,0,,Everyone's been watching.
+Dialogue: 0,2:07:15.82,2:07:19.12,Default,,0,0,0,,Of course, I've been watching\Na little closer than most.
+Dialogue: 0,2:07:23.10,2:07:25.00,Default,,0,0,0,,You?
+Dialogue: 0,2:07:25.00,2:07:26.31,Default,,0,0,0,,You're the Curator?
+Dialogue: 0,2:07:29.97,2:07:33.44,Default,,0,0,0,,Well played, Parzival.
+Dialogue: 0,2:07:33.44,2:07:35.47,Default,,0,0,0,,Jim told me\Nnothing about the contest,
+Dialogue: 0,2:07:35.48,2:07:38.85,Default,,0,0,0,,so there was no rule about me\Nlosing a bet to a smart kid.
+Dialogue: 0,2:07:38.85,2:07:41.48,Default,,0,0,0,,Not that you needed my help.
+Dialogue: 0,2:07:41.48,2:07:45.81,Default,,0,0,0,,You figured out that Kira\Nwas the key on your own.
+Dialogue: 0,2:07:45.82,2:07:48.53,Default,,0,0,0,,Yeah, but...\NKira wasn't the key.
+Dialogue: 0,2:07:49.79,2:07:51.72,Default,,0,0,0,,It was you, Mr. Morrow.
+Dialogue: 0,2:07:53.79,2:07:55.62,Default,,0,0,0,,You were the Rosebud.
+Dialogue: 0,2:07:55.63,2:07:57.90,Default,,0,0,0,,And Halliday's\Nbiggest regret was
+Dialogue: 0,2:07:59.53,2:08:01.20,Default,,0,0,0,,losing his only friend.
+Dialogue: 0,2:08:05.37,2:08:07.70,Default,,0,0,0,,You know,\NJim used to say the OASIS
+Dialogue: 0,2:08:07.71,2:08:10.25,Default,,0,0,0,,was never supposed to be\Na one-player game.
+Dialogue: 0,2:08:13.88,2:08:16.68,Default,,0,0,0,,Now, who do we have here?
+Dialogue: 0,2:08:16.68,2:08:19.35,Default,,0,0,0,,Oh. Well, look who it is.
+Dialogue: 0,2:08:19.35,2:08:21.12,Default,,0,0,0,,It's my heroes, the High Five.
+Dialogue: 0,2:08:21.12,2:08:22.79,Default,,0,0,0,,- You must be Art3mis.\N- Samantha.
+Dialogue: 0,2:08:22.79,2:08:24.72,Default,,0,0,0,,The High Five\Ntook over the OASIS,
+Dialogue: 0,2:08:24.73,2:08:26.63,Default,,0,0,0,,and the first thing we did
+Dialogue: 0,2:08:26.63,2:08:29.87,Default,,0,0,0,,was sign Ogden Morrow to\Na non-exclusive consultancy.
+Dialogue: 0,2:08:29.87,2:08:32.86,Default,,0,0,0,,The salary, per his demand,
+Dialogue: 0,2:08:32.87,2:08:36.14,Default,,0,0,0,,was 25 cents. One quarter.
+Dialogue: 0,2:08:39.34,2:08:41.75,Default,,0,0,0,,With his guidance,\Nour second move was to ban
+Dialogue: 0,2:08:41.75,2:08:45.21,Default,,0,0,0,,any loyalty centers\Nfrom accessing the OASIS.
+Dialogue: 0,2:08:45.21,2:08:48.71,Default,,0,0,0,,IOI had no choice.\NThey shut 'em all down.
+Dialogue: 0,2:08:51.42,2:08:54.42,Default,,0,0,0,,The third thing we did\Nwasn't as popular.
+Dialogue: 0,2:08:54.42,2:08:58.42,Default,,0,0,0,,We closed the OASIS\Non Tuesdays and Thursdays.
+Dialogue: 0,2:08:58.43,2:09:00.93,Default,,0,0,0,,I know, it sounds\Nlike a weird move,
+Dialogue: 0,2:09:00.93,2:09:03.90,Default,,0,0,0,,but people need to spend\Nmore time in the real world.
+Dialogue: 0,2:09:05.50,2:09:08.57,Default,,0,0,0,,'Cause, like Halliday said,
+Dialogue: 0,2:09:08.57,2:09:12.98,Default,,0,0,0,,reality is the only thing\Nthat's real.

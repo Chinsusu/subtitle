@@ -1,0 +1,1625 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.30,0:00:11.70,Default,,0,0,0,,Sarikata Oleh: BlackCape\N- Malaysia Subbers Crew -
+Dialogue: 0,0:00:49.03,0:00:50.91,Default,,0,0,0,,COLUMBUS, OHIO, 2045.
+Dialogue: 0,0:00:50.91,0:00:55.50,Default,,0,0,0,,COLUMBUS, OHIO, 2045.\N"TIMBUNAN"
+Dialogue: 0,0:01:16.17,0:01:19.20,Default,,0,0,0,,{\i1}Bersedia untuk merasai realiti. X1.{\i0}
+Dialogue: 0,0:01:19.22,0:01:22.16,Default,,0,0,0,,{\i1}Tiada kemajuan\Ntanpa pengorbanan.{\i0}
+Dialogue: 0,0:01:44.19,0:01:45.19,Default,,0,0,0,,{\i1}Piza, semua.{\i0}
+Dialogue: 0,0:02:07.41,0:02:09.58,Default,,0,0,0,,Hai, Wade.\N- Hai, Pn. Gilmore.
+Dialogue: 0,0:02:10.06,0:02:13.18,Default,,0,0,0,,Kenapa ni?\NAwak sedih?
+Dialogue: 0,0:02:18.14,0:02:19.99,Default,,0,0,0,,{\i1}Saya lahir pada tahun 2027.{\i0}
+Dialogue: 0,0:02:20.75,0:02:24.07,Default,,0,0,0,,{\i1}Setelah kekurangan sirap jagung,\Ngangguan jalur lebar,...{\i0}
+Dialogue: 0,0:02:24.10,0:02:26.23,Default,,0,0,0,,{\i1}selepas manusia berhenti\Nmenyelesaikan masalah...{\i0}
+Dialogue: 0,0:02:26.32,0:02:28.96,Default,,0,0,0,,{\i1}dan cuba tanganinya.{\i0}
+Dialogue: 0,0:02:36.01,0:02:38.12,Default,,0,0,0,,{\i1}Mak-ayah saya meninggal\Nketika era itu semua,...{\i0}
+Dialogue: 0,0:02:38.15,0:02:40.81,Default,,0,0,0,,{\i1}jadi saya tinggal di Columbus, Ohio,\Nbersama Makcik Alice.{\i0}
+Dialogue: 0,0:02:42.00,0:02:46.27,Default,,0,0,0,,{\i1}Pada tahun 2045, ini adalah kota\Nterpesat berkembang di Bumi.{\i0}
+Dialogue: 0,0:02:47.48,0:02:50.52,Default,,0,0,0,,{\i1}Di sinilah Haliday dan Morrow\Nmenganjurkan Gregarious Games.{\i0}
+Dialogue: 0,0:02:55.77,0:02:57.91,Default,,0,0,0,,{\i1}Masa kini, dunia realiti\Nsangat membosankan.{\i0}
+Dialogue: 0,0:02:58.11,0:03:00.51,Default,,0,0,0,,{\i1}Semua orang mahu lari\Ndari tekanan hidup.{\i0}
+Dialogue: 0,0:03:00.53,0:03:03.21,Default,,0,0,0,,{\i1}Dan sebab itu Haliday\Ndianggap wira oleh kami.{\i0}
+Dialogue: 0,0:03:04.11,0:03:05.71,Default,,0,0,0,,{\i1}Dia tunjuk bahawa kami\Nboleh pergi ke mana saja.{\i0}
+Dialogue: 0,0:03:05.74,0:03:07.15,Default,,0,0,0,,{\i1}Tanpa harus ke mana-mana.{\i0}
+Dialogue: 0,0:03:09.88,0:03:11.88,Default,,0,0,0,,{\i1}Anda tak perlukan destinasi\Nbila anda berlari...{\i0}
+Dialogue: 0,0:03:11.90,0:03:13.59,Default,,0,0,0,,{\i1}atas pengisar injakan\Npelbagai arah...{\i0}
+Dialogue: 0,0:03:13.62,0:03:15.71,Default,,0,0,0,,{\i1}dengan lapik kuasa\Ndinamik sensitif tekanan.{\i0}
+Dialogue: 0,0:03:16.55,0:03:18.40,Default,,0,0,0,,{\i1}James Halliday melihat masa depan,...{\i0}
+Dialogue: 0,0:03:19.03,0:03:22.68,Default,,0,0,0,,{\i1}dan dia yang menciptanya.\NDia beri kami tempat untuk kami tuju.{\i0}
+Dialogue: 0,0:03:23.00,0:03:24.78,Default,,0,0,0,,{\i1}Tempat yang bernama...{\i0}
+Dialogue: 0,0:03:25.19,0:03:26.76,Default,,0,0,0,,{\i1}OASIS.{\i0}
+Dialogue: 0,0:03:39.86,0:03:41.17,Default,,0,0,0,,{\i1}Ini OASIS.{\i0}
+Dialogue: 0,0:03:42.06,0:03:45.59,Default,,0,0,0,,{\i1}Ini adalah tempat di mana\Nhad realiti ialah dari imajinasi anda.{\i0}
+Dialogue: 0,0:03:49.21,0:03:50.48,Default,,0,0,0,,TAUFAN LUNCUR UDARA
+Dialogue: 0,0:03:59.60,0:04:01.25,Default,,0,0,0,,{\i1}Anda boleh buat apa saja.{\i0}
+Dialogue: 0,0:04:02.65,0:04:03.67,Default,,0,0,0,,{\i1}Pergi ke mana saja.{\i0}
+Dialogue: 0,0:04:05.55,0:04:09.48,Default,,0,0,0,,{\i1}Misalnya bercuti di planet lain.\NMeluncur ombak setinggi 50 kaki di Hawaii.{\i0}
+Dialogue: 0,0:04:10.07,0:04:11.80,Default,,0,0,0,,{\i1}Meluncur ski di atas Piramid.{\i0}
+Dialogue: 0,0:04:13.02,0:04:14.42,Default,,0,0,0,,{\i1}Mendaki Gunung Everest...{\i0}
+Dialogue: 0,0:04:14.84,0:04:16.16,Default,,0,0,0,,{\i1}bersama Batman.{\i0}
+Dialogue: 0,0:04:18.93,0:04:22.21,Default,,0,0,0,,{\i1}Tengoklah tempat ini.\NIni adalah kasino sebesar planet.{\i0}
+Dialogue: 0,0:04:22.67,0:04:24.92,Default,,0,0,0,,{\i1}Anda boleh bazirkan duit di sana.\NAnda boleh berkawin...{\i0}
+Dialogue: 0,0:04:25.42,0:04:28.31,Default,,0,0,0,,{\i1}bercerai, anda boleh masuk ke dalam.{\i0}
+Dialogue: 0,0:04:30.41,0:04:32.99,Default,,0,0,0,,{\i1}Orang datang ke OASIS untuk buat\Nsemua yang mereka ingin buat.{\i0}
+Dialogue: 0,0:04:33.67,0:04:36.58,Default,,0,0,0,,{\i1}Tetapi mereka lepak di sini\Nkerana mereka boleh jadi apa saja.{\i0}
+Dialogue: 0,0:04:38.30,0:04:41.55,Default,,0,0,0,,{\i1}Tinggi, cantik, menakutkan,\Njantina berlainan...{\i0}
+Dialogue: 0,0:04:41.95,0:04:46.86,Default,,0,0,0,,{\i1}Spesies berbeza, aksi hidup, kartun.\NApa saja anda nak.{\i0}
+Dialogue: 0,0:04:47.79,0:04:50.67,Default,,0,0,0,,{\i1}Ya, itu saya.\NYa, ini avatar saya.{\i0}
+Dialogue: 0,0:04:51.20,0:04:53.32,Default,,0,0,0,,{\i1}Buat masa sekarang.\NSehinggalah saya nak tukar semula.{\i0}
+Dialogue: 0,0:04:55.24,0:04:57.28,Default,,0,0,0,,{\i1}Selain makan, tidur\Ndan pergi tandas,...{\i0}
+Dialogue: 0,0:04:57.30,0:04:59.83,Default,,0,0,0,,{\i1}apa saja orang buat,\Nmereka akan buat di OASIS.{\i0}
+Dialogue: 0,0:05:01.55,0:05:04.22,Default,,0,0,0,,{\i1}Oleh kerana semua orang di sini,\Ndi sinilah kami bertemu.{\i0}
+Dialogue: 0,0:05:04.24,0:05:05.53,Default,,0,0,0,,{\i1}Di sinilah kami berkenalan.{\i0}
+Dialogue: 0,0:05:06.01,0:05:07.30,Default,,0,0,0,,{\i1}Cari Aech.{\i0}
+Dialogue: 0,0:05:09.08,0:05:10.38,Default,,0,0,0,,{\i1}Mencari Aech.{\i0}
+Dialogue: 0,0:05:13.44,0:05:14.78,Default,,0,0,0,,{\i1}Aech ditemui.{\i0}
+Dialogue: 0,0:05:15.56,0:05:17.91,Default,,0,0,0,,{\i1}Sektor 12, Planet Doom.{\i0}
+Dialogue: 0,0:05:18.94,0:05:21.98,Default,,0,0,0,,{\i1}Planet Doom, tempat\Npaling berbahaya dalam OASIS.{\i0}
+Dialogue: 0,0:05:22.29,0:05:27.49,Default,,0,0,0,,{\i1}Dan tempat yang baik untuk kumpul syiling.\NDah agak, Aech mesti di sana.{\i0}
+Dialogue: 0,0:05:29.53,0:05:31.53,Default,,0,0,0,,{\i1}Aech ialah kawan rapat saya di OASIS.{\i0}
+Dialogue: 0,0:05:32.94,0:05:38.47,Default,,0,0,0,,{\i1}Dalam kata lain, dia sahabat saya.\NWalaupun kami tak kenal di dunia nyata.{\i0}
+Dialogue: 0,0:05:42.48,0:05:44.33,Default,,0,0,0,,{\i1}Apa khabar, Aech?\N- Apahal, Z?{\i0}
+Dialogue: 0,0:05:44.74,0:05:46.45,Default,,0,0,0,,Perlumbaan seterusnya\Ndalam masa 20 minit...
+Dialogue: 0,0:05:46.47,0:05:48.19,Default,,0,0,0,,dan saya tak boleh lambat.\NAwak buat apa?
+Dialogue: 0,0:05:48.87,0:05:50.87,Default,,0,0,0,,Saya tengah bunuh orang, kawan.
+Dialogue: 0,0:05:51.57,0:05:53.72,Default,,0,0,0,,{\i1}Itu Daito?\N- Daito dan Sho.{\i0}
+Dialogue: 0,0:05:58.42,0:05:59.99,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:06:00.47,0:06:03.88,Default,,0,0,0,,{\i1}Itu pencarian artifak?\N- Ya. Gargarious 120.{\i0}
+Dialogue: 0,0:06:04.32,0:06:07.77,Default,,0,0,0,,{\i1}Ubah kepada sebarang robot\Ngergasi selama 2 minit. Dahsyat.{\i0}
+Dialogue: 0,0:06:09.01,0:06:10.01,Default,,0,0,0,,{\i1}Artifak.{\i0}
+Dialogue: 0,0:06:11.12,0:06:12.55,Default,,0,0,0,,{\i1}Itulah kunci.{\i0}
+Dialogue: 0,0:06:14.07,0:06:15.93,Default,,0,0,0,,{\i1}Halliday memastikan\NOASIS dipenuhi...{\i0}
+Dialogue: 0,0:06:15.96,0:06:18.50,Default,,0,0,0,,{\i1}dengan benda rambang\Nyang ada kuasa luarbiasa...{\i0}
+Dialogue: 0,0:06:18.79,0:06:21.79,Default,,0,0,0,,{\i1}yang boleh dimenangi oleh\Nsesiapa saja jika mereka bijak.{\i0}
+Dialogue: 0,0:06:23.23,0:06:26.79,Default,,0,0,0,,{\i1}Pertarungan maut dan pencarian artifak\Nialah cara untuk merebut syiling,...{\i0}
+Dialogue: 0,0:06:26.81,0:06:29.33,Default,,0,0,0,,{\i1}tapi bergantung kepada tahap\Npertahanan awak, agak merbahaya.{\i0}
+Dialogue: 0,0:06:30.49,0:06:32.06,Default,,0,0,0,,{\i1}Semua orang bermula pada\Ntahap yang sama,...{\i0}
+Dialogue: 0,0:06:32.08,0:06:33.68,Default,,0,0,0,,{\i1}tapi makin banyak\Nsyiling anda raih...{\i0}
+Dialogue: 0,0:06:33.98,0:06:35.88,Default,,0,0,0,,{\i1}Mak!\N- Tahap anda makin tinggi.{\i0}
+Dialogue: 0,0:06:35.88,0:06:37.89,Default,,0,0,0,,{\i1}Jika anda mati, avatar anda\Nakan hidup semula...{\i0}
+Dialogue: 0,0:06:37.91,0:06:40.15,Default,,0,0,0,,{\i1}anda akan hilang semua aset anda.\N- Panggil ayah kamu!{\i0}
+Dialogue: 0,0:06:42.69,0:06:44.83,Default,,0,0,0,,{\i1}Semua hasil keringat anda.{\i0}
+Dialogue: 0,0:06:45.73,0:06:46.97,Default,,0,0,0,,{\i1}Semua duit anda...{\i0}
+Dialogue: 0,0:06:49.29,0:06:50.29,Default,,0,0,0,,{\i1}pakaian anda,...{\i0}
+Dialogue: 0,0:06:52.16,0:06:53.16,Default,,0,0,0,,{\i1}senjata anda.{\i0}
+Dialogue: 0,0:06:54.19,0:06:57.51,Default,,0,0,0,,{\i1}Memandangkan ramai orang habiskan\Nsebahagian besar waktu mereka di OASIS...{\i0}
+Dialogue: 0,0:06:59.88,0:07:01.98,Default,,0,0,0,,{\i1}Kalah bermakna...{\i0}
+Dialogue: 0,0:07:02.68,0:07:04.08,Default,,0,0,0,,{\i1}anda akan hilang pertimbangan.{\i0}
+Dialogue: 0,0:07:06.59,0:07:08.29,Default,,0,0,0,,{\i1}Aech, 10 minit lagi\Nperlumbaan bermula.{\i0}
+Dialogue: 0,0:07:09.01,0:07:10.37,Default,,0,0,0,,Baiklah, mak.\NSaya dengar.
+Dialogue: 0,0:07:11.05,0:07:14.85,Default,,0,0,0,,{\i1}OASIS ialah\Nhasil ciptaan James Halliday.{\i0}
+Dialogue: 0,0:07:15.27,0:07:19.62,Default,,0,0,0,,{\i1}Dia dan rakannya Ogden Morrow melancarkan\NOASIS pertama pada tahun 2025.{\i0}
+Dialogue: 0,0:07:20.18,0:07:24.00,Default,,0,0,0,,{\i1}Ia menjadi terkenal tanpa disedari\Nsekaligus menjadikan mereka berdua kaya.{\i0}
+Dialogue: 0,0:07:24.36,0:07:26.56,Default,,0,0,0,,{\i1}Tapi Morrow tidak terbabit lagi\Nbeberapa tahun kemudian.{\i0}
+Dialogue: 0,0:07:26.94,0:07:30.54,Default,,0,0,0,,{\i1}Dan Halliday, bukan saja pemilik\Nsyarikat terbesar di dunia.{\i0}
+Dialogue: 0,0:07:31.33,0:07:33.19,Default,,0,0,0,,{\i1}Dia umpama dewa.{\i0}
+Dialogue: 0,0:07:33.86,0:07:35.01,Default,,0,0,0,,{\i1}Orang sukakan dia.{\i0}
+Dialogue: 0,0:07:35.39,0:07:37.54,Default,,0,0,0,,{\i1}Mereka puja dia sama seperti\Nmereka memuja ciptaannya.{\i0}
+Dialogue: 0,0:07:37.86,0:07:42.04,Default,,0,0,0,,Jangan bercakap pasal ia lagi,\Ndan terus tunjukkan saja.
+Dialogue: 0,0:07:42.89,0:07:45.34,Default,,0,0,0,,Kalau kalian tengok di bawah\Ntempat duduk kalian,...
+Dialogue: 0,0:07:45.37,0:07:47.26,Default,,0,0,0,,kalian akan dapati\Ntiada apa di situ.
+Dialogue: 0,0:07:47.54,0:07:50.98,Default,,0,0,0,,Tapi kami akan\Nbawakan satu sekarang.
+Dialogue: 0,0:07:51.89,0:07:54.75,Default,,0,0,0,,{\i1}Dan kemudian, pada 7 Januari 2040...{\i0}
+Dialogue: 0,0:07:58.78,0:07:59.78,Default,,0,0,0,,{\i1}Dia meninggal.{\i0}
+Dialogue: 0,0:08:00.10,0:08:02.86,Default,,0,0,0,,LIBERTI - KEPERCAYAAN KEPADA TUHAN
+Dialogue: 0,0:08:02.94,0:08:03.98,Default,,0,0,0,,{\i1}Dan tinggalan dia...{\i0}
+Dialogue: 0,0:08:05.27,0:08:06.95,Default,,0,0,0,,{\i1}telah mengubah segalanya.{\i0}
+Dialogue: 0,0:08:20.39,0:08:21.39,Default,,0,0,0,,{\i1}Helo,...{\i0}
+Dialogue: 0,0:08:22.37,0:08:23.71,Default,,0,0,0,,{\i1}Saya James Halliday.{\i0}
+Dialogue: 0,0:08:24.55,0:08:26.79,Default,,0,0,0,,{\i1}Jika anda menonton video ini,\Nbermakna saya telah mati.{\i0}
+Dialogue: 0,0:08:28.16,0:08:29.61,Default,,0,0,0,,{\i1}Sebelum saya mati,...{\i0}
+Dialogue: 0,0:08:29.63,0:08:33.97,Default,,0,0,0,,{\i1}saya cipta apa yang dipanggil\N"Telur Easter" dalam istilah perniagaan.{\i0}
+Dialogue: 0,0:08:35.08,0:08:37.90,Default,,0,0,0,,{\i1}Objek tersembunyi dalam\Npermainan yang...{\i0}
+Dialogue: 0,0:08:37.92,0:08:41.75,Default,,0,0,0,,{\i1}memberi kuasa istimewa\Nkepada sesiapa yang jumpainya.{\i0}
+Dialogue: 0,0:08:43.69,0:08:49.36,Default,,0,0,0,,{\i1}Orang pertama yang temui telur\Nyang saya sembunyikan dalam OASIS...{\i0}
+Dialogue: 0,0:08:49.88,0:08:53.16,Default,,0,0,0,,{\i1}akan mewarisi saham saya\Ndalam Gargarious Game.{\i0}
+Dialogue: 0,0:08:53.18,0:08:56.53,Default,,0,0,0,,{\i1}Yang kini bernilau\Nlebih dari setengah juta...{\i0}
+Dialogue: 0,0:08:57.16,0:08:59.41,Default,,0,0,0,,{\i1}Setengah trilion dolar.{\i0}
+Dialogue: 0,0:09:00.27,0:09:04.82,Default,,0,0,0,,{\i1}Dan penguasaan\Npenuh ke atas OASIS.{\i0}
+Dialogue: 0,0:09:06.69,0:09:11.97,Default,,0,0,0,,{\i1}Dalam bentuk avatar saya sendiri,\NAnorak yang Maha Mengetahui,..{\i0}
+Dialogue: 0,0:09:12.42,0:09:15.12,Default,,0,0,0,,{\i1}Saya mencipta tiga kunci.{\i0}
+Dialogue: 0,0:09:16.17,0:09:19.87,Default,,0,0,0,,{\i1}3 ujian cabaran tersembunyi\Nuntuk mencari sifat terpuji...{\i0}
+Dialogue: 0,0:09:19.89,0:09:23.66,Default,,0,0,0,,{\i1}mendedahkan tiga kunci\Ntersorok kepada tiga pintu sakti.{\i0}
+Dialogue: 0,0:09:23.73,0:09:27.66,Default,,0,0,0,,{\i1}Mereka yang ada kehandalan\Nuntuk mengharunginya...{\i0}
+Dialogue: 0,0:09:28.05,0:09:32.11,Default,,0,0,0,,{\i1}akan tiba di penghujung,\Ndi mana hadiah itu menanti mereka.{\i0}
+Dialogue: 0,0:09:32.84,0:09:34.75,Default,,0,0,0,,{\i1}Pergilah, wahai kunci-kunci!{\i0}
+Dialogue: 0,0:09:37.53,0:09:42.28,Default,,0,0,0,,{\i1}Kunci itu tidak disorok\Ndibawah batu-batan.{\i0}
+Dialogue: 0,0:09:42.67,0:09:45.11,Default,,0,0,0,,{\i1}Boleh dikatakan ia takkan nampak,..{\i0}
+Dialogue: 0,0:09:45.14,0:09:48.65,Default,,0,0,0,,{\i1}Tersembunyi dalam bilik\Ngelap di tengah selirat.{\i0}
+Dialogue: 0,0:09:48.66,0:09:55.23,Default,,0,0,0,,{\i1}Dalam selirat di atas sini.{\i0}
+Dialogue: 0,0:09:55.26,0:10:00.62,Default,,0,0,0,,{\i1}Secara rasminya, saya umumkan pemburuan\Ntelur Easter Halliday kini bermula.{\i0}
+Dialogue: 0,0:10:01.42,0:10:05.17,Default,,0,0,0,,BlackCape@MalaySubsCrew
+Dialogue: 0,0:10:07.92,0:10:10.22,Default,,0,0,0,,{\i1}Cabarannya ialah mencari tiga kunci.{\i0}
+Dialogue: 0,0:10:10.31,0:10:13.18,Default,,0,0,0,,{\i1}Tapi setelah lima tahun,\Nbelum satu pun kunci pernah ditemui.{\i0}
+Dialogue: 0,0:10:13.86,0:10:16.11,Default,,0,0,0,,{\i1}Papan mata besar itu?\NMasih kosong.{\i0}
+Dialogue: 0,0:10:16.50,0:10:16.91,Default,,0,0,0,,YANG PERTAMA JUMPA KUNCI!
+Dialogue: 0,0:10:16.93,0:10:18.67,Default,,0,0,0,,{\i1}Ada gunter yang telah\Nlama dilupakan jumpa...{\i0}
+Dialogue: 0,0:10:18.69,0:10:20.49,Default,,0,0,0,,{\i1}petunjuk pertama dan\Njumpa cabaran pertama.{\i0}
+Dialogue: 0,0:10:20.70,0:10:22.76,Default,,0,0,0,,{\i1}Kemudian portal ini muncul.{\i0}
+Dialogue: 0,0:10:23.49,0:10:26.56,Default,,0,0,0,,{\i1}Tapi cabaran untuk memenangi kunci\Npertama ialah perlumbaan...{\i0}
+Dialogue: 0,0:10:26.59,0:10:29.72,Default,,0,0,0,,{\i1}direka Halliday yang agak susah\Ndan tiada siapa berjaya menamatkannya.{\i0}
+Dialogue: 0,0:10:29.87,0:10:33.24,Default,,0,0,0,,{\i1}Yang masih mencuba\Nialah para gunter, yakni 'Pemburu telur.'{\i0}
+Dialogue: 0,0:10:33.26,0:10:36.21,Default,,0,0,0,,{\i1}Seperti saya, Shaw dan Daito,\Ndan kawan baik saya, Aech.{\i0}
+Dialogue: 0,0:10:37.51,0:10:39.95,Default,,0,0,0,,{\i1}Dan, tentulah, kumpulan Sixer.{\i0}
+Dialogue: 0,0:10:40.86,0:10:43.94,Default,,0,0,0,,{\i1}Sixer bekerja untuk IOI,\NIndustri Online Inovatif.{\i0}
+Dialogue: 0,0:10:44.63,0:10:46.47,Default,,0,0,0,,{\i1}Merekalah syarikat\Nterbesar dunia...{\i0}
+Dialogue: 0,0:10:46.50,0:10:48.98,Default,,0,0,0,,{\i1}bersama rekaan yang\Nbakal menjadi nombor satu.{\i0}
+Dialogue: 0,0:10:49.20,0:10:50.63,Default,,0,0,0,,{\i1}Sebab itulah mereka\Ngunakan apa saja...{\i0}
+Dialogue: 0,0:10:50.65,0:10:52.63,Default,,0,0,0,,{\i1}mereka miliki untuk menangi\Npertandingan Halliday.{\i0}
+Dialogue: 0,0:10:52.66,0:10:54.22,Default,,0,0,0,,Pakai tali keledar!
+Dialogue: 0,0:10:54.88,0:10:56.25,Default,,0,0,0,,Duduk!
+Dialogue: 0,0:10:56.76,0:11:00.34,Default,,0,0,0,,{\i1}Kami gelar mereka Sixer sebab\Nitu peraturan syarikat itu,...{\i0}
+Dialogue: 0,0:11:00.37,0:11:01.95,Default,,0,0,0,,{\i1}tiada nama, cuma angka.{\i0}
+Dialogue: 0,0:11:02.97,0:11:05.78,Default,,0,0,0,,{\i1}Mereka ada pasukan bantuan yang terdiri\Ndaripada cendekiawan Halliday.{\i0}
+Dialogue: 0,0:11:05.81,0:11:06.52,Default,,0,0,0,,{\i1}Seperti saya, mereka\Nhabiskan masa...{\i0}
+Dialogue: 0,0:11:06.54,0:11:09.91,Default,,0,0,0,,{\i1}mengkaji budaya pop yang\Nmenjadi obsesi Halliday.{\i0}
+Dialogue: 0,0:11:09.98,0:11:12.33,Default,,0,0,0,,{\i1}Mereka mencari petunjuk\Nbagi memenangi pertandingan itu.{\i0}
+Dialogue: 0,0:11:14.70,0:11:17.51,Default,,0,0,0,,{\i1}Mereka cuma ikut\Narahan ketua IOI.{\i0}
+Dialogue: 0,0:11:17.54,0:11:20.59,Default,,0,0,0,,{\i1}Si bengap yang bernama\NNdan Sorrento.{\i0}
+Dialogue: 0,0:11:27.25,0:11:29.95,Default,,0,0,0,,Bagaimana kau sampai dulu?\N- Aku tak berhenti di salun rambut.
+Dialogue: 0,0:11:30.88,0:11:32.61,Default,,0,0,0,,{\i1}Apa khabar, Z?\N- Apa khabar, Aech?{\i0}
+Dialogue: 0,0:11:33.35,0:11:35.60,Default,,0,0,0,,Aku dapatkan tempat untuk kau.\N- Terima kasih, bro.
+Dialogue: 0,0:11:40.23,0:11:41.38,Default,,0,0,0,,Aku nak pergi ke belakang.
+Dialogue: 0,0:11:41.40,0:11:44.22,Default,,0,0,0,,Untuk curi syiling dan\Nkereta yang terbabas?
+Dialogue: 0,0:11:44.35,0:11:47.58,Default,,0,0,0,,Teruk betul.\N- Minyak aku dah nak habis!
+Dialogue: 0,0:11:47.60,0:11:51.13,Default,,0,0,0,,Tapi kau masih ada duit untuk buat\Ngaya rambut {\i1}Something About Mary{\i0}!
+Dialogue: 0,0:12:31.66,0:12:32.54,Default,,0,0,0,,SEDIA
+Dialogue: 0,0:12:32.56,0:12:33.64,Default,,0,0,0,,Yang pertama jumpa kunci!
+Dialogue: 0,0:12:34.91,0:12:36.10,Default,,0,0,0,,Yang pertama jumpa telur!
+Dialogue: 0,0:13:25.53,0:13:26.96,Default,,0,0,0,,{\i1}Aech, kau tengok ini?{\i0}
+Dialogue: 0,0:13:30.05,0:13:32.70,Default,,0,0,0,,{\i1}Ya, aku nampak. Itu motosikal\NKaneda dari filem Akira.{\i0}
+Dialogue: 0,0:13:32.73,0:13:35.01,Default,,0,0,0,,{\i1}Corak rekaan berlesen\Ndengan kerangka standard.{\i0}
+Dialogue: 0,0:13:35.02,0:13:36.81,Default,,0,0,0,,Tak, bukan motosikal!\NLupakan motosikal itu!
+Dialogue: 0,0:13:37.65,0:13:39.45,Default,,0,0,0,,{\i1}Gadis itu, aku ingat itu Art3mis!{\i0}
+Dialogue: 0,0:13:39.45,0:13:41.78,Default,,0,0,0,,{\i1}Dia Art3mis?\NPembunuh Sixer itu?{\i0}
+Dialogue: 0,0:13:41.91,0:13:44.63,Default,,0,0,0,,{\i1}Aku pernah tengok semua\Ndemonstrasi dia, siaran Twitch dia.{\i0}
+Dialogue: 0,0:13:44.66,0:13:46.95,Default,,0,0,0,,Itu dia!\NAku pasti!
+Dialogue: 0,0:15:33.85,0:15:35.89,Default,,0,0,0,,Pergi ke sana!\NCepat!
+Dialogue: 0,0:15:40.15,0:15:41.19,Default,,0,0,0,,{\i1}GARISAN PENAMAT{\i0}
+Dialogue: 0,0:15:41.56,0:15:42.56,Default,,0,0,0,,Kau boleh!
+Dialogue: 0,0:15:52.18,0:15:53.18,Default,,0,0,0,,Teruk!
+Dialogue: 0,0:15:59.44,0:16:00.57,Default,,0,0,0,,Dia takkan berjaya.
+Dialogue: 0,0:16:03.02,0:16:04.02,Default,,0,0,0,,Jangan!
+Dialogue: 0,0:16:04.02,0:16:05.72,Default,,0,0,0,,Jangan!
+Dialogue: 0,0:16:45.10,0:16:46.48,Default,,0,0,0,,Sayangnya,\Naku suka motosikal itu.
+Dialogue: 0,0:16:46.50,0:16:48.59,Default,,0,0,0,,{\i1}Aech boleh, dia kawan aku...{\i0}
+Dialogue: 0,0:16:48.93,0:16:50.15,Default,,0,0,0,,dia boleh baiki untuk kau.
+Dialogue: 0,0:16:57.73,0:16:59.70,Default,,0,0,0,,Ini bengkel aku.\NJangan sentuh apa-apa.
+Dialogue: 0,0:17:06.89,0:17:08.49,Default,,0,0,0,,{\i1}Di mana kau jumpa Iron Giant ini?{\i0}
+Dialogue: 0,0:17:09.06,0:17:10.49,Default,,0,0,0,,Jumpa?\NAku yang bina.
+Dialogue: 0,0:17:11.04,0:17:14.32,Default,,0,0,0,,{\i1}Aku diupah untuk binanya.\N- Ya, Aech pengubahsuai yang ternama.{\i0}
+Dialogue: 0,0:17:14.85,0:17:17.20,Default,,0,0,0,,{\i1}Orang di OASIS sanggup\Nbayar dia upah yang mahal.{\i0}
+Dialogue: 0,0:17:17.93,0:17:19.13,Default,,0,0,0,,Tengok ini!
+Dialogue: 0,0:17:20.35,0:17:21.48,Default,,0,0,0,,{\i1}Hei, Z.{\i0}
+Dialogue: 0,0:17:23.40,0:17:26.03,Default,,0,0,0,,{\i1}Galatctica, baiklah.\N- Itu barang aku. - Sulaco.{\i0}
+Dialogue: 0,0:17:26.05,0:17:28.65,Default,,0,0,0,,{\i1}Daripada filem Aliens.\N- Kawan, kenapa kau tunjuk barang aku?{\i0}
+Dialogue: 0,0:17:28.72,0:17:32.00,Default,,0,0,0,,{\i1}Valley Forge. Daripada Silent Running.\NMana Kapal Muatan Herkonnen?{\i0}
+Dialogue: 0,0:17:32.01,0:17:34.22,Default,,0,0,0,,Benda ini gempak!\NMerentas ruang dengan laju.
+Dialogue: 0,0:17:34.51,0:17:37.33,Default,,0,0,0,,Kau boleh pergi ke Arrakis dari\NIncipio dalam masa tiga saat. - Jari!
+Dialogue: 0,0:17:37.42,0:17:41.19,Default,,0,0,0,,Maafkan dia. Dia menggelabah\Nbila ada gadis cantik.
+Dialogue: 0,0:17:48.23,0:17:50.14,Default,,0,0,0,,Aku boleh baikinya dalam 10 minit.
+Dialogue: 0,0:17:52.20,0:17:53.51,Default,,0,0,0,,Ya.
+Dialogue: 0,0:17:53.95,0:17:55.25,Default,,0,0,0,,Dia cukup hebat.
+Dialogue: 0,0:17:55.27,0:17:57.37,Default,,0,0,0,,Aku anggap kau dan\NShoulder Blades satu geng.
+Dialogue: 0,0:17:57.85,0:18:02.32,Default,,0,0,0,,Oh, Aech? Tidak!\NDia sangat bagus,...
+Dialogue: 0,0:18:02.53,0:18:04.99,Default,,0,0,0,,tapi saya tiada geng.
+Dialogue: 0,0:18:06.15,0:18:07.65,Default,,0,0,0,,Sebab kau Parzival...
+Dialogue: 0,0:18:07.66,0:18:10.30,Default,,0,0,0,,macam ksatria yang temui\NCangkir Keramat seorang dirinya.
+Dialogue: 0,0:18:10.33,0:18:12.98,Default,,0,0,0,,Macam mana dengan kau, Art3mis?\NDewi Pemburu.
+Dialogue: 0,0:18:13.39,0:18:15.35,Default,,0,0,0,,Pasti ramai kumpulan\Nmahu rekrut kau.
+Dialogue: 0,0:18:16.82,0:18:19.03,Default,,0,0,0,,Penembak kegemaran?\N- Apa dia?
+Dialogue: 0,0:18:19.05,0:18:20.97,Default,,0,0,0,,Penembak orang pertama\Nkegemaran James Halliday.
+Dialogue: 0,0:18:21.00,0:18:22.25,Default,,0,0,0,,Apa?\N- {\i1}GoldenEye{\i0}.
+Dialogue: 0,0:18:22.26,0:18:24.42,Default,,0,0,0,,Bermain sebagai?\N- {\i1}Oddjob{\i0}. Ini ujian apa?
+Dialogue: 0,0:18:24.43,0:18:25.69,Default,,0,0,0,,Varian permainan kegemaran?
+Dialogue: 0,0:18:25.72,0:18:27.58,Default,,0,0,0,,Varian permainan ialah '{\i1}Tangan kosong{\i0}'.\NTanpa senjata.
+Dialogue: 0,0:18:27.60,0:18:28.82,Default,,0,0,0,,Aku tahu apa makna\N'tangan kosong'.
+Dialogue: 0,0:18:28.83,0:18:30.36,Default,,0,0,0,,Pelumba?\N- Turbo.
+Dialogue: 0,0:18:30.37,0:18:31.87,Default,,0,0,0,,Dan makanan kegemarannya\Nialah Hot Pockets.
+Dialogue: 0,0:18:31.88,0:18:33.28,Default,,0,0,0,,Restoran kegemaran ialah\NChuck E. Cheese's.
+Dialogue: 0,0:18:33.29,0:18:36.04,Default,,0,0,0,,Lagunya berjudul "{\i1} Video Killed the\NRadio Star{\i0}" oleh The Buggles.
+Dialogue: 0,0:18:36.07,0:18:38.64,Default,,0,0,0,,Video ialah "{\i1}Take on Me{\i0}" oleh A-ha.
+Dialogue: 0,0:18:39.27,0:18:41.71,Default,,0,0,0,,Kata-kata kegemarannya\Nialah daripada filem Superman.
+Dialogue: 0,0:18:42.47,0:18:45.43,Default,,0,0,0,,{\i1}"Sebahagian orang boleh baca 'War and\NPeace' dan menyangka..."{\i0}
+Dialogue: 0,0:18:45.45,0:18:46.55,Default,,0,0,0,,{\i1}ia kisah pengembaraan yang ringkas'.{\i0}
+Dialogue: 0,0:18:46.58,0:18:49.61,Default,,0,0,0,,{\i1}'Yang lain boleh membaca kandungan bahan\Ndibelakang pembalut gula getah...{\i0}
+Dialogue: 0,0:18:49.64,0:18:51.36,Default,,0,0,0,,{\i1}"...dan merungkai rahsia alam semesta."{\i0}
+Dialogue: 0,0:18:52.38,0:18:54.40,Default,,0,0,0,,Lex Luthor.
+Dialogue: 0,0:18:54.48,0:18:56.33,Default,,0,0,0,,Hebat!
+Dialogue: 0,0:18:57.45,0:18:59.83,Default,,0,0,0,,Apa kau buat jika kau menang?
+Dialogue: 0,0:19:00.08,0:19:01.73,Default,,0,0,0,,Maksud aku, seluruh pertandingan itu.
+Dialogue: 0,0:19:02.12,0:19:04.28,Default,,0,0,0,,Aku ada banyak perancangan\Ndalam dunia nyata.
+Dialogue: 0,0:19:04.29,0:19:06.58,Default,,0,0,0,,Aku akan pindah ke rumah agam besar.
+Dialogue: 0,0:19:06.90,0:19:09.66,Default,,0,0,0,,Beli barang gempak,\Ntak perlu kais pagi, makan pagi.
+Dialogue: 0,0:19:10.95,0:19:13.06,Default,,0,0,0,,Kini aku tahu kenapa kau gagal.
+Dialogue: 0,0:19:14.22,0:19:15.62,Default,,0,0,0,,Aku gagal gara-gara Kong.
+Dialogue: 0,0:19:15.63,0:19:19.25,Default,,0,0,0,,Tak ada siapa pernah lepasi Kong,\Nitu seperti peraturan.
+Dialogue: 0,0:19:19.28,0:19:20.62,Default,,0,0,0,,Kau tahu kan,\Nyang itu tak benar.
+Dialogue: 0,0:19:20.63,0:19:23.08,Default,,0,0,0,,Sebab Halliday tak suka\Nbuat peraturan.
+Dialogue: 0,0:19:23.11,0:19:25.42,Default,,0,0,0,,Aku tak boleh dibunuh.\N- Kau takut kehilangan aset kau.
+Dialogue: 0,0:19:25.44,0:19:26.19,Default,,0,0,0,,Mana ada.
+Dialogue: 0,0:19:26.22,0:19:27.82,Default,,0,0,0,,Apa jadi bila IOI tawarkan...
+Dialogue: 0,0:19:27.84,0:19:29.47,Default,,0,0,0,,jaminan syiling untuk\Nkunci kepada kerajaan itu?
+Dialogue: 0,0:19:29.49,0:19:31.60,Default,,0,0,0,,Nolan Sorrento\Nmengambil alih dunia.
+Dialogue: 0,0:19:31.85,0:19:35.90,Default,,0,0,0,,Gunter sejati akan pertaruhkan\Nsegalanya untuk selamatkan OASIS dari IOI.
+Dialogue: 0,0:19:36.31,0:19:38.24,Default,,0,0,0,,Siapa kata begitu?\N- Aku.
+Dialogue: 0,0:19:41.45,0:19:43.18,Default,,0,0,0,,Itu dia.\NBaik macam baru.
+Dialogue: 0,0:19:43.66,0:19:45.25,Default,,0,0,0,,Terima kasih kerana baikinya, kawan.
+Dialogue: 0,0:19:55.48,0:19:56.79,Default,,0,0,0,,Itu lebih baik.
+Dialogue: 0,0:19:57.62,0:19:59.54,Default,,0,0,0,,Aku akan lambai kau\Ndari garisan penamat,...
+Dialogue: 0,0:20:00.62,0:20:02.03,Default,,0,0,0,,McFly.
+Dialogue: 0,0:20:04.98,0:20:07.95,Default,,0,0,0,,Segalanya berjalan lancar.\N- Ini semua gara-gara kau, mulut becok.
+Dialogue: 0,0:20:08.26,0:20:09.41,Default,,0,0,0,,{\i1}Wade?{\i0}
+Dialogue: 0,0:20:09.44,0:20:10.50,Default,,0,0,0,,Wade!
+Dialogue: 0,0:20:10.53,0:20:13.50,Default,,0,0,0,,{\i1}Mana sarung tangan saya?{\i0}\N- Alamak, aku kena pergi.
+Dialogue: 0,0:20:16.85,0:20:21.43,Default,,0,0,0,,{\i1}X1.{\i0} Bila saya menjadi emas di Planet Doom,\Nsaya perlukan segala kelebihan yang ada.
+Dialogue: 0,0:20:21.90,0:20:25.46,Default,,0,0,0,,Setiap tolakan, tumbukan, tembakan,\Nanda akan rasai semuanya.
+Dialogue: 0,0:20:25.85,0:20:30.06,Default,,0,0,0,,{\i1}Bersedia untuk merasai pemngalaman\Nyang seakan realiti. X1{\i0}
+Dialogue: 0,0:20:30.09,0:20:32.56,Default,,0,0,0,,{\i1}X1 umpama memakai kulit berasingan.{\i0}
+Dialogue: 0,0:20:35.87,0:20:38.46,Default,,0,0,0,,Aku dibunuh kerana sarung tangan\Ntak berguna kau.
+Dialogue: 0,0:20:39.02,0:20:41.90,Default,,0,0,0,,Siapa suruh kau pakainya?\N- Kau ambil dia punya!
+Dialogue: 0,0:20:43.80,0:20:45.74,Default,,0,0,0,,Jadi, kau kalah dalam\Nperlawanan maut,...
+Dialogue: 0,0:20:45.77,0:20:49.24,Default,,0,0,0,,yang mana kau boleh hidup semula\Ndan mula sekali lagi macam semua orang.
+Dialogue: 0,0:20:49.59,0:20:51.06,Default,,0,0,0,,Kau tak faham.
+Dialogue: 0,0:20:51.09,0:20:53.97,Default,,0,0,0,,Aku beli semua kuasa luar biasa untuk\Ncabaran ini dan aku kalah semuanya.
+Dialogue: 0,0:20:54.01,0:20:56.33,Default,,0,0,0,,Artifak itu ialah untuk\Nmembiayai rumah ini!
+Dialogue: 0,0:20:56.36,0:20:59.76,Default,,0,0,0,,Tunggu! Berapa duit rumah kita\Nyang awak guna untuk penambahbaikan itu?
+Dialogue: 0,0:21:01.37,0:21:03.99,Default,,0,0,0,,Semuanya, tapi saya sepatutnya menang.
+Dialogue: 0,0:21:05.22,0:21:07.03,Default,,0,0,0,,Itu tiket untuk masa depan kita.
+Dialogue: 0,0:21:09.86,0:21:10.75,Default,,0,0,0,,Kau bodoh.
+Dialogue: 0,0:21:10.77,0:21:13.44,Default,,0,0,0,,Saya kalah gara-gara\Nsarung tangan rosak.
+Dialogue: 0,0:21:13.60,0:21:16.21,Default,,0,0,0,,Rumah kita!\N- Kawan-kawan saya ada dalam cabaran itu...
+Dialogue: 0,0:21:16.23,0:21:18.26,Default,,0,0,0,,Kalau ada sut but\Nawak tetap akan kalah.
+Dialogue: 0,0:21:19.11,0:21:20.24,Default,,0,0,0,,Cukup!
+Dialogue: 0,0:21:20.27,0:21:21.58,Default,,0,0,0,,Jangan!
+Dialogue: 0,0:21:21.75,0:21:23.37,Default,,0,0,0,,Tidak!\N- Alice, panggil polis!
+Dialogue: 0,0:21:23.37,0:21:26.53,Default,,0,0,0,,Kita takkan panggil polis.\NPergi ke bilik awak, Rick.
+Dialogue: 0,0:21:26.94,0:21:29.24,Default,,0,0,0,,Jangan macam itu, Alice!
+Dialogue: 0,0:21:29.75,0:21:31.34,Default,,0,0,0,,Kenapa makcik masih bersama dia?
+Dialogue: 0,0:21:31.71,0:21:33.02,Default,,0,0,0,,Dia tak berguna.
+Dialogue: 0,0:21:33.59,0:21:35.54,Default,,0,0,0,,Saya patut halau awak berdua.
+Dialogue: 0,0:21:36.04,0:21:37.64,Default,,0,0,0,,Saya sumpah, Wade Watts.
+Dialogue: 0,0:21:38.49,0:21:40.90,Default,,0,0,0,,Kalau awak sentuh\Nbarang saya lagi...
+Dialogue: 0,0:21:40.92,0:21:42.85,Default,,0,0,0,,saya serius, akan halau awak!
+Dialogue: 0,0:21:50.22,0:21:51.75,Default,,0,0,0,,{\i1}Wade Watts.{\i0}
+Dialogue: 0,0:21:52.35,0:21:56.22,Default,,0,0,0,,{\i1}Ayah saya pilih nama itu\Nsebab bunyinya seperti alter ego adiwira.{\i0}
+Dialogue: 0,0:21:56.57,0:21:59.34,Default,,0,0,0,,{\i1}Seperti Peter Parker\Natau Bruce Banner.{\i0}
+Dialogue: 0,0:22:00.33,0:22:04.09,Default,,0,0,0,,{\i1}Tapi dia mati sewaktu\Nsaya masih kecil.{\i0}
+Dialogue: 0,0:22:04.12,0:22:05.48,Default,,0,0,0,,{\i1}Mak saya pun.\NAkhirnya saya terperap di sini.{\i0}
+Dialogue: 0,0:22:05.49,0:22:07.32,Default,,0,0,0,,{\i1}Tinggal bersama\NMakcik Alice dan...{\i0}
+Dialogue: 0,0:22:07.35,0:22:09.94,Default,,0,0,0,,{\i1}kekasihnya yang tak guna,\Nseorang demi seorang.{\i0}
+Dialogue: 0,0:22:12.77,0:22:14.73,Default,,0,0,0,,{\i1}'Halliday tak suka buat peraturan.'{\i0}
+Dialogue: 0,0:22:15.36,0:22:17.72,Default,,0,0,0,,{\i1}Kenapa saya asyik fikirkannya?{\i0}
+Dialogue: 0,0:22:20.76,0:22:23.97,Default,,0,0,0,,{\i1}Mungkin sebab Art3mis yang sebut\Ndan dia juga cantik.{\i0}
+Dialogue: 0,0:22:24.57,0:22:26.70,Default,,0,0,0,,{\i1}Mungkin sebab dia panggil saya keluar...{\i0}
+Dialogue: 0,0:22:26.71,0:22:29.46,Default,,0,0,0,,{\i1}dari dunia yang sempit ini...{\i0}
+Dialogue: 0,0:22:29.47,0:22:32.30,Default,,0,0,0,,{\i1}bersembunyi daripada realiti\Nkehidupan.{\i0}
+Dialogue: 0,0:22:32.67,0:22:34.03,Default,,0,0,0,,{\i1}Atau mungkin...{\i0}
+Dialogue: 0,0:22:34.91,0:22:37.07,Default,,0,0,0,,{\i1}Mungkin sebab ayat itu ada\Nmakna tertentu.{\i0}
+Dialogue: 0,0:22:37.43,0:22:38.88,Default,,0,0,0,,{\i1}Dan saya tak sedar.{\i0}
+Dialogue: 0,0:22:40.46,0:22:41.99,Default,,0,0,0,,JURNAL HALLIDAY
+Dialogue: 0,0:22:42.00,0:22:43.49,Default,,0,0,0,,{\i1}Pada hari pertandingan itu\Ndiumumkan...{\i0}
+Dialogue: 0,0:22:43.50,0:22:45.11,Default,,0,0,0,,{\i1}"Jurnal Halliday" muncul.{\i0}
+Dialogue: 0,0:22:45.12,0:22:46.84,Default,,0,0,0,,{\i1}Dia suruh kami\Nmeninjau pemikirannya.{\i0}
+Dialogue: 0,0:22:46.86,0:22:48.77,Default,,0,0,0,,{\i1}Ini hal yang terbaik\Nyang seterusnya.{\i0}
+Dialogue: 0,0:22:48.95,0:22:52.21,Default,,0,0,0,,{\i1}Pada mulanya, ia sesak dengan\Norang yang mencari jawapan.{\i0}
+Dialogue: 0,0:22:52.36,0:22:54.70,Default,,0,0,0,,{\i1}Kini dewan yang seketika dulu sesak\Ndengan mencari Halliday...{\i0}
+Dialogue: 0,0:22:54.71,0:22:56.23,Default,,0,0,0,,{\i1}cuma tinggal orang macam saya.{\i0}
+Dialogue: 0,0:22:56.26,0:22:58.63,Default,,0,0,0,,Parzival, aduhai.
+Dialogue: 0,0:22:58.65,0:23:02.59,Default,,0,0,0,,Macam mana awak nak sia-siakan\Nwaktu pencarian saya hari ini?
+Dialogue: 0,0:23:02.62,0:23:05.23,Default,,0,0,0,,Gregarious Games, 2029.\NParti pejabat.
+Dialogue: 0,0:23:05.24,0:23:07.37,Default,,0,0,0,,Ya, parti pejabat.\NAwak dah tengok beribu kali.
+Dialogue: 0,0:23:07.38,0:23:09.66,Default,,0,0,0,,Apa kata awak balik?
+Dialogue: 0,0:23:10.60,0:23:14.65,Default,,0,0,0,,Setiap data dalam jurnal Halliday\Ndisusun dengan teliti...
+Dialogue: 0,0:23:14.68,0:23:16.93,Default,,0,0,0,,daripada gambar peribadi,\Nrakaman video peribadi,...
+Dialogue: 0,0:23:16.96,0:23:18.40,Default,,0,0,0,,pemantauan dan kamera pengintip.
+Dialogue: 0,0:23:18.59,0:23:21.29,Default,,0,0,0,,Semua dikemaskini ke dalam\Npengalaman maya tiga dimensi.
+Dialogue: 0,0:23:21.34,0:23:22.34,Default,,0,0,0,,Halliday juga memasang komputer\Npermainan pertamanya - 1985
+Dialogue: 0,0:23:22.37,0:23:25.25,Default,,0,0,0,,Halliday juga mengarkib\Nsetiap filem, permainan,...
+Dialogue: 0,0:23:25.28,0:23:27.60,Default,,0,0,0,,buku dan program\NTV pernah dia tonton.
+Dialogue: 0,0:23:27.88,0:23:29.52,Default,,0,0,0,,Terletak di mezanin...
+Dialogue: 0,0:23:29.79,0:23:32.97,Default,,0,0,0,,Tiada senjata atau avatar bertema matang\Ndibenarkan dalam Jurnal itu.
+Dialogue: 0,0:23:33.30,0:23:36.28,Default,,0,0,0,,Sila nikmati masa anda bersama\Nkami dan selamat memburu!
+Dialogue: 0,0:23:37.19,0:23:38.39,Default,,0,0,0,,SAYA SUKA MENGEMAS
+Dialogue: 0,0:23:38.91,0:23:41.50,Default,,0,0,0,,Okey, Jim, aku nak pergi.
+Dialogue: 0,0:23:46.27,0:23:48.96,Default,,0,0,0,,Segalanya berubah, Jim.\NSegalanya berkembang.
+Dialogue: 0,0:23:49.20,0:23:52.73,Default,,0,0,0,,Sesetengah benda dah cukup\Nsempurna dalam keadaannya,{\i1} Asteroids{\i0}.
+Dialogue: 0,0:23:52.76,0:23:56.17,Default,,0,0,0,,Orang tak tinggal dalam\Nkabinet arked {\i1}Asteroids.{\i0}
+Dialogue: 0,0:23:57.95,0:23:59.12,Default,,0,0,0,,Itu aku tahu.
+Dialogue: 0,0:23:59.14,0:24:01.83,Default,,0,0,0,,Ya. Tapi orang tinggal di dalam\Narked yang kina bina.
+Dialogue: 0,0:24:01.84,0:24:03.31,Default,,0,0,0,,Aku bina.
+Dialogue: 0,0:24:05.38,0:24:06.89,Default,,0,0,0,,Kau boleh kata apa saja.
+Dialogue: 0,0:24:06.90,0:24:08.37,Default,,0,0,0,,Aku enggan bercakap pasal ini.
+Dialogue: 0,0:24:08.40,0:24:09.31,Default,,0,0,0,,Tak, mestilah kau enggan.
+Dialogue: 0,0:24:09.32,0:24:10.81,Default,,0,0,0,,Kau paksa aku keluar.
+Dialogue: 0,0:24:10.84,0:24:12.28,Default,,0,0,0,,Pergi dekat pada Halliday.
+Dialogue: 0,0:24:12.35,0:24:15.71,Default,,0,0,0,,Kau mesti bertanggungjawab\Ndengan ciptaan kau. Nak atau tak.
+Dialogue: 0,0:24:16.56,0:24:19.04,Default,,0,0,0,,Kalau kau buat sesuatu\Nyang orang mahu dan perlukan...
+Dialogue: 0,0:24:19.06,0:24:21.96,Default,,0,0,0,,maka terpulang kepada kau\Nuntuk tetapkan batasannya.
+Dialogue: 0,0:24:21.99,0:24:25.30,Default,,0,0,0,,Kau kena tetapkan peraturan.\N- "Aku tak mahu tetapkan peraturan lagi."
+Dialogue: 0,0:24:25.39,0:24:27.37,Default,,0,0,0,,'Aku suka berangan.'\N- Aku suka berangan.
+Dialogue: 0,0:24:27.60,0:24:29.61,Default,,0,0,0,,Aku cipta dunia.\N- 'Aku cipta dunia.'
+Dialogue: 0,0:24:30.59,0:24:33.51,Default,,0,0,0,,Kita cipta sesuatu yang indah, Jim.\NTapi ia dah berubah.
+Dialogue: 0,0:24:33.52,0:24:36.39,Default,,0,0,0,,Ia bukan permainan lagi.\N- Kita dah selesai cakap?
+Dialogue: 0,0:24:36.40,0:24:40.57,Default,,0,0,0,,Aku suka keadaan dulu semasa\Nia berjaya.
+Dialogue: 0,0:24:42.71,0:24:43.98,Default,,0,0,0,,Semasa ia satu permainan.
+Dialogue: 0,0:24:44.00,0:24:45.77,Default,,0,0,0,,Dan kita kembali di mana\Nkita bermula.
+Dialogue: 0,0:24:46.42,0:24:48.84,Default,,0,0,0,,Tapi itu masalahnya, kan?\NBenda maju ke depan.
+Dialogue: 0,0:24:48.86,0:24:50.14,Default,,0,0,0,,Samada kau suka atau tak.
+Dialogue: 0,0:24:50.17,0:24:51.97,Default,,0,0,0,,Ya, kita dah selesai.
+Dialogue: 0,0:24:52.80,0:24:54.56,Default,,0,0,0,,Baik.
+Dialogue: 0,0:24:56.07,0:24:58.34,Default,,0,0,0,,Kenapa kita tak boleh undur ke belakang...
+Dialogue: 0,0:24:59.27,0:25:00.58,Default,,0,0,0,,untuk seketika?
+Dialogue: 0,0:25:02.07,0:25:05.81,Default,,0,0,0,,Ke belakang dengan laju,\Nsecepat yang mungkin.
+Dialogue: 0,0:25:06.30,0:25:08.48,Default,,0,0,0,,Pecut habis-habisan.
+Dialogue: 0,0:25:08.48,0:25:10.44,Default,,0,0,0,,Undur balik, 10 saat!
+Dialogue: 0,0:25:11.25,0:25:13.58,Default,,0,0,0,,Kenapa kita tak boleh undur ke belakang...
+Dialogue: 0,0:25:13.87,0:25:15.34,Default,,0,0,0,,untuk seketika?
+Dialogue: 0,0:25:15.72,0:25:19.44,Default,,0,0,0,,Ke belakang dengan laju,\Nsecepat yang mungkin.
+Dialogue: 0,0:25:20.21,0:25:22.32,Default,,0,0,0,,Pecut habis-habisan.
+Dialogue: 0,0:25:24.08,0:25:25.81,Default,,0,0,0,,Bill dan Ted lakukannya.
+Dialogue: 0,0:25:34.13,0:25:35.93,Default,,0,0,0,,PERTAMA SAMPAI CENTRAL PARK
+Dialogue: 0,0:25:46.92,0:25:48.71,Default,,0,0,0,,Awal kembali beraksi?
+Dialogue: 0,0:25:50.70,0:25:52.51,Default,,0,0,0,,Jaga-jaga, jangan kehilangan aset kau.
+Dialogue: 0,0:25:56.99,0:25:58.61,Default,,0,0,0,,Kau temui sesuatu.
+Dialogue: 0,0:25:59.27,0:26:01.15,Default,,0,0,0,,Parzival, beritahu aku!
+Dialogue: 0,0:27:41.48,0:27:43.89,Default,,0,0,0,,Perlumbaan hebat, Padawan.
+Dialogue: 0,0:27:44.34,0:27:46.38,Default,,0,0,0,,Awak yang pertama menamatkannya.
+Dialogue: 0,0:27:47.27,0:27:50.85,Default,,0,0,0,,En. Halliday,\NAnorak.
+Dialogue: 0,0:27:52.40,0:27:55.45,Default,,0,0,0,,Saya sangat berbesar hati.\N- Saya yang berbesar hati.
+Dialogue: 0,0:28:06.89,0:28:09.14,Default,,0,0,0,,Pergi dapatkan petunjuk.
+Dialogue: 0,0:28:20.84,0:28:23.56,Default,,0,0,0,,PERTAMA -PARZIVAL - PEMENANG
+Dialogue: 0,0:28:23.59,0:28:27.24,Default,,0,0,0,,Siapa si Parzival ini\Ndan macam mana dia menang?
+Dialogue: 0,0:28:27.34,0:28:29.45,Default,,0,0,0,,Ini soalan yang menarik, siapa peduli?
+Dialogue: 0,0:28:29.91,0:28:31.50,Default,,0,0,0,,Pertandingan Halliday\Nsangat penting.
+Dialogue: 0,0:28:31.51,0:28:33.43,Default,,0,0,0,,Ia umpama satu peperangan...
+Dialogue: 0,0:28:33.44,0:28:34.62,Default,,0,0,0,,untuk mengawal masa depan.
+Dialogue: 0,0:28:34.63,0:28:37.97,Default,,0,0,0,,Tapi Parzival ini?\NDia tak ada geng.
+Dialogue: 0,0:28:38.18,0:28:39.81,Default,,0,0,0,,Dia seorang diri.
+Dialogue: 0,0:28:39.84,0:28:43.06,Default,,0,0,0,,Kita ada askar.\N- Namun, dia dapat kunci pertama.
+Dialogue: 0,0:28:43.11,0:28:44.47,Default,,0,0,0,,Ya, dia ada kunci.
+Dialogue: 0,0:28:44.48,0:28:48.07,Default,,0,0,0,,Tapi awak kena cari tiga kunci\Nuntuk menjuarai pertandingan.
+Dialogue: 0,0:28:48.12,0:28:50.65,Default,,0,0,0,,Saham kita jatuh 6% semalam.
+Dialogue: 0,0:28:50.68,0:28:54.53,Default,,0,0,0,,Divisyen loyalti melaporkan\Nkeuntungan sebanyak 28%. F'Nale.
+Dialogue: 0,0:28:54.54,0:28:57.67,Default,,0,0,0,,Kita akan membuka\N5 pusat loyalti baru bulan ini.
+Dialogue: 0,0:28:57.74,0:28:59.41,Default,,0,0,0,,Mengutip hutang lebih menguntungkan\Ndaripada perkakasan.
+Dialogue: 0,0:28:59.42,0:29:01.60,Default,,0,0,0,,Benar awak nak cakap dengan saya\Npasal harga saham?
+Dialogue: 0,0:29:01.61,0:29:02.93,Default,,0,0,0,,Pemegang saham takkan gembira.
+Dialogue: 0,0:29:02.94,0:29:04.37,Default,,0,0,0,,Bukan tugas kita\Nuntuk buat mereka gembira.
+Dialogue: 0,0:29:04.38,0:29:05.98,Default,,0,0,0,,Tugas kita ialah beri mereka keuntungan.
+Dialogue: 0,0:29:06.46,0:29:10.76,Default,,0,0,0,,Tapi sebaik saja kita lancarkan ini,\Nmereka akan gembira.
+Dialogue: 0,0:29:11.71,0:29:13.04,Default,,0,0,0,,Kita panggilnya,...
+Dialogue: 0,0:29:13.74,0:29:16.45,Default,,0,0,0,,"O2 Tulen". Ini yang pertama\Ndalam penaiktarafan kita.
+Dialogue: 0,0:29:16.48,0:29:19.61,Default,,0,0,0,,Sebaik saja kita kurangkan\Nsekatan iklan Halliday...
+Dialogue: 0,0:29:19.64,0:29:23.25,Default,,0,0,0,,Anggaran kita boleh\Nmencapai 80% jualan...
+Dialogue: 0,0:29:23.27,0:29:27.97,Default,,0,0,0,,medan penglihatan individu\Nsebelum cetuskan penguasaan.
+Dialogue: 0,0:29:28.15,0:29:29.14,Default,,0,0,0,,Jadi bayangkanlah.
+Dialogue: 0,0:29:29.15,0:29:32.52,Default,,0,0,0,,Ini semua bermakna kita boleh\Nmenang pertandingan itu.
+Dialogue: 0,0:29:35.38,0:29:36.76,Default,,0,0,0,,Betul.
+Dialogue: 0,0:29:38.88,0:29:41.84,Default,,0,0,0,,Kau menang kunci\Ndan 100,000 syiling?
+Dialogue: 0,0:29:41.85,0:29:44.65,Default,,0,0,0,,Sejurus saja aku ambil kunci itu,\Nsemua syiling muncul dalam akaun aku.
+Dialogue: 0,0:29:44.68,0:29:47.89,Default,,0,0,0,,Kau tahu, aku terkencing dalam\Nhaptik sekarang.
+Dialogue: 0,0:29:51.14,0:29:52.81,Default,,0,0,0,,Apa benda {\i1}Cataclist{\i0} itu?
+Dialogue: 0,0:29:52.82,0:29:55.62,Default,,0,0,0,,Bom. Membunuh semua avatar\Ndi planet...
+Dialogue: 0,0:29:55.63,0:29:56.71,Default,,0,0,0,,termasuk pemiliknya.
+Dialogue: 0,0:29:56.74,0:29:59.82,Default,,0,0,0,,Siapa sanggup buat begitu?\N- IOI. Mereka beli semuanya.
+Dialogue: 0,0:30:01.48,0:30:03.78,Default,,0,0,0,,20 ribu untuk bom tangan suci?
+Dialogue: 0,0:30:04.14,0:30:05.82,Default,,0,0,0,,Bapak murah!
+Dialogue: 0,0:30:09.21,0:30:10.91,Default,,0,0,0,,Kiub Zemeckis!
+Dialogue: 0,0:30:10.94,0:30:14.00,Default,,0,0,0,,Aku nak benda ini.\N- Jangan habiskan semua duit kau.
+Dialogue: 0,0:30:17.29,0:30:19.59,Default,,0,0,0,,Sut but haptik X1?
+Dialogue: 0,0:30:34.44,0:30:35.84,Default,,0,0,0,,Ya!
+Dialogue: 0,0:30:50.74,0:30:52.49,Default,,0,0,0,,{\i1}Bo55man69{\i0}
+Dialogue: 0,0:31:28.93,0:31:31.86,Default,,0,0,0,,I-ROk, kawan lama.\NApa khabar?
+Dialogue: 0,0:31:34.14,0:31:37.44,Default,,0,0,0,,Terus-terang, tekak aku sakit.\NUmpama masalah terowong karpal.
+Dialogue: 0,0:31:37.51,0:31:40.73,Default,,0,0,0,,Tapi di tekak, itupun kalau\Nada penyakit begini. Jadi, tolong...
+Dialogue: 0,0:31:40.87,0:31:43.53,Default,,0,0,0,,berdiri ke kanan kau.\NKanan aku, kiri kau.
+Dialogue: 0,0:31:45.53,0:31:47.94,Default,,0,0,0,,Terima kasih.\NIa stres berulang.
+Dialogue: 0,0:31:49.85,0:31:51.32,Default,,0,0,0,,Ini dia.
+Dialogue: 0,0:31:53.13,0:31:55.44,Default,,0,0,0,,Raja lanun Steam-Punk.
+Dialogue: 0,0:31:55.86,0:31:57.90,Default,,0,0,0,,Aku dah lama kenal dia, Sorrento.
+Dialogue: 0,0:31:58.20,0:32:00.27,Default,,0,0,0,,Cuma ada 3 benda di dunia\Nini yang aku benci.
+Dialogue: 0,0:32:00.57,0:32:04.62,Default,,0,0,0,,Steam-punk, lanun and Tabboleh.
+Dialogue: 0,0:32:04.62,0:32:07.65,Default,,0,0,0,,Kenapa benda itu wujud?
+Dialogue: 0,0:32:07.67,0:32:09.50,Default,,0,0,0,,Kenapa kita berjumpa kat sini?
+Dialogue: 0,0:32:09.97,0:32:11.28,Default,,0,0,0,,Ya, Nolan.
+Dialogue: 0,0:32:12.20,0:32:14.49,Default,,0,0,0,,Tentang "Orb Osuvox".
+Dialogue: 0,0:32:15.50,0:32:17.54,Default,,0,0,0,,Kau inginkannya.\NDia memilikinya.
+Dialogue: 0,0:32:17.73,0:32:19.36,Default,,0,0,0,,Jadi, ini dia.
+Dialogue: 0,0:32:22.09,0:32:24.52,Default,,0,0,0,,Ia menghasilkan perisai sakti kebal...
+Dialogue: 0,0:32:24.53,0:32:25.78,Default,,0,0,0,,yang hanya boleh dimatikan..
+Dialogue: 0,0:32:25.79,0:32:28.07,Default,,0,0,0,,Oleh jampi serapah.
+Dialogue: 0,0:32:28.46,0:32:32.15,Default,,0,0,0,,"Orb Osuvox".\N- Jangan sebut lagi.
+Dialogue: 0,0:32:32.15,0:32:33.54,Default,,0,0,0,,Okey.
+Dialogue: 0,0:32:36.48,0:32:39.15,Default,,0,0,0,,Tolong simpankan\Nbuat masa sekarang.
+Dialogue: 0,0:32:39.16,0:32:42.42,Default,,0,0,0,,Aku akan beritahu kau\Nbila aku akan gunakannya.
+Dialogue: 0,0:32:45.84,0:32:47.44,Default,,0,0,0,,Tapi sekarang...
+Dialogue: 0,0:32:48.42,0:32:50.10,Default,,0,0,0,,aku ada tugas untuk kau.
+Dialogue: 0,0:32:51.41,0:32:52.72,Default,,0,0,0,,Parzival.
+Dialogue: 0,0:32:53.28,0:32:56.69,Default,,0,0,0,,Biar aku teka, kau nak padam\Nnama dia dari papan mata.
+Dialogue: 0,0:32:57.14,0:32:58.59,Default,,0,0,0,,Kau boleh buat?
+Dialogue: 0,0:32:59.90,0:33:02.71,Default,,0,0,0,,Dia bintang terkenal, dia berjaya\Nmelepasi pintu pertama.
+Dialogue: 0,0:33:02.72,0:33:05.58,Default,,0,0,0,,Avatar akan kerumuni dia\Numpama budak-budak bersama Santa.
+Dialogue: 0,0:33:05.59,0:33:07.57,Default,,0,0,0,,I-ROk, berapa banyak lagi kau nak?
+Dialogue: 0,0:33:09.09,0:33:10.71,Default,,0,0,0,,Itu yang aku suka pasal kau, Nolan.
+Dialogue: 0,0:33:10.72,0:33:11.98,Default,,0,0,0,,Kau tak jilat...
+Dialogue: 0,0:33:12.01,0:33:16.15,Default,,0,0,0,,kau terus gigit inti bercoklat\Ndi tengah Tutsie Pop.
+Dialogue: 0,0:33:16.92,0:33:19.53,Default,,0,0,0,,Ingat lagi tak iklan lama itu,\Nyang bersama burung hantu?
+Dialogue: 0,0:33:19.55,0:33:20.84,Default,,0,0,0,,I-R0k.
+Dialogue: 0,0:33:21.99,0:33:25.19,Default,,0,0,0,,Tiga kali ganda dari upah biasa.\N- Baik.
+Dialogue: 0,0:33:25.71,0:33:29.64,Default,,0,0,0,,Biar betul? Aku patut minta lima.\NBoleh aku minta empat?
+Dialogue: 0,0:33:31.58,0:33:33.85,Default,,0,0,0,,{\i1}Nama kami berlima ada\Ndi papan mata sekarang.{\i0}
+Dialogue: 0,0:33:34.54,0:33:37.29,Default,,0,0,0,,{\i1}Art3mis ialah seterusnya,\Ntiada kejutan.{\i0}
+Dialogue: 0,0:33:37.50,0:33:40.55,Default,,0,0,0,,{\i1}Dia berada di litar ketika saya menang.\NDia nampak saya berundur.{\i0}
+Dialogue: 0,0:33:40.58,0:33:41.95,Default,,0,0,0,,{\i1}Saya bagi petua kepada Aech...{\i0}
+Dialogue: 0,0:33:41.96,0:33:43.98,Default,,0,0,0,,{\i1}suruh dia janji rahsiakannya...{\i0}
+Dialogue: 0,0:33:44.01,0:33:45.72,Default,,0,0,0,,{\i1}dan setelah itu dia menang.{\i0}
+Dialogue: 0,0:33:45.84,0:33:48.34,Default,,0,0,0,,{\i1}Saya pasti dia berlagak\Ndengan kawan kami, Daito...{\i0}
+Dialogue: 0,0:33:48.35,0:33:50.64,Default,,0,0,0,,{\i1}kerana dia menang selepas malam itu.{\i0}
+Dialogue: 0,0:33:51.17,0:33:54.68,Default,,0,0,0,,{\i1}Tentulah, Daito\Nberitahu sahabatnya, Sho.{\i0}
+Dialogue: 0,0:33:54.98,0:33:58.79,Default,,0,0,0,,{\i1}Keretanya remuk,\Ntapi Sho berjaya.{\i0}
+Dialogue: 0,0:34:08.17,0:34:10.21,Default,,0,0,0,,{\i1}"Pencipta yang\Nmembenci ciptaannya."{\i0}
+Dialogue: 0,0:34:10.24,0:34:12.59,Default,,0,0,0,,{\i1}"Kunci yang tersorok,\Nrisiko yang tak ditarah."{\i0}
+Dialogue: 0,0:34:12.73,0:34:14.88,Default,,0,0,0,,{\i1}"Jejaki langkah anda semula,\Ntinggalkan masa silam anda."{\i0}
+Dialogue: 0,0:34:14.91,0:34:17.55,Default,,0,0,0,,{\i1}"Pencipta yang\Nmembenci ciptaannya."{\i0}
+Dialogue: 0,0:34:17.58,0:34:19.69,Default,,0,0,0,,{\i1}"Kunci yang tersorok,\Nrisiko yang tak ditarah."{\i0}
+Dialogue: 0,0:34:19.71,0:34:21.81,Default,,0,0,0,,{\i1}"Jejaki langkah anda semula,\Ntinggalkan masa silam anda."{\i0}
+Dialogue: 0,0:34:21.82,0:34:24.10,Default,,0,0,0,,{\i1}"...dan kunci Jade\Nakan jadi milik anda."{\i0}
+Dialogue: 0,0:34:28.06,0:34:30.62,Default,,0,0,0,,Adakah James Halliday pemain\Npermainan atau hanya tunjukkan dewa?
+Dialogue: 0,0:34:31.53,0:34:34.23,Default,,0,0,0,,ADAKAH OASIS AKAN MENGUMPUL DOLLAR?\NAPA OASIS MENGUBAH HIDUP KITA?
+Dialogue: 0,0:34:34.26,0:34:36.41,Default,,0,0,0,,LEBIH HEBAT DARI KERJA?
+Dialogue: 0,0:34:36.42,0:34:39.89,Default,,0,0,0,,BERPECAH! HALLIDAY TERUSKAN SENDIRIAN.
+Dialogue: 0,0:34:59.66,0:35:03.99,Default,,0,0,0,,OBITUARI\NKAREN UNDERWOOD MORROW: 1975-2034
+Dialogue: 0,0:35:06.16,0:35:07.91,Default,,0,0,0,,{\i1}"Tinggalkan masa silam anda{\i0}"...
+Dialogue: 0,0:35:11.78,0:35:15.11,Default,,0,0,0,,Apa masa silam awak\Nyang awak nak tinggalkan, Halliday?
+Dialogue: 0,0:35:15.63,0:35:18.99,Default,,0,0,0,,PEREKA PERMAINAN, TRILLONAIR.
+Dialogue: 0,0:35:26.75,0:35:28.45,Default,,0,0,0,,Hei, itu Parzival!
+Dialogue: 0,0:35:29.56,0:35:31.87,Default,,0,0,0,,{\i1}Parzival!\NWira saya!{\i0}
+Dialogue: 0,0:35:44.41,0:35:45.62,Default,,0,0,0,,Kau terkenal sekarang!
+Dialogue: 0,0:35:45.64,0:35:48.56,Default,,0,0,0,,Kau tak boleh pergi ke\Nmana saja kau suka.
+Dialogue: 0,0:35:48.96,0:35:50.47,Default,,0,0,0,,Tidak!\NAku...
+Dialogue: 0,0:36:09.12,0:36:10.44,Default,,0,0,0,,Itu...
+Dialogue: 0,0:36:10.78,0:36:12.37,Default,,0,0,0,,tak kelakar langsung.
+Dialogue: 0,0:36:12.88,0:36:14.47,Default,,0,0,0,,Aduhai!
+Dialogue: 0,0:36:18.68,0:36:21.18,Default,,0,0,0,,Aduhai.\NMasih tak faham lagi?
+Dialogue: 0,0:36:21.21,0:36:22.76,Default,,0,0,0,,Kaulah Parzival itu sekarang.
+Dialogue: 0,0:36:23.73,0:36:25.32,Default,,0,0,0,,Kau kena menyamar.
+Dialogue: 0,0:36:27.38,0:36:28.69,Default,,0,0,0,,Okey, ini dia.
+Dialogue: 0,0:36:30.76,0:36:32.30,Default,,0,0,0,,Kaca mata Clark Kent.
+Dialogue: 0,0:36:32.31,0:36:34.66,Default,,0,0,0,,Ia melindungi identiti kau\Ntanpa mengubah penampilan kau.
+Dialogue: 0,0:36:43.56,0:36:45.10,Default,,0,0,0,,Aku tak nak pakai.
+Dialogue: 0,0:36:54.46,0:36:56.09,Default,,0,0,0,,{\i1}Ini hebat.{\i0}
+Dialogue: 0,0:36:57.36,0:36:59.54,Default,,0,0,0,,{\i1}Cara inventori kau terdedah\Nketika kau mati.{\i0}
+Dialogue: 0,0:36:59.56,0:37:00.86,Default,,0,0,0,,Mereka enggan pertumpahan darah lagi.
+Dialogue: 0,0:37:00.88,0:37:03.13,Default,,0,0,0,,Ini tepat sebelum OASIS dilancarkan.
+Dialogue: 0,0:37:03.15,0:37:06.19,Default,,0,0,0,,Enam hari sebelum itu.\N2hb Disember, 2025.
+Dialogue: 0,0:37:06.26,0:37:07.87,Default,,0,0,0,,Tengok ini.
+Dialogue: 0,0:37:08.18,0:37:09.57,Default,,0,0,0,,Kau kenal siapa itu?
+Dialogue: 0,0:37:11.46,0:37:13.13,Default,,0,0,0,,Itu Sorrento?!
+Dialogue: 0,0:37:13.19,0:37:15.06,Default,,0,0,0,,Sorrento bermula sebagai seoarang pelatih.
+Dialogue: 0,0:37:15.07,0:37:17.57,Default,,0,0,0,,Katanya dia belajar daripada\Nmahaguru itu.
+Dialogue: 0,0:37:17.80,0:37:20.26,Default,,0,0,0,,Begitulah cara dia meyakinkan IOI untuk\Nmasuk Sixer untuk dia.
+Dialogue: 0,0:37:20.27,0:37:22.07,Default,,0,0,0,,Pengetahuan dia tentang Halliday.
+Dialogue: 0,0:37:22.24,0:37:23.76,Default,,0,0,0,,Tapi tanya Ogden Morrow?
+Dialogue: 0,0:37:23.77,0:37:27.73,Default,,0,0,0,,Katanya satu-satunya hal yang Sorrento\Ntahu pasal Halliday...
+Dialogue: 0,0:37:28.09,0:37:30.04,Default,,0,0,0,,ialah cara kopinya dibancuh.
+Dialogue: 0,0:37:30.06,0:37:32.76,Default,,0,0,0,,Kau boleh ada pelbagai tahap akaun...
+Dialogue: 0,0:37:32.77,0:37:35.23,Default,,0,0,0,,seperti keahlian emas,\Nmungkin perak...
+Dialogue: 0,0:37:35.24,0:37:37.90,Default,,0,0,0,,platinum, gangsa...
+Dialogue: 0,0:37:37.92,0:37:39.39,Default,,0,0,0,,bergantung pada apa mereka bayar.
+Dialogue: 0,0:37:39.40,0:37:42.90,Default,,0,0,0,,Yang tertinggi mungkin,\Nsebab OASIS, kan?
+Dialogue: 0,0:37:42.92,0:37:44.37,Default,,0,0,0,,Latte yang sedap.
+Dialogue: 0,0:37:44.62,0:37:47.23,Default,,0,0,0,,Boleh awak lajukan kepada bahagian\Nsemasa Halliday temujanji?
+Dialogue: 0,0:37:47.46,0:37:49.33,Default,,0,0,0,,Apa? Halliday betul-betul\Nkeluar temujanji?
+Dialogue: 0,0:37:53.06,0:37:56.83,Default,,0,0,0,,Jadi, apa berlaku?\N- Tak ada apa. Aku ajak dia datang.
+Dialogue: 0,0:37:57.89,0:37:59.85,Default,,0,0,0,,Tapi kau dapat nama dia tak?
+Dialogue: 0,0:38:00.35,0:38:01.89,Default,,0,0,0,,Yeah, Kira.\NAku dah beritahu.
+Dialogue: 0,0:38:01.90,0:38:03.99,Default,,0,0,0,,Macam watak dalam\N{\i1}The Dark Crystal{\i0}.
+Dialogue: 0,0:38:04.00,0:38:06.27,Default,,0,0,0,,Itu tag permainan dia.
+Dialogue: 0,0:38:07.98,0:38:11.36,Default,,0,0,0,,Karen.\NKaren Underwood.
+Dialogue: 0,0:38:11.75,0:38:13.36,Default,,0,0,0,,Tidak!\NKaren Underwood?
+Dialogue: 0,0:38:13.37,0:38:14.96,Default,,0,0,0,,Isteri Odgen Morrow?
+Dialogue: 0,0:38:15.15,0:38:16.46,Default,,0,0,0,,Tengoklah.
+Dialogue: 0,0:38:17.26,0:38:19.13,Default,,0,0,0,,Jadi, kau dan Karen Underwood...
+Dialogue: 0,0:38:19.14,0:38:20.67,Default,,0,0,0,,apa kau buat?
+Dialogue: 0,0:38:20.70,0:38:22.71,Default,,0,0,0,,Dia nak pergi menari.
+Dialogue: 0,0:38:23.16,0:38:24.99,Default,,0,0,0,,Jadi kami pergi menonton wayang.
+Dialogue: 0,0:38:26.85,0:38:28.16,Default,,0,0,0,,Dan?
+Dialogue: 0,0:38:30.03,0:38:31.67,Default,,0,0,0,,Itu saja?
+Dialogue: 0,0:38:31.98,0:38:33.66,Default,,0,0,0,,Aku nak dengar cerita sensasi!
+Dialogue: 0,0:38:34.81,0:38:37.34,Default,,0,0,0,,Mana ada sensasinya!\N- Aduhai!
+Dialogue: 0,0:38:37.46,0:38:38.83,Default,,0,0,0,,Mengejutkan.
+Dialogue: 0,0:38:39.31,0:38:42.97,Default,,0,0,0,,Halliday keluar temujanji\Ndengan isteri Odgen Morrow?
+Dialogue: 0,0:38:43.06,0:38:44.16,Default,,0,0,0,,Sekali saja.
+Dialogue: 0,0:38:44.19,0:38:45.77,Default,,0,0,0,,Bertahun sebelum mereka berkahwin.
+Dialogue: 0,0:38:45.79,0:38:46.46,Default,,0,0,0,,Tapi, ya.
+Dialogue: 0,0:38:46.47,0:38:48.96,Default,,0,0,0,,Namun begitu, hakikatnya,\NKira mati...
+Dialogue: 0,0:38:48.98,0:38:50.72,Default,,0,0,0,,nama Kira cuma disebut sekali...
+Dialogue: 0,0:38:50.73,0:38:52.19,Default,,0,0,0,,dalam semua Jurnal Halliday.
+Dialogue: 0,0:38:52.20,0:38:55.26,Default,,0,0,0,,Itu mustahil.\N- Ya. Saya dah baca.
+Dialogue: 0,0:38:55.27,0:38:57.94,Default,,0,0,0,,Kita nampak, itulah sekali\Nnamanya disebut.
+Dialogue: 0,0:38:57.96,0:38:59.27,Default,,0,0,0,,Tak masuk akal.
+Dialogue: 0,0:38:59.27,0:39:01.90,Default,,0,0,0,,Dia penting dalam\Nkehidupan mereka berdua.
+Dialogue: 0,0:39:01.92,0:39:04.24,Default,,0,0,0,,Saya berani bertaruh segalanya.\NSemua syiling saya.
+Dialogue: 0,0:39:05.61,0:39:07.89,Default,,0,0,0,,Cari "Karen Underwood Morrow".
+Dialogue: 0,0:39:09.54,0:39:12.49,Default,,0,0,0,,{\i1}Kira, saya dah kata, macam watak dalam\N"The Dark Crystal".{\i0}
+Dialogue: 0,0:39:12.50,0:39:14.20,Default,,0,0,0,,{\i1}Itu tag permainan dia.{\i0}
+Dialogue: 0,0:39:14.22,0:39:17.47,Default,,0,0,0,,Halliday sengaja padam semua\Nsebutan namanya kecuali yang ini.
+Dialogue: 0,0:39:17.49,0:39:19.17,Default,,0,0,0,,Itu aneh. Kenapa?
+Dialogue: 0,0:39:19.96,0:39:21.59,Default,,0,0,0,,Ia seperti tertalu perit buat dia...
+Dialogue: 0,0:39:21.60,0:39:23.71,Default,,0,0,0,,untuk lihat wajahnya\Natau dengar namanya.
+Dialogue: 0,0:39:24.48,0:39:25.97,Default,,0,0,0,,Dia cintakan Kira.
+Dialogue: 0,0:39:26.06,0:39:27.81,Default,,0,0,0,,Dia tak boleh beritahu\Nitu pada Morrow.
+Dialogue: 0,0:39:27.84,0:39:29.91,Default,,0,0,0,,Sedihnya, dia patut\Nberitahu Kira perasaanya.
+Dialogue: 0,0:39:29.93,0:39:30.99,Default,,0,0,0,,Ya, dia terlepas peluang itu.
+Dialogue: 0,0:39:31.00,0:39:32.31,Default,,0,0,0,,Tengok.
+Dialogue: 0,0:39:33.26,0:39:35.97,Default,,0,0,0,,Aku temui petunjuk kepada\Npertandingan itu dalam babak lain.
+Dialogue: 0,0:39:36.38,0:39:38.56,Default,,0,0,0,,Tapi aku rasa petunjuk terbesar\Npada pertandingan tersorok ini...
+Dialogue: 0,0:39:38.57,0:39:39.59,Default,,0,0,0,,terletak di sini.
+Dialogue: 0,0:39:39.59,0:39:40.90,Default,,0,0,0,,Benar.
+Dialogue: 0,0:39:42.76,0:39:44.23,Default,,0,0,0,,Saya kalah.
+Dialogue: 0,0:39:44.50,0:39:45.76,Default,,0,0,0,,Usah kuatir, Kurator.
+Dialogue: 0,0:39:45.77,0:39:48.81,Default,,0,0,0,,Begini, Kira ialah Rosebud\Ndalam cerita dia.
+Dialogue: 0,0:39:48.83,0:39:49.93,Default,,0,0,0,,Dialah misteri terbesar itu!
+Dialogue: 0,0:39:49.94,0:39:52.25,Default,,0,0,0,,Tidak.\NPertaruhan tetap pertaruhan.
+Dialogue: 0,0:39:54.18,0:39:55.95,Default,,0,0,0,,Wah! 25 sen.
+Dialogue: 0,0:39:56.16,0:39:59.14,Default,,0,0,0,,Awak boleh simpan.\N- Tak, awak simpan.
+Dialogue: 0,0:40:02.46,0:40:04.37,Default,,0,0,0,,Awak sibuk tak hari Khamis?
+Dialogue: 0,0:40:04.41,0:40:06.77,Default,,0,0,0,,Siapa, aku?\N- Tak, dia.
+Dialogue: 0,0:40:08.96,0:40:11.04,Default,,0,0,0,,Aduhai, awaklah!
+Dialogue: 0,0:40:12.76,0:40:15.95,Default,,0,0,0,,Kau tahu tak {\i1}The Distracted Globe{\i0}?\N- Ya, kelab tari itu.
+Dialogue: 0,0:40:18.48,0:40:20.98,Default,,0,0,0,,Jumpa aku kat sana.\NPukul 10 malam.
+Dialogue: 0,0:40:21.32,0:40:23.07,Default,,0,0,0,,Aku nak tunjuk benda pada kau.
+Dialogue: 0,0:40:24.57,0:40:25.88,Default,,0,0,0,,Bye!
+Dialogue: 0,0:40:26.88,0:40:28.66,Default,,0,0,0,,Dia ajak saya keluar?
+Dialogue: 0,0:40:28.67,0:40:30.52,Default,,0,0,0,,Saya mula sukakan dia.
+Dialogue: 0,0:40:30.79,0:40:32.44,Default,,0,0,0,,Baik!
+Dialogue: 0,0:40:32.55,0:40:34.03,Default,,0,0,0,,Saya tak buat benda itu.
+Dialogue: 0,0:40:38.06,0:40:39.82,Default,,0,0,0,,Z, tak sangka kau beritahu\Ndia pasal Kira.
+Dialogue: 0,0:40:39.83,0:40:42.22,Default,,0,0,0,,Tapi aku beritahu kau.
+Dialogue: 0,0:40:43.36,0:40:44.71,Default,,0,0,0,,Macam mana dengan ini?
+Dialogue: 0,0:40:46.32,0:40:47.41,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:40:47.43,0:40:49.87,Default,,0,0,0,,Pernah kau fikir tak yang\NArt3mis mungkin pergunakan kau?
+Dialogue: 0,0:40:49.89,0:40:52.75,Default,,0,0,0,,Kawan, dia beri aku petunjuk.\NMungkin aku pergunakan dia.
+Dialogue: 0,0:40:53.59,0:40:55.10,Default,,0,0,0,,Boleh aku cuba gaya lain?
+Dialogue: 0,0:40:55.96,0:40:57.14,Default,,0,0,0,,Thriller?
+Dialogue: 0,0:40:57.16,0:40:58.47,Default,,0,0,0,,Tidak.
+Dialogue: 0,0:40:59.39,0:41:01.60,Default,,0,0,0,,Punk?\N- Tidak.
+Dialogue: 0,0:41:03.66,0:41:06.20,Default,,0,0,0,,Duran Duran?\N- Tidak.
+Dialogue: 0,0:41:06.60,0:41:08.01,Default,,0,0,0,,Apa aku nampak terdesak?
+Dialogue: 0,0:41:08.02,0:41:10.92,Default,,0,0,0,,Ya! Dengar apa kau cakap!
+Dialogue: 0,0:41:10.93,0:41:13.99,Default,,0,0,0,,Kau jatuh cinta siber dengan\Ngadis ini.
+Dialogue: 0,0:41:14.46,0:41:16.93,Default,,0,0,0,,Dia godam hati kau untuk\Nmemasuki kepala kau.
+Dialogue: 0,0:41:18.42,0:41:20.01,Default,,0,0,0,,Aku tahu!
+Dialogue: 0,0:41:21.56,0:41:23.50,Default,,0,0,0,,Buckaroo Banzai?\N- Ya!
+Dialogue: 0,0:41:23.52,0:41:24.39,Default,,0,0,0,,Biar betul?
+Dialogue: 0,0:41:24.40,0:41:26.56,Default,,0,0,0,,Kau nak pakai seragam\Ndari filem kegemaran kau?
+Dialogue: 0,0:41:26.57,0:41:29.27,Default,,0,0,0,,Jangan jadi orang itu.\N- Aku memang orang itu.
+Dialogue: 0,0:41:29.29,0:41:31.96,Default,,0,0,0,,Z, kau kena hati-hati dengan\Norang yang kau jumpa dalam OASIS.
+Dialogue: 0,0:41:31.97,0:41:34.08,Default,,0,0,0,,Aech, Art3mis faham aku.
+Dialogue: 0,0:41:34.09,0:41:36.60,Default,,0,0,0,,Dia akan suka pakaian aku.\NAda keserasian antara kami!
+Dialogue: 0,0:41:36.62,0:41:39.34,Default,,0,0,0,,Malah, ada-kalanya kami...\N- Habiskan ayat masing-masing?
+Dialogue: 0,0:41:39.36,0:41:41.21,Default,,0,0,0,,Ya.\N- Kita pun buat begitu!
+Dialogue: 0,0:41:41.22,0:41:42.90,Default,,0,0,0,,Aku dan kau!
+Dialogue: 0,0:41:42.92,0:41:44.11,Default,,0,0,0,,Ya, aku tahu.
+Dialogue: 0,0:41:44.12,0:41:46.28,Default,,0,0,0,,Tapi, sebab itu kita bersahabat.
+Dialogue: 0,0:41:46.30,0:41:48.72,Default,,0,0,0,,Dia mungkin juga lelaki!
+Dialogue: 0,0:41:48.92,0:41:50.98,Default,,0,0,0,,Tolonglah!\N- Aku serius.
+Dialogue: 0,0:41:51.33,0:41:54.12,Default,,0,0,0,,Dia mungkin lelaki 300 paun...
+Dialogue: 0,0:41:54.13,0:41:56.87,Default,,0,0,0,,yang tinggal bersama ibu\Ndi pinggir kota Detroit.
+Dialogue: 0,0:41:57.26,0:41:58.95,Default,,0,0,0,,Dan bernama Chuck.
+Dialogue: 0,0:42:00.76,0:42:02.41,Default,,0,0,0,,Fikirkanlah.
+Dialogue: 0,0:42:32.87,0:42:34.79,Default,,0,0,0,,{\i1}Itu Parzival, kan?\N- Apa khabar?{\i0}
+Dialogue: 0,0:42:35.30,0:42:37.53,Default,,0,0,0,,{\i1}Parzival!\N- Boleh kita bergambar?{\i0}
+Dialogue: 0,0:42:40.96,0:42:43.07,Default,,0,0,0,,{\i1}Terima kasih.\N- Awak wira saya.{\i0}
+Dialogue: 0,0:42:43.26,0:42:45.05,Default,,0,0,0,,Helo, Parzival.
+Dialogue: 0,0:42:46.92,0:42:48.40,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,0:43:02.72,0:43:05.46,Default,,0,0,0,,Takkanlah!\NBuckaroo Banzai?
+Dialogue: 0,0:43:05.47,0:43:07.86,Default,,0,0,0,,Saya sukakannya!\NSaya suka Buckaroo Banzai!
+Dialogue: 0,0:43:08.23,0:43:10.53,Default,,0,0,0,,Terima kasih!\N- Ia hebat.
+Dialogue: 0,0:43:10.76,0:43:14.86,Default,,0,0,0,,Awak nampak hebat!\N- Terima kasih.
+Dialogue: 0,0:43:34.27,0:43:35.93,Default,,0,0,0,,Pergi dari sini.
+Dialogue: 0,0:43:39.79,0:43:42.34,Default,,0,0,0,,Awak pernah datang ke sini?\NHebat, kan?
+Dialogue: 0,0:43:43.90,0:43:45.15,Default,,0,0,0,,{\i1}Jadi, apa rencana kau?{\i0}
+Dialogue: 0,0:43:45.16,0:43:47.86,Default,,0,0,0,,{\i1}Kau akan bunuh avatar mereka?\NPadam aset mereka?{\i0}
+Dialogue: 0,0:43:47.87,0:43:49.78,Default,,0,0,0,,Mereka berdua berada di\NThe Distracted Globe.
+Dialogue: 0,0:43:49.79,0:43:51.30,Default,,0,0,0,,Aku tak boleh bercakap.
+Dialogue: 0,0:43:52.55,0:43:54.46,Default,,0,0,0,,{\i1}The Distracted Globe ialah\Nsalah sebuah kelab pertama...{\i0}
+Dialogue: 0,0:43:54.47,0:43:57.22,Default,,0,0,0,,{\i1}dicipta Halliday dalam OASIS.\NSemua orang tahu.{\i0}
+Dialogue: 0,0:43:57.59,0:44:00.23,Default,,0,0,0,,Tapi saya periksa sekali, dan\Nrupa-rupanya dia mula...
+Dialogue: 0,0:44:00.25,0:44:02.11,Default,,0,0,0,,tepat selepas detik\Nawak tunjuk pada saya.
+Dialogue: 0,0:44:02.12,0:44:05.17,Default,,0,0,0,,Temujanji bersama Kira.\N- Benar, Kira pandai menari.
+Dialogue: 0,0:44:05.26,0:44:07.20,Default,,0,0,0,,Mungkin dia nak bawa Kira ke sini.
+Dialogue: 0,0:44:07.22,0:44:09.53,Default,,0,0,0,,Seperti temujanji maya.
+Dialogue: 0,0:44:10.11,0:44:11.70,Default,,0,0,0,,Anggap ia berjaya.
+Dialogue: 0,0:44:11.99,0:44:13.45,Default,,0,0,0,,Jadi, Halliday bina ini untuk dia.
+Dialogue: 0,0:44:13.46,0:44:15.09,Default,,0,0,0,,Tapi mereka hanya keluar\Npada temujanji pertama.
+Dialogue: 0,0:44:15.10,0:44:17.42,Default,,0,0,0,,Jadi Halliday ialah pencipta...\N- yang bencikan ciptaannya.
+Dialogue: 0,0:44:17.42,0:44:18.80,Default,,0,0,0,,Dan kelab ini adalah\Nbenda yang dia benci.
+Dialogue: 0,0:44:18.82,0:44:20.90,Default,,0,0,0,,Dan 'Kunci yang tersorok,\Nrisiko yang tidak diambil.'
+Dialogue: 0,0:44:24.76,0:44:26.22,Default,,0,0,0,,Tapi orang terjun dari sini\Nselama satu malam.
+Dialogue: 0,0:44:26.23,0:44:28.21,Default,,0,0,0,,Tapi mereka tiada Kunci Tembaga.
+Dialogue: 0,0:44:28.22,0:44:29.76,Default,,0,0,0,,{\i1}Jadi kalau kita terjun...{\i0}
+Dialogue: 0,0:44:29.77,0:44:31.60,Default,,0,0,0,,{\i1}mungkin ia berbeza.{\i0}
+Dialogue: 0,0:44:32.36,0:44:33.67,Default,,0,0,0,,{\i1}Benar?\N- Ya.{\i0}
+Dialogue: 0,0:44:35.69,0:44:38.25,Default,,0,0,0,,Apa kata bersama?\N- Tentulah.
+Dialogue: 0,0:44:40.36,0:44:42.47,Default,,0,0,0,,Saya bukan nak jatuhkan awak.
+Dialogue: 0,0:44:42.56,0:44:43.82,Default,,0,0,0,,Mestilah tak.
+Dialogue: 0,0:44:43.83,0:44:45.57,Default,,0,0,0,,Saya tak takut.
+Dialogue: 0,0:44:56.71,0:44:58.06,Default,,0,0,0,,Saya rasa ini bukan petunjuknya.
+Dialogue: 0,0:44:58.07,0:45:00.52,Default,,0,0,0,,Tak ada papan mata, tak ada cabaran.
+Dialogue: 0,0:45:00.54,0:45:02.53,Default,,0,0,0,,Mungkin cabaran menari?
+Dialogue: 0,0:45:18.71,0:45:20.47,Default,,0,0,0,,Gaya lama!
+Dialogue: 0,0:45:29.34,0:45:30.65,Default,,0,0,0,,Apa?
+Dialogue: 0,0:45:43.75,0:45:46.47,Default,,0,0,0,,Awak ada buat persiapan?\N- Persiapan?
+Dialogue: 0,0:45:50.16,0:45:52.13,Default,,0,0,0,,Haptik apa yang awak pakai?
+Dialogue: 0,0:45:52.69,0:45:55.45,Default,,0,0,0,,Awak ada sarung tangan dan visor penuh\Natau ada di seluruh badan awak?
+Dialogue: 0,0:45:58.86,0:46:00.77,Default,,0,0,0,,Awak boleh rasa?
+Dialogue: 0,0:46:03.79,0:46:05.03,Default,,0,0,0,,Ya.
+Dialogue: 0,0:46:05.05,0:46:08.39,Default,,0,0,0,,Saya pakai sut Haptik X1\Ndengan lapik celah kangkang.
+Dialogue: 0,0:46:21.04,0:46:24.06,Default,,0,0,0,,Parzival.\NAwak betul-betul buat persiapan.
+Dialogue: 0,0:46:26.89,0:46:28.20,Default,,0,0,0,,Jadi...
+Dialogue: 0,0:46:28.51,0:46:30.07,Default,,0,0,0,,Saya rasa...
+Dialogue: 0,0:46:30.69,0:46:33.24,Default,,0,0,0,,Mungkin ada eloknya jika kita\Nbertemu di dunia nyata.
+Dialogue: 0,0:46:33.26,0:46:37.44,Default,,0,0,0,,Awak akan kecewa nanti.\N- Saya takkan begitu. Saya suka awak.
+Dialogue: 0,0:46:37.46,0:46:38.89,Default,,0,0,0,,Awak tak kenal saya pun.
+Dialogue: 0,0:46:39.52,0:46:41.44,Default,,0,0,0,,Ini bukan rupa saya yang sebenar.
+Dialogue: 0,0:46:41.46,0:46:44.92,Default,,0,0,0,,Ini bukan tubuh atau wajah\Nsebenar saya.
+Dialogue: 0,0:46:45.56,0:46:46.65,Default,,0,0,0,,Saya tak kesah.
+Dialogue: 0,0:46:46.66,0:46:49.13,Default,,0,0,0,,Saya nak tahu nama sebenar awak.
+Dialogue: 0,0:47:01.88,0:47:03.80,Default,,0,0,0,,Nama saya Wade.\N- Apa?
+Dialogue: 0,0:47:04.93,0:47:07.10,Default,,0,0,0,,Saya kata nama saya...\N- Hentikan.
+Dialogue: 0,0:47:07.22,0:47:09.92,Default,,0,0,0,,Buckaroo sudah terbongkar.\NMengejutkan.
+Dialogue: 0,0:47:09.94,0:47:10.99,Default,,0,0,0,,Awak gila ke?
+Dialogue: 0,0:47:11.00,0:47:14.15,Default,,0,0,0,,Jangan beritahu sesiapa nama awak.\NJangan guna nama sebenar.
+Dialogue: 0,0:47:14.17,0:47:16.34,Default,,0,0,0,,Awak bukan sesiapa.\N- Awak tak kenal saya.
+Dialogue: 0,0:47:16.42,0:47:18.78,Default,,0,0,0,,Awak tak tahu apa-apa pasal saya.\NKita tak pernah jumpa.
+Dialogue: 0,0:47:18.81,0:47:20.19,Default,,0,0,0,,Saya kenal awak, Arty.
+Dialogue: 0,0:47:21.92,0:47:23.52,Default,,0,0,0,,Saya cintakan awak.
+Dialogue: 0,0:47:31.86,0:47:33.90,Default,,0,0,0,,Ini salah satu cabaran itu?\N- Tidak!
+Dialogue: 0,0:47:34.22,0:47:35.70,Default,,0,0,0,,Ini serangan hendap!
+Dialogue: 0,0:47:43.26,0:47:45.57,Default,,0,0,0,,IOI memang suka jadi penghalang.
+Dialogue: 0,0:47:45.84,0:47:47.52,Default,,0,0,0,,Awak dengar saya kata apa?\NSaya cintakan awak.
+Dialogue: 0,0:47:47.54,0:47:49.10,Default,,0,0,0,,Awak tak cintakan saya.
+Dialogue: 0,0:47:50.51,0:47:51.92,Default,,0,0,0,,Awak cuma tahu apa\Nsaya nak awak tahu.
+Dialogue: 0,0:47:51.93,0:47:54.27,Default,,0,0,0,,Awak nampak apa\Nsaya nak awak lihat.
+Dialogue: 0,0:47:56.99,0:47:58.72,Default,,0,0,0,,Awak jatuh cinta dengan itu.
+Dialogue: 0,0:48:12.56,0:48:13.87,Default,,0,0,0,,Jaga-jaga!
+Dialogue: 0,0:48:37.81,0:48:38.91,Default,,0,0,0,,Tarik!
+Dialogue: 0,0:48:38.93,0:48:41.24,Default,,0,0,0,,Pergi balik, Z!\NSistem pertahanan awak makin lemah!
+Dialogue: 0,0:48:41.26,0:48:42.73,Default,,0,0,0,,Saya baru beli ni.
+Dialogue: 0,0:48:50.34,0:48:51.46,Default,,0,0,0,,Kiub Zemeckis.
+Dialogue: 0,0:48:51.47,0:48:53.74,Default,,0,0,0,,Putarkan masa ke\N60 saat yang lepas.
+Dialogue: 0,0:48:58.39,0:49:00.52,Default,,0,0,0,,Baru sekarang awak nak guna?
+Dialogue: 0,0:49:09.08,0:49:10.39,Default,,0,0,0,,Awak memang hebat.
+Dialogue: 0,0:49:13.89,0:49:15.63,Default,,0,0,0,,Saya serius, Z.
+Dialogue: 0,0:49:17.00,0:49:19.04,Default,,0,0,0,,Saya lakukan ini\Nuntuk menghalang IOI.
+Dialogue: 0,0:49:19.06,0:49:22.73,Default,,0,0,0,,Saya maksudkan musibah dunia nyata.\NOrang menderita.
+Dialogue: 0,0:49:22.76,0:49:23.92,Default,,0,0,0,,Hal hidup dan mati.
+Dialogue: 0,0:49:23.94,0:49:26.05,Default,,0,0,0,,Saya tahu.\N- Tak, awak tak tahu!
+Dialogue: 0,0:49:26.53,0:49:28.75,Default,,0,0,0,,Ayah saya mati dalam pusat loyalti.
+Dialogue: 0,0:49:30.06,0:49:32.78,Default,,0,0,0,,Dia pinjam peralatan,\Nhutangnya keliling pinggang.
+Dialogue: 0,0:49:33.07,0:49:36.13,Default,,0,0,0,,Dia pindah masuk dan berjanji\Nuntuk lunaskan hutang, tapi gagal.
+Dialogue: 0,0:49:36.59,0:49:38.26,Default,,0,0,0,,IOI tingkatkan kos sara dirinya.
+Dialogue: 0,0:49:38.27,0:49:41.77,Default,,0,0,0,,Kemudian dia jatuh sakit, dia tak\Nmampu lunaskannya dan dia mati!
+Dialogue: 0,0:49:42.66,0:49:43.99,Default,,0,0,0,,Maaf, saya tak tahu.
+Dialogue: 0,0:49:44.02,0:49:45.60,Default,,0,0,0,,Awak tak hidup di dunia nyata, Z.
+Dialogue: 0,0:49:46.02,0:49:48.61,Default,,0,0,0,,Dari apa awak beritahu saya,\Nsaya rasa awak tak pernah.
+Dialogue: 0,0:49:49.02,0:49:52.60,Default,,0,0,0,,Awak hidup dalam ilusi ini.
+Dialogue: 0,0:49:52.72,0:49:54.92,Default,,0,0,0,,Dan saya tak boleh\Nbiar awak ganggu saya.
+Dialogue: 0,0:50:07.46,0:50:10.82,Default,,0,0,0,,Bagaimana mereka terlepas?\N- Kau nak versi panjang?
+Dialogue: 0,0:50:10.83,0:50:13.56,Default,,0,0,0,,Orang kau tak berguna.\NMereka gagal bunuh avatarnya.
+Dialogue: 0,0:50:13.57,0:50:15.90,Default,,0,0,0,,Yang mana kami\Nmemberi kritikan membina...
+Dialogue: 0,0:50:15.93,0:50:18.76,Default,,0,0,0,,dan itu idea bodoh\Nserta hanya akan perlahankan dia.
+Dialogue: 0,0:50:18.78,0:50:23.16,Default,,0,0,0,,Manakala rancangan aku lebih bagus\Ndan berkesan, sebab aku hebat.
+Dialogue: 0,0:50:23.17,0:50:26.32,Default,,0,0,0,,Namanya masih di papan itu!\N- Aku tahu, Nolan!
+Dialogue: 0,0:50:26.33,0:50:28.34,Default,,0,0,0,,Tapi takkan lama lagi di sana.
+Dialogue: 0,0:50:28.49,0:50:32.88,Default,,0,0,0,,Aku dah cari semua Wade\Nyang baru-baru ini beli sut but X1.
+Dialogue: 0,0:50:32.90,0:50:35.96,Default,,0,0,0,,Buat padanan dengan\Nrekod awam dan {\i1}voila{\i0}.
+Dialogue: 0,0:50:35.97,0:50:39.58,Default,,0,0,0,,Yakni dari perkataan Perancis untuk\N"{\i1}...dan saya jumpa{\i0}".
+Dialogue: 0,0:50:40.24,0:50:41.47,Default,,0,0,0,,Sedia?
+Dialogue: 0,0:50:41.49,0:50:44.20,Default,,0,0,0,,Identiti dunia nyata Parzival.
+Dialogue: 0,0:50:44.36,0:50:46.79,Default,,0,0,0,,Ialah Wade Watts.
+Dialogue: 0,0:50:47.31,0:50:49.40,Default,,0,0,0,,{\i1}Voila.{\i0}
+Dialogue: 0,0:50:50.39,0:50:52.54,Default,,0,0,0,,Awak setia tak, Cik Zandor?
+Dialogue: 0,0:50:53.32,0:50:55.34,Default,,0,0,0,,Encik nak suruh saya jawab itu?
+Dialogue: 0,0:50:55.87,0:50:59.09,Default,,0,0,0,,Dalam perang, awak perlu orang\Nyang ada kesetiaan tak berbelah bahagi.
+Dialogue: 0,0:50:59.69,0:51:01.56,Default,,0,0,0,,Orang yang kita boleh harapkan\Nuntuk laksanakan tugas.
+Dialogue: 0,0:51:01.57,0:51:04.20,Default,,0,0,0,,Saya cuma tangkap orang\Nyang tak bayar bil.
+Dialogue: 0,0:51:04.22,0:51:07.08,Default,,0,0,0,,Ya, sebab ada masalah\Nmemerlukan penyelesaian fizikal.
+Dialogue: 0,0:51:07.09,0:51:09.62,Default,,0,0,0,,Tapi ada-kalanya,\Ntertamanya bila perang...
+Dialogue: 0,0:51:09.63,0:51:11.32,Default,,0,0,0,,kita perlukan peraturan berbeza...
+Dialogue: 0,0:51:11.33,0:51:12.93,Default,,0,0,0,,Peraturan perang.\N- Tepat sekali.
+Dialogue: 0,0:51:12.95,0:51:15.84,Default,,0,0,0,,Malangnya perlembagaan saya\Ntak beroperasi di dalam OASIS.
+Dialogue: 0,0:51:15.86,0:51:20.34,Default,,0,0,0,,Tapi kalau perang ini kekal di dalam\NOASIS maka awak tak boleh buat apa-apa.
+Dialogue: 0,0:51:21.20,0:51:24.40,Default,,0,0,0,,Jadi, ini perbualan\Nyang perlu dirahsiakan?
+Dialogue: 0,0:51:24.58,0:51:27.33,Default,,0,0,0,,Kita pernah adakan perbualan begini\Ndan lihat keadaan awak sekarang.
+Dialogue: 0,0:51:27.34,0:51:30.00,Default,,0,0,0,,Awak ahli lembaga\Nmengetuai perlembagaan awak.
+Dialogue: 0,0:51:30.01,0:51:34.95,Default,,0,0,0,,Perlembagaan yang akan pupus jika\Nmusuh kita menang pertandingan. F'Nale.
+Dialogue: 0,0:51:35.34,0:51:37.24,Default,,0,0,0,,Pertandingan menentukan takdir kita.
+Dialogue: 0,0:51:37.25,0:51:40.42,Default,,0,0,0,,Persoalannya, apa awak sanggup\Nbuat untuk memenanginya?
+Dialogue: 0,0:51:43.29,0:51:45.15,Default,,0,0,0,,Apa awak nak, Nolan.
+Dialogue: 0,0:52:20.00,0:52:21.80,Default,,0,0,0,,MESEJ DARI NOLAN SORRENTO
+Dialogue: 0,0:52:21.81,0:52:22.99,Default,,0,0,0,,{\i1}Parzival, ini tawaran saya.{\i0}
+Dialogue: 0,0:52:23.01,0:52:24.34,Default,,0,0,0,,{\i1}Awak akan dapat apa awak nak.\NTermasuk telur Haliday.{\i0}
+Dialogue: 0,0:52:24.35,0:52:27.15,Default,,0,0,0,,{\i1}Untuk berbual sila tekan Prisma.{\i0}
+Dialogue: 0,0:53:09.10,0:53:09.90,Default,,0,0,0,,Aku kat mana?
+Dialogue: 0,0:53:09.91,0:53:12.98,Default,,0,0,0,,IOI plaza, kau\Nhologram dalam dunia nyata.
+Dialogue: 0,0:53:13.79,0:53:15.27,Default,,0,0,0,,Itu pelantar yang canggih.
+Dialogue: 0,0:53:15.28,0:53:19.33,Default,,0,0,0,,Terima kasih, ini Habashaw baru,\NOAR-9400.
+Dialogue: 0,0:53:19.36,0:53:21.32,Default,,0,0,0,,Ia macam bebola Hamster gergasi.
+Dialogue: 0,0:53:21.33,0:53:23.87,Default,,0,0,0,,Kalau kau bekerja di IOI...
+Dialogue: 0,0:53:23.90,0:53:25.94,Default,,0,0,0,,kau akan dapat benda ini.
+Dialogue: 0,0:53:26.29,0:53:27.56,Default,,0,0,0,,Aku tak suka ada geng.
+Dialogue: 0,0:53:27.59,0:53:30.54,Default,,0,0,0,,Kau juga dapat\Napartmen emper di Columbus...
+Dialogue: 0,0:53:30.55,0:53:32.61,Default,,0,0,0,,dengan penyambungan\Npaling tinggi.
+Dialogue: 0,0:53:32.68,0:53:34.19,Default,,0,0,0,,Dalam OASIS...
+Dialogue: 0,0:53:34.20,0:53:37.84,Default,,0,0,0,,kau akan dapat berbagai\Nsenjata, objek sakti, kapal...
+Dialogue: 0,0:53:37.85,0:53:39.74,Default,,0,0,0,,KATA LALUAN - Bo55man69\N{\i1}- Kau nak kapal dari Defender?{\i0}
+Dialogue: 0,0:53:39.76,0:53:42.63,Default,,0,0,0,,Jenis yang terus memasuki ruang angkasa?
+Dialogue: 0,0:53:42.66,0:53:44.90,Default,,0,0,0,,Kau nak {\i1}Millennium Falcon{\i0}?
+Dialogue: 0,0:53:45.36,0:53:46.92,Default,,0,0,0,,Kau ada itu?
+Dialogue: 0,0:53:46.94,0:53:49.60,Default,,0,0,0,,Apa saja kau nak untuk\Ncari telur itu.
+Dialogue: 0,0:53:49.61,0:53:51.21,Default,,0,0,0,,Dan juga gaji kau...
+Dialogue: 0,0:53:52.37,0:53:54.13,Default,,0,0,0,,empat juta setahun.
+Dialogue: 0,0:53:54.37,0:53:56.57,Default,,0,0,0,,Dan kalau kau temui telur Easter itu...
+Dialogue: 0,0:53:56.58,0:54:00.30,Default,,0,0,0,,kau akan dapat bonus $ 25 juta.
+Dialogue: 0,0:54:06.04,0:54:09.96,Default,,0,0,0,,Aku tahu kau guna perisisan\Npengekang emosi ketika ini.
+Dialogue: 0,0:54:10.00,0:54:12.65,Default,,0,0,0,,Dan kenapa tidak?\NBijak kerana tak menunjukkan kau di sini.
+Dialogue: 0,0:54:17.44,0:54:18.86,Default,,0,0,0,,Itu duit yang banyak...
+Dialogue: 0,0:54:18.87,0:54:20.72,Default,,0,0,0,,Berguna untuk aku.
+Dialogue: 0,0:54:23.69,0:54:25.00,Default,,0,0,0,,Tapi...
+Dialogue: 0,0:54:26.21,0:54:28.46,Default,,0,0,0,,Kau dan aku ada matlamat\Nyang sama.
+Dialogue: 0,0:54:28.73,0:54:31.35,Default,,0,0,0,,{\i1}Belum tahu lagi.\NApa, untuk OASIS?{\i0}
+Dialogue: 0,0:54:31.72,0:54:34.69,Default,,0,0,0,,Jika kau bukan peminat John Hugh.
+Dialogue: 0,0:54:35.94,0:54:37.38,Default,,0,0,0,,Tentulah aku peminatnya.
+Dialogue: 0,0:54:37.80,0:54:39.74,Default,,0,0,0,,Sebab pertama sekali aku nak buat...
+Dialogue: 0,0:54:39.75,0:54:43.04,Default,,0,0,0,,ubah semua sekolah di Ludus...
+Dialogue: 0,0:54:43.05,0:54:45.19,Default,,0,0,0,,daripada "{\i1}The Breakfast Club{\i0} "...
+Dialogue: 0,0:54:45.20,0:54:47.01,Default,,0,0,0,,dan "{\i1}Ferris Bueller{\i0}".
+Dialogue: 0,0:54:47.22,0:54:49.34,Default,,0,0,0,,Tak mungkin.\NItu idea yang bagus.
+Dialogue: 0,0:54:50.29,0:54:51.30,Default,,0,0,0,,Sekolah mana satu?
+Dialogue: 0,0:54:51.31,0:54:52.77,Default,,0,0,0,,Ridgemont atau Faber?
+Dialogue: 0,0:54:52.80,0:54:55.87,Default,,0,0,0,,"{\i1}Fast Times at Ridgemont High{\i0}"\Nbukan oleh John Hughes.
+Dialogue: 0,0:54:55.88,0:54:56.97,Default,,0,0,0,,Ia satu perangkap.
+Dialogue: 0,0:54:57.00,0:54:59.20,Default,,0,0,0,,Faber College daripada "{\i1}Animal House{\i0} ".
+Dialogue: 0,0:54:59.21,0:55:03.51,Default,,0,0,0,,John Hughes bukan pengarah {\i1}Fast Times\Nat Richmond High{\i0} atau {\i1}Animal House{\i0}.
+Dialogue: 0,0:55:03.54,0:55:05.67,Default,,0,0,0,,Ferris Bueller dan The\NBreakfast Club...
+Dialogue: 0,0:55:05.68,0:55:06.94,Default,,0,0,0,,mereka menuntut di\NSekolah Tinggi Sherman...
+Dialogue: 0,0:55:06.95,0:55:08.48,Default,,0,0,0,,yang terletak di Shermer, Illinois.
+Dialogue: 0,0:55:08.51,0:55:10.38,Default,,0,0,0,,Aku tahu apa kau fikir.
+Dialogue: 0,0:55:10.83,0:55:14.69,Default,,0,0,0,,Kau ingat aku eksekutif korporat.\NYang tak menghayati budaya pop.
+Dialogue: 0,0:55:15.84,0:55:19.06,Default,,0,0,0,,Itu tak benar.\NBila aku nak hilangkan stres...
+Dialogue: 0,0:55:19.09,0:55:22.64,Default,,0,0,0,,Minum "{\i1}Tab{\i0} ", main "{\i1}Robotron{\i0}",\Ndengar lagu Duran Duran.
+Dialogue: 0,0:55:22.97,0:55:26.69,Default,,0,0,0,,Aku mainkan lagu "{\i1} Tab{\i0} ", Duran\NDuran dan aku main "{\i1}Robotron{\i0} ".
+Dialogue: 0,0:55:26.70,0:55:29.10,Default,,0,0,0,,Gara-gara itulah aku suka OASIS.
+Dialogue: 0,0:55:29.16,0:55:33.91,Default,,0,0,0,,Sebab ia penuh dengan benda\Nitu, yang semua orang suka...
+Dialogue: 0,0:55:41.78,0:55:44.09,Default,,0,0,0,,Aku ahli perniagaan.\NAku faham.
+Dialogue: 0,0:55:44.12,0:55:46.40,Default,,0,0,0,,Tapi aku mesti jalankan tugas aku.
+Dialogue: 0,0:55:46.91,0:55:51.91,Default,,0,0,0,,Tapi aku tak suruh kau buat, hanya\Nuntuk bantu kami cari telur itu, Parzival.
+Dialogue: 0,0:55:52.56,0:55:56.23,Default,,0,0,0,,Aku suruh kau datang untuk\Ntahu kejadian selepas itu.
+Dialogue: 0,0:55:57.77,0:55:59.68,Default,,0,0,0,,Apa yang Halliday akan kata?
+Dialogue: 0,0:56:00.36,0:56:03.38,Default,,0,0,0,,James Halliday dah mati.
+Dialogue: 0,0:56:04.39,0:56:07.91,Default,,0,0,0,,Ya, benar.
+Dialogue: 0,0:56:08.50,0:56:11.01,Default,,0,0,0,,Apa yang dia tinggalkan\Nhanya pertandingan ini.
+Dialogue: 0,0:56:11.29,0:56:12.60,Default,,0,0,0,,Kau tahu apa?
+Dialogue: 0,0:56:13.20,0:56:15.58,Default,,0,0,0,,Nampaknya dia enggan\Nbagi kau menanginya.
+Dialogue: 0,0:56:15.74,0:56:17.00,Default,,0,0,0,,Seorang peminat kenal pembenci...
+Dialogue: 0,0:56:17.01,0:56:19.91,Default,,0,0,0,,dan aku satu kau ada\Nahli ovologi berbisik di telinga kau.
+Dialogue: 0,0:56:19.94,0:56:22.01,Default,,0,0,0,,Jadi, kau nak tahu apa aku fikir?
+Dialogue: 0,0:56:22.04,0:56:23.72,Default,,0,0,0,,Aku rasa kau kaki kencing.
+Dialogue: 0,0:56:28.64,0:56:29.97,Default,,0,0,0,,Ini tawaran aku.
+Dialogue: 0,0:56:29.98,0:56:33.21,Default,,0,0,0,,Lembaga Pengarah,\Nmereka dengar cakap kau, kan?
+Dialogue: 0,0:56:35.18,0:56:36.01,Default,,0,0,0,,Beritahu mereka ini,..
+Dialogue: 0,0:56:36.03,0:56:38.07,Default,,0,0,0,,Jika mereka pecat kau,\Naku akan pertimbangkannya.
+Dialogue: 0,0:56:38.22,0:56:40.27,Default,,0,0,0,,Aku nak cakap sesuatu\Nyang tak rasmi.
+Dialogue: 0,0:56:41.06,0:56:43.57,Default,,0,0,0,,Aku terpaksa buat tawaran,\Nlembaga nak aku lakukannya...
+Dialogue: 0,0:56:43.58,0:56:45.86,Default,,0,0,0,,tapi aku sangat berharap\Nkau menolaknya.
+Dialogue: 0,0:56:46.04,0:56:49.20,Default,,0,0,0,,Sebab jika ada sesiapa yang akan\Nmenang pertandingan ini, akulah orangnya.
+Dialogue: 0,0:56:49.21,0:56:50.64,Default,,0,0,0,,Avatar aku dapat telur itu...
+Dialogue: 0,0:56:50.65,0:56:54.25,Default,,0,0,0,,sebab aku seorang saja disini\Nyang berani kendalikan tempat ini.
+Dialogue: 0,0:56:55.87,0:56:57.07,Default,,0,0,0,,Wah, tiba-tiba nada kau berubah.
+Dialogue: 0,0:56:57.08,0:56:59.36,Default,,0,0,0,,Daripada munasabah\Nkepada orang gila kuasa.
+Dialogue: 0,0:57:00.31,0:57:02.52,Default,,0,0,0,,Kau patut bersyukur, Wade.
+Dialogue: 0,0:57:03.34,0:57:06.64,Default,,0,0,0,,Kau dah tiada\Nsemasa aku bermharajalela.
+Dialogue: 0,0:57:06.66,0:57:08.49,Default,,0,0,0,,Ya, benar.\NAku tahu kau siapa.
+Dialogue: 0,0:57:08.52,0:57:10.64,Default,,0,0,0,,Wade Owen Watts.
+Dialogue: 0,0:57:10.74,0:57:13.48,Default,,0,0,0,,Dilahirkan pada 12hb Ogos 2027.
+Dialogue: 0,0:57:13.80,0:57:15.29,Default,,0,0,0,,Aku tahu kau tinggal di mana.
+Dialogue: 0,0:57:15.30,0:57:17.44,Default,,0,0,0,,Unit 56-K, Timbunan Columbus.
+Dialogue: 0,0:57:17.45,0:57:20.54,Default,,0,0,0,,Kali terakhir kau masuk ke dalam\Ntreler ialah tiga hari lepas.
+Dialogue: 0,0:57:20.55,0:57:22.19,Default,,0,0,0,,Kau belum keluar lagi sejak itu...
+Dialogue: 0,0:57:22.42,0:57:24.44,Default,,0,0,0,,{\i1}Apa kau buat?{\i0}\N- Dengan dunia yang huru-hara...
+Dialogue: 0,0:57:24.45,0:57:27.07,Default,,0,0,0,,Kau ingat ada sesiapa\Nakan kesah tentang letupan,..
+Dialogue: 0,0:57:27.08,0:57:30.28,Default,,0,0,0,,Di kawasan kota di Columbus?
+Dialogue: 0,0:57:30.52,0:57:32.68,Default,,0,0,0,,Sorrento, jangan buat begini!\NAku tiada di sana!
+Dialogue: 0,0:57:32.98,0:57:34.69,Default,,0,0,0,,Tak lama lagi.
+Dialogue: 0,0:57:38.78,0:57:40.48,Default,,0,0,0,,Hubungi Alice.
+Dialogue: 0,0:57:40.82,0:57:42.28,Default,,0,0,0,,Telefon Alice.
+Dialogue: 0,0:58:08.85,0:58:11.19,Default,,0,0,0,,Jawablah, Alice!
+Dialogue: 0,0:58:16.22,0:58:18.46,Default,,0,0,0,,Sut but ini hebat.\NTerima kasih sangat.
+Dialogue: 0,0:58:18.48,0:58:22.01,Default,,0,0,0,,Rick, tempat itu akan meletup!\N- Rick, itu Wade ke?
+Dialogue: 0,0:58:22.07,0:58:24.26,Default,,0,0,0,,Aku nak bercakap dengan Alice!\N- Saya nak bercakap dengan dia.
+Dialogue: 0,0:58:24.28,0:58:26.53,Default,,0,0,0,,Jangan telefon ke sini lagi.\NFaham?
+Dialogue: 0,0:58:27.67,0:58:30.13,Default,,0,0,0,,Aku tak nak dengar suara kau lagi.
+Dialogue: 0,0:59:07.52,0:59:10.88,Default,,0,0,0,,Hubungi Aech, Daito,\NSho dan Art3mis.
+Dialogue: 0,0:59:11.82,0:59:13.94,Default,,0,0,0,,IOI memburu aku di dunia nyata.
+Dialogue: 0,0:59:13.96,0:59:16.72,Default,,0,0,0,,Mereka mesti datang cari kalian\Njadi tak kira di mana kalian berada...
+Dialogue: 0,0:59:42.82,0:59:44.79,Default,,0,0,0,,Maaf kerana tutup mata awak.
+Dialogue: 0,0:59:44.82,0:59:46.93,Default,,0,0,0,,Orang saya tak percayakan awak.
+Dialogue: 0,0:59:48.08,0:59:49.69,Default,,0,0,0,,Cakap lagi sekali.
+Dialogue: 0,0:59:50.42,0:59:52.43,Default,,0,0,0,,Orang saya tak percayakan awak.
+Dialogue: 0,0:59:53.62,0:59:55.06,Default,,0,0,0,,Art3mis?
+Dialogue: 0,0:59:56.82,0:59:59.04,Default,,0,0,0,,Nama sebenar saya\NSamantha, tapi ya.
+Dialogue: 0,0:59:59.58,1:00:00.98,Default,,0,0,0,,Saya Art3mis.
+Dialogue: 0,1:00:02.55,1:00:05.34,Default,,0,0,0,,Bilik mandi di sebelah sana,\Nbaju bersih pun.
+Dialogue: 0,1:00:08.58,1:00:10.33,Default,,0,0,0,,Selamat datang ke markas\Npemberontak...
+Dialogue: 0,1:00:11.07,1:00:12.43,Default,,0,0,0,,Wade.
+Dialogue: 0,1:00:23.67,1:00:25.38,Default,,0,0,0,,Itu IOI.
+Dialogue: 0,1:00:25.72,1:00:27.59,Default,,0,0,0,,Jadi timbunan itu di sebelah sana?
+Dialogue: 0,1:00:29.25,1:00:31.68,Default,,0,0,0,,Kita tinggal berdekatan selama ini?
+Dialogue: 0,1:00:33.42,1:00:34.83,Default,,0,0,0,,Jiran sebelah...
+Dialogue: 0,1:00:35.78,1:00:39.69,Default,,0,0,0,,di dunia nyata, di dalam OASIS\Nsemuanya sama.
+Dialogue: 0,1:00:42.14,1:00:43.48,Default,,0,0,0,,Untuk pengetahuan awak...
+Dialogue: 0,1:00:46.12,1:00:47.93,Default,,0,0,0,,Saya tak rasa kecewa.
+Dialogue: 0,1:00:49.92,1:00:53.12,Default,,0,0,0,,Awak kata saya akan kecewa bila\Nsaya jumpa awak...
+Dialogue: 0,1:00:53.77,1:00:55.19,Default,,0,0,0,,tapi saya tak begitu.
+Dialogue: 0,1:00:56.45,1:00:59.20,Default,,0,0,0,,Saya dilahirkan dengan\Ntanda lahir begini. Jangan pura-pura.
+Dialogue: 0,1:01:13.64,1:01:15.35,Default,,0,0,0,,Awak ada tanda lahir.
+Dialogue: 0,1:01:15.68,1:01:17.24,Default,,0,0,0,,Jadi kenapa?
+Dialogue: 0,1:01:17.55,1:01:19.35,Default,,0,0,0,,Saya tak kesah.
+Dialogue: 0,1:01:26.81,1:01:28.92,Default,,0,0,0,,Z, kalau saya lukakan hati awak...
+Dialogue: 0,1:01:29.16,1:01:30.47,Default,,0,0,0,,Tidak...
+Dialogue: 0,1:01:31.33,1:01:33.45,Default,,0,0,0,,Kejap, kenapa awak panggil saya "Z"?
+Dialogue: 0,1:01:34.67,1:01:36.79,Default,,0,0,0,,Alamak, betul ke?\N- Rasanya betul.
+Dialogue: 0,1:01:37.33,1:01:40.34,Default,,0,0,0,,Wade, maafkan saya.\N- Ya, Wade, Z...
+Dialogue: 0,1:01:40.95,1:01:42.88,Default,,0,0,0,,Panggil saya apa awak suka.
+Dialogue: 0,1:01:43.32,1:01:45.03,Default,,0,0,0,,Saya panggil awak, Sam.\N- Tidak.
+Dialogue: 0,1:01:46.12,1:01:47.40,Default,,0,0,0,,Samantha?
+Dialogue: 0,1:01:47.42,1:01:48.78,Default,,0,0,0,,Okey.
+Dialogue: 0,1:01:49.32,1:01:50.63,Default,,0,0,0,,Baik.
+Dialogue: 0,1:01:59.75,1:02:01.78,Default,,0,0,0,,Jauh lebih tenteram kat sini.
+Dialogue: 0,1:02:03.12,1:02:04.43,Default,,0,0,0,,Maksud saya...
+Dialogue: 0,1:02:05.02,1:02:06.62,Default,,0,0,0,,Angin, orangnya.
+Dialogue: 0,1:02:08.45,1:02:10.06,Default,,0,0,0,,Segalanya.
+Dialogue: 0,1:02:15.52,1:02:17.70,Default,,0,0,0,,Kita terlupa keadaan di luar.
+Dialogue: 0,1:02:17.91,1:02:19.22,Default,,0,0,0,,Ya.
+Dialogue: 0,1:02:23.67,1:02:25.34,Default,,0,0,0,,Alamak!
+Dialogue: 0,1:02:25.72,1:02:27.37,Default,,0,0,0,,Saya dah tahu!\N- Tahu apa dia?
+Dialogue: 0,1:02:27.39,1:02:29.38,Default,,0,0,0,,Petunjuk kedua!\NSaya tahu maknanya.
+Dialogue: 0,1:02:35.07,1:02:37.18,Default,,0,0,0,,Kita fikirkannya secara harafiah.
+Dialogue: 0,1:02:37.22,1:02:39.52,Default,,0,0,0,,"{\i1}Risiko yang tak diambil{\i0} ",\Nrisiko yang Halliday tak ambil...
+Dialogue: 0,1:02:39.53,1:02:40.90,Default,,0,0,0,,ialah bersama Kira.
+Dialogue: 0,1:02:40.95,1:02:44.42,Default,,0,0,0,,Ya, tapi dia salahkan Kira kerana\Nrosakkan hubungannya dengan Morrow.
+Dialogue: 0,1:02:45.06,1:02:47.65,Default,,0,0,0,,Bukan, Halliday\Nsangat cintakan dia.
+Dialogue: 0,1:02:47.96,1:02:50.38,Default,,0,0,0,,Dia ada peluang bersama Kira\Ndan mencium Kira, tapi...
+Dialogue: 0,1:02:50.40,1:02:52.13,Default,,0,0,0,,Dia tak ambil peluang itu.\N- Betul.
+Dialogue: 0,1:02:52.15,1:02:53.86,Default,,0,0,0,,Jadi kita pergi ke situ seterusnya.
+Dialogue: 0,1:02:55.32,1:02:56.67,Default,,0,0,0,,Tempat itu di mana\Nrisiko itu tak diambil.
+Dialogue: 0,1:02:56.68,1:02:58.45,Default,,0,0,0,,Di mana mereka bertemujanji.
+Dialogue: 0,1:02:58.47,1:02:59.83,Default,,0,0,0,,Di pawagam!
+Dialogue: 0,1:03:01.32,1:03:01.98,Default,,0,0,0,,Hei, Kurator!
+Dialogue: 0,1:03:01.99,1:03:04.40,Default,,0,0,0,,Kami dah tahu petunjuk kedua.\NCabarannya di sini.
+Dialogue: 0,1:03:04.42,1:03:06.32,Default,,0,0,0,,Halliday merekod semua filem\Nyang dia tonton...
+Dialogue: 0,1:03:06.33,1:03:07.88,Default,,0,0,0,,minggu dan tahun dia tonton...
+Dialogue: 0,1:03:07.90,1:03:09.36,Default,,0,0,0,,dan berapa kali.
+Dialogue: 0,1:03:09.52,1:03:13.90,Default,,0,0,0,,Kurator, boleh tunjukkan rekod dari\N23 hingga 27 November 2025.
+Dialogue: 0,1:03:14.32,1:03:16.39,Default,,0,0,0,,Itulah minggu dia keluar bersama Kira.
+Dialogue: 0,1:03:20.65,1:03:24.32,Default,,0,0,0,,Okey, jadi pilihan kita pada minggu itu\Nialah pembikinan semula The Fly.
+Dialogue: 0,1:03:24.32,1:03:26.43,Default,,0,0,0,,Filem bagus tapi\Ntak sesuai untuk temujanji.
+Dialogue: 0,1:03:26.56,1:03:28.83,Default,,0,0,0,,"{\i1}Say Anything{\i0} ",\Nitu baru sesuai.
+Dialogue: 0,1:03:29.80,1:03:31.73,Default,,0,0,0,,Kita mesti ingat petunjuk itu.
+Dialogue: 0,1:03:32.12,1:03:34.82,Default,,0,0,0,,"{\i1}Pencipta yang benci ciptaannya{\i0} ".
+Dialogue: 0,1:03:38.82,1:03:40.33,Default,,0,0,0,,{\i1}"The Shining!"{\i0}
+Dialogue: 0,1:03:40.94,1:03:43.23,Default,,0,0,0,,Itu filem seram kegemaran\NHalliday yang ke-11.
+Dialogue: 0,1:03:43.24,1:03:46.03,Default,,0,0,0,,Dan ia berdasarkan novel\Nterlaris oleh Stephen King...
+Dialogue: 0,1:03:46.05,1:03:47.60,Default,,0,0,0,,yang mana bencikan filem itu!
+Dialogue: 0,1:03:47.62,1:03:49.25,Default,,0,0,0,,Hei, hentikan berbual kosong.
+Dialogue: 0,1:03:49.26,1:03:50.79,Default,,0,0,0,,Aku rasa kita dah jumpa.
+Dialogue: 0,1:03:54.48,1:03:57.05,Default,,0,0,0,,Awak serius nak pergi ke sini?
+Dialogue: 0,1:03:57.06,1:03:58.89,Default,,0,0,0,,Pasti sangat.
+Dialogue: 0,1:03:59.15,1:04:01.47,Default,,0,0,0,,Saya harap awak cukup\Nberani menghadapinya.
+Dialogue: 0,1:04:44.72,1:04:46.03,Default,,0,0,0,,Tengok.
+Dialogue: 0,1:04:47.32,1:04:49.03,Default,,0,0,0,,Masa yang berjalan.
+Dialogue: 0,1:04:49.77,1:04:52.71,Default,,0,0,0,,Baik, saya andaikan kita ambil masa...
+Dialogue: 0,1:04:53.32,1:04:55.43,Default,,0,0,0,,lima minit untuk mencari kunci itu.
+Dialogue: 0,1:04:55.48,1:04:56.85,Default,,0,0,0,,Tapi ada banyak kunci\Ndalam {\i1}The Shining{\i0}...
+Dialogue: 0,1:04:56.86,1:04:58.33,Default,,0,0,0,,Kita nak mula dari mana?
+Dialogue: 0,1:05:00.05,1:05:02.94,Default,,0,0,0,,Aku tak pernah tonton {\i1}The Shining{\i0},\Nia menakutkan tak?
+Dialogue: 0,1:05:03.95,1:05:06.69,Default,,0,0,0,,Aku tonton dari celah jari.
+Dialogue: 0,1:05:07.28,1:05:09.68,Default,,0,0,0,,{\i1}Okey, jadi kita ada kunci dari bilik 237...{\i0}
+Dialogue: 0,1:05:09.69,1:05:11.83,Default,,0,0,0,,{\i1}kunci untuk kenderaan Snowcat...{\i0}
+Dialogue: 0,1:05:11.88,1:05:14.20,Default,,0,0,0,,{\i1}atau kunci yang mereka beri\NJack pada permulaan filem itu.{\i0}
+Dialogue: 0,1:05:14.22,1:05:15.77,Default,,0,0,0,,{\i1}Tapi jika ia risiko tak diambil...{\i0}
+Dialogue: 0,1:05:15.78,1:05:16.98,Default,,0,0,0,,{\i1}mungkin kunci itu\Nbukan kunci sebenarnya.{\i0}
+Dialogue: 0,1:05:16.99,1:05:19.43,Default,,0,0,0,,{\i1}Aku tahu mana kunci Snowcat!\NKita berpecah.{\i0}
+Dialogue: 0,1:05:19.46,1:05:22.66,Default,,0,0,0,,Dapatkan semua kunci dan\Njumpa di apartmen keluarga Torrance.
+Dialogue: 0,1:05:26.76,1:05:28.74,Default,,0,0,0,,Hello, Danny.
+Dialogue: 0,1:05:29.35,1:05:31.39,Default,,0,0,0,,Mari bermain dengan kami.
+Dialogue: 0,1:05:32.88,1:05:34.72,Default,,0,0,0,,Nak, awak tahu macam mana\Nnak keluar dari sini?
+Dialogue: 0,1:05:39.45,1:05:40.96,Default,,0,0,0,,Kejap!
+Dialogue: 0,1:05:41.23,1:05:42.70,Default,,0,0,0,,Mana Aech?
+Dialogue: 0,1:05:42.72,1:05:44.03,Default,,0,0,0,,Tunggu!
+Dialogue: 0,1:05:45.02,1:05:46.33,Default,,0,0,0,,Aech!
+Dialogue: 0,1:05:47.08,1:05:48.73,Default,,0,0,0,,Tidak!
+Dialogue: 0,1:06:48.62,1:06:49.80,Default,,0,0,0,,Hai, gadis telanjang.
+Dialogue: 0,1:06:49.82,1:06:52.29,Default,,0,0,0,,Maafkan saya, saya bukan\Nnak ganggu awak mandi.
+Dialogue: 0,1:06:52.29,1:06:54.58,Default,,0,0,0,,Saya tahu merawat diri itu\Nagak penting.
+Dialogue: 0,1:06:54.81,1:06:57.82,Default,,0,0,0,,Boleh tak tolong saya,\Nmana pintu keluar?
+Dialogue: 0,1:07:03.17,1:07:05.28,Default,,0,0,0,,Baik, adakah aku terkena?
+Dialogue: 0,1:07:05.55,1:07:07.73,Default,,0,0,0,,Sebab awak suka saya agak melampau.
+Dialogue: 0,1:07:09.54,1:07:11.31,Default,,0,0,0,,Baiklah, saya akan ikut saja.
+Dialogue: 0,1:08:03.91,1:08:04.98,Default,,0,0,0,,Kita dah kesuntukan masa.
+Dialogue: 0,1:08:05.01,1:08:06.76,Default,,0,0,0,,Z, Art3mis geram dengan aku ke?
+Dialogue: 0,1:08:06.76,1:08:09.44,Default,,0,0,0,,Aku geram dengan kau!\NKau tak pernah tonton {\i1}The Shining{\i0}, kan?
+Dialogue: 0,1:08:09.44,1:08:10.72,Default,,0,0,0,,Kau tahu aku benci filem seram!
+Dialogue: 0,1:08:10.73,1:08:13.25,Default,,0,0,0,,Kami dapat kunci itu.\N- Bagus, ke bilik 237!
+Dialogue: 0,1:08:13.27,1:08:15.84,Default,,0,0,0,,Kita tak patut masuk bilik 237.
+Dialogue: 0,1:08:15.84,1:08:16.99,Default,,0,0,0,,Kita tak patut masuk!
+Dialogue: 0,1:08:16.99,1:08:19.00,Default,,0,0,0,,Lagipun ada zombi\Nwanita tua bogel kat dalam...
+Dialogue: 0,1:08:19.04,1:08:20.70,Default,,0,0,0,,Tak ada zombi dalam {\i1}The Shining{\i0}!
+Dialogue: 0,1:08:20.71,1:08:22.67,Default,,0,0,0,,Mungkin ia tak sepatutnya\Nseperti dalam filem.
+Dialogue: 0,1:08:22.67,1:08:24.25,Default,,0,0,0,,Kau yang kata, Kira ialah kuncinya.
+Dialogue: 0,1:08:24.26,1:08:26.54,Default,,0,0,0,,Kalian. Aku nampak gambar Kira.
+Dialogue: 0,1:08:31.18,1:08:32.49,Default,,0,0,0,,Mana?
+Dialogue: 0,1:08:39.93,1:08:41.44,Default,,0,0,0,,{\i1}Itu Kira.{\i0}
+Dialogue: 0,1:08:42.03,1:08:43.66,Default,,0,0,0,,{\i1}"Tinggalkan masa silam anda."{\i0}
+Dialogue: 0,1:08:44.22,1:08:45.53,Default,,0,0,0,,{\i1}"Risiko yang tak diambil".{\i0}
+Dialogue: 0,1:08:46.98,1:08:49.26,Default,,0,0,0,,Benda yang ditakuti Halliday bukan\N{\i1}The Shining{\i0}...
+Dialogue: 0,1:08:49.27,1:08:50.97,Default,,0,0,0,,atau buku dan filem,...
+Dialogue: 0,1:08:51.73,1:08:54.16,Default,,0,0,0,,Benda yang dia paling takut\Nialah mencium seorang gadis.
+Dialogue: 0,1:08:55.43,1:08:57.30,Default,,0,0,0,,Itulah risiko yang dia tak berani ambil.
+Dialogue: 0,1:09:05.73,1:09:07.14,Default,,0,0,0,,Dewan tarian.
+Dialogue: 0,1:09:22.89,1:09:24.30,Default,,0,0,0,,{\i1}Aech! Mari.{\i0}
+Dialogue: 0,1:09:27.81,1:09:29.87,Default,,0,0,0,,Zombi!\NAku dah kata.
+Dialogue: 0,1:09:30.88,1:09:32.37,Default,,0,0,0,,Itu dia.
+Dialogue: 0,1:09:33.56,1:09:34.99,Default,,0,0,0,,Itu Kira.
+Dialogue: 0,1:09:37.83,1:09:39.19,Default,,0,0,0,,Semua ini tak ada dalam\NThe Shining.
+Dialogue: 0,1:09:39.21,1:09:41.96,Default,,0,0,0,,Z, tengok. Itu paras bulatan zombi\Ndalam {\i1}Mayhem Mansion{\i0}...
+Dialogue: 0,1:09:41.97,1:09:43.39,Default,,0,0,0,,salah satu permainan\Npertama Halliday.
+Dialogue: 0,1:09:43.40,1:09:45.90,Default,,0,0,0,,Fakta {\i1}Shining{\i0} itu cuma\Npetunjuk palsu.
+Dialogue: 0,1:09:46.70,1:09:48.50,Default,,0,0,0,,Tinggal satu minit.
+Dialogue: 0,1:09:49.93,1:09:52.06,Default,,0,0,0,,Macam mana nak jumpa dia?\N- Ambil risiko itu.
+Dialogue: 0,1:09:52.08,1:09:53.39,Default,,0,0,0,,Kejap!
+Dialogue: 0,1:10:01.73,1:10:04.65,Default,,0,0,0,,Baik, En. Dah Mati.\NBoleh aku tunjukkan jalan?
+Dialogue: 0,1:10:52.03,1:10:53.47,Default,,0,0,0,,Awak nak menari?
+Dialogue: 0,1:10:54.46,1:10:57.63,Default,,0,0,0,,Awak tahu dah berapa lama\Nsaya tunggu awak tanya?
+Dialogue: 0,1:11:04.03,1:11:06.11,Default,,0,0,0,,Baiklah, baiklah.
+Dialogue: 0,1:11:06.13,1:11:11.05,Default,,0,0,0,,Jadi, awak dah jumpa Kunci Jed saya.
+Dialogue: 0,1:11:13.19,1:11:15.38,Default,,0,0,0,,Bayangkan.
+Dialogue: 0,1:11:20.23,1:11:21.74,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,1:11:26.29,1:11:28.61,Default,,0,0,0,,Kira sangat cantik.\N- Teruskan.
+Dialogue: 0,1:11:53.96,1:11:56.63,Default,,0,0,0,,PAPAN MATA - PERTAMA ART3MIS
+Dialogue: 0,1:11:57.23,1:11:59.09,Default,,0,0,0,,Salah seorang ahli oologi kita\Nnampak mereka...
+Dialogue: 0,1:11:59.10,1:12:00.41,Default,,0,0,0,,nampak mereka masuk ke dalam\Nperpustakaan media.
+Dialogue: 0,1:12:00.43,1:12:01.76,Default,,0,0,0,,Dia telah merungkai petunjuk itu.
+Dialogue: 0,1:12:01.78,1:12:05.10,Default,,0,0,0,,Kini kita cuma perlu menangi cabaran\N{\i1}The Shining{\i0}.
+Dialogue: 0,1:12:08.43,1:12:10.30,Default,,0,0,0,,Jauhkan dari aku!
+Dialogue: 0,1:12:20.74,1:12:22.35,Default,,0,0,0,,En. Sorrento.
+Dialogue: 0,1:12:22.47,1:12:24.68,Default,,0,0,0,,Encik patut tengok ini.
+Dialogue: 0,1:12:27.57,1:12:29.50,Default,,0,0,0,,Kini Parzival dah dapat Kunci Jed itu.
+Dialogue: 0,1:12:29.50,1:12:30.58,Default,,0,0,0,,PAPAN MATA - KEDUA PARZIVAL
+Dialogue: 0,1:12:34.50,1:12:36.66,Default,,0,0,0,,ID POSITIF - WADE WATTS
+Dialogue: 0,1:12:39.77,1:12:41.96,Default,,0,0,0,,Dia masih hidup.
+Dialogue: 0,1:12:42.18,1:12:44.51,Default,,0,0,0,,Aku tahu.\NAku akan maklumkan kau.
+Dialogue: 0,1:12:44.89,1:12:46.85,Default,,0,0,0,,Aku dapat apa kau cari.
+Dialogue: 0,1:12:50.83,1:12:53.08,Default,,0,0,0,,Berhenti.\NOrangi ini.
+Dialogue: 0,1:12:53.40,1:12:55.04,Default,,0,0,0,,Yang ada tatu hambar itu.
+Dialogue: 0,1:12:55.65,1:12:56.96,Default,,0,0,0,,Besarkan.
+Dialogue: 0,1:12:59.22,1:13:02.27,Default,,0,0,0,,Padankan dia dengan pangkalan data\Nsetiap dron IOI di Columbus.
+Dialogue: 0,1:13:02.28,1:13:04.08,Default,,0,0,0,,Cari dia.
+Dialogue: 0,1:13:29.12,1:13:30.95,Default,,0,0,0,,ID POSITIF.
+Dialogue: 0,1:13:30.97,1:13:33.13,Default,,0,0,0,,Barangan runcit dah tiba.\N- Baik. Gluten-O's...
+Dialogue: 0,1:13:34.03,1:13:36.89,Default,,0,0,0,,{\i1}"Jika awak tahu jawapan muktamad\Nbahagikan ia dengan nombor sakti..."{\i0}
+Dialogue: 0,1:13:36.91,1:13:38.62,Default,,0,0,0,,{\i1}dan apa awak perlu,\Nmahu dan inginkan..."{\i0}
+Dialogue: 0,1:13:38.63,1:13:40.38,Default,,0,0,0,,{\i1}"...akan didapati di kubu tragik."{\i0}
+Dialogue: 0,1:13:40.40,1:13:42.55,Default,,0,0,0,,Tragik, itu tentu Halliday\Nmaksudkan dirinya.
+Dialogue: 0,1:13:42.57,1:13:44.60,Default,,0,0,0,,Kenapa?\N- Sebab dia kesunyian.
+Dialogue: 0,1:13:44.61,1:13:47.04,Default,,0,0,0,,Dia keseorangan dalam hidupnya\Nhingga ke akhir hayat.
+Dialogue: 0,1:13:47.43,1:13:48.65,Default,,0,0,0,,Betul.
+Dialogue: 0,1:13:48.67,1:13:52.61,Default,,0,0,0,,Pertandingan itu mesti ada kaitan dengan\Nhubungan dengan seseorang.
+Dialogue: 0,1:13:52.84,1:13:56.39,Default,,0,0,0,,Sesiapa saja, dia nak orang yang sayangkan\NOASIS ada hubungan dengan dunia.
+Dialogue: 0,1:13:56.49,1:13:58.56,Default,,0,0,0,,Saya rasa itu yang dia cuba beritahu kita.
+Dialogue: 0,1:14:04.79,1:14:06.10,Default,,0,0,0,,Wade.
+Dialogue: 0,1:14:08.49,1:14:10.23,Default,,0,0,0,,Awak memahami Halliday.
+Dialogue: 0,1:14:10.84,1:14:12.84,Default,,0,0,0,,Awak kenal dia lebih\Ndaripada orang lain.
+Dialogue: 0,1:14:14.77,1:14:16.64,Default,,0,0,0,,Sebab itu saya rasa awak akan menang.
+Dialogue: 0,1:14:17.59,1:14:20.77,Default,,0,0,0,,Yakah?\NAwak rasa saya akan menang?
+Dialogue: 0,1:14:25.06,1:14:26.66,Default,,0,0,0,,Jangan bergerak!
+Dialogue: 0,1:14:32.49,1:14:34.14,Default,,0,0,0,,{\i1}Sasaran dikenalpasti!{\i0}
+Dialogue: 0,1:14:34.87,1:14:36.30,Default,,0,0,0,,{\i1}Jangan bergerak!{\i0}
+Dialogue: 0,1:14:43.45,1:14:45.00,Default,,0,0,0,,Ini menuju ke lorong.
+Dialogue: 0,1:14:45.42,1:14:47.80,Default,,0,0,0,,Awak dulu.\N- Saya menyusul dari belakang!
+Dialogue: 0,1:14:49.25,1:14:50.63,Default,,0,0,0,,Marilah!
+Dialogue: 0,1:14:50.89,1:14:53.03,Default,,0,0,0,,Wade, OASIS perlukan awak.\N- Apa?
+Dialogue: 0,1:14:53.34,1:14:55.53,Default,,0,0,0,,Saya akan lengahkan masa mereka.\N- Tinggu, tidak!
+Dialogue: 0,1:14:57.09,1:14:59.00,Default,,0,0,0,,Awak akan maafkan saya pasal ini.\NPercayalah.
+Dialogue: 0,1:15:11.16,1:15:12.47,Default,,0,0,0,,{\i1}Jangan bergerak!{\i0}
+Dialogue: 0,1:15:17.69,1:15:20.10,Default,,0,0,0,,Samantha Evelyn Cook.
+Dialogue: 0,1:15:20.19,1:15:23.98,Default,,0,0,0,,IOI dah beli dan kumpul\Nsemua hutang kau yang tertunggak...
+Dialogue: 0,1:15:23.99,1:15:26.86,Default,,0,0,0,,ketika ini lebih dari\N23 ribu kredit.
+Dialogue: 0,1:15:27.04,1:15:30.02,Default,,0,0,0,,Kau akan ditahan di pusat\Nroyalti terdekat IOI...
+Dialogue: 0,1:15:30.03,1:15:31.39,Default,,0,0,0,,hinggalah hutang kau dilunaskan.
+Dialogue: 0,1:15:31.42,1:15:36.53,Default,,0,0,0,,Termasuk faedah, yuran pemprosesan\Natau caj lewat bayar dan seterusnya.
+Dialogue: 0,1:15:37.09,1:15:39.22,Default,,0,0,0,,Ada sesiapa nampak dia?\NPeriksa di jalan seterusnya!
+Dialogue: 0,1:15:51.99,1:15:55.41,Default,,0,0,0,,"Yang pertama jumpa kunci?"\N- "Pertama jumpa telur?" Apa?
+Dialogue: 0,1:15:56.64,1:15:59.10,Default,,0,0,0,,"Jangan percayakan orang yang\Nkau jumpa dalam OASIS."
+Dialogue: 0,1:16:00.02,1:16:02.60,Default,,0,0,0,,"Mungkin dia lelaki 300 paun\Nbernama Chuck."
+Dialogue: 0,1:16:02.69,1:16:05.40,Default,,0,0,0,,"Yang tinggal bersama ibunya\Ndi pinggir bandar Detroit."
+Dialogue: 0,1:16:08.14,1:16:09.45,Default,,0,0,0,,Aech?!
+Dialogue: 0,1:16:10.19,1:16:13.73,Default,,0,0,0,,Helen! Ayah aku panggil aku\NAech, nama itu kekal. Mari!
+Dialogue: 0,1:16:23.69,1:16:25.84,Default,,0,0,0,,Benda itu kenalpasti van aku.
+Dialogue: 0,1:16:40.42,1:16:42.58,Default,,0,0,0,,Mari, mereka dah temui kita.
+Dialogue: 0,1:16:43.19,1:16:44.12,Default,,0,0,0,,Daito?
+Dialogue: 0,1:16:44.13,1:16:46.06,Default,,0,0,0,,Nama sebenar aku Toshiro.
+Dialogue: 0,1:16:46.15,1:16:47.86,Default,,0,0,0,,Samantha hantar mesej pada kami.
+Dialogue: 0,1:16:47.89,1:16:49.56,Default,,0,0,0,,Dia suruh kami jumpa kau di sini.
+Dialogue: 0,1:16:49.59,1:16:52.39,Default,,0,0,0,,Samantha, mereka bawa dia ke...\N- Pusat Loyalti, aku tahu.
+Dialogue: 0,1:16:52.42,1:16:55.80,Default,,0,0,0,,Dalam satu berita gempak lain.\NSixer jumpa cabaran ketiga.
+Dialogue: 0,1:16:56.42,1:16:58.67,Default,,0,0,0,,Apa?\N- Cepat, masuk!
+Dialogue: 0,1:16:59.25,1:17:01.36,Default,,0,0,0,,Mari, jom!\NPergi!
+Dialogue: 0,1:17:13.59,1:17:15.88,Default,,0,0,0,,Macam mana IOI jumpa\Ncabaran ketiga begitu cepat?
+Dialogue: 0,1:17:15.91,1:17:18.02,Default,,0,0,0,,IOI merungkai tiga baris pertama\Npetunjuk itu...
+Dialogue: 0,1:17:18.03,1:17:19.49,Default,,0,0,0,,jadi mereka tahu ia sektor 14...
+Dialogue: 0,1:17:19.50,1:17:21.26,Default,,0,0,0,,tapi mereka tak tahu\Nmakna "kubu tragik".
+Dialogue: 0,1:17:21.29,1:17:23.82,Default,,0,0,0,,Jadi mereka hantar semua\Npemandu yang ada ke dalam sektor itu...
+Dialogue: 0,1:17:23.85,1:17:25.96,Default,,0,0,0,,hingga mereka jumpa kubu yang betul.
+Dialogue: 0,1:17:26.59,1:17:28.10,Default,,0,0,0,,Sho?
+Dialogue: 0,1:17:28.29,1:17:30.66,Default,,0,0,0,,Ya!\NSaya 11 tahun, ada masalah?
+Dialogue: 0,1:17:30.69,1:17:32.29,Default,,0,0,0,,Nama sebenarnya ialah Xo.
+Dialogue: 0,1:17:32.30,1:17:35.20,Default,,0,0,0,,Tapi semua orang panggil saya Sho.\NPerkara kecil.
+Dialogue: 0,1:17:35.39,1:17:37.87,Default,,0,0,0,,Tak, bukan perkara kecil.
+Dialogue: 0,1:17:38.19,1:17:41.86,Default,,0,0,0,,Sho, awak budak 11 tahun\Nyang paling dahsyat di dunia.
+Dialogue: 0,1:17:41.89,1:17:44.41,Default,,0,0,0,,Dia tahu\N- Senyap! Biar dia beritahu saya.
+Dialogue: 0,1:17:44.89,1:17:46.46,Default,,0,0,0,,Aech.
+Dialogue: 0,1:17:49.55,1:17:51.15,Default,,0,0,0,,Kita kena selamatkan Samantha.
+Dialogue: 0,1:17:51.16,1:17:53.45,Default,,0,0,0,,Kita tak boleh masuk melalui pintu IOI.
+Dialogue: 0,1:17:53.76,1:17:55.99,Default,,0,0,0,,Aku dah fikirkan.\NAku ada rancangan lebih baik.
+Dialogue: 0,1:17:56.02,1:17:58.76,Default,,0,0,0,,Kau nampak pelantar Sorrento, kan?\N- Ya.
+Dialogue: 0,1:17:58.79,1:18:01.78,Default,,0,0,0,,Kita pergi cari dia dan paksa dia\Nserahkan Art3mis.
+Dialogue: 0,1:18:02.45,1:18:03.90,Default,,0,0,0,,Tapi mula-mula, aku mesti tahu...
+Dialogue: 0,1:18:03.92,1:18:06.19,Default,,0,0,0,,berapa banyak kau ingat pasal\Npelantar Serrento?
+Dialogue: 0,1:18:07.62,1:18:09.53,Default,,0,0,0,,Hampir kesemuanya.
+Dialogue: 0,1:18:23.87,1:18:28.07,Default,,0,0,0,,{\i1}Penyelenggaraan: Sila lapor ke\Npod loyalti untuk pengendalian.{\i0}
+Dialogue: 0,1:18:31.81,1:18:36.36,Default,,0,0,0,,{\i1}Sekuriti: sila melapor ke Seksyen 97\Nuntuk mengiring.{\i0}
+Dialogue: 0,1:18:56.89,1:19:00.23,Default,,0,0,0,,Hai, budak baru.\NBuat kerja!
+Dialogue: 0,1:19:01.99,1:19:03.63,Default,,0,0,0,,Buat kerja!
+Dialogue: 0,1:19:09.25,1:19:12.62,Default,,0,0,0,,{\i1}Pelanggaran peraturan kerja.{\i0}
+Dialogue: 0,1:19:14.19,1:19:17.14,Default,,0,0,0,,Pasang peledak itu di setiap enam kaki.
+Dialogue: 0,1:19:22.29,1:19:23.66,Default,,0,0,0,,Cepat bergerak!
+Dialogue: 0,1:19:25.76,1:19:27.30,Default,,0,0,0,,Hei, kau!
+Dialogue: 0,1:19:28.80,1:19:30.98,Default,,0,0,0,,Itu semua bahan letupan!
+Dialogue: 0,1:19:32.34,1:19:35.76,Default,,0,0,0,,IOI takkan beri pampasan jika\Nkau hilang syiling atau kau dilupuskan.
+Dialogue: 0,1:19:35.79,1:19:37.30,Default,,0,0,0,,Teruskan bergerak!
+Dialogue: 0,1:19:42.36,1:19:45.26,Default,,0,0,0,,Jadi, apa cabaran ini?\NSeperti permainan video?
+Dialogue: 0,1:19:45.28,1:19:47.43,Default,,0,0,0,,Atari 2600, tuan.
+Dialogue: 0,1:19:47.46,1:19:50.86,Default,,0,0,0,,Dan setiap permainan yang pernah\Ndibuat untuk ia, beribu kemungkinan.
+Dialogue: 0,1:19:51.69,1:19:53.00,Default,,0,0,0,,Keluar!
+Dialogue: 0,1:19:57.69,1:20:01.51,Default,,0,0,0,,Halliday. Begini caranya kau\Nnak selesaikan takdir...
+Dialogue: 0,1:20:01.54,1:20:03.53,Default,,0,0,0,,sumber ekonomi paling penting di dunia?
+Dialogue: 0,1:20:04.42,1:20:06.43,Default,,0,0,0,,Panggil aku kalau kau dah hampir.\N- Ya, tuan.
+Dialogue: 0,1:20:06.44,1:20:08.24,Default,,0,0,0,,Tidak!
+Dialogue: 0,1:20:10.23,1:20:13.27,Default,,0,0,0,,Selepas seminit bermain {\i1}Centipede{\i0},\Nkita terkandas.
+Dialogue: 0,1:20:13.79,1:20:15.65,Default,,0,0,0,,Ia mesti {\i1}Joust{\i0}.
+Dialogue: 0,1:20:15.67,1:20:18.91,Default,,0,0,0,,{\i1}Halliday masih memegang\Nrekod untuk versi 2600 permainan itu...{\i0}
+Dialogue: 0,1:20:18.94,1:20:22.93,Default,,0,0,0,,Pitfall! Satu-satunya permainan 2600\Nyang belum tamat.
+Dialogue: 0,1:20:22.93,1:20:24.02,Default,,0,0,0,,Macam mana dengan Swordquest?
+Dialogue: 0,1:20:24.05,1:20:27.88,Default,,0,0,0,,{\i1}Mereka dicipta untuk pertandingan\Nyang dianjurkan Atari dengan...{\i0}
+Dialogue: 0,1:20:35.69,1:20:37.20,Default,,0,0,0,,I-R0k, apa perkembangan kita?
+Dialogue: 0,1:20:38.99,1:20:41.12,Default,,0,0,0,,Terus-terang, aku perlukan\Nterapi fizikal sebab...
+Dialogue: 0,1:20:41.13,1:20:45.79,Default,,0,0,0,,Orb itu dah sedia?\N- Seperti yang kau minta.
+Dialogue: 0,1:20:50.19,1:20:52.49,Default,,0,0,0,,Orb...\N- Osuvox.
+Dialogue: 0,1:20:54.59,1:20:59.05,Default,,0,0,0,,Macam mana ia berfungsi?\NApa ada alat kawalan jauh atau butang?
+Dialogue: 0,1:21:00.09,1:21:03.43,Default,,0,0,0,,Nolan, ia artifak sakti tahap 99...
+Dialogue: 0,1:21:03.47,1:21:07.16,Default,,0,0,0,,bukan salah satu dron kau.\NJadi ia diaktifkan oleh jampi sakti.
+Dialogue: 0,1:21:07.54,1:21:09.23,Default,,0,0,0,,Boleh kau lakukan?
+Dialogue: 0,1:21:19.46,1:21:24.13,Default,,0,0,0,,{\i1}Anáil nathrach, ortha bháis is beatha,\Ndo chéal déanaimh{\i0}
+Dialogue: 0,1:21:24.19,1:21:28.86,Default,,0,0,0,,{\i1}Anáil nathrach, ortha bháis is beatha,\Ndo chéal déanaimh{\i0}
+Dialogue: 0,1:21:29.09,1:21:34.13,Default,,0,0,0,,{\i1}Anáil nathrach, ortha bháis is beatha,\Ndo chéal déanaimh{\i0}
+Dialogue: 0,1:22:01.35,1:22:03.79,Default,,0,0,0,,Mana dia?\N- Macam mana kau boleh masuk?
+Dialogue: 0,1:22:03.82,1:22:05.02,Default,,0,0,0,,Art3mis!\N- Siapa?
+Dialogue: 0,1:22:05.03,1:22:08.32,Default,,0,0,0,,Samantha Cook!\NDia kat mana?
+Dialogue: 0,1:22:10.09,1:22:13.76,Default,,0,0,0,,Kalau kau nak berbincang, boleh.\NTapi jatuhkan senjata itu.
+Dialogue: 0,1:22:13.79,1:22:15.70,Default,,0,0,0,,Kau bunuh makcik aku.
+Dialogue: 0,1:22:16.89,1:22:18.60,Default,,0,0,0,,Kau ingat aku takkan bunuh kau?
+Dialogue: 0,1:22:20.10,1:22:22.41,Default,,0,0,0,,Rileks dulu, boleh?
+Dialogue: 0,1:22:22.85,1:22:26.12,Default,,0,0,0,,Itu keputusan korporat.\NIa bukan peribadi.
+Dialogue: 0,1:22:26.23,1:22:27.36,Default,,0,0,0,,Mana dia?
+Dialogue: 0,1:22:27.37,1:22:29.62,Default,,0,0,0,,Dia dibawah, di dalam pusat loyalti.
+Dialogue: 0,1:22:29.65,1:22:32.47,Default,,0,0,0,,Aku tahu dia di sana.
+Dialogue: 0,1:22:33.33,1:22:35.94,Default,,0,0,0,,Cakap pada aku,\Ndia berada di pelantar mana...
+Dialogue: 0,1:22:35.96,1:22:38.14,Default,,0,0,0,,dan kod akses untuk hubungi dia.
+Dialogue: 0,1:22:39.20,1:22:40.94,Default,,0,0,0,,Ya, eloklah begitu.
+Dialogue: 0,1:22:44.30,1:22:46.57,Default,,0,0,0,,Mulakan dengan kod akses.
+Dialogue: 0,1:22:47.78,1:22:49.85,Default,,0,0,0,,{\i1}6,45,7,25.{\i0}
+Dialogue: 0,1:22:50.15,1:22:51.46,Default,,0,0,0,,{\i1}Mana pelantarnya?{\i0}
+Dialogue: 0,1:23:02.10,1:23:03.84,Default,,0,0,0,,Aku rasa dia terkencing.
+Dialogue: 0,1:23:04.10,1:23:06.13,Default,,0,0,0,,Bagus, Z.\NKita dapat masuk akaun dia.
+Dialogue: 0,1:23:06.14,1:23:08.34,Default,,0,0,0,,Jadi, dia tak tahu dia\Nberada di dalam OASIS?
+Dialogue: 0,1:23:08.35,1:23:09.35,Default,,0,0,0,,DUNIA NYATA
+Dialogue: 0,1:23:10.30,1:23:12.21,Default,,0,0,0,,Inilah yang sepatutya dilihat Sorrento.
+Dialogue: 0,1:23:12.70,1:23:14.20,Default,,0,0,0,,Tapi...
+Dialogue: 0,1:23:14.45,1:23:16.31,Default,,0,0,0,,kita buat dia lihat ini.
+Dialogue: 0,1:23:17.15,1:23:20.50,Default,,0,0,0,,Kita tangkap dia ketika transit\Nsebelum dia log keluar dari OASIS.
+Dialogue: 0,1:23:20.80,1:23:23.38,Default,,0,0,0,,Jadi, dia sangka dia dah\Nkembali ke pejabat di dunia nyata...
+Dialogue: 0,1:23:23.41,1:23:27.17,Default,,0,0,0,,hakikatnya di sini. Pejabat\Nyang sama Aech bina.
+Dialogue: 0,1:23:27.20,1:23:29.80,Default,,0,0,0,,Jadi, kau godam\Npelantarnya dari jauh.
+Dialogue: 0,1:23:29.81,1:23:32.57,Default,,0,0,0,,Pelantar tetap seperti Sorrento\Nmudah dikesan sukar nak digodam.
+Dialogue: 0,1:23:32.60,1:23:35.40,Default,,0,0,0,,Melainkan dia cukup bodoh\Nbiarkan kata laluannya di merata-rata.
+Dialogue: 0,1:23:35.42,1:23:38.27,Default,,0,0,0,,Pusat loyalti, aku dah masuk.\N- Baik, mulakan kerja.
+Dialogue: 0,1:23:46.30,1:23:48.63,Default,,0,0,0,,{\i1}Arty?{\i0}\N- Z, Z!
+Dialogue: 0,1:23:48.64,1:23:49.87,Default,,0,0,0,,{\i1}Arty, jangan cakap apa-apa.{\i0}
+Dialogue: 0,1:23:49.90,1:23:52.19,Default,,0,0,0,,{\i1}Saya memintas masuk ke\Ndalam saluran audio awak.{\i0}
+Dialogue: 0,1:23:53.81,1:23:54.93,Default,,0,0,0,,{\i1}Macam mana awak cari saya?{\i0}
+Dialogue: 0,1:23:54.96,1:23:57.34,Default,,0,0,0,,Kami jumpa kata laluan dia,\Ngodam pelantar Sorrento.
+Dialogue: 0,1:23:58.66,1:24:00.50,Default,,0,0,0,,Z, saya nak beritahu awak sesuatu.
+Dialogue: 0,1:24:00.53,1:24:03.06,Default,,0,0,0,,Nanti dulu, saya nak tunjuk awak sesuatu\Nuntuk bebaskan awak.
+Dialogue: 0,1:24:03.09,1:24:04.52,Default,,0,0,0,,Sixer dah jumpa cabaran ketiga...
+Dialogue: 0,1:24:04.53,1:24:05.84,Default,,0,0,0,,di Planet Doom.
+Dialogue: 0,1:24:06.63,1:24:09.74,Default,,0,0,0,,Dan ada lagi, mereka letak medan daya\Ndi sekeliling istana Anorak.
+Dialogue: 0,1:24:14.30,1:24:16.76,Default,,0,0,0,,Salah seorang pegawai\Nmenggelarnya "Orb Osuvox".
+Dialogue: 0,1:24:16.77,1:24:19.44,Default,,0,0,0,,Dan kita hanya boleh\Nmematikannya dari dalam.
+Dialogue: 0,1:24:19.52,1:24:22.63,Default,,0,0,0,,Benar katanya.\NArtifak tahap 99.
+Dialogue: 0,1:24:22.74,1:24:25.71,Default,,0,0,0,,Menghasilkan ketahanan sakti\Nmenghalang yang kebal.
+Dialogue: 0,1:24:25.80,1:24:26.77,Default,,0,0,0,,Tak mungkin diceroboh.
+Dialogue: 0,1:24:26.80,1:24:28.46,Default,,0,0,0,,Itu tak penting sekarang...
+Dialogue: 0,1:24:28.47,1:24:30.83,Default,,0,0,0,,Apa yang penting ialah\Nkita bebaskan awak dari pelantar itu.
+Dialogue: 0,1:24:33.40,1:24:35.77,Default,,0,0,0,,{\i1}Baik, saya sedang lihat\Ngambarajah pelantar awak.{\i0}
+Dialogue: 0,1:24:38.10,1:24:41.29,Default,,0,0,0,,{\i1}Kalau awak hulurkan tangan kanan\Nke arah jam 11,...{\i0}
+Dialogue: 0,1:24:41.31,1:24:43.21,Default,,0,0,0,,{\i1}ada panel di atas kepala awak.{\i0}
+Dialogue: 0,1:24:48.40,1:24:49.70,Default,,0,0,0,,Ya, saya dapat rasa.
+Dialogue: 0,1:24:49.72,1:24:51.44,Default,,0,0,0,,{\i1}Okey, ada dua pemegang.{\i0}
+Dialogue: 0,1:24:51.46,1:24:53.06,Default,,0,0,0,,{\i1}Jam 9 dan jam 3.\NAwak dapat rasa tak?{\i0}
+Dialogue: 0,1:24:53.07,1:24:55.11,Default,,0,0,0,,Ya, ada.\N- {\i1}Tarik ke arah awak.{\i0}
+Dialogue: 0,1:24:57.70,1:25:00.45,Default,,0,0,0,,{\i1}Dalam panel itu ada tuil.\NPegang ia dengan tangan kanan...{\i0}
+Dialogue: 0,1:25:00.47,1:25:03.21,Default,,0,0,0,,{\i1}dan heretnya ke kiri.\NLepas itu awak akan bebas.{\i0}
+Dialogue: 0,1:25:10.96,1:25:12.97,Default,,0,0,0,,Ia berhasil! Saya dah bebas.
+Dialogue: 0,1:25:13.40,1:25:18.89,Default,,0,0,0,,{\i1}Pod Loyalti 41-F, anda dibenarkan\Nberehat selama 10 minit.{\i0}
+Dialogue: 0,1:25:24.20,1:25:29.10,Default,,0,0,0,,{\i1}Pod 41-F, waktu rehat anda ialah 10 minit.\NPergi ke tempat berehat.{\i0}
+Dialogue: 0,1:25:30.30,1:25:32.76,Default,,0,0,0,,Wade, awak masih di sana?\N- {\i1}Ya, saya di sini. Awak kat mana?{\i0}
+Dialogue: 0,1:25:32.77,1:25:34.14,Default,,0,0,0,,Mana pejabat Sorrento?
+Dialogue: 0,1:25:34.15,1:25:36.17,Default,,0,0,0,,{\i1}Ia di bilik mesyuarat IOI,\Ndua aras di mana awak berada sekarang.{\i0}
+Dialogue: 0,1:25:36.19,1:25:37.96,Default,,0,0,0,,{\i1}Tapi itu bukan jalan keluar.{\i0}
+Dialogue: 0,1:25:38.30,1:25:39.97,Default,,0,0,0,,Apa kata laluan dia?
+Dialogue: 0,1:25:41.28,1:25:46.87,Default,,0,0,0,,Wade, jawab.\N- {\i1}Baik. Ia B huruf besar 0-55-man-69.{\i0}
+Dialogue: 0,1:25:46.90,1:25:48.74,Default,,0,0,0,,{\i1}Tapi Arty, awak kena pergi.{\i0}
+Dialogue: 0,1:25:48.90,1:25:50.49,Default,,0,0,0,,Awak mesti kumpulkan askar.
+Dialogue: 0,1:25:51.40,1:25:52.36,Default,,0,0,0,,Askar?
+Dialogue: 0,1:25:52.38,1:25:54.50,Default,,0,0,0,,{\i1}Pergi ke Planet Doom\Ndan tunggu isyarat saya.{\i0}
+Dialogue: 0,1:25:54.53,1:25:55.84,Default,,0,0,0,,Isyarat apa?
+Dialogue: 0,1:25:56.10,1:25:57.33,Default,,0,0,0,,Saya akan matikan perisai.
+Dialogue: 0,1:25:57.34,1:25:59.69,Default,,0,0,0,,{\i1}Tunggu, Arty!\NKeluar dari sana! Arty.{\i0}
+Dialogue: 0,1:26:09.56,1:26:11.36,Default,,0,0,0,,Berapa mereka bayar kau?
+Dialogue: 0,1:26:11.37,1:26:15.07,Default,,0,0,0,,Sebab aku ada banyak duit.\NAku boleh buat kau kaya-raya.
+Dialogue: 0,1:26:15.50,1:26:17.13,Default,,0,0,0,,Senyap.
+Dialogue: 0,1:26:17.48,1:26:18.79,Default,,0,0,0,,Okey.
+Dialogue: 0,1:26:41.00,1:26:43.71,Default,,0,0,0,,Ini bukan situasi sebenar,\Nkau godam saluran aku.
+Dialogue: 0,1:26:44.60,1:26:45.91,Default,,0,0,0,,Alamak, kalian?
+Dialogue: 0,1:27:00.10,1:27:02.51,Default,,0,0,0,,KATA LALUAN - BO55man69
+Dialogue: 0,1:27:04.18,1:27:06.81,Default,,0,0,0,,F'Nale, mereka godam pelantar aku.\NMereka cari gadis itu.
+Dialogue: 0,1:27:06.82,1:27:08.45,Default,,0,0,0,,Jumpa aku di Loyalti.
+Dialogue: 0,1:27:22.94,1:27:26.22,Default,,0,0,0,,{\i1}Pod 41-F, anda telah\Nmelebihi waktu rehat anda.{\i0}
+Dialogue: 0,1:27:26.24,1:27:30.30,Default,,0,0,0,,{\i1}Sila lapor kepada sekuriti\Natau jumlah syiling anda akan dihapuskan.{\i0}
+Dialogue: 0,1:27:38.93,1:27:40.25,Default,,0,0,0,,Jadi...
+Dialogue: 0,1:27:40.70,1:27:43.88,Default,,0,0,0,,dia berjalan keluar dari sini?\NMacam mana boleh jadi?
+Dialogue: 0,1:27:43.89,1:27:45.66,Default,,0,0,0,,Mereka bijak.\NMereka tahu mereka buat apa.
+Dialogue: 0,1:27:45.68,1:27:48.90,Default,,0,0,0,,Tapi kita tahu mereka di\NColumbus dan kini mereka berlima bersama.
+Dialogue: 0,1:27:48.92,1:27:51.21,Default,,0,0,0,,Kejap, kau tahu apa?\NMacam mana kita tahu?
+Dialogue: 0,1:27:51.22,1:27:53.69,Default,,0,0,0,,Kita tahu jenama dan model van itu...
+Dialogue: 0,1:27:54.08,1:27:56.73,Default,,0,0,0,,Kita akan jejaki mereka.\N- "Kita akan jejaki mereka"?
+Dialogue: 0,1:27:57.14,1:28:00.48,Default,,0,0,0,,Bunyinya macam ayat\Npada batu nisan kita.
+Dialogue: 0,1:28:00.49,1:28:02.10,Default,,0,0,0,,Kenapa kau tak beritahu awal-awal?
+Dialogue: 0,1:28:02.11,1:28:03.51,Default,,0,0,0,,Itu tak penting lagi.
+Dialogue: 0,1:28:03.52,1:28:04.76,Default,,0,0,0,,Aku nak tahu mereka kat mana.
+Dialogue: 0,1:28:04.79,1:28:06.41,Default,,0,0,0,,Kita mesti tahu.\NKita mesti cari mereka.
+Dialogue: 0,1:28:06.42,1:28:09.39,Default,,0,0,0,,Mereka kanak-kanak, Nolan!\NJadilah jantan sikit!
+Dialogue: 0,1:28:09.41,1:28:11.18,Default,,0,0,0,,Buat kerja kau dan\Naku buat kerja aku...
+Dialogue: 0,1:28:11.19,1:28:14.65,Default,,0,0,0,,melainkan kau\Nnak lakukan semua sendiri.
+Dialogue: 0,1:28:19.13,1:28:20.45,Default,,0,0,0,,Cari mereka!
+Dialogue: 0,1:28:29.48,1:28:31.45,Default,,0,0,0,,Set lengkap Nancy Drew.
+Dialogue: 0,1:28:32.52,1:28:35.07,Default,,0,0,0,,Olahan tubuh Kegggle.
+Dialogue: 0,1:28:35.98,1:28:37.51,Default,,0,0,0,,{\i1}Jumpa.{\i0}.
+Dialogue: 0,1:28:38.29,1:28:40.94,Default,,0,0,0,,{\i1}"Tahniah, awaklah\Npemilik Orb Osuvox...{\i0}
+Dialogue: 0,1:28:40.95,1:28:44.41,Default,,0,0,0,,{\i1}artifak sakti tahap 99. Baca arahan\Nini sebelum menggunakannya..."{\i0}
+Dialogue: 0,1:28:44.43,1:28:46.86,Default,,0,0,0,,{\i1}"Untuk matikan."{\i0}.\NYa, matikan.
+Dialogue: 0,1:28:46.88,1:28:49.22,Default,,0,0,0,,{\i1}"Baca jampi dalam lingkungan\N10 kaki dari Orb:{\i0}
+Dialogue: 0,1:28:51.14,1:28:55.75,Default,,0,0,0,,{\i1}Anáil nathrach, ortha bháis is beatha,\Ndo chéal déanaimh."{\i0}
+Dialogue: 0,1:29:03.14,1:29:05.32,Default,,0,0,0,,{\i1}Wahai Warga OASIS:{\i0}
+Dialogue: 0,1:29:05.41,1:29:07.65,Default,,0,0,0,,{\i1}Saya Parzival, yang pertama temui kunci.{\i0}
+Dialogue: 0,1:29:08.28,1:29:09.93,Default,,0,0,0,,Saya sedang bercakap\Ndengan anda sekarang...
+Dialogue: 0,1:29:09.96,1:29:11.29,Default,,0,0,0,,sebab masa depan kita diancam....
+Dialogue: 0,1:29:11.31,1:29:14.69,Default,,0,0,0,,oleh orang yang akan buat apa saja\Nuntuk memenangi pertandingan ini.
+Dialogue: 0,1:29:15.31,1:29:16.93,Default,,0,0,0,,Segelintir dari anda telah tahu.
+Dialogue: 0,1:29:16.95,1:29:20.99,Default,,0,0,0,,Anda telah banyak berkorban\Nlebih dari sekadar avatar dan senjata anda.
+Dialogue: 0,1:29:21.31,1:29:23.29,Default,,0,0,0,,Ada yang kehilangan\Nkebebasan mereka.
+Dialogue: 0,1:29:23.61,1:29:25.52,Default,,0,0,0,,Ada kehilangan nyawa.
+Dialogue: 0,1:29:27.68,1:29:29.93,Default,,0,0,0,,Dan sekarang, ini.
+Dialogue: 0,1:29:30.58,1:29:34.02,Default,,0,0,0,,{\i1}Medan daya di sekeliling\Ncabaran ketiga.{\i0}
+Dialogue: 0,1:29:36.04,1:29:39.58,Default,,0,0,0,,{\i1}Saya hanya datang untuk melarikan diri\Ndaripada kesengsaraan hidup saya.{\i0}
+Dialogue: 0,1:29:40.14,1:29:42.90,Default,,0,0,0,,{\i1}Tapi saya tinggal seperti\Nramai di antara anda...{\i0}
+Dialogue: 0,1:29:42.92,1:29:47.69,Default,,0,0,0,,{\i1}sebab saya terjumpa sesuatu\Nyang jauh lebih penting dari diri saya.{\i0}
+Dialogue: 0,1:29:48.00,1:29:49.65,Default,,0,0,0,,{\i1}Saya jumpa matlamat saya.{\i0}
+Dialogue: 0,1:29:50.71,1:29:52.75,Default,,0,0,0,,{\i1}Saya jumpa kawan-kawan saya.{\i0}
+Dialogue: 0,1:29:54.18,1:29:57.86,Default,,0,0,0,,{\i1}Dan saya tahu ini agak hambar tapi...{\i0}
+Dialogue: 0,1:29:58.98,1:30:00.79,Default,,0,0,0,,{\i1}saya temui kasih sayang.{\i0}
+Dialogue: 0,1:30:02.01,1:30:03.89,Default,,0,0,0,,{\i1}Dan saya tak mahu\Nkehilangan itu kepada...{\i0}
+Dialogue: 0,1:30:03.91,1:30:06.10,Default,,0,0,0,,{\i1}lelaki paling tak guna\Nbernama Nolan Sorrento.{\i0}
+Dialogue: 0,1:30:06.14,1:30:09.73,Default,,0,0,0,,Kelakar betul dia!\NTeruskan kerja, kalian.
+Dialogue: 0,1:30:10.34,1:30:13.29,Default,,0,0,0,,{\i1}Dia ingat dia terlalu sibuk\Nuntuk menyedari...{\i0}
+Dialogue: 0,1:30:16.54,1:30:18.95,Default,,0,0,0,,{\i1}Nolan Sorrento sangka\Nkita takkan melawan.{\i0}
+Dialogue: 0,1:30:19.38,1:30:22.59,Default,,0,0,0,,Tuan! Ini telah disiarkan\Nsecara langsung!
+Dialogue: 0,1:30:22.60,1:30:23.50,Default,,0,0,0,,Satu-satunya perkara yang\NHalliday benarkan dia buat...
+Dialogue: 0,1:30:23.55,1:30:24.55,Default,,0,0,0,,Ia di merata-rata.
+Dialogue: 0,1:30:25.44,1:30:27.55,Default,,0,0,0,,{\i1}Dan kini, kita nak serahkan\NOASIS pada dia?{\i0}
+Dialogue: 0,1:30:35.18,1:30:36.82,Default,,0,0,0,,{\i1}Si Parzival ini...{\i0}
+Dialogue: 0,1:30:41.71,1:30:44.99,Default,,0,0,0,,{\i1}Mari, beri aku benda ini!\N- Ya, tuan.{\i0}
+Dialogue: 0,1:30:46.71,1:30:49.79,Default,,0,0,0,,{\i1}Tangan kiri.\N- Tangan kiri.{\i0}
+Dialogue: 0,1:30:50.28,1:30:51.95,Default,,0,0,0,,Tak, aku nak tangan kiri.
+Dialogue: 0,1:30:52.99,1:30:56.12,Default,,0,0,0,,Aku tak peduli kalau,..\NAku nak ia dihidupkan.
+Dialogue: 0,1:30:56.88,1:30:59.59,Default,,0,0,0,,Dia ingat kita takkan melawan.
+Dialogue: 0,1:30:59.60,1:31:02.29,Default,,0,0,0,,Tapi, saya rasa dia silap.
+Dialogue: 0,1:31:02.38,1:31:06.00,Default,,0,0,0,,Beritahu itu kepada geng gunter\Ndi lombong emas Gygax.
+Dialogue: 0,1:31:06.00,1:31:09.67,Default,,0,0,0,,Aktifkan: Iron Giant.
+Dialogue: 0,1:31:33.48,1:31:35.23,Default,,0,0,0,,Tanya diri sendiri...
+Dialogue: 0,1:31:35.71,1:31:38.45,Default,,0,0,0,,adakah anda sanggup\Nmati untuk OASIS?
+Dialogue: 0,1:31:38.58,1:31:40.79,Default,,0,0,0,,Sanggupkah anda berlawan?
+Dialogue: 0,1:31:41.93,1:31:44.29,Default,,0,0,0,,{\i1}Saya Parzival dari High Five.{\i0}
+Dialogue: 0,1:31:44.49,1:31:47.06,Default,,0,0,0,,{\i1}Demi Art3mis dan demi Aech.{\i0}
+Dialogue: 0,1:31:47.08,1:31:49.60,Default,,0,0,0,,{\i1}Demi Daito dan Sho.{\i0}
+Dialogue: 0,1:31:50.04,1:31:52.79,Default,,0,0,0,,{\i1}Sertai kami di Planet Doom.{\i0}
+Dialogue: 0,1:31:53.48,1:31:56.04,Default,,0,0,0,,Demi James Halliday sendiri...
+Dialogue: 0,1:31:56.51,1:31:58.68,Default,,0,0,0,,Bantulah kami selamatkan OASIS.
+Dialogue: 0,1:32:53.48,1:32:56.34,Default,,0,0,0,,Tidak!
+Dialogue: 0,1:33:06.08,1:33:08.99,Default,,0,0,0,,"Mereka yang memiliki kawan\Nbukan seorang gagal."
+Dialogue: 0,1:33:30.79,1:33:33.62,Default,,0,0,0,,Skuadron 14, bersedia,\Nawak di barisan depan.
+Dialogue: 0,1:33:47.06,1:33:50.06,Default,,0,0,0,,Selepas seminit bermain\NSwordQuest, kita terkandas.
+Dialogue: 0,1:33:53.31,1:33:55.31,Default,,0,0,0,,Kita dah main ketiga-tiga\NSwordQuest, apa lagi?
+Dialogue: 0,1:33:55.34,1:33:57.14,Default,,0,0,0,,{\i1}Dark Cavern. Laser Blast.\N- Super Breakout.{\i0}
+Dialogue: 0,1:33:57.15,1:33:58.34,Default,,0,0,0,,Ia Adventure.
+Dialogue: 0,1:33:58.35,1:34:02.14,Default,,0,0,0,,Dilancarkan pada 1979 untuk versi 2600,\NAdventure dicipta oleh Warren Robinett...
+Dialogue: 0,1:34:02.17,1:34:04.68,Default,,0,0,0,,iaitu pereka permainan video pertama\Nyang merahsiakan namanya.
+Dialogue: 0,1:34:04.69,1:34:06.65,Default,,0,0,0,,Malah...\N- Cuba Adventure.
+Dialogue: 0,1:34:08.05,1:34:09.69,Default,,0,0,0,,Main Adventure.
+Dialogue: 0,1:34:44.82,1:34:46.36,Default,,0,0,0,,ART3MIS - DRON PEMBESAR
+Dialogue: 0,1:35:01.88,1:35:04.25,Default,,0,0,0,,Lebih daripada seminit,\Nkita masih hidup.
+Dialogue: 0,1:35:04.28,1:35:06.01,Default,,0,0,0,,Ini mesti permainan yang betul.
+Dialogue: 0,1:35:06.34,1:35:10.24,Default,,0,0,0,,Anáil nathrach, ortha\Nbháis is beatha,...
+Dialogue: 0,1:35:10.27,1:35:12.31,Default,,0,0,0,,do chéal déanaimh.
+Dialogue: 0,1:35:13.14,1:35:16.32,Default,,0,0,0,,Orb ini bertahan berapa lama?
+Dialogue: 0,1:35:19.24,1:35:22.03,Default,,0,0,0,,Anáil nathrach,\Northa bháis is beatha,...
+Dialogue: 0,1:35:22.05,1:35:23.51,Default,,0,0,0,,do chéal déanaimh.
+Dialogue: 0,1:35:23.63,1:35:29.39,Default,,0,0,0,,Kira-kira 10 juta tahun\NJadi jangan kuatir.
+Dialogue: 0,1:35:29.54,1:35:32.75,Default,,0,0,0,,Anáil nathrach, ortha\Nbháis is beatha,...
+Dialogue: 0,1:35:32.78,1:35:34.46,Default,,0,0,0,,do chéal déanaimh.
+Dialogue: 0,1:35:46.74,1:35:48.51,Default,,0,0,0,,Yang pertama jumpa kunci!
+Dialogue: 0,1:35:48.54,1:35:52.69,Default,,0,0,0,,Yang pertama jumpa telur!\N- Yang pertama jumpa telur!
+Dialogue: 0,1:36:21.75,1:36:23.26,Default,,0,0,0,,Adventure.
+Dialogue: 0,1:36:39.97,1:36:41.81,Default,,0,0,0,,Apa?\NTolonglah!
+Dialogue: 0,1:37:14.87,1:37:17.48,Default,,0,0,0,,Sixer berada dalam cabaran\Nterakhir. Ia Atari 2600.
+Dialogue: 0,1:37:17.51,1:37:19.50,Default,,0,0,0,,Awak berada dalam bilik mesyuarat IOI?
+Dialogue: 0,1:37:19.90,1:37:23.31,Default,,0,0,0,,Tidak, keluar dari sana.\N- Mereka tengah main Adventure.
+Dialogue: 0,1:37:23.64,1:37:25.80,Default,,0,0,0,,Adventure, tentulah.
+Dialogue: 0,1:37:25.81,1:37:27.54,Default,,0,0,0,,Dicipta oleh Warren Robinett...
+Dialogue: 0,1:37:27.57,1:37:29.72,Default,,0,0,0,,dialah pencipta pertama yang\Nsembunyikan telur Easter dalam...
+Dialogue: 0,1:37:29.74,1:37:30.74,Default,,0,0,0,,Kawan!
+Dialogue: 0,1:37:35.47,1:37:37.53,Default,,0,0,0,,Cari trak USPS.
+Dialogue: 0,1:37:37.54,1:37:40.94,Default,,0,0,0,,Plat Ohio, penembak dron\Nmodel 2036.
+Dialogue: 0,1:37:50.71,1:37:53.88,Default,,0,0,0,,{\i1}TIADA PADANAN{\i0}
+Dialogue: 0,1:37:59.77,1:38:02.94,Default,,0,0,0,,Daito, bila lagi kau nak bertarung?
+Dialogue: 0,1:38:16.90,1:38:19.40,Default,,0,0,0,,Saya habis peluru! Inventori saya kosong!\N- Lelopak terakhir bagi saya.
+Dialogue: 0,1:38:19.41,1:38:20.90,Default,,0,0,0,,Bawa senjata kecil!
+Dialogue: 0,1:38:20.93,1:38:25.14,Default,,0,0,0,,Meriam ordinan anti-personel!\N- Meriam ordinan anti-personel!
+Dialogue: 0,1:38:27.87,1:38:30.64,Default,,0,0,0,,Senjata elektrik!\N- Senjata elektrik!
+Dialogue: 0,1:38:35.53,1:38:36.84,Default,,0,0,0,,{\i1}Z!{\i0}
+Dialogue: 0,1:38:37.33,1:38:38.68,Default,,0,0,0,,Z!
+Dialogue: 0,1:38:38.73,1:38:40.60,Default,,0,0,0,,Cuba ini.
+Dialogue: 0,1:38:46.31,1:38:47.91,Default,,0,0,0,,Buang benda ini!
+Dialogue: 0,1:38:49.77,1:38:51.51,Default,,0,0,0,,Itu Chucky!
+Dialogue: 0,1:38:56.33,1:38:59.98,Default,,0,0,0,,Bergerak!\NPantas!
+Dialogue: 0,1:39:57.81,1:39:59.74,Default,,0,0,0,,Mechagodzilla!
+Dialogue: 0,1:40:20.62,1:40:22.44,Default,,0,0,0,,Daito, kami perlukan kau!
+Dialogue: 0,1:40:22.73,1:40:24.07,Default,,0,0,0,,Daito, sekarang!
+Dialogue: 0,1:40:24.10,1:40:27.19,Default,,0,0,0,,Pergi ke jambatan.\NPergi sekarang, perhatiannya terganggu!
+Dialogue: 0,1:40:43.40,1:40:45.23,Default,,0,0,0,,Aku pilih bentuk Gundam.
+Dialogue: 0,1:41:08.60,1:41:09.91,Default,,0,0,0,,Z!
+Dialogue: 0,1:41:28.95,1:41:29.95,Default,,0,0,0,,Arty!
+Dialogue: 0,1:41:29.98,1:41:32.81,Default,,0,0,0,,Pergi ke istana!\NMenangi kunci ketiga sebelum mereka dapat!
+Dialogue: 0,1:41:44.25,1:41:45.02,Default,,0,0,0,,Apa itu?
+Dialogue: 0,1:41:45.03,1:41:47.91,Default,,0,0,0,,Dia ada 30 saat\Nsebelum bertukar semula.
+Dialogue: 0,1:41:59.98,1:42:03.12,Default,,0,0,0,,Daito, batalkan!\NTinggal 10 saat lagi!
+Dialogue: 0,1:42:17.66,1:42:19.17,Default,,0,0,0,,Yang pertama jumpa telur!
+Dialogue: 0,1:42:58.06,1:42:59.75,Default,,0,0,0,,Tak guna, itu dia!
+Dialogue: 0,1:43:19.19,1:43:20.50,Default,,0,0,0,,{\i1}Arty!{\i0}
+Dialogue: 0,1:43:20.94,1:43:22.25,Default,,0,0,0,,{\i1}Arty!{\i0}
+Dialogue: 0,1:43:22.56,1:43:24.74,Default,,0,0,0,,Z, kita mesti pergi ke istana.
+Dialogue: 0,1:43:31.13,1:43:34.07,Default,,0,0,0,,Dia belum pergi.\NDia masih di sini.
+Dialogue: 0,1:43:36.72,1:43:38.68,Default,,0,0,0,,Gadis itu di dalam bilik mesyuarat.
+Dialogue: 0,1:44:33.09,1:44:35.23,Default,,0,0,0,,{\i1}Sho, bertahan!{\i0}
+Dialogue: 0,1:44:54.10,1:44:55.77,Default,,0,0,0,,Tidak!
+Dialogue: 0,1:45:18.16,1:45:19.94,Default,,0,0,0,,Arty, biar kami uruskan.\NLog keluar cepat.
+Dialogue: 0,1:45:19.96,1:45:22.63,Default,,0,0,0,,Jika permainan itu ialah {\i1}Adventure{\i0},\Nkenapa mereka belum menang?
+Dialogue: 0,1:45:22.71,1:45:24.96,Default,,0,0,0,,Entahlah.\NArty, saya serius.
+Dialogue: 0,1:45:24.97,1:45:26.97,Default,,0,0,0,,Sorrento gila.\NDia akan bunuh awak.
+Dialogue: 0,1:45:28.69,1:45:30.13,Default,,0,0,0,,{\i1}Kau cari apa?{\i0}
+Dialogue: 0,1:45:30.74,1:45:32.27,Default,,0,0,0,,Tak ada apa di sana.
+Dialogue: 0,1:45:33.59,1:45:35.10,Default,,0,0,0,,Awak ditimpa masalah, kan?
+Dialogue: 0,1:45:37.91,1:45:39.27,Default,,0,0,0,,Samantha...
+Dialogue: 0,1:45:40.34,1:45:42.80,Default,,0,0,0,,awak tahu saya cintakan awak.\N- Bukan sekarang, Z.
+Dialogue: 0,1:45:42.82,1:45:44.12,Default,,0,0,0,,Saya boleh harungi cabaran ini...
+Dialogue: 0,1:45:44.13,1:45:46.57,Default,,0,0,0,,tapi saya tak boleh biar\Nawak cedera di dunia nyata.
+Dialogue: 0,1:45:47.46,1:45:50.70,Default,,0,0,0,,Keluar dari IOI dan jumpa\Nkami di River South.
+Dialogue: 0,1:45:56.86,1:45:58.54,Default,,0,0,0,,Wade, tidak.
+Dialogue: 0,1:45:58.56,1:46:00.44,Default,,0,0,0,,Awak akan maafkan saya kerana ini.
+Dialogue: 0,1:46:00.46,1:46:02.27,Default,,0,0,0,,Tunggu, tidak!
+Dialogue: 0,1:46:03.81,1:46:05.30,Default,,0,0,0,,PERMAINAN TAMAT
+Dialogue: 0,1:46:11.92,1:46:14.97,Default,,0,0,0,,Buat betul-betul, Sixer.\NMulakan semula.
+Dialogue: 0,1:46:15.20,1:46:17.63,Default,,0,0,0,,Mari, cepat!\NKau dah masuk.
+Dialogue: 0,1:46:36.06,1:46:38.59,Default,,0,0,0,,Bom tangan suci!\NBerapa nilainya?
+Dialogue: 0,1:46:38.61,1:46:41.47,Default,,0,0,0,,Lebih murah dari kerugian mereka.
+Dialogue: 0,1:46:42.46,1:46:43.77,Default,,0,0,0,,Apa itu?
+Dialogue: 0,1:46:54.36,1:46:57.00,Default,,0,0,0,,Tuan, gunter sedang\Nmenghampiri cabaran.
+Dialogue: 0,1:46:57.16,1:46:59.12,Default,,0,0,0,,I-R0k?\N- Dalam posisi, tuan.
+Dialogue: 0,1:46:59.13,1:47:00.36,Default,,0,0,0,,Siapkan pelantar aku.
+Dialogue: 0,1:47:00.39,1:47:01.77,Default,,0,0,0,,Kita masih bertahan.
+Dialogue: 0,1:47:02.06,1:47:03.50,Default,,0,0,0,,Masih berjalan.
+Dialogue: 0,1:47:13.36,1:47:14.67,Default,,0,0,0,,Tunggu.
+Dialogue: 0,1:47:14.80,1:47:16.20,Default,,0,0,0,,Dia cuba nak menang.
+Dialogue: 0,1:47:19.29,1:47:20.60,Default,,0,0,0,,Ya!
+Dialogue: 0,1:47:20.89,1:47:22.30,Default,,0,0,0,,Aku menang!
+Dialogue: 0,1:47:25.26,1:47:26.70,Default,,0,0,0,,Dia kalah.
+Dialogue: 0,1:47:27.21,1:47:28.71,Default,,0,0,0,,Bukan {\i1}Adventure {\i0}.
+Dialogue: 0,1:47:33.36,1:47:35.47,Default,,0,0,0,,Sesiapa yang menang...
+Dialogue: 0,1:47:36.37,1:47:37.67,Default,,0,0,0,,kalah.
+Dialogue: 0,1:47:37.70,1:47:39.27,Default,,0,0,0,,Tujuannya bukan menang...
+Dialogue: 0,1:47:39.86,1:47:41.33,Default,,0,0,0,,tapi untuk bermain.
+Dialogue: 0,1:47:42.09,1:47:44.06,Default,,0,0,0,,Ingat lagi penggumuman Halliday.
+Dialogue: 0,1:47:44.69,1:47:46.01,Default,,0,0,0,,Kunci itu tak kelihatan...
+Dialogue: 0,1:47:46.04,1:47:48.93,Default,,0,0,0,,dan tersorok dalam bilik gelap,\Nditengah selirat.
+Dialogue: 0,1:47:49.76,1:47:52.94,Default,,0,0,0,,Ada rahsia dalam {\i1}Adventure{\i0}\Ndan kau takkan temui dengan menang.
+Dialogue: 0,1:47:53.49,1:47:55.97,Default,,0,0,0,,Kau cari ia di dalam bilik gelap...
+Dialogue: 0,1:47:56.38,1:47:58.11,Default,,0,0,0,,sampailah kau jumpa titik yang\Ntak kelihatan.
+Dialogue: 0,1:47:58.14,1:48:00.03,Default,,0,0,0,,Agak mudah jika kau tahu buat.
+Dialogue: 0,1:48:00.06,1:48:01.37,Default,,0,0,0,,Yakah?
+Dialogue: 0,1:48:01.86,1:48:03.75,Default,,0,0,0,,Biar aku selesaikan untuk kau.
+Dialogue: 0,1:48:08.22,1:48:11.50,Default,,0,0,0,,Peluang terakhir kau, Wade.
+Dialogue: 0,1:48:11.76,1:48:12.79,Default,,0,0,0,,Serahkan kunci itu.
+Dialogue: 0,1:48:12.80,1:48:17.17,Default,,0,0,0,,Aku beri kau 50 juta\Ndalam akaun kau sekarang.
+Dialogue: 0,1:48:18.06,1:48:20.26,Default,,0,0,0,,Kenapa pula aku nak buat begitu?
+Dialogue: 0,1:48:21.81,1:48:23.46,Default,,0,0,0,,Kawan! Itu {\i1}Cataclist{\i0}!
+Dialogue: 0,1:48:23.49,1:48:24.98,Default,,0,0,0,,Sebenarnya, aku tak kesah.
+Dialogue: 0,1:48:25.01,1:48:27.32,Default,,0,0,0,,Selepas ini aku akan jejak kaki\Ndi dalam OASIS lagi...
+Dialogue: 0,1:48:27.33,1:48:29.39,Default,,0,0,0,,dan tak perlu berdepan dengan\Nbenda mengarut ini.
+Dialogue: 0,1:48:29.40,1:48:33.43,Default,,0,0,0,,Tapi aku tahu betapa pentingnya\Npertandingan Halliday untuk kau
+Dialogue: 0,1:48:34.59,1:48:36.90,Default,,0,0,0,,Aku takkan biarkan masa depan OASIS...
+Dialogue: 0,1:48:36.92,1:48:39.02,Default,,0,0,0,,jatuh ke tangan kau,\NNolan Sorrento.
+Dialogue: 0,1:48:39.05,1:48:41.77,Default,,0,0,0,,Baik, tak mengapa.\NTiga langkah mudah.
+Dialogue: 0,1:48:42.17,1:48:42.82,Default,,0,0,0,,Satu.
+Dialogue: 0,1:48:42.83,1:48:44.42,Default,,0,0,0,,Kejap, aku ingat kau tipu.
+Dialogue: 0,1:48:44.43,1:48:45.75,Default,,0,0,0,,Kau tahu kami semua akan mati, kan?
+Dialogue: 0,1:48:45.76,1:48:47.52,Default,,0,0,0,,Aku ada aset yang dikumpul\Nsejak 10 tahun.
+Dialogue: 0,1:48:47.55,1:48:50.63,Default,,0,0,0,,Peluang terakhir. Dua.\N- Aku takkan mati begitu saja.
+Dialogue: 0,1:48:50.71,1:48:53.83,Default,,0,0,0,,Itu serangan hendap.\NMalah kau tak tahu aktifkan orb.
+Dialogue: 0,1:49:05.36,1:49:07.07,Default,,0,0,0,,Ya, aku terasa itu.
+Dialogue: 0,1:49:07.96,1:49:09.82,Default,,0,0,0,,Tapi ini dunia aku, Sorrento.
+Dialogue: 0,1:49:13.91,1:49:15.87,Default,,0,0,0,,{\i1}Hadoken{\i0}!
+Dialogue: 0,1:49:35.16,1:49:37.50,Default,,0,0,0,,Tidak!\N- Langkah ketiga.
+Dialogue: 0,1:49:37.51,1:49:39.13,Default,,0,0,0,,Tidak!
+Dialogue: 0,1:50:36.58,1:50:38.40,Default,,0,0,0,,Tolong tanggalkan benda ini.
+Dialogue: 0,1:50:54.09,1:50:55.40,Default,,0,0,0,,Kalian?
+Dialogue: 0,1:51:01.96,1:51:03.91,Default,,0,0,0,,Z! Dia masih hidup!
+Dialogue: 0,1:51:08.99,1:51:10.87,Default,,0,0,0,,NYAWA TAMBAHAN
+Dialogue: 0,1:51:11.62,1:51:13.10,Default,,0,0,0,,Nyawa tambahan?
+Dialogue: 0,1:51:16.19,1:51:17.77,Default,,0,0,0,,Terima kasih, Kurator.
+Dialogue: 0,1:51:20.02,1:51:21.56,Default,,0,0,0,,Sekejap!
+Dialogue: 0,1:51:23.36,1:51:25.07,Default,,0,0,0,,PERTAMA - PARZIVAL.
+Dialogue: 0,1:51:26.56,1:51:29.09,Default,,0,0,0,,{\i1}SIARAN LANGSUNG AKAN KE UDARA\NPARZIVAL BERMAIN UNTUK KUNCI KRISTAL{\i0}
+Dialogue: 0,1:51:29.12,1:51:31.37,Default,,0,0,0,,Siaran langsung di\Nsemua saluran OASIS?
+Dialogue: 0,1:51:31.89,1:51:34.44,Default,,0,0,0,,Halliday mahu semua orang\Nmenonton pengakhiran pertandingan.
+Dialogue: 0,1:51:34.49,1:51:36.35,Default,,0,0,0,,Itulah Halliday!
+Dialogue: 0,1:51:36.61,1:51:39.80,Default,,0,0,0,,Kita dah cuba {\i1}Adventure{\i0}.\N- Tak, kita cuba menang.
+Dialogue: 0,1:51:39.82,1:51:42.17,Default,,0,0,0,,Tapi bilik tersembunyi\Nbukan di pengakhiran permainan itu.
+Dialogue: 0,1:51:42.30,1:51:45.13,Default,,0,0,0,,Kau kena pergi terus ke titik\Ntersembunyi di permulaan.
+Dialogue: 0,1:51:48.33,1:51:50.64,Default,,0,0,0,,DAFTAR HARI INI
+Dialogue: 0,1:51:58.51,1:51:59.69,Default,,0,0,0,,Itu dia ke?
+Dialogue: 0,1:51:59.71,1:52:03.64,Default,,0,0,0,,Rambut merah, seragam IOI\Ntak tahu dia berada di mana.
+Dialogue: 0,1:52:04.00,1:52:05.31,Default,,0,0,0,,Itu dia.
+Dialogue: 0,1:52:16.74,1:52:19.39,Default,,0,0,0,,Aku Toshiro.\NKau boleh panggil aku Daito.
+Dialogue: 0,1:52:26.06,1:52:27.37,Default,,0,0,0,,Hei, Arty.
+Dialogue: 0,1:52:29.64,1:52:31.42,Default,,0,0,0,,Ya, aku tahu.
+Dialogue: 0,1:52:31.81,1:52:33.38,Default,,0,0,0,,Bukan seperti dugaan kau.
+Dialogue: 0,1:52:33.39,1:52:36.32,Default,,0,0,0,,Ya, aku tak menduga...
+Dialogue: 0,1:52:36.60,1:52:38.88,Default,,0,0,0,,Van pejabat pos lewat 30an.
+Dialogue: 0,1:52:41.12,1:52:42.43,Default,,0,0,0,,Wade?
+Dialogue: 0,1:52:42.62,1:52:44.68,Default,,0,0,0,,Kalau Cataclist meletup,\Nmacam mana awak masih hidup?
+Dialogue: 0,1:52:44.70,1:52:47.52,Default,,0,0,0,,Nyawa tambahan, panjang ceritanya.\NMaaf sebab tembak awak.
+Dialogue: 0,1:52:49.96,1:52:52.19,Default,,0,0,0,,Sho?\N- Apa?
+Dialogue: 0,1:52:52.19,1:52:53.77,Default,,0,0,0,,Awak nak saya cakap...
+Dialogue: 0,1:52:53.78,1:52:56.39,Default,,0,0,0,,"Saya 11 tahun, tembaklah saya"?
+Dialogue: 0,1:52:56.40,1:52:57.49,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,1:52:57.51,1:52:59.58,Default,,0,0,0,,Boleh saya peluk awak?\N- Ninja tak berpeluk!
+Dialogue: 0,1:52:59.60,1:53:01.63,Default,,0,0,0,,Baiklah, semua.\NPegang sesuatu!
+Dialogue: 0,1:53:22.79,1:53:24.43,Default,,0,0,0,,Dah jumpa kau.
+Dialogue: 0,1:53:27.86,1:53:29.70,Default,,0,0,0,,Ayuh, Nolan.\NJawab.
+Dialogue: 0,1:53:31.79,1:53:34.14,Default,,0,0,0,,F'Nale, bagi aku berita baik.
+Dialogue: 0,1:53:34.82,1:53:37.20,Default,,0,0,0,,Dron aku ekori mereka.\NAku dah dekat.
+Dialogue: 0,1:53:37.22,1:53:40.37,Default,,0,0,0,,{\i1}Hantar koordinat.{\i0}\N- Serahkan pada aku, Nolan.
+Dialogue: 0,1:53:42.35,1:53:43.66,Default,,0,0,0,,Nolan?
+Dialogue: 0,1:53:44.22,1:53:45.53,Default,,0,0,0,,Nolan!
+Dialogue: 0,1:53:46.19,1:53:47.39,Default,,0,0,0,,Keluar!
+Dialogue: 0,1:53:56.11,1:53:57.55,Default,,0,0,0,,Bagi aku itu.
+Dialogue: 0,1:54:02.36,1:54:04.03,Default,,0,0,0,,Apa sedang jadi di sana?
+Dialogue: 0,1:54:08.61,1:54:11.27,Default,,0,0,0,,Permainan dah tamat,\Nmereka tonton apa?
+Dialogue: 0,1:54:13.46,1:54:15.94,Default,,0,0,0,,Kunci terakhir.\NIa sedang disiarkan.
+Dialogue: 0,1:54:17.81,1:54:21.59,Default,,0,0,0,,{\i1}Begini, Warren Robinett\Nsangat banggakan Adventure.{\i0}
+Dialogue: 0,1:54:22.10,1:54:24.36,Default,,0,0,0,,{\i1}Dia nak orang tahu bahawa\Nsiapa disebaliknya.{\i0}
+Dialogue: 0,1:54:25.25,1:54:27.88,Default,,0,0,0,,Sebab itulah dia cipta\Ntelur Easter digital yang pertama.
+Dialogue: 0,1:54:28.05,1:54:30.65,Default,,0,0,0,,Dan untuk mencarinya ialah\Nbukan dengan kemenangan.
+Dialogue: 0,1:54:30.75,1:54:34.61,Default,,0,0,0,,Anda hanya perlu cari sekeliling...
+Dialogue: 0,1:54:34.63,1:54:38.16,Default,,0,0,0,,dalam bilik untuk mencari\Ntitik yang tersembunyi.
+Dialogue: 0,1:54:39.21,1:54:41.61,Default,,0,0,0,,Bawa titik itu kembali ke\Nlaman utama dan...
+Dialogue: 0,1:54:41.79,1:54:45.40,Default,,0,0,0,,awak akan jumpa telur Easter yang\Npertama dibubuh dalam permainan video.
+Dialogue: 0,1:54:45.40,1:54:47.64,Default,,0,0,0,,Nama pencipta.
+Dialogue: 0,1:54:47.66,1:54:49.22,Default,,0,0,0,,DICIPTA OLEH WARREN ROBINETT
+Dialogue: 0,1:55:11.95,1:55:14.05,Default,,0,0,0,,Apa berlaku?\NAku tak nampak.
+Dialogue: 0,1:55:14.07,1:55:16.07,Default,,0,0,0,,Parzival dah temui Kunci Kristal!
+Dialogue: 0,1:55:30.99,1:55:33.18,Default,,0,0,0,,Awak nak ke tidak?
+Dialogue: 0,1:55:36.06,1:55:37.96,Default,,0,0,0,,Aech, apa jadi?
+Dialogue: 0,1:55:37.97,1:55:40.09,Default,,0,0,0,,Aku tengah berlatih Mario Cart.\NKau ingat apa?
+Dialogue: 0,1:55:40.10,1:55:42.10,Default,,0,0,0,,IOI cuba nak bunuh kita!
+Dialogue: 0,1:55:56.40,1:55:58.66,Default,,0,0,0,,Anda yang menonton: jika anda berada\Ndi timbunan Columbus...
+Dialogue: 0,1:55:58.67,1:56:01.74,Default,,0,0,0,,Ini Parzival.\NNama dunia nyata saya ialah Wade Watts...
+Dialogue: 0,1:56:01.76,1:56:02.84,Default,,0,0,0,,dan kami perlukan bantuan anda.
+Dialogue: 0,1:56:02.86,1:56:05.96,Default,,0,0,0,,Aech, pergi ke timbunan.\N- Okey, bertahan!
+Dialogue: 0,1:56:31.76,1:56:33.80,Default,,0,0,0,,Masukkan kunci cepat!\NKenapa susah sangat?
+Dialogue: 0,1:56:39.02,1:56:40.33,Default,,0,0,0,,Cepat.
+Dialogue: 0,1:57:05.92,1:57:07.32,Default,,0,0,0,,Itu saja?
+Dialogue: 0,1:57:07.91,1:57:14.12,Default,,0,0,0,,Ya, itu saja. Sila sain dokumen ini\Ndan OASIS jadi milik awak.
+Dialogue: 0,1:57:14.14,1:57:20.48,Default,,0,0,0,,Awak akan jadi pemilik tunggalnya.\NBoleh tahan, kan?
+Dialogue: 0,1:57:41.96,1:57:43.60,Default,,0,0,0,,Tunggu kejap.
+Dialogue: 0,1:58:05.83,1:58:08.60,Default,,0,0,0,,Pengakuan dan Persetujuan\NWade Watts - Nama Pemilik
+Dialogue: 0,1:58:11.56,1:58:12.93,Default,,0,0,0,,{\i1}Ini salah.{\i0}
+Dialogue: 0,1:58:14.17,1:58:16.98,Default,,0,0,0,,Pen ini, kontrak ini.
+Dialogue: 0,1:58:20.18,1:58:23.65,Default,,0,0,0,,Inilah detik Halliday paksa\NMorrow serahkan sahamnya dalam Gragarous.
+Dialogue: 0,1:58:24.82,1:58:27.02,Default,,0,0,0,,Itu kesilapan terbesar dalam hidupnya.
+Dialogue: 0,1:58:27.46,1:58:28.89,Default,,0,0,0,,Dia tahu tentang itu.
+Dialogue: 0,1:58:31.27,1:58:33.04,Default,,0,0,0,,Mustahil ini penamatnya.
+Dialogue: 0,1:58:34.61,1:58:36.13,Default,,0,0,0,,Ini satu ujian.
+Dialogue: 0,1:58:40.88,1:58:43.17,Default,,0,0,0,,Saya takkan buat kesilapan sama\Nyang awak buat.
+Dialogue: 0,1:58:49.46,1:58:50.86,Default,,0,0,0,,Bagus.
+Dialogue: 0,1:58:53.98,1:58:57.57,Default,,0,0,0,,Saya cuma nak pastikan.
+Dialogue: 0,1:59:11.09,1:59:12.87,Default,,0,0,0,,Awak dibesarkan di sini.
+Dialogue: 0,1:59:22.52,1:59:25.37,Default,,0,0,0,,Itu saya masa lama dahulu.
+Dialogue: 0,1:59:25.76,1:59:28.58,Default,,0,0,0,,Saya suka ditemaninya\Ndari masa ke semasa.
+Dialogue: 0,1:59:29.19,1:59:31.63,Default,,0,0,0,,Saya nak tunjuk sesuatu...
+Dialogue: 0,1:59:31.63,1:59:35.35,Default,,0,0,0,,Ini butang.
+Dialogue: 0,1:59:35.38,1:59:38.60,Default,,0,0,0,,Kalau awak tekan,\Nseluruh simulasi akan mati...
+Dialogue: 0,1:59:38.61,1:59:42.27,Default,,0,0,0,,dan program akan padam\Nsemua fail sandaran dalam server.
+Dialogue: 0,1:59:42.28,1:59:46.18,Default,,0,0,0,,Kini awak ada kuasa untuk\Nmenutup OASIS selamanya.
+Dialogue: 0,1:59:46.30,1:59:47.89,Default,,0,0,0,,Awak faham?
+Dialogue: 0,1:59:52.93,1:59:53.41,Default,,0,0,0,,Ya.
+Dialogue: 0,1:59:53.44,1:59:58.67,Default,,0,0,0,,Cuba jangan terpadam\Nseluruh OASIS pada hari pertama awak.
+Dialogue: 0,2:00:08.50,2:00:10.64,Default,,0,0,0,,Timbunan berada di depan!
+Dialogue: 0,2:00:25.64,2:00:28.86,Default,,0,0,0,,Saya rasa awak kena pergi.\NSeba saya kena pergi.
+Dialogue: 0,2:00:28.90,2:00:31.43,Default,,0,0,0,,Kini tiba masanya untuk awak\Nmenerima hadiah awak...
+Dialogue: 0,2:00:31.46,2:00:33.61,Default,,0,0,0,,sebab awak dah menangi\Nketiga-tiga kunci.
+Dialogue: 0,2:00:33.86,2:00:38.05,Default,,0,0,0,,Sebaik saja awak ambil telur ini,\Npermainan akan tamat.
+Dialogue: 0,2:00:38.64,2:00:40.22,Default,,0,0,0,,Telur itu...
+Dialogue: 0,2:00:40.99,2:00:42.82,Default,,0,0,0,,Telur itu?
+Dialogue: 0,2:00:49.14,2:00:51.24,Default,,0,0,0,,Kami tahu apa kau buat kat sini.
+Dialogue: 0,2:00:51.40,2:00:54.51,Default,,0,0,0,,Pusing dan keluar dari sini\Nselagi kau masih mampu.
+Dialogue: 0,2:01:07.83,2:01:13.34,Default,,0,0,0,,Saya cipta OASIS sebab saya tak dapat\Nsesuaikan diri dengan dunia nyata.
+Dialogue: 0,2:01:15.02,2:01:18.33,Default,,0,0,0,,Saya tak tahu macam mana nak\Nbergaul dengan orang di sana.
+Dialogue: 0,2:01:19.69,2:01:22.38,Default,,0,0,0,,Seumur hidup saya berasa takut.
+Dialogue: 0,2:01:22.65,2:01:25.81,Default,,0,0,0,,Sampailah pada hari saya tahu\Nkehidupan saya akan berakhir.
+Dialogue: 0,2:01:27.72,2:01:29.60,Default,,0,0,0,,Sarikata Oleh BlackCape\N- MALAYSIA SUBBERS CREW-
+Dialogue: 0,2:01:31.14,2:01:32.16,Default,,0,0,0,,Dan itu...
+Dialogue: 0,2:01:32.19,2:01:35.05,Default,,0,0,0,,Pada masa itulah saya sedar...
+Dialogue: 0,2:01:35.90,2:01:41.51,Default,,0,0,0,,walaupun realiti itu menakutkan...
+Dialogue: 0,2:01:42.04,2:01:43.55,Default,,0,0,0,,ia juga tempat...
+Dialogue: 0,2:01:44.14,2:01:46.41,Default,,0,0,0,,satu-satunya tempat...
+Dialogue: 0,2:01:47.79,2:01:50.05,Default,,0,0,0,,yang awak boleh nikmati hidangan enak.
+Dialogue: 0,2:01:55.96,2:01:57.40,Default,,0,0,0,,Kerana...
+Dialogue: 0,2:01:59.02,2:02:00.91,Default,,0,0,0,,Realiti...
+Dialogue: 0,2:02:05.90,2:02:07.55,Default,,0,0,0,,itu benar.
+Dialogue: 0,2:02:07.80,2:02:09.74,Default,,0,0,0,,Awak faham maksud saya?
+Dialogue: 0,2:02:11.27,2:02:13.71,Default,,0,0,0,,Ya, saya faham.
+Dialogue: 0,2:02:23.70,2:02:25.31,Default,,0,0,0,,Dia berjaya.
+Dialogue: 0,2:02:26.70,2:02:28.34,Default,,0,0,0,,Dia dah dapat telur itu.
+Dialogue: 0,2:02:28.65,2:02:30.11,Default,,0,0,0,,Horray!
+Dialogue: 0,2:02:31.40,2:02:33.47,Default,,0,0,0,,Tidak! Tolonglah!
+Dialogue: 0,2:03:06.36,2:03:07.67,Default,,0,0,0,,Tunggu!
+Dialogue: 0,2:03:09.74,2:03:13.25,Default,,0,0,0,,Buang senjata itu!\NMeniarap sekarang!
+Dialogue: 0,2:03:13.37,2:03:15.98,Default,,0,0,0,,Pusing, letak tangan di kepala!
+Dialogue: 0,2:03:16.24,2:03:18.05,Default,,0,0,0,,Berjalan ke arah saya!
+Dialogue: 0,2:03:22.65,2:03:24.71,Default,,0,0,0,,PERMAINAN TAMAT
+Dialogue: 0,2:03:33.51,2:03:34.95,Default,,0,0,0,,En. Halliday...
+Dialogue: 0,2:03:36.24,2:03:38.25,Default,,0,0,0,,Saya tak faham sesuatu.
+Dialogue: 0,2:03:39.01,2:03:41.39,Default,,0,0,0,,Awak bukan avatar, kan?
+Dialogue: 0,2:03:42.14,2:03:43.45,Default,,0,0,0,,Tidak.
+Dialogue: 0,2:03:45.34,2:03:47.33,Default,,0,0,0,,Apa Halliday betul-betul dah mati?
+Dialogue: 0,2:03:48.87,2:03:50.38,Default,,0,0,0,,Ya.
+Dialogue: 0,2:03:56.34,2:03:57.91,Default,,0,0,0,,Jadi awak apa?
+Dialogue: 0,2:04:01.17,2:04:03.25,Default,,0,0,0,,Selamat tinggal, Parzival.
+Dialogue: 0,2:04:04.84,2:04:06.15,Default,,0,0,0,,Terima kasih.
+Dialogue: 0,2:04:07.47,2:04:09.73,Default,,0,0,0,,Terima kasih kerana bermain\Npermainan saya.
+Dialogue: 0,2:04:38.84,2:04:40.21,Default,,0,0,0,,Wade?
+Dialogue: 0,2:04:41.66,2:04:43.41,Default,,0,0,0,,Ogden Morrow?!
+Dialogue: 0,2:04:43.44,2:04:44.57,Default,,0,0,0,,Awak boleh panggil saya Og.
+Dialogue: 0,2:04:44.58,2:04:48.08,Default,,0,0,0,,Ada sekumpulan orang\Nyang nak jumpa awak.
+Dialogue: 0,2:04:48.60,2:04:51.39,Default,,0,0,0,,Wah, ini menakjubkan.
+Dialogue: 0,2:04:51.60,2:04:53.78,Default,,0,0,0,,Saya berbesar hati dapat jumpa awak, Og.
+Dialogue: 0,2:04:58.66,2:05:00.68,Default,,0,0,0,,Ada sesuatu saya nak buat.
+Dialogue: 0,2:05:04.34,2:05:06.11,Default,,0,0,0,,Saya bukan macam Halliday.
+Dialogue: 0,2:05:09.77,2:05:11.57,Default,,0,0,0,,Saya akan ambil risiko itu.
+Dialogue: 0,2:05:28.34,2:05:30.11,Default,,0,0,0,,Kami mencari Wade Watts.
+Dialogue: 0,2:05:31.44,2:05:33.14,Default,,0,0,0,,Kami nak awak beri keterangan...
+Dialogue: 0,2:05:33.15,2:05:35.74,Default,,0,0,0,,pasal klip yang awak hatar dalam\NpengakuanNolan Sorrento.
+Dialogue: 0,2:05:36.54,2:05:37.98,Default,,0,0,0,,Saya yang hantar.
+Dialogue: 0,2:05:38.77,2:05:41.00,Default,,0,0,0,,Apa? Aku rakam semuanya\Ndalam bengkel aku.
+Dialogue: 0,2:05:47.58,2:05:49.31,Default,,0,0,0,,Tolong tanggalkan benda ini.
+Dialogue: 0,2:05:55.77,2:05:57.25,Default,,0,0,0,,Siapa kalian?
+Dialogue: 0,2:05:58.02,2:05:59.79,Default,,0,0,0,,Orang yang awak\Nperlukan sekarang.
+Dialogue: 0,2:05:59.82,2:06:02.65,Default,,0,0,0,,Peguam dari Gregarious Games.
+Dialogue: 0,2:06:05.17,2:06:07.30,Default,,0,0,0,,Mereka perlukan\Ntandatangan awak, Wade.
+Dialogue: 0,2:06:14.64,2:06:16.78,Default,,0,0,0,,Saya akan berkongsi dengan geng saya.
+Dialogue: 0,2:06:17.10,2:06:19.00,Default,,0,0,0,,Kami akan kendalikan bersama.
+Dialogue: 0,2:06:23.44,2:06:25.12,Default,,0,0,0,,Itu pilihan yang baik.
+Dialogue: 0,2:06:53.27,2:06:56.29,Default,,0,0,0,,F'Nale, dengar baik-baik...
+Dialogue: 0,2:07:05.54,2:07:07.91,Default,,0,0,0,,En. Morrow, maksud saya, Og.
+Dialogue: 0,2:07:08.50,2:07:09.91,Default,,0,0,0,,Macam mana encik\Nsampai sini begitu cepat?
+Dialogue: 0,2:07:09.94,2:07:12.71,Default,,0,0,0,,Saya terbang dari bintang\Ndengan kereta peluncur sakti saya.
+Dialogue: 0,2:07:13.17,2:07:14.89,Default,,0,0,0,,Semua orang sedang perhati.
+Dialogue: 0,2:07:15.46,2:07:18.68,Default,,0,0,0,,Tapi saya sedang perhatikan\Ndengan lebih dekat.
+Dialogue: 0,2:07:22.51,2:07:23.82,Default,,0,0,0,,Encik?
+Dialogue: 0,2:07:24.24,2:07:25.95,Default,,0,0,0,,Encik ke Kurator itu?
+Dialogue: 0,2:07:29.30,2:07:31.57,Default,,0,0,0,,{\i1}Bagus, Parzival.{\i0}
+Dialogue: 0,2:07:32.79,2:07:34.77,Default,,0,0,0,,Jim tak beritahu saya pasal\Npertandingan itu...
+Dialogue: 0,2:07:34.78,2:07:38.15,Default,,0,0,0,,jadi tiada larangan untuk saya\Nkalah pertaruhan budak bijak.
+Dialogue: 0,2:07:38.18,2:07:40.38,Default,,0,0,0,,Namun awak tak perlukan\Nbantuan saya.
+Dialogue: 0,2:07:41.00,2:07:44.68,Default,,0,0,0,,Awak tahu Kira ialah kuncinya.
+Dialogue: 0,2:07:45.17,2:07:46.48,Default,,0,0,0,,Ya, tapi...
+Dialogue: 0,2:07:46.60,2:07:48.23,Default,,0,0,0,,Kira bukan kuncinya.
+Dialogue: 0,2:07:49.24,2:07:50.95,Default,,0,0,0,,Tapi awaklah, En. Morrow.
+Dialogue: 0,2:07:53.17,2:07:54.88,Default,,0,0,0,,Enciklah Rosebud itu.
+Dialogue: 0,2:07:54.93,2:07:57.45,Default,,0,0,0,,Dan Halliday paling menyesal...
+Dialogue: 0,2:07:59.04,2:08:00.95,Default,,0,0,0,,kehilangan satu-satunya kawan dia.
+Dialogue: 0,2:08:05.08,2:08:09.61,Default,,0,0,0,,Jim selalu kata OASIS tak sepatutnya\Npermainan perseorangan.
+Dialogue: 0,2:08:13.40,2:08:15.89,Default,,0,0,0,,Baik, mereka ini siapa?
+Dialogue: 0,2:08:17.14,2:08:20.44,Default,,0,0,0,,Tengoklah siapa ini.\NWira-wira saya, High Five.
+Dialogue: 0,2:08:20.45,2:08:22.42,Default,,0,0,0,,Awak pasti Art3mis?\N- Samantha.
+Dialogue: 0,2:08:22.43,2:08:24.10,Default,,0,0,0,,{\i1}High Five mengambil alih OASIS...{\i0}
+Dialogue: 0,2:08:24.11,2:08:25.61,Default,,0,0,0,,{\i1}dan perkara pertama kami buat...{\i0}
+Dialogue: 0,2:08:25.64,2:08:29.18,Default,,0,0,0,,{\i1}ialah melantik Ogden Morrow\Nsebagai penasihat tak eksklusif.{\i0}
+Dialogue: 0,2:08:29.29,2:08:32.05,Default,,0,0,0,,{\i1}Gaji yang diminta...{\i0}
+Dialogue: 0,2:08:32.19,2:08:35.65,Default,,0,0,0,,{\i1}ialah 25 sen.\NSuku dolar.{\i0}
+Dialogue: 0,2:08:38.64,2:08:40.84,Default,,0,0,0,,{\i1}Dengan bimbingannya,\Nlangkah kedua kami ialah...{\i0}
+Dialogue: 0,2:08:40.85,2:08:44.11,Default,,0,0,0,,{\i1}melarang sebarang pusar Loyalti\Ndaripada mengakses OASIS.{\i0}
+Dialogue: 0,2:08:44.47,2:08:46.35,Default,,0,0,0,,{\i1}IOI tiada pilihan.{\i0}
+Dialogue: 0,2:08:46.58,2:08:48.24,Default,,0,0,0,,{\i1}Mereka hentikan semua operasi mereka.{\i0}
+Dialogue: 0,2:08:50.64,2:08:53.25,Default,,0,0,0,,{\i1}Hal ketiga yang kami buat\Nmengundang kemarahan.{\i0}
+Dialogue: 0,2:08:53.74,2:08:57.19,Default,,0,0,0,,{\i1}Kami tutup OASIS\Npada hari Selasa dan Khamis.{\i0}
+Dialogue: 0,2:08:57.55,2:08:59.86,Default,,0,0,0,,{\i1}Saya tahu tindakan itu pelik...{\i0}
+Dialogue: 0,2:09:00.17,2:09:03.19,Default,,0,0,0,,{\i1}Tapi kita mesti luangkan\Nlebih masa di dunia nyata.{\i0}
+Dialogue: 0,2:09:04.80,2:09:07.55,Default,,0,0,0,,{\i1}Seperti yang Halliday kata:{\i0}
+Dialogue: 0,2:09:07.84,2:09:11.08,Default,,0,0,0,,{\i1}Realiti ialah satu-satunya hal...{\i0}
+Dialogue: 0,2:09:11.34,2:09:12.78,Default,,0,0,0,,{\i1}yang sebenar.{\i0}
+Dialogue: 0,2:09:16.26,2:09:19.66,Default,,0,0,0,,Sarikata Oleh: BlackCape\N- Malaysia Subbers Crew -
+Dialogue: 0,2:09:20.55,2:09:28.55,Default,,0,0,0,,Ikuti FB.com/malaysiasubbers\Nuntuk sarikata terbaru!

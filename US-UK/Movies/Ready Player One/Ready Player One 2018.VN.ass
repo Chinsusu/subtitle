@@ -1,0 +1,1613 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.37,0:00:12.37,Default,,0,0,0,,Biên tập phụ đề: PhimGiaiTri. Net
+Dialogue: 0,0:00:49.80,0:00:52.00,Default,,0,0,0,,{\b1}THÀNH PHỐ COLUMBUS, BANG OHIO\NNĂM 2045{\b0}
+Dialogue: 0,0:00:52.25,0:00:56.27,Default,,0,0,0,,{\b1}XA THÀNH{\b0}
+Dialogue: 0,0:01:17.20,0:01:21.07,Default,,0,0,0,,{\i1}Hãy chuẩn bị cảm nhận,\Ncảm nhận sự chân thực. X1.{\i0}
+Dialogue: 0,0:01:21.27,0:01:22.98,Default,,0,0,0,,{\i1}Khổ luyện mới thành tài.{\i0}
+Dialogue: 0,0:01:44.99,0:01:46.26,Default,,0,0,0,,Pizza này.
+Dialogue: 0,0:02:07.96,0:02:09.31,Default,,0,0,0,,Chào Wade.
+Dialogue: 0,0:02:09.51,0:02:11.08,Default,,0,0,0,,Chào bà Gilmore.
+Dialogue: 0,0:02:11.18,0:02:14.06,Default,,0,0,0,,Có chuyện gì vậy?\NĐời làm cháu thất vọng à?
+Dialogue: 0,0:02:18.75,0:02:21.09,Default,,0,0,0,,{\i1}Tôi sinh vào năm 2017.{\i0}
+Dialogue: 0,0:02:21.19,0:02:24.91,Default,,0,0,0,,{\i1}Sau khi ngô dần mất mùa,\Nsau khi băng thông náo loạn.{\i0}
+Dialogue: 0,0:02:25.11,0:02:29.60,Default,,0,0,0,,{\i1}Sau khi người ta thôi tìm cách sửa chửa\Nvấn đề mà chỉ tìm cách sng chung với lũ.i{\i0}
+Dialogue: 0,0:02:36.16,0:02:38.44,Default,,0,0,0,,{\i1}Bố mẹ tôi\Nhọ không sống qua nổi thời đó{\i0}
+Dialogue: 0,0:02:38.64,0:02:41.74,Default,,0,0,0,,{\i1}nên tôi sống ở Columbus,\NOhio này, với dì Alice của tôi.{\i0}
+Dialogue: 0,0:02:42.64,0:02:46.88,Default,,0,0,0,,{\i1}Vào năm 2015, Columbus là\Nthành phố phát triển nhanh nhất thế giới.{\i0}
+Dialogue: 0,0:02:47.91,0:02:51.19,Default,,0,0,0,,{\i1}Đó là nơi Halliday và Morrow\Nkhởi tạo Gregarious Games.{\i0}
+Dialogue: 0,0:02:56.13,0:02:58.44,Default,,0,0,0,,{\i1}Thời nay, thực tại là đồ bỏ đi.{\i0}
+Dialogue: 0,0:02:58.54,0:03:00.39,Default,,0,0,0,,{\i1}Ai nấy đều tìm một lối thoát{\i0}
+Dialogue: 0,0:03:00.49,0:03:01.73,Default,,0,0,0,,{\i1}và vậy mới có Halliday.{\i0}
+Dialogue: 0,0:03:01.93,0:03:03.81,Default,,0,0,0,,{\i1}Vậy ông ta mới thành\Nngười hùng với chúng tôi.{\i0}
+Dialogue: 0,0:03:04.88,0:03:08.36,Default,,0,0,0,,{\i1}Ông ta cho chúng tôi thấy mình có thể\Nngao du mà chẳng phải động chân.{\i0}
+Dialogue: 0,0:03:10.42,0:03:13.64,Default,,0,0,0,,{\i1}Đâu cần đích đến\Nkhi đang chạy trên máy chạy đa hướng{\i0}
+Dialogue: 0,0:03:13.84,0:03:16.11,Default,,0,0,0,,{\i1}với lớp lót cảm ứng áp lực,\N4 kênh truyền.{\i0}
+Dialogue: 0,0:03:17.17,0:03:19.37,Default,,0,0,0,,{\i1}James Halliday thấy trước tương lai.{\i0}
+Dialogue: 0,0:03:19.57,0:03:21.07,Default,,0,0,0,,{\i1}Và rồi ông ta xây dựng nó.{\i0}
+Dialogue: 0,0:03:21.27,0:03:23.19,Default,,0,0,0,,{\i1}Ông ta cho chúng tôi một nơi để đi.{\i0}
+Dialogue: 0,0:03:23.39,0:03:25.19,Default,,0,0,0,,{\i1}Một nơi gọi là...{\i0}
+Dialogue: 0,0:03:25.75,0:03:27.16,Default,,0,0,0,,{\i1}OASIS.{\i0}
+Dialogue: 0,0:03:38.85,0:03:39.93,Default,,0,0,0,,{\b1}MUNDO MINECRAFT{\b0}
+Dialogue: 0,0:03:40.40,0:03:42.48,Default,,0,0,0,,{\i1}Đây là OASIS.{\i0}
+Dialogue: 0,0:03:42.68,0:03:46.81,Default,,0,0,0,,{\i1}Nơi mà giới hạn của thực tại\Nchính là trí tưởng tượng của bạn.{\i0}
+Dialogue: 0,0:03:48.18,0:03:49.62,Default,,0,0,0,,{\b1}100 ĐIỂM{\b0}
+Dialogue: 0,0:03:49.82,0:03:50.82,Default,,0,0,0,,{\b1}NHẢY DÙ LƯỢN TRONG BÃO{\b0}
+Dialogue: 0,0:04:00.29,0:04:02.24,Default,,0,0,0,,{\i1}Bạn có thể làm mọi thứ...{\i0}
+Dialogue: 0,0:04:03.48,0:04:04.59,Default,,0,0,0,,{\i1}Đến bất cứ đâu.{\i0}
+Dialogue: 0,0:04:06.03,0:04:07.56,Default,,0,0,0,,{\i1}Như hành tinh nghĩ dưỡng.{\i0}
+Dialogue: 0,0:04:07.76,0:04:12.81,Default,,0,0,0,,{\i1}Lướt siêu sóng cao 15 mét ở Hawaii.\NBạn có thể trượt xuống kim tự tháp.{\i0}
+Dialogue: 0,0:04:13.51,0:04:15.30,Default,,0,0,0,,{\i1}Bạn có thể leo lên đỉnh Everest...{\i0}
+Dialogue: 0,0:04:15.40,0:04:16.70,Default,,0,0,0,,{\i1}cùng Batman.{\i0}
+Dialogue: 0,0:04:19.51,0:04:23.00,Default,,0,0,0,,{\i1}Hãy xem nơi này đi.\NMột sòng bài to bằng cả hành tinh.{\i0}
+Dialogue: 0,0:04:23.20,0:04:26.89,Default,,0,0,0,,{\i1}Bạn có thể thua hết tiền ở đó.\NBạn có thể kết hôn. Có thể ly hôn.{\i0}
+Dialogue: 0,0:04:28.29,0:04:29.49,Default,,0,0,0,,{\i1}Bạn có thể... có thể vào đó.{\i0}
+Dialogue: 0,0:04:31.12,0:04:33.92,Default,,0,0,0,,{\i1}Người ta đến với OASIS\Nvì những gì họ có thể làm...{\i0}
+Dialogue: 0,0:04:34.12,0:04:37.52,Default,,0,0,0,,{\i1}Nhưng họ ở lại\Nvì những gì họ có thể trở thành.{\i0}
+Dialogue: 0,0:04:38.83,0:04:42.52,Default,,0,0,0,,{\i1}Cao, đẹp, đáng sợ,\Nhay một giới tính khác.{\i0}
+Dialogue: 0,0:04:42.72,0:04:45.72,Default,,0,0,0,,{\i1}Một loài khác,\Nphim người đóng, hoạt hình.{\i0}
+Dialogue: 0,0:04:45.92,0:04:47.41,Default,,0,0,0,,{\i1}Tùy bạn chọn cả.{\i0}
+Dialogue: 0,0:04:48.56,0:04:51.74,Default,,0,0,0,,{\i1}Phải, tôi đấy.\NÀ, đó là nhân vật đại diện của tôi.{\i0}
+Dialogue: 0,0:04:51.91,0:04:54.59,Default,,0,0,0,,{\i1}Ít nhất là đến khi tôi muốn đổi.{\i0}
+Dialogue: 0,0:04:55.69,0:04:58.17,Default,,0,0,0,,{\i1}Trừ lúc ăn, ngủ và đi vào nhà tắm,{\i0}
+Dialogue: 0,0:04:58.17,0:05:01.54,Default,,0,0,0,,{\i1}người ta muốn làm gì,\Nthì họ đều làm trong OASIS cả.{\i0}
+Dialogue: 0,0:05:02.35,0:05:05.15,Default,,0,0,0,,{\i1}Và vì ai cũng ở đây,\Nnên đây là nơi chúng tôi gặp gỡ.{\i0}
+Dialogue: 0,0:05:05.71,0:05:06.88,Default,,0,0,0,,{\i1}Đây là nơi chúng tôi kết bạn.{\i0}
+Dialogue: 0,0:05:06.98,0:05:08.16,Default,,0,0,0,,Định vị Aech.
+Dialogue: 0,0:05:09.73,0:05:11.27,Default,,0,0,0,,{\i1}Đang định vị Aech.{\i0}
+Dialogue: 0,0:05:14.13,0:05:15.46,Default,,0,0,0,,{\i1}Đã định vị Aech.{\i0}
+Dialogue: 0,0:05:16.26,0:05:18.93,Default,,0,0,0,,{\i1}Khu 12. Hành tinh Doom.{\i0}
+Dialogue: 0,0:05:19.53,0:05:22.59,Default,,0,0,0,,{\i1}Hành tinh Doom, nơi nguy\Nhiểm nhất trong OASIS.{\i0}
+Dialogue: 0,0:05:22.94,0:05:25.49,Default,,0,0,0,,{\i1}Và là nơi khá tuyệt để kiếm xu.{\i0}
+Dialogue: 0,0:05:26.18,0:05:27.65,Default,,0,0,0,,{\i1}Dễ hiểu là Aech sẽ tới đó.{\i0}
+Dialogue: 0,0:05:30.19,0:05:32.69,Default,,0,0,0,,{\i1}Aech là bạn thân nhất của tôi trong OASIS.{\i0}
+Dialogue: 0,0:05:33.56,0:05:36.05,Default,,0,0,0,,{\i1}Cậu ta là bạn thân nhất của tôi, chấm hết.{\i0}
+Dialogue: 0,0:05:36.15,0:05:39.13,Default,,0,0,0,,{\i1}Dù tôi chưa từng gặp cậu\Nta trong thế giới thực.{\i0}
+Dialogue: 0,0:05:43.08,0:05:45.27,Default,,0,0,0,,- Sao rồi, Aech?\N- Chào, sao rồi Z?
+Dialogue: 0,0:05:45.37,0:05:47.76,Default,,0,0,0,,Đợt kế là sau 20 phút nữa\Nvà tớ không thể đua trễ.
+Dialogue: 0,0:05:47.76,0:05:49.48,Default,,0,0,0,,Cậu đang âm mưu gì thế?
+Dialogue: 0,0:05:49.49,0:05:51.91,Default,,0,0,0,,Tớ đang bận đồ sát, bạn ơi.
+Dialogue: 0,0:05:52.11,0:05:53.27,Default,,0,0,0,,Daito đấy à?
+Dialogue: 0,0:05:53.42,0:05:54.82,Default,,0,0,0,,Daito và Sho.
+Dialogue: 0,0:05:59.82,0:06:00.82,Default,,0,0,0,,Cảm ơn.
+Dialogue: 0,0:06:01.26,0:06:02.70,Default,,0,0,0,,Săn cổ vật sao?
+Dialogue: 0,0:06:02.81,0:06:04.87,Default,,0,0,0,,Phải, Greganous 120.
+Dialogue: 0,0:06:05.17,0:06:09.03,Default,,0,0,0,,{\i1}Hóa thành robot khổng lồ bất kỳ\Ntrong 2 phút. Dữ thật đấy.{\i0}
+Dialogue: 0,0:06:09.63,0:06:11.12,Default,,0,0,0,,{\i1}Cổ vật.{\i0}
+Dialogue: 0,0:06:11.83,0:06:13.73,Default,,0,0,0,,{\i1}Đó là chìa khóa.{\i0}
+Dialogue: 0,0:06:14.66,0:06:19.43,Default,,0,0,0,,{\i1}Halliday đảm bảo OASIS có đủ đồ mạnh\Nngẫu nhiên được phân bố rải rác.{\i0}
+Dialogue: 0,0:06:19.63,0:06:22.32,Default,,0,0,0,,{\i1}Để bất kỳ ai cũng có thể thắng\Nnếu có kỹ năng.{\i0}
+Dialogue: 0,0:06:23.83,0:06:26.59,Default,,0,0,0,,{\i1}Giết quái và săn cổ vật\Nlà cách hay để kiếm xu...{\i0}
+Dialogue: 0,0:06:26.79,0:06:29.40,Default,,0,0,0,,{\i1}nhưng tùy cấp giáp của bạn,\Nviệc đó khá mạo hiểm.{\i0}
+Dialogue: 0,0:06:30.85,0:06:33.19,Default,,0,0,0,,{\i1}Bạn thấy đấy,\Nai nấy khởi đầu đều như nhau.{\i0}
+Dialogue: 0,0:06:33.39,0:06:34.66,Default,,0,0,0,,{\i1}Nhưng càng kiếm được nhiều xu...{\i0}
+Dialogue: 0,0:06:34.69,0:06:36.26,Default,,0,0,0,,- Mẹ! Mẹ!\N{\i1}- Cấp của bạn càng cao.{\i0}
+Dialogue: 0,0:06:36.46,0:06:38.83,Default,,0,0,0,,{\i1}Nếu bạn bị giết,\Nnhân vật của bạn có thể sống lại...{\i0}
+Dialogue: 0,0:06:39.03,0:06:39.82,Default,,0,0,0,,Đi tìm bố con ấy!
+Dialogue: 0,0:06:40.02,0:06:41.62,Default,,0,0,0,,{\i1}Nhưng bạn sẽ mất hết đồ.{\i0}
+Dialogue: 0,0:06:43.40,0:06:45.59,Default,,0,0,0,,{\i1}Mọi thứ bạn từng cày cuốc được.{\i0}
+Dialogue: 0,0:06:46.39,0:06:47.71,Default,,0,0,0,,{\i1}Toàn bộ tiền của bạn.{\i0}
+Dialogue: 0,0:06:49.88,0:06:51.27,Default,,0,0,0,,{\i1}Trang phục của bạn.{\i0}
+Dialogue: 0,0:06:52.98,0:06:54.30,Default,,0,0,0,,{\i1}Vũ khí của bạn.{\i0}
+Dialogue: 0,0:06:54.90,0:06:57.52,Default,,0,0,0,,{\i1}Vì người ta dành phần lớn\Nthời gian trong OASIS...{\i0}
+Dialogue: 0,0:07:00.35,0:07:01.64,Default,,0,0,0,,{\i1}nên bạn để mất đồ nghĩa là...{\i0}
+Dialogue: 0,0:07:02.27,0:07:04.61,Default,,0,0,0,,{\i1}bạn bị mất đồ đấy.{\i0}
+Dialogue: 0,0:07:07.28,0:07:09.52,Default,,0,0,0,,Aech, 10 phút nữa là bắt đầu đua.
+Dialogue: 0,0:07:09.73,0:07:11.58,Default,,0,0,0,,{\i1}Được rồi mẹ, con nghe rồi.{\i0}
+Dialogue: 0,0:07:11.79,0:07:15.87,Default,,0,0,0,,{\i1}Bạn thấy đấy, OASIS là tác phẩm\Ncủa James Halliday.{\i0}
+Dialogue: 0,0:07:16.07,0:07:20.72,Default,,0,0,0,,{\i1}Ông ta và cộng sự, Ogden Morrow,\Nphát hành bản OASIS đầu tiên năm 2025.{\i0}
+Dialogue: 0,0:07:20.92,0:07:25.09,Default,,0,0,0,,{\i1}Nó ngay lập tức thành\Ncông và khiến họ giàu to.{\i0}
+Dialogue: 0,0:07:25.29,0:07:28.79,Default,,0,0,0,,{\i1}Nhưng Morrow không còn dính dáng\Nsau vài năm. Còn Halliday?{\i0}
+Dialogue: 0,0:07:28.89,0:07:32.15,Default,,0,0,0,,{\i1}Ông ta không chỉ là\Nông chủ công ty lớn nhất thế giới.{\i0}
+Dialogue: 0,0:07:32.25,0:07:36.07,Default,,0,0,0,,{\i1}Ông ta giống như thánh vậy.\NNgười ta yêu quý ông ta.{\i0}
+Dialogue: 0,0:07:36.27,0:07:38.27,Default,,0,0,0,,{\i1}Họ tôn thời ông ta\Ncũng như những sản phẩm của ông ta.{\i0}
+Dialogue: 0,0:07:38.30,0:07:41.03,Default,,0,0,0,,Có lẽ chúng ta nên thôi nói về nó
+Dialogue: 0,0:07:41.13,0:07:43.52,Default,,0,0,0,,và bắt đầu cho nó xuất hiện.
+Dialogue: 0,0:07:43.73,0:07:45.86,Default,,0,0,0,,Nếu quý vị thò tay xuống dưới ghế
+Dialogue: 0,0:07:46.06,0:07:48.18,Default,,0,0,0,,quý vị sẽ không thấy có gì dưới đó.
+Dialogue: 0,0:07:48.28,0:07:51.63,Default,,0,0,0,,Nhưng mỗi chúng tôi\Nsẽ mang cho quý vị một cái ngay.
+Dialogue: 0,0:07:52.63,0:07:56.30,Default,,0,0,0,,{\i1}Và rồi, vào ngày 7 tháng 1 năm 2040...{\i0}
+Dialogue: 0,0:07:59.48,0:08:00.48,Default,,0,0,0,,{\i1}ông ta qua đời.{\i0}
+Dialogue: 0,0:08:03.47,0:08:04.64,Default,,0,0,0,,{\i1}Và thứ ông ta để lại...{\i0}
+Dialogue: 0,0:08:06.37,0:08:08.73,Default,,0,0,0,,{\i1}đã thay đổi tất cả.{\i0}
+Dialogue: 0,0:08:21.21,0:08:25.23,Default,,0,0,0,,Xin chào. Tôi là James Halliday.
+Dialogue: 0,0:08:25.43,0:08:28.63,Default,,0,0,0,,Nếu quý vị đang xem cái này,\Ntức là tôi đã chết.
+Dialogue: 0,0:08:28.93,0:08:34.88,Default,,0,0,0,,{\i1}Trước khi chết, tôi đã tạo ra\Ncái mà nghề này gọi là "trứng Phục sinh".{\i0}
+Dialogue: 0,0:08:36.10,0:08:43.01,Default,,0,0,0,,{\i1}Một vật thể được giấu trong trò chơi\Ncho ai khám phá ra sức mạnh đặc biệt.{\i0}
+Dialogue: 0,0:08:44.47,0:08:46.87,Default,,0,0,0,,{\i1}Người đầu tiên tìm thấy quả trứng...{\i0}
+Dialogue: 0,0:08:47.07,0:08:50.33,Default,,0,0,0,,{\i1}mà tôi đã giấu đâu đó trong OASIS{\i0}
+Dialogue: 0,0:08:50.53,0:08:54.20,Default,,0,0,0,,{\i1}sẽ được thừa kế cổ phần của tôi\Nở Gregarious Games{\i0}
+Dialogue: 0,0:08:54.40,0:08:58.03,Default,,0,0,0,,{\i1}hiện tại có giá trị trên nửa triệu...{\i0}
+Dialogue: 0,0:08:58.43,0:09:01.03,Default,,0,0,0,,{\i1}trị giá nửa vạn tỷ đô{\i0}
+Dialogue: 0,0:09:01.13,0:09:06.54,Default,,0,0,0,,{\i1}và được toàn quyền kiểm soát OASIS.{\i0}
+Dialogue: 0,0:09:07.60,0:09:12.78,Default,,0,0,0,,Dưới hình thái nhân vật đại diện của tôi,\NAnorak Biết-Tuốt.
+Dialogue: 0,0:09:13.37,0:09:16.13,Default,,0,0,0,,Tôi đã tạo ra 3 chiếc chìa khóa.
+Dialogue: 0,0:09:17.07,0:09:20.20,Default,,0,0,0,,Ba thử thách giấu kín\Ncho những người xứng đáng
+Dialogue: 0,0:09:20.40,0:09:24.60,Default,,0,0,0,,hé lộ 3 chìa khóa giấu kín\Nđến 3 cánh cổng ma thuật.
+Dialogue: 0,0:09:24.80,0:09:28.69,Default,,0,0,0,,Và những ai có kỹ năng\Nsống sót khi nằm gai nếm mật
+Dialogue: 0,0:09:28.89,0:09:33.50,Default,,0,0,0,,sẽ tới được đích,\Nnơi phần thưởng được cất.
+Dialogue: 0,0:09:33.70,0:09:36.20,Default,,0,0,0,,Đi đi nào, chìa khóa.
+Dialogue: 0,0:09:38.68,0:09:43.42,Default,,0,0,0,,Chìa khóa không cứ thế nằm yên\Ndưới một tảng đá ở đâu đó đâu.
+Dialogue: 0,0:09:43.62,0:09:46.10,Default,,0,0,0,,Tôi cho là quý vị có thể nói chúng vô hình.
+Dialogue: 0,0:09:46.30,0:09:49.87,Default,,0,0,0,,Được giấu kín trong phòng tối\Nở trung tâm của một mê cung
+Dialogue: 0,0:09:49.98,0:09:52.97,Default,,0,0,0,,nằm ở nơi nào đó...
+Dialogue: 0,0:09:53.97,0:09:56.16,Default,,0,0,0,,trong này.
+Dialogue: 0,0:09:56.26,0:10:00.43,Default,,0,0,0,,Hãy để cuộc săn\Ntrứng Phục sinh của Halliday
+Dialogue: 0,0:10:01.20,0:10:02.20,Default,,0,0,0,,được bắt đầu.
+Dialogue: 0,0:10:02.35,0:10:07.04,Default,,0,0,0,,{\b1}ĐẤU TRƯỜNG ẢO{\b0}
+Dialogue: 0,0:10:08.62,0:10:10.94,Default,,0,0,0,,{\i1}Thử thách là tìm 3 chiếc chìa khóa{\i0}
+Dialogue: 0,0:10:11.04,0:10:14.42,Default,,0,0,0,,{\i1}nhưng suốt 5 năm,\Nchưa từng ai tìm được chìa nào cả.{\i0}
+Dialogue: 0,0:10:14.62,0:10:16.32,Default,,0,0,0,,{\i1}Còn bảng điểm ư? Vẫn trống.{\i0}
+Dialogue: 0,0:10:17.63,0:10:21.18,Default,,0,0,0,,{\i1}Một thợ săn bị lãng quên đã giải được\Nmanh mối đầu tiên và tìm ra thử thách đầu.{\i0}
+Dialogue: 0,0:10:21.48,0:10:23.35,Default,,0,0,0,,{\i1}Và rồi, cánh cổng này xuất hiện.{\i0}
+Dialogue: 0,0:10:24.14,0:10:27.45,Default,,0,0,0,,{\i1}Nhưng thử thách để lấy chìa khóa đầu tiên\Nlà cuộc đua do Halliday thiết kế{\i0}
+Dialogue: 0,0:10:27.65,0:10:30.38,Default,,0,0,0,,{\i1}có độ khó quá cao,\Nnên vẫn chưa ai về đích.{\i0}
+Dialogue: 0,0:10:30.58,0:10:34.04,Default,,0,0,0,,{\i1}Chỉ còn các thợ săn vẫn cố gắng,\Ncác "thợ săn trứng".{\i0}
+Dialogue: 0,0:10:34.14,0:10:37.08,Default,,0,0,0,,{\i1}Như tôi và Sho và Daito\Nvà bạn thân của tôi, Aech.{\i0}
+Dialogue: 0,0:10:37.68,0:10:40.87,Default,,0,0,0,,{\i1}Và dĩ nhiên, đội Lục Binh.{\i0}
+Dialogue: 0,0:10:41.47,0:10:42.77,Default,,0,0,0,,{\i1}Lục Binh làm việc cho IOI...{\i0}
+Dialogue: 0,0:10:42.87,0:10:43.67,Default,,0,0,0,,Lục Binh!
+Dialogue: 0,0:10:43.77,0:10:45.06,Default,,0,0,0,,Innovate Online Industries.
+Dialogue: 0,0:10:45.26,0:10:47.31,Default,,0,0,0,,{\i1}Họ là công ty lớn thứ 2 thế giới{\i0}
+Dialogue: 0,0:10:47.31,0:10:49.29,Default,,0,0,0,,{\i1}với tham vọng vươn lên đầu.{\i0}
+Dialogue: 0,0:10:49.80,0:10:52.81,Default,,0,0,0,,{\i1}Cho nên họ dồn hết mọi thứ mình có\Nđể thắng cuộc thi của Halliday.{\i0}
+Dialogue: 0,0:10:53.02,0:10:54.54,Default,,0,0,0,,Thắt đai an toàn vào!
+Dialogue: 0,0:10:55.45,0:10:57.35,Default,,0,0,0,,Ngồi vào chỗ!
+Dialogue: 0,0:10:57.55,0:11:00.24,Default,,0,0,0,,{\i1}Chúng tôi gọi họ là Lục Binh\Nvì đó là luật công ty.{\i0}
+Dialogue: 0,0:11:00.44,0:11:01.89,Default,,0,0,0,,{\i1}Không dùng tên, chỉ dùng số.{\i0}
+Dialogue: 0,0:11:03.55,0:11:06.35,Default,,0,0,0,,{\i1}Họ có một đội hỗ trợ\Nlà các học giả nghiên cứu Halliday.{\i0}
+Dialogue: 0,0:11:06.45,0:11:08.94,Default,,0,0,0,,{\i1}Như tôi, họ nghiên cứu văn hóa đại chúng,{\i0}
+Dialogue: 0,0:11:09.15,0:11:12.62,Default,,0,0,0,,{\i1}thứ đã mê hoặc Halliday,\Ncố tìm manh mối để thắng cuộc.{\i0}
+Dialogue: 0,0:11:15.57,0:11:18.19,Default,,0,0,0,,{\i1}Họ chỉ theo lệnh của người đứng đầu IOI.{\i0}
+Dialogue: 0,0:11:18.39,0:11:21.45,Default,,0,0,0,,{\i1}Gã khốn có tên là Nolan Sorrento.{\i0}
+Dialogue: 0,0:11:27.51,0:11:28.89,Default,,0,0,0,,Sao cậu đến đây trước tôi được chứ?
+Dialogue: 0,0:11:28.92,0:11:31.44,Default,,0,0,0,,Tôi không ghé tiệm làm tóc chứ sao.
+Dialogue: 0,0:11:31.55,0:11:33.35,Default,,0,0,0,,- Chào, Z.\N- Chào, Aech.
+Dialogue: 0,0:11:34.03,0:11:35.34,Default,,0,0,0,,Chừa chỗ cho cậu rồi đấy.
+Dialogue: 0,0:11:35.44,0:11:36.74,Default,,0,0,0,,Cám ơn, anh bạn.
+Dialogue: 0,0:11:40.88,0:11:41.91,Default,,0,0,0,,Tôi phải ra phía sau.
+Dialogue: 0,0:11:42.11,0:11:44.98,Default,,0,0,0,,Để cậu có thể mót xu từ mấy cái xe nát à?
+Dialogue: 0,0:11:45.18,0:11:47.83,Default,,0,0,0,,- Buồn quá đấy, anh bạn.\N- Cạn lúa rồi mà.
+Dialogue: 0,0:11:47.93,0:11:51.42,Default,,0,0,0,,Nhưng cậu vẫn đủ tiền\Nđể trả cho quả đầu tài tử sến sẩm đó.
+Dialogue: 0,0:12:31.80,0:12:32.80,Default,,0,0,0,,{\b1}SẴN SÀNG.{\b0}
+Dialogue: 0,0:12:33.17,0:12:34.29,Default,,0,0,0,,Người đầu tiên có chìa khóa.
+Dialogue: 0,0:12:35.61,0:12:36.73,Default,,0,0,0,,Người đầu tiên có quả trứng!
+Dialogue: 0,0:13:25.92,0:13:27.82,Default,,0,0,0,,Aech, cậu có thấy không?
+Dialogue: 0,0:13:30.36,0:13:32.89,Default,,0,0,0,,{\i1}Có, thấy rồi.\NXe của Kaneda từ phim Akira.{\i0}
+Dialogue: 0,0:13:32.99,0:13:35.12,Default,,0,0,0,,{\i1}Đó là lớp áo đã đăng ký\Ntrên khung xe thưởng.{\i0}
+Dialogue: 0,0:13:35.25,0:13:37.48,Default,,0,0,0,,{\i1}Không, không phải xe.\NQuên cái xe đi.{\i0}
+Dialogue: 0,0:13:38.08,0:13:39.79,Default,,0,0,0,,Cô gái cơ, tớ nghĩ đó là Art3mis.
+Dialogue: 0,0:13:39.99,0:13:41.98,Default,,0,0,0,,Art3mis ấy à?\NKhắc tinh Lục Binh à?
+Dialogue: 0,0:13:42.18,0:13:45.15,Default,,0,0,0,,Tớ đã xem hết các hướng dẫn,\Nkênh Twitch của cô ấy.
+Dialogue: 0,0:13:45.25,0:13:47.05,Default,,0,0,0,,Là cô ấy.\NChắc chắn là cô ấy.
+Dialogue: 0,0:15:34.30,0:15:36.33,Default,,0,0,0,,Đi mau, đi mau!\NTới đó đi! Mau lên!
+Dialogue: 0,0:15:41.16,0:15:42.16,Default,,0,0,0,,{\b1}VẠCH ĐÍCH{\b0}
+Dialogue: 0,0:15:42.20,0:15:43.41,Default,,0,0,0,,{\i1}Cậu làm được mà!{\i0}
+Dialogue: 0,0:15:52.70,0:15:54.06,Default,,0,0,0,,Khỉ gió.
+Dialogue: 0,0:15:59.92,0:16:01.04,Default,,0,0,0,,Cô ấy sẽ không qua nổi.
+Dialogue: 0,0:16:03.66,0:16:05.29,Default,,0,0,0,,Bỏ đi! Bỏ đi!
+Dialogue: 0,0:16:05.39,0:16:06.39,Default,,0,0,0,,Bỏ đi!
+Dialogue: 0,0:16:44.79,0:16:46.28,Default,,0,0,0,,Chết tiệt, tôi thích con xe đó.
+Dialogue: 0,0:16:46.38,0:16:47.65,Default,,0,0,0,,À, Aech có thể...
+Dialogue: 0,0:16:47.85,0:16:50.27,Default,,0,0,0,,Cậu ấy là bạn tôi,\Nnhưng cậu ấy có thể sửa cho cô.
+Dialogue: 0,0:16:57.65,0:17:00.35,Default,,0,0,0,,Đây là xưởng của tôi.\NCấm sờ soạng.
+Dialogue: 0,0:17:06.94,0:17:08.95,Default,,0,0,0,,Cậu tìm Giant ở đâu ra thế?
+Dialogue: 0,0:17:09.15,0:17:11.75,Default,,0,0,0,,Tìm thấy à? Tôi chế ra đấy.\NHàng khách đặt.
+Dialogue: 0,0:17:12.38,0:17:14.77,Default,,0,0,0,,Phải. Aech có tiếng trong hội chế đồ đấy.
+Dialogue: 0,0:17:14.97,0:17:17.68,Default,,0,0,0,,Dân tỉnh khắp OASIS\Ntrả xu cho cậu ấy nhiều lắm.
+Dialogue: 0,0:17:17.88,0:17:20.18,Default,,0,0,0,,Này, xem thử cái này đi!
+Dialogue: 0,0:17:20.28,0:17:21.68,Default,,0,0,0,,Này. Z, thôi nào.
+Dialogue: 0,0:17:23.18,0:17:25.49,Default,,0,0,0,,- Galactica, hẳn rồi.\N- Các bé cưng của tớ đấy nhé.
+Dialogue: 0,0:17:25.70,0:17:27.20,Default,,0,0,0,,Tàu Sulaco, trong Aliens.
+Dialogue: 0,0:17:27.50,0:17:28.90,Default,,0,0,0,,Này, sao cậu lại đi khoe đồ của tớ vậy?
+Dialogue: 0,0:17:28.93,0:17:31.52,Default,,0,0,0,,Valley Forg, trong Silent Running.\NTàu chuyên chở Harkonen đâu rồi?
+Dialogue: 0,0:17:31.55,0:17:33.97,Default,,0,0,0,,Thứ đó ngầu lắm.\NGấp không gian cực xịn.
+Dialogue: 0,0:17:34.17,0:17:36.25,Default,,0,0,0,,Có thể đi từ Incipio đến\NArrakis trong 3 giây...
+Dialogue: 0,0:17:36.25,0:17:37.85,Default,,0,0,0,,Cất tay!
+Dialogue: 0,0:17:38.05,0:17:39.25,Default,,0,0,0,,Thứ lỗi cho cậu ấy nhé.
+Dialogue: 0,0:17:39.35,0:17:41.50,Default,,0,0,0,,Cậu ấy hay hồi hộp khi ở gần gái xinh.
+Dialogue: 0,0:17:48.71,0:17:51.38,Default,,0,0,0,,10 phút là sửa xong.
+Dialogue: 0,0:17:52.55,0:17:54.98,Default,,0,0,0,,Phải. Cậu ấy giỏi lắm.
+Dialogue: 0,0:17:55.08,0:17:57.99,Default,,0,0,0,,Tôi cho là anh và Xương Vai\Nchung đội với nhau.
+Dialogue: 0,0:17:58.19,0:18:00.19,Default,,0,0,0,,À, Aech ấy à?\NKhông.
+Dialogue: 0,0:18:00.39,0:18:04.58,Default,,0,0,0,,Cậu ấy giỏi thật,\Nnhưng tôi không chơi theo đội.
+Dialogue: 0,0:18:05.48,0:18:08.09,Default,,0,0,0,,Vì anh là Parzival
+Dialogue: 0,0:18:08.19,0:18:10.54,Default,,0,0,0,,theo tên vị hiệp sĩ\Nđã một mình tìm ra Chén Thánh.
+Dialogue: 0,0:18:10.73,0:18:12.26,Default,,0,0,0,,Còn cô thì sao Art3mis?
+Dialogue: 0,0:18:12.46,0:18:15.57,Default,,0,0,0,,Nữ thần Săn bắn.\NCác đội thèm có cô muốn chết luôn.
+Dialogue: 0,0:18:17.30,0:18:19.07,Default,,0,0,0,,- Trò bắn súng ưa thích?\N- Gì cơ?
+Dialogue: 0,0:18:19.17,0:18:21.26,Default,,0,0,0,,Trò bắn súng góc nhìn thứ nhất\Nmà James Halliday thích nhất.
+Dialogue: 0,0:18:21.29,0:18:22.69,Default,,0,0,0,,- Sao?\N- GoldenEye.
+Dialogue: 0,0:18:22.80,0:18:25.08,Default,,0,0,0,,- Vào vai?\N- Oddjiob. Kiểm tra tôi à?
+Dialogue: 0,0:18:25.19,0:18:26.26,Default,,0,0,0,,Biến thể trò chơi ưa thích?
+Dialogue: 0,0:18:26.29,0:18:28.07,Default,,0,0,0,,Biến thể chỉ là "chỉ đánh tay".\NKhông dùng vũ khí.
+Dialogue: 0,0:18:28.10,0:18:29.98,Default,,0,0,0,,Tôi biết "chỉ đánh tay" là sao. Tay đua?
+Dialogue: 0,0:18:30.18,0:18:32.33,Default,,0,0,0,,Turbo. Và đồ ăn\Nưa thích của ông ấy là Hot Pockets.
+Dialogue: 0,0:18:32.47,0:18:34.00,Default,,0,0,0,,Nhà hàng ưa thích là Chuck E Cheese.
+Dialogue: 0,0:18:34.20,0:18:36.61,Default,,0,0,0,,Bài hát là "Video Killed the Radio Star"\Ncủa nhóm Buggles.
+Dialogue: 0,0:18:36.81,0:18:38.43,Default,,0,0,0,,Video clip là "Take on Me" của A-ha.
+Dialogue: 0,0:18:39.62,0:18:42.63,Default,,0,0,0,,Trích dẫn ưa thích là từ phim Superman.
+Dialogue: 0,0:18:43.26,0:18:44.74,Default,,0,0,0,,"Có người đọc qua Chiến tranh và Hòa bình
+Dialogue: 0,0:18:44.77,0:18:46.99,Default,,0,0,0,,rồi kết luận\Nnó chỉ là tiểu thuyết phiêu lưu...
+Dialogue: 0,0:18:47.19,0:18:49.73,Default,,0,0,0,,Số khác có thể đọc bảng thành phần\Nsau giấy gói kẹo cao su
+Dialogue: 0,0:18:49.93,0:18:52.20,Default,,0,0,0,,và mở ra các bí mật vũ trụ".
+Dialogue: 0,0:18:53.00,0:18:54.24,Default,,0,0,0,,Lex Luthor.
+Dialogue: 0,0:18:55.49,0:18:57.02,Default,,0,0,0,,Giỏi.
+Dialogue: 0,0:18:58.05,0:19:01.91,Default,,0,0,0,,Anh sẽ làm gì? Nếu anh thắng?\NÝ tôi là cả cuộc thi ấy.
+Dialogue: 0,0:19:02.71,0:19:05.00,Default,,0,0,0,,Tôi có cả đống kế hoạch ngoài đời thực.
+Dialogue: 0,0:19:05.21,0:19:09.80,Default,,0,0,0,,Tôi sẽ chuyển vào một dinh thự lớn,\Nmua một đống đồ ngon, không nghèo nữa.
+Dialogue: 0,0:19:11.19,0:19:13.42,Default,,0,0,0,,Giờ tôi biết sao anh dừng đua sớm rồi.
+Dialogue: 0,0:19:14.87,0:19:17.91,Default,,0,0,0,,Tôi dừng đua vì Kong.\NChưa từng có ai vượt qua Kong.
+Dialogue: 0,0:19:18.11,0:19:19.81,Default,,0,0,0,,Đó như thể là quy tắc vậy.
+Dialogue: 0,0:19:20.01,0:19:23.47,Default,,0,0,0,,Vậy thì anh biết là không đúng rồi.\NVì Halliday ghét tạo quy tắc mà.
+Dialogue: 0,0:19:23.67,0:19:24.87,Default,,0,0,0,,Tôi không chịu nổi việc về mo.
+Dialogue: 0,0:19:24.98,0:19:26.49,Default,,0,0,0,,- Anh sợ mất đồ.\N- Không nhé.
+Dialogue: 0,0:19:26.69,0:19:29.91,Default,,0,0,0,,Sẽ ra sao nếu IOI hứa cho anh xu\Nđổi lấy chìa khóa vương quốc?
+Dialogue: 0,0:19:30.11,0:19:32.26,Default,,0,0,0,,Nolan Sorrento cai trị thế giới.
+Dialogue: 0,0:19:32.46,0:19:36.71,Default,,0,0,0,,Một thợ săn chân chính sẽ\Nmạo hiểm tất cả để cứu OASIS khỏi tay IOI.
+Dialogue: 0,0:19:36.81,0:19:38.11,Default,,0,0,0,,Ai nói câu đó vậy?
+Dialogue: 0,0:19:38.32,0:19:39.82,Default,,0,0,0,,Tôi.
+Dialogue: 0,0:19:42.04,0:19:43.49,Default,,0,0,0,,Của cô đây.\NNgon lành như mới.
+Dialogue: 0,0:19:44.09,0:19:46.26,Default,,0,0,0,,Cám ơn đã sửa giúp, bạn hiền.
+Dialogue: 0,0:19:56.29,0:19:57.74,Default,,0,0,0,,Đẹp hơn rồi đấy.
+Dialogue: 0,0:19:58.35,0:20:02.32,Default,,0,0,0,,Tôi sẽ vẫy chào anh từ vạch đích, McHly.
+Dialogue: 0,0:20:05.74,0:20:06.86,Default,,0,0,0,,Tốt đẹp đấy nhỉ.
+Dialogue: 0,0:20:06.96,0:20:08.52,Default,,0,0,0,,Nhờ cậu đấy. Ngài To Mồm.
+Dialogue: 0,0:20:08.87,0:20:12.08,Default,,0,0,0,,{\i1}Wade? Wade? Găng tay của dì đâu rồi?{\i0}
+Dialogue: 0,0:20:12.28,0:20:14.24,Default,,0,0,0,,Chết tiệt. Tớ phải đi đã.
+Dialogue: 0,0:20:18.45,0:20:22.00,Default,,0,0,0,,Khi săn vàng trên hành tinh Doom,\Ntôi cần mọi lợi thế có thể.
+Dialogue: 0,0:20:22.40,0:20:26.13,Default,,0,0,0,,Từng cú đẩy, cú đấm, phát đạn,\Nbạn sẽ cảm nhận được hết.
+Dialogue: 0,0:20:26.33,0:20:30.37,Default,,0,0,0,,{\i1}Chuẩn bị cảm nhận,\Ncảm nhận sự chân thực. X1.{\i0}
+Dialogue: 0,0:20:30.67,0:20:35.03,Default,,0,0,0,,{\i1}Giáp X1 giống mặc thêm một trang bị.\NMột trang bị bá đạo.{\i0}
+Dialogue: 0,0:20:36.76,0:20:39.51,Default,,0,0,0,,Tao phải về mo\Nvì cặp găng tay khỉ gió của mày.
+Dialogue: 0,0:20:39.65,0:20:40.88,Default,,0,0,0,,Ai bảo dượng dùng chúng?
+Dialogue: 0,0:20:41.08,0:20:43.03,Default,,0,0,0,,Mày đã lấy găng tay của bà ấy.
+Dialogue: 0,0:20:44.17,0:20:45.70,Default,,0,0,0,,Vậy là dượng đã thua trong trận hỗn chiến.
+Dialogue: 0,0:20:45.73,0:20:50.00,Default,,0,0,0,,Sao dượng không hồi sinh\Nrồi leo cấp như người khác?
+Dialogue: 0,0:20:50.20,0:20:51.40,Default,,0,0,0,,Mày không hiểu rồi.
+Dialogue: 0,0:20:51.50,0:20:54.31,Default,,0,0,0,,Tao mua đống đồ tăng lực\Nvì thử thách này, và tao đã mất sạch.
+Dialogue: 0,0:20:54.52,0:20:56.21,Default,,0,0,0,,Món đồ đó là để trả tiền ngôi nhà!
+Dialogue: 0,0:20:56.31,0:20:57.41,Default,,0,0,0,,Khoan đã!
+Dialogue: 0,0:20:57.51,0:21:00.95,Default,,0,0,0,,Ông đã tiêu bao nhiêu tiền nhà\Nđể nâng cấp đồ vậy?
+Dialogue: 0,0:21:02.05,0:21:04.79,Default,,0,0,0,,Tiêu mất rồi, nhưng lẽ ra tôi đã thắng.
+Dialogue: 0,0:21:05.60,0:21:07.74,Default,,0,0,0,,Đó là vé để chúng ta ra khỏi đây.
+Dialogue: 0,0:21:10.47,0:21:11.47,Default,,0,0,0,,Đồ ngu.
+Dialogue: 0,0:21:11.67,0:21:13.79,Default,,0,0,0,,Không, tôi chỉ thua vì găng tay lởm.
+Dialogue: 0,0:21:13.99,0:21:15.59,Default,,0,0,0,,Nhà mình đấy!\NNhà của mình đấy.
+Dialogue: 0,0:21:15.79,0:21:17.06,Default,,0,0,0,,Bạn cháu cũng tham gia thử thách đó.
+Dialogue: 0,0:21:17.09,0:21:19.09,Default,,0,0,0,,Dượng đâu thể thắng họ\Nvới giáp trợ lực, đồ con gà.
+Dialogue: 0,0:21:19.77,0:21:22.65,Default,,0,0,0,,Thôi đi! Không! Không!
+Dialogue: 0,0:21:22.85,0:21:24.04,Default,,0,0,0,,Dì Alice, gọi cảnh sát đi!
+Dialogue: 0,0:21:24.14,0:21:25.70,Default,,0,0,0,,Không, nhà mình không gọi cảnh sát.
+Dialogue: 0,0:21:25.90,0:21:27.60,Default,,0,0,0,,Về phòng đi, Rick.
+Dialogue: 0,0:21:27.80,0:21:29.12,Default,,0,0,0,,Thôi nào, Alice.
+Dialogue: 0,0:21:30.04,0:21:33.44,Default,,0,0,0,,Sao dì lại chịu đựng lão này?\NLão là một thằng bợm.
+Dialogue: 0,0:21:34.04,0:21:38.46,Default,,0,0,0,,Dì sẽ đá cả hai người ra đường đấy.\NDì thế có C-H-Ú-A, Wade Watts.
+Dialogue: 0,0:21:38.66,0:21:41.27,Default,,0,0,0,,Nếu dì thấy\Ncháu sờ vào đồ của dì lần nữa...
+Dialogue: 0,0:21:41.47,0:21:43.99,Default,,0,0,0,,Không đùa đâu... biến.
+Dialogue: 0,0:21:50.90,0:21:53.05,Default,,0,0,0,,{\i1}Wade Watts.{\i0}
+Dialogue: 0,0:21:53.26,0:21:56.63,Default,,0,0,0,,{\i1}Bố tôi chọn tên này\Nvì nghe giống tên các siêu anh hùng{\i0}
+Dialogue: 0,0:21:57.20,0:21:59.92,Default,,0,0,0,,{\i1}như Peter Parker hay Bruce Banner.{\i0}
+Dialogue: 0,0:22:00.92,0:22:02.86,Default,,0,0,0,,{\i1}Nhưng bố tôi đã mất hồi tôi còn bé.{\i0}
+Dialogue: 0,0:22:03.06,0:22:05.97,Default,,0,0,0,,{\i1}Mẹ tôi cũng thế và tôi tới nơi này{\i0}
+Dialogue: 0,0:22:06.17,0:22:10.44,Default,,0,0,0,,{\i1}sống cùng dì Alice và đám ăn hại\Nkhó ưa số lượng lớn của dì.{\i0}
+Dialogue: 0,0:22:13.36,0:22:16.01,Default,,0,0,0,,{\i1}"Halliday ghét tạo ra quy tắc".{\i0}
+Dialogue: 0,0:22:16.22,0:22:18.76,Default,,0,0,0,,{\i1}Sao tôi cứ nghĩ mãi về câu đó thế nhỉ?{\i0}
+Dialogue: 0,0:22:21.19,0:22:24.07,Default,,0,0,0,,{\i1}Có lẽ là do Art3mis nói ra,\Nvà cô ấy bốc quá.{\i0}
+Dialogue: 0,0:22:24.67,0:22:29.38,Default,,0,0,0,,{\i1}Có lẽ do cô ấy đã chỉ trích tôi chỉ biết\Nngồi trong xó nhỏ vô danh của mình{\i0}
+Dialogue: 0,0:22:30.18,0:22:32.71,Default,,0,0,0,,{\i1}bảo vệ những miếng nhỏ vô nghĩa của mình.{\i0}
+Dialogue: 0,0:22:32.91,0:22:34.92,Default,,0,0,0,,{\i1}Hoặc có lẽ...{\i0}
+Dialogue: 0,0:22:35.12,0:22:37.51,Default,,0,0,0,,{\i1}Có lẽ là do câu đó có ý nghĩa gì đó{\i0}
+Dialogue: 0,0:22:37.71,0:22:39.12,Default,,0,0,0,,{\i1}mà tôi đã bỏ qua.{\i0}
+Dialogue: 0,0:22:40.91,0:22:42.06,Default,,0,0,0,,{\b1}NHẬT KÝ HALLIDAY{\b0}
+Dialogue: 0,0:22:42.27,0:22:45.13,Default,,0,0,0,,{\i1}Ngày cuộc thi được công bố,\Nngày Nhật ký Halliday xuất hiện.{\i0}
+Dialogue: 0,0:22:45.34,0:22:47.90,Default,,0,0,0,,{\i1}Ông bảo chúng tôi đọc ý nghĩa của ông.\NĐây là điều tuyệt thứ nhì.{\i0}
+Dialogue: 0,0:22:49.33,0:22:52.48,Default,,0,0,0,,{\i1}Ban đầu, nó chật cứng\Nnhững thợ săn tìm đáp án.{\i0}
+Dialogue: 0,0:22:52.68,0:22:55.20,Default,,0,0,0,,{\i1}Giờ, đại sảnh từng đông đúc\Ncủa ký ức về Halliday{\i0}
+Dialogue: 0,0:22:55.40,0:22:56.64,Default,,0,0,0,,{\i1}được để lại cho những kẻ như tôi.{\i0}
+Dialogue: 0,0:22:56.67,0:22:59.27,Default,,0,0,0,,Parzival. Ôi, vui thay!
+Dialogue: 0,0:22:59.47,0:23:02.76,Default,,0,0,0,,Và hôm nay cậu sẽ ngốn\Nthời gian tìm kiếm quý báu của tôi kiểu gì?
+Dialogue: 0,0:23:02.97,0:23:04.90,Default,,0,0,0,,Gregarious Games, 2029, tiệc cơ quan.
+Dialogue: 0,0:23:05.17,0:23:08.30,Default,,0,0,0,,Tiệc cơ quan.\NPhải, cậu mới xem nó một ngàn lần thôi.
+Dialogue: 0,0:23:08.41,0:23:10.27,Default,,0,0,0,,Sao không xem lại chứ?
+Dialogue: 0,0:23:11.27,0:23:14.52,Default,,0,0,0,,Mỗi lối vào Nhật ký\NHalliday được lắp ráp tỉ mỉ
+Dialogue: 0,0:23:14.72,0:23:17.09,Default,,0,0,0,,từ các bức ảnh cá nhân,\Ncác đoạn phim gia đình
+Dialogue: 0,0:23:17.19,0:23:18.96,Default,,0,0,0,,máy quay theo dõi và máy quay kín.
+Dialogue: 0,0:23:19.17,0:23:21.42,Default,,0,0,0,,Tất cả được kết xuất\Nthành một trải nghiệm ảo ba chiều.
+Dialogue: 0,0:23:23.02,0:23:26.47,Default,,0,0,0,,Ngoài ra, Halliday lưu trữ từng bộ phim,\Ntrò chơi, sách và chương trình TV
+Dialogue: 0,0:23:26.67,0:23:28.59,Default,,0,0,0,,ông từng xem, đặt trên gác lửng.
+Dialogue: 0,0:23:29.99,0:23:33.46,Default,,0,0,0,,Cấm đưa vũ khí và nhân vật\Nphong cách người lớn vào Nhật Ký.
+Dialogue: 0,0:23:33.56,0:23:36.97,Default,,0,0,0,,Hãy tận hưởng thời gian ở đây\Nvà đi săn vui vẻ!
+Dialogue: 0,0:23:37.37,0:23:39.13,Default,,0,0,0,,Tôi thích dọn dẹp.
+Dialogue: 0,0:23:39.23,0:23:41.56,Default,,0,0,0,,Được rồi, Jim, tôi về đây.
+Dialogue: 0,0:23:46.58,0:23:49.22,Default,,0,0,0,,Mọi thứ đều thay đổi, Jim.\NMọi thứ đều tiến hóa.
+Dialogue: 0,0:23:49.52,0:23:52.63,Default,,0,0,0,,Có thứ thì hoàn hảo\Nnhư chính nó vốn thế. Asteroids.
+Dialogue: 0,0:23:52.83,0:23:56.97,Default,,0,0,0,,Người ta không sống trong\Nmáy game thùng Asteroids.
+Dialogue: 0,0:23:58.27,0:23:59.39,Default,,0,0,0,,Tôi biết chứ.
+Dialogue: 0,0:23:59.59,0:24:02.15,Default,,0,0,0,,Phải, người ta sống trong\Nmáy game thùng chúng tạo ra.
+Dialogue: 0,0:24:02.35,0:24:03.35,Default,,0,0,0,,Tôi tạo ra chứ.
+Dialogue: 0,0:24:04.98,0:24:07.02,Default,,0,0,0,,Tôi đoán là anh muốn nói gì cũng được.
+Dialogue: 0,0:24:07.22,0:24:08.49,Default,,0,0,0,,Tôi không muốn nói về chuyện đó nữa.
+Dialogue: 0,0:24:08.52,0:24:09.89,Default,,0,0,0,,Không, dĩ nhiên là anh không muốn nói rồi.
+Dialogue: 0,0:24:09.92,0:24:11.16,Default,,0,0,0,,Anh ép tôi rút lui.
+Dialogue: 0,0:24:11.36,0:24:12.56,Default,,0,0,0,,Cận cảnh Halliday.
+Dialogue: 0,0:24:12.86,0:24:16.31,Default,,0,0,0,,Này, phát minh đi kèm\Nnhững trách nhiệm không mong muốn.
+Dialogue: 0,0:24:16.91,0:24:19.10,Default,,0,0,0,,Được rồi, nếu anh làm thứ người ta cần
+Dialogue: 0,0:24:19.20,0:24:21.62,Default,,0,0,0,,thì anh được đặt giới hạn.\NAnh phải đặt quy tắc.
+Dialogue: 0,0:24:21.93,0:24:23.41,Default,,0,0,0,,"Tôi không muốn đặt quy tắc nào nữa".
+Dialogue: 0,0:24:23.52,0:24:25.42,Default,,0,0,0,,Tôi không muốn đặt quy tắc nào nữa.
+Dialogue: 0,0:24:25.62,0:24:26.62,Default,,0,0,0,,"Tôi là kẻ mộng mơ".
+Dialogue: 0,0:24:26.82,0:24:27.82,Default,,0,0,0,,Tôi là kẻ mộng mơ.
+Dialogue: 0,0:24:28.12,0:24:29.96,Default,,0,0,0,,- Tôi tạo ra thế giới.\N- "Tôi tạo ra thế giới".
+Dialogue: 0,0:24:31.14,0:24:33.74,Default,,0,0,0,,Ta đã tạo ra một thứ đẹp đẽ, Jim,\Nnhưng nó thay đổi rồi.
+Dialogue: 0,0:24:33.94,0:24:35.37,Default,,0,0,0,,Được chứ? Nó không còn là trò chơi nữa.
+Dialogue: 0,0:24:35.40,0:24:36.91,Default,,0,0,0,,Ta xong chưa vậy?
+Dialogue: 0,0:24:37.21,0:24:41.58,Default,,0,0,0,,Tôi thích mọi thứ khi chúng còn là...
+Dialogue: 0,0:24:43.04,0:24:44.16,Default,,0,0,0,,khi nó còn là trò chơi.
+Dialogue: 0,0:24:44.36,0:24:47.92,Default,,0,0,0,,Và ta đã quay lại nơi bắt đầu.\NNhưng vấn đề là ở đấy, đúng không?
+Dialogue: 0,0:24:48.03,0:24:50.30,Default,,0,0,0,,Mọi thứ cứ tiến tới\Ndù anh thích hay không.
+Dialogue: 0,0:24:50.50,0:24:52.51,Default,,0,0,0,,Phải, ta xong rồi.
+Dialogue: 0,0:24:53.11,0:24:54.26,Default,,0,0,0,,Được thôi.
+Dialogue: 0,0:24:56.62,0:25:00.26,Default,,0,0,0,,Sao ta không quay lại, một lần thôi?
+Dialogue: 0,0:25:02.62,0:25:06.21,Default,,0,0,0,,Quay lại, thật nhanh. Nhanh nhất có thể.
+Dialogue: 0,0:25:06.81,0:25:08.81,Default,,0,0,0,,Nhấn ga hết cỡ, anh biết chứ?
+Dialogue: 0,0:25:08.91,0:25:11.21,Default,,0,0,0,,Tua lại 10 giây!
+Dialogue: 0,0:25:11.71,0:25:15.40,Default,,0,0,0,,Sao ta không quay lại, một lần thôi?
+Dialogue: 0,0:25:16.50,0:25:19.57,Default,,0,0,0,,Quay lại, thật nhanh. Nhanh nhất có thể.
+Dialogue: 0,0:25:20.67,0:25:23.51,Default,,0,0,0,,Nhấn ga hết cỡ, anh biết chứ?
+Dialogue: 0,0:25:24.51,0:25:26.18,Default,,0,0,0,,Bill và Ted làm thế.
+Dialogue: 0,0:25:34.01,0:25:37.09,Default,,0,0,0,,{\b1}NGƯỜI ĐẦU TIÊN TỚI CÔNG VIÊN TRUNG TÂM!{\b0}
+Dialogue: 0,0:25:47.66,0:25:49.59,Default,,0,0,0,,Quay lại sớm thế à?
+Dialogue: 0,0:25:51.31,0:25:53.40,Default,,0,0,0,,Cẩn thận kẻo mất đồ đấy.
+Dialogue: 0,0:25:57.52,0:25:59.15,Default,,0,0,0,,Anh đã hiểu ra gì đó.
+Dialogue: 0,0:25:59.93,0:26:01.25,Default,,0,0,0,,Parzival, nói tôi nghe.
+Dialogue: 0,0:26:06.71,0:26:09.41,Default,,0,0,0,,{\b1}XUẤT PHÁT{\b0}
+Dialogue: 0,0:27:42.22,0:27:46.34,Default,,0,0,0,,Đua giỏi lắm, Padawan.\NCậu là người đầu tiên tới đích.
+Dialogue: 0,0:27:48.03,0:27:51.45,Default,,0,0,0,,Ông Halliday... Anorak.
+Dialogue: 0,0:27:52.96,0:27:54.29,Default,,0,0,0,,Quả là một vinh hạnh.
+Dialogue: 0,0:27:54.49,0:27:56.89,Default,,0,0,0,,Tôi mới là người vinh hạnh.
+Dialogue: 0,0:28:07.85,0:28:09.78,Default,,0,0,0,,Tự lấy một manh mối đi.
+Dialogue: 0,0:28:20.20,0:28:23.93,Default,,0,0,0,,{\b1}NHẤT BẢNG PARZIVAL - NGƯỜI THẮNG CUỘC{\b0}
+Dialogue: 0,0:28:24.13,0:28:27.90,Default,,0,0,0,,Cái gã Parzival này là ai\Nvà thế quái nào hắn lại thắng được?
+Dialogue: 0,0:28:28.10,0:28:30.46,Default,,0,0,0,,Câu hỏi hay hơn là thế này.\NAi quan tâm?
+Dialogue: 0,0:28:30.67,0:28:32.27,Default,,0,0,0,,Cuộc thi của Halliday là rất quan trọng.
+Dialogue: 0,0:28:32.37,0:28:35.41,Default,,0,0,0,,Nó chính là cuộc chiến\Nđể kiểm soát tương lai.
+Dialogue: 0,0:28:35.61,0:28:38.51,Default,,0,0,0,,Nhưng gã Parzival này?\NHắn còn chẳng chơi theo đội.
+Dialogue: 0,0:28:38.71,0:28:42.06,Default,,0,0,0,,Hắn có một mình.\NChúng ta thì có cả đội quân.
+Dialogue: 0,0:28:42.16,0:28:43.73,Default,,0,0,0,,Vậy mà hắn lại có chìa khóa đầu tiên.
+Dialogue: 0,0:28:43.93,0:28:45.43,Default,,0,0,0,,Phải, hắn có một chìa khóa
+Dialogue: 0,0:28:45.53,0:28:48.55,Default,,0,0,0,,nhưng cần 3 chìa mới thắng cuộc thi.
+Dialogue: 0,0:28:48.75,0:28:51.27,Default,,0,0,0,,Cổ phiếu của ta giảm 6% hôm qua.
+Dialogue: 0,0:28:51.47,0:28:55.55,Default,,0,0,0,,Bộ phận doanh thu báo cáo\Nlợi nhuận 28%. F'Nale.
+Dialogue: 0,0:28:55.75,0:28:58.20,Default,,0,0,0,,Tháng này ta sẽ mở 5 trung tâm thu nợ mới.
+Dialogue: 0,0:28:58.40,0:29:00.13,Default,,0,0,0,,Thu nợ ăn đứt phần "cứng".
+Dialogue: 0,0:29:00.33,0:29:02.13,Default,,0,0,0,,Giờ anh muốn nói\Nvề giá cổ phiếu với tôi à?
+Dialogue: 0,0:29:02.33,0:29:03.55,Default,,0,0,0,,Cổ đông sẽ không vui đâu.
+Dialogue: 0,0:29:03.65,0:29:07.14,Default,,0,0,0,,Việc của ta đâu phải là làm họ vui.\NViệc của ta là kiếm tiền cho họ
+Dialogue: 0,0:29:07.34,0:29:11.08,Default,,0,0,0,,nhưng một khi ta phát hành bé yêu này,\Nhọ sẽ khoái lắm đấy.
+Dialogue: 0,0:29:12.42,0:29:17.34,Default,,0,0,0,,Chúng tôi gọi nó là Pure O2.\NĐây là nâng cấp đầu tiên mà ta dự kiến.
+Dialogue: 0,0:29:17.54,0:29:19.88,Default,,0,0,0,,Nếu có thể tắt luật hạn chế\Nquảng cáo của Halliday
+Dialogue: 0,0:29:20.08,0:29:24.08,Default,,0,0,0,,bọn tôi ước tính có thể bán tới 80%
+Dialogue: 0,0:29:24.18,0:29:29.52,Default,,0,0,0,,diện tích màn hình hiển thị\Ntrước khi người chơi co giật...
+Dialogue: 0,0:29:29.62,0:29:32.85,Default,,0,0,0,,Tất cả ám chỉ rằng ta sẽ thắng cuộc thi.
+Dialogue: 0,0:29:35.38,0:29:37.84,Default,,0,0,0,,Đúng là vậy.
+Dialogue: 0,0:29:39.38,0:29:42.16,Default,,0,0,0,,Này, cậu giành được chìa khóa\Nvà 100,000 xu à?
+Dialogue: 0,0:29:42.36,0:29:44.75,Default,,0,0,0,,Ngay khi tớ lấy chìa khóa,\Ntự nhiên xu chảy vào tài khoản.
+Dialogue: 0,0:29:44.95,0:29:47.96,Default,,0,0,0,,Tớ nói cậu nghe,\Ntớ bĩnh ra bộ cảm ứng của tớ rồi.
+Dialogue: 0,0:29:51.72,0:29:53.31,Default,,0,0,0,,Cataclyst là cái của nợ gì?
+Dialogue: 0,0:29:53.51,0:29:57.15,Default,,0,0,0,,Bom đấy. Giết sạch mọi nhân vật đại diện\Ntrên hành tinh, kể cả chủ nhân.
+Dialogue: 0,0:29:57.25,0:29:58.26,Default,,0,0,0,,Ai muốn cái đó chứ?
+Dialogue: 0,0:29:58.47,0:30:00.44,Default,,0,0,0,,IOI. Họ mua hết.
+Dialogue: 0,0:30:01.81,0:30:04.38,Default,,0,0,0,,Hai mươi ngàn để mua Lựu đạn Thánh?
+Dialogue: 0,0:30:04.68,0:30:06.35,Default,,0,0,0,,Đúng là hời!
+Dialogue: 0,0:30:08.66,0:30:12.44,Default,,0,0,0,,Này! Khối lập phương Zemeckis!\NTớ cần một khối.
+Dialogue: 0,0:30:12.54,0:30:14.16,Default,,0,0,0,,Được rồi, đừng xài hết tiền đấy.
+Dialogue: 0,0:30:17.86,0:30:20.23,Default,,0,0,0,,Giáp trợ lực cảm ứng X1.
+Dialogue: 0,0:30:21.25,0:30:23.25,Default,,0,0,0,,{\b1}NHẬN HÀNG NGOÀI ĐỜI THỰC - IOI{\b0}
+Dialogue: 0,0:30:34.88,0:30:36.42,Default,,0,0,0,,Tuyệt vời!
+Dialogue: 0,0:30:51.15,0:30:52.79,Default,,0,0,0,,{\b1}MẬT KHẨU - B055man69{\b0}
+Dialogue: 0,0:31:29.23,0:31:32.58,Default,,0,0,0,,i-R0k, bạn già. Khỏe không?
+Dialogue: 0,0:31:34.72,0:31:38.14,Default,,0,0,0,,Nói thật thì cổ tôi đang bị đau.\NGiống như hội chứng ống cổ tay
+Dialogue: 0,0:31:38.34,0:31:39.98,Default,,0,0,0,,nhưng là bị ở cổ,\Ncứ cho là nó có thật đi.
+Dialogue: 0,0:31:40.18,0:31:43.98,Default,,0,0,0,,Nên làm ơn đứng qua bên phải anh.\NBên phải tôi, bên trái anh.
+Dialogue: 0,0:31:45.83,0:31:47.93,Default,,0,0,0,,Cảm ơn, bị căng cơ\Ndo cử động lặp đi lặp lại.
+Dialogue: 0,0:31:50.35,0:31:51.38,Default,,0,0,0,,Anh ta đây rồi.
+Dialogue: 0,0:31:53.61,0:31:58.21,Default,,0,0,0,,Vua cướp biển phong cách hơi nước.\NTôi biết anh ta rõ lắm, Sorrento.
+Dialogue: 0,0:31:58.61,0:32:00.72,Default,,0,0,0,,Trên đời này tôi chỉ ghét ba thứ,
+Dialogue: 0,0:32:00.92,0:32:04.70,Default,,0,0,0,,máy hơi nước, cướp biển và món tabbouleh.
+Dialogue: 0,0:32:04.90,0:32:07.54,Default,,0,0,0,,Sao họ còn ăn nó chứ?
+Dialogue: 0,0:32:07.69,0:32:09.98,Default,,0,0,0,,Có lý do nào để ta gặp nhau ở đây không?
+Dialogue: 0,0:32:10.38,0:32:14.95,Default,,0,0,0,,Có, Nolan. Quả cầu Osuvox.
+Dialogue: 0,0:32:15.95,0:32:19.13,Default,,0,0,0,,Anh muốn nó. Anh ta có nó.\NVà thế là nó ở đây.
+Dialogue: 0,0:32:22.67,0:32:26.53,Default,,0,0,0,,Nó tạo ra lá chắn ma thuật\Nkhông thể xuyên thủng và chỉ bị phá
+Dialogue: 0,0:32:26.73,0:32:28.95,Default,,0,0,0,,bởi thần chú ma thuật.
+Dialogue: 0,0:32:29.15,0:32:31.45,Default,,0,0,0,,Quả cầu Osuvox.
+Dialogue: 0,0:32:31.65,0:32:32.95,Default,,0,0,0,,Đừng có nhắc lại nữa.
+Dialogue: 0,0:32:33.15,0:32:34.35,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:32:36.27,0:32:39.74,Default,,0,0,0,,Giờ, tôi sẽ cần anh tạm thời giữ cái này.
+Dialogue: 0,0:32:39.94,0:32:42.07,Default,,0,0,0,,Tôi sẽ báo anh biết khi tôi muốn dùng nó.
+Dialogue: 0,0:32:42.27,0:32:43.27,Default,,0,0,0,,Được chứ?
+Dialogue: 0,0:32:46.48,0:32:50.49,Default,,0,0,0,,Còn bây giờ,\Ntôi có việc khác cho anh.
+Dialogue: 0,0:32:52.03,0:32:53.27,Default,,0,0,0,,Parzival.
+Dialogue: 0,0:32:53.97,0:32:56.51,Default,,0,0,0,,Để tôi đoán,\Nanh muốn đẩy hắn khỏi bảng điểm.
+Dialogue: 0,0:32:57.80,0:32:59.33,Default,,0,0,0,,Anh làm được không?
+Dialogue: 0,0:32:59.43,0:33:01.61,Default,,0,0,0,,Hắn là siêu sao đấy.
+Dialogue: 0,0:33:01.82,0:33:03.31,Default,,0,0,0,,Hắn đã qua được cổng đầu
+Dialogue: 0,0:33:03.51,0:33:06.04,Default,,0,0,0,,và dân tình sẽ ùa theo hắn\Nđông như kiến cò.
+Dialogue: 0,0:33:06.24,0:33:08.72,Default,,0,0,0,,I-R0k, anh muốn bao nhiêu?
+Dialogue: 0,0:33:09.72,0:33:12.57,Default,,0,0,0,,Tôi thích anh chỗ này, Nolan.\NAnh không thèm liếm.
+Dialogue: 0,0:33:13.17,0:33:16.38,Default,,0,0,0,,Anh cắn ngay vào nhân sôcôla\Ncủa cây kẹo Tootsie Pop.
+Dialogue: 0,0:33:17.49,0:33:19.60,Default,,0,0,0,,Nhớ cái quảng cáo cũ đó không,\Ncó con cú ấy?
+Dialogue: 0,0:33:19.80,0:33:20.80,Default,,0,0,0,,I-R0k.
+Dialogue: 0,0:33:22.77,0:33:24.27,Default,,0,0,0,,Gấp ba phí thường của tôi.
+Dialogue: 0,0:33:24.47,0:33:25.97,Default,,0,0,0,,Xong.
+Dialogue: 0,0:33:26.17,0:33:27.84,Default,,0,0,0,,Khoan, thật à?\NLẽ ra tôi nên đòi gấp năm.
+Dialogue: 0,0:33:28.05,0:33:30.05,Default,,0,0,0,,Thương thảo gấp bốn được không?
+Dialogue: 0,0:33:32.32,0:33:34.69,Default,,0,0,0,,{\i1}Bảng điểm giờ đã có 5 người chúng tôi.{\i0}
+Dialogue: 0,0:33:35.29,0:33:37.89,Default,,0,0,0,,{\i1}Art3mis xếp thứ 2, chẳng hề bất ngờ.{\i0}
+Dialogue: 0,0:33:38.09,0:33:41.01,Default,,0,0,0,,{\i1}Cô ấy cũng đua khi tôi thắng.\NCô ấy thấy tôi chạy lui.{\i0}
+Dialogue: 0,0:33:41.41,0:33:45.97,Default,,0,0,0,,{\i1}Tôi gợi ý cho Aech, bắt cậu ấy hứa\Nkhông tiết lộ và rồi cậu ấy cũng thắng.{\i0}
+Dialogue: 0,0:33:46.37,0:33:51.36,Default,,0,0,0,,{\i1}Tôi khá chắc là cậu ấy mách lẻo với Daito,\Nvì cậu ta thắng ngay sau đó.{\i0}
+Dialogue: 0,0:33:51.96,0:33:55.24,Default,,0,0,0,,{\i1}Và dĩ nhiên,\NDaito kể với bạn thân thiết, Sho.{\i0}
+Dialogue: 0,0:33:55.45,0:33:57.44,Default,,0,0,0,,{\i1}Cậu ta phá gần nát cái xe{\i0}
+Dialogue: 0,0:33:57.62,0:33:59.67,Default,,0,0,0,,{\i1}nhưng rồi Sho cũng qua được.{\i0}
+Dialogue: 0,0:34:08.68,0:34:10.53,Default,,0,0,0,,"Một nhà sáng tạo ghét tác phẩm của mình.
+Dialogue: 0,0:34:10.73,0:34:15.34,Default,,0,0,0,,Một chìa khóa ẩn, một bước chưa nhảy.\NNhớ lại từng bước đi, thoát khỏi quá khứ".
+Dialogue: 0,0:34:15.44,0:34:18.06,Default,,0,0,0,,"Một nhà sáng tạo ghét tác phẩm của mình.
+Dialogue: 0,0:34:18.26,0:34:22.52,Default,,0,0,0,,Một chìa khóa ẩn, một bước chưa nhảy.\NNhớ lại từng bước đi, thoát khỏi quá khứ.
+Dialogue: 0,0:34:22.52,0:34:24.19,Default,,0,0,0,,Và sau cùng Chìa Ngọc sẽ là của bạn".
+Dialogue: 0,0:34:24.31,0:34:25.31,Default,,0,0,0,,{\b1}MANH MỐI ♪2{\b0}
+Dialogue: 0,0:34:28.59,0:34:31.88,Default,,0,0,0,,{\b1}James Halliday chơi trò chơi...\Nhay chơi làm Chúa trời?{\b0}
+Dialogue: 0,0:34:32.08,0:34:33.98,Default,,0,0,0,,{\b1}OASIS CÓ THAY ĐỔI CÁCH TA SỐNG?{\b0}
+Dialogue: 0,0:34:33.98,0:34:36.97,Default,,0,0,0,,{\b1}HƠN CẢ JOBS?{\b0}
+Dialogue: 0,0:34:37.48,0:34:40.43,Default,,0,0,0,,{\b1}TÁCH ĐÔI! HALLIDAY RẼ HƯỚNG MỘT MÌNH{\b0}
+Dialogue: 0,0:34:59.02,0:35:04.62,Default,,0,0,0,,{\b1}CÁO PHÓ\NKAREN UNDERWOOD MORROW 1975-2034{\b0}
+Dialogue: 0,0:35:06.99,0:35:08.85,Default,,0,0,0,,"Thoát khỏi quá khứ".
+Dialogue: 0,0:35:12.55,0:35:15.55,Default,,0,0,0,,Phần nào trong quá khứ\Nmà ông muốn thoát hả, Halliday?
+Dialogue: 0,0:35:15.69,0:35:19.86,Default,,0,0,0,,{\b1}HALLIDAY\NNHÀ THIẾT KẾ GAME NGÀN TỶ{\b0}
+Dialogue: 0,0:35:27.37,0:35:28.99,Default,,0,0,0,,Này, đó là Parzival!
+Dialogue: 0,0:35:30.58,0:35:32.06,Default,,0,0,0,,Cậu là người hùng của tôi!
+Dialogue: 0,0:35:32.16,0:35:33.26,Default,,0,0,0,,Này, Parzival! Bên này!
+Dialogue: 0,0:35:33.37,0:35:34.57,Default,,0,0,0,,Này, cậu cừ lắm!
+Dialogue: 0,0:35:35.47,0:35:37.38,Default,,0,0,0,,Này, Parzival! Ở đây!\NCho xin chữ ký với!
+Dialogue: 0,0:35:43.37,0:35:44.58,Default,,0,0,0,,Coi chừng!
+Dialogue: 0,0:35:44.68,0:35:49.37,Default,,0,0,0,,Cậu nổi tiếng rồi!\NCậu không thể thích đi đâu thì đi được!
+Dialogue: 0,0:35:49.47,0:35:50.58,Default,,0,0,0,,Không, không, không...
+Dialogue: 0,0:36:10.06,0:36:13.67,Default,,0,0,0,,Như thế... Như thế không vui đâu.
+Dialogue: 0,0:36:13.87,0:36:16.18,Default,,0,0,0,,Chúa ơi.
+Dialogue: 0,0:36:19.10,0:36:21.67,Default,,0,0,0,,Chúa ơi. Anh không hiểu à?
+Dialogue: 0,0:36:22.17,0:36:24.20,Default,,0,0,0,,Giờ anh là Parzival rồi.
+Dialogue: 0,0:36:24.40,0:36:26.07,Default,,0,0,0,,Anh phải cải trang chứ.
+Dialogue: 0,0:36:28.20,0:36:29.70,Default,,0,0,0,,Được rồi, đây.
+Dialogue: 0,0:36:31.11,0:36:32.66,Default,,0,0,0,,Kính của Clark Kent.
+Dialogue: 0,0:36:32.76,0:36:34.98,Default,,0,0,0,,Giấu danh tính mà không thay đổi vẻ ngoài.
+Dialogue: 0,0:36:43.79,0:36:45.46,Default,,0,0,0,,Tôi không mặc bộ đó đâu.
+Dialogue: 0,0:36:55.00,0:36:56.32,Default,,0,0,0,,Thật tuyệt vời.
+Dialogue: 0,0:36:57.73,0:36:59.42,Default,,0,0,0,,Cái cách đồ của cậu tóe ra khi cậu chết.
+Dialogue: 0,0:36:59.52,0:37:00.92,Default,,0,0,0,,Họ không muốn có máu me nữa.
+Dialogue: 0,0:37:01.12,0:37:02.81,Default,,0,0,0,,Đó là ngay trước khi OASIS mở cửa.
+Dialogue: 0,0:37:03.01,0:37:06.37,Default,,0,0,0,,6 ngày trước. Ngày 2 tháng 12 năm 2025.
+Dialogue: 0,0:37:06.57,0:37:08.47,Default,,0,0,0,,Xem đi này.
+Dialogue: 0,0:37:08.57,0:37:10.27,Default,,0,0,0,,Cậu biết ai đấy không?
+Dialogue: 0,0:37:11.86,0:37:13.39,Default,,0,0,0,,Là Sorrento à?
+Dialogue: 0,0:37:13.59,0:37:15.31,Default,,0,0,0,,Sorrento khởi đầu là thực tập sinh.
+Dialogue: 0,0:37:15.51,0:37:17.82,Default,,0,0,0,,Ông ta nói\Nmình học hỏi dưới chân bậc thầy.
+Dialogue: 0,0:37:18.02,0:37:22.02,Default,,0,0,0,,Đó là cách ông ta thuyết phục IOI\Ntạo đội Lục Binh, hiểu biết về Halliday.
+Dialogue: 0,0:37:22.23,0:37:24.41,Default,,0,0,0,,Nhưng hỏi Ogden Morrow ư?
+Dialogue: 0,0:37:24.61,0:37:28.52,Default,,0,0,0,,Ông ấy nói thứ duy nhất\NSorrento thực sự hiểu về Halliday
+Dialogue: 0,0:37:28.72,0:37:30.32,Default,,0,0,0,,là ông ấy thích cà phê thế nào.
+Dialogue: 0,0:37:30.52,0:37:32.68,Default,,0,0,0,,Ông có thể có\Nnhiều cấp tài khoản khác cháu
+Dialogue: 0,0:37:32.88,0:37:34.42,Default,,0,0,0,,như thành viên vàng.
+Dialogue: 0,0:37:34.52,0:37:38.12,Default,,0,0,0,,Một người có thể có cấp\Nbạc, bạch kim, đồng.
+Dialogue: 0,0:37:38.21,0:37:40.03,Default,,0,0,0,,Tùy vào số tiền họ chi ra.
+Dialogue: 0,0:37:40.23,0:37:42.98,Default,,0,0,0,,Cấp cao nhất có lẽ là nước\Nvì đó là OASIS, đúng không?
+Dialogue: 0,0:37:43.18,0:37:44.66,Default,,0,0,0,,Cà phê sữa ngon quá.
+Dialogue: 0,0:37:44.86,0:37:47.05,Default,,0,0,0,,Tua nhanh tới đoạn\Nvề buổi hẹn hò của Halliday nhé?
+Dialogue: 0,0:37:47.15,0:37:49.25,Default,,0,0,0,,Sao cơ? Halliday đi hẹn hò thật à?
+Dialogue: 0,0:37:53.43,0:37:54.58,Default,,0,0,0,,Vậy, đã có chuyện gì?
+Dialogue: 0,0:37:54.78,0:37:57.27,Default,,0,0,0,,Không có gì cả.\NTôi đã mời cô ấy tới.
+Dialogue: 0,0:37:58.17,0:38:00.27,Default,,0,0,0,,Ít nhất cũng có tên cô ấy chứ?
+Dialogue: 0,0:38:00.87,0:38:04.87,Default,,0,0,0,,Có, Kira, tôi nói rồi,\Nnhư nhật vật trong The Dark Crystal.
+Dialogue: 0,0:38:05.07,0:38:06.37,Default,,0,0,0,,Đó là tên nhân vật của cô ấy.
+Dialogue: 0,0:38:08.25,0:38:09.27,Default,,0,0,0,,- Karen.\N- Karen.
+Dialogue: 0,0:38:09.47,0:38:11.57,Default,,0,0,0,,Ừ, được chưa? Karen Underwood.
+Dialogue: 0,0:38:11.97,0:38:15.13,Default,,0,0,0,,Không, không. Karen Underwood,\Nnhư tên vợ Ogden Morrow?
+Dialogue: 0,0:38:15.43,0:38:16.93,Default,,0,0,0,,Cứ xem đi.
+Dialogue: 0,0:38:17.33,0:38:20.91,Default,,0,0,0,,Vậy, nghe này, anh và Karen Underwood.\N2 người đã làm gì?
+Dialogue: 0,0:38:21.12,0:38:23.49,Default,,0,0,0,,Cô ấy muốn đi khiêu vũ
+Dialogue: 0,0:38:23.59,0:38:25.87,Default,,0,0,0,,nên bọn tôi cùng xem phim.
+Dialogue: 0,0:38:27.39,0:38:28.62,Default,,0,0,0,,Rồi sao?
+Dialogue: 0,0:38:30.48,0:38:32.14,Default,,0,0,0,,Đoạn hấp dẫn đâu?
+Dialogue: 0,0:38:32.34,0:38:33.84,Default,,0,0,0,,Kể gì hấp dẫn đi!
+Dialogue: 0,0:38:34.44,0:38:37.05,Default,,0,0,0,,- Không có đoạn nào hấp dẫn cả!\N- Trời ạ!
+Dialogue: 0,0:38:37.93,0:38:39.47,Default,,0,0,0,,Thần linh ơi.
+Dialogue: 0,0:38:39.67,0:38:43.35,Default,,0,0,0,,Halliday hẹn hò với vợ của Ogden Morrow?
+Dialogue: 0,0:38:43.55,0:38:46.78,Default,,0,0,0,,Một lần thôi, nhiều năm trước khi họ cưới,\Nnhưng mà có.
+Dialogue: 0,0:38:46.98,0:38:49.38,Default,,0,0,0,,Và bất chấp chuyện đó\Nvà việc bà ấy đã chết
+Dialogue: 0,0:38:49.58,0:38:52.59,Default,,0,0,0,,cái tên Kira chỉ được nhắc tới 1 lần\Ntrong cả Nhật ký của Halliday.
+Dialogue: 0,0:38:52.79,0:38:54.09,Default,,0,0,0,,Không thể nào.
+Dialogue: 0,0:38:54.19,0:38:55.86,Default,,0,0,0,,Có đấy. Tìm mà xem.
+Dialogue: 0,0:38:56.06,0:38:58.21,Default,,0,0,0,,Cái ta vừa xem là lần duy nhất\Nbà ấy được nhắc tới.
+Dialogue: 0,0:38:58.31,0:38:59.61,Default,,0,0,0,,Không hợp lý gì cả.
+Dialogue: 0,0:38:59.71,0:39:02.10,Default,,0,0,0,,Bà ấy là phần quan trọng\Ntrong đời cả 2 người họ.
+Dialogue: 0,0:39:02.30,0:39:04.35,Default,,0,0,0,,Mất gì tôi cũng cá. Cá hết xu luôn.
+Dialogue: 0,0:39:05.99,0:39:08.53,Default,,0,0,0,,Tìm "Karen Underwood Morrow".
+Dialogue: 0,0:39:09.86,0:39:12.87,Default,,0,0,0,,Kira, tôi nói rồi,\Nnhư nhân vật trong The Dark Crystal.
+Dialogue: 0,0:39:13.07,0:39:14.57,Default,,0,0,0,,{\i1}Đó là tên nhân vật của cô ấy.{\i0}
+Dialogue: 0,0:39:14.67,0:39:17.95,Default,,0,0,0,,Halliday cố ý xóa hết\Nmọi chỗ nói về bà ấy trừ chỗ này.
+Dialogue: 0,0:39:18.05,0:39:19.35,Default,,0,0,0,,Lạ thật. Vì sao nhỉ?
+Dialogue: 0,0:39:19.55,0:39:22.64,Default,,0,0,0,,Như thể ông ấy quá đau đớn\Nkhi thấy mặt bà ấy
+Dialogue: 0,0:39:22.74,0:39:24.47,Default,,0,0,0,,hay nghe tên bà ấy.
+Dialogue: 0,0:39:24.67,0:39:26.46,Default,,0,0,0,,Ông ấy yêu bà ấy.
+Dialogue: 0,0:39:26.56,0:39:27.92,Default,,0,0,0,,Ông ấy không thể kể với Morrow.
+Dialogue: 0,0:39:28.13,0:39:30.07,Default,,0,0,0,,Buồn thay. Lẽ ra ông ấy\Nnên nói ra tình cảm của mình.
+Dialogue: 0,0:39:30.10,0:39:31.45,Default,,0,0,0,,Ừ, ông ấy đã lỡ mất cơ hội.
+Dialogue: 0,0:39:31.65,0:39:32.65,Default,,0,0,0,,Nhìn này.
+Dialogue: 0,0:39:33.70,0:39:36.84,Default,,0,0,0,,Tôi đã tìm thấy manh mối\Ntới cuộc đua ở cảnh khác
+Dialogue: 0,0:39:37.04,0:39:40.11,Default,,0,0,0,,nhưng tôi luôn cảm thấy manh mối\Nlớn nhất tới cuộc thi được giấu ở đây.
+Dialogue: 0,0:39:40.21,0:39:41.99,Default,,0,0,0,,Cậu nói đúng.
+Dialogue: 0,0:39:43.15,0:39:45.00,Default,,0,0,0,,Tôi thua.
+Dialogue: 0,0:39:45.20,0:39:46.40,Default,,0,0,0,,Đừng có lo, Curator.
+Dialogue: 0,0:39:46.60,0:39:49.25,Default,,0,0,0,,Thấy chưa, Kira là Sosebud\Nở trung tâm câu chuyện của ông ấy.
+Dialogue: 0,0:39:49.45,0:39:50.50,Default,,0,0,0,,Bà ấy là bí ẩn lớn.
+Dialogue: 0,0:39:50.65,0:39:52.92,Default,,0,0,0,,Không, không. Cá cược là cá cược.
+Dialogue: 0,0:39:54.55,0:39:57.50,Default,,0,0,0,,Đồng 25 xu. Ông giữ đi.
+Dialogue: 0,0:39:57.60,0:39:59.72,Default,,0,0,0,,Không. Cậu giữ đi.
+Dialogue: 0,0:40:03.00,0:40:05.53,Default,,0,0,0,,- Thứ năm anh rảnh không?\N- Ai, tôi à?
+Dialogue: 0,0:40:06.04,0:40:07.81,Default,,0,0,0,,Không, ông ta.
+Dialogue: 0,0:40:09.04,0:40:11.07,Default,,0,0,0,,Trời đất ơi. Phải, anh đấy!
+Dialogue: 0,0:40:13.15,0:40:14.76,Default,,0,0,0,,Biết Quả cầu Giải khuây chứ?
+Dialogue: 0,0:40:14.96,0:40:17.02,Default,,0,0,0,,Có, sàn nhảy.
+Dialogue: 0,0:40:18.96,0:40:21.62,Default,,0,0,0,,Gặp ở đó nhé. 10 giờ tối.
+Dialogue: 0,0:40:21.82,0:40:24.07,Default,,0,0,0,,Tôi muốn cho anh xem cái này.
+Dialogue: 0,0:40:25.03,0:40:26.39,Default,,0,0,0,,Chào nhé!
+Dialogue: 0,0:40:27.59,0:40:29.02,Default,,0,0,0,,Cô ấy mới rủ tôi đi chơi à?
+Dialogue: 0,0:40:29.22,0:40:30.99,Default,,0,0,0,,Và tôi vừa bắt đầu thích cô ấy.
+Dialogue: 0,0:40:31.19,0:40:32.79,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:40:32.99,0:40:34.59,Default,,0,0,0,,Tôi không chơi trò đó.
+Dialogue: 0,0:40:38.44,0:40:40.36,Default,,0,0,0,,Z, tôi không tin nổi\Nlà cậu kể với cô ấy về Kira.
+Dialogue: 0,0:40:40.44,0:40:42.84,Default,,0,0,0,,Sao? Tớ kể với cậu ấy rồi.
+Dialogue: 0,0:40:43.04,0:40:45.25,Default,,0,0,0,,Này, còn kiểu này thì sao?
+Dialogue: 0,0:40:46.95,0:40:49.63,Default,,0,0,0,,Không. Cậu có từng cân nhắc\Nrằng Art3mis có thể lợi dụng cậu?
+Dialogue: 0,0:40:49.83,0:40:53.73,Default,,0,0,0,,Này, cô ấy cho tớ xem một manh mối.\NCó lẽ tớ mới là kẻ lợi dụng cô ấy.
+Dialogue: 0,0:40:54.23,0:40:57.49,Default,,0,0,0,,Tớ có nên mặc giống trong bài "Thriller"?
+Dialogue: 0,0:40:57.89,0:40:59.19,Default,,0,0,0,,Không.
+Dialogue: 0,0:41:00.00,0:41:01.00,Default,,0,0,0,,Nhạc Punk?
+Dialogue: 0,0:41:01.15,0:41:02.15,Default,,0,0,0,,Không.
+Dialogue: 0,0:41:04.22,0:41:05.36,Default,,0,0,0,,Duran Duran.
+Dialogue: 0,0:41:05.66,0:41:06.66,Default,,0,0,0,,Không.
+Dialogue: 0,0:41:07.45,0:41:08.58,Default,,0,0,0,,Trông tớ có cố quá mức không?
+Dialogue: 0,0:41:08.61,0:41:11.67,Default,,0,0,0,,Có! Lắng nghe bản thân đi!
+Dialogue: 0,0:41:11.87,0:41:14.87,Default,,0,0,0,,Cậu chết mê chết mệt cô nàng ảo này rồi.
+Dialogue: 0,0:41:15.01,0:41:17.47,Default,,0,0,0,,Cô ta tán cậu\Nđể được cậu hỗ trợ đấy.
+Dialogue: 0,0:41:19.17,0:41:20.84,Default,,0,0,0,,Tớ biết rồi!
+Dialogue: 0,0:41:22.19,0:41:23.92,Default,,0,0,0,,- Buckaroo Banzai?\N- Phải!
+Dialogue: 0,0:41:24.12,0:41:27.29,Default,,0,0,0,,Thật à? Cậu định mặc bộ đồ\Ntừ bộ phim cậu thích à?
+Dialogue: 0,0:41:27.50,0:41:28.70,Default,,0,0,0,,Đừng có thế chứ.
+Dialogue: 0,0:41:28.90,0:41:29.90,Default,,0,0,0,,Tớ là thế mà.
+Dialogue: 0,0:41:30.00,0:41:32.44,Default,,0,0,0,,Z, cậu phải cẩn thận hơn\Nvới những kẻ cậu gặp trong OASIS.
+Dialogue: 0,0:41:32.64,0:41:35.76,Default,,0,0,0,,Aech, Art3mis hiểu tớ.\NCô ấy hiểu bộ đồ của tớ mà.
+Dialogue: 0,0:41:35.86,0:41:38.67,Default,,0,0,0,,Có liên kết mơ hồ nào đó.\NĐôi khi, bọn tớ còn...
+Dialogue: 0,0:41:38.87,0:41:40.39,Default,,0,0,0,,- Nói nốt câu của nhau?\N- Phải!
+Dialogue: 0,0:41:40.55,0:41:43.28,Default,,0,0,0,,Chúng ta cũng thế mà. Tớ và cậu.
+Dialogue: 0,0:41:43.48,0:41:46.86,Default,,0,0,0,,Ừ, tớ biết, nhưng đó là vì\Nta là bạn thân nhất, bạn hiền.
+Dialogue: 0,0:41:47.06,0:41:48.84,Default,,0,0,0,,Cô ta cũng có thể là con trai đó.
+Dialogue: 0,0:41:49.04,0:41:50.04,Default,,0,0,0,,Thôi nào.
+Dialogue: 0,0:41:50.15,0:41:51.78,Default,,0,0,0,,Tớ nói thật đấy!
+Dialogue: 0,0:41:51.98,0:41:54.47,Default,,0,0,0,,Ngoài đời cô ấy có thể\Nlà một gã tạ rưỡi
+Dialogue: 0,0:41:54.68,0:41:57.03,Default,,0,0,0,,sống ở tầng hầm nhà mẹ\Nở ngoại ô Detroit.
+Dialogue: 0,0:41:57.90,0:41:59.72,Default,,0,0,0,,Và tên cô ấy là Chuck.
+Dialogue: 0,0:42:01.42,0:42:03.14,Default,,0,0,0,,Nghĩ mà xem.
+Dialogue: 0,0:42:32.98,0:42:34.16,Default,,0,0,0,,Này, kia là Parzival à?
+Dialogue: 0,0:42:34.26,0:42:36.01,Default,,0,0,0,,Parzival!
+Dialogue: 0,0:42:36.16,0:42:38.85,Default,,0,0,0,,Lại đây, anh bạn.\NCho chụp ảnh phát nhé?
+Dialogue: 0,0:42:41.46,0:42:43.51,Default,,0,0,0,,- Cảm ơn nhiều!\N- Này, cậu là người hùng của tôi!
+Dialogue: 0,0:42:43.79,0:42:44.93,Default,,0,0,0,,Này, Parzival.
+Dialogue: 0,0:42:47.33,0:42:49.10,Default,,0,0,0,,Cảm ơn.
+Dialogue: 0,0:43:03.01,0:43:05.97,Default,,0,0,0,,Quỷ thần ơi! Buckaroo Banzai?
+Dialogue: 0,0:43:06.17,0:43:08.29,Default,,0,0,0,,Tôi thích đấy. Tôi thích Buckaroo Banzai.
+Dialogue: 0,0:43:08.49,0:43:09.99,Default,,0,0,0,,- Cảm ơn!\N- Tuyệt lắm!
+Dialogue: 0,0:43:10.20,0:43:11.62,Default,,0,0,0,,Phải! Trông em...
+Dialogue: 0,0:43:11.92,0:43:13.19,Default,,0,0,0,,Trông em tuyệt quá!
+Dialogue: 0,0:43:13.39,0:43:14.49,Default,,0,0,0,,Cảm ơn anh.
+Dialogue: 0,0:43:16.35,0:43:18.09,Default,,0,0,0,,Một ly to, một ly nhỏ?
+Dialogue: 0,0:43:18.20,0:43:19.40,Default,,0,0,0,,Một ly to vào!
+Dialogue: 0,0:43:34.54,0:43:36.57,Default,,0,0,0,,Đi chỗ khác chơi.
+Dialogue: 0,0:43:38.20,0:43:39.88,Default,,0,0,0,,- Đồ dị hợm!\N- Tớ thấy dễ thương mà.
+Dialogue: 0,0:43:40.19,0:43:41.53,Default,,0,0,0,,Anh từng đến đây chưa?
+Dialogue: 0,0:43:41.73,0:43:43.36,Default,,0,0,0,,Rất tuyệt, đúng không? Ý em là...
+Dialogue: 0,0:43:44.36,0:43:45.63,Default,,0,0,0,,{\i1}Vậy, kế hoạch là sao?{\i0}
+Dialogue: 0,0:43:45.84,0:43:48.13,Default,,0,0,0,,{\i1}Giết nhân vật đại diện của chúng à?\NCho chúng về mo à?{\i0}
+Dialogue: 0,0:43:48.33,0:43:51.81,Default,,0,0,0,,Chúng đều ở Quả cầu Giải khuây.\NTôi không nói chuyện được.
+Dialogue: 0,0:43:52.82,0:43:55.83,Default,,0,0,0,,{\i1}Quả cầu Giải khuây là\Nhộp đêm đầu tiên Halliday mở trong OASIS.{\i0}
+Dialogue: 0,0:43:56.03,0:43:57.43,Default,,0,0,0,,{\i1}Cái đó ai cũng biết.{\i0}
+Dialogue: 0,0:43:57.56,0:43:58.94,Default,,0,0,0,,Nhưng em đã kiểm tra lại
+Dialogue: 0,0:43:59.15,0:44:02.18,Default,,0,0,0,,và hóa ra ông ấy xây nó\Nngay sau khoảnh khắc anh cho em xem.
+Dialogue: 0,0:44:02.38,0:44:03.38,Default,,0,0,0,,Buổi hẹn với Kira.
+Dialogue: 0,0:44:03.44,0:44:05.51,Default,,0,0,0,,Phải và bà ấy là một vũ công giỏi.
+Dialogue: 0,0:44:05.72,0:44:07.58,Default,,0,0,0,,Chắc ông ấy nghĩ\Ncó thể đưa bà ấy tới đây
+Dialogue: 0,0:44:07.78,0:44:10.10,Default,,0,0,0,,trong một buổi hẹn hò ảo.
+Dialogue: 0,0:44:10.67,0:44:11.69,Default,,0,0,0,,Như thể có hiệu quả ấy.
+Dialogue: 0,0:44:12.49,0:44:13.67,Default,,0,0,0,,Vậy là Halliday dựng nó cho bà ấy?
+Dialogue: 0,0:44:13.70,0:44:16.58,Default,,0,0,0,,Nhưng họ không qua nổi buổi hẹn đầu,\Nnên Halliday là nhà sáng tạo...
+Dialogue: 0,0:44:16.78,0:44:17.78,Default,,0,0,0,,ghét tác phẩm của mình.
+Dialogue: 0,0:44:17.88,0:44:19.08,Default,,0,0,0,,Và hộp đêm là thứ ông ta ghét.
+Dialogue: 0,0:44:19.29,0:44:21.76,Default,,0,0,0,,Còn "Một chìa khóa ẩn,\Nmột bước chưa nhảy"?
+Dialogue: 0,0:44:25.28,0:44:26.57,Default,,0,0,0,,Nhưng người ta nhảy ở đó suốt đêm mà.
+Dialogue: 0,0:44:26.60,0:44:28.47,Default,,0,0,0,,Nhưng không ai có Chìa Đồng...
+Dialogue: 0,0:44:28.67,0:44:32.32,Default,,0,0,0,,{\i1}nên khi chúng ta nhảy,\Ncó thể sẽ khác, đúng không?{\i0}
+Dialogue: 0,0:44:32.48,0:44:33.48,Default,,0,0,0,,{\i1}Đúng rồi.{\i0}
+Dialogue: 0,0:44:36.21,0:44:37.43,Default,,0,0,0,,Vậy chúng ta cùng nhảy nhé?
+Dialogue: 0,0:44:37.63,0:44:38.93,Default,,0,0,0,,Được.
+Dialogue: 0,0:44:40.94,0:44:42.67,Default,,0,0,0,,Chúng ta không ghép đội gì đâu nhé.
+Dialogue: 0,0:44:42.87,0:44:45.90,Default,,0,0,0,,Dĩ nhiên là không.\NAnh không ghép đội.
+Dialogue: 0,0:44:47.10,0:44:48.10,Default,,0,0,0,,Khoan đã.
+Dialogue: 0,0:44:57.12,0:45:00.70,Default,,0,0,0,,Anh không nghĩ đây là nó.\NKhông bảng điểm, không chướng ngại.
+Dialogue: 0,0:45:00.90,0:45:02.37,Default,,0,0,0,,Thử thách khiêu vũ chăng?
+Dialogue: 0,0:45:19.07,0:45:21.01,Default,,0,0,0,,Kiểu cổ điển!
+Dialogue: 0,0:45:44.57,0:45:45.57,Default,,0,0,0,,Anh có chuẩn bị rồi chứ?
+Dialogue: 0,0:45:45.82,0:45:47.02,Default,,0,0,0,,Chuẩn bị à?
+Dialogue: 0,0:45:50.56,0:45:52.96,Default,,0,0,0,,Anh xài nền cảm ứng gì vậy?
+Dialogue: 0,0:45:53.16,0:45:55.39,Default,,0,0,0,,Anh mang găng tay và mũ kín đầu\Nhay bộ toàn thân?
+Dialogue: 0,0:45:59.59,0:46:01.03,Default,,0,0,0,,Anh có cảm thấy không?
+Dialogue: 0,0:46:04.06,0:46:05.33,Default,,0,0,0,,À, có.
+Dialogue: 0,0:46:05.50,0:46:08.90,Default,,0,0,0,,Anh mặc giáp trợ lực cảm ứng X1\Nvới lớp lót siêu mỏng.
+Dialogue: 0,0:46:21.28,0:46:24.17,Default,,0,0,0,,Trời ơi, Parzival, anh có chuẩn bị cả rồi.
+Dialogue: 0,0:46:27.54,0:46:30.24,Default,,0,0,0,,Anh nghĩ thế này.
+Dialogue: 0,0:46:31.24,0:46:33.63,Default,,0,0,0,,Nếu mình gặp nhau ngoài đời\Nthì chắc vui lắm.
+Dialogue: 0,0:46:33.73,0:46:35.21,Default,,0,0,0,,Không, anh sẽ thất vọng đấy.
+Dialogue: 0,0:46:35.31,0:46:37.96,Default,,0,0,0,,Không đâu. Anh thích em mà.
+Dialogue: 0,0:46:38.15,0:46:40.18,Default,,0,0,0,,Anh còn không biết em mà.
+Dialogue: 0,0:46:40.28,0:46:42.09,Default,,0,0,0,,Đây không phải vẻ ngoài thật của em.
+Dialogue: 0,0:46:42.16,0:46:45.94,Default,,0,0,0,,Đây không phải cơ thể thật,\Nhay gương mặt thật của em.
+Dialogue: 0,0:46:46.14,0:46:47.74,Default,,0,0,0,,Anh không quan tâm.
+Dialogue: 0,0:46:47.84,0:46:49.04,Default,,0,0,0,,Anh muốn biết tên thật của em.
+Dialogue: 0,0:47:02.56,0:47:04.03,Default,,0,0,0,,- Tên anh là Wade.\N- Gì cơ?
+Dialogue: 0,0:47:05.57,0:47:07.51,Default,,0,0,0,,- Anh nói tên anh...\N- Thôi đi!
+Dialogue: 0,0:47:07.61,0:47:10.29,Default,,0,0,0,,Chàng Buckaroo say rồi. Sốc ghê.
+Dialogue: 0,0:47:10.49,0:47:12.98,Default,,0,0,0,,Anh điên à?\NKhông được để lộ thân phận với ai hết.
+Dialogue: 0,0:47:13.08,0:47:14.58,Default,,0,0,0,,Anh không được dùng tên thật.
+Dialogue: 0,0:47:14.68,0:47:15.82,Default,,0,0,0,,Em đâu phải người lạ.
+Dialogue: 0,0:47:15.92,0:47:16.92,Default,,0,0,0,,Anh đâu có biết em.
+Dialogue: 0,0:47:17.02,0:47:18.86,Default,,0,0,0,,Anh có biết điều gì về em đâu.\NChúng ta chưa từng gặp.
+Dialogue: 0,0:47:18.89,0:47:20.69,Default,,0,0,0,,Anh biết em mà, Arty.
+Dialogue: 0,0:47:22.39,0:47:23.92,Default,,0,0,0,,Anh yêu em.
+Dialogue: 0,0:47:32.45,0:47:33.97,Default,,0,0,0,,- Đây là một phần thử thách à?\N- Không.
+Dialogue: 0,0:47:34.90,0:47:36.02,Default,,0,0,0,,Là một cuộc phục kích.
+Dialogue: 0,0:47:43.54,0:47:45.69,Default,,0,0,0,,IOI lúc nào cũng ngáng đường.
+Dialogue: 0,0:47:46.32,0:47:47.96,Default,,0,0,0,,Em nghe anh nói không?\NAnh nói anh yêu em.
+Dialogue: 0,0:47:48.13,0:47:49.54,Default,,0,0,0,,Không, không phải.
+Dialogue: 0,0:47:51.03,0:47:52.56,Default,,0,0,0,,Anh chỉ biết cái em muốn anh biết.
+Dialogue: 0,0:47:52.76,0:47:54.56,Default,,0,0,0,,Anh chỉ thấy cái em muốn anh thấy.
+Dialogue: 0,0:47:57.49,0:47:59.28,Default,,0,0,0,,Đó mới là người anh yêu.
+Dialogue: 0,0:48:13.15,0:48:14.26,Default,,0,0,0,,Coi chừng!
+Dialogue: 0,0:48:24.68,0:48:26.00,Default,,0,0,0,,Kéo.
+Dialogue: 0,0:48:38.57,0:48:41.53,Default,,0,0,0,,Trên đầu! Z!\NGiáp của anh mòn rồi kìa.
+Dialogue: 0,0:48:41.83,0:48:42.88,Default,,0,0,0,,Anh mới mua mà.
+Dialogue: 0,0:48:51.04,0:48:54.16,Default,,0,0,0,,Khối lập phương Zemeckis.\NKéo mọi thứ lùi lại 60 giây.
+Dialogue: 0,0:48:58.80,0:49:00.85,Default,,0,0,0,,Anh chờ đến giờ mới dùng à?
+Dialogue: 0,0:49:08.79,0:49:10.96,Default,,0,0,0,,Em thật quá đỉnh.
+Dialogue: 0,0:49:14.54,0:49:16.52,Default,,0,0,0,,Đây không phải trò chơi, Z.
+Dialogue: 0,0:49:17.82,0:49:19.58,Default,,0,0,0,,Em làm việc này để ngăn IOI.
+Dialogue: 0,0:49:19.78,0:49:23.69,Default,,0,0,0,,Em đang nói đến hậu quả ngoài đời thực.\NNgười thật nỗi đau thật.
+Dialogue: 0,0:49:23.79,0:49:25.05,Default,,0,0,0,,- Chuyện sống chết thật ấy.\N- Anh biết.
+Dialogue: 0,0:49:25.08,0:49:29.66,Default,,0,0,0,,Không, anh không biết đâu!\NBố em đã chết trong một trung tâm thu nợ.
+Dialogue: 0,0:49:30.66,0:49:33.45,Default,,0,0,0,,Ông ấy mượn trang bị. Ôm một món nợ to.
+Dialogue: 0,0:49:33.75,0:49:37.13,Default,,0,0,0,,Ông vào đó với lời hứa\Nlàm công bù nợ, nhưng không bù nổi.
+Dialogue: 0,0:49:37.34,0:49:39.08,Default,,0,0,0,,IOI tăng chi tiêu sinh hoạt của ông lên
+Dialogue: 0,0:49:39.18,0:49:40.70,Default,,0,0,0,,rồi ông bị bệnh,\Nvà không thể thoát ra.
+Dialogue: 0,0:49:40.76,0:49:42.42,Default,,0,0,0,,Và rồi ông qua đời!
+Dialogue: 0,0:49:43.23,0:49:44.27,Default,,0,0,0,,Anh rất tiếc, anh không...
+Dialogue: 0,0:49:44.44,0:49:46.49,Default,,0,0,0,,Không, anh không sống\Ntrong thế giới thực, Z.
+Dialogue: 0,0:49:46.69,0:49:49.36,Default,,0,0,0,,Từ những gì anh nói,\Nem không nghĩ anh từng sống thật.
+Dialogue: 0,0:49:49.76,0:49:53.14,Default,,0,0,0,,Anh sống trong ảo tưởng...
+Dialogue: 0,0:49:53.47,0:49:55.27,Default,,0,0,0,,và em không thể\Nđể anh làm em phân tâm.
+Dialogue: 0,0:50:08.10,0:50:10.20,Default,,0,0,0,,Thế quái nào mà chúng thoát được?
+Dialogue: 0,0:50:10.40,0:50:12.44,Default,,0,0,0,,{\i1}Muốn nghe đầu đuôi à?\NLính của anh kém quá.{\i0}
+Dialogue: 0,0:50:12.64,0:50:16.39,Default,,0,0,0,,{\i1}Chúng không giết được nhân vật của hắn,\Nmà nếu phê bình có tính xây dựng{\i0}
+Dialogue: 0,0:50:16.59,0:50:19.29,Default,,0,0,0,,{\i1}thì là một ý vụng về\Nvà chỉ làm chậm hắn thôi.{\i0}
+Dialogue: 0,0:50:19.60,0:50:23.63,Default,,0,0,0,,{\i1}Còn kế hoạch của tôi, vốn rất ngầu\Nvì tôi ngầu mà, lại có tác dụng.{\i0}
+Dialogue: 0,0:50:23.84,0:50:25.27,Default,,0,0,0,,Hắn vẫn còn trên bảng.
+Dialogue: 0,0:50:25.47,0:50:29.08,Default,,0,0,0,,{\i1}Tôi biết chứ, Nolan.\NNhưng không được lâu nữa.{\i0}
+Dialogue: 0,0:50:29.18,0:50:33.03,Default,,0,0,0,,{\i1}Tôi đã tìm kiềm mọi gã Wade\Nmới mua giáp trợ lực X1{\i0}
+Dialogue: 0,0:50:33.23,0:50:36.32,Default,,0,0,0,,{\i1}tham chiếu hồ sơ công khai và voilà...{\i0}
+Dialogue: 0,0:50:36.52,0:50:40.52,Default,,0,0,0,,{\i1}trong tiếng Pháp nghĩa là...\N"và tôi đã tìm ra".{\i0}
+Dialogue: 0,0:50:41.13,0:50:42.34,Default,,0,0,0,,{\i1}Sẵn sàng chưa?{\i0}
+Dialogue: 0,0:50:42.54,0:50:47.06,Default,,0,0,0,,Tên thật ngoài đời của Parzival\Nlà Wade Watts.
+Dialogue: 0,0:50:47.88,0:50:49.47,Default,,0,0,0,,{\i1}Voilà.{\i0}
+Dialogue: 0,0:50:51.17,0:50:53.37,Default,,0,0,0,,Cô có trung thành không, cô Zandor?
+Dialogue: 0,0:50:54.07,0:50:55.73,Default,,0,0,0,,Anh muốn tôi trả lời thật à?
+Dialogue: 0,0:50:55.93,0:50:59.45,Default,,0,0,0,,Khi cô tham chiến,\Ncô sẽ cần những người trung thành hết mức.
+Dialogue: 0,0:51:00.46,0:51:02.16,Default,,0,0,0,,Những người cô có thể tin\Nhọ làm xong việc.
+Dialogue: 0,0:51:02.36,0:51:04.93,Default,,0,0,0,,Tôi chỉ bắt người không trả hóa đơn thôi.
+Dialogue: 0,0:51:05.04,0:51:07.73,Default,,0,0,0,,Phải, vì có vài vấn đề\Ncần giải pháp bạo lực...
+Dialogue: 0,0:51:07.94,0:51:10.39,Default,,0,0,0,,nhưng cũng có những lúc khác,\Nnhất là thời chiến...
+Dialogue: 0,0:51:10.49,0:51:12.13,Default,,0,0,0,,khi cô cần những quy tắc khác.
+Dialogue: 0,0:51:12.23,0:51:13.47,Default,,0,0,0,,- Quy tắc chiến tranh.\N- Phải.
+Dialogue: 0,0:51:13.67,0:51:16.48,Default,,0,0,0,,Tiếc là bộ phận của tôi\Nkhông hoạt động trong OASIS.
+Dialogue: 0,0:51:16.68,0:51:21.01,Default,,0,0,0,,Ừ, nhưng nếu cuộc chiến còn ở trong OASIS,\Nthì cô chẳng thể làm gì.
+Dialogue: 0,0:51:22.02,0:51:24.75,Default,,0,0,0,,Nên, chúng ta không hề\Ncó cuộc trò chuyện này.
+Dialogue: 0,0:51:24.95,0:51:27.71,Default,,0,0,0,,Chúng ta từng trò chuyện thế này,\Nvà xem giờ cô ở đâu kìa.
+Dialogue: 0,0:51:27.91,0:51:30.27,Default,,0,0,0,,Cô có ghế trong hội đồng,\Ntrưởng một bộ phận riêng.
+Dialogue: 0,0:51:30.43,0:51:34.19,Default,,0,0,0,,Một bộ phận sẽ ngừng tồn tại\Nnếu có người lạ thắng cuộc thi.
+Dialogue: 0,0:51:34.39,0:51:37.52,Default,,0,0,0,,F'Nale, một trò chơi\Nquyết định số phận chúng ta.
+Dialogue: 0,0:51:37.72,0:51:41.38,Default,,0,0,0,,Câu hỏi duy nhất là,\Nchúng ta sẵn sàng làm tới đâu để thắng?
+Dialogue: 0,0:51:43.61,0:51:45.73,Default,,0,0,0,,Nói xem anh cần gì, Nolan.
+Dialogue: 0,0:52:20.41,0:52:22.55,Default,,0,0,0,,{\b1}PARZIVAL, TÔI MUỐN ĐỀ NGHỊ VỚI CẬU{\b0}
+Dialogue: 0,0:52:22.75,0:52:25.84,Default,,0,0,0,,{\b1}CẬU SẼ CÓ MỌI THỨ CẬU MUỐN\NKỂ CẢ TRỨNG PHỤC SINH CỦA HALLIDAY...{\b0}
+Dialogue: 0,0:52:25.95,0:52:29.36,Default,,0,0,0,,{\b1}CHẠM LĂNG TRỤ ĐỂ TRÒ CHUYỆN{\b0}
+Dialogue: 0,0:53:04.17,0:53:05.57,Default,,0,0,0,,{\i1}Đi đi.{\i0}
+Dialogue: 0,0:53:09.44,0:53:10.44,Default,,0,0,0,,{\i1}Tôi ở đâu đây?{\i0}
+Dialogue: 0,0:53:10.59,0:53:13.29,Default,,0,0,0,,Tòa nhà IOI.\NCậu là ảnh ba chiều ngoài đời thực.
+Dialogue: 0,0:53:14.29,0:53:15.45,Default,,0,0,0,,{\i1}Thiết bị xịn quá.{\i0}
+Dialogue: 0,0:53:15.66,0:53:19.83,Default,,0,0,0,,Cảm ơn. Đó là bộ Habashaw,\NOIR 9400 mới cáu.
+Dialogue: 0,0:53:20.08,0:53:21.68,Default,,0,0,0,,{\i1}Nhìn như trứng hamster cỡ bự.{\i0}
+Dialogue: 0,0:53:21.88,0:53:26.53,Default,,0,0,0,,Cậu biết đấy, nếu cậu làm ở IOI,\Ncậu sẽ có một bộ.
+Dialogue: 0,0:53:26.73,0:53:27.89,Default,,0,0,0,,{\i1}Tôi không ghép đội.{\i0}
+Dialogue: 0,0:53:28.09,0:53:30.97,Default,,0,0,0,,Cậu còn có căn hộ áp mái riêng\Nở Columbus
+Dialogue: 0,0:53:31.07,0:53:32.94,Default,,0,0,0,,với kết nối tốc độ cao nhất.
+Dialogue: 0,0:53:33.15,0:53:38.04,Default,,0,0,0,,Trong OASIS, cậu sẽ có vũ khí,\Nđồ ma thuật, tàu vũ trụ vô hạn.
+Dialogue: 0,0:53:39.25,0:53:40.45,Default,,0,0,0,,Cậu muốn có con tàu trong Defender?
+Dialogue: 0,0:53:40.48,0:53:43.08,Default,,0,0,0,,Loại tàu có thể nhảy vào siêu không gian.
+Dialogue: 0,0:53:43.28,0:53:45.09,Default,,0,0,0,,Cậu muốn chiếc Milennium Falcon?
+Dialogue: 0,0:53:46.00,0:53:47.00,Default,,0,0,0,,{\i1}Ông có à?{\i0}
+Dialogue: 0,0:53:47.10,0:53:51.52,Default,,0,0,0,,Mọi thứ cậu cần giúp cậu tìm ra quả trứng,\Nvà có lương nữa.
+Dialogue: 0,0:53:52.89,0:53:54.69,Default,,0,0,0,,4 triệu mỗi năm.
+Dialogue: 0,0:53:54.89,0:53:58.39,Default,,0,0,0,,Và nếu tình cờ cậu tìm ra\Nquả trứng Phục sinh đó, sẽ có thưởng.
+Dialogue: 0,0:53:58.49,0:54:00.70,Default,,0,0,0,,25 triệu đô la.
+Dialogue: 0,0:54:06.19,0:54:09.52,Default,,0,0,0,,Tôi thấy là cậu đang dùng\Nphần mềm áp chế cảm xúc
+Dialogue: 0,0:54:09.72,0:54:12.55,Default,,0,0,0,,và sao lại không chứ?\NThông minh mà, không phải lộ tay.
+Dialogue: 0,0:54:18.10,0:54:21.81,Default,,0,0,0,,{\i1}Nhiều tiền ghê. Tôi muốn có lắm.{\i0}
+Dialogue: 0,0:54:26.82,0:54:28.96,Default,,0,0,0,,{\i1}Nhưng tôi không nghĩ\Nông và tôi có cùng kế hoạch.{\i0}
+Dialogue: 0,0:54:29.17,0:54:31.97,Default,,0,0,0,,Tôi không biết về vụ đó.\NSao, vì OASIS à?
+Dialogue: 0,0:54:32.17,0:54:35.27,Default,,0,0,0,,Tôi đoán cậu không hâm mộ John Hughes...
+Dialogue: 0,0:54:36.47,0:54:37.95,Default,,0,0,0,,{\i1}Dĩ nhiên là có rồi.{\i0}
+Dialogue: 0,0:54:38.15,0:54:40.70,Default,,0,0,0,,Vì việc đầu tiên tôi sẽ làm
+Dialogue: 0,0:54:40.70,0:54:44.52,Default,,0,0,0,,là chuyển mọi trường học trên Ludus\Nthành bản sao của trường học
+Dialogue: 0,0:54:44.62,0:54:47.69,Default,,0,0,0,,trong The Breakfast Club\Nvà Ferris Bueller.
+Dialogue: 0,0:54:47.79,0:54:50.05,Default,,0,0,0,,{\i1}Không thể nào. Vụ đó hay quá.{\i0}
+Dialogue: 0,0:54:50.94,0:54:53.21,Default,,0,0,0,,{\i1}Trường nào? Ridgemont hay Faber?{\i0}
+Dialogue: 0,0:54:53.42,0:54:56.32,Default,,0,0,0,,Thời gian ở trường Ridgemont,\Nkhông phải của John Hughes.
+Dialogue: 0,0:54:56.52,0:54:59.58,Default,,0,0,0,,Là bẫy. Trường Faber trong Animal House.
+Dialogue: 0,0:54:59.78,0:55:03.70,Default,,0,0,0,,John Hughes không đạo diễn Thời gian\Nở trường Ridgemont lẫn Animal House.
+Dialogue: 0,0:55:04.31,0:55:07.55,Default,,0,0,0,,Ferris Bueller và The Breakfast Club,\Nhọ học Trung học Shermer
+Dialogue: 0,0:55:07.75,0:55:10.41,Default,,0,0,0,,ở Shermer, Illinois.\NTôi biết cậu nghĩ gì.
+Dialogue: 0,0:55:11.31,0:55:15.13,Default,,0,0,0,,Cậu nghĩ tôi là tên khốn doanh nghiệp,\Nkhông hiểu văn hóa đại chúng, nhưng
+Dialogue: 0,0:55:16.29,0:55:19.21,Default,,0,0,0,,không đúng đâu.\NCậu biết đó, khi tôi muốn xả hơi...
+Dialogue: 0,0:55:19.41,0:55:23.28,Default,,0,0,0,,Uống Tab, chơi Robotron,\Nnghe nhạc Duran Duran.
+Dialogue: 0,0:55:23.48,0:55:27.29,Default,,0,0,0,,Tôi mở một lon Tab. Tôi bật\Nnhạc Duran Duran. Tôi chơi Robotron.
+Dialogue: 0,0:55:27.49,0:55:29.41,Default,,0,0,0,,Đó là lý do tôi yêu OASIS.
+Dialogue: 0,0:55:29.61,0:55:34.30,Default,,0,0,0,,Vì đó đầy những thứ\Nngười ta yêu thích. Cậu biết chứ?
+Dialogue: 0,0:55:42.29,0:55:44.54,Default,,0,0,0,,Tôi là doanh nhân. Tôi hiểu chứ.
+Dialogue: 0,0:55:44.74,0:55:47.43,Default,,0,0,0,,Nhưng tôi phải làm việc của mình.
+Dialogue: 0,0:55:47.63,0:55:52.32,Default,,0,0,0,,Nhưng tôi không nhờ cậu tới chỉ để\Ngiúp chúng tôi tìm quả trứng, Parzival.
+Dialogue: 0,0:55:53.32,0:55:57.03,Default,,0,0,0,,Tôi nhờ cậu tới vì những thứ sau đó.
+Dialogue: 0,0:55:58.39,0:56:00.00,Default,,0,0,0,,{\i1}Halliday sẽ nói gì nào?{\i0}
+Dialogue: 0,0:56:01.10,0:56:03.68,Default,,0,0,0,,James Halliday chết rồi.
+Dialogue: 0,0:56:04.94,0:56:07.85,Default,,0,0,0,,Phải. Đúng vậy.
+Dialogue: 0,0:56:09.03,0:56:12.90,Default,,0,0,0,,Ông ấy chỉ để lại cuộc thi này.\NVà ông biết không?
+Dialogue: 0,0:56:13.91,0:56:16.07,Default,,0,0,0,,Có vẻ ông ta không muốn ông thắng nó.
+Dialogue: 0,0:56:16.27,0:56:17.45,Default,,0,0,0,,Người thích biết kẻ ghét
+Dialogue: 0,0:56:17.65,0:56:20.24,Default,,0,0,0,,và tôi biết ông có cả dàn\Nchuyên gia đứng nhắc tường ông.
+Dialogue: 0,0:56:20.44,0:56:22.46,Default,,0,0,0,,Nên, nếu ông muốn biết tôi nghĩ gì...
+Dialogue: 0,0:56:22.66,0:56:24.02,Default,,0,0,0,,tôi nghĩ ông toàn nói xạo.
+Dialogue: 0,0:56:29.55,0:56:32.45,Default,,0,0,0,,{\i1}Đề nghị của tôi đây.\NBan giám đốc của ông đang nghe chứ?{\i0}
+Dialogue: 0,0:56:32.65,0:56:34.58,Default,,0,0,0,,Sao ông không nói với họ
+Dialogue: 0,0:56:35.73,0:56:38.10,Default,,0,0,0,,nếu họ đuổi ông, tôi sẽ cân nhắc thử.
+Dialogue: 0,0:56:38.58,0:56:40.65,Default,,0,0,0,,Có thể tôi sẽ nói một câu ngoài giấy tờ.
+Dialogue: 0,0:56:41.56,0:56:43.16,Default,,0,0,0,,Tôi buộc phải đưa ra đề nghị.
+Dialogue: 0,0:56:43.26,0:56:46.46,Default,,0,0,0,,Hội đồng mong chờ lắm,\Nnhưng tôi đã mong là cậu từ chối.
+Dialogue: 0,0:56:46.66,0:56:49.85,Default,,0,0,0,,Vì nếu có ai thắng trò này,\Nthì đó phải là tôi.
+Dialogue: 0,0:56:50.05,0:56:51.45,Default,,0,0,0,,Nhân vật của tôi sẽ có quả trứng
+Dialogue: 0,0:56:51.61,0:56:55.19,Default,,0,0,0,,vì tôi là kẻ duy nhất ở đây\Ncó gan điều hành nơi này.
+Dialogue: 0,0:56:55.34,0:56:57.77,Default,,0,0,0,,Ông lật mặt nhanh ghê.
+Dialogue: 0,0:56:57.97,0:57:00.31,Default,,0,0,0,,Từ kẻ biết điều đến chúa tể điên loạn.
+Dialogue: 0,0:57:01.11,0:57:02.91,Default,,0,0,0,,Cậu nên thấy biết ơn, Wade.
+Dialogue: 0,0:57:04.11,0:57:07.26,Default,,0,0,0,,{\i1}Cậu sẽ không ở đấy\Nđể chịu sự cai trị điên loạn của tôi đâu.{\i0}
+Dialogue: 0,0:57:07.46,0:57:09.12,Default,,0,0,0,,Phải, đúng thế. Tôi biết cậu là ai.
+Dialogue: 0,0:57:09.22,0:57:13.82,Default,,0,0,0,,Wade Owen Watts,\Nsinh ngày 12 tháng 8 năm 2027.
+Dialogue: 0,0:57:14.43,0:57:18.40,Default,,0,0,0,,Tôi còn biết cậu ở đâu nữa,\Nđơn vị 56K, Xa thành Columbus.
+Dialogue: 0,0:57:18.52,0:57:20.98,Default,,0,0,0,,Lần cuối cậu được thấy là lúc\Ncậu chui vào phòng 3 ngày trước.
+Dialogue: 0,0:57:21.19,0:57:22.59,Default,,0,0,0,,Từ đó vẫn chưa đi ra.
+Dialogue: 0,0:57:22.79,0:57:23.86,Default,,0,0,0,,{\i1}Ông đang làm gì vậy? Ông không thể...{\i0}
+Dialogue: 0,0:57:23.89,0:57:25.13,Default,,0,0,0,,Trên thế giới còn biết bao vấn đề...
+Dialogue: 0,0:57:25.16,0:57:26.90,Default,,0,0,0,,cậu nghĩ là có người quan tâm
+Dialogue: 0,0:57:27.05,0:57:30.90,Default,,0,0,0,,đến một vụ nổ\Ntrong khu ổ chuột rác rưởi ở Columbus à?
+Dialogue: 0,0:57:31.10,0:57:33.17,Default,,0,0,0,,{\i1}Sorrento, đừng làm vậy.\NTôi đâu có ở đó!{\i0}
+Dialogue: 0,0:57:33.38,0:57:35.19,Default,,0,0,0,,Không lâu nữa đâu.
+Dialogue: 0,0:57:39.00,0:57:41.04,Default,,0,0,0,,Gọi dì Alice.
+Dialogue: 0,0:57:41.25,0:57:42.85,Default,,0,0,0,,Quay số dì Alice.
+Dialogue: 0,0:58:09.41,0:58:11.13,Default,,0,0,0,,Nghe máy đi! Dì Alice!
+Dialogue: 0,0:58:16.29,0:58:18.63,Default,,0,0,0,,Bộ giáp trợ lực đỉnh lắm.\NCảm ơn nhé.
+Dialogue: 0,0:58:18.79,0:58:20.75,Default,,0,0,0,,Rick! Rick! Nơi này sắp nổ rồi!
+Dialogue: 0,0:58:20.95,0:58:22.25,Default,,0,0,0,,Rick, là Wade à?
+Dialogue: 0,0:58:22.45,0:58:24.41,Default,,0,0,0,,- Đưa máy cho dì Alice!\N- Để em nói chuyện với nó.
+Dialogue: 0,0:58:24.59,0:58:26.53,Default,,0,0,0,,Đừng gọi tới nữa, rõ chưa?
+Dialogue: 0,0:58:27.88,0:58:30.81,Default,,0,0,0,,Tao không muốn nghe thấy giọng mày nữa.
+Dialogue: 0,0:59:07.95,0:59:11.46,Default,,0,0,0,,Gọi Aech, Daito, Sho và Art3mis.
+Dialogue: 0,0:59:12.25,0:59:14.16,Default,,0,0,0,,IOI tìm đến tớ ngoài đời.
+Dialogue: 0,0:59:14.46,0:59:17.17,Default,,0,0,0,,Chúng sẽ truy lùng các cậu,\Nnên dù các cậu ở đâu...
+Dialogue: 0,0:59:43.34,0:59:45.20,Default,,0,0,0,,Xin lỗi về vụ bịt mắt.
+Dialogue: 0,0:59:45.40,0:59:47.45,Default,,0,0,0,,Bạn em hơi hoang tưởng.
+Dialogue: 0,0:59:48.41,0:59:49.95,Default,,0,0,0,,Nói lại xem nào.
+Dialogue: 0,0:59:50.65,0:59:52.88,Default,,0,0,0,,Bạn em hơi hoang tưởng.
+Dialogue: 0,0:59:54.08,0:59:55.49,Default,,0,0,0,,Art3mis?
+Dialogue: 0,0:59:57.05,1:00:00.93,Default,,0,0,0,,Tên thật của em là Samantha,\Nnhưng phải, em là Art3mis.
+Dialogue: 0,1:00:03.03,1:00:05.66,Default,,0,0,0,,Chỗ tắm ở bên đó, cả áo quần sạch nữa.
+Dialogue: 0,1:00:08.96,1:00:12.99,Default,,0,0,0,,Chào mừng đến với quân nổi dậy... Wade.
+Dialogue: 0,1:00:24.17,1:00:28.18,Default,,0,0,0,,Đó là IOI.\NVậy là Xa thành ở kia à?
+Dialogue: 0,1:00:29.67,1:00:32.37,Default,,0,0,0,,Hồi giờ chúng ta ở gần nhau thế cơ à?
+Dialogue: 0,1:00:34.02,1:00:35.23,Default,,0,0,0,,Sát bên nhà.
+Dialogue: 0,1:00:36.19,1:00:40.16,Default,,0,0,0,,Hay khắp thế giới,\Nthì cũng như nhau trong OASIS.
+Dialogue: 0,1:00:41.97,1:00:44.14,Default,,0,0,0,,Nói để em biết...
+Dialogue: 0,1:00:45.91,1:00:47.83,Default,,0,0,0,,anh không hề thất vọng.
+Dialogue: 0,1:00:51.66,1:00:53.53,Default,,0,0,0,,Em nói rằng anh sẽ thất vọng\Nkhi anh gặp em
+Dialogue: 0,1:00:53.63,1:00:55.42,Default,,0,0,0,,nhưng không hề nhé.
+Dialogue: 0,1:00:56.97,1:00:59.78,Default,,0,0,0,,Em mang nó cả đời rồi.\NAnh không cần giả bộ.
+Dialogue: 0,1:01:14.36,1:01:17.03,Default,,0,0,0,,Em có một cái bớt, thì sao?
+Dialogue: 0,1:01:17.97,1:01:19.71,Default,,0,0,0,,Sao nó lại làm anh sợ chứ?
+Dialogue: 0,1:01:26.91,1:01:29.03,Default,,0,0,0,,Z, nếu em làm anh tổn thương, em xin lỗi.
+Dialogue: 0,1:01:29.54,1:01:30.60,Default,,0,0,0,,Không.
+Dialogue: 0,1:01:31.78,1:01:34.16,Default,,0,0,0,,Khoan đã, em mới gọi anh là Z à?
+Dialogue: 0,1:01:35.07,1:01:37.13,Default,,0,0,0,,- Ôi trời ơi. Thế à?\N- Anh nghĩ vậy.
+Dialogue: 0,1:01:37.73,1:01:38.74,Default,,0,0,0,,Wade, em xin lỗi.
+Dialogue: 0,1:01:38.94,1:01:41.06,Default,,0,0,0,,Phải, Wade, Z.
+Dialogue: 0,1:01:41.27,1:01:44.45,Default,,0,0,0,,Em gọi anh thế nào cũng được.\NVà anh sẽ gọi em là Sam.
+Dialogue: 0,1:01:44.60,1:01:45.60,Default,,0,0,0,,Không.
+Dialogue: 0,1:01:46.70,1:01:47.70,Default,,0,0,0,,Samantha?
+Dialogue: 0,1:01:48.25,1:01:50.49,Default,,0,0,0,,Được rồi. Hay đấy.
+Dialogue: 0,1:01:57.82,1:01:59.51,Default,,0,0,0,,Wow!
+Dialogue: 0,1:02:00.31,1:02:02.47,Default,,0,0,0,,Ở ngoài này chậm hơn nhiều.
+Dialogue: 0,1:02:03.81,1:02:07.12,Default,,0,0,0,,Ý anh là gió, con người.
+Dialogue: 0,1:02:09.09,1:02:10.79,Default,,0,0,0,,Mọi thứ.
+Dialogue: 0,1:02:16.12,1:02:18.04,Default,,0,0,0,,Mình đã quên ở bên ngoài ra sao.
+Dialogue: 0,1:02:18.64,1:02:19.64,Default,,0,0,0,,Phải.
+Dialogue: 0,1:02:24.10,1:02:25.29,Default,,0,0,0,,Chết tiệt!
+Dialogue: 0,1:02:26.40,1:02:27.78,Default,,0,0,0,,- Em vừa nghĩ ra.\N- Nghĩ ra cái gì?
+Dialogue: 0,1:02:27.95,1:02:29.63,Default,,0,0,0,,Manh mối thứ 2.\NEm biết ý nghĩa của nó rồi.
+Dialogue: 0,1:02:35.72,1:02:37.21,Default,,0,0,0,,Mình suy nghĩ sát nghĩa đen quá.
+Dialogue: 0,1:02:37.88,1:02:41.45,Default,,0,0,0,,Một bước chưa nhảy,\Nbước mà Halliday chưa nhảy, là với Kira.
+Dialogue: 0,1:02:41.65,1:02:45.23,Default,,0,0,0,,Phải, nhưng ông ấy trách bà ấy đã làm\Ntan vỡ tình bạn của mình với Morrow.
+Dialogue: 0,1:02:45.43,1:02:48.27,Default,,0,0,0,,Không, Halliday yêu bà ấy điên cuồng.
+Dialogue: 0,1:02:48.37,1:02:50.70,Default,,0,0,0,,Ông ấy đã có cơ hội với Kira.\NCó cơ hội hôn bà ấy, nhưng...
+Dialogue: 0,1:02:50.80,1:02:51.83,Default,,0,0,0,,Ông ấy không bước tới.
+Dialogue: 0,1:02:52.03,1:02:54.77,Default,,0,0,0,,Phải. Nên đó là nơi mình sẽ tới.
+Dialogue: 0,1:02:55.87,1:02:57.28,Default,,0,0,0,,Nơi một bước chưa được nhảy.
+Dialogue: 0,1:02:57.55,1:02:58.55,Default,,0,0,0,,Nơi họ hẹn hò.
+Dialogue: 0,1:02:59.08,1:03:00.67,Default,,0,0,0,,Ở chỗ chiếu phim!
+Dialogue: 0,1:03:01.98,1:03:02.98,Default,,0,0,0,,Này, Curator.
+Dialogue: 0,1:03:03.02,1:03:05.06,Default,,0,0,0,,Bọn tôi đã giải được manh mối thứ 2.\NThử thách là ở đây.
+Dialogue: 0,1:03:05.09,1:03:06.92,Default,,0,0,0,,Halliday lưu giữ mọi phim từng xem...
+Dialogue: 0,1:03:07.12,1:03:10.06,Default,,0,0,0,,theo tuần và năm ông ấy đã xem,\Nvà xem bao nhiêu lần.
+Dialogue: 0,1:03:10.27,1:03:14.30,Default,,0,0,0,,Curator, cho bọn tôi xem\Nngày 23 đến 27 tháng 11 năm 2025 nhé?
+Dialogue: 0,1:03:14.98,1:03:16.82,Default,,0,0,0,,Đó là tuần ông ấy hẹn hò với Kira.
+Dialogue: 0,1:03:21.38,1:03:24.86,Default,,0,0,0,,Được rồi, lựa chọn cho tuần đó\Nlà The Fly bản làm lại.
+Dialogue: 0,1:03:25.06,1:03:27.03,Default,,0,0,0,,Phim hay, xem lúc hẹn hò thì dở.
+Dialogue: 0,1:03:27.23,1:03:29.63,Default,,0,0,0,,Say Anything... có vẻ hợp lý.
+Dialogue: 0,1:03:30.64,1:03:35.04,Default,,0,0,0,,Phải nhớ manh mối.\N"Nhà sáng tạo ghét sản phẩm của mình".
+Dialogue: 0,1:03:39.75,1:03:41.50,Default,,0,0,0,,{\i1}The Shining!{\i0}
+Dialogue: 0,1:03:41.61,1:03:43.73,Default,,0,0,0,,Phim kinh dị ưa thích số 11 của Halliday
+Dialogue: 0,1:03:43.93,1:03:47.33,Default,,0,0,0,,và dựa theo cuốn sách bán chạy\Ncủa Stephen King, ông ta ghét bộ phim!
+Dialogue: 0,1:03:47.93,1:03:49.86,Default,,0,0,0,,Này! Không nói chuyện riêng.
+Dialogue: 0,1:03:49.96,1:03:51.36,Default,,0,0,0,,Tớ nghĩ ta tìm ra rồi.
+Dialogue: 0,1:03:55.11,1:03:57.72,Default,,0,0,0,,Cậu chắc là mình muốn tới đây chứ?
+Dialogue: 0,1:03:57.92,1:03:59.42,Default,,0,0,0,,Chắc 100%.
+Dialogue: 0,1:03:59.72,1:04:02.17,Default,,0,0,0,,Mong là cậu có gan xem nó.
+Dialogue: 0,1:04:07.07,1:04:11.76,Default,,0,0,0,,{\b1}RẠP THE OVERLOOK\NBỘ PHIM "THE SHINING" CỦA STANLEY KUNICK{\b0}
+Dialogue: 0,1:04:45.45,1:04:46.62,Default,,0,0,0,,Nhìn kìa.
+Dialogue: 0,1:04:48.15,1:04:50.21,Default,,0,0,0,,Đồng hồ đếm ngược.
+Dialogue: 0,1:04:50.32,1:04:53.03,Default,,0,0,0,,Được rồi, vậy em ước tính là có khoảng
+Dialogue: 0,1:04:54.05,1:04:55.96,Default,,0,0,0,,5 phút để tìm chìa khóa.
+Dialogue: 0,1:04:56.16,1:04:57.73,Default,,0,0,0,,Phải, phim The Shining\Ncó quá trời chìa khóa.
+Dialogue: 0,1:04:57.76,1:04:59.17,Default,,0,0,0,,Bắt đầu từ đâu đây?
+Dialogue: 0,1:05:00.68,1:05:03.87,Default,,0,0,0,,Tớ chưa từng xem The Shining.\NCó đáng sợ thật không?
+Dialogue: 0,1:05:04.68,1:05:07.24,Default,,0,0,0,,Tớ phải lấy tay che mắt đấy.
+Dialogue: 0,1:05:08.01,1:05:10.32,Default,,0,0,0,,Rồi, vậy là có chìa khóa từ phòng 237
+Dialogue: 0,1:05:11.02,1:05:12.57,Default,,0,0,0,,chìa khóa tới xe mèo tuyết
+Dialogue: 0,1:05:12.77,1:05:14.53,Default,,0,0,0,,hoặc chìa khóa họ cho Jack ở đầu phim.
+Dialogue: 0,1:05:14.73,1:05:17.50,Default,,0,0,0,,Nếu là bước chưa nhảy, có lẽ là\Nchìa khóa không phải chìa khóa đâu.
+Dialogue: 0,1:05:17.60,1:05:18.92,Default,,0,0,0,,Tớ biết chìa Mèo tuyết ở đâu rồi!
+Dialogue: 0,1:05:19.10,1:05:20.10,Default,,0,0,0,,Tớ đề nghị chia ra.
+Dialogue: 0,1:05:20.20,1:05:21.24,Default,,0,0,0,,Chúng ta lấy hết chìa khóa
+Dialogue: 0,1:05:21.40,1:05:23.49,Default,,0,0,0,,và hẹn gặp ở căn hộ nha Torrances.
+Dialogue: 0,1:05:27.42,1:05:29.01,Default,,0,0,0,,Chào Danny.
+Dialogue: 0,1:05:30.18,1:05:31.80,Default,,0,0,0,,Lại chơi với bọn em.
+Dialogue: 0,1:05:32.00,1:05:35.22,Default,,0,0,0,,Hai bé, biết cách ra khỏi đây không?
+Dialogue: 0,1:05:40.12,1:05:41.24,Default,,0,0,0,,Khoan, khoan đã!
+Dialogue: 0,1:05:41.44,1:05:43.27,Default,,0,0,0,,Khoan, Aech đâu rồi?
+Dialogue: 0,1:05:43.47,1:05:44.76,Default,,0,0,0,,Khoan đã!
+Dialogue: 0,1:05:45.96,1:05:46.96,Default,,0,0,0,,Aech!
+Dialogue: 0,1:05:47.78,1:05:48.78,Default,,0,0,0,,Không, không!
+Dialogue: 0,1:06:48.46,1:06:51.24,Default,,0,0,0,,Chào, bà khỏa thân, xin lỗi nhé.
+Dialogue: 0,1:06:51.34,1:06:53.15,Default,,0,0,0,,Tôi không định xen vào giờ tắm của bà.
+Dialogue: 0,1:06:53.35,1:06:55.22,Default,,0,0,0,,Tôi biết tự chăm sóc quan trọng lắm.
+Dialogue: 0,1:06:55.42,1:06:58.52,Default,,0,0,0,,Nhưng hãy giúp tôi\Nvà cho tôi biết lối ra ở đâu nhé?
+Dialogue: 0,1:07:03.88,1:07:06.11,Default,,0,0,0,,Được rồi, tôi đang bị trêu à?
+Dialogue: 0,1:07:06.21,1:07:08.43,Default,,0,0,0,,Vì bà thích tôi quá mức.
+Dialogue: 0,1:07:10.04,1:07:12.18,Default,,0,0,0,,Được rồi, bà biết không?\NTôi sẽ xuôi theo.
+Dialogue: 0,1:08:04.11,1:08:05.31,Default,,0,0,0,,Sắp hết thời gian rồi.
+Dialogue: 0,1:08:05.51,1:08:07.41,Default,,0,0,0,,Này, Z, Art3mis giận tớ à?
+Dialogue: 0,1:08:07.61,1:08:09.82,Default,,0,0,0,,Này, tớ giận cậu đấy.\NCậu chưa từng xem The Shining hả?
+Dialogue: 0,1:08:10.02,1:08:11.34,Default,,0,0,0,,Cậu biết tớ ghét phim kinh dị mà!
+Dialogue: 0,1:08:11.49,1:08:12.49,Default,,0,0,0,,Có chìa khóa rồi.
+Dialogue: 0,1:08:12.60,1:08:13.76,Default,,0,0,0,,Tuyệt! Vào phòng 237!
+Dialogue: 0,1:08:14.06,1:08:17.54,Default,,0,0,0,,Mình đâu có việc gì phải vào phòng 237!\NỞ ngoài thì hơn!
+Dialogue: 0,1:08:17.74,1:08:19.89,Default,,0,0,0,,Hơn nữa, trong đó có một bà xác sống\Nở truồng bị điên.
+Dialogue: 0,1:08:19.99,1:08:21.49,Default,,0,0,0,,Làm gì có xác sống trong The Shining.
+Dialogue: 0,1:08:21.69,1:08:23.56,Default,,0,0,0,,Có thể là nó không giống trong phim.
+Dialogue: 0,1:08:23.66,1:08:25.16,Default,,0,0,0,,Kira là mấu chốt.\NChính anh nói mà.
+Dialogue: 0,1:08:25.36,1:08:27.44,Default,,0,0,0,,Này, các cậu. Tớ thấy hình Kira!
+Dialogue: 0,1:08:32.21,1:08:33.21,Default,,0,0,0,,Ở đâu?
+Dialogue: 0,1:08:40.29,1:08:43.48,Default,,0,0,0,,Là Kira. "Thoát khỏi quá khứ".
+Dialogue: 0,1:08:44.36,1:08:46.17,Default,,0,0,0,,"Một bước chưa nhảy".
+Dialogue: 0,1:08:47.54,1:08:50.92,Default,,0,0,0,,Nỗi sợ lớn nhất của Halliday không\Nphải là The Shining hay sách hay phim.
+Dialogue: 0,1:08:52.11,1:08:54.86,Default,,0,0,0,,Nỗi sợ lớn nhất của ông ta\Nlà hôn một cô gái.
+Dialogue: 0,1:08:55.58,1:08:57.87,Default,,0,0,0,,Đó là bước ông ta không dám nhảy.
+Dialogue: 0,1:09:06.12,1:09:07.71,Default,,0,0,0,,Phòng khiêu vũ.
+Dialogue: 0,1:09:22.49,1:09:24.41,Default,,0,0,0,,Aech, đi nào.
+Dialogue: 0,1:09:28.11,1:09:29.99,Default,,0,0,0,,Có xác sống. Đã nói rồi mà.
+Dialogue: 0,1:09:31.45,1:09:32.77,Default,,0,0,0,,Là bà ấy.
+Dialogue: 0,1:09:33.77,1:09:35.24,Default,,0,0,0,,Đó là Kira.
+Dialogue: 0,1:09:38.34,1:09:39.67,Default,,0,0,0,,Đống này không có trong The Shining.
+Dialogue: 0,1:09:39.70,1:09:42.32,Default,,0,0,0,,Z, kìa. Đó là cấp vòng tròn xác sống\Ntrong Lâu đài hỗn loạn
+Dialogue: 0,1:09:42.52,1:09:44.20,Default,,0,0,0,,một trong những trò chơi đầu của Halliday.
+Dialogue: 0,1:09:44.24,1:09:45.99,Default,,0,0,0,,Cả phim Shining này là để đánh lạc hướng.
+Dialogue: 0,1:09:47.16,1:09:48.94,Default,,0,0,0,,Còn một phút.
+Dialogue: 0,1:09:50.31,1:09:51.45,Default,,0,0,0,,Làm sao để đến chỗ bà ấy?
+Dialogue: 0,1:09:51.62,1:09:52.62,Default,,0,0,0,,Nhảy một bước kia.
+Dialogue: 0,1:09:52.82,1:09:53.82,Default,,0,0,0,,Khoan đã!
+Dialogue: 0,1:10:02.20,1:10:04.84,Default,,0,0,0,,Được rồi, anh Chết rồi. Để em dẫn nhé?
+Dialogue: 0,1:10:52.59,1:10:54.39,Default,,0,0,0,,Muốn nhảy không?
+Dialogue: 0,1:10:54.90,1:10:58.30,Default,,0,0,0,,Có biết em chờ anh hỏi bao lâu rồi không?
+Dialogue: 0,1:11:04.18,1:11:06.70,Default,,0,0,0,,Ối chà chà.
+Dialogue: 0,1:11:06.80,1:11:11.16,Default,,0,0,0,,Vậy là cô đã tìm thấy Chìa Ngọc.
+Dialogue: 0,1:11:13.71,1:11:15.58,Default,,0,0,0,,Hình dung mà xem.
+Dialogue: 0,1:11:20.58,1:11:22.16,Default,,0,0,0,,Cảm ơn ông.
+Dialogue: 0,1:11:27.01,1:11:28.96,Default,,0,0,0,,- Kira là một cô gái xinh đẹp...\N- Đi tiếp đi.
+Dialogue: 0,1:11:51.44,1:11:54.27,Default,,0,0,0,,{\b1}NẾU BIẾT ĐÁP ÁN SAU CÙNG,\NCHIA NÓ CHO CON SỐ MA THUẬT...{\b0}
+Dialogue: 0,1:11:58.06,1:12:00.94,Default,,0,0,0,,Một chuyên gia trứng thấy chúng\Nđi vào thư viện truyền thông.
+Dialogue: 0,1:12:01.14,1:12:02.66,Default,,0,0,0,,Cô ta đã giải được manh mối.
+Dialogue: 0,1:12:02.86,1:12:05.90,Default,,0,0,0,,Giờ thì chỉ cần thắng\Nthử thách The Shining.
+Dialogue: 0,1:12:09.01,1:12:11.72,Default,,0,0,0,,Lôi bà ta ra!\NLôi bà ta ra!
+Dialogue: 0,1:12:21.12,1:12:25.73,Default,,0,0,0,,Ông Sorrento,\Ntôi nghĩ ông cần xem cái này.
+Dialogue: 0,1:12:27.79,1:12:29.45,Default,,0,0,0,,Giờ Parzival đã có Chìa Ngọc.
+Dialogue: 0,1:12:34.21,1:12:36.93,Default,,0,0,0,,{\b1}NHẬN DẠNG - WADE WATTS{\b0}
+Dialogue: 0,1:12:40.05,1:12:42.07,Default,,0,0,0,,Nó còn sống.
+Dialogue: 0,1:12:42.47,1:12:44.68,Default,,0,0,0,,Tôi biết. Tôi sẽ gọi lại sau.
+Dialogue: 0,1:12:45.39,1:12:47.37,Default,,0,0,0,,Tôi có thứ cô tìm rồi đây.
+Dialogue: 0,1:12:51.27,1:12:55.51,Default,,0,0,0,,Dừng hình. Gã này.\NGã có hình xăm thấy gớm này.
+Dialogue: 0,1:12:56.13,1:12:57.32,Default,,0,0,0,,Phóng to lên.
+Dialogue: 0,1:12:59.81,1:13:02.95,Default,,0,0,0,,Đối chiếu với cơ sở dữ liệu,\Nmọi máy bay tự hành IOI ở Columbus.
+Dialogue: 0,1:13:03.08,1:13:04.47,Default,,0,0,0,,Tìm hắn đi.
+Dialogue: 0,1:13:19.17,1:13:20.39,Default,,0,0,0,,{\b1}ĐỐI TƯỢNG TÌM KIẾM{\b0}
+Dialogue: 0,1:13:20.49,1:13:22.14,Default,,0,0,0,,{\b1}KHÔNG KHỚP{\b0}
+Dialogue: 0,1:13:22.94,1:13:23.94,Default,,0,0,0,,{\b1}ĐANG XÁC NHẬN{\b0}
+Dialogue: 0,1:13:27.36,1:13:28.36,Default,,0,0,0,,{\b1}TRÙNG KHỚP{\b0}
+Dialogue: 0,1:13:29.47,1:13:31.23,Default,,0,0,0,,{\b1}XÁC NHẬN DANH TÍNH{\b0}
+Dialogue: 0,1:13:31.44,1:13:32.93,Default,,0,0,0,,Đồ tạp phẩm ở đây.
+Dialogue: 0,1:13:33.13,1:13:34.23,Default,,0,0,0,,Được rồi. Gluten-O's...
+Dialogue: 0,1:13:34.43,1:13:36.91,Default,,0,0,0,,"Nếu biết đáp án sau cùng,\Nchia nó cho con số ma thuật
+Dialogue: 0,1:13:37.11,1:13:40.74,Default,,0,0,0,,và thứ bạn cần, muốn và khao khát\Nsẽ được tìm thấy trong pháo đài bi thảm."
+Dialogue: 0,1:13:40.94,1:13:42.97,Default,,0,0,0,,Bi thảm, chắc Halliday nói về chính mình.
+Dialogue: 0,1:13:43.17,1:13:43.98,Default,,0,0,0,,Tại sao chứ?
+Dialogue: 0,1:13:44.18,1:13:45.38,Default,,0,0,0,,Vì ông ta cô độc.
+Dialogue: 0,1:13:45.48,1:13:47.66,Default,,0,0,0,,Ông ta không có ai\Nđể chia sẽ cuộc đời cho đến chết.
+Dialogue: 0,1:13:47.90,1:13:48.91,Default,,0,0,0,,Phải, đúng vậy.
+Dialogue: 0,1:13:49.01,1:13:51.71,Default,,0,0,0,,Cuộc thi hẳn là về việc kết nối với ai đó.
+Dialogue: 0,1:13:52.01,1:13:53.31,Default,,0,0,0,,Ai cũng được.
+Dialogue: 0,1:13:53.51,1:13:56.59,Default,,0,0,0,,Ông ta muốn người quan tâm tới OASIS\Ncó kết nối với đời thực.
+Dialogue: 0,1:13:56.69,1:13:59.21,Default,,0,0,0,,Em nghĩ đó là điều ông ta cố nói.
+Dialogue: 0,1:14:05.23,1:14:06.75,Default,,0,0,0,,Wade.
+Dialogue: 0,1:14:08.84,1:14:10.41,Default,,0,0,0,,Anh hiểu Halliday.
+Dialogue: 0,1:14:11.21,1:14:13.59,Default,,0,0,0,,Anh hiểu ông ta hơn bất cứ ai.
+Dialogue: 0,1:14:14.89,1:14:17.37,Default,,0,0,0,,Đó là lý do em nghĩ anh sẽ thắng.
+Dialogue: 0,1:14:17.87,1:14:20.34,Default,,0,0,0,,Thật à? Em nghĩ anh sẽ thắng thật à?
+Dialogue: 0,1:14:25.62,1:14:27.37,Default,,0,0,0,,Cấm nhúc nhích!
+Dialogue: 0,1:14:32.73,1:14:34.21,Default,,0,0,0,,Đã xác nhận mục tiêu!
+Dialogue: 0,1:14:35.35,1:14:36.82,Default,,0,0,0,,Đứng yên! Cấm nhúc nhích!
+Dialogue: 0,1:14:43.73,1:14:45.26,Default,,0,0,0,,Đường này dẫn thẳng ra hẻm.
+Dialogue: 0,1:14:45.47,1:14:46.20,Default,,0,0,0,,Anh đi trước.
+Dialogue: 0,1:14:46.40,1:14:48.01,Default,,0,0,0,,Em theo ngay sau đây. Đi mau!
+Dialogue: 0,1:14:49.66,1:14:51.00,Default,,0,0,0,,Mau lên!
+Dialogue: 0,1:14:51.20,1:14:53.51,Default,,0,0,0,,- Wade, OASIS cần anh.\N- Gì cơ?
+Dialogue: 0,1:14:53.71,1:14:55.07,Default,,0,0,0,,- Em sẽ giữ chân chúng.\N- Khoan đã!
+Dialogue: 0,1:14:55.11,1:14:56.82,Default,,0,0,0,,Không, không, khoan đã! Không!
+Dialogue: 0,1:14:57.52,1:14:59.55,Default,,0,0,0,,Anh sẽ tha lỗi cho em vụ này, em hứa.
+Dialogue: 0,1:15:08.91,1:15:10.47,Default,,0,0,0,,Đứng yên, đứng yên!
+Dialogue: 0,1:15:11.47,1:15:12.47,Default,,0,0,0,,Cấm nhúc nhích!
+Dialogue: 0,1:15:17.76,1:15:20.23,Default,,0,0,0,,Samantha Evelyn Cook.
+Dialogue: 0,1:15:20.43,1:15:23.90,Default,,0,0,0,,IOI đã mua và hợp nhất\Nmọi khoản nợ chưa thanh toán của cô
+Dialogue: 0,1:15:24.10,1:15:27.29,Default,,0,0,0,,hiện tại vượt quá giá trị 23.000 đơn vị.
+Dialogue: 0,1:15:27.49,1:15:29.98,Default,,0,0,0,,Cô sẽ bị đưa đến\Ntrung tâm thu nợ IOI gần nhất
+Dialogue: 0,1:15:30.18,1:15:31.61,Default,,0,0,0,,đến khi cô trả hết nợ
+Dialogue: 0,1:15:31.81,1:15:34.45,Default,,0,0,0,,gồm cả tiền lãi, tiền kiện cáo
+Dialogue: 0,1:15:34.66,1:15:37.08,Default,,0,0,0,,hoặc phí quá hạn phải trả từ giờ trở đi.
+Dialogue: 0,1:15:37.19,1:15:39.57,Default,,0,0,0,,- Có ai nhìn thấy không?\N- Sang xem phố bên cạnh.
+Dialogue: 0,1:15:52.49,1:15:54.65,Default,,0,0,0,,- "Người đầu có chìa khóa".\N- "Người đầu có quả trứng".
+Dialogue: 0,1:15:54.79,1:15:56.03,Default,,0,0,0,,Khoan, gì cơ?
+Dialogue: 0,1:15:57.03,1:15:59.08,Default,,0,0,0,,"Đừng bao giờ tin\Nngười cậu gặp trong OASIS".
+Dialogue: 0,1:16:00.38,1:16:02.73,Default,,0,0,0,,"Cô ta có thể là một gã nặng tạ rưỡi\Ntên là Chuck..."
+Dialogue: 0,1:16:03.03,1:16:06.17,Default,,0,0,0,,"Sống dưới tầng hầm nhà mẹ\Nở ngoại ô Detroit".
+Dialogue: 0,1:16:08.59,1:16:09.63,Default,,0,0,0,,Aech!
+Dialogue: 0,1:16:10.52,1:16:13.93,Default,,0,0,0,,Helen. Bố tớ gọi là Aech.\NChết tên luôn. Đi thôi!
+Dialogue: 0,1:16:23.92,1:16:26.06,Default,,0,0,0,,Thứ đó đang nhận diện xe của tớ.
+Dialogue: 0,1:16:40.97,1:16:42.85,Default,,0,0,0,,Đi mau. Chúng đã phát hiện ra ta.
+Dialogue: 0,1:16:43.60,1:16:44.65,Default,,0,0,0,,Daito.
+Dialogue: 0,1:16:44.85,1:16:48.04,Default,,0,0,0,,Tên thật của tớ là Toshiro.\NSamantha đã gửi tin cho bọn tớ.
+Dialogue: 0,1:16:48.14,1:16:49.84,Default,,0,0,0,,Cô ấy dặn bọn tớ gặp cậu ở đây.
+Dialogue: 0,1:16:50.05,1:16:51.37,Default,,0,0,0,,Samantha, chúng đã bắt cô ấy tới.
+Dialogue: 0,1:16:51.45,1:16:52.78,Default,,0,0,0,,Trung tâm thu nợ, tớ biết.
+Dialogue: 0,1:16:52.98,1:16:56.13,Default,,0,0,0,,Này, trong một tin tuyệt vời khác,\NLục Binh đã tìm ra thử thách thứ ba.
+Dialogue: 0,1:16:57.03,1:16:58.72,Default,,0,0,0,,- Gì cơ?\N- Mau lên, vào đi!
+Dialogue: 0,1:16:58.92,1:16:59.92,Default,,0,0,0,,Được rồi. Đi thôi.
+Dialogue: 0,1:17:00.12,1:17:02.32,Default,,0,0,0,,Mau lên nào. Đi mau. Được rồi.
+Dialogue: 0,1:17:14.00,1:17:16.23,Default,,0,0,0,,Sao IOI tìm ra thử thách thứ ba lẹ thế?
+Dialogue: 0,1:17:16.43,1:17:19.65,Default,,0,0,0,,IOI giải ra 3 câu đầu của manh mối,\Nnên chúng biết là ở khu 14
+Dialogue: 0,1:17:19.85,1:17:21.57,Default,,0,0,0,,nhưng chúng không hiểu "Pháo đài bi thảm".
+Dialogue: 0,1:17:21.77,1:17:24.21,Default,,0,0,0,,Nên chúng cho mọi nhân viên\Nchúng có vào khu đó
+Dialogue: 0,1:17:24.31,1:17:26.15,Default,,0,0,0,,đến khi tìm đúng pháo đài.
+Dialogue: 0,1:17:27.36,1:17:28.72,Default,,0,0,0,,Sho?
+Dialogue: 0,1:17:28.82,1:17:30.93,Default,,0,0,0,,Rồi, rồi. Em mới 11 tuổi, thì sao?
+Dialogue: 0,1:17:31.03,1:17:32.94,Default,,0,0,0,,Tên thật của cậu ta là Xo.
+Dialogue: 0,1:17:33.14,1:17:35.65,Default,,0,0,0,,Nhưng ai cũng gọi là Sho,\Nchuyện nhỏ mà.
+Dialogue: 0,1:17:35.85,1:17:38.63,Default,,0,0,0,,Không. Chuyện lớn đấy.
+Dialogue: 0,1:17:38.73,1:17:42.12,Default,,0,0,0,,Sho, em là cậu nhóc 11 tuổi\Nbá đạo nhất trần đời đấy.
+Dialogue: 0,1:17:42.22,1:17:43.22,Default,,0,0,0,,Nó biết mà.
+Dialogue: 0,1:17:43.32,1:17:45.33,Default,,0,0,0,,Im đi! Để anh tự nói.
+Dialogue: 0,1:17:45.53,1:17:46.63,Default,,0,0,0,,Aech!
+Dialogue: 0,1:17:50.19,1:17:51.73,Default,,0,0,0,,Chúng ta phải cứu Samantha.
+Dialogue: 0,1:17:51.83,1:17:53.94,Default,,0,0,0,,Đâu thể cứ thế bước qua cửa của IOI.
+Dialogue: 0,1:17:54.14,1:17:56.21,Default,,0,0,0,,Này, tớ đã nghĩ về vụ đó.\NTớ có ý hay hơn.
+Dialogue: 0,1:17:56.41,1:17:58.24,Default,,0,0,0,,Cậu đã thấy thiết bị của Sorrento hả?
+Dialogue: 0,1:17:58.44,1:17:59.44,Default,,0,0,0,,Phải.
+Dialogue: 0,1:17:59.64,1:18:02.84,Default,,0,0,0,,Hãy truy lùng gã đó\Nvà bắt hắn trả Art3mis cho chúng ta.
+Dialogue: 0,1:18:02.94,1:18:04.64,Default,,0,0,0,,Nhưng đầu tiên, tớ phải biết chính xác
+Dialogue: 0,1:18:04.84,1:18:06.71,Default,,0,0,0,,cậu nhớ chừng nào\Nvề thiết bị của Sorrento?
+Dialogue: 0,1:18:08.22,1:18:10.47,Default,,0,0,0,,Nhớ hết luôn.
+Dialogue: 0,1:18:24.27,1:18:28.08,Default,,0,0,0,,{\i1}Bảo vệ, tới buồng thu nợ 31-B.{\i0}
+Dialogue: 0,1:18:32.23,1:18:36.75,Default,,0,0,0,,{\i1}An ninh, vui lòng tới khu 97 để áp giải.{\i0}
+Dialogue: 0,1:18:57.52,1:19:00.31,Default,,0,0,0,,Này, lính mới, làm việc đi.
+Dialogue: 0,1:19:02.47,1:19:03.83,Default,,0,0,0,,Làm việc đi.
+Dialogue: 0,1:19:09.91,1:19:12.98,Default,,0,0,0,,{\i1}Vi phạm lao động.\NVi phạm lao động.{\i0}
+Dialogue: 0,1:19:14.85,1:19:17.90,Default,,0,0,0,,Đặt mấy quả mìn đó cách nhau 1,8 mét.
+Dialogue: 0,1:19:22.86,1:19:24.80,Default,,0,0,0,,Đi tiếp đi!
+Dialogue: 0,1:19:26.35,1:19:27.35,Default,,0,0,0,,Này, mày!
+Dialogue: 0,1:19:29.51,1:19:31.28,Default,,0,0,0,,Đó là thuốc nổ!
+Dialogue: 0,1:19:32.63,1:19:36.21,Default,,0,0,0,,IOI sẽ không hoàn trả xu nào\Nbị mất nếu mày về mo.
+Dialogue: 0,1:19:36.31,1:19:38.01,Default,,0,0,0,,Đi tiếp đi!
+Dialogue: 0,1:19:42.77,1:19:45.78,Default,,0,0,0,,Vậy thử thách này là gì,\Nmột trò chơi gì đó à?
+Dialogue: 0,1:19:45.88,1:19:47.87,Default,,0,0,0,,Là máy Atari 2600, thưa sếp.
+Dialogue: 0,1:19:48.07,1:19:51.55,Default,,0,0,0,,Và mọi trò chơi làm được cho nó,\Ncó cả ngàn khả năng.
+Dialogue: 0,1:19:52.35,1:19:53.35,Default,,0,0,0,,Lên đi!
+Dialogue: 0,1:19:58.15,1:19:59.44,Default,,0,0,0,,Halliday...
+Dialogue: 0,1:19:59.64,1:20:04.23,Default,,0,0,0,,đây là cách ông giải quyết số phận\Nnguồn lực kinh tế trọng yếu nhất thế giới?
+Dialogue: 0,1:20:05.00,1:20:06.87,Default,,0,0,0,,- Khi nào xong thì gọi tôi.\N- Rõ, thưa sếp.
+Dialogue: 0,1:20:07.07,1:20:08.47,Default,,0,0,0,,Đi mau! Không!
+Dialogue: 0,1:20:10.86,1:20:13.43,Default,,0,0,0,,Sau một phút chơi Centipede,\Nbăng tan.
+Dialogue: 0,1:20:14.08,1:20:15.60,Default,,0,0,0,,Phải là trò Joust chứ!
+Dialogue: 0,1:20:15.70,1:20:18.84,Default,,0,0,0,,Halliday vẫn đang giữ kỷ lục thế giới\Nvới bản port của trò đó trên máy 2600.
+Dialogue: 0,1:20:19.04,1:20:20.51,Default,,0,0,0,,Có lẽ ta chỉ cần vượt kỷ lục của ông ấy.
+Dialogue: 0,1:20:20.54,1:20:23.16,Default,,0,0,0,,Pitfall! Trò duy nhất của hệ máy 2600\Nvẫn chưa kết thúc.
+Dialogue: 0,1:20:23.26,1:20:24.50,Default,,0,0,0,,Còn mấy trò Swordquest thì sao?
+Dialogue: 0,1:20:24.62,1:20:25.67,Default,,0,0,0,,Phải! Mấy trò Swordquest.
+Dialogue: 0,1:20:25.87,1:20:28.71,Default,,0,0,0,,Chúng được tạo ra\Ntrong cuộc thi do Atari tổ chức với...
+Dialogue: 0,1:20:36.45,1:20:38.06,Default,,0,0,0,,i-R0k, tình hình sao rồi?
+Dialogue: 0,1:20:39.40,1:20:41.42,Default,,0,0,0,,Nói thật, tôi nghĩ\Ntôi cần vật lý trị liệu vì...
+Dialogue: 0,1:20:41.72,1:20:43.73,Default,,0,0,0,,Quả cầu sẵn sàng chưa?
+Dialogue: 0,1:20:44.73,1:20:46.40,Default,,0,0,0,,Như anh muốn.
+Dialogue: 0,1:20:50.57,1:20:51.57,Default,,0,0,0,,Quả cầu...
+Dialogue: 0,1:20:51.77,1:20:53.17,Default,,0,0,0,,Osuvox.
+Dialogue: 0,1:20:55.18,1:20:56.52,Default,,0,0,0,,Nó hoạt động ra sao?
+Dialogue: 0,1:20:56.72,1:21:00.60,Default,,0,0,0,,Nó có điều khiển từ xa\Nhay có nút bấm nào đó không?
+Dialogue: 0,1:21:00.70,1:21:04.17,Default,,0,0,0,,Nolan, nó là cổ vật phép cấp 99
+Dialogue: 0,1:21:04.37,1:21:07.94,Default,,0,0,0,,đâu phải drone của anh,\Nnên cần thần chú để kích hoạt.
+Dialogue: 0,1:21:08.04,1:21:10.12,Default,,0,0,0,,Anh muốn nhận vinh dự ấy không?
+Dialogue: 0,1:21:20.48,1:21:22.87,Default,,0,0,0,,{\i1}Hơi thở của rắn, bùa mê của sinh tử...{\i0}
+Dialogue: 0,1:21:22.97,1:21:24.77,Default,,0,0,0,,{\i1}điềm báo của kiến tạo.{\i0}
+Dialogue: 0,1:21:24.87,1:21:27.49,Default,,0,0,0,,{\i1}Hơi thở của rắn, bùa mê của sinh tử...{\i0}
+Dialogue: 0,1:21:27.59,1:21:29.54,Default,,0,0,0,,{\i1}điềm báo của kiến tạo.{\i0}
+Dialogue: 0,1:21:29.65,1:21:32.36,Default,,0,0,0,,{\i1}Hơi thở của rắn, bùa mê của sinh tử...{\i0}
+Dialogue: 0,1:21:32.56,1:21:34.48,Default,,0,0,0,,{\i1}điềm báo của kiến tạo.{\i0}
+Dialogue: 0,1:22:02.13,1:22:03.33,Default,,0,0,0,,Cô ấy đâu rồi?
+Dialogue: 0,1:22:03.53,1:22:04.65,Default,,0,0,0,,Sao cậu vào đây được?
+Dialogue: 0,1:22:04.75,1:22:05.86,Default,,0,0,0,,- Art3mis.\N- Ai?
+Dialogue: 0,1:22:06.06,1:22:09.12,Default,,0,0,0,,Samantha Cook. Cô ấy ở đâu?
+Dialogue: 0,1:22:10.79,1:22:14.01,Default,,0,0,0,,Muốn nói chuyện thì nói,\Nnhưng cậu phải bỏ súng xuống.
+Dialogue: 0,1:22:14.61,1:22:16.90,Default,,0,0,0,,Ông đã giết chị của mẹ tôi.
+Dialogue: 0,1:22:17.50,1:22:19.01,Default,,0,0,0,,Ông nghĩ tôi sẽ không giết ông à?
+Dialogue: 0,1:22:19.21,1:22:23.26,Default,,0,0,0,,Này. Chậm lại đã, được chứ?
+Dialogue: 0,1:22:23.36,1:22:26.56,Default,,0,0,0,,Đó là quyết định công việc thôi.\NKhông phải tư thù nhé.
+Dialogue: 0,1:22:26.76,1:22:27.76,Default,,0,0,0,,Cô ấy đâu?
+Dialogue: 0,1:22:27.87,1:22:30.29,Default,,0,0,0,,Cô ta ở trung tâm thu nợ dưới lầu!
+Dialogue: 0,1:22:30.39,1:22:33.17,Default,,0,0,0,,Tôi biết là cô ấy\Nở trung tâm thu nợ rồi.
+Dialogue: 0,1:22:33.78,1:22:36.07,Default,,0,0,0,,Ông sẽ nói tôi nghe\Ncô ấy đang ở thiết bị nào
+Dialogue: 0,1:22:36.17,1:22:38.59,Default,,0,0,0,,và mã truy cập để liên lạc với cô ấy.
+Dialogue: 0,1:22:39.65,1:22:41.90,Default,,0,0,0,,Phải, có vẻ hợp lý đấy.
+Dialogue: 0,1:22:44.86,1:22:46.73,Default,,0,0,0,,Bắt đầu với mã truy cập.
+Dialogue: 0,1:22:48.10,1:22:50.14,Default,,0,0,0,,6, 45, 7, 25.
+Dialogue: 0,1:22:50.24,1:22:51.50,Default,,0,0,0,,Thiết bị ở đâu?
+Dialogue: 0,1:23:02.41,1:23:03.97,Default,,0,0,0,,Tớ nghĩ hắn tè ra người rồi.
+Dialogue: 0,1:23:04.51,1:23:06.46,Default,,0,0,0,,Giỏi lắm, Z.\NĐã vào tài khoản của hắn.
+Dialogue: 0,1:23:06.66,1:23:08.50,Default,,0,0,0,,Vậy là hắn không biết\Nhắn đang ở trong OASIS à?
+Dialogue: 0,1:23:08.54,1:23:10.65,Default,,0,0,0,,{\b1}THẾ GIỚI THỰC{\b0}
+Dialogue: 0,1:23:10.85,1:23:13.26,Default,,0,0,0,,Đây là cái lẽ ra Sorrento đang thấy...
+Dialogue: 0,1:23:13.46,1:23:16.49,Default,,0,0,0,,nhưng đây là cái chúng ta cho hắn thấy.
+Dialogue: 0,1:23:17.59,1:23:20.56,Default,,0,0,0,,Chúng ta tóm hắn lúc chuyển tiếp\Nkhi hắn vừa thoát khỏi OASIS
+Dialogue: 0,1:23:20.66,1:23:23.36,Default,,0,0,0,,nên hắn tưởng\Nmình đã quay lại văn phòng ngoài đời.
+Dialogue: 0,1:23:23.56,1:23:27.20,Default,,0,0,0,,Nhưng thực ra, hắn ở đây,\Ntrong văn phòng giống hệt mà Aech chế.
+Dialogue: 0,1:23:27.40,1:23:29.89,Default,,0,0,0,,Nên, về cơ bản\Nlà cậu vừa hack thiết bị của hắn từ xa.
+Dialogue: 0,1:23:30.09,1:23:33.01,Default,,0,0,0,,Thiết bị cố định như của Sorrento\Ndễ xây, khó hack.
+Dialogue: 0,1:23:33.21,1:23:35.65,Default,,0,0,0,,Trừ khi hắn đủ ngu\Nđể đặt mật khẩu quanh đó.
+Dialogue: 0,1:23:35.85,1:23:37.17,Default,,0,0,0,,Trung tâm thu nợ, tớ vào rồi.
+Dialogue: 0,1:23:37.28,1:23:39.08,Default,,0,0,0,,Được rồi, làm việc thôi.
+Dialogue: 0,1:23:46.80,1:23:49.09,Default,,0,0,0,,- Arty.\N- Z? Z à?
+Dialogue: 0,1:23:49.29,1:23:52.64,Default,,0,0,0,,Arty, đừng nói gì cả.\NAnh vào trực tiếp kênh âm thanh của em đó.
+Dialogue: 0,1:23:54.25,1:23:55.47,Default,,0,0,0,,{\i1}Sao anh tìm ra em?{\i0}
+Dialogue: 0,1:23:55.67,1:23:58.07,Default,,0,0,0,,Bọn anh có mật khẩu của hắn,\Nhack được thiết bị của Sorrento.
+Dialogue: 0,1:23:59.16,1:24:00.98,Default,,0,0,0,,Z, em muốn nói với anh cái này.
+Dialogue: 0,1:24:01.18,1:24:03.36,Default,,0,0,0,,{\i1}Để sau đi. Anh cho em xem một thứ\Ngiúp em thoát ra.{\i0}
+Dialogue: 0,1:24:03.56,1:24:06.49,Default,,0,0,0,,Lục Binh đã tìm ra thử thách thứ ba.\NTrên hành tinh Doom.
+Dialogue: 0,1:24:06.89,1:24:10.36,Default,,0,0,0,,Còn nữa, chúng mới đặt trường lực\Nquanh lâu đài của Anorak.
+Dialogue: 0,1:24:14.86,1:24:17.35,Default,,0,0,0,,Nghe một tên lính gác nói\Nnó là cầu Osuvox
+Dialogue: 0,1:24:17.55,1:24:19.94,Default,,0,0,0,,và cách duy nhất\Nhạ nó xuống là từ bên trong.
+Dialogue: 0,1:24:20.04,1:24:23.18,Default,,0,0,0,,Cô ấy nói đúng. Cổ vật 99
+Dialogue: 0,1:24:23.28,1:24:26.15,Default,,0,0,0,,tạo ra rào chắn kháng phép,\Nkhông thể xuyên thủng.
+Dialogue: 0,1:24:26.25,1:24:27.37,Default,,0,0,0,,Không qua được.
+Dialogue: 0,1:24:27.39,1:24:28.92,Default,,0,0,0,,Rồi, nghe này.\NGiờ vụ đó không quan trọng.
+Dialogue: 0,1:24:28.95,1:24:31.02,Default,,0,0,0,,Quan trọng là đưa em ra khỏi thiết bị đó.
+Dialogue: 0,1:24:33.79,1:24:36.16,Default,,0,0,0,,{\i1}Được rồi, anh đang nhìn\Nsơ đồ thiết bị của em.{\i0}
+Dialogue: 0,1:24:39.03,1:24:40.97,Default,,0,0,0,,Nếu em đưa tay trái lên hướng 11 giờ
+Dialogue: 0,1:24:41.17,1:24:43.10,Default,,0,0,0,,có bảng điều khiển trên đầu em.
+Dialogue: 0,1:24:47.93,1:24:49.93,Default,,0,0,0,,Rồi, rồi. Rồi, em thấy rồi.
+Dialogue: 0,1:24:50.13,1:24:51.86,Default,,0,0,0,,{\i1}Được rồi, trên đó sẽ có hai chốt tháo.{\i0}
+Dialogue: 0,1:24:51.96,1:24:53.36,Default,,0,0,0,,{\i1}Hướng chín và bà giờ. Em thấy chưa?{\i0}
+Dialogue: 0,1:24:53.54,1:24:55.88,Default,,0,0,0,,- Rồi, em thấy rồi.\N- Rồi, kéo về phía em.
+Dialogue: 0,1:24:58.36,1:24:59.90,Default,,0,0,0,,{\i1}Được rồi, trong bảng điều khiển,\Ncó một cái cần.{\i0}
+Dialogue: 0,1:24:59.90,1:25:02.33,Default,,0,0,0,,{\i1}Cầm bằng tay phải và gạt sang trái.{\i0}
+Dialogue: 0,1:25:02.63,1:25:04.07,Default,,0,0,0,,{\i1}Vậy thì em sẽ được thả.{\i0}
+Dialogue: 0,1:25:11.45,1:25:13.25,Default,,0,0,0,,Được rồi. Được rồi, em ra rồi.
+Dialogue: 0,1:25:14.17,1:25:19.05,Default,,0,0,0,,{\i1}Buồng thu nợ 41-F,\Nbạn đang nghỉ có phép 10 phút.{\i0}
+Dialogue: 0,1:25:24.50,1:25:27.53,Default,,0,0,0,,{\i1}Buồng 41-F,\Nbạn đang nghỉ có phép 10 phút.{\i0}
+Dialogue: 0,1:25:27.73,1:25:29.76,Default,,0,0,0,,{\i1}Hãy tiến tới khu vực nghỉ.{\i0}
+Dialogue: 0,1:25:31.15,1:25:32.34,Default,,0,0,0,,Wade, anh còn đó chứ?
+Dialogue: 0,1:25:32.44,1:25:33.55,Default,,0,0,0,,{\i1}Ừ, anh đây. Em ở đâu?{\i0}
+Dialogue: 0,1:25:33.65,1:25:34.82,Default,,0,0,0,,Phòng của anh ở đâu?
+Dialogue: 0,1:25:34.92,1:25:37.20,Default,,0,0,0,,{\i1}Trong phòng chiến tranh của IOI,\Ntrên em 2 tầng{\i0}
+Dialogue: 0,1:25:37.30,1:25:38.87,Default,,0,0,0,,{\i1}nhưng đó không phải lối ra.{\i0}
+Dialogue: 0,1:25:39.07,1:25:40.67,Default,,0,0,0,,Mật khẩu của hắn là gì?
+Dialogue: 0,1:25:41.92,1:25:43.10,Default,,0,0,0,,Wade, trả lời đi.
+Dialogue: 0,1:25:43.20,1:25:47.07,Default,,0,0,0,,Được rồi, là B in hoa 0-55-man-69.
+Dialogue: 0,1:25:47.27,1:25:49.58,Default,,0,0,0,,{\i1}Nhưng Arty, em phải đi ngay.{\i0}
+Dialogue: 0,1:25:49.68,1:25:50.97,Default,,0,0,0,,Anh phải triệu tập một đội quân.
+Dialogue: 0,1:25:51.88,1:25:52.94,Default,,0,0,0,,Một đội quân à?
+Dialogue: 0,1:25:53.14,1:25:55.09,Default,,0,0,0,,{\i1}Tới hành tinh Doom,\Nvà chờ tín hiệu của em.{\i0}
+Dialogue: 0,1:25:55.29,1:25:56.29,Default,,0,0,0,,Tín hiệu gì?
+Dialogue: 0,1:25:56.48,1:25:57.64,Default,,0,0,0,,Em sẽ hạ lá chắn đó.
+Dialogue: 0,1:25:57.84,1:26:00.25,Default,,0,0,0,,{\i1}Khoan, Arty, khoan đã!\NEm phải ra khỏi đó ngay! Arty!{\i0}
+Dialogue: 0,1:26:08.96,1:26:11.39,Default,,0,0,0,,Này, chúng trả cậu bao nhiêu?
+Dialogue: 0,1:26:11.49,1:26:13.14,Default,,0,0,0,,Vì, chú em, tôi nhiều tiền lắm.
+Dialogue: 0,1:26:13.34,1:26:15.56,Default,,0,0,0,,Cậu biết đấy,\Ntôi có thể cho cậu cả núi.
+Dialogue: 0,1:26:15.76,1:26:17.76,Default,,0,0,0,,Này, im mồm.
+Dialogue: 0,1:26:17.96,1:26:19.10,Default,,0,0,0,,Được rồi.
+Dialogue: 0,1:26:41.72,1:26:43.92,Default,,0,0,0,,Đây không phải là thật,\Nbọn mày chèn kênh của tao.
+Dialogue: 0,1:26:44.03,1:26:45.93,Default,,0,0,0,,Tiêu rồi. Các cậu.
+Dialogue: 0,1:27:04.51,1:27:07.04,Default,,0,0,0,,F'Nale, chúng đã hack thiết bị của tôi.\NChúng đi tìm con bé.
+Dialogue: 0,1:27:07.24,1:27:08.94,Default,,0,0,0,,Gặp tôi dưới khu thu nợ.
+Dialogue: 0,1:27:23.11,1:27:26.46,Default,,0,0,0,,{\i1}Buồng 41-F,\Nbạn đã vượt quá thời gian nghỉ.{\i0}
+Dialogue: 0,1:27:26.66,1:27:30.98,Default,,0,0,0,,{\i1}Trình diện với an ninh,\Nhoặc xu của bạn sẽ đặt lại về không.{\i0}
+Dialogue: 0,1:27:39.32,1:27:43.98,Default,,0,0,0,,Vậy là nó cứ thế bước ra khỏi đây à?\NSao lại có thể như vậy?
+Dialogue: 0,1:27:44.18,1:27:46.13,Default,,0,0,0,,Chúng khôn mà.\NChúng biết việc mình làm.
+Dialogue: 0,1:27:46.33,1:27:49.01,Default,,0,0,0,,Nhưng ta biết chúng ở Columbus.\NVà giờ, năm đứa đó ở chung.
+Dialogue: 0,1:27:49.21,1:27:51.58,Default,,0,0,0,,Khoan, chúng ta biết gì?\NSao mà biết?
+Dialogue: 0,1:27:51.78,1:27:55.38,Default,,0,0,0,,Chúng ta có hình dáng và mẫu mã chiếc xe.\NChúng ta sẽ tìm ra chúng.
+Dialogue: 0,1:27:55.48,1:27:57.51,Default,,0,0,0,,"Chúng ta sẽ tìm ra chúng" à?
+Dialogue: 0,1:27:57.61,1:28:00.69,Default,,0,0,0,,Cái đó rất hợp để in lên mộ chúng ta đấy.
+Dialogue: 0,1:28:00.89,1:28:02.22,Default,,0,0,0,,Sao không kể với tôi từ sớm?
+Dialogue: 0,1:28:02.42,1:28:03.82,Default,,0,0,0,,Khi đó chưa liên quan.
+Dialogue: 0,1:28:04.02,1:28:05.15,Default,,0,0,0,,Tôi cần biết chúng ở đâu.
+Dialogue: 0,1:28:05.25,1:28:06.78,Default,,0,0,0,,Chúng ta cần biết chúng.\NChúng ta cần tìm chúng.
+Dialogue: 0,1:28:06.81,1:28:09.71,Default,,0,0,0,,Chúng là con nít mà, Nolan.\NĐàn ông lên giùm đi.
+Dialogue: 0,1:28:09.91,1:28:12.99,Default,,0,0,0,,Anh làm việc của anh, tôi làm việc\Ncủa tôi, trừ khi anh muốn cầm nó
+Dialogue: 0,1:28:13.09,1:28:15.07,Default,,0,0,0,,và tự truy lùng chúng.
+Dialogue: 0,1:28:19.69,1:28:20.94,Default,,0,0,0,,Tìm chúng đi!
+Dialogue: 0,1:28:29.97,1:28:34.52,Default,,0,0,0,,Trọn bộ Nancy Drew,\Nbài tập Kegel cho...
+Dialogue: 0,1:28:38.98,1:28:41.02,Default,,0,0,0,,"Chúc mừng, bạn là chủ nhân\Ntự hào của cầu Osuvox.
+Dialogue: 0,1:28:41.22,1:28:42.55,Default,,0,0,0,,Cổ vật phép cấp 99.
+Dialogue: 0,1:28:42.65,1:28:45.90,Default,,0,0,0,,Đọc kỹ hướng dẫn trước khi dùng.\NĐể bật, tắt quả cầu".
+Dialogue: 0,1:28:46.00,1:28:47.31,Default,,0,0,0,,Tắt! Đúng rồi, tắt.
+Dialogue: 0,1:28:47.42,1:28:49.67,Default,,0,0,0,,"Đọc thần chú cách quả cầu dưới 3 mét".
+Dialogue: 0,1:28:51.67,1:28:54.14,Default,,0,0,0,,{\i1}"Hơi thở của rắn, bùa mê của sinh tử,{\i0}
+Dialogue: 0,1:28:54.35,1:28:55.67,Default,,0,0,0,,{\i1}điềm báo của kiến tạo".{\i0}
+Dialogue: 0,1:29:03.68,1:29:05.95,Default,,0,0,0,,{\i1}Các công dân OASIS,{\i0}
+Dialogue: 0,1:29:06.05,1:29:08.24,Default,,0,0,0,,{\i1}tôi là Parzival,\Nngười đầu tiên có chìa khóa.{\i0}
+Dialogue: 0,1:29:08.74,1:29:11.70,Default,,0,0,0,,Tôi tới nói chuyện với mọi người,\Nvì tương lai đang bị đe dọa
+Dialogue: 0,1:29:11.80,1:29:15.00,Default,,0,0,0,,bởi kẻ sẽ chẳng từ điều gì\Nđể thắng cuộc thi này.
+Dialogue: 0,1:29:15.66,1:29:17.54,Default,,0,0,0,,Một số các bạn đã biết điều này
+Dialogue: 0,1:29:17.74,1:29:21.18,Default,,0,0,0,,và các bạn mất nhiều hơn\Nlà nhân vật hay vũ khí của mình.
+Dialogue: 0,1:29:21.84,1:29:25.71,Default,,0,0,0,,Có người mất tự do.\NCó người mất mạng.
+Dialogue: 0,1:29:28.31,1:29:30.28,Default,,0,0,0,,Và giờ là, chuyện này.
+Dialogue: 0,1:29:31.11,1:29:34.03,Default,,0,0,0,,{\i1}Có trường lực quanh thử thách thứ ba.{\i0}
+Dialogue: 0,1:29:36.51,1:29:39.66,Default,,0,0,0,,{\i1}Tôi chỉ đến đây\Nđể thoát khỏi hiện thực khó khăn{\i0}
+Dialogue: 0,1:29:40.56,1:29:43.24,Default,,0,0,0,,{\i1}nhưng tôi ở lại,\Nnhư rất nhiều người khác{\i0}
+Dialogue: 0,1:29:43.44,1:29:48.11,Default,,0,0,0,,{\i1}vì tôi đã tìm thấy một điều\Nlớn lao hơn bản thân tôi rất nhiều.{\i0}
+Dialogue: 0,1:29:48.51,1:29:50.21,Default,,0,0,0,,{\i1}Tôi tìm thấy mục đích.{\i0}
+Dialogue: 0,1:29:51.44,1:29:53.55,Default,,0,0,0,,{\i1}Tôi tìm thấy bạn bè.{\i0}
+Dialogue: 0,1:29:54.75,1:29:58.35,Default,,0,0,0,,{\i1}Và phải, tôi biết là chuyện hơi cũ{\i0}
+Dialogue: 0,1:29:59.51,1:30:01.04,Default,,0,0,0,,{\i1}nhưng tôi đã tìm thấy tình yêu.{\i0}
+Dialogue: 0,1:30:02.38,1:30:06.53,Default,,0,0,0,,{\i1}Và tôi không muốn đánh mất điều đó\Nvào tay gã siêu khốn nạn, Nolan Sorrento.{\i0}
+Dialogue: 0,1:30:06.63,1:30:09.97,Default,,0,0,0,,Thằng này. Quay lại làm việc đi, mọi người.
+Dialogue: 0,1:30:10.87,1:30:13.66,Default,,0,0,0,,{\i1}Hắn nghĩ chúng ta\Nđều quá phân tâm để chú ý...{\i0}
+Dialogue: 0,1:30:15.09,1:30:19.68,Default,,0,0,0,,{\i1}Nolan Sorrento nghĩ\Nrằng chúng ta không dám đấu tranh.{\i0}
+Dialogue: 0,1:30:19.88,1:30:21.16,Default,,0,0,0,,Sếp! Sếp!
+Dialogue: 0,1:30:21.26,1:30:23.46,Default,,0,0,0,,- Nó được phát trực tiếp!\N{\i1}- Thứ duy nhất Halliday để gã này làm...{\i0}
+Dialogue: 0,1:30:23.49,1:30:25.94,Default,,0,0,0,,- Ở mọi nơi luôn.\N{\i1}- Là lấy cà phê cho ông ấy.{\i0}
+Dialogue: 0,1:30:26.04,1:30:27.60,Default,,0,0,0,,{\i1}Và giờ, ta phải giao OASIS cho hắn sao?{\i0}
+Dialogue: 0,1:30:35.57,1:30:38.23,Default,,0,0,0,,Cái thằng Parzival này... Trời ạ.
+Dialogue: 0,1:30:42.26,1:30:44.72,Default,,0,0,0,,Mau lên. Đưa nó cho tôi.
+Dialogue: 0,1:30:44.93,1:30:46.01,Default,,0,0,0,,Vâng, thưa sếp.
+Dialogue: 0,1:30:46.61,1:30:48.62,Default,,0,0,0,,Tay trái.
+Dialogue: 0,1:30:48.82,1:30:51.13,Default,,0,0,0,,- Tay trái!\N- Sếp!
+Dialogue: 0,1:30:51.44,1:30:53.26,Default,,0,0,0,,Không, tôi không cần tay trái.
+Dialogue: 0,1:30:53.37,1:30:55.52,Default,,0,0,0,,Không, tôi mặc kệ nếu...\NTôi muốn bật lên.
+Dialogue: 0,1:30:57.35,1:31:00.03,Default,,0,0,0,,Hắn nghĩ chúng ta không dám kháng cự!
+Dialogue: 0,1:31:00.23,1:31:02.84,Default,,0,0,0,,Tôi cho là hắn nhầm rồi.
+Dialogue: 0,1:31:03.04,1:31:06.60,Default,,0,0,0,,Đi mà nói với mấy đội\Nthợ săn ở mỏ vàng Gygax.
+Dialogue: 0,1:31:06.80,1:31:09.95,Default,,0,0,0,,Kích hoạt Iron Giant.
+Dialogue: 0,1:31:34.14,1:31:39.01,Default,,0,0,0,,{\i1}Tự hỏi chính mình đi,\Ncác bạn có sẵn sàng về mo vì OASIS?{\i0}
+Dialogue: 0,1:31:39.21,1:31:41.16,Default,,0,0,0,,{\i1}Các bạn có sẵn sàng chiến đấu?{\i0}
+Dialogue: 0,1:31:42.37,1:31:45.01,Default,,0,0,0,,{\i1}Tôi là Parzival của nhóm Ngũ Đại.{\i0}
+Dialogue: 0,1:31:45.22,1:31:50.03,Default,,0,0,0,,{\i1}Thay mặt Art3mis, thay mặt Aech,\Nthay mặt Daito và Sho{\i0}
+Dialogue: 0,1:31:50.23,1:31:53.08,Default,,0,0,0,,{\i1}mời các bạn sát cánh\Nvới chúng tôi trên hành tinh Doom.{\i0}
+Dialogue: 0,1:31:54.09,1:31:57.09,Default,,0,0,0,,Nhân danh chính James Halliday,
+Dialogue: 0,1:31:57.19,1:31:59.36,Default,,0,0,0,,hãy giúp chúng tôi cứu OASIS.
+Dialogue: 0,1:32:54.19,1:32:56.65,Default,,0,0,0,,Không, không, không.
+Dialogue: 0,1:33:06.81,1:33:09.58,Default,,0,0,0,,"Người có bạn bè\Nkhông phải là người thất bại".
+Dialogue: 0,1:33:31.50,1:33:34.67,Default,,0,0,0,,{\i1}Sư đoàn 14,\Nlên giáp đi, các bạn dẫn đầu.{\i0}
+Dialogue: 0,1:33:47.59,1:33:50.46,Default,,0,0,0,,Sau một phút chơi Swordquest, băng tan.
+Dialogue: 0,1:33:53.83,1:33:55.63,Default,,0,0,0,,Đã hết ba màn Swordquest.\NTiếp theo là gì?
+Dialogue: 0,1:33:55.83,1:33:57.46,Default,,0,0,0,,{\i1}Dark Cavern, Laser Blast.{\i0}
+Dialogue: 0,1:33:57.66,1:33:58.70,Default,,0,0,0,,Là Adventure.
+Dialogue: 0,1:33:58.96,1:34:01.06,Default,,0,0,0,,Phát hành năm 1979 trên máy 2600.
+Dialogue: 0,1:34:01.16,1:34:02.73,Default,,0,0,0,,Adventure được tạo ra bởi Warren Robinett.
+Dialogue: 0,1:34:02.76,1:34:05.19,Default,,0,0,0,,Nhà thiết kế trò chơi đầu tiên\Ngiấu thân phận. Thực ra...
+Dialogue: 0,1:34:05.40,1:34:07.40,Default,,0,0,0,,Thử Adventure đi.
+Dialogue: 0,1:34:08.70,1:34:10.18,Default,,0,0,0,,Mở Adventure.
+Dialogue: 0,1:35:02.54,1:35:04.72,Default,,0,0,0,,Hơn một phút rồi, chúng ta còn sống.
+Dialogue: 0,1:35:04.93,1:35:06.77,Default,,0,0,0,,Chắc là đúng trò rồi.
+Dialogue: 0,1:35:06.97,1:35:08.83,Default,,0,0,0,,{\i1}Hơi thở của rắn,{\i0}
+Dialogue: 0,1:35:08.93,1:35:10.04,Default,,0,0,0,,{\i1}bùa mê của sinh tử{\i0}
+Dialogue: 0,1:35:10.84,1:35:12.44,Default,,0,0,0,,{\i1}điềm báo của kiến tạo.{\i0}
+Dialogue: 0,1:35:13.68,1:35:16.48,Default,,0,0,0,,Nó kéo dài bao lâu, quả cầu ấy?
+Dialogue: 0,1:35:19.82,1:35:22.42,Default,,0,0,0,,{\i1}Hơi thở của rắn, bùa mê của sinh tử,{\i0}
+Dialogue: 0,1:35:22.62,1:35:23.92,Default,,0,0,0,,{\i1}điềm báo của kiến tạo.{\i0}
+Dialogue: 0,1:35:24.02,1:35:26.41,Default,,0,0,0,,Tôi cho là khoảng 10...
+Dialogue: 0,1:35:26.62,1:35:29.88,Default,,0,0,0,,Phải, khoảng 10 triệu năm,\Nnên chúng ta sẽ ổn thôi.
+Dialogue: 0,1:35:30.08,1:35:33.05,Default,,0,0,0,,{\i1}Hơi thở của rắn, bùa mê của sinh tử,{\i0}
+Dialogue: 0,1:35:33.25,1:35:35.11,Default,,0,0,0,,{\i1}điềm báo của kiến tạo.{\i0}
+Dialogue: 0,1:35:47.23,1:35:48.98,Default,,0,0,0,,Người đầu tiên có chìa khóa!
+Dialogue: 0,1:35:49.08,1:35:50.78,Default,,0,0,0,,Người đầu tiên có quả trứng!
+Dialogue: 0,1:35:50.98,1:35:52.42,Default,,0,0,0,,Người đầu tiên có quả trứng!
+Dialogue: 0,1:35:52.63,1:35:53.75,Default,,0,0,0,,Người đầu tiên có quả trứng!
+Dialogue: 0,1:36:19.39,1:36:21.11,Default,,0,0,0,,{\b1}GÓC NHÌN TĂNG CƯỜNG{\b0}
+Dialogue: 0,1:36:22.21,1:36:23.37,Default,,0,0,0,,{\i1}Adventure.{\i0}
+Dialogue: 0,1:36:40.40,1:36:41.93,Default,,0,0,0,,Gì cơ? thôi nào!
+Dialogue: 0,1:37:15.16,1:37:17.89,Default,,0,0,0,,Lục Binh đã vào thử thách cuối.\NMột máy điện tử Atari 2600.
+Dialogue: 0,1:37:18.09,1:37:19.84,Default,,0,0,0,,Em ở phòng chiến tranh lục binh à?
+Dialogue: 0,1:37:20.27,1:37:21.63,Default,,0,0,0,,Không, không. Em phải rời khỏi đó.
+Dialogue: 0,1:37:21.82,1:37:23.42,Default,,0,0,0,,Họ đang chơi Adventure.
+Dialogue: 0,1:37:24.22,1:37:26.37,Default,,0,0,0,,{\i1}Adventure, hẳn rồi!{\i0}
+Dialogue: 0,1:37:26.57,1:37:28.02,Default,,0,0,0,,Do Warren Robinett tạo ra!
+Dialogue: 0,1:37:28.22,1:37:29.78,Default,,0,0,0,,Nhà thiết kế đầu tiên\Ntừng giấu trứng Phục sinh trong...
+Dialogue: 0,1:37:29.81,1:37:30.91,Default,,0,0,0,,Kìa anh!
+Dialogue: 0,1:37:35.93,1:37:38.54,Default,,0,0,0,,Chúng tôi đang tìm\Nmột xe tải Bưu điện, biển số Ohio,
+Dialogue: 0,1:37:38.74,1:37:41.82,Default,,0,0,0,,ống xả tự động, mẫu của năm 2036.
+Dialogue: 0,1:37:50.48,1:37:53.94,Default,,0,0,0,,{\b1}ĐANG TÌM - KHÔNG KHỚP{\b0}
+Dialogue: 0,1:38:00.43,1:38:03.66,Default,,0,0,0,,Daito! Khi nào cậu mới tham chiến?
+Dialogue: 0,1:38:17.51,1:38:18.82,Default,,0,0,0,,Em hết đạn rồi. Kho đồ trống.
+Dialogue: 0,1:38:19.02,1:38:20.02,Default,,0,0,0,,Lượt cuối cho anh.
+Dialogue: 0,1:38:20.19,1:38:21.19,Default,,0,0,0,,Thêm vũ khí!
+Dialogue: 0,1:38:21.39,1:38:23.33,Default,,0,0,0,,Đại bác diệt bộ binh!
+Dialogue: 0,1:38:23.53,1:38:25.46,Default,,0,0,0,,Đại bác diệt bộ binh!
+Dialogue: 0,1:38:28.39,1:38:29.62,Default,,0,0,0,,Pháo điện tử!
+Dialogue: 0,1:38:29.82,1:38:31.04,Default,,0,0,0,,Pháo điện tử!
+Dialogue: 0,1:38:36.26,1:38:37.50,Default,,0,0,0,,Này Z!
+Dialogue: 0,1:38:37.90,1:38:41.61,Default,,0,0,0,,Này Z! Thử anh chàng này đi.
+Dialogue: 0,1:38:46.74,1:38:48.68,Default,,0,0,0,,Hất nó đi! Hất nó đi!
+Dialogue: 0,1:38:49.71,1:38:51.52,Default,,0,0,0,,Là búp bê ma Chucky!
+Dialogue: 0,1:38:57.05,1:38:58.52,Default,,0,0,0,,Đi mau! Đi mau!
+Dialogue: 0,1:38:59.02,1:39:00.53,Default,,0,0,0,,Đi mau đi!
+Dialogue: 0,1:39:58.26,1:39:59.89,Default,,0,0,0,,Mechagodzilla!
+Dialogue: 0,1:40:20.97,1:40:24.26,Default,,0,0,0,,Daito, bọn tớ cần cậu! Daito, tới ngay!
+Dialogue: 0,1:40:24.46,1:40:26.71,Default,,0,0,0,,Tới chỗ cây cầu.\NĐi mau, hắn đang phân tâm.
+Dialogue: 0,1:40:26.88,1:40:27.88,Default,,0,0,0,,Đi mau đi.
+Dialogue: 0,1:40:43.80,1:40:45.68,Default,,0,0,0,,{\b1}Tôi chọn hình thái Gundam{\b0}
+Dialogue: 0,1:41:09.14,1:41:10.24,Default,,0,0,0,,Z!
+Dialogue: 0,1:41:31.09,1:41:33.42,Default,,0,0,0,,Tới lâu đài đi!\NLấy chìa khóa thứ 3 trước chúng!
+Dialogue: 0,1:41:45.13,1:41:46.33,Default,,0,0,0,,Cái gì thế?
+Dialogue: 0,1:41:46.53,1:41:49.32,Default,,0,0,0,,Chỉ còn 30 giây nữa là biến hình trở lại!
+Dialogue: 0,1:42:00.34,1:42:03.38,Default,,0,0,0,,Daito, rút lui, hủy nhiệm vụ!\NChỉ còn 10 giây thôi!
+Dialogue: 0,1:42:18.02,1:42:19.31,Default,,0,0,0,,Người đầu tiên có quả trứng!
+Dialogue: 0,1:42:58.50,1:42:59.86,Default,,0,0,0,,Chết tiệt, là cô ta.
+Dialogue: 0,1:43:19.81,1:43:22.45,Default,,0,0,0,,Arty! Arty!
+Dialogue: 0,1:43:23.18,1:43:25.55,Default,,0,0,0,,Z! Phải tới chỗ lâu đài!
+Dialogue: 0,1:43:31.73,1:43:34.36,Default,,0,0,0,,Cô ta chưa đi.\NCô ta vẫn còn ở đây.
+Dialogue: 0,1:43:37.26,1:43:38.92,Default,,0,0,0,,Cô ta ở trong phòng chiến tranh.
+Dialogue: 0,1:44:17.01,1:44:18.56,Default,,0,0,0,,Không, không!
+Dialogue: 0,1:44:33.85,1:44:35.28,Default,,0,0,0,,Sho! Bám chặt vào!
+Dialogue: 0,1:45:18.73,1:45:20.41,Default,,0,0,0,,Arty, bọn anh lo được.\NEm phải thoát trước.
+Dialogue: 0,1:45:20.58,1:45:23.27,Default,,0,0,0,,Nếu trò chơi đúng là Adventure,\Nsao chúng vẫn chưa thắng?
+Dialogue: 0,1:45:23.47,1:45:25.07,Default,,0,0,0,,Anh không biết. Arty, Arty.
+Dialogue: 0,1:45:25.27,1:45:27.43,Default,,0,0,0,,Anh nói thật đấy, Sorrento bị điên.\NHắn sẽ giết em mất.
+Dialogue: 0,1:45:29.43,1:45:30.84,Default,,0,0,0,,{\i1}Em đang nhìn gì vậy?{\i0}
+Dialogue: 0,1:45:31.34,1:45:33.21,Default,,0,0,0,,Hướng đó chẳng có gì hết.
+Dialogue: 0,1:45:34.21,1:45:35.49,Default,,0,0,0,,Em đang gặp rắc rối, đúng không?
+Dialogue: 0,1:45:38.58,1:45:42.04,Default,,0,0,0,,Samantha, em biết anh yêu em mà.
+Dialogue: 0,1:45:42.24,1:45:43.39,Default,,0,0,0,,Không phải lúc đâu, Z.
+Dialogue: 0,1:45:43.59,1:45:44.84,Default,,0,0,0,,Anh có thể xử lý thử thách
+Dialogue: 0,1:45:45.04,1:45:46.88,Default,,0,0,0,,nhưng anh không thể\Nđể em bị hại ngoài đời.
+Dialogue: 0,1:45:48.18,1:45:51.24,Default,,0,0,0,,Ra khỏi IOI,\Nvà gặp bọn anh ở River South.
+Dialogue: 0,1:45:57.64,1:45:59.20,Default,,0,0,0,,Wade, không.
+Dialogue: 0,1:45:59.40,1:46:01.18,Default,,0,0,0,,Em sẽ tha thứ cho anh về vụ này, anh hứa.
+Dialogue: 0,1:46:01.28,1:46:02.48,Default,,0,0,0,,Wade, không, không.
+Dialogue: 0,1:46:12.49,1:46:15.55,Default,,0,0,0,,Xốc lại tinh thần đi, Lục Binh.\NQuay lại chỗ hồi sinh.
+Dialogue: 0,1:46:15.95,1:46:17.15,Default,,0,0,0,,Đi nào, mau lên.
+Dialogue: 0,1:46:17.35,1:46:18.50,Default,,0,0,0,,Cậu vào đi.
+Dialogue: 0,1:46:36.80,1:46:39.31,Default,,0,0,0,,Lựu đạn Thánh!\NCái đó tốn bao nhiêu?
+Dialogue: 0,1:46:39.41,1:46:42.04,Default,,0,0,0,,Tốn ít hơn so với bọn họ?
+Dialogue: 0,1:46:43.02,1:46:44.55,Default,,0,0,0,,Cái gì thế?
+Dialogue: 0,1:46:54.82,1:46:57.41,Default,,0,0,0,,Sếp, các thợ săn đang tiếp cận thử thách.
+Dialogue: 0,1:46:57.51,1:46:59.46,Default,,0,0,0,,- I-R0k?\N- Đã vào vị trí, sếp.
+Dialogue: 0,1:46:59.66,1:47:00.70,Default,,0,0,0,,Chuẩn bị thiết bị cho tôi.
+Dialogue: 0,1:47:00.86,1:47:03.43,Default,,0,0,0,,Băng đang trụ vững. Vẫn tiếp tục.
+Dialogue: 0,1:47:13.82,1:47:14.97,Default,,0,0,0,,Khoan đã.
+Dialogue: 0,1:47:15.17,1:47:16.47,Default,,0,0,0,,Hắn đang tìm cách thắng.
+Dialogue: 0,1:47:19.73,1:47:22.29,Default,,0,0,0,,{\i1}Tuyệt! Thắng rồi.{\i0}
+Dialogue: 0,1:47:25.71,1:47:27.52,Default,,0,0,0,,Ông ấy thua rồi.
+Dialogue: 0,1:47:27.72,1:47:29.75,Default,,0,0,0,,Không phải Adventure.
+Dialogue: 0,1:47:33.92,1:47:38.12,Default,,0,0,0,,Những ai thắng đều thua.
+Dialogue: 0,1:47:38.37,1:47:41.68,Default,,0,0,0,,Không phải chuyện thắng thua.\NMà là ở cách chơi.
+Dialogue: 0,1:47:42.68,1:47:44.84,Default,,0,0,0,,Nhớ lại thông báo của Halliday đi.
+Dialogue: 0,1:47:45.24,1:47:47.48,Default,,0,0,0,,Các chìa khóa vô hình,\Nvà chúng ẩn trong phòng tối
+Dialogue: 0,1:47:47.55,1:47:49.52,Default,,0,0,0,,ở giữa một mê cung.
+Dialogue: 0,1:47:50.32,1:47:53.66,Default,,0,0,0,,Có một bí mật trong Adventure,\Nvà không phải cứ thắng là tìm ra được.
+Dialogue: 0,1:47:53.86,1:47:56.22,Default,,0,0,0,,Phải tìm bằng cách đi quanh căn phòng tối.
+Dialogue: 0,1:47:56.82,1:47:58.39,Default,,0,0,0,,Cho tới khi tới điểm vô hình.
+Dialogue: 0,1:47:58.59,1:48:00.05,Default,,0,0,0,,Khá dễ nếu em biết mình làm gì.
+Dialogue: 0,1:48:00.33,1:48:01.61,Default,,0,0,0,,Thật sao?
+Dialogue: 0,1:48:02.51,1:48:04.47,Default,,0,0,0,,Để tao nói nốt giùm mày.
+Dialogue: 0,1:48:08.80,1:48:10.08,Default,,0,0,0,,Đó là cơ hội cuối của mày, Wade.
+Dialogue: 0,1:48:10.68,1:48:13.48,Default,,0,0,0,,Cơ hội cuối. Đưa chìa khóa đây.
+Dialogue: 0,1:48:13.68,1:48:17.74,Default,,0,0,0,,Tao sẽ cho mày 50 triệu\Nvào tài khoản ngay và luôn.
+Dialogue: 0,1:48:18.64,1:48:20.48,Default,,0,0,0,,Sao tôi lại làm thế chứ?
+Dialogue: 0,1:48:22.17,1:48:23.96,Default,,0,0,0,,Này cậu! Đó là Cataclyst.
+Dialogue: 0,1:48:24.16,1:48:25.99,Default,,0,0,0,,Cá nhân tao thì không quan tâm.
+Dialogue: 0,1:48:26.09,1:48:27.69,Default,,0,0,0,,Tao còn chẳng muốn\Nđặt chân vào OASIS nữa
+Dialogue: 0,1:48:27.88,1:48:29.84,Default,,0,0,0,,chứ đừng nói là\Nphải giải quyết chuyện phi lý này.
+Dialogue: 0,1:48:29.96,1:48:33.20,Default,,0,0,0,,Nhưng tao biết cuộc thi của Halliday\Nquan trọng ra sao với mày, nên...
+Dialogue: 0,1:48:35.26,1:48:39.43,Default,,0,0,0,,Không đời nào tôi đặt tương lai của OASIS\Nvào tay ông, Nolan Sorrento.
+Dialogue: 0,1:48:39.63,1:48:43.49,Default,,0,0,0,,Chà, cũng được thôi.\NBa bước đơn giản. Một.
+Dialogue: 0,1:48:43.69,1:48:45.93,Default,,0,0,0,,Khoan, tôi tưởng anh đùa.\NAnh biết nó sẽ giết cả đám chứ?
+Dialogue: 0,1:48:46.11,1:48:47.99,Default,,0,0,0,,Trên người tôi có công sức 10 năm đấy.
+Dialogue: 0,1:48:48.19,1:48:49.60,Default,,0,0,0,,Cơ hội cuối. Hai.
+Dialogue: 0,1:48:49.70,1:48:51.20,Default,,0,0,0,,Tôi sẽ không thoát ra kiểu đó.
+Dialogue: 0,1:48:51.30,1:48:53.77,Default,,0,0,0,,Vậy là đánh úp đó.\NAnh còn không biết kích hoạt quả cầu.
+Dialogue: 0,1:49:06.13,1:49:07.26,Default,,0,0,0,,Phải, tôi có cảm nhận được.
+Dialogue: 0,1:49:08.56,1:49:10.77,Default,,0,0,0,,Nhưng đây là thế giới của tôi, Sorrento.
+Dialogue: 0,1:49:14.51,1:49:16.04,Default,,0,0,0,,Hadouken!
+Dialogue: 0,1:49:35.58,1:49:36.34,Default,,0,0,0,,Không, không, không!
+Dialogue: 0,1:49:36.54,1:49:37.94,Default,,0,0,0,,Bước thứ ba.
+Dialogue: 0,1:49:38.15,1:49:39.89,Default,,0,0,0,,Không, không, không.
+Dialogue: 0,1:50:37.34,1:50:39.08,Default,,0,0,0,,Đưa tôi ra khỏi thứ này.
+Dialogue: 0,1:50:55.01,1:50:56.15,Default,,0,0,0,,Các cậu?
+Dialogue: 0,1:51:02.84,1:51:04.70,Default,,0,0,0,,Z, anh ấy còn sống!
+Dialogue: 0,1:51:12.58,1:51:14.34,Default,,0,0,0,,Thêm mạng.
+Dialogue: 0,1:51:16.74,1:51:18.22,Default,,0,0,0,,Cảm ơn Curator.
+Dialogue: 0,1:51:21.03,1:51:22.25,Default,,0,0,0,,Khoan đã.
+Dialogue: 0,1:51:27.37,1:51:28.37,Default,,0,0,0,,{\b1}KÊNH TRỰC TIẾP ĐANG PHÁT{\b0}
+Dialogue: 0,1:51:28.43,1:51:29.91,Default,,0,0,0,,{\b1}PARZIVAL GIÀNH CHÌA PHA LÊ{\b0}
+Dialogue: 0,1:51:29.94,1:51:31.91,Default,,0,0,0,,Tin phát trực tiếp mọi kênh OASIS.
+Dialogue: 0,1:51:32.62,1:51:35.04,Default,,0,0,0,,Halliday đang cho mọi người\Nxem kết quả cuộc thi.
+Dialogue: 0,1:51:35.14,1:51:36.54,Default,,0,0,0,,Thật đúng là Halliday.
+Dialogue: 0,1:51:36.65,1:51:38.66,Default,,0,0,0,,Khốn kiếp thật, ta đã thử trò Adventure.
+Dialogue: 0,1:51:38.86,1:51:40.18,Default,,0,0,0,,Không, ta tìm cách thắng nó thôi.
+Dialogue: 0,1:51:40.21,1:51:42.75,Default,,0,0,0,,Nhưng phòng ẩn không nằm ở cuối trò chơi.
+Dialogue: 0,1:51:42.86,1:51:45.60,Default,,0,0,0,,Phải bước vào điểm vô hình ở đầu.
+Dialogue: 0,1:51:59.07,1:52:00.21,Default,,0,0,0,,Cô ấy kia à?
+Dialogue: 0,1:52:00.42,1:52:04.50,Default,,0,0,0,,Tóc đỏ, đồng phục IOI,\Nkhông biết cô ấy ở hành tinh nào?
+Dialogue: 0,1:52:04.60,1:52:05.60,Default,,0,0,0,,Chính là cô ấy.
+Dialogue: 0,1:52:17.31,1:52:20.09,Default,,0,0,0,,Tớ là Toshiro.\NCậu quen nhân vật Daito của tớ.
+Dialogue: 0,1:52:26.74,1:52:28.21,Default,,0,0,0,,Chào Arty.
+Dialogue: 0,1:52:30.20,1:52:34.32,Default,,0,0,0,,Ừ, tớ biết. Không như cậu mong chờ hả?
+Dialogue: 0,1:52:34.42,1:52:39.01,Default,,0,0,0,,Phải, tớ không hề mong chờ\Nmột con xe tải bưu điện cuối thập niên 30.
+Dialogue: 0,1:52:40.91,1:52:41.91,Default,,0,0,0,,Wade?
+Dialogue: 0,1:52:42.71,1:52:45.05,Default,,0,0,0,,Khoan, em tưởng Cataclyst nổ rồi.\NSao anh vẫn còn chơi?
+Dialogue: 0,1:52:45.15,1:52:47.60,Default,,0,0,0,,Thêm mạng, chuyện dài lắm.\NXin lỗi đã bắn em.
+Dialogue: 0,1:52:50.01,1:52:51.40,Default,,0,0,0,,Sho?
+Dialogue: 0,1:52:51.60,1:52:53.99,Default,,0,0,0,,Sao? Em phải đeo biển ghi rằng
+Dialogue: 0,1:52:54.19,1:52:57.16,Default,,0,0,0,,"Em 11 tuổi, bắn em trước nhé" à?\NThôi khỏi nhé.
+Dialogue: 0,1:52:57.27,1:52:59.45,Default,,0,0,0,,- Nào, ôm cái đi.\N- Ninja không ôm!
+Dialogue: 0,1:52:59.65,1:53:01.25,Default,,0,0,0,,Được rồi, bà con, bám vào thứ gì đi.
+Dialogue: 0,1:53:22.96,1:53:24.23,Default,,0,0,0,,Thấy rồi nhé.
+Dialogue: 0,1:53:27.93,1:53:29.72,Default,,0,0,0,,Mau lên, Nolan. Bắt máy đi.
+Dialogue: 0,1:53:31.93,1:53:34.51,Default,,0,0,0,,F'Nale, báo tin tốt vào nhé.
+Dialogue: 0,1:53:34.71,1:53:37.12,Default,,0,0,0,,Tôi có drone theo đuôi chúng rồi.\NTôi đang ở gần.
+Dialogue: 0,1:53:37.32,1:53:38.42,Default,,0,0,0,,{\i1}Gửi tọa độ cho tôi.{\i0}
+Dialogue: 0,1:53:38.53,1:53:40.72,Default,,0,0,0,,Có lẽ anh nên để việc này cho tôi, Nolan.
+Dialogue: 0,1:53:42.65,1:53:45.25,Default,,0,0,0,,Nolan? Nolan.
+Dialogue: 0,1:53:46.65,1:53:47.79,Default,,0,0,0,,Đi ra.
+Dialogue: 0,1:53:56.67,1:53:59.14,Default,,0,0,0,,Đưa cho tôi.
+Dialogue: 0,1:54:02.97,1:54:04.73,Default,,0,0,0,,Có chuyện gì ngoài đó vậy?
+Dialogue: 0,1:54:08.94,1:54:11.53,Default,,0,0,0,,Trò chơi đã xong với họ.\NHọ đang nhìn gì vậy?
+Dialogue: 0,1:54:13.95,1:54:16.29,Default,,0,0,0,,Chìa khóa cuối cùng!\NĐang được phát sóng.
+Dialogue: 0,1:54:18.27,1:54:19.89,Default,,0,0,0,,{\i1}Quý vị thấy đấy.{\i0}
+Dialogue: 0,1:54:20.09,1:54:22.53,Default,,0,0,0,,{\i1}Warren Robinnet rất tự hào về Adventure.{\i0}
+Dialogue: 0,1:54:22.63,1:54:24.94,Default,,0,0,0,,{\i1}Ông ta muốn người ta biết ai đứng sau.{\i0}
+Dialogue: 0,1:54:25.74,1:54:28.20,Default,,0,0,0,,Cho nên ông ta đã tạo ra\Ntrứng Phục sinh số đầu tiên...
+Dialogue: 0,1:54:28.40,1:54:31.01,Default,,0,0,0,,và để tìm ra nó,\Nkhông nhất thiết phải thắng.
+Dialogue: 0,1:54:31.21,1:54:35.22,Default,,0,0,0,,Chỉ cần chơi mò mẫm,\Ntìm xung quanh.
+Dialogue: 0,1:54:35.32,1:54:38.46,Default,,0,0,0,,Trong các phòng\Nđể tìm một điểm vô hình.
+Dialogue: 0,1:54:39.55,1:54:41.92,Default,,0,0,0,,Đưa điểm đó trở lại màn hình chính
+Dialogue: 0,1:54:42.12,1:54:46.58,Default,,0,0,0,,và đó là khi bạn thấy trứng Phục sinh\Nđầu tiên từng được đặt trong trò chơi.
+Dialogue: 0,1:54:46.68,1:54:48.11,Default,,0,0,0,,Tên của nhà sáng tạo.
+Dialogue: 0,1:54:48.21,1:54:49.63,Default,,0,0,0,,Được tạo bởi Warren Robinett.
+Dialogue: 0,1:55:12.75,1:55:14.62,Default,,0,0,0,,Có chuyện gì vậy?\NTớ chẳng thấy gì cả.
+Dialogue: 0,1:55:14.72,1:55:16.21,Default,,0,0,0,,Parzival vừa lấy được chìa Pha Lê!
+Dialogue: 0,1:55:31.42,1:55:33.25,Default,,0,0,0,,Cậu muốn lấy hay không đây?
+Dialogue: 0,1:55:36.48,1:55:38.40,Default,,0,0,0,,Aech, có chuyên gì vậy?
+Dialogue: 0,1:55:38.51,1:55:40.46,Default,,0,0,0,,Đang luyện Mario Kart.\NChứ cậu nghĩ sao?
+Dialogue: 0,1:55:40.56,1:55:42.64,Default,,0,0,0,,IOI đang cố giết chúng ta đấy!
+Dialogue: 0,1:55:56.79,1:55:59.12,Default,,0,0,0,,Hỡi những người đang xem,\Nnếu bạn ở Xa thành Columbus,
+Dialogue: 0,1:55:59.22,1:56:00.59,Default,,0,0,0,,thì đây là Parzival.
+Dialogue: 0,1:56:00.70,1:56:03.43,Default,,0,0,0,,Tên thật ngoài đời của tôi là Wade Watts,\Nvà chúng tôi cần các bạn giúp.
+Dialogue: 0,1:56:03.46,1:56:04.91,Default,,0,0,0,,Aech, đi về phía Xa thành!
+Dialogue: 0,1:56:04.91,1:56:06.68,Default,,0,0,0,,Được rồi, bám chắc vào!
+Dialogue: 0,1:56:31.97,1:56:34.00,Default,,0,0,0,,Cắm chìa khóa vào khó cỡ nào chứ?
+Dialogue: 0,1:56:39.61,1:56:40.87,Default,,0,0,0,,Cố lên.
+Dialogue: 0,1:56:48.29,1:56:50.40,Default,,0,0,0,,Rồi! Được rồi!
+Dialogue: 0,1:57:06.44,1:57:07.86,Default,,0,0,0,,Thế thôi à?
+Dialogue: 0,1:57:08.46,1:57:09.50,Default,,0,0,0,,Phải, thế thôi.
+Dialogue: 0,1:57:09.70,1:57:14.71,Default,,0,0,0,,Giờ, chỉ cần ký mớ giấy tờ này\Nvà OASIS là của cậu.
+Dialogue: 0,1:57:14.91,1:57:18.93,Default,,0,0,0,,Cậu sẽ là chủ sở hữu duy nhất.
+Dialogue: 0,1:57:19.14,1:57:20.75,Default,,0,0,0,,Cũng không tệ lắm, đúng không?
+Dialogue: 0,1:57:42.63,1:57:43.71,Default,,0,0,0,,Chờ một chút.
+Dialogue: 0,1:58:06.48,1:58:09.32,Default,,0,0,0,,{\b1}Đã hiểu và đồng ý\NTên người mua WADE WATTS{\b0}
+Dialogue: 0,1:58:12.40,1:58:14.33,Default,,0,0,0,,Cái này sai rồi.
+Dialogue: 0,1:58:14.93,1:58:17.87,Default,,0,0,0,,Ngòi bút này, hợp đồng này.
+Dialogue: 0,1:58:21.08,1:58:24.79,Default,,0,0,0,,Đây là thời khắc Halliday ép Morrow\Nký bán cổ phần của mình ở Gregarious.
+Dialogue: 0,1:58:25.49,1:58:27.60,Default,,0,0,0,,Đó là sai lầm lớn nhất đời ông ấy.
+Dialogue: 0,1:58:28.10,1:58:30.29,Default,,0,0,0,,Ông ấy biết thế.
+Dialogue: 0,1:58:31.93,1:58:33.92,Default,,0,0,0,,Đây không phải là kết thúc.
+Dialogue: 0,1:58:35.29,1:58:37.01,Default,,0,0,0,,Đây là một bài kiểm tra.
+Dialogue: 0,1:58:41.55,1:58:44.25,Default,,0,0,0,,Tôi sẽ không phạm sai lầm như ông đâu.
+Dialogue: 0,1:58:49.85,1:58:51.97,Default,,0,0,0,,Tốt.
+Dialogue: 0,1:58:54.47,1:58:57.90,Default,,0,0,0,,Tôi chỉ cần biết chắc thôi.
+Dialogue: 0,1:59:11.87,1:59:14.20,Default,,0,0,0,,Đây là nơi ông lớn lên.
+Dialogue: 0,1:59:23.45,1:59:25.75,Default,,0,0,0,,Đó là tôi của ngày rất xưa rồi.
+Dialogue: 0,1:59:26.35,1:59:29.00,Default,,0,0,0,,Tôi thỉnh thoảng có cậu ta bên cạnh.
+Dialogue: 0,1:59:29.91,1:59:31.52,Default,,0,0,0,,Này, tôi muốn cho cậu xem cái này.
+Dialogue: 0,1:59:32.22,1:59:33.82,Default,,0,0,0,,Đây... Lại đây nào.
+Dialogue: 0,1:59:33.92,1:59:35.64,Default,,0,0,0,,Đây là một cái nút.
+Dialogue: 0,1:59:35.84,1:59:38.80,Default,,0,0,0,,Nếu cậu bấm,\Ncả thế giới ảo này sẽ tắt.
+Dialogue: 0,1:59:39.00,1:59:42.49,Default,,0,0,0,,Và chương trình sâu máy tính\Nsẽ xóa hết máy chủ sao lưu.
+Dialogue: 0,1:59:42.69,1:59:45.89,Default,,0,0,0,,Giờ cậu có quyền năng\Nđể tắt OASIS mãi mãi.
+Dialogue: 0,1:59:46.39,1:59:48.02,Default,,0,0,0,,Cậu có hiểu không?
+Dialogue: 0,1:59:53.43,1:59:54.48,Default,,0,0,0,,Ừ...
+Dialogue: 0,1:59:54.68,1:59:59.24,Default,,0,0,0,,cố đừng xóa nhầm toàn bộ OASIS\Nngay ngày đầu nhé.
+Dialogue: 0,2:00:08.64,2:00:10.36,Default,,0,0,0,,Xa thành ở ngay phía trước!
+Dialogue: 0,2:00:26.17,2:00:28.97,Default,,0,0,0,,Tôi mong là cậu phải đi.\NTôi biết là thế.
+Dialogue: 0,2:00:29.17,2:00:31.56,Default,,0,0,0,,Giờ là lúc cậu nhận phần thưởng
+Dialogue: 0,2:00:31.66,2:00:34.09,Default,,0,0,0,,vì cậu đã giành được 3 chìa khóa.
+Dialogue: 0,2:00:34.19,2:00:38.19,Default,,0,0,0,,Một khi cậu lấy quả trứng này,\Ntrò chơi sẽ kết thúc.
+Dialogue: 0,2:00:38.98,2:00:42.01,Default,,0,0,0,,Quả trứng, quả trứng...
+Dialogue: 0,2:00:49.42,2:00:51.74,Default,,0,0,0,,Bọn tôi biết việc ông đã làm ở đây.
+Dialogue: 0,2:00:51.85,2:00:55.10,Default,,0,0,0,,Hãy quay lưng\Nvà rời khỏi đây khi còn có thể.
+Dialogue: 0,2:01:07.77,2:01:10.21,Default,,0,0,0,,Tôi tạo ra OASIS
+Dialogue: 0,2:01:10.41,2:01:14.03,Default,,0,0,0,,vì tôi chưa từng có\Ncảm giác ở nhà trong thế giới thực.
+Dialogue: 0,2:01:15.03,2:01:18.46,Default,,0,0,0,,Tôi không biết cách kết nối\Nvới con người ở ngoài đó.
+Dialogue: 0,2:01:19.59,2:01:22.53,Default,,0,0,0,,Tôi sợ hãi cả cuộc đời.
+Dialogue: 0,2:01:23.04,2:01:25.74,Default,,0,0,0,,Cho đến ngày tôi biết mình sắp lìa đời.
+Dialogue: 0,2:01:31.46,2:01:35.20,Default,,0,0,0,,Đó là lúc tôi nhận ra rằng
+Dialogue: 0,2:01:36.46,2:01:41.48,Default,,0,0,0,,dù thực tại có đáng sợ\Nvà đau đớn cỡ nào,
+Dialogue: 0,2:01:42.38,2:01:46.46,Default,,0,0,0,,thì đó cũng là nơi duy nhất
+Dialogue: 0,2:01:48.04,2:01:49.66,Default,,0,0,0,,có thể tìm được\Nmột bữa ăn đàng hoàng.
+Dialogue: 0,2:01:56.45,2:01:57.99,Default,,0,0,0,,Bởi vì...
+Dialogue: 0,2:01:59.65,2:02:01.25,Default,,0,0,0,,thực tại...
+Dialogue: 0,2:02:06.42,2:02:07.91,Default,,0,0,0,,là thật.
+Dialogue: 0,2:02:08.11,2:02:09.72,Default,,0,0,0,,Cậu hiểu lời tôi nói không?
+Dialogue: 0,2:02:11.60,2:02:14.14,Default,,0,0,0,,Có, tôi hiểu chứ.
+Dialogue: 0,2:02:24.09,2:02:25.24,Default,,0,0,0,,Anh ấy đã làm được.
+Dialogue: 0,2:02:27.03,2:02:28.46,Default,,0,0,0,,Anh ấy đã có quả trứng.
+Dialogue: 0,2:02:29.23,2:02:30.50,Default,,0,0,0,,Hoan hô.
+Dialogue: 0,2:02:31.70,2:02:33.30,Default,,0,0,0,,- Không!\N- Đừng! Xin ông!
+Dialogue: 0,2:03:06.88,2:03:08.23,Default,,0,0,0,,Dừng lại!
+Dialogue: 0,2:03:10.21,2:03:13.33,Default,,0,0,0,,Bỏ súng xuống! Ngay! Nằm xuống đất!
+Dialogue: 0,2:03:13.93,2:03:16.55,Default,,0,0,0,,Quay người lại! Giơ tay lên.
+Dialogue: 0,2:03:16.75,2:03:18.25,Default,,0,0,0,,Đi lùi về phía tôi.
+Dialogue: 0,2:03:33.98,2:03:38.46,Default,,0,0,0,,Ông Halliday.\NCó một chuyện tôi không hiểu.
+Dialogue: 0,2:03:39.26,2:03:42.02,Default,,0,0,0,,Ông không chỉ là một nhân vật, phải không?
+Dialogue: 0,2:03:42.62,2:03:44.31,Default,,0,0,0,,Không.
+Dialogue: 0,2:03:45.82,2:03:47.73,Default,,0,0,0,,Halliday chết thật rồi à?
+Dialogue: 0,2:03:49.42,2:03:51.05,Default,,0,0,0,,Phải.
+Dialogue: 0,2:03:56.80,2:03:58.68,Default,,0,0,0,,Vậy ông là gì?
+Dialogue: 0,2:04:01.78,2:04:03.76,Default,,0,0,0,,Tạm biệt, Parzival.
+Dialogue: 0,2:04:05.45,2:04:06.59,Default,,0,0,0,,Cảm ơn.
+Dialogue: 0,2:04:08.10,2:04:10.27,Default,,0,0,0,,Cảm ơn đã chơi trò của tôi.
+Dialogue: 0,2:04:39.35,2:04:40.52,Default,,0,0,0,,Wade?
+Dialogue: 0,2:04:42.06,2:04:43.81,Default,,0,0,0,,Ogden Morrow?
+Dialogue: 0,2:04:44.01,2:04:45.60,Default,,0,0,0,,Cứ gọi tôi là Og.
+Dialogue: 0,2:04:45.80,2:04:48.36,Default,,0,0,0,,Giờ, ngoài này có mấy người\Nrất muốn gặp cậu.
+Dialogue: 0,2:04:48.96,2:04:51.65,Default,,0,0,0,,Không thể tin nổi.
+Dialogue: 0,2:04:52.29,2:04:55.03,Default,,0,0,0,,Rất hân hạnh được gặp ông, Og,\Nnhưng tôi...
+Dialogue: 0,2:04:59.27,2:05:00.90,Default,,0,0,0,,Tôi cần làm việc này trước.
+Dialogue: 0,2:05:04.82,2:05:06.70,Default,,0,0,0,,Anh không giống Halliday.
+Dialogue: 0,2:05:10.41,2:05:12.43,Default,,0,0,0,,Anh sẽ nhảy bước ấy.
+Dialogue: 0,2:05:28.89,2:05:30.09,Default,,0,0,0,,Chúng tôi đang tìm Wade Watts.
+Dialogue: 0,2:05:32.08,2:05:34.19,Default,,0,0,0,,Chúng tôi cần lời khai của cậu\Nvề đoạn phim cậu gửi tới
+Dialogue: 0,2:05:34.22,2:05:36.15,Default,,0,0,0,,về lời thú tội của Nolan Sorrento.
+Dialogue: 0,2:05:37.16,2:05:38.53,Default,,0,0,0,,Là tôi làm đấy.
+Dialogue: 0,2:05:39.13,2:05:41.80,Default,,0,0,0,,Sao? Tớ thu lại mọi thứ trong xưởng của tớ.
+Dialogue: 0,2:05:48.20,2:05:50.15,Default,,0,0,0,,Giúp anh tháo ra đi.
+Dialogue: 0,2:05:56.31,2:05:57.72,Default,,0,0,0,,Các vị là ai?
+Dialogue: 0,2:05:58.76,2:06:02.93,Default,,0,0,0,,Những người mà giờ cậu rất cần, luật sư.\NTừ Gregarious Games.
+Dialogue: 0,2:06:05.78,2:06:07.44,Default,,0,0,0,,Họ cần cậu ký tên, Wade.
+Dialogue: 0,2:06:15.44,2:06:17.47,Default,,0,0,0,,Tôi sẽ chia với đội của tôi.
+Dialogue: 0,2:06:17.67,2:06:19.41,Default,,0,0,0,,Chúng tôi sẽ cùng điều hành mọi thứ.
+Dialogue: 0,2:06:24.09,2:06:26.13,Default,,0,0,0,,Lựa chọn hay đấy.
+Dialogue: 0,2:06:54.01,2:06:57.12,Default,,0,0,0,,F'Nale, nghe tôi nói thật kỹ đây.
+Dialogue: 0,2:07:06.27,2:07:09.06,Default,,0,0,0,,Ông Morrow... Ý tôi là, Og...
+Dialogue: 0,2:07:09.16,2:07:10.61,Default,,0,0,0,,sao ông tới đây nhanh thế?
+Dialogue: 0,2:07:10.71,2:07:12.89,Default,,0,0,0,,Tôi bay từ các vì sao\Ntrên xe trượt ma thuật.
+Dialogue: 0,2:07:14.00,2:07:15.94,Default,,0,0,0,,Mọi người đều xem mà.
+Dialogue: 0,2:07:16.04,2:07:19.27,Default,,0,0,0,,Dĩ nhiên, tôi xem ở gần hơn đa số.
+Dialogue: 0,2:07:23.19,2:07:24.75,Default,,0,0,0,,Là ông à?
+Dialogue: 0,2:07:25.27,2:07:26.39,Default,,0,0,0,,Ông là Curator?
+Dialogue: 0,2:07:30.12,2:07:32.29,Default,,0,0,0,,Giỏi lắm, Parzival.
+Dialogue: 0,2:07:33.54,2:07:35.49,Default,,0,0,0,,Jim không nói gì với tôi về cuộc thi
+Dialogue: 0,2:07:35.69,2:07:38.80,Default,,0,0,0,,nên chẳng có luật nào cấm tôi\Nthua cược một cậu bé thông minh.
+Dialogue: 0,2:07:39.00,2:07:40.86,Default,,0,0,0,,Không phải tại cậu cần tôi giúp.
+Dialogue: 0,2:07:41.66,2:07:45.59,Default,,0,0,0,,Cậu đã tự hiểu ra rằng\NKira là chìa khóa.
+Dialogue: 0,2:07:45.89,2:07:48.56,Default,,0,0,0,,Phải, nhưng Kira không phải chìa khóa đâu.
+Dialogue: 0,2:07:49.97,2:07:52.00,Default,,0,0,0,,Mà là ông, ông Morrow.
+Dialogue: 0,2:07:54.00,2:07:55.66,Default,,0,0,0,,Ông mới là Rosebud.
+Dialogue: 0,2:07:55.86,2:07:58.05,Default,,0,0,0,,Và hối tiếc lớn nhất của Halliday là...
+Dialogue: 0,2:07:59.75,2:08:01.26,Default,,0,0,0,,mất đi người bạn duy nhất.
+Dialogue: 0,2:08:05.50,2:08:07.65,Default,,0,0,0,,Cậu biết đấy, Jim thường nói OASIS
+Dialogue: 0,2:08:07.85,2:08:10.30,Default,,0,0,0,,chưa bao giờ là trò chơi cho một người.
+Dialogue: 0,2:08:14.00,2:08:16.68,Default,,0,0,0,,Giờ, chúng ta có ai đây?
+Dialogue: 0,2:08:16.88,2:08:19.42,Default,,0,0,0,,Ôi chà, xem ai đây này.
+Dialogue: 0,2:08:19.52,2:08:21.12,Default,,0,0,0,,Các anh hùng của tôi, Ngũ Đại.
+Dialogue: 0,2:08:21.33,2:08:22.84,Default,,0,0,0,,- Chắc cô là Art3mis.\N- Samantha ạ.
+Dialogue: 0,2:08:22.94,2:08:24.77,Default,,0,0,0,,{\i1}Ngũ Đại tiếp quản OASIS{\i0}
+Dialogue: 0,2:08:24.97,2:08:26.49,Default,,0,0,0,,{\i1}và việc đầu tiên chúng tôi làm{\i0}
+Dialogue: 0,2:08:26.59,2:08:29.91,Default,,0,0,0,,{\i1}là ký hợp đồng tư vấn\Nkhông độc quyền với Ogden Morrow.{\i0}
+Dialogue: 0,2:08:30.02,2:08:32.83,Default,,0,0,0,,{\i1}Mức lương như ông ấy yêu cầu{\i0}
+Dialogue: 0,2:08:33.03,2:08:36.17,Default,,0,0,0,,{\i1}là 25 xu. Đồng 1/4 đô la.{\i0}
+Dialogue: 0,2:08:39.61,2:08:40.43,Default,,0,0,0,,{\i1}Với sự hướng dẫn của ông,{\i0}
+Dialogue: 0,2:08:40.63,2:08:44.59,Default,,0,0,0,,{\i1}động thái thứ 2 của chúng tôi\Nlà cấm mọi trung tâm thu nợ vào OASIS.{\i0}
+Dialogue: 0,2:08:45.39,2:08:48.88,Default,,0,0,0,,{\i1}IOI hết cách. Họ đã giải thể toàn bộ.{\i0}
+Dialogue: 0,2:08:51.56,2:08:54.17,Default,,0,0,0,,{\i1}Việc thứ 3 chúng tôi làm\Nkhông được thích bằng.{\i0}
+Dialogue: 0,2:08:54.57,2:08:57.72,Default,,0,0,0,,{\i1}Chúng tôi đóng cửa OASIS\Nvào thứ 3 và thứ 5.{\i0}
+Dialogue: 0,2:08:58.54,2:09:00.95,Default,,0,0,0,,{\i1}Tôi biết, nghe có vẻ hơi lạ{\i0}
+Dialogue: 0,2:09:01.15,2:09:03.99,Default,,0,0,0,,{\i1}nhưng người ta cần dành\Nnhiều thời gian ở ngoài đời.{\i0}
+Dialogue: 0,2:09:05.79,2:09:08.49,Default,,0,0,0,,{\i1}Vì, như Halliday đã nói{\i0}
+Dialogue: 0,2:09:08.70,2:09:12.23,Default,,0,0,0,,{\i1}thực tại là điều duy nhất...{\i0}
+Dialogue: 0,2:09:12.25,2:09:13.63,Default,,0,0,0,,{\i1}có thật.{\i0}
+Dialogue: 0,2:09:15.51,2:09:23.51,Default,,0,0,0,,Biên tập phụ đề: PhimGiaiTri. Net
