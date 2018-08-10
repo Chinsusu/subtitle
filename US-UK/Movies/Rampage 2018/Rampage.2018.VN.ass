@@ -1,0 +1,1282 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:05.05,0:00:13.05,Default,,0,0,0,,@JadViE Studio - SystemTN
+Dialogue: 0,0:00:24.94,0:00:28.65,Default,,0,0,0,,Năm 1993, một công nghệ mới đột phá\Ntên CRISPR đã giúp giới khoa học.
+Dialogue: 0,0:00:28.82,0:00:30.86,Default,,0,0,0,,Chữa các bệnh nan y\Nbằng cách chỉnh sữa gien.
+Dialogue: 0,0:00:30.99,0:00:33.91,Default,,0,0,0,,Năm 2016, do nguy cơ\Nbị dùng sai mục đích của nó.
+Dialogue: 0,0:00:34.03,0:00:37.20,Default,,0,0,0,,Cộng đồng tình báo Mỹ\Nđã xếp chỉnh sửa gien vào loại.
+Dialogue: 0,0:00:37.33,0:00:40.45,Default,,0,0,0,,"Vũ Khí Hủy diệt Hàng loạt\Nvà Phát triển Nóng".
+Dialogue: 0,0:01:22.87,0:01:26.33,Default,,0,0,0,,Athena-1. Athena-1. Trả lời.
+Dialogue: 0,0:01:26.50,0:01:30.63,Default,,0,0,0,,Athena-1. Điều hành đây.\NChúng tôi không nghe rõ thông điệp cuối.
+Dialogue: 0,0:01:30.88,0:01:33.88,Default,,0,0,0,,Đang mất tín hiệu ở mô-đun chỉ huy.\NVui lòng xác nhận. Hết.
+Dialogue: 0,0:01:34.01,0:01:36.18,Default,,0,0,0,,Điều hành, tôi là Atkins đây.
+Dialogue: 0,0:01:36.30,0:01:38.18,Default,,0,0,0,,Thí nghiệm gặp trục trặc gì đó.
+Dialogue: 0,0:01:38.30,0:01:40.22,Default,,0,0,0,,Phi hành đoàn đã chết.
+Dialogue: 0,0:01:40.39,0:01:42.64,Default,,0,0,0,,Độ toàn vẹn thân vỏ Athena rất thấp.
+Dialogue: 0,0:01:42.81,0:01:44.69,Default,,0,0,0,,Tôi đang đến khoang thoát hiểm.
+Dialogue: 0,0:01:44.85,0:01:48.94,Default,,0,0,0,,Không được. Quay lại phòng lab\Nvà thu lấy các hộp đựng trước khi đi.
+Dialogue: 0,0:01:49.11,0:01:50.98,Default,,0,0,0,,Nhưng đối tượng thí nghiệm đã sống.
+Dialogue: 0,0:01:51.15,0:01:53.24,Default,,0,0,0,,Tiến sĩ, đối tượng thí nghiệm\Nlà một con chuột.
+Dialogue: 0,0:01:53.36,0:01:54.61,Default,,0,0,0,,Không còn nữa.
+Dialogue: 0,0:02:00.16,0:02:01.16,Default,,0,0,0,,Chuyện gì đây?
+Dialogue: 0,0:02:01.33,0:02:02.41,Default,,0,0,0,,Cô đã có lệnh, Tiến sĩ.
+Dialogue: 0,0:02:02.58,0:02:03.79,Default,,0,0,0,,Mở cánh cửa này ra!
+Dialogue: 0,0:02:03.87,0:02:06.04,Default,,0,0,0,,Tiến sĩ Atkins, Claire Wyden đây.
+Dialogue: 0,0:02:06.83,0:02:10.00,Default,,0,0,0,,Chúng tôi sẽ mở khoang thoát hiểm\Nkhi cô lấy được mẫu vật.
+Dialogue: 0,0:02:15.34,0:02:18.34,Default,,0,0,0,,Tiến sĩ, hoặc cô quay về\Nvới nghiên cứu của tôi
+Dialogue: 0,0:02:18.55,0:02:20.18,Default,,0,0,0,,hoặc cô không thể về đến nhà.
+Dialogue: 0,0:02:47.33,0:02:48.92,Default,,0,0,0,,Đang vào phòng lab.
+Dialogue: 0,0:02:54.80,0:02:56.05,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:03:00.09,0:03:01.68,Default,,0,0,0,,ĐÃ KHÓA
+Dialogue: 0,0:03:01.89,0:03:02.89,Default,,0,0,0,,ĐÃ MỞ
+Dialogue: 0,0:03:07.85,0:03:09.60,Default,,0,0,0,,Điều hành, đang lấy mẫu vật.
+Dialogue: 0,0:03:09.85,0:03:10.85,Default,,0,0,0,,Nghe rõ.
+Dialogue: 0,0:03:26.54,0:03:28.75,Default,,0,0,0,,Điều hành báo, thân vỏ hư hại nghiêm trọng.
+Dialogue: 0,0:03:33.88,0:03:35.21,Default,,0,0,0,,Chúa ơi.
+Dialogue: 0,0:03:47.10,0:03:47.85,Default,,0,0,0,,Mở ra!
+Dialogue: 0,0:03:48.06,0:03:49.27,Default,,0,0,0,,Khoang được mở.
+Dialogue: 0,0:05:27.20,0:05:28.37,Default,,0,0,0,,Tôi thích cái mới đó...
+Dialogue: 0,0:05:28.45,0:05:30.29,Default,,0,0,0,,Làm tôi nhớ hồi ở Uganda
+Dialogue: 0,0:05:30.83,0:05:31.83,Default,,0,0,0,,Anh từng đến Uganda à?
+Dialogue: 0,0:05:32.04,0:05:33.54,Default,,0,0,0,,Vâng. Đúng thế.
+Dialogue: 0,0:05:33.71,0:05:35.63,Default,,0,0,0,,Nếu rừng rậm không giết cô,\Nbọn săn trộm sẽ giết.
+Dialogue: 0,0:05:36.17,0:05:38.42,Default,,0,0,0,,Cảnh sát vẫn theo tôi\Ndo những gì tôi đã làm.
+Dialogue: 0,0:05:38.59,0:05:39.92,Default,,0,0,0,,Họ gọi tôi là El Diablo.
+Dialogue: 0,0:05:40.09,0:05:41.93,Default,,0,0,0,,Họ không nói tiếng Tây Ban Nha,\Nmà cũng có thể họ biết.
+Dialogue: 0,0:05:41.96,0:05:42.96,Default,,0,0,0,,Ừ.
+Dialogue: 0,0:05:43.30,0:05:45.30,Default,,0,0,0,,Cô xem Kim cương máu chưa?\N- Rồi.
+Dialogue: 0,0:05:45.47,0:05:47.93,Default,,0,0,0,,Tôi biết nó nói về kim cương,\Nnhưng cũng đồng cảm lắm.
+Dialogue: 0,0:05:48.05,0:05:50.56,Default,,0,0,0,,Không rõ có cùng một vùng không.\NNhưng rất căng thẳng.
+Dialogue: 0,0:05:50.72,0:05:52.22,Default,,0,0,0,,Đừng gây chuyện với Mẹ Phi châu.
+Dialogue: 0,0:05:57.94,0:05:59.15,Default,,0,0,0,,Ổn cả chứ sếp?
+Dialogue: 0,0:06:00.94,0:06:02.28,Default,,0,0,0,,Không ổn đâu.
+Dialogue: 0,0:06:03.78,0:06:04.95,Default,,0,0,0,,Đừng cử động cơ bắp nào.
+Dialogue: 0,0:06:06.28,0:06:08.99,Default,,0,0,0,,Cậu nhóc này thả mìn khắp nơi.
+Dialogue: 0,0:06:09.07,0:06:11.16,Default,,0,0,0,,Với mấy câu chuyện bịa đó.
+Dialogue: 0,0:06:14.87,0:06:16.79,Default,,0,0,0,,Nhưng rất có tính giải trí đấy.
+Dialogue: 0,0:06:19.50,0:06:20.84,Default,,0,0,0,,Tôi từng đến Uganda thật mà.
+Dialogue: 0,0:06:21.09,0:06:22.30,Default,,0,0,0,,Còn tôi từng đến Hogwarts.
+Dialogue: 0,0:06:23.55,0:06:25.55,Default,,0,0,0,,Còn chưa kể,\Nnếu cậu có kinh nghiệm về săn trộm,
+Dialogue: 0,0:06:25.63,0:06:29.51,Default,,0,0,0,,cậu sẽ biết là cực kỳ thô lỗ\Nkhi nói việc đó trước mặt một quý cô.
+Dialogue: 0,0:06:30.68,0:06:32.18,Default,,0,0,0,,Không sao. Tôi chịu được.
+Dialogue: 0,0:06:32.43,0:06:36.02,Default,,0,0,0,,Tôi biết cô chịu được.\NTôi đang nói về các quý cô này.
+Dialogue: 0,0:06:37.69,0:06:40.69,Default,,0,0,0,,KHU BẢO TỒN HOANG DÃ SAN DIEGO
+Dialogue: 0,0:06:57.12,0:06:58.29,Default,,0,0,0,,Có lẽ sẽ không có vấn đề gì
+Dialogue: 0,0:06:58.37,0:07:00.33,Default,,0,0,0,,nhưng nhớ là mọi người\Nkhông còn ở lớp học nữa.
+Dialogue: 0,0:07:00.50,0:07:02.79,Default,,0,0,0,,Đó là động vật hoang dã.\NChúng rất khó đoán.
+Dialogue: 0,0:07:03.63,0:07:06.47,Default,,0,0,0,,Hãy nhớ phân huấn luyện,\Nvà làm đúng như tôi nói.
+Dialogue: 0,0:07:07.80,0:07:09.34,Default,,0,0,0,,Cho tôi biết, các bạn thấy gì?
+Dialogue: 0,0:07:13.39,0:07:14.89,Default,,0,0,0,,Con đực trẻ
+Dialogue: 0,0:07:15.35,0:07:20.10,Default,,0,0,0,,đang cố thiết lập\Nvị thế của nó với con cái.
+Dialogue: 0,0:07:20.65,0:07:23.40,Default,,0,0,0,,Nó đang làm dáng, kích động.
+Dialogue: 0,0:07:23.48,0:07:25.07,Default,,0,0,0,,Nghe như ai đó chúng ta biết, nhỉ?
+Dialogue: 0,0:07:25.28,0:07:27.86,Default,,0,0,0,,Hãy nhớ đây là lần đầu\NPaavo tiếp xúc với cả bầy.
+Dialogue: 0,0:07:28.45,0:07:29.78,Default,,0,0,0,,Nên ta sẽ từ từ quan sát
+Dialogue: 0,0:07:29.91,0:07:32.53,Default,,0,0,0,,và xem nó phản hồi thế nào\Nvới lệnh của tôi.
+Dialogue: 0,0:07:43.38,0:07:44.38,Default,,0,0,0,,Paavo.
+Dialogue: 0,0:07:45.84,0:07:47.84,Default,,0,0,0,,Paavo. Paavo, ổn mà.
+Dialogue: 0,0:07:47.92,0:07:49.68,Default,,0,0,0,,Femi, Enu, về vị trí.
+Dialogue: 0,0:07:52.09,0:07:53.26,Default,,0,0,0,,Ngoan lắm.
+Dialogue: 0,0:07:55.01,0:07:56.01,Default,,0,0,0,,Từ từ nào.
+Dialogue: 0,0:07:57.31,0:07:58.68,Default,,0,0,0,,Thế đủ xa rồi. Paavo.
+Dialogue: 0,0:07:59.39,0:08:01.48,Default,,0,0,0,,Ổn mà. Bình tĩnh. Bình tĩnh.
+Dialogue: 0,0:08:01.60,0:08:02.98,Default,,0,0,0,,Tao đây.
+Dialogue: 0,0:08:08.40,0:08:09.40,Default,,0,0,0,,Bình tĩnh.
+Dialogue: 0,0:08:10.70,0:08:11.70,Default,,0,0,0,,Đúng rồi đó.
+Dialogue: 0,0:08:12.32,0:08:13.32,Default,,0,0,0,,- Tuyệt nhỉ?\N- Ừ.
+Dialogue: 0,0:08:13.37,0:08:14.37,Default,,0,0,0,,Cậu bé ngoan.
+Dialogue: 0,0:08:14.41,0:08:15.70,Default,,0,0,0,,Ngoan lắm.
+Dialogue: 0,0:08:19.66,0:08:20.91,Default,,0,0,0,,Ngoan lắm.
+Dialogue: 0,0:08:29.05,0:08:30.05,Default,,0,0,0,,Davis.
+Dialogue: 0,0:08:37.35,0:08:39.27,Default,,0,0,0,,Mọi người ở yên tại chỗ.\NKhông ai cử động.
+Dialogue: 0,0:08:39.77,0:08:40.60,Default,,0,0,0,,Anh điên à?
+Dialogue: 0,0:08:40.73,0:08:42.74,Default,,0,0,0,,Cử động là ta gặp rắc rối lớn.\NConnor, không cử động.
+Dialogue: 0,0:08:42.77,0:08:44.86,Default,,0,0,0,,Connor, làm như anh ấy nói.
+Dialogue: 0,0:08:45.90,0:08:46.65,Default,,0,0,0,,Paavo...
+Dialogue: 0,0:08:46.82,0:08:48.48,Default,,0,0,0,,Connor, đừng cử động!
+Dialogue: 0,0:08:49.69,0:08:50.82,Default,,0,0,0,,Paavo!
+Dialogue: 0,0:08:51.07,0:08:52.61,Default,,0,0,0,,Không! Paavo! Chết tiệt!
+Dialogue: 0,0:08:54.28,0:08:55.32,Default,,0,0,0,,Cứu! Cứu tôi!
+Dialogue: 0,0:08:55.53,0:08:56.53,Default,,0,0,0,,Không!
+Dialogue: 0,0:09:05.67,0:09:07.38,Default,,0,0,0,,Connor! Connor!
+Dialogue: 0,0:09:07.63,0:09:08.67,Default,,0,0,0,,Không sao.
+Dialogue: 0,0:09:08.88,0:09:10.71,Default,,0,0,0,,George! George!
+Dialogue: 0,0:09:11.01,0:09:12.38,Default,,0,0,0,,George!
+Dialogue: 0,0:09:12.55,0:09:16.01,Default,,0,0,0,,George!\NBình tĩnh nào anh bạn. Bình tĩnh.
+Dialogue: 0,0:09:22.27,0:09:23.77,Default,,0,0,0,,Rồi. Hiểu rồi.
+Dialogue: 0,0:09:23.85,0:09:25.40,Default,,0,0,0,,Rất vui. Rất hài hước đấy.
+Dialogue: 0,0:09:26.40,0:09:28.32,Default,,0,0,0,,Bọn tao rất ấn tượng. Đúng.
+Dialogue: 0,0:09:28.48,0:09:30.24,Default,,0,0,0,,Mày va tao,\Nđang cười vì trò đùa của mày, hả?
+Dialogue: 0,0:09:30.28,0:09:32.53,Default,,0,0,0,,Người mới, không cười nổi.
+Dialogue: 0,0:09:33.24,0:09:34.24,Default,,0,0,0,,Cậu ta khóc.
+Dialogue: 0,0:09:34.82,0:09:37.66,Default,,0,0,0,,Phải. Ừ, ngược với cười.
+Dialogue: 0,0:09:37.82,0:09:39.95,Default,,0,0,0,,- Connor, cậu dậy được rồi.\N- Anh chắc 100% chứ?
+Dialogue: 0,0:09:40.08,0:09:41.37,Default,,0,0,0,,Chắc 100%. Cậu dậy được rồi.
+Dialogue: 0,0:09:41.54,0:09:43.50,Default,,0,0,0,,Và kiểm tra tã đi. Nào, nhanh.
+Dialogue: 0,0:09:44.87,0:09:45.87,Default,,0,0,0,,Cậu ta khóc.
+Dialogue: 0,0:09:48.59,0:09:49.46,Default,,0,0,0,,Không sao, ổn cả.
+Dialogue: 0,0:09:49.59,0:09:50.80,Default,,0,0,0,,Nó sẽ không giết tôi chứ?
+Dialogue: 0,0:09:50.88,0:09:53.76,Default,,0,0,0,,Không, nó sẽ không giết cậu.\NNó có óc hài hước độc đáo lắm.
+Dialogue: 0,0:09:58.35,0:09:59.35,Default,,0,0,0,,Không, không.
+Dialogue: 0,0:09:59.47,0:10:01.18,Default,,0,0,0,,George không cứu Davis.
+Dialogue: 0,0:10:02.64,0:10:04.14,Default,,0,0,0,,Tao đâu cần mày cứu. Không.
+Dialogue: 0,0:10:04.31,0:10:05.87,Default,,0,0,0,,George không cứu Davis.\NMày đâu cứu tao.
+Dialogue: 0,0:10:05.94,0:10:08.31,Default,,0,0,0,,Tao tự lo được mà. Tao ổn.
+Dialogue: 0,0:10:08.48,0:10:12.03,Default,,0,0,0,,Đừng làm thế nữa. Nghe này\Nquan trọng là mày phải tử tế với Paavo.
+Dialogue: 0,0:10:13.03,0:10:14.44,Default,,0,0,0,,Nó còn nhỏ lắm.
+Dialogue: 0,0:10:17.11,0:10:19.66,Default,,0,0,0,,Bọn săn trộm đã giết cả nhà nó.
+Dialogue: 0,0:10:21.62,0:10:23.12,Default,,0,0,0,,Giờ nó ở trong bầy của mày.
+Dialogue: 0,0:10:24.33,0:10:25.83,Default,,0,0,0,,Tao muốn mày đón chào nó.
+Dialogue: 0,0:10:26.16,0:10:27.62,Default,,0,0,0,,Đón chào Paavo.
+Dialogue: 0,0:10:35.09,0:10:36.76,Default,,0,0,0,,George, mày và tao ổn chứ?
+Dialogue: 0,0:10:38.14,0:10:39.55,Default,,0,0,0,,Coi nào.
+Dialogue: 0,0:10:46.44,0:10:48.44,Default,,0,0,0,,Trời, tao không thể...Thôi nhé.
+Dialogue: 0,0:10:50.11,0:10:52.19,Default,,0,0,0,,Lẽ ra tao không nên dạy mày trò đó.\NDừng lại.
+Dialogue: 0,0:10:52.52,0:10:53.82,Default,,0,0,0,,Nào, tới đây. Làm với tao...
+Dialogue: 0,0:10:53.98,0:10:56.03,Default,,0,0,0,,Thôi! Đừng làm thế nữa.
+Dialogue: 0,0:10:56.24,0:10:58.74,Default,,0,0,0,,Dừng lại! Được rồi, nghe này.
+Dialogue: 0,0:10:59.32,0:11:02.08,Default,,0,0,0,,Tao cần mày bảo vệ Paavo.
+Dialogue: 0,0:11:06.83,0:11:08.00,Default,,0,0,0,,Gia đình.
+Dialogue: 0,0:11:20.39,0:11:22.26,Default,,0,0,0,,KHU LINH TRƯỞNG
+Dialogue: 0,0:11:22.43,0:11:24.43,Default,,0,0,0,,- Thế nào?\N- Mùi như món guacamole.
+Dialogue: 0,0:11:24.72,0:11:27.27,Default,,0,0,0,,Này! Davis.
+Dialogue: 0,0:11:27.48,0:11:28.31,Default,,0,0,0,,Chào cô.
+Dialogue: 0,0:11:28.44,0:11:30.94,Default,,0,0,0,,Xin chào. Tôi chỉ muốn nói là
+Dialogue: 0,0:11:31.36,0:11:33.57,Default,,0,0,0,,lúc này ở ngoài đó thật tuyệt.
+Dialogue: 0,0:11:33.69,0:11:34.86,Default,,0,0,0,,Cảm ơn cô.
+Dialogue: 0,0:11:35.03,0:11:38.15,Default,,0,0,0,,Và tôi muốn học thêm\Nvề mấy kỹ thuật thuần phục đó.
+Dialogue: 0,0:11:38.82,0:11:40.61,Default,,0,0,0,,Nếu anh có thời gian đi uống nước?
+Dialogue: 0,0:11:42.74,0:11:43.74,Default,,0,0,0,,Được!
+Dialogue: 0,0:11:44.16,0:11:45.45,Default,,0,0,0,,Cậu lại bị dị ứng à?
+Dialogue: 0,0:11:45.62,0:11:46.62,Default,,0,0,0,,Dị ứng lông.
+Dialogue: 0,0:11:46.70,0:11:48.16,Default,,0,0,0,,- Do lông.\N- Lông động vật.
+Dialogue: 0,0:11:49.83,0:11:51.30,Default,,0,0,0,,Dù sao cũng cảm ơn. Tôi rất cảm kích.
+Dialogue: 0,0:11:51.33,0:11:52.39,Default,,0,0,0,,Tối nay tôi có kế hoạch rồi.
+Dialogue: 0,0:11:52.42,0:11:53.50,Default,,0,0,0,,Hôm nay cô làm rất tốt.
+Dialogue: 0,0:11:53.67,0:11:54.67,Default,,0,0,0,,Tôi có làm gì đâu.
+Dialogue: 0,0:11:54.88,0:11:57.17,Default,,0,0,0,,Chính xác. Luật đầu tiên\Nkhi gặp động vật thù địch.
+Dialogue: 0,0:11:57.26,0:11:58.63,Default,,0,0,0,,Là phải giữ bình tĩnh.
+Dialogue: 0,0:12:00.51,0:12:03.51,Default,,0,0,0,,Tối nay tôi có nướng bánh mì cải kale\Nnếu cô thích.
+Dialogue: 0,0:12:03.60,0:12:06.39,Default,,0,0,0,,Không, tôi biết cô dị ứng gluten.\NĐược rồi, sáng mai gặp lại.
+Dialogue: 0,0:12:07.43,0:12:09.77,Default,,0,0,0,,Cô ấy dùng từ "thuần phục".\NẨn ý đấy.
+Dialogue: 0,0:12:09.94,0:12:12.03,Default,,0,0,0,,Tôi có nên quay vào bảo cô ấy\Nlà anh có hẹn với bầy chó?
+Dialogue: 0,0:12:12.06,0:12:15.36,Default,,0,0,0,,Cậu biết tôi mà, Nelson.\NTôi cần thời gian cho riêng mình.
+Dialogue: 0,0:12:15.57,0:12:16.61,Default,,0,0,0,,Thời gian riêng?
+Dialogue: 0,0:12:17.32,0:12:18.32,Default,,0,0,0,,Nghe này anh bạn.
+Dialogue: 0,0:12:18.40,0:12:20.24,Default,,0,0,0,,Vì ai cũng sợ nói điều này với anh,\Ntôi sẽ nói.
+Dialogue: 0,0:12:23.78,0:12:25.08,Default,,0,0,0,,Thuật ngữ là gì nhỉ?
+Dialogue: 0,0:12:25.33,0:12:28.37,Default,,0,0,0,,Thật là khi anh thích chơi với động vật\Nhơn với con người.
+Dialogue: 0,0:12:29.29,0:12:30.29,Default,,0,0,0,,Chúng hiểu tôi.
+Dialogue: 0,0:12:30.33,0:12:33.00,Default,,0,0,0,,Động vật thích cậu, sẽ liếm cậu.\NChúng không thích, sẽ xơi cậu.
+Dialogue: 0,0:12:33.13,0:12:34.25,Default,,0,0,0,,Cậu luôn biết mình đứng đâu.
+Dialogue: 0,0:12:34.38,0:12:36.84,Default,,0,0,0,,Hoặc nằm đâu. Nằm trọn\Ntrong bụng chúng vì chúng đã xơi anh.
+Dialogue: 0,0:12:36.96,0:12:39.72,Default,,0,0,0,,Đó là vấn đề nghiêm túc.\NNhân tiện, anh cũng là thức ăn đấy.
+Dialogue: 0,0:12:39.88,0:12:41.09,Default,,0,0,0,,Rồi, đi đi, bự con đa cảm.
+Dialogue: 0,0:12:42.09,0:12:43.26,Default,,0,0,0,,Chào bầy chó giúp tôi nhé.
+Dialogue: 0,0:12:43.39,0:12:44.55,Default,,0,0,0,,Tôi sẽ chào.
+Dialogue: 0,0:12:52.44,0:12:53.85,Default,,0,0,0,,Phụ nữ thích anh ấy.
+Dialogue: 0,0:12:55.06,0:12:56.86,Default,,0,0,0,,Chắc mình nên cạo trọc.
+Dialogue: 0,0:13:29.93,0:13:31.93,Default,,0,0,0,,Công viên Quốc gia Everglades
+Dialogue: 0,0:14:23.07,0:14:24.75,Default,,0,0,0,,Tôi thấy tin cậu nhắn về George.\NNó ổn chứ?
+Dialogue: 0,0:14:24.86,0:14:26.78,Default,,0,0,0,,- Tôi không rõ.\N- Ý cậu là sao?
+Dialogue: 0,0:14:26.91,0:14:28.12,Default,,0,0,0,,Davis. Davis!
+Dialogue: 0,0:14:29.41,0:14:31.99,Default,,0,0,0,,Nó ở trong khu nuôi gấu xám.
+Dialogue: 0,0:14:33.29,0:14:34.71,Default,,0,0,0,,Cái gì?
+Dialogue: 0,0:14:49.76,0:14:51.51,Default,,0,0,0,,Chúa ơi.
+Dialogue: 0,0:15:03.53,0:15:05.28,Default,,0,0,0,,- Bỏ súng xuống.\N- Sao?
+Dialogue: 0,0:15:05.44,0:15:07.20,Default,,0,0,0,,Cậu biết nó nhạy cảm với súng mà.\NBỏ xuống.
+Dialogue: 0,0:15:07.32,0:15:08.24,Default,,0,0,0,,Anh chắc chứ?
+Dialogue: 0,0:15:08.32,0:15:10.57,Default,,0,0,0,,Bỏ xuống. Tôi sẽ nói chuyện với nó.
+Dialogue: 0,0:15:21.04,0:15:22.34,Default,,0,0,0,,George này?
+Dialogue: 0,0:15:23.67,0:15:25.05,Default,,0,0,0,,Không sao mà.
+Dialogue: 0,0:15:25.71,0:15:26.88,Default,,0,0,0,,Là tao đây.
+Dialogue: 0,0:15:36.93,0:15:38.06,Default,,0,0,0,,Đã có chuyện gì?
+Dialogue: 0,0:15:41.56,0:15:42.65,Default,,0,0,0,,Mày buồn.
+Dialogue: 0,0:15:43.02,0:15:44.52,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:15:45.61,0:15:47.53,Default,,0,0,0,,Mày đánh nó hả?
+Dialogue: 0,0:15:49.86,0:15:50.91,Default,,0,0,0,,"Xin lỗi" hả?
+Dialogue: 0,0:15:52.53,0:15:53.95,Default,,0,0,0,,Không sao.
+Dialogue: 0,0:16:00.25,0:16:01.88,Default,,0,0,0,,Nó làm mày bị thương?
+Dialogue: 0,0:16:05.21,0:16:06.38,Default,,0,0,0,,Nó làm mày sợ.
+Dialogue: 0,0:16:07.92,0:16:08.92,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:16:13.72,0:16:14.72,Default,,0,0,0,,George.
+Dialogue: 0,0:16:15.51,0:16:16.51,Default,,0,0,0,,George.
+Dialogue: 0,0:16:18.14,0:16:19.27,Default,,0,0,0,,Sợ là bình thường.
+Dialogue: 0,0:16:19.48,0:16:21.52,Default,,0,0,0,,Không sao. Bình tĩnh nào.
+Dialogue: 0,0:16:24.48,0:16:25.48,Default,,0,0,0,,Từ từ thôi.
+Dialogue: 0,0:16:35.53,0:16:37.62,Default,,0,0,0,,Là do tôi hay nó to hơn nhiều vậy?
+Dialogue: 0,0:16:38.45,0:16:40.58,Default,,0,0,0,,Không, chăc chắn là nó to hơn.
+Dialogue: 0,0:16:40.83,0:16:41.83,Default,,0,0,0,,Connor đây.
+Dialogue: 0,0:16:41.87,0:16:44.21,Default,,0,0,0,,Các anh cần qua khu nuôi khỉ đột.
+Dialogue: 0,0:16:57.14,0:16:58.27,Default,,0,0,0,,Chuyện gì xảy ra?
+Dialogue: 0,0:16:58.43,0:17:00.36,Default,,0,0,0,,Chúng tôi kiểm tra thường lệ\Nthì thấy đám lá cháy.
+Dialogue: 0,0:17:00.39,0:17:02.23,Default,,0,0,0,,Và tìm thấy cái này.
+Dialogue: 0,0:17:02.73,0:17:04.15,Default,,0,0,0,,Đưa bộ dụng cụ cho tôi.
+Dialogue: 0,0:17:20.41,0:17:21.58,Default,,0,0,0,,Cái gì đây?
+Dialogue: 0,0:17:22.37,0:17:25.58,Default,,0,0,0,,Tôi không biết.\NNhưng chúng ta sẽ phải tìm ra.
+Dialogue: 0,0:17:27.96,0:17:30.17,Default,,0,0,0,,Phế vật ngu ngốc!
+Dialogue: 0,0:17:30.38,0:17:32.05,Default,,0,0,0,,Trạm không gian nhỏ này!
+Dialogue: 0,0:17:34.97,0:17:35.97,Default,,0,0,0,,Em xong chưa?
+Dialogue: 0,0:17:37.55,0:17:40.10,Default,,0,0,0,,Chúng ta vừa mất hàng tỷ đô-la, Claire.
+Dialogue: 0,0:17:40.35,0:17:41.85,Default,,0,0,0,,Nói cho đúng là mười tỷ.
+Dialogue: 0,0:17:42.02,0:17:44.48,Default,,0,0,0,,Và 20 ngàn đô\Ncho mô hình em vừa phá hủy.
+Dialogue: 0,0:17:45.10,0:17:46.90,Default,,0,0,0,,Sáng nay cổ phiếu chúng ta sụt thê thảm.
+Dialogue: 0,0:17:47.73,0:17:48.86,Default,,0,0,0,,Mất 20%.
+Dialogue: 0,0:17:49.02,0:17:50.69,Default,,0,0,0,,Và chị không tức giận vì...?
+Dialogue: 0,0:17:50.86,0:17:53.03,Default,,0,0,0,,Vì Dự án Siêu thú thành công.
+Dialogue: 0,0:17:53.82,0:17:56.24,Default,,0,0,0,,- Em biết điều đó đáng giá bao nhiêu chứ?\N- Bằng không.
+Dialogue: 0,0:17:56.37,0:17:59.08,Default,,0,0,0,,Vì tất cả nghiên cứu của chúng ta\Nở trạm không gian đó.
+Dialogue: 0,0:17:59.62,0:18:01.16,Default,,0,0,0,,Thật ra
+Dialogue: 0,0:18:02.95,0:18:05.21,Default,,0,0,0,,Atkins đã đưa các mẫu nghiên cứu\Nvào một kén cứu hộ.
+Dialogue: 0,0:18:05.37,0:18:07.33,Default,,0,0,0,,Phải, kén cứu hộ đã nổ tung.
+Dialogue: 0,0:18:07.46,0:18:09.92,Default,,0,0,0,,Nhưng hộp chứa chịu được\Nlúc vào lại khí quyển.
+Dialogue: 0,0:18:10.84,0:18:13.26,Default,,0,0,0,,Và Hội Thiên thạch Mỹ\Nvừa báo cáo một vụ thiên thạch rơi.
+Dialogue: 0,0:18:13.38,0:18:14.84,Default,,0,0,0,,Ở miền Nam của Wyoming.
+Dialogue: 0,0:18:15.01,0:18:18.01,Default,,0,0,0,,Chúng ta chỉ cần lấy lại nó.
+Dialogue: 0,0:18:19.14,0:18:20.64,Default,,0,0,0,,Chà, vậy đến đó thôi!
+Dialogue: 0,0:18:20.85,0:18:23.35,Default,,0,0,0,,Có ai tìm ra mẫu vật đó\Nlà nó sẽ dẫn thẳng về chúng ta.
+Dialogue: 0,0:18:23.48,0:18:25.60,Default,,0,0,0,,Cho chị xin, diễn sâu vậy đủ rồi.
+Dialogue: 0,0:18:25.73,0:18:26.98,Default,,0,0,0,,Em không diễn sâu, Claire.
+Dialogue: 0,0:18:27.15,0:18:29.73,Default,,0,0,0,,Có lý do nên ta mới làm\Ncác thí nghiệm này trong không gian.
+Dialogue: 0,0:18:29.82,0:18:31.42,Default,,0,0,0,,Và không phải vì tốt hơn cho loài người.
+Dialogue: 0,0:18:32.48,0:18:33.57,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:18:33.99,0:18:34.99,Default,,0,0,0,,Nghe này...
+Dialogue: 0,0:18:35.74,0:18:37.11,Default,,0,0,0,,em lo báo chí
+Dialogue: 0,0:18:37.49,0:18:39.32,Default,,0,0,0,,còn chị sẽ nói Burke lo cái hộp.
+Dialogue: 0,0:18:39.45,0:18:40.58,Default,,0,0,0,,Burke là ai?
+Dialogue: 0,0:18:40.70,0:18:43.29,Default,,0,0,0,,Nhớ công ty quân sự tư nhân\Nta thâu tóm năm ngoái chứ?
+Dialogue: 0,0:18:43.45,0:18:45.04,Default,,0,0,0,,Em đã gọi họ là đồ chơi.
+Dialogue: 0,0:18:45.46,0:18:46.92,Default,,0,0,0,,Thì sao?
+Dialogue: 0,0:18:47.75,0:18:49.84,Default,,0,0,0,,Anh ta chính là trùm đồ chơi.
+Dialogue: 0,0:19:11.98,0:19:12.98,Default,,0,0,0,,Sếp.
+Dialogue: 0,0:19:13.44,0:19:15.49,Default,,0,0,0,,Lên đi! Các anh đi được rồi.
+Dialogue: 0,0:19:16.53,0:19:17.57,Default,,0,0,0,,Tiến hành nào.
+Dialogue: 0,0:19:29.54,0:19:30.58,Default,,0,0,0,,Đi đâu, Burke?
+Dialogue: 0,0:19:31.00,0:19:32.00,Default,,0,0,0,,Wyoming.
+Dialogue: 0,0:19:32.21,0:19:33.21,Default,,0,0,0,,Chưa từng đến đó.
+Dialogue: 0,0:19:33.42,0:19:35.46,Default,,0,0,0,,Rất nhiều núi, không nhiều người.
+Dialogue: 0,0:19:35.67,0:19:38.18,Default,,0,0,0,,Động vật thích chỗ đó.\NCậu sẽ hòa nhập ngay thôi.
+Dialogue: 0,0:19:57.82,0:19:59.95,Default,,0,0,0,,KHÁI NIỆM DI TRUYỀN\NNGUYÊN TẮC & PHÂN TÍCH DI TRUYỀN
+Dialogue: 0,0:20:05.16,0:20:06.16,Default,,0,0,0,,Chết tiệt.
+Dialogue: 0,0:20:06.79,0:20:07.83,Default,,0,0,0,,Chào Mark.
+Dialogue: 0,0:20:08.04,0:20:10.46,Default,,0,0,0,,Cô ở đâu rồi?\NCô biết mấy giờ rồi không?
+Dialogue: 0,0:20:10.58,0:20:11.83,Default,,0,0,0,,Vâng, vâng...
+Dialogue: 0,0:20:13.17,0:20:14.25,Default,,0,0,0,,Vâng, xin lỗi.
+Dialogue: 0,0:20:14.34,0:20:16.71,Default,,0,0,0,,Tôi đang trên xa lộ.
+Dialogue: 0,0:20:16.88,0:20:18.63,Default,,0,0,0,,Và gần đến đó rồi.
+Dialogue: 0,0:20:19.38,0:20:22.14,Default,,0,0,0,,Tôi biết tuần này tôi đã đi muộn hai lần
+Dialogue: 0,0:20:22.30,0:20:23.89,Default,,0,0,0,,nhưng sẽ không tái diễn đâu.
+Dialogue: 0,0:20:24.05,0:20:27.14,Default,,0,0,0,,Brett Wyden nói về tình hình\Nvới một tuyên bố ngắn gọn.
+Dialogue: 0,0:20:27.31,0:20:30.44,Default,,0,0,0,,Chị tôi, tôi và mọi người ở Energyna\Nbàng hoàng và đau buồn sâu sắc
+Dialogue: 0,0:20:30.52,0:20:32.31,Default,,0,0,0,,trước tổn thất của phi hành đoàn Athena-1.
+Dialogue: 0,0:20:32.44,0:20:34.73,Default,,0,0,0,,Đó là những người can đảm\Ntài giỏi của khoa học.
+Dialogue: 0,0:20:34.82,0:20:36.73,Default,,0,0,0,,Đã tận tâm để giúp nhân loại.
+Dialogue: 0,0:20:36.94,0:20:38.91,Default,,0,0,0,,Và chúng tôi sẽ tiếp tục công việc đó\Nđể vinh danh họ.
+Dialogue: 0,0:20:38.94,0:20:39.99,Default,,0,0,0,,Đủ rồi. Cảm ơn.
+Dialogue: 0,0:20:40.11,0:20:41.82,Default,,0,0,0,,Giúp nhân loại cái khỉ gió.
+Dialogue: 0,0:20:43.82,0:20:47.54,Default,,0,0,0,,Từ lúc đó, Phố Wall đã giám sát kỹ\Nhoạt động của Energyne.
+Dialogue: 0,0:20:47.70,0:20:49.00,Default,,0,0,0,,Giờ là tin chính trị...
+Dialogue: 0,0:20:50.16,0:20:52.29,Default,,0,0,0,,Bạn đang xem\Nvideo ấn tượng về một quả cầu lửa.
+Dialogue: 0,0:20:52.42,0:20:55.21,Default,,0,0,0,,Rơi xuống gần\NKhu bảo tồn Hoang dã San Deigo.
+Dialogue: 0,0:20:55.34,0:20:58.88,Default,,0,0,0,,Nó được cho là mảnh vụn từ\Nthảm kịch tối qua của Athena -1.
+Dialogue: 0,0:20:59.09,0:21:00.77,Default,,0,0,0,,Tuy vậy, chưa rõ\Nliệu việc này có liên quan
+Dialogue: 0,0:21:00.80,0:21:02.97,Default,,0,0,0,,đến một trong các con khỉ đột\Ntrốn khỏi nơi nuôi.
+Dialogue: 0,0:21:03.09,0:21:04.47,Default,,0,0,0,,Tại khu bảo tồn sáng sớm nay
+Dialogue: 0,0:21:04.55,0:21:06.14,Default,,0,0,0,,Tên con khỉ đột là George...
+Dialogue: 0,0:21:06.26,0:21:09.14,Default,,0,0,0,,Chờ chút, Mark. Chiếc xe trước mặt tôi.
+Dialogue: 0,0:21:09.22,0:21:11.56,Default,,0,0,0,,- Vừa nổ tung.\N- Cái gì?
+Dialogue: 0,0:21:12.10,0:21:14.77,Default,,0,0,0,,Hiện chưa có lời giải thích\Nvề hành vi của con linh trưởng này
+Dialogue: 0,0:21:14.94,0:21:17.23,Default,,0,0,0,,và lãnh đạo sở thú\Nkhông bình luận gì vào lúc này.
+Dialogue: 0,0:21:17.36,0:21:20.49,Default,,0,0,0,,Jason Sloss của chúng tôi đang ở đó.\NJason anh đã nghe được gì?
+Dialogue: 0,0:21:20.61,0:21:23.32,Default,,0,0,0,,Đúng, Chris và Maria. Tôi đang ở\NKhu bảo tồn Hoang dã San Deigo.
+Dialogue: 0,0:21:23.49,0:21:25.32,Default,,0,0,0,,Và từ ngữ mọi người đang dùng
+Dialogue: 0,0:21:25.49,0:21:28.41,Default,,0,0,0,,để mô tả cuộc đào thoát\Ncủa con khỉ đột là "sửng sốt".
+Dialogue: 0,0:21:40.46,0:21:42.34,Default,,0,0,0,,Ở đó. Hạ cánh.
+Dialogue: 0,0:22:06.99,0:22:10.16,Default,,0,0,0,,Chúng tôi đã thu hồi hộp đựng,\Nnhưng nó hư hại nặng.
+Dialogue: 0,0:22:10.37,0:22:12.08,Default,,0,0,0,,Thứ ở trong đã bị phá hủy rồi.
+Dialogue: 0,0:22:12.95,0:22:14.04,Default,,0,0,0,,Có một việc khác.
+Dialogue: 0,0:22:15.71,0:22:17.33,Default,,0,0,0,,Lũ sói đã bị tàn sát.
+Dialogue: 0,0:22:17.58,0:22:21.13,Default,,0,0,0,,Từ dấu vết,\Ncó vẻ một con khác đã giết cả bầy.
+Dialogue: 0,0:22:21.42,0:22:22.96,Default,,0,0,0,,Nó đã bị nhiễm mầm bệnh.
+Dialogue: 0,0:22:25.22,0:22:27.64,Default,,0,0,0,,Burke, tôi cần con sói đó.\NSống hay chết cũng được.
+Dialogue: 0,0:22:28.30,0:22:29.89,Default,,0,0,0,,Nghe rõ.
+Dialogue: 0,0:22:33.39,0:22:36.65,Default,,0,0,0,,Đây là danh sách các loài lai chưa biết\Nmà anh đã nói.
+Dialogue: 0,0:22:39.44,0:22:40.90,Default,,0,0,0,,Kết quả kiểm tra của George đã có.
+Dialogue: 0,0:22:41.57,0:22:43.07,Default,,0,0,0,,Anh sẽ không thích đâu.
+Dialogue: 0,0:22:46.28,0:22:47.95,Default,,0,0,0,,Không thể nào như vậy.
+Dialogue: 0,0:22:48.12,0:22:50.28,Default,,0,0,0,,Hoạt động tiếp hợp thần kinh cơ của nó\Ncao vọt lên,
+Dialogue: 0,0:22:50.41,0:22:53.33,Default,,0,0,0,,máu có độ tập trung hooc-môn tăng trưởng\Nở mức tử vong,
+Dialogue: 0,0:22:54.25,0:22:55.25,Default,,0,0,0,,nó sẽ chết.
+Dialogue: 0,0:22:55.66,0:22:56.71,Default,,0,0,0,,Kiểm tra lại đi.
+Dialogue: 0,0:22:56.83,0:22:57.87,Default,,0,0,0,,Tôi làm rồi.
+Dialogue: 0,0:22:58.42,0:23:00.38,Default,,0,0,0,,Tôi đã làm ba lần.\NMỗi làn chỉ số lại tăng.
+Dialogue: 0,0:23:01.25,0:23:02.75,Default,,0,0,0,,Ta không thể giữ im lặng chuyện này.
+Dialogue: 0,0:23:02.96,0:23:04.30,Default,,0,0,0,,Bên Phản hồi Động vật đang hỏi.
+Dialogue: 0,0:23:04.42,0:23:06.34,Default,,0,0,0,,Tôi vừa né một cuộc gọi.\NAi đó bên chính quyền.
+Dialogue: 0,0:23:06.38,0:23:07.84,Default,,0,0,0,,Anh muốn tôi nói gì với mọi người?
+Dialogue: 0,0:23:07.93,0:23:09.59,Default,,0,0,0,,Không nói gì cả.
+Dialogue: 0,0:23:09.76,0:23:10.97,Default,,0,0,0,,Nó không làm việc đó, Nelson.
+Dialogue: 0,0:23:11.10,0:23:12.44,Default,,0,0,0,,Nhìn nó xem.\NCó người gây ra cho nó.
+Dialogue: 0,0:23:12.47,0:23:15.52,Default,,0,0,0,,Davis, nó đã giết một con gấu xám.
+Dialogue: 0,0:23:15.64,0:23:17.27,Default,,0,0,0,,Bẻ cổ con gấu như bẻ tăm.
+Dialogue: 0,0:23:17.44,0:23:20.61,Default,,0,0,0,,Theo thủ tục, có dấu hiệu hiếu chiến\Nđầu tiên thì cách ly ngay.
+Dialogue: 0,0:23:20.69,0:23:21.86,Default,,0,0,0,,Ta đang làm thế đây.
+Dialogue: 0,0:23:21.98,0:23:23.40,Default,,0,0,0,,Thế này là lách thủ tục.
+Dialogue: 0,0:23:24.36,0:23:26.36,Default,,0,0,0,,Davis, nhìn nó đi.
+Dialogue: 0,0:23:26.49,0:23:28.70,Default,,0,0,0,,- Tôi đang nhìn.\N- Nhìn thật sự đi!
+Dialogue: 0,0:23:31.28,0:23:33.66,Default,,0,0,0,,Đây không phải George mà ta biết.
+Dialogue: 0,0:23:37.91,0:23:39.67,Default,,0,0,0,,Nếu ta báo cáo vụ này, họ sẽ giết nó ngay.
+Dialogue: 0,0:23:42.34,0:23:44.13,Default,,0,0,0,,Tôi không thể để việc đó xảy ra.
+Dialogue: 0,0:23:50.55,0:23:52.43,Default,,0,0,0,,Tôi sẽ cản mọi người cho anh\Nlâu hết sức có thể.
+Dialogue: 0,0:23:53.22,0:23:54.22,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:23:55.06,0:23:56.06,Default,,0,0,0,,Cảm ơn cậu.
+Dialogue: 0,0:24:14.95,0:24:16.83,Default,,0,0,0,,Tao sẽ tìm ra cách, George.
+Dialogue: 0,0:24:20.00,0:24:21.25,Default,,0,0,0,,Tao hứa đó.
+Dialogue: 0,0:24:26.05,0:24:27.92,Default,,0,0,0,,Được rồi, mọi người, nghe đây.
+Dialogue: 0,0:24:28.17,0:24:31.47,Default,,0,0,0,,Tôi cần tìm ai đó biết chính xác\Nthứ quái quỷ này là gì.
+Dialogue: 0,0:24:31.64,0:24:32.84,Default,,0,0,0,,Tôi đã tìm ra cô ấy!
+Dialogue: 0,0:24:33.01,0:24:35.01,Default,,0,0,0,,Không, xạo đấy.\NĐúng ra là cô ấy tìm chúng ta.
+Dialogue: 0,0:24:35.10,0:24:37.06,Default,,0,0,0,,Hẳn anh là Davis Okoye.
+Dialogue: 0,0:24:37.22,0:24:39.56,Default,,0,0,0,,Cảm ơn sự giúp đỡ của anh rất nhiều.
+Dialogue: 0,0:24:39.77,0:24:40.77,Default,,0,0,0,,Giúp gì cơ?
+Dialogue: 0,0:24:40.89,0:24:43.77,Default,,0,0,0,,Tôi là Kate Caldwell.\NNhà di truyền học ở Energyne.
+Dialogue: 0,0:24:45.02,0:24:46.54,Default,,0,0,0,,Anh đã thu hồi mẫu nghiên cứu của tôi.
+Dialogue: 0,0:24:46.65,0:24:47.82,Default,,0,0,0,,Ý cô là cái này?
+Dialogue: 0,0:24:48.53,0:24:51.53,Default,,0,0,0,,Hãy nói là anh đã\Nkiểm tra dư lượng phóng xạ.
+Dialogue: 0,0:24:51.91,0:24:54.20,Default,,0,0,0,,Đó đúng là việc tôi đã làm.\NTôi luôn làm thế.
+Dialogue: 0,0:24:54.32,0:24:55.62,Default,,0,0,0,,Mỗi khi có thứ gì mới.
+Dialogue: 0,0:24:55.83,0:24:57.62,Default,,0,0,0,,Amy, kiểm tra dư lượng phóng xạ cái này.
+Dialogue: 0,0:24:57.79,0:24:58.79,Default,,0,0,0,,Tôi cần lấy lại nó.
+Dialogue: 0,0:24:58.87,0:25:01.42,Default,,0,0,0,,Thật ra, tôi cần đáp án cho vài câu hỏi.
+Dialogue: 0,0:25:01.71,0:25:04.21,Default,,0,0,0,,Ví dụ như thứ này\Ngây ra gì cho bạn tôi vậy?
+Dialogue: 0,0:25:05.13,0:25:08.05,Default,,0,0,0,,Tôi không được phép nói chuyện đó với anh.
+Dialogue: 0,0:25:08.84,0:25:09.84,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:25:10.76,0:25:12.31,Default,,0,0,0,,Tôi cho là chúng ta không thể giúp nhau.
+Dialogue: 0,0:25:12.34,0:25:14.76,Default,,0,0,0,,Kate Caldwell, rất vui được gặp cô.\NNelson, tiễn khách.
+Dialogue: 0,0:25:14.93,0:25:16.14,Default,,0,0,0,,Nó đang lớn lên, phải không?
+Dialogue: 0,0:25:17.81,0:25:19.22,Default,,0,0,0,,Ở mức chưa từng thấy?
+Dialogue: 0,0:25:20.23,0:25:24.06,Default,,0,0,0,,Tăng sức mạnh, tốc độ, sự linh hoạt.
+Dialogue: 0,0:25:24.27,0:25:27.94,Default,,0,0,0,,Thể hiện mức độ hiếu chiến\Nmà anh không thấy ở loài của nó.
+Dialogue: 0,0:25:31.40,0:25:32.78,Default,,0,0,0,,Đi với tôi.
+Dialogue: 0,0:25:39.29,0:25:41.50,Default,,0,0,0,,Tối qua, nó cao 2,1 mét, nặng 227kg.
+Dialogue: 0,0:25:41.62,0:25:44.21,Default,,0,0,0,,Sáng nay, nó gần 2,7 mét, 450 kg.
+Dialogue: 0,0:25:46.08,0:25:47.42,Default,,0,0,0,,Lông của nó?
+Dialogue: 0,0:25:47.67,0:25:48.75,Default,,0,0,0,,Ừ, nó bạch tạng.
+Dialogue: 0,0:25:48.88,0:25:51.63,Default,,0,0,0,,Theo tôi biết, nó là\Ncon khỉ duy nhất loại này còn sống.
+Dialogue: 0,0:25:55.26,0:25:56.51,Default,,0,0,0,,Nó biết ra dấu?
+Dialogue: 0,0:25:56.64,0:25:57.82,Default,,0,0,0,,Phải, nó biết ra dấu và nó đang đói.
+Dialogue: 0,0:25:57.85,0:25:59.43,Default,,0,0,0,,Mọi người, cho George gì đó để ăn.
+Dialogue: 0,0:25:59.56,0:26:01.68,Default,,0,0,0,,Được rồi. Giỏi lắm, anh bạn.
+Dialogue: 0,0:26:03.02,0:26:04.48,Default,,0,0,0,,Cũng hợp lý.
+Dialogue: 0,0:26:04.69,0:26:05.94,Default,,0,0,0,,Hẳn là nó phải đói lắm.
+Dialogue: 0,0:26:06.02,0:26:07.81,Default,,0,0,0,,Nó tăng trưởng quá nhanh mà.
+Dialogue: 0,0:26:07.90,0:26:09.02,Default,,0,0,0,,"Hợp lý"?
+Dialogue: 0,0:26:09.48,0:26:10.82,Default,,0,0,0,,Tối qua nó giết một con gấu xám.
+Dialogue: 0,0:26:10.86,0:26:12.78,Default,,0,0,0,,Thú săn mồi trên mặt đất\Nmạnh nhất hành tinh đó.
+Dialogue: 0,0:26:12.90,0:26:15.49,Default,,0,0,0,,Nói tôi nghe đi Kate, hợp lý thế nào.
+Dialogue: 0,0:26:15.66,0:26:17.32,Default,,0,0,0,,Anh nghe chữ CRISPR có quen không?
+Dialogue: 0,0:26:17.49,0:26:18.62,Default,,0,0,0,,Có, biến đổi gien.
+Dialogue: 0,0:26:18.74,0:26:20.29,Default,,0,0,0,,Chỉnh sửa gien thì đúng hơn.
+Dialogue: 0,0:26:20.41,0:26:23.33,Default,,0,0,0,,Tôi đang nói về\Nnhững kết quả hết sức cụ thể.
+Dialogue: 0,0:26:23.71,0:26:24.75,Default,,0,0,0,,Xem đi.
+Dialogue: 0,0:26:25.21,0:26:27.54,Default,,0,0,0,,Cá mập tăng trưởng vô hạn, đúng không?
+Dialogue: 0,0:26:27.63,0:26:28.84,Default,,0,0,0,,Chúng không bao giờ dừng.
+Dialogue: 0,0:26:28.92,0:26:31.00,Default,,0,0,0,,Cách ly gien đó\Nvà kết hợp nó với, ví dụ,
+Dialogue: 0,0:26:31.09,0:26:33.05,Default,,0,0,0,,tốc độ tăng trưởng của cá voi xanh,
+Dialogue: 0,0:26:33.17,0:26:34.88,Default,,0,0,0,,sức mạnh của bọ Kiến Vương,
+Dialogue: 0,0:26:35.01,0:26:36.18,Default,,0,0,0,,tốc độ của báo đốm...
+Dialogue: 0,0:26:36.22,0:26:39.30,Default,,0,0,0,,Ta có một con khỉ đột hoang mang\Nhạ gục được gấu xám.
+Dialogue: 0,0:26:39.39,0:26:42.22,Default,,0,0,0,,Chúng tôi đã phát triển\Nrất nhiều tổ hợp gien khác nhau
+Dialogue: 0,0:26:42.31,0:26:45.56,Default,,0,0,0,,nên các thay đổi\Nsẽ vô cũng khó dự đoán.
+Dialogue: 0,0:26:45.69,0:26:47.31,Default,,0,0,0,,Được rồi. Kate, tôi hiểu
+Dialogue: 0,0:26:47.44,0:26:49.69,Default,,0,0,0,,nhưng chưa giải thích được\Nlàm sao mà nó bự gấp đôi.
+Dialogue: 0,0:26:49.82,0:26:51.40,Default,,0,0,0,,Chúng ta cần đồ ăn ngay.
+Dialogue: 0,0:26:51.57,0:26:53.90,Default,,0,0,0,,CRISPR chỉ cho anh sửa đổi.
+Dialogue: 0,0:26:53.99,0:26:56.24,Default,,0,0,0,,ADN của một tế bào mỗi lần.
+Dialogue: 0,0:26:56.36,0:26:58.37,Default,,0,0,0,,Nhưng tôi đã phát triển một hệ thống
+Dialogue: 0,0:26:58.45,0:27:03.20,Default,,0,0,0,,cấp tốc truyền các thay đổi\Nđến từng chuỗi ADN trong cơ thể vật chủ.
+Dialogue: 0,0:27:03.91,0:27:05.75,Default,,0,0,0,,Anh Okoye, nghe tôi này.
+Dialogue: 0,0:27:05.91,0:27:09.00,Default,,0,0,0,,Tôi là người duy nhất chữa được cho nó.
+Dialogue: 0,0:27:11.80,0:27:12.80,Default,,0,0,0,,George!
+Dialogue: 0,0:27:16.80,0:27:17.84,Default,,0,0,0,,George! Không!
+Dialogue: 0,0:27:24.85,0:27:25.85,Default,,0,0,0,,Lồng sẽ không trụ nổi.
+Dialogue: 0,0:27:26.81,0:27:27.81,Default,,0,0,0,,Kate!
+Dialogue: 0,0:27:31.90,0:27:33.23,Default,,0,0,0,,Mọi người lùi lại!
+Dialogue: 0,0:27:43.04,0:27:44.95,Default,,0,0,0,,Đừng vậy nữa chứ!
+Dialogue: 0,0:27:46.75,0:27:47.75,Default,,0,0,0,,George!
+Dialogue: 0,0:27:48.37,0:27:50.75,Default,,0,0,0,,George! Dừng lại. George!
+Dialogue: 0,0:27:50.96,0:27:51.96,Default,,0,0,0,,Davis!
+Dialogue: 0,0:27:53.75,0:27:55.38,Default,,0,0,0,,Chết tiệt. Gọi 911 đi!
+Dialogue: 0,0:27:55.51,0:27:56.63,Default,,0,0,0,,Đi nào!
+Dialogue: 0,0:27:57.13,0:27:58.19,Default,,0,0,0,,KHU BẢO TỒN HOANG DÃ SAN DIEGO
+Dialogue: 0,0:27:58.22,0:27:59.22,Default,,0,0,0,,Coi chừng!
+Dialogue: 0,0:28:18.53,0:28:19.86,Default,,0,0,0,,George! George!
+Dialogue: 0,0:28:19.95,0:28:21.99,Default,,0,0,0,,George! Không sao. Ổn mà.
+Dialogue: 0,0:28:22.07,0:28:23.16,Default,,0,0,0,,Không sao mà.
+Dialogue: 0,0:28:23.33,0:28:25.95,Default,,0,0,0,,Ừ, tao biết mày sợ. Tao sẽ giúp mày.
+Dialogue: 0,0:28:29.92,0:28:31.08,Default,,0,0,0,,Không, không...
+Dialogue: 0,0:28:33.09,0:28:34.25,Default,,0,0,0,,Không, ổn mà.
+Dialogue: 0,0:28:34.38,0:28:35.55,Default,,0,0,0,,Anh hãy tránh xa con thú!
+Dialogue: 0,0:28:35.71,0:28:37.26,Default,,0,0,0,,Ổn mà. Không có gì hết.
+Dialogue: 0,0:28:37.46,0:28:39.80,Default,,0,0,0,,Tôi là nhà linh trưởng học.\NTôi chăm sóc con thú này.
+Dialogue: 0,0:28:40.01,0:28:42.80,Default,,0,0,0,,Tôi xử lý được tình huống này.\NTôi cần các anh hạ vũ khí xuống.
+Dialogue: 0,0:28:43.60,0:28:44.60,Default,,0,0,0,,Làm ơn.
+Dialogue: 0,0:28:47.31,0:28:48.35,Default,,0,0,0,,Không sao, ổn rồi.
+Dialogue: 0,0:28:50.14,0:28:51.14,Default,,0,0,0,,Tốt.
+Dialogue: 0,0:28:54.86,0:28:55.86,Default,,0,0,0,,Được, dừng lại.
+Dialogue: 0,0:28:57.23,0:28:58.23,Default,,0,0,0,,Dừng lại.
+Dialogue: 0,0:28:59.74,0:29:01.82,Default,,0,0,0,,Đừng lo, anh bạn. Tao sẽ giúp mày.
+Dialogue: 0,0:29:05.78,0:29:06.78,Default,,0,0,0,,Cái quái gì thế?
+Dialogue: 0,0:29:09.66,0:29:10.66,Default,,0,0,0,,Không!
+Dialogue: 0,0:29:15.29,0:29:16.29,Default,,0,0,0,,George!
+Dialogue: 0,0:29:42.15,0:29:43.16,Default,,0,0,0,,George!
+Dialogue: 0,0:29:43.95,0:29:45.12,Default,,0,0,0,,George!
+Dialogue: 0,0:29:46.58,0:29:47.87,Default,,0,0,0,,George!
+Dialogue: 0,0:29:58.67,0:30:01.09,Default,,0,0,0,,Tôi chưa từng săn sói.\NAnh em nghĩ sao?
+Dialogue: 0,0:30:01.17,0:30:02.92,Default,,0,0,0,,Tôi đem súng máy cỡ nòng 12.7 mm nhé?
+Dialogue: 0,0:30:04.93,0:30:07.18,Default,,0,0,0,,Thấy chúng rồi. Hang cây.
+Dialogue: 0,0:30:10.27,0:30:11.56,Default,,0,0,0,,Có chắc đo là sói chứ?
+Dialogue: 0,0:30:11.68,0:30:13.35,Default,,0,0,0,,Chết tiệt, thứ đó đang di chuyển.
+Dialogue: 0,0:30:13.52,0:30:14.90,Default,,0,0,0,,Không lâu đâu.
+Dialogue: 0,0:30:33.16,0:30:34.37,Default,,0,0,0,,Burke gọi Căn cứ,
+Dialogue: 0,0:30:34.58,0:30:36.88,Default,,0,0,0,,Siêu Thú1 đã bị hạ.
+Dialogue: 0,0:31:14.04,0:31:15.04,Default,,0,0,0,,Anh có gì?
+Dialogue: 0,0:31:15.54,0:31:16.71,Default,,0,0,0,,Chưa có gì cả.
+Dialogue: 0,0:31:19.79,0:31:21.00,Default,,0,0,0,,Chờ chút.
+Dialogue: 0,0:31:24.46,0:31:25.26,Default,,0,0,0,,Có dấu vết.
+Dialogue: 0,0:31:25.38,0:31:26.76,Default,,0,0,0,,Anh thấy cái này chứ?
+Dialogue: 0,0:31:33.39,0:31:34.64,Default,,0,0,0,,Lạy Chúa!
+Dialogue: 0,0:31:36.10,0:31:37.14,Default,,0,0,0,,Một con sói tạo ra à?
+Dialogue: 0,0:31:39.73,0:31:41.44,Default,,0,0,0,,Lẽ ra tôi nên đem khẩu 12,7mm.
+Dialogue: 0,0:31:57.29,0:31:58.42,Default,,0,0,0,,Sếp...
+Dialogue: 0,0:32:02.75,0:32:04.09,Default,,0,0,0,,Chúng ta chơi kiểu nào đây?
+Dialogue: 0,0:32:04.80,0:32:05.96,Default,,0,0,0,,Nhẹ nhàng thôi.
+Dialogue: 0,0:32:15.31,0:32:16.48,Default,,0,0,0,,Chúng đang gấp gáp.
+Dialogue: 0,0:32:17.48,0:32:18.56,Default,,0,0,0,,Cậu nghĩ thứ gì làm...
+Dialogue: 0,0:32:20.85,0:32:22.90,Default,,0,0,0,,Vinny! Garrick! Lập vành đai!
+Dialogue: 0,0:32:23.07,0:32:24.57,Default,,0,0,0,,- Đi nào!\N- Bắn tự do!
+Dialogue: 0,0:32:24.69,0:32:25.82,Default,,0,0,0,,Hạ nó đi!
+Dialogue: 0,0:32:26.57,0:32:27.78,Default,,0,0,0,,Nướng nó đi!
+Dialogue: 0,0:32:31.62,0:32:32.87,Default,,0,0,0,,Cái quái gì vậy?
+Dialogue: 0,0:32:33.20,0:32:34.20,Default,,0,0,0,,Bắn chúng! Bắn đi!
+Dialogue: 0,0:32:34.24,0:32:36.08,Default,,0,0,0,,Chạy! Chạy đi!
+Dialogue: 0,0:32:36.33,0:32:37.37,Default,,0,0,0,,Garrick, cậu đâu rồi?
+Dialogue: 0,0:32:37.83,0:32:39.96,Default,,0,0,0,,- Nó bám theo tôi!\N- Chạy đi, Garrick!
+Dialogue: 0,0:32:41.25,0:32:42.75,Default,,0,0,0,,Coi nào, hạ nó đi!
+Dialogue: 0,0:32:43.00,0:32:44.00,Default,,0,0,0,,Taylor, dậy đi!
+Dialogue: 0,0:32:44.17,0:32:45.17,Default,,0,0,0,,Họ không làm nổi đâu.
+Dialogue: 0,0:32:45.30,0:32:46.67,Default,,0,0,0,,Taylor! Đi!
+Dialogue: 0,0:32:46.84,0:32:48.88,Default,,0,0,0,,Mầm bệnh đã làm đúng như ta thiết kế.
+Dialogue: 0,0:32:49.05,0:32:50.68,Default,,0,0,0,,Không! Khốn kiếp!
+Dialogue: 0,0:32:56.56,0:32:58.10,Default,,0,0,0,,Không! Khốn kiếp!
+Dialogue: 0,0:32:59.18,0:33:00.64,Default,,0,0,0,,Không! Khốn kiếp!
+Dialogue: 0,0:33:02.44,0:33:03.94,Default,,0,0,0,,Taylor...
+Dialogue: 0,0:33:32.09,0:33:33.30,Default,,0,0,0,,Garcia, đưa tôi ra khỏi đây.
+Dialogue: 0,0:33:33.64,0:33:34.76,Default,,0,0,0,,Nghe rõ. Còn cách 10 km.
+Dialogue: 0,0:33:44.90,0:33:46.36,Default,,0,0,0,,Chết tiệt! Tôi thấy nó rồi!
+Dialogue: 0,0:33:47.19,0:33:48.48,Default,,0,0,0,,Nướng nó đi!
+Dialogue: 0,0:33:54.20,0:33:56.03,Default,,0,0,0,,Nó đến đó!
+Dialogue: 0,0:33:58.58,0:34:00.08,Default,,0,0,0,,Kéo lên! Kéo lên!
+Dialogue: 0,0:34:00.41,0:34:02.08,Default,,0,0,0,,Không!
+Dialogue: 0,0:34:02.25,0:34:04.25,Default,,0,0,0,,Tôi đang mất kiểm soát!
+Dialogue: 0,0:34:57.93,0:35:00.72,Default,,0,0,0,,BỘ AN NINH NỘI ĐỊA\NĐẶC VỤ
+Dialogue: 0,0:35:00.93,0:35:02.10,Default,,0,0,0,,Mời ra, đi thôi.
+Dialogue: 0,0:35:05.19,0:35:06.90,Default,,0,0,0,,Mời ra khỏi xe.
+Dialogue: 0,0:35:21.74,0:35:23.08,Default,,0,0,0,,Tên quái nào đây?
+Dialogue: 0,0:35:32.50,0:35:35.72,Default,,0,0,0,,Davis Okoye và Tiến sĩ Caldwell.
+Dialogue: 0,0:35:37.30,0:35:39.01,Default,,0,0,0,,Tôi là đặc vụ Harvey Russell.
+Dialogue: 0,0:35:39.80,0:35:41.43,Default,,0,0,0,,Một ngày kinh hoàng nhỉ?
+Dialogue: 0,0:35:41.72,0:35:44.31,Default,,0,0,0,,Các thí nghiệm khoa học\Ntừ trên trời rơi xuống.
+Dialogue: 0,0:35:44.43,0:35:45.73,Default,,0,0,0,,Khỉ đột khổng lồ sổng chuồng.
+Dialogue: 0,0:35:45.85,0:35:49.60,Default,,0,0,0,,Đúng loại hấp dẫn mà\Nchính phủ có xu hướng chú ý đến.
+Dialogue: 0,0:35:49.73,0:35:51.19,Default,,0,0,0,,George đâu? Tôi cần gặp nó.
+Dialogue: 0,0:35:51.27,0:35:54.19,Default,,0,0,0,,Và nếu anh đang suy nghĩ sẽ đưa nó\Nlên máy bay đó, sai lầm lớn đấy.
+Dialogue: 0,0:35:55.19,0:35:56.74,Default,,0,0,0,,Tôi nghĩ chúng tôi sẽ ổn.
+Dialogue: 0,0:35:59.16,0:36:01.83,Default,,0,0,0,,Được rồi, mọi người bình tĩnh và...
+Dialogue: 0,0:36:01.91,0:36:03.04,Default,,0,0,0,,Tôi nói tôi muốn gặp George.
+Dialogue: 0,0:36:03.58,0:36:06.66,Default,,0,0,0,,Hoặc chúng ta có thể so đọ tự do\Nvà xem ai cứng nhất.
+Dialogue: 0,0:36:07.25,0:36:09.88,Default,,0,0,0,,Anh bạn ạ, tôi sẽ đánh liều
+Dialogue: 0,0:36:09.96,0:36:13.25,Default,,0,0,0,,đoán là chưa từng có ai\Nbuộc tội anh sống vì người khác.
+Dialogue: 0,0:36:13.96,0:36:17.63,Default,,0,0,0,,Thế anh mở cái còng này ra\Nvà tự mình tìm hiểu thì sao nhỉ.
+Dialogue: 0,0:36:18.13,0:36:19.30,Default,,0,0,0,,Anh bạn.
+Dialogue: 0,0:36:23.60,0:36:25.10,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:36:25.27,0:36:26.77,Default,,0,0,0,,Đưa họ với con khỉ lên.
+Dialogue: 0,0:36:28.94,0:36:31.36,Default,,0,0,0,,Thật lạ khi anh ta không mở còng cho anh.
+Dialogue: 0,0:36:44.28,0:36:46.04,Default,,0,0,0,,- Nó ổn rồi.\N- Được.
+Dialogue: 0,0:36:48.12,0:36:49.54,Default,,0,0,0,,Ghi chú lại vào biểu đồ.
+Dialogue: 0,0:36:51.38,0:36:52.42,Default,,0,0,0,,Cô thấy chứ?
+Dialogue: 0,0:36:53.25,0:36:55.59,Default,,0,0,0,,Chỗ nó bị thương\Nkhi thoát khỏi khu linh trưởng.
+Dialogue: 0,0:36:56.30,0:36:58.01,Default,,0,0,0,,Giờ hầu như chẳng có vết bầm nào.
+Dialogue: 0,0:36:58.22,0:36:59.93,Default,,0,0,0,,Chuột gai châu Phi.
+Dialogue: 0,0:37:01.09,0:37:04.76,Default,,0,0,0,,ADN của loài đó\Ncó khả năng tái tạo cực mạnh.
+Dialogue: 0,0:37:06.77,0:37:10.06,Default,,0,0,0,,"Davis Okoye, Chuyên gia Linh trưởng."
+Dialogue: 0,0:37:14.69,0:37:16.61,Default,,0,0,0,,Đặc nhiệm Bộ binh.
+Dialogue: 0,0:37:16.78,0:37:19.24,Default,,0,0,0,,Anh là kiểu nhân vật bí ẩn quốc tế à?
+Dialogue: 0,0:37:19.36,0:37:23.49,Default,,0,0,0,,Tôi thấy rất nhiều chỗ bị bỏ đi.\N"Loại bỏ, loại bỏ..."
+Dialogue: 0,0:37:23.99,0:37:25.49,Default,,0,0,0,,Ồ, đây rồi.
+Dialogue: 0,0:37:25.66,0:37:29.25,Default,,0,0,0,,"Chuyển đến lực lượng Đặc nhiệm\NChống Săn Trộm của LHQ."
+Dialogue: 0,0:37:29.83,0:37:32.58,Default,,0,0,0,,Tôi sẽ cho anh biết rằng\Ntôi cũng là người yêu động vật.
+Dialogue: 0,0:37:32.71,0:37:33.80,Default,,0,0,0,,Đừng nói vớ vẩn nữa, Russell.
+Dialogue: 0,0:37:33.83,0:37:36.13,Default,,0,0,0,,Tôi nói rồi, đưa George lên máy bay này\Nlà tự sát.
+Dialogue: 0,0:37:36.21,0:37:37.88,Default,,0,0,0,,Nó được dùng thuốc mê rất mạnh.
+Dialogue: 0,0:37:38.05,0:37:41.09,Default,,0,0,0,,Nó sẽ không tỉnh lại\Nđến khi chúng ta đánh thức nó.
+Dialogue: 0,0:37:41.17,0:37:44.05,Default,,0,0,0,,Dù tôn trọng anh,\Nnhưng với mức tăng trưởng của nó,
+Dialogue: 0,0:37:44.14,0:37:47.39,Default,,0,0,0,,thuốc mê đó sẽ mất hiệu lực\Nrất lâu trước khi hạ cánh.
+Dialogue: 0,0:37:47.51,0:37:50.48,Default,,0,0,0,,Chúng tôi đã tính đến độ tăng trưởng.\NCả mức trao đổi chất cao của nó.
+Dialogue: 0,0:37:50.56,0:37:52.35,Default,,0,0,0,,- Thưa anh.\N- Và lượng máu tăng thêm
+Dialogue: 0,0:37:52.44,0:37:55.73,Default,,0,0,0,,trong cơ thể nó. Chúng tôi có thể\Nkhông phải người am hiểu nhất.
+Dialogue: 0,0:37:55.81,0:37:57.57,Default,,0,0,0,,Nhưng chúng tôi đang làm ổn.
+Dialogue: 0,0:37:57.73,0:37:59.19,Default,,0,0,0,,Nhất là khi cân nhắc
+Dialogue: 0,0:37:59.28,0:38:03.07,Default,,0,0,0,,cô còn một vật thí nghiệm nhỏ khác\Nđang chạy rông ngoài kia.
+Dialogue: 0,0:38:03.20,0:38:04.32,Default,,0,0,0,,Anh nói khác là sao?
+Dialogue: 0,0:38:04.66,0:38:06.66,Default,,0,0,0,,Anh không biết về con sói dài 9 mét à?
+Dialogue: 0,0:38:06.83,0:38:08.24,Default,,0,0,0,,Ôi trời,
+Dialogue: 0,0:38:09.04,0:38:12.00,Default,,0,0,0,,con khỉ quá cỡ của cô là tin cũ rồi.
+Dialogue: 0,0:38:13.96,0:38:14.88,Default,,0,0,0,,Lạy Chúa.
+Dialogue: 0,0:38:14.96,0:38:18.38,Default,,0,0,0,,Bọn gàn dở trên mạng\Nđang gọi nó là "Ralph".
+Dialogue: 0,0:38:18.55,0:38:19.59,Default,,0,0,0,,Anh làm việc cho ai?
+Dialogue: 0,0:38:19.96,0:38:21.92,Default,,0,0,0,,Thưa anh, tôi làm việc cho người dân Mỹ.
+Dialogue: 0,0:38:22.05,0:38:23.51,Default,,0,0,0,,Bộ Nội an? CIA?
+Dialogue: 0,0:38:25.22,0:38:26.85,Default,,0,0,0,,Liên minh Công lý hả?
+Dialogue: 0,0:38:27.30,0:38:28.43,Default,,0,0,0,,Tôi thuộc O.G.A.
+Dialogue: 0,0:38:29.14,0:38:31.60,Default,,0,0,0,,Từng nghe thứ vớ vẩn đó rồi.\N"Cơ quan Chính phủ Khác", hả?
+Dialogue: 0,0:38:32.07,0:38:33.08,Default,,0,0,0,,Khôn khéo lắm.
+Dialogue: 0,0:38:33.28,0:38:38.13,Default,,0,0,0,,Anh thấy đó, khi khoa học làm bậy,
+Dialogue: 0,0:38:38.39,0:38:40.65,Default,,0,0,0,,tôi là người họ gọi đến dọn hậu quả.
+Dialogue: 0,0:38:40.65,0:38:42.28,Default,,0,0,0,,George sẽ bị gì?
+Dialogue: 0,0:38:42.53,0:38:44.99,Default,,0,0,0,,Nó đâu có đòi thế này.\NChắc chắn là nó không đáng bị vậy.
+Dialogue: 0,0:38:45.11,0:38:48.95,Default,,0,0,0,,Dù có phải lỗi của nó hay không,\Nnó vẫn nguy hiểm.
+Dialogue: 0,0:38:49.07,0:38:50.49,Default,,0,0,0,,Nhưng có cách chữa mà.
+Dialogue: 0,0:38:51.58,0:38:53.95,Default,,0,0,0,,Cô ấy đã giúp tạo mầm bệnh\Nnhiễm vào George.
+Dialogue: 0,0:38:54.04,0:38:55.75,Default,,0,0,0,,Cô ấy làm cho Energyne.
+Dialogue: 0,0:38:56.54,0:38:58.46,Default,,0,0,0,,Ý anh là từng làm.
+Dialogue: 0,0:39:04.51,0:39:08.93,Default,,0,0,0,,"Tiến sĩ Kate Caldwell.\NTiến sĩ Hóa sinh của Stanford
+Dialogue: 0,0:39:09.05,0:39:11.85,Default,,0,0,0,,với chuyên ngành Bảo tồn Di truyền."
+Dialogue: 0,0:39:11.97,0:39:15.81,Default,,0,0,0,,Được Energyne chiêu mộ vào năm 2010.
+Dialogue: 0,0:39:17.64,0:39:18.94,Default,,0,0,0,,Bị Energyne sa thải
+Dialogue: 0,0:39:19.81,0:39:21.57,Default,,0,0,0,,chưa đến hai năm sau đó.
+Dialogue: 0,0:39:22.52,0:39:23.73,Default,,0,0,0,,Hay hơn rồi đây.
+Dialogue: 0,0:39:24.15,0:39:26.99,Default,,0,0,0,,Bị bắt khi đang cố\Ntrộm ổ cứng của công ty
+Dialogue: 0,0:39:27.11,0:39:29.24,Default,,0,0,0,,và nằm 13 tháng, tôi chắc đó là số đẹp.
+Dialogue: 0,0:39:29.36,0:39:33.33,Default,,0,0,0,,Trong Trại Cải huấn Liên bang Greenville\Nxinh đẹp của chúng tôi.
+Dialogue: 0,0:39:36.41,0:39:40.88,Default,,0,0,0,,Chà, tôi đoán qua vẻ mặt\Ncủa anh bạn to con đây
+Dialogue: 0,0:39:41.42,0:39:42.96,Default,,0,0,0,,rằng đó là tin mới toanh với anh ấy.
+Dialogue: 0,0:39:44.84,0:39:46.80,Default,,0,0,0,,Chuyến bay vui vẻ nhé.
+Dialogue: 0,0:39:49.18,0:39:51.51,Default,,0,0,0,,Anh Okoye, về bạn của anh.
+Dialogue: 0,0:39:53.01,0:39:54.39,Default,,0,0,0,,Dù anh tin hay không,
+Dialogue: 0,0:39:56.14,0:39:58.10,Default,,0,0,0,,tôi thật lòng rất tiếc.
+Dialogue: 0,0:40:08.52,0:40:10.52,Default,,0,0,0,,Xin lỗi đã nói dối anh.
+Dialogue: 0,0:40:13.39,0:40:15.31,Default,,0,0,0,,Cô có chữa được cho George không?
+Dialogue: 0,0:40:15.56,0:40:18.32,Default,,0,0,0,,Tôi biết Energyne vẫn nghiên cứu\Ncách chữa mầm bệnh này...
+Dialogue: 0,0:40:18.40,0:40:19.65,Default,,0,0,0,,Có hay không?
+Dialogue: 0,0:40:23.53,0:40:25.03,Default,,0,0,0,,Không.
+Dialogue: 0,0:40:35.12,0:40:36.96,Default,,0,0,0,,Claire, em đã tìm ra nó.
+Dialogue: 0,0:40:37.13,0:40:38.85,Default,,0,0,0,,Mấy gã có vẻ là đặc vụ\Nđã đưa một con khỉ đột
+Dialogue: 0,0:40:38.88,0:40:43.09,Default,,0,0,0,,lên một máy bay vận tải đêm qua.\NChị biết ai đi với họ không?
+Dialogue: 0,0:40:43.09,0:40:45.22,Default,,0,0,0,,Không. Nhưng rõ ràng\Nanh ta siêng tập gym.
+Dialogue: 0,0:40:45.34,0:40:47.05,Default,,0,0,0,,Không. Người phụ nữ cơ.
+Dialogue: 0,0:40:48.64,0:40:50.35,Default,,0,0,0,,Đó là kate Caldwell.
+Dialogue: 0,0:40:51.22,0:40:52.77,Default,,0,0,0,,Tiến sĩ Caldwell.
+Dialogue: 0,0:40:52.98,0:40:55.56,Default,,0,0,0,,Phải. Cô ta đang làm gì ở đó?
+Dialogue: 0,0:40:55.98,0:40:58.98,Default,,0,0,0,,Theo chuyện cũ của chúng ta với ả,
+Dialogue: 0,0:40:59.15,0:41:03.03,Default,,0,0,0,,ả trách chúng ta vì đã tống ả vào tù\Nvà vì cái chết của em trai ả,
+Dialogue: 0,0:41:03.24,0:41:06.45,Default,,0,0,0,,chị đoán nhé?\NĐang gom chứng cứ để diệt chúng ta.
+Dialogue: 0,0:41:07.45,0:41:09.87,Default,,0,0,0,,Chị đã bảo nên khử cô ta hai năm trước.
+Dialogue: 0,0:41:10.03,0:41:12.04,Default,,0,0,0,,Claire, chị không thể\Nkhử mọi vấn đề chị có được.
+Dialogue: 0,0:41:12.20,0:41:13.41,Default,,0,0,0,,Bảo lưu ý kiến.
+Dialogue: 0,0:41:13.58,0:41:15.12,Default,,0,0,0,,Claire, em nghiêm túc mà! Này!
+Dialogue: 0,0:41:15.96,0:41:17.13,Default,,0,0,0,,Không thể tin em nói thế này
+Dialogue: 0,0:41:17.21,0:41:18.79,Default,,0,0,0,,nhưng em không bận tâm đến con khỉ nữa.
+Dialogue: 0,0:41:19.63,0:41:20.92,Default,,0,0,0,,Em chỉ không muốn vào tù.
+Dialogue: 0,0:41:21.05,0:41:23.30,Default,,0,0,0,,Nên nếu chị có kế hoạch,\Nem muốn nghe.
+Dialogue: 0,0:41:23.46,0:41:26.13,Default,,0,0,0,,Brett, chị luôn có kế hoạch.
+Dialogue: 0,0:41:30.97,0:41:34.27,Default,,0,0,0,,Nếu cho một đối tượng\Nmón quà di truyền phi thường.
+Dialogue: 0,0:41:34.39,0:41:37.10,Default,,0,0,0,,Tiềm năng thể lý vô hạn\Nkết hợp sức mạnh không tưởng tượng nổi
+Dialogue: 0,0:41:37.23,0:41:39.94,Default,,0,0,0,,và tính khí hung hăng,\Nem kiểm soát nó bằng cách nào?
+Dialogue: 0,0:41:40.11,0:41:42.11,Default,,0,0,0,,Em không biết,\Ncho nó thuốc an thần hoặc...
+Dialogue: 0,0:41:42.23,0:41:44.32,Default,,0,0,0,,Đúng. Thấy chưa? Đâu quá khó.
+Dialogue: 0,0:41:44.40,0:41:45.40,Default,,0,0,0,,Phải.
+Dialogue: 0,0:41:45.45,0:41:48.57,Default,,0,0,0,,R-19, thuốc an thần. Một liều nhỏ
+Dialogue: 0,0:41:48.70,0:41:50.83,Default,,0,0,0,,sẽ ngăn tăng trưởng\Nvà sự hung hăng của nó.
+Dialogue: 0,0:41:50.99,0:41:54.79,Default,,0,0,0,,Và để dụ chúng đến đây,\Nmầm bệnh cũng biến đổi gien của đối tượng
+Dialogue: 0,0:41:54.91,0:41:57.37,Default,,0,0,0,,để phản ứng với\Nmột sóng radio tần số thấp.
+Dialogue: 0,0:41:57.50,0:41:58.58,Default,,0,0,0,,May cho chúng ta,
+Dialogue: 0,0:41:58.67,0:42:01.67,Default,,0,0,0,,tòa nhà này có vài cái ăng-ten radio\Nmạnh nhất thế giới.
+Dialogue: 0,0:42:02.63,0:42:05.42,Default,,0,0,0,,Đêm qua chị đã cho\Nngười của ta chỉnh sửa cái này.
+Dialogue: 0,0:42:16.77,0:42:18.85,Default,,0,0,0,,Giờ ta chỉ việc bật tín hiệu lên.
+Dialogue: 0,0:42:19.02,0:42:21.11,Default,,0,0,0,,Đám thú sẽ làm bất cứ gì để đến đây.
+Dialogue: 0,0:42:21.23,0:42:22.73,Default,,0,0,0,,Để dừng sóng này lại.
+Dialogue: 0,0:42:22.90,0:42:25.32,Default,,0,0,0,,Em nghĩ nó sẽ thế nào ở độ cao 9.700 mét?
+Dialogue: 0,0:42:25.49,0:42:27.40,Default,,0,0,0,,Con khỉ đó sẽ làm rơi cái máy bay.
+Dialogue: 0,0:42:27.53,0:42:29.70,Default,,0,0,0,,Và khi con sói đến đây,\Nta để quân đội giết nó.
+Dialogue: 0,0:42:29.82,0:42:32.37,Default,,0,0,0,,Rồi ta thu lại\Nmột mẫu ADN đã được vũ khí hóa.
+Dialogue: 0,0:42:32.49,0:42:34.58,Default,,0,0,0,,Rồi ta bán thứ đó được cả đống tiền!
+Dialogue: 0,0:42:50.80,0:42:52.76,Default,,0,0,0,,Không Cho Động Vật Hoang Dã Ăn
+Dialogue: 0,0:43:06.86,0:43:10.78,Default,,0,0,0,,VỊNH MEXICO, BỜ BIỂN FLORIDA
+Dialogue: 0,0:43:36.14,0:43:37.56,Default,,0,0,0,,George, ổn chứ anh bạn?
+Dialogue: 0,0:43:55.87,0:43:57.45,Default,,0,0,0,,Ôi không.
+Dialogue: 0,0:44:03.83,0:44:05.04,Default,,0,0,0,,Đứng dậy. Ngay!
+Dialogue: 0,0:44:11.05,0:44:13.22,Default,,0,0,0,,Cảnh báo. Cảnh báo.
+Dialogue: 0,0:44:20.43,0:44:21.73,Default,,0,0,0,,Nhắm vào thân nó!
+Dialogue: 0,0:44:22.19,0:44:23.19,Default,,0,0,0,,Nướng nó đi!
+Dialogue: 0,0:44:25.69,0:44:26.69,Default,,0,0,0,,Lùi lại!
+Dialogue: 0,0:44:41.58,0:44:42.58,Default,,0,0,0,,Đi nào!
+Dialogue: 0,0:44:42.96,0:44:43.96,Default,,0,0,0,,Buộc dây vào.
+Dialogue: 0,0:45:00.64,0:45:02.27,Default,,0,0,0,,6-1-2-Heavy, khẩn cấp!
+Dialogue: 0,0:45:06.77,0:45:08.15,Default,,0,0,0,,Chết tiệt!
+Dialogue: 0,0:45:26.88,0:45:28.04,Default,,0,0,0,,George.
+Dialogue: 0,0:45:52.36,0:45:53.40,Default,,0,0,0,,Toi rồi!
+Dialogue: 0,0:46:23.14,0:46:24.14,Default,,0,0,0,,Bám chắc!
+Dialogue: 0,0:46:30.52,0:46:31.52,Default,,0,0,0,,Davis!
+Dialogue: 0,0:46:32.11,0:46:33.27,Default,,0,0,0,,Nhanh lên!
+Dialogue: 0,0:46:45.75,0:46:46.79,Default,,0,0,0,,Davis!
+Dialogue: 0,0:46:47.33,0:46:48.54,Default,,0,0,0,,Ném tôi sang!
+Dialogue: 0,0:47:04.22,0:47:05.31,Default,,0,0,0,,Giờ thì sao?
+Dialogue: 0,0:47:12.65,0:47:14.52,Default,,0,0,0,,Ta sẽ ra khỏi cái máy bay này!
+Dialogue: 0,0:47:27.25,0:47:28.33,Default,,0,0,0,,Bám chắc!
+Dialogue: 0,0:47:42.72,0:47:44.89,Default,,0,0,0,,Điên quá! Chúng ta sẽ chết mất!
+Dialogue: 0,0:47:45.10,0:47:46.22,Default,,0,0,0,,Chắc vậy!
+Dialogue: 0,0:47:46.39,0:47:47.47,Default,,0,0,0,,Giờ thả ra!
+Dialogue: 0,0:48:15.54,0:48:16.63,Default,,0,0,0,,Khốn kiếp, Russell!
+Dialogue: 0,0:48:34.40,0:48:35.65,Default,,0,0,0,,Chết tiệt!
+Dialogue: 0,0:48:35.98,0:48:37.40,Default,,0,0,0,,Khỏi khách sáo!
+Dialogue: 0,0:48:59.84,0:49:01.38,Default,,0,0,0,,Tao xin lỗi, George.
+Dialogue: 0,0:49:39.46,0:49:40.96,Default,,0,0,0,,Không có xác nào cả.
+Dialogue: 0,0:49:43.01,0:49:44.76,Default,,0,0,0,,Nó bị thương nhưng còn sống.
+Dialogue: 0,0:49:48.34,0:49:49.76,Default,,0,0,0,,Dấu vết đi về hướng Đông Bắc.
+Dialogue: 0,0:49:51.01,0:49:52.52,Default,,0,0,0,,Tôi không có sóng.
+Dialogue: 0,0:49:52.68,0:49:55.10,Default,,0,0,0,,Để xem có tìm được điện đài,\Nlàm nó hoạt động không.
+Dialogue: 0,0:49:55.23,0:49:59.27,Default,,0,0,0,,Khi Bộ Quốc phòng biết được\Ncon thú của anh còn sống sau vụ rơi này,
+Dialogue: 0,0:49:59.48,0:50:01.23,Default,,0,0,0,,họ sẽ có câu hỏi cho cả hai người
+Dialogue: 0,0:50:01.40,0:50:03.03,Default,,0,0,0,,Còn Energyne thì sao?
+Dialogue: 0,0:50:03.19,0:50:05.36,Default,,0,0,0,,Họ biết nhiều về vụ này hơn chúng tôi.
+Dialogue: 0,0:50:05.45,0:50:08.20,Default,,0,0,0,,Ừ, FBI đang kiểm tra Energyne.
+Dialogue: 0,0:50:08.36,0:50:09.87,Default,,0,0,0,,Nghe này giúp tôi một việc,
+Dialogue: 0,0:50:11.12,0:50:12.99,Default,,0,0,0,,đừng lang thang quá xa.
+Dialogue: 0,0:50:14.45,0:50:15.83,Default,,0,0,0,,Anh Okoye.
+Dialogue: 0,0:50:16.58,0:50:17.58,Default,,0,0,0,,Vâng.
+Dialogue: 0,0:50:18.88,0:50:21.63,Default,,0,0,0,,Cảm ơn đã lôi lão cao bồi già này\Nkhỏi máy bay.
+Dialogue: 0,0:50:22.46,0:50:24.62,Default,,0,0,0,,Kể cả bọn tôi không làm\Ncũng đáng có cơ hội thứ hai mà.
+Dialogue: 0,0:50:27.18,0:50:29.18,Default,,0,0,0,,Như ông tôi luôn nói
+Dialogue: 0,0:50:29.89,0:50:32.01,Default,,0,0,0,,lũ khốn chúng ta phải đoàn kết.
+Dialogue: 0,0:50:35.98,0:50:37.69,Default,,0,0,0,,Chị xem hình ảnh từ vệ tinh chưa?
+Dialogue: 0,0:50:37.81,0:50:39.44,Default,,0,0,0,,Con khỉ vẫn sống sau vụ rơi máy bay.
+Dialogue: 0,0:50:40.44,0:50:41.44,Default,,0,0,0,,Rồi.
+Dialogue: 0,0:50:42.73,0:50:45.15,Default,,0,0,0,,Không may. Tiến sĩ Caldwell cũng sống.
+Dialogue: 0,0:50:45.44,0:50:46.57,Default,,0,0,0,,Giờ sao đây?
+Dialogue: 0,0:50:49.24,0:50:50.99,Default,,0,0,0,,Con khỉ đột không làm chị lo.
+Dialogue: 0,0:50:51.16,0:50:53.79,Default,,0,0,0,,Nó sẽ phản ứng lại tần số radio\Nvà đến thẳng chỗ ta.
+Dialogue: 0,0:50:54.04,0:50:56.20,Default,,0,0,0,,Tiến sĩ Caldwell là vấn đề lớn hơn.
+Dialogue: 0,0:50:56.37,0:50:57.87,Default,,0,0,0,,Chị nghĩ cô ta đã nói gì với họ sao?
+Dialogue: 0,0:51:02.13,0:51:04.25,Default,,0,0,0,,Với các đặc vụ liên bang,\Nsắp bước qua cửa
+Dialogue: 0,0:51:04.38,0:51:06.42,Default,,0,0,0,,chắc cô ta đã nói hết rồi.
+Dialogue: 0,0:51:07.30,0:51:08.30,Default,,0,0,0,,Gì cơ?
+Dialogue: 0,0:51:16.93,0:51:19.14,Default,,0,0,0,,Claire Wyden.\NTôi giúp được gì các vị?
+Dialogue: 0,0:51:19.27,0:51:20.81,Default,,0,0,0,,Đặc vụ Park, FBI.
+Dialogue: 0,0:51:20.98,0:51:23.61,Default,,0,0,0,,Đây là lệnh khám xét toàn bộ\Ncác tài liệu của công ty cô
+Dialogue: 0,0:51:23.73,0:51:25.15,Default,,0,0,0,,bắt đầu từ phòng lab của cô.
+Dialogue: 0,0:51:25.23,0:51:27.03,Default,,0,0,0,,Dĩ nhiên rồi. Mời theo tôi.
+Dialogue: 0,0:51:31.91,0:51:34.83,Default,,0,0,0,,Chúng tôi kinh hoàng khi việc ngoài kia\Nbắt nguồn từ phòng lab này
+Dialogue: 0,0:51:34.99,0:51:37.12,Default,,0,0,0,,và sẽ làm bất cứ gì để giúp.
+Dialogue: 0,0:51:37.25,0:51:39.37,Default,,0,0,0,,Tốt, chúng tôi cần tiếp cận mọi thứ.
+Dialogue: 0,0:51:39.62,0:51:41.62,Default,,0,0,0,,Chắc chắn rồi.\NChúng tôi hoàn toàn hợp tác.
+Dialogue: 0,0:51:42.29,0:51:43.29,Default,,0,0,0,,Mọi hồ sơ.
+Dialogue: 0,0:51:43.42,0:51:45.55,Default,,0,0,0,,Ổ cứng và máy chủ nữa. Làm đi.
+Dialogue: 0,0:51:47.09,0:51:48.76,Default,,0,0,0,,Mời tránh xa khỏi máy tính.
+Dialogue: 0,0:51:48.92,0:51:51.13,Default,,0,0,0,,Mở cái đó ra được chứ? vẫn đăng nhập.
+Dialogue: 0,0:51:51.38,0:51:52.22,Default,,0,0,0,,Lùi lại.
+Dialogue: 0,0:51:52.34,0:51:54.76,Default,,0,0,0,,Về việc đó, đặc vụ Park,\Nchúng tôi đang xem hồ sơ của
+Dialogue: 0,0:51:54.85,0:51:58.22,Default,,0,0,0,,nhà khoa học chịu trách nhiệm về\Ncác sinh vật này, Tiến sĩ Kate Caldwell.
+Dialogue: 0,0:51:58.39,0:52:01.10,Default,,0,0,0,,Tôi chắc anh biết về án tích của cô ta.
+Dialogue: 0,0:52:01.23,0:52:03.19,Default,,0,0,0,,Không may, giờ chúng tôi mới biết
+Dialogue: 0,0:52:03.27,0:52:06.36,Default,,0,0,0,,mọi việc kinh khủng cô ta đã làm\Ntrong thời gian ở đây.
+Dialogue: 0,0:52:06.48,0:52:08.28,Default,,0,0,0,,Tôi cần danh sách máy chủ\Ncủa Energyne ngay.
+Dialogue: 0,0:52:08.44,0:52:09.61,Default,,0,0,0,,Dĩ nhiên rồi.
+Dialogue: 0,0:52:17.04,0:52:18.04,Default,,0,0,0,,Em ổn chứ?
+Dialogue: 0,0:52:19.37,0:52:21.75,Default,,0,0,0,,Vì em đang đổ mồ hôi. Rất nhiều.
+Dialogue: 0,0:52:21.92,0:52:22.96,Default,,0,0,0,,Không, em ổn.
+Dialogue: 0,0:52:23.17,0:52:24.92,Default,,0,0,0,,Tất cả đều ổn.
+Dialogue: 0,0:52:27.25,0:52:29.88,Default,,0,0,0,,Whiskey-2-Tango, Whiskey-2-Tango,
+Dialogue: 0,0:52:29.96,0:52:33.18,Default,,0,0,0,,đây là Echo-4-Romeo, hết.
+Dialogue: 0,0:52:33.43,0:52:36.43,Default,,0,0,0,,Whiskey-2-Tango, Whiskey-2-Tango,
+Dialogue: 0,0:52:36.60,0:52:38.77,Default,,0,0,0,,đây là Echo-4-Romeo.
+Dialogue: 0,0:52:39.06,0:52:41.35,Default,,0,0,0,,Giờ chúng ta làm gì đây?
+Dialogue: 0,0:52:43.90,0:52:44.90,Default,,0,0,0,,Tôi xin lỗi, Tiến sĩ.
+Dialogue: 0,0:52:45.69,0:52:47.40,Default,,0,0,0,,Sẽ không có "chúng ta" nữa.
+Dialogue: 0,0:52:49.73,0:52:51.32,Default,,0,0,0,,Tôi xin lỗi đã nói dối anh.
+Dialogue: 0,0:52:51.49,0:52:52.53,Default,,0,0,0,,Khỏi xin lỗi.
+Dialogue: 0,0:52:53.32,0:52:55.87,Default,,0,0,0,,Cô muốn gì, cô nói dối để có nó.\NCô là con người mà.
+Dialogue: 0,0:52:55.99,0:52:58.16,Default,,0,0,0,,Điều gì làm anh\Nkhông thích con người đến thế?
+Dialogue: 0,0:53:04.08,0:53:05.42,Default,,0,0,0,,Để tôi nói cô điều này.
+Dialogue: 0,0:53:06.00,0:53:07.75,Default,,0,0,0,,Tôi từng chiến đấu khắp nơi trên thế giới.
+Dialogue: 0,0:53:08.67,0:53:12.38,Default,,0,0,0,,Săn lùng bọn săn trộm,\Nchâu Phi, Ấn Độ, Nam Mỹ.
+Dialogue: 0,0:53:13.01,0:53:14.63,Default,,0,0,0,,Tôi đã thấy bản chất của con người.
+Dialogue: 0,0:53:16.26,0:53:18.68,Default,,0,0,0,,Và họ sẵn sàng làm tất cả\Nđể có thứ họ muốn.
+Dialogue: 0,0:53:20.56,0:53:22.43,Default,,0,0,0,,Anh nghĩ chúng ta đều thế à?
+Dialogue: 0,0:53:24.52,0:53:26.40,Default,,0,0,0,,Cô biết tôi tìm thấy George ở đâu không?
+Dialogue: 0,0:53:28.52,0:53:30.65,Default,,0,0,0,,Lúc đó nó trốn dưới xe của bọn sắn trộm,
+Dialogue: 0,0:53:33.44,0:53:34.65,Default,,0,0,0,,khi đội của tôi đến,
+Dialogue: 0,0:53:34.78,0:53:36.99,Default,,0,0,0,,bọn khốn đó đang dở tay bằm xác mẹ nó.
+Dialogue: 0,0:53:39.45,0:53:43.08,Default,,0,0,0,,Chúng đang cắt rời tay của mẹ nó\Nđể bán làm gạt tàn thuốc lá.
+Dialogue: 0,0:53:43.96,0:53:45.92,Default,,0,0,0,,George sẽ không bao giờ\Ncó thể tự sinh tồn được.
+Dialogue: 0,0:53:46.12,0:53:49.00,Default,,0,0,0,,Một con khỉ bạch tạng như thế\Nđáng giá cả gia tài ở chợ đen.
+Dialogue: 0,0:53:50.46,0:53:52.13,Default,,0,0,0,,Nên tôi đã đem nó theo.
+Dialogue: 0,0:53:55.22,0:53:56.93,Default,,0,0,0,,Chuyện gì xảy ra cho đám săn trộm?
+Dialogue: 0,0:53:58.47,0:54:01.60,Default,,0,0,0,,Chúng đã bắn chúng tôi và bắn hụt.
+Dialogue: 0,0:54:02.72,0:54:04.14,Default,,0,0,0,,Tôi bắn lại.
+Dialogue: 0,0:54:04.89,0:54:05.94,Default,,0,0,0,,Tôi không hụt.
+Dialogue: 0,0:54:33.25,0:54:36.76,Default,,0,0,0,,May là George không\Ncùng cảm giác như anh về con người.
+Dialogue: 0,0:54:39.01,0:54:40.35,Default,,0,0,0,,Cô nói thế là sao?
+Dialogue: 0,0:54:41.39,0:54:42.97,Default,,0,0,0,,Sau điều xảy ra cho gia đình nó,
+Dialogue: 0,0:54:43.14,0:54:46.06,Default,,0,0,0,,dường như nó rất dễ dàng\Nkhông tin vào con người.
+Dialogue: 0,0:54:47.85,0:54:49.60,Default,,0,0,0,,Nhưng rõ ràng là nó tin anh.
+Dialogue: 0,0:54:51.27,0:54:52.32,Default,,0,0,0,,Phải không?
+Dialogue: 0,0:54:53.23,0:54:55.28,Default,,0,0,0,,Cô là nhà di truyền học,\Nkhông phải bác sĩ tâm lý.
+Dialogue: 0,0:54:55.78,0:54:59.86,Default,,0,0,0,,Tôi cũng có bằng thạc sĩ\Nvề ép người ta phải thể hiện bản thân đấy.
+Dialogue: 0,0:55:00.07,0:55:02.16,Default,,0,0,0,,Vậy thì hẳn là tốt lắm.
+Dialogue: 0,0:55:03.99,0:55:06.37,Default,,0,0,0,,Học xong đại học, tôi đã dùng CRISPR
+Dialogue: 0,0:55:06.50,0:55:08.75,Default,,0,0,0,,để giúp các loài gặp nguy cơ ở Bắc Cực.
+Dialogue: 0,0:55:10.08,0:55:11.50,Default,,0,0,0,,Rồi em trai tôi bị bệnh.
+Dialogue: 0,0:55:12.96,0:55:15.80,Default,,0,0,0,,Các bác sĩ bảo nó là\Nnó không có nhiều cơ hội.
+Dialogue: 0,0:55:15.96,0:55:17.51,Default,,0,0,0,,Nhưng tôi biế CRISPR có thể cứu nó.
+Dialogue: 0,0:55:18.88,0:55:21.01,Default,,0,0,0,,Rồi Claire Wyden xuất hiện.
+Dialogue: 0,0:55:22.35,0:55:24.64,Default,,0,0,0,,Cô ta cho tôi làm\Ntrưởng bộ phận nghiên cứu gien.
+Dialogue: 0,0:55:25.68,0:55:28.14,Default,,0,0,0,,- Energyne đã chiêu mộ cô?\N- Đúng.
+Dialogue: 0,0:55:28.31,0:55:29.52,Default,,0,0,0,,Nhưng tôi không biết là
+Dialogue: 0,0:55:29.60,0:55:32.11,Default,,0,0,0,,mỗi lần tôi có đột phá nào\Ncó thể giúp được em trai tôi,
+Dialogue: 0,0:55:32.23,0:55:34.86,Default,,0,0,0,,họ lại bí mật dùng nó\Nđể xây dựng ADN vũ khí hóa.
+Dialogue: 0,0:55:37.57,0:55:39.45,Default,,0,0,0,,Tôi đã cố phá hủy nó.
+Dialogue: 0,0:55:41.24,0:55:43.78,Default,,0,0,0,,Bảo vệ tóm được tôi\Ntrước khi tôi xong việc.
+Dialogue: 0,0:55:46.62,0:55:47.75,Default,,0,0,0,,Dù sao thì
+Dialogue: 0,0:55:49.37,0:55:52.42,Default,,0,0,0,,một tháng sau khi tôi vào tù,\Nem trai tôi qua đời.
+Dialogue: 0,0:55:56.96,0:55:59.22,Default,,0,0,0,,Tôi thậm chí chẳng được tạm biệt nó.
+Dialogue: 0,0:56:02.80,0:56:03.89,Default,,0,0,0,,Tôi rất tiếc.
+Dialogue: 0,0:56:05.51,0:56:06.68,Default,,0,0,0,,Tôi chỉ muốn đảm bảo
+Dialogue: 0,0:56:06.81,0:56:10.73,Default,,0,0,0,,Wyden không thể\Nhại ai hay thứ gì được nữa,
+Dialogue: 0,0:56:13.19,0:56:14.69,Default,,0,0,0,,Nghe có giống một kế hoạch không?
+Dialogue: 0,0:56:16.98,0:56:18.28,Default,,0,0,0,,Nghe cũng ra dáng.
+Dialogue: 0,0:56:25.12,0:56:26.99,Default,,0,0,0,,Phương tiện di chuyển đây rồi.
+Dialogue: 0,0:56:28.66,0:56:32.79,Default,,0,0,0,,CĂN CỨ KHÔNG QUÂN SCOTT
+Dialogue: 0,0:56:50.98,0:56:52.14,Default,,0,0,0,,Đại tá Blake, chào ngài.
+Dialogue: 0,0:56:52.27,0:56:55.40,Default,,0,0,0,,Black-Dog-6-Actual,\Nđã thấy các mục tiêu Alpha và Bravo.
+Dialogue: 0,0:56:55.73,0:56:58.48,Default,,0,0,0,,Nghe rõ. Vào vị trí để vây chúng lại.
+Dialogue: 0,0:56:58.65,0:56:59.94,Default,,0,0,0,,Nghe rõ, 6-Actual.
+Dialogue: 0,0:57:00.11,0:57:01.95,Default,,0,0,0,,Các mục tiêu cách 8km\Nvà đang di chuyển nhanh.
+Dialogue: 0,0:57:02.11,0:57:03.57,Default,,0,0,0,,George đi với con sói à?
+Dialogue: 0,0:57:05.37,0:57:06.74,Default,,0,0,0,,Ngài đã đụng độ con khỉ à?
+Dialogue: 0,0:57:07.03,0:57:08.03,Default,,0,0,0,,Và con sói.
+Dialogue: 0,0:57:08.12,0:57:11.04,Default,,0,0,0,,Vậy chúng ở đâu đó\Nngoài Chicago 40km.
+Dialogue: 0,0:57:11.16,0:57:14.42,Default,,0,0,0,,Quỹ đạo của chúng cho thấy\Ncả hai đều đi thẳng đến thành phố.
+Dialogue: 0,0:57:14.79,0:57:17.09,Default,,0,0,0,,Hai loài khác nhau\Ndi chuyển khoảng cách xa có phối hợp.
+Dialogue: 0,0:57:17.17,0:57:18.55,Default,,0,0,0,,Việc đó không tự nhiên xảy ra.
+Dialogue: 0,0:57:18.67,0:57:19.75,Default,,0,0,0,,Xin lỗi. Ai đây?
+Dialogue: 0,0:57:19.88,0:57:21.63,Default,,0,0,0,,Đại tá, đây là Davis Okoye.
+Dialogue: 0,0:57:21.71,0:57:24.13,Default,,0,0,0,,Anh ta là nhà linh trưởng học.\NLà người nuôi con khỉ đó.
+Dialogue: 0,0:57:24.22,0:57:26.64,Default,,0,0,0,,Kia là Tiến sĩ Caldweel.\NTừng làm cho Energyne.
+Dialogue: 0,0:57:27.14,0:57:29.22,Default,,0,0,0,,Cô ấy giúp tạo nên\Nmấy người bạn nhỏ đáng yêu đó.
+Dialogue: 0,0:57:29.31,0:57:31.14,Default,,0,0,0,,Đặc vụ Russell, đây là hoạt động quân sự.
+Dialogue: 0,0:57:31.22,0:57:34.73,Default,,0,0,0,,Vâng, Tôi hiểu, thưa ngài. Nhưng hiện giờ
+Dialogue: 0,0:57:34.94,0:57:38.06,Default,,0,0,0,,hai người này hiểu rõ về các sinh vật đó\Nhơn bất cứ ai trên hành tinh.
+Dialogue: 0,0:57:38.19,0:57:40.40,Default,,0,0,0,,Tôi nghĩ ngài cần nghe họ nói.
+Dialogue: 0,0:57:41.03,0:57:43.15,Default,,0,0,0,,Đại tá, điều mọi người phải hiểu là
+Dialogue: 0,0:57:43.36,0:57:45.66,Default,,0,0,0,,chúng không còn là\Nsói và khỉ đột đơn giản nữa.
+Dialogue: 0,0:57:45.74,0:57:47.70,Default,,0,0,0,,Sói và khỉ đột thì sẽ tấn công nhau.
+Dialogue: 0,0:57:47.82,0:57:51.04,Default,,0,0,0,,Chúng sẽ không đi một đường thẳng\Nđến cùng một đích.
+Dialogue: 0,0:57:51.16,0:57:53.16,Default,,0,0,0,,Vậy chúng đang làm gì\Nvà tại sao chúng đến Chicago?
+Dialogue: 0,0:57:53.25,0:57:54.83,Default,,0,0,0,,Vì chúng đang được kêu gọi.
+Dialogue: 0,0:57:55.29,0:57:57.92,Default,,0,0,0,,Khi tôi ở Energyne,\Nchúng tôi đã làm việc với ADN của dơi.
+Dialogue: 0,0:57:58.04,0:58:01.30,Default,,0,0,0,,Nha Wyden bị ám ảnh với việc\Nphát triển liên lạc siêu âm sinh học
+Dialogue: 0,0:58:01.42,0:58:03.88,Default,,0,0,0,,và có vẻ họ đã thành công.
+Dialogue: 0,0:58:04.13,0:58:07.43,Default,,0,0,0,,Hẳn là Energyne đã phát ra\Ntín hiệu gì đó để dụ chúng đến.
+Dialogue: 0,0:58:07.55,0:58:10.14,Default,,0,0,0,,Các sinh vật này sẽ làm bất cứ việc gì
+Dialogue: 0,0:58:10.22,0:58:12.47,Default,,0,0,0,,để đến tín hiệu đó và ngăn nó lại.
+Dialogue: 0,0:58:13.68,0:58:15.89,Default,,0,0,0,,Đại tá, ngài phải di tản Chicago.
+Dialogue: 0,0:58:16.02,0:58:17.94,Default,,0,0,0,,Các sinh vật đó được chỉnh sửa\Nđể có thể tái tạo.
+Dialogue: 0,0:58:17.98,0:58:19.56,Default,,0,0,0,,Đạn và xe tăng sẽ không ngăn nổi chúng.
+Dialogue: 0,0:58:19.69,0:58:22.40,Default,,0,0,0,,Chúng tôi đã có các biện pháp đề phòng\Nanh Okoye.
+Dialogue: 0,0:58:23.61,0:58:24.61,Default,,0,0,0,,Đại tá.
+Dialogue: 0,0:58:28.45,0:58:31.99,Default,,0,0,0,,Trong lúc này,\NFBI yêu cầu các vị ở lại đây.
+Dialogue: 0,0:58:32.16,0:58:33.95,Default,,0,0,0,,Họ có vài câu hỏi riêng.
+Dialogue: 0,0:58:34.37,0:58:35.71,Default,,0,0,0,,Các quý ông đây sẽ đưa các vị ra.
+Dialogue: 0,0:58:35.79,0:58:37.00,Default,,0,0,0,,- Đi nào, thưa cô.\N- Đi thôi.
+Dialogue: 0,0:58:38.63,0:58:39.97,Default,,0,0,0,,Ngài đang phạm sai lầm lớn, Đại tá.
+Dialogue: 0,0:58:40.00,0:58:41.04,Default,,0,0,0,,Thưa anh, đi thôi.
+Dialogue: 0,0:58:41.92,0:58:44.96,Default,,0,0,0,,Mục tiêu vào vòng. Tất cả Bushmaster,\Nmục tiêu trong vòng tấn công.
+Dialogue: 0,0:58:45.09,0:58:46.76,Default,,0,0,0,,Chưa bắn, chờ lệnh.
+Dialogue: 0,0:58:46.93,0:58:49.26,Default,,0,0,0,,Black-Dog thành công.\NTa đã vây các mục tiêu.
+Dialogue: 0,0:58:49.47,0:58:52.18,Default,,0,0,0,,Mai phục đã xong.\NTất cả Bushmaster chờ lệnh.
+Dialogue: 0,0:58:52.60,0:58:53.85,Default,,0,0,0,,Chuẩn bị giao chiến.
+Dialogue: 0,0:58:59.10,0:59:02.32,Default,,0,0,0,,Chiến dịch này sẽ sóm bung bét.\NChúng ta phải đến Chicago.
+Dialogue: 0,0:59:04.44,0:59:05.86,Default,,0,0,0,,Ừ, tôi đang nghĩ cách.
+Dialogue: 0,0:59:06.95,0:59:09.11,Default,,0,0,0,,Nào, hai người. Ta đi xe bên trái.
+Dialogue: 0,0:59:09.24,0:59:11.32,Default,,0,0,0,,- Kate, đi nào.\N- Này! Này!
+Dialogue: 0,0:59:12.28,0:59:13.62,Default,,0,0,0,,Này, tôi bảo bên trái mà.
+Dialogue: 0,0:59:13.74,0:59:15.08,Default,,0,0,0,,Được rồi. Chờ chút, các cậu.
+Dialogue: 0,0:59:15.20,0:59:16.59,Default,,0,0,0,,Các cậu có vẻ là quân cảnh thông minh.
+Dialogue: 0,0:59:16.62,0:59:19.71,Default,,0,0,0,,Các cậu cũng biết là hiện giờ\Nđang có rất nhiều chuyện tệ hại.
+Dialogue: 0,0:59:19.87,0:59:21.38,Default,,0,0,0,,Tôi sẽ thành thật với cả hai
+Dialogue: 0,0:59:21.50,0:59:24.17,Default,,0,0,0,,về việc ta sắp làm nhé?\NKhông ăn thua với tôi đâu.
+Dialogue: 0,0:59:24.25,0:59:25.92,Default,,0,0,0,,- Đủ rồi. Đi!\N- Được rồi.
+Dialogue: 0,0:59:26.05,0:59:27.26,Default,,0,0,0,,Cân nhắc này.
+Dialogue: 0,0:59:27.38,0:59:29.55,Default,,0,0,0,,Tôi từng là lính. Đừng làm cái trò
+Dialogue: 0,0:59:29.68,0:59:31.68,Default,,0,0,0,,mà cậu chỉ vào mặt tôi, dọa tôi
+Dialogue: 0,0:59:31.76,0:59:33.64,Default,,0,0,0,,vì tôi sẽ phải nốc-ao cậu
+Dialogue: 0,0:59:33.72,0:59:35.53,Default,,0,0,0,,và rồi, cậu, nhìn tôi.\NTôi sẽ siết cậu ngạt thở
+Dialogue: 0,0:59:35.56,0:59:38.31,Default,,0,0,0,,đến nỗi cậu tè ra quần\Ntrước mặt quý cô đây.
+Dialogue: 0,0:59:38.48,0:59:40.60,Default,,0,0,0,,- Mất mặt lắm.\N- Không phải tôi yêu cầu anh đâu!
+Dialogue: 0,0:59:40.73,0:59:42.15,Default,,0,0,0,,- Đi thôi!\N- Này!
+Dialogue: 0,0:59:48.24,0:59:50.15,Default,,0,0,0,,Đây chính là điều tôi không muốn xảy ra.
+Dialogue: 0,0:59:51.20,0:59:53.24,Default,,0,0,0,,Tay này đô lắm đó. Đừng chống cự.
+Dialogue: 0,0:59:53.45,0:59:54.74,Default,,0,0,0,,Đừng chống cự.
+Dialogue: 0,0:59:55.41,0:59:57.58,Default,,0,0,0,,Rồi đó. Giờ đi ngủ đến rồi.
+Dialogue: 0,1:00:02.21,1:00:03.84,Default,,0,0,0,,Đó là kế hoạch anh tính à?
+Dialogue: 0,1:00:04.00,1:00:05.88,Default,,0,0,0,,Chà, tôi đâu có giết họ.
+Dialogue: 0,1:00:11.76,1:00:12.84,Default,,0,0,0,,Ta đang làm gì?
+Dialogue: 0,1:00:12.97,1:00:14.18,Default,,0,0,0,,Ta tìm một chiếc trực thăng
+Dialogue: 0,1:00:14.30,1:00:16.85,Default,,0,0,0,,nhưng ưu tiên chiếc nào\Nkhông có quân nhân vây quanh.
+Dialogue: 0,1:00:16.97,1:00:19.64,Default,,0,0,0,,Chắc họ có trực thăng y tế\Nđậu sẵn ở bệnh viện.
+Dialogue: 0,1:00:23.69,1:00:25.40,Default,,0,0,0,,Và đó là lý do luôn đem theo bác sĩ.
+Dialogue: 0,1:00:51.51,1:00:52.68,Default,,0,0,0,,Giỏi lắm, Tiến sĩ.
+Dialogue: 0,1:00:58.47,1:01:00.77,Default,,0,0,0,,Chà chà, xem kìa.
+Dialogue: 0,1:01:00.93,1:01:03.02,Default,,0,0,0,,Trộm chim sắt của bệnh viện.
+Dialogue: 0,1:01:03.14,1:01:04.85,Default,,0,0,0,,Làm tôi ấn tượng đấy.
+Dialogue: 0,1:01:05.06,1:01:07.06,Default,,0,0,0,,Thật sáng tạo.
+Dialogue: 0,1:01:07.26,1:01:09.15,Default,,0,0,0,,Thôi nào. Anh đã thấy\NGeorge làm gì máy bay chúng ta.
+Dialogue: 0,1:01:09.18,1:01:11.02,Default,,0,0,0,,Mọi người đang đánh giá thấp\Nnhững con thú này.
+Dialogue: 0,1:01:11.81,1:01:13.56,Default,,0,0,0,,Nhưng hai người có đạn thần à?
+Dialogue: 0,1:01:13.77,1:01:15.12,Default,,0,0,0,,Chúng tôi nghĩ là biết chỗ tìm nó.
+Dialogue: 0,1:01:15.15,1:01:15.98,Default,,0,0,0,,Nghe này,
+Dialogue: 0,1:01:16.07,1:01:19.23,Default,,0,0,0,,Claire Wyden quá thông minh, nên sẽ không\Ntạo ra một vũ khí không thể kiểm soát.
+Dialogue: 0,1:01:19.28,1:01:22.61,Default,,0,0,0,,Họ phải có thuốc giải ở Energyne\Ncó thể ngăn đột biến.
+Dialogue: 0,1:01:22.78,1:01:24.95,Default,,0,0,0,,Nếu ta lấy được thuốc,\Nđó có thể là cơ hội duy nhất.
+Dialogue: 0,1:01:25.03,1:01:27.39,Default,,0,0,0,,Để ngăn George và con sói\Ntrước khi chúng san phẳng Chicago.
+Dialogue: 0,1:01:32.67,1:01:34.58,Default,,0,0,0,,Không có trạm nghỉ đâu, anh bạn.
+Dialogue: 0,1:01:35.34,1:01:37.42,Default,,0,0,0,,Họ không để chìa khóa dưới tấm che nắng.
+Dialogue: 0,1:01:38.59,1:01:40.63,Default,,0,0,0,,Khoan, anh giúp chúng tôi à?
+Dialogue: 0,1:01:40.84,1:01:43.97,Default,,0,0,0,,Anh đã cứu mạng tôi.\NCó lẽ đó là điều tối thiểu tôi làm được.
+Dialogue: 0,1:01:44.64,1:01:46.60,Default,,0,0,0,,Chúng ta cùng phe\Nkhi dính đến nhà Wyden.
+Dialogue: 0,1:01:46.68,1:01:48.64,Default,,0,0,0,,Họ nghĩ họ đứng trên luật pháp.
+Dialogue: 0,1:01:49.89,1:01:51.41,Default,,0,0,0,,Và tôi muốn nhắc họ là không phải thế.
+Dialogue: 0,1:01:51.94,1:01:54.77,Default,,0,0,0,,Nên đúng, chúng ta đang giúp lẫn nhau.
+Dialogue: 0,1:01:55.69,1:01:56.82,Default,,0,0,0,,Làm việc anh phải làm đi.
+Dialogue: 0,1:01:58.11,1:01:59.40,Default,,0,0,0,,Tôi sẽ giữ liên lạc
+Dialogue: 0,1:02:00.78,1:02:01.44,Default,,0,0,0,,Chà.
+Dialogue: 0,1:02:01.74,1:02:03.53,Default,,0,0,0,,Việc diễn ra tốt hơn so với tôi nghĩ.
+Dialogue: 0,1:02:03.66,1:02:05.91,Default,,0,0,0,,Đúng thế. Tôi đã mong\Ncó thể nốc-ao anh ta luôn.
+Dialogue: 0,1:02:06.12,1:02:08.45,Default,,0,0,0,,Còn cách khác để\Nđối xử với người ta mà?
+Dialogue: 0,1:02:08.58,1:02:10.66,Default,,0,0,0,,Tôi biết chứ, nhưng thế thì không vui.
+Dialogue: 0,1:02:13.42,1:02:14.90,Default,,0,0,0,,Tôi cho là anh biết cách bay thứ này.
+Dialogue: 0,1:02:17.50,1:02:18.59,Default,,0,0,0,,Chắc chắn rồi.
+Dialogue: 0,1:02:24.72,1:02:26.26,Default,,0,0,0,,Trí nhớ đang trở lại.
+Dialogue: 0,1:02:26.43,1:02:28.72,Default,,0,0,0,,Tôi đang nhớ lại, ngay lúc này.
+Dialogue: 0,1:02:30.43,1:02:31.43,Default,,0,0,0,,Ừ.
+Dialogue: 0,1:02:32.06,1:02:34.64,Default,,0,0,0,,Đang nhớ. Đang nhớ lại.
+Dialogue: 0,1:02:37.11,1:02:40.73,Default,,0,0,0,,Sếp, 15 phút nữa là bình minh.\NLiên lạc pháo binh, hết.
+Dialogue: 0,1:02:40.90,1:02:43.36,Default,,0,0,0,,Ta có mục tiêu.\NCác Serpent đã vào vị trí. Đến giờ rồi.
+Dialogue: 0,1:02:45.74,1:02:47.70,Default,,0,0,0,,Hiện hình ảnh hồng ngoại FLIR.
+Dialogue: 0,1:02:48.16,1:02:49.16,Default,,0,0,0,,FLIR đã lên.
+Dialogue: 0,1:02:49.20,1:02:51.04,Default,,0,0,0,,Đây là 3-6.\NMục tiêu ở chỗ trống trải, hết.
+Dialogue: 0,1:02:51.12,1:02:52.12,Default,,0,0,0,,Cho phép bắn.
+Dialogue: 0,1:02:52.25,1:02:53.71,Default,,0,0,0,,Đã bắn.
+Dialogue: 0,1:02:59.88,1:03:02.26,Default,,0,0,0,,Cú bắn tốt. Chờ báo cáo đánh giá.
+Dialogue: 0,1:03:02.46,1:03:03.76,Default,,0,0,0,,Xác nhận giết địch.
+Dialogue: 0,1:03:03.97,1:03:06.38,Default,,0,0,0,,6-Alpha-Lobo X-ray.\NXác nhận giết địch, hết.
+Dialogue: 0,1:03:06.51,1:03:08.09,Default,,0,0,0,,Nghe rõ, Lobo. Chờ lệnh.
+Dialogue: 0,1:03:08.51,1:03:10.01,Default,,0,0,0,,2-6, ở lại cảnh giới.
+Dialogue: 0,1:03:11.93,1:03:14.39,Default,,0,0,0,,Echo-0-2, đang di chuyển đến tuyến vàng.
+Dialogue: 0,1:03:16.14,1:03:17.14,Default,,0,0,0,,Chúa ơi!
+Dialogue: 0,1:03:17.27,1:03:18.48,Default,,0,0,0,,Coi nào.
+Dialogue: 0,1:03:20.15,1:03:22.44,Default,,0,0,0,,6-Alpha-Lobo X-ray.\NBáo cáo tình hình, hết.
+Dialogue: 0,1:03:22.61,1:03:23.94,Default,,0,0,0,,Không có địch chết.
+Dialogue: 0,1:03:24.07,1:03:27.28,Default,,0,0,0,,Hẳn chúng đã đi, thưa ngài.\NNhắc lại, ta không còn...
+Dialogue: 0,1:03:30.08,1:03:31.16,Default,,0,0,0,,Chúa ơi!
+Dialogue: 0,1:03:32.12,1:03:34.16,Default,,0,0,0,,Chúng ở hai cánh Đông, Tây!\NTất cả di chuyển!
+Dialogue: 0,1:03:38.42,1:03:39.42,Default,,0,0,0,,Chẳng có pháo hiệu!
+Dialogue: 0,1:03:42.46,1:03:45.51,Default,,0,0,0,,Bushmaster-6-Alpha, Lobo X-ray đây.\NCần báo cáo, hết.
+Dialogue: 0,1:03:46.55,1:03:47.55,Default,,0,0,0,,Đại úy Evans?
+Dialogue: 0,1:03:53.64,1:03:56.98,Default,,0,0,0,,Kaplan, báo Vệ binh Quốc gia là\Nta thực hiện kế hoạch phòng ngừa.
+Dialogue: 0,1:03:57.10,1:03:57.98,Default,,0,0,0,,Vâng, thưa ngài.
+Dialogue: 0,1:03:58.06,1:04:01.40,Default,,0,0,0,,Tôi muốn pháo mặt đất\Ntiến vào trung tâm Chicago, ngay lập tức!
+Dialogue: 0,1:04:01.57,1:04:03.48,Default,,0,0,0,,Lần này ta tung hết\Nmọi thứ mình có vào chúng.
+Dialogue: 0,1:04:03.57,1:04:05.53,Default,,0,0,0,,Và đưa người dân rời thành phố!
+Dialogue: 0,1:04:06.07,1:04:08.57,Default,,0,0,0,,Tôi muốn mỗi 400 mét phía Nam\Nkhu Loop có hàng rào phong tỏa.
+Dialogue: 0,1:04:08.74,1:04:10.57,Default,,0,0,0,,Di tản thường dân về phía Bắc!
+Dialogue: 0,1:04:10.78,1:04:13.99,Default,,0,0,0,,Tôi đây. Họ đang di tản Chicago.
+Dialogue: 0,1:04:14.16,1:04:16.66,Default,,0,0,0,,George và con sói\Nđã xuyên qua lính của Blake.
+Dialogue: 0,1:04:16.83,1:04:19.00,Default,,0,0,0,,Okoye, chúng ở ngay trước anh.
+Dialogue: 0,1:04:19.62,1:04:20.62,Default,,0,0,0,,Nghe rõ.
+Dialogue: 0,1:04:24.96,1:04:26.09,Default,,0,0,0,,Gì thế?
+Dialogue: 0,1:04:27.05,1:04:29.13,Default,,0,0,0,,Họ sẽ không bao giờ\Nđưa người dân rời thành phố kịp.
+Dialogue: 0,1:05:01.21,1:05:02.21,Default,,0,0,0,,Davis!
+Dialogue: 0,1:05:21.35,1:05:22.98,Default,,0,0,0,,2-3, mục tiêu ở nơi trống trải.
+Dialogue: 0,1:05:23.06,1:05:24.48,Default,,0,0,0,,- Nghe rõ.\N- Anh được bắn.
+Dialogue: 0,1:05:24.52,1:05:26.48,Default,,0,0,0,,Rõ. Vũ khí sẵn sàng. Tôi bắn đây.
+Dialogue: 0,1:05:27.61,1:05:29.19,Default,,0,0,0,,Chúa ơi! Tôi bị vồ trúng!
+Dialogue: 0,1:05:29.40,1:05:30.40,Default,,0,0,0,,Có máy bay rơi!
+Dialogue: 0,1:05:30.53,1:05:32.24,Default,,0,0,0,,Chết tiệt, tôi sẽ hạ chúng.
+Dialogue: 0,1:05:33.53,1:05:34.78,Default,,0,0,0,,Tôi mất kiểm soát!
+Dialogue: 0,1:05:43.58,1:05:45.67,Default,,0,0,0,,2-9 đang bắn, trúng mục tiêu.\NĐang xử nó.
+Dialogue: 0,1:05:51.05,1:05:52.30,Default,,0,0,0,,Nó bắn tôi bằng cái gì đó!
+Dialogue: 0,1:05:52.51,1:05:53.55,Default,,0,0,0,,Mất bánh lái đuôi!
+Dialogue: 0,1:05:53.72,1:05:55.64,Default,,0,0,0,,Khẩn cấp! Tôi đang rơi!
+Dialogue: 0,1:06:02.56,1:06:04.40,Default,,0,0,0,,Báo cáo tình hình. Warthog 1 đâu?
+Dialogue: 0,1:06:04.85,1:06:05.85,Default,,0,0,0,,Đã đến, thưa ngài.
+Dialogue: 0,1:06:05.98,1:06:08.07,Default,,0,0,0,,- Warthog 1, anh được bắn.\N- Rõ.
+Dialogue: 0,1:06:16.58,1:06:18.24,Default,,0,0,0,,Đây là Warthog 1. Hụt mục tiêu.
+Dialogue: 0,1:06:20.83,1:06:23.50,Default,,0,0,0,,Lobo X-ray, xin cho quay lại\Nmột lượt bắn nữa.
+Dialogue: 0,1:06:23.71,1:06:26.75,Default,,0,0,0,,Warthog 1, Black-Dog-6-Actual đây.\NTấn công lại.
+Dialogue: 0,1:06:26.88,1:06:27.75,Default,,0,0,0,,Nghe rõ.
+Dialogue: 0,1:06:27.88,1:06:29.34,Default,,0,0,0,,Kaplan, di tản đến đâu rồi?
+Dialogue: 0,1:06:29.92,1:06:31.21,Default,,0,0,0,,50% khu trung tâm, sếp.
+Dialogue: 0,1:06:32.34,1:06:34.89,Default,,0,0,0,,Sếp, có ông kẹ đi về phía Bắc trên sông,\Ncách 800 mét.
+Dialogue: 0,1:06:35.47,1:06:37.26,Default,,0,0,0,,Cô đang nói cái quái gì vậy?
+Dialogue: 0,1:06:44.02,1:06:45.10,Default,,0,0,0,,Một con tàu à?
+Dialogue: 0,1:06:45.31,1:06:46.48,Default,,0,0,0,,Nó ở dưới nước, sếp.
+Dialogue: 0,1:06:46.81,1:06:48.94,Default,,0,0,0,,Ta đâu có tàu ngầm nào ở vùng này.
+Dialogue: 0,1:07:06.71,1:07:08.88,Default,,0,0,0,,Davis, có gid đó to lắm dưới sông.
+Dialogue: 0,1:07:38.95,1:07:40.53,Default,,0,0,0,,Chà, tệ thật.
+Dialogue: 0,1:07:42.16,1:07:42.95,Default,,0,0,0,,3-2 đây.
+Dialogue: 0,1:07:43.04,1:07:44.91,Default,,0,0,0,,Có địch ở sông. Nghe rõ không?
+Dialogue: 0,1:07:45.04,1:07:45.91,Default,,0,0,0,,Nhắc lại đi, 3-2?
+Dialogue: 0,1:07:46.00,1:07:48.08,Default,,0,0,0,,Gặp địch! Mục tiêu đi về phía Đông!
+Dialogue: 0,1:07:48.21,1:07:50.25,Default,,0,0,0,,Nghe rõ, 3-2. Yêu cầu hỏa lực hỗ trợ.
+Dialogue: 0,1:07:50.34,1:07:51.68,Default,,0,0,0,,Không nghe được! Nguy hiểm đến gần!
+Dialogue: 0,1:07:51.71,1:07:52.80,Default,,0,0,0,,Nghe rõ, 3-2.
+Dialogue: 0,1:07:52.92,1:07:55.72,Default,,0,0,0,,Điều mọi lực lượng đến thứ đó ngay!
+Dialogue: 0,1:07:57.55,1:08:00.22,Default,,0,0,0,,Gặp địch! Hướng ba giờ! Giao chiến!
+Dialogue: 0,1:08:00.47,1:08:01.47,Default,,0,0,0,,Bọc cánh!
+Dialogue: 0,1:08:02.39,1:08:03.43,Default,,0,0,0,,Bắn hết mọi thứ!
+Dialogue: 0,1:08:03.56,1:08:04.60,Default,,0,0,0,,Nhắm vào chỗ cái mang!
+Dialogue: 0,1:08:04.72,1:08:06.06,Default,,0,0,0,,Bắn!
+Dialogue: 0,1:08:31.54,1:08:33.13,Default,,0,0,0,,Bắn! Bắn!
+Dialogue: 0,1:08:51.77,1:08:52.94,Default,,0,0,0,,Họ không thể cản chúng.
+Dialogue: 0,1:08:53.15,1:08:54.69,Default,,0,0,0,,Ta phải lấy được thuốc giải đó.
+Dialogue: 0,1:09:11.50,1:09:13.30,Default,,0,0,0,,Alpha-6-Actual,\Nchúng tôi không thể cản chúng!
+Dialogue: 0,1:09:13.38,1:09:14.85,Default,,0,0,0,,Tôi đã mất nửa số lính!\NChúng tôi đang rút!
+Dialogue: 0,1:09:14.88,1:09:16.17,Default,,0,0,0,,Ta di tản trung tâm xong chưa?
+Dialogue: 0,1:09:16.30,1:09:19.09,Default,,0,0,0,,Xong bán kính 10 khu nhà\Ntừ Upper Wacker đến Adams, sếp.
+Dialogue: 0,1:09:19.22,1:09:20.51,Default,,0,0,0,,Chuẩn bị bom mẹ.
+Dialogue: 0,1:09:20.80,1:09:21.80,Default,,0,0,0,,Nghe rõ.
+Dialogue: 0,1:09:30.27,1:09:34.40,Default,,0,0,0,,Đại tá, ngài sắp thả quả bom thường\Nlớn nhất trong kho vũ khí.
+Dialogue: 0,1:09:35.07,1:09:36.57,Default,,0,0,0,,Lên đất Mỹ.
+Dialogue: 0,1:09:37.11,1:09:40.07,Default,,0,0,0,,Dù rất tôn trọng ngài,\Nnhưng phải có cách khác.
+Dialogue: 0,1:09:40.40,1:09:41.99,Default,,0,0,0,,Ngài thả quả bom đó,
+Dialogue: 0,1:09:42.16,1:09:45.20,Default,,0,0,0,,không chỉ quét sạch nửa thành phố
+Dialogue: 0,1:09:45.62,1:09:47.54,Default,,0,0,0,,mà còn phá hủy hết chứng cứ.
+Dialogue: 0,1:09:47.70,1:09:50.71,Default,,0,0,0,,Tôi có một đội đang đến Enegyne\Nđể lấy thuốc giải.
+Dialogue: 0,1:09:50.83,1:09:55.13,Default,,0,0,0,,Nếu ngài có thể chai bớt nguồn lực\Nvà hỗ trợ họ...
+Dialogue: 0,1:09:55.25,1:09:58.30,Default,,0,0,0,,Cũng là đội đã trộm\Ntrực thăng y tế của tôi phải không.
+Dialogue: 0,1:09:58.38,1:10:01.76,Default,,0,0,0,,- Davis Okoye và Tiến sĩ Caldwell...\N- Cần ra khỏi đó.
+Dialogue: 0,1:10:02.22,1:10:04.59,Default,,0,0,0,,Tôi cần anh\Nbỏ cái trò cao bồi chết tiệt đi.
+Dialogue: 0,1:10:05.18,1:10:06.64,Default,,0,0,0,,Và làm theo chúng tôi.
+Dialogue: 0,1:10:10.14,1:10:11.48,Default,,0,0,0,,Thưa ngài,
+Dialogue: 0,1:10:11.81,1:10:13.60,Default,,0,0,0,,ngài biết chúng tôi là cao bồi mà.
+Dialogue: 0,1:10:13.81,1:10:17.36,Default,,0,0,0,,Chúng tôi không thể\Nbỏ lại bạn bè của mình phía sau.
+Dialogue: 0,1:10:17.48,1:10:19.69,Default,,0,0,0,,Xéo khỏi đây đi!
+Dialogue: 0,1:10:20.28,1:10:23.91,Default,,0,0,0,,Cuối cùng cũng có một mệnh lệnh của ngài\Nmà tôi nhất trí được.
+Dialogue: 0,1:10:29.66,1:10:31.58,Default,,0,0,0,,Hiện hình ảnh\Nmáy bay ném bom tàng hình của ta.
+Dialogue: 0,1:10:34.54,1:10:36.04,Default,,0,0,0,,Hình ảnh máy bay ném bon đã lên.
+Dialogue: 0,1:10:36.96,1:10:38.81,Default,,0,0,0,,Viper 2-5, anh được đi\Nthực hiện nhiệm vụ, ngay.
+Dialogue: 0,1:10:38.84,1:10:40.35,Default,,0,0,0,,CĂN CỨ KHÔNG QUÂN WHITEMAN\NHạt Johnson, Missouri
+Dialogue: 0,1:10:40.38,1:10:41.84,Default,,0,0,0,,Rời đường lăn 2-5.
+Dialogue: 0,1:10:42.42,1:10:44.09,Default,,0,0,0,,Được cất cánh, đường lăn 2-5.
+Dialogue: 0,1:10:44.22,1:10:45.68,Default,,0,0,0,,Sẵn sàng cất cánh, 2-5.
+Dialogue: 0,1:10:45.84,1:10:47.30,Default,,0,0,0,,Nghe rõ. Chúc may mắn.
+Dialogue: 0,1:10:48.68,1:10:50.56,Default,,0,0,0,,Lobo X-ray, đây là Viper 2-5.
+Dialogue: 0,1:10:51.43,1:10:52.89,Default,,0,0,0,,Món hàng đã lên trời.
+Dialogue: 0,1:10:53.48,1:10:54.64,Default,,0,0,0,,Chúng tôi đang đến.
+Dialogue: 0,1:10:56.52,1:10:59.19,Default,,0,0,0,,Đặc vụ Russell,\Nđây là thông tin yêu cầu.
+Dialogue: 0,1:10:59.36,1:11:01.94,Default,,0,0,0,,Danh sách các máy chủ của Energyne từ FBI.
+Dialogue: 0,1:11:02.11,1:11:03.11,Default,,0,0,0,,Anh đã đúng.
+Dialogue: 0,1:11:03.57,1:11:05.41,Default,,0,0,0,,Có một máy chủ họ đã bỏ qua.
+Dialogue: 0,1:11:05.61,1:11:07.62,Default,,0,0,0,,Và chỉ có hai người\Nđược truy cập máy chủ đó.
+Dialogue: 0,1:11:09.74,1:11:13.04,Default,,0,0,0,,Brett và Claire, bọn lén lút khốn kiếp.
+Dialogue: 0,1:11:14.21,1:11:15.79,Default,,0,0,0,,- Cảm ơn con trai.\N- Vâng.
+Dialogue: 0,1:11:19.79,1:11:22.21,Default,,0,0,0,,Russell đây. Tôi cần phương tiện.
+Dialogue: 0,1:11:23.80,1:11:25.97,Default,,0,0,0,,Nhanh, lối này! Đi tiếp đi!
+Dialogue: 0,1:11:34.02,1:11:35.94,Default,,0,0,0,,- Đi đâu?\N- Tầng 85.
+Dialogue: 0,1:11:44.86,1:11:45.86,Default,,0,0,0,,Phòng lab trong này.
+Dialogue: 0,1:11:46.86,1:11:47.86,Default,,0,0,0,,Chết tiệt!
+Dialogue: 0,1:11:50.33,1:11:51.79,Default,,0,0,0,,Này, cho tôi tin tốt đi.
+Dialogue: 0,1:11:51.91,1:11:54.08,Default,,0,0,0,,Bom mẹ còn khoảng 30 phút là đến.
+Dialogue: 0,1:11:54.25,1:11:56.25,Default,,0,0,0,,Một quả đủ diệt năm khối nhà.
+Dialogue: 0,1:11:56.37,1:11:57.67,Default,,0,0,0,,Anh nên đi thì hơn!
+Dialogue: 0,1:11:57.79,1:11:59.15,Default,,0,0,0,,Tôi không nhận điện thoại anh nữa.
+Dialogue: 0,1:11:59.83,1:12:01.63,Default,,0,0,0,,Bị khóa rồi. Anh ta nói sao?
+Dialogue: 0,1:12:01.75,1:12:04.51,Default,,0,0,0,,Gì đó về bom mẹ đang đến\Nvà ta cần nhanh lên.
+Dialogue: 0,1:12:08.72,1:12:09.76,Default,,0,0,0,,Được.
+Dialogue: 0,1:12:13.31,1:12:14.02,Default,,0,0,0,,Chết tiệt!
+Dialogue: 0,1:12:14.22,1:12:16.18,Default,,0,0,0,,FBI hẳn đã tịch thu hết ổ cứng.
+Dialogue: 0,1:12:17.73,1:12:18.73,Default,,0,0,0,,Được rồi.
+Dialogue: 0,1:12:18.90,1:12:21.19,Default,,0,0,0,,Coi nào, Kate, nghĩ đi.
+Dialogue: 0,1:12:22.57,1:12:23.57,Default,,0,0,0,,Đây rồi.
+Dialogue: 0,1:12:26.53,1:12:30.24,Default,,0,0,0,,Rồi, mọi thứ ở phòng lab\Nđều nằm trong một hệ thống.
+Dialogue: 0,1:12:30.45,1:12:33.58,Default,,0,0,0,,FBI sẽ không nghĩ đến việc\Nlấy một cái máy điều nhiệt
+Dialogue: 0,1:12:33.70,1:12:35.41,Default,,0,0,0,,nhưng đó là một cửa hậu để vào máy chủ.
+Dialogue: 0,1:12:35.58,1:12:37.91,Default,,0,0,0,,Nên ta sẽ có thể truy cập mọi file
+Dialogue: 0,1:12:38.08,1:12:39.62,Default,,0,0,0,,từ đây.
+Dialogue: 0,1:12:40.88,1:12:42.75,Default,,0,0,0,,Đổi kế hoạch.\NQuân đội không kiểm soát nổi.
+Dialogue: 0,1:12:42.88,1:12:44.34,Default,,0,0,0,,Chúng tôi sắp lên.
+Dialogue: 0,1:12:44.67,1:12:45.80,Default,,0,0,0,,Được rồi.
+Dialogue: 0,1:12:46.01,1:12:48.30,Default,,0,0,0,,Trực thăng đã sẵn sàng.
+Dialogue: 0,1:12:48.47,1:12:50.68,Default,,0,0,0,,Em đã có con chuột của chị.
+Dialogue: 0,1:12:51.51,1:12:54.81,Default,,0,0,0,,Đi lấy R-19 từ phòng lab\Nđể ta có cái làm chỗ dựa.
+Dialogue: 0,1:12:54.93,1:12:57.43,Default,,0,0,0,,Khi cơn bão táp quái quỷ này bắt kịp ta.
+Dialogue: 0,1:12:58.56,1:12:59.64,Default,,0,0,0,,Giờ sao nữa?
+Dialogue: 0,1:13:00.02,1:13:01.31,Default,,0,0,0,,Ta có khách.
+Dialogue: 0,1:13:03.86,1:13:05.86,Default,,0,0,0,,- Tôi không tin nổi.\N- Có vấn đề gì?
+Dialogue: 0,1:13:06.03,1:13:07.74,Default,,0,0,0,,Hệ thống đã bị phá hoàn toàn.
+Dialogue: 0,1:13:07.90,1:13:10.36,Default,,0,0,0,,Họ đã xóa mọi thứ liên quan đến dự án.
+Dialogue: 0,1:13:10.57,1:13:11.74,Default,,0,0,0,,Nhưng nó ở đây.
+Dialogue: 0,1:13:12.41,1:13:13.99,Default,,0,0,0,,Ta chỉ phải tìm nó.
+Dialogue: 0,1:13:15.04,1:13:16.08,Default,,0,0,0,,Trong đó!
+Dialogue: 0,1:13:19.75,1:13:20.79,Default,,0,0,0,,Để tôi xử.
+Dialogue: 0,1:13:28.26,1:13:29.42,Default,,0,0,0,,Thích rồi đó.
+Dialogue: 0,1:13:30.59,1:13:31.59,Default,,0,0,0,,Ta tìm cái gì?
+Dialogue: 0,1:13:31.80,1:13:33.85,Default,,0,0,0,,Bất cứ gì bắt đầu bằng "RPG".
+Dialogue: 0,1:13:34.05,1:13:36.06,Default,,0,0,0,,Nó sẽ ở trong số các khay trữ đông này.
+Dialogue: 0,1:13:36.22,1:13:37.39,Default,,0,0,0,,Hiểu rồi.
+Dialogue: 0,1:13:37.60,1:13:39.10,Default,,0,0,0,,RPG, RPG.
+Dialogue: 0,1:13:41.73,1:13:42.90,Default,,0,0,0,,Tôi nghĩ là tìm ra rồi.
+Dialogue: 0,1:13:52.95,1:13:53.95,Default,,0,0,0,,Chính là nó.
+Dialogue: 0,1:13:55.53,1:13:56.62,Default,,0,0,0,,Đó là thuốc giả à?
+Dialogue: 0,1:13:57.41,1:13:59.00,Default,,0,0,0,,Không hẳn là thuốc giải.
+Dialogue: 0,1:13:59.70,1:14:02.83,Default,,0,0,0,,R-19 không đảo ngược chúng\Nvề kích thước bình thường.
+Dialogue: 0,1:14:03.08,1:14:05.12,Default,,0,0,0,,Nó chỉ khống chế\Nsự hiếu chiến không kiểm soát thôi.
+Dialogue: 0,1:14:08.13,1:14:09.63,Default,,0,0,0,,Rất vui được gặp cô, Kate.
+Dialogue: 0,1:14:09.92,1:14:11.34,Default,,0,0,0,,Chết đi, Claire.
+Dialogue: 0,1:14:13.01,1:14:16.05,Default,,0,0,0,,Tôi rất tiếc khi nghe tin về em trai cô.
+Dialogue: 0,1:14:24.06,1:14:26.06,Default,,0,0,0,,Giờ sao cô không giao chúng lại nhỉ?
+Dialogue: 0,1:14:39.24,1:14:41.12,Default,,0,0,0,,Được rồi, đi đi.
+Dialogue: 0,1:14:41.66,1:14:43.08,Default,,0,0,0,,Không có chuyeenjh đó đâu.
+Dialogue: 0,1:14:45.50,1:14:47.04,Default,,0,0,0,,Đưa chị xem được chứ?
+Dialogue: 0,1:14:54.84,1:14:55.84,Default,,0,0,0,,Davis.
+Dialogue: 0,1:14:59.39,1:15:00.43,Default,,0,0,0,,Có rồi đấy.
+Dialogue: 0,1:15:00.60,1:15:01.60,Default,,0,0,0,,Davis.
+Dialogue: 0,1:15:01.77,1:15:02.98,Default,,0,0,0,,Giờ đi đi.
+Dialogue: 0,1:15:05.06,1:15:06.90,Default,,0,0,0,,- Chúa ơi!\N- Ngay.
+Dialogue: 0,1:15:17.28,1:15:18.58,Default,,0,0,0,,Chúng đến đây rồi.
+Dialogue: 0,1:15:49.48,1:15:50.48,Default,,0,0,0,,Đi!
+Dialogue: 0,1:15:53.07,1:15:56.20,Default,,0,0,0,,Lúc đó tôi thật sự đã lo\Nlàm sao chỉnh sửa được mầm bệnh.
+Dialogue: 0,1:15:57.32,1:15:58.32,Default,,0,0,0,,Rồi cô xuất hiện.
+Dialogue: 0,1:15:59.07,1:16:01.16,Default,,0,0,0,,Giờ lên đó trừ khi cô muốn\Nkết thúc như bạn cô.
+Dialogue: 0,1:16:19.59,1:16:21.56,Default,,0,0,0,,Brett! Quay lại đây!
+Dialogue: 0,1:16:32.11,1:16:33.11,Default,,0,0,0,,Không!
+Dialogue: 0,1:16:42.12,1:16:43.12,Default,,0,0,0,,Đi nào!
+Dialogue: 0,1:16:51.92,1:16:53.21,Default,,0,0,0,,Tôi tưởng anh đã chết.
+Dialogue: 0,1:16:53.34,1:16:54.92,Default,,0,0,0,,Cô ta bắn hụt mọi nội tạng quan trọng.
+Dialogue: 0,1:16:55.01,1:16:56.30,Default,,0,0,0,,May cho tôi.
+Dialogue: 0,1:16:56.38,1:16:57.88,Default,,0,0,0,,Giờ đi lấy thuốc giải. Nhanh nào!
+Dialogue: 0,1:16:58.01,1:16:59.34,Default,,0,0,0,,Davis, khoan.
+Dialogue: 0,1:17:00.59,1:17:01.85,Default,,0,0,0,,Tôi có một liều.
+Dialogue: 0,1:17:03.35,1:17:04.39,Default,,0,0,0,,Được, kế hoạch mới.
+Dialogue: 0,1:17:04.47,1:17:06.49,Default,,0,0,0,,Ta dùng cho George và\Nnó có thể giúp ta cản 2 con kia.
+Dialogue: 0,1:17:06.52,1:17:07.56,Default,,0,0,0,,Được.
+Dialogue: 0,1:17:12.77,1:17:15.28,Default,,0,0,0,,Giờ chỉ cần tìm cách\Ndùng cho nó nữa là được.
+Dialogue: 0,1:17:17.57,1:17:18.82,Default,,0,0,0,,Ta phải di chuyển!
+Dialogue: 0,1:17:25.33,1:17:28.04,Default,,0,0,0,,Tôi rất vui là cả hai còn sống.
+Dialogue: 0,1:17:28.71,1:17:31.54,Default,,0,0,0,,Giờ anh có thể lên kia\Nlàm bạn anh nhập tâm.
+Dialogue: 0,1:17:33.38,1:17:35.13,Default,,0,0,0,,Không thì tôi giết cả hai ngay!
+Dialogue: 0,1:17:41.97,1:17:43.05,Default,,0,0,0,,Được rồi!
+Dialogue: 0,1:17:44.35,1:17:45.60,Default,,0,0,0,,Tôi sẽ đi!
+Dialogue: 0,1:17:49.77,1:17:51.02,Default,,0,0,0,,George!
+Dialogue: 0,1:17:53.06,1:17:54.65,Default,,0,0,0,,Biến đi! Bỏ tay khỏi người tôi!
+Dialogue: 0,1:17:56.11,1:17:57.78,Default,,0,0,0,,Cô làm cái quái gì vậy?
+Dialogue: 0,1:18:00.07,1:18:01.86,Default,,0,0,0,,Đưa quái vật cho khỉ đột xơi!
+Dialogue: 0,1:18:20.47,1:18:21.47,Default,,0,0,0,,Sao?
+Dialogue: 0,1:18:21.68,1:18:23.72,Default,,0,0,0,,Không, quên chị tôi đi.
+Dialogue: 0,1:18:23.89,1:18:25.47,Default,,0,0,0,,Chị ấy mất trí rồi!
+Dialogue: 0,1:18:25.68,1:18:28.56,Default,,0,0,0,,Anh lái một chiêc SUV đến đây!\NĐưa tôi đi khỏi đây ngay!
+Dialogue: 0,1:18:31.18,1:18:32.56,Default,,0,0,0,,Chết tiệt, con trai!
+Dialogue: 0,1:18:34.40,1:18:37.23,Default,,0,0,0,,Cậu vừa chạy xuống\N80 tầng thang bộ à?
+Dialogue: 0,1:18:37.77,1:18:38.98,Default,,0,0,0,,Ông là tên quái nào?
+Dialogue: 0,1:18:39.15,1:18:41.82,Default,,0,0,0,,Tôi là kẻ tính chạy lên thang bộ\Nđể bắt cậu.
+Dialogue: 0,1:18:42.32,1:18:43.53,Default,,0,0,0,,Ôi không! Chết tiệt.
+Dialogue: 0,1:18:43.74,1:18:46.45,Default,,0,0,0,,Trông cậu gớm đến nỗi\Ntôi thấy tệ nếu làm thế.
+Dialogue: 0,1:18:50.70,1:18:51.83,Default,,0,0,0,,Nói cậu nghe.
+Dialogue: 0,1:18:52.04,1:18:54.42,Default,,0,0,0,,Vì cậu rất nỗ lực để ra khỏi đây,
+Dialogue: 0,1:18:55.38,1:18:58.13,Default,,0,0,0,,tôi đoán cậu có một cái laptop\Ntrong túi kia.
+Dialogue: 0,1:18:58.34,1:19:00.92,Default,,0,0,0,,Đưa nó cho tôi và có thể đi.
+Dialogue: 0,1:19:01.09,1:19:02.80,Default,,0,0,0,,Ra ngay cánh cửa đó.
+Dialogue: 0,1:19:03.43,1:19:04.76,Default,,0,0,0,,- Thật chứ?\N- Ừ.
+Dialogue: 0,1:19:05.43,1:19:07.55,Default,,0,0,0,,Cậu chỉ cần giao nó ra rồi đi,
+Dialogue: 0,1:19:10.93,1:19:11.93,Default,,0,0,0,,Được!
+Dialogue: 0,1:19:13.39,1:19:14.77,Default,,0,0,0,,Là chị tôi đã làm mọi thứ.
+Dialogue: 0,1:19:14.94,1:19:16.38,Default,,0,0,0,,Đến ý tưởng tôi còn chẳng có nữa là.
+Dialogue: 0,1:19:16.52,1:19:18.44,Default,,0,0,0,,Từ khi nào\Nđồng lõa bị xem là tội hình sự chứ?
+Dialogue: 0,1:19:18.86,1:19:19.86,Default,,0,0,0,,Chính xác.
+Dialogue: 0,1:19:20.44,1:19:21.94,Default,,0,0,0,,- Gặp sau, Tex!\N- Này!
+Dialogue: 0,1:19:23.07,1:19:24.55,Default,,0,0,0,,Sao cậu không để bạn nhỏ lại với tôi?
+Dialogue: 0,1:19:26.87,1:19:29.28,Default,,0,0,0,,Hân hạnh quá. Tôi ghét thứ này!
+Dialogue: 0,1:19:40.80,1:19:41.80,Default,,0,0,0,,Chết tiệt.
+Dialogue: 0,1:19:42.55,1:19:43.80,Default,,0,0,0,,To thật đấy.
+Dialogue: 0,1:19:47.97,1:19:50.06,Default,,0,0,0,,Hy vọng anh có kế hoạch trên đó.
+Dialogue: 0,1:19:50.26,1:19:53.43,Default,,0,0,0,,Sao nào, bạn nhỏ?\NTao và mày ra lối khác nhé.
+Dialogue: 0,1:20:14.34,1:20:15.88,Default,,0,0,0,,Khi nào thuốc giải có tác dụng?
+Dialogue: 0,1:20:16.76,1:20:18.13,Default,,0,0,0,,Có thể là 10 phút.
+Dialogue: 0,1:20:19.09,1:20:21.05,Default,,0,0,0,,Tòa nhà này không đứng nổi 10 phút đâu!
+Dialogue: 0,1:20:28.81,1:20:30.40,Default,,0,0,0,,Làm sao ta thoát khỏi nóc nhà này đây?
+Dialogue: 0,1:20:35.19,1:20:36.65,Default,,0,0,0,,Có lẽ ta không cần rời mái nhà này.
+Dialogue: 0,1:20:37.03,1:20:38.03,Default,,0,0,0,,Sao?
+Dialogue: 0,1:20:42.12,1:20:44.45,Default,,0,0,0,,Không, chắc chắn ta phải đi!
+Dialogue: 0,1:20:44.58,1:20:45.58,Default,,0,0,0,,Nhanh nào!
+Dialogue: 0,1:20:48.04,1:20:49.04,Default,,0,0,0,,Davis!
+Dialogue: 0,1:20:49.87,1:20:51.54,Default,,0,0,0,,Cái trực thăng này mất đuôi!
+Dialogue: 0,1:20:51.67,1:20:52.79,Default,,0,0,0,,Đúng thế. Ta không cần đuôi.
+Dialogue: 0,1:20:52.88,1:20:54.21,Default,,0,0,0,,Cần, nếu anh muốn bay!
+Dialogue: 0,1:20:54.38,1:20:56.42,Default,,0,0,0,,Ta không bay, mà sẽ rơi.
+Dialogue: 0,1:20:56.63,1:20:57.63,Default,,0,0,0,,Cái gì?
+Dialogue: 0,1:20:57.67,1:20:59.26,Default,,0,0,0,,CÁNH QUẠT
+Dialogue: 0,1:21:01.68,1:21:05.10,Default,,0,0,0,,Ta chỉ cần lực nâng đủ để\Nở trên tòa nhà khi nó sụp.
+Dialogue: 0,1:21:05.22,1:21:07.52,Default,,0,0,0,,Giống như trượt trên tuyết lở vậy.
+Dialogue: 0,1:21:08.68,1:21:09.85,Default,,0,0,0,,Không, tôi không biết vụ đó!
+Dialogue: 0,1:21:19.78,1:21:21.32,Default,,0,0,0,,Nào cưng! Ta đi nào.
+Dialogue: 0,1:21:38.42,1:21:39.55,Default,,0,0,0,,Lạy Chúa!
+Dialogue: 0,1:21:39.72,1:21:40.93,Default,,0,0,0,,Có thể nguy hiểm đó.
+Dialogue: 0,1:21:46.89,1:21:48.89,Default,,0,0,0,,Lạy Chúa! Lạy Chúa!
+Dialogue: 0,1:21:48.97,1:21:49.97,Default,,0,0,0,,Chúa ơi!
+Dialogue: 0,1:21:52.60,1:21:54.86,Default,,0,0,0,,Lạy Chúa!
+Dialogue: 0,1:22:01.90,1:22:03.82,Default,,0,0,0,,Bám chặc, Kate!
+Dialogue: 0,1:22:12.04,1:22:13.58,Default,,0,0,0,,Bám chắc vào!
+Dialogue: 0,1:23:01.04,1:23:02.34,Default,,0,0,0,,Để tôi đở cô.
+Dialogue: 0,1:23:14.06,1:23:15.47,Default,,0,0,0,,Tôi cần uống gì đó.
+Dialogue: 0,1:23:27.57,1:23:29.45,Default,,0,0,0,,Tôi không thể tin chúng ta sống được.
+Dialogue: 0,1:23:32.83,1:23:34.70,Default,,0,0,0,,Khoan, vẫn còn người ở đây.
+Dialogue: 0,1:23:34.87,1:23:36.75,Default,,0,0,0,,Ta cần báo hủy không kích. Nào.
+Dialogue: 0,1:23:51.59,1:23:52.68,Default,,0,0,0,,Davis.
+Dialogue: 0,1:23:54.43,1:23:55.48,Default,,0,0,0,,Tôi biết.
+Dialogue: 0,1:24:02.57,1:24:03.57,Default,,0,0,0,,George?
+Dialogue: 0,1:24:05.86,1:24:06.95,Default,,0,0,0,,Mày ổn chứ?
+Dialogue: 0,1:24:19.50,1:24:20.50,Default,,0,0,0,,Tạ ơn Chúa.
+Dialogue: 0,1:24:22.13,1:24:23.80,Default,,0,0,0,,Rất vui khi có lại mày, anh bạn.
+Dialogue: 0,1:24:28.88,1:24:30.43,Default,,0,0,0,,Trông tao như phân hả?
+Dialogue: 0,1:24:31.34,1:24:32.14,Default,,0,0,0,,Được rồi.
+Dialogue: 0,1:24:32.30,1:24:35.68,Default,,0,0,0,,Mày thì giống đống phân to!
+Dialogue: 0,1:24:54.62,1:24:55.91,Default,,0,0,0,,Chạy thôi.
+Dialogue: 0,1:25:00.63,1:25:02.99,Default,,0,0,0,,Lobo X-ray, đây là Viper 2-5.
+Dialogue: 0,1:25:02.99,1:25:05.47,Default,,0,0,0,,Yểm hộ đã vào vị trí.\NCách mục tiêu 8 phút.
+Dialogue: 0,1:25:05.47,1:25:06.03,Default,,0,0,0,,Hết.
+Dialogue: 0,1:25:06.03,1:25:08.34,Default,,0,0,0,,Nghe rõ, 2-5. Bắn theo chỉ thị.
+Dialogue: 0,1:25:08.34,1:25:09.70,Default,,0,0,0,,- Hết.\N- Nghe rõ.
+Dialogue: 0,1:25:11.26,1:25:12.80,Default,,0,0,0,,Đi nào! Đi nào!
+Dialogue: 0,1:25:14.97,1:25:15.97,Default,,0,0,0,,Kế hoạch ra sao?
+Dialogue: 0,1:25:16.43,1:25:18.80,Default,,0,0,0,,Cô lấy chiếc Humvee này\Nđi tìm một điện thoại vệ tinh
+Dialogue: 0,1:25:18.97,1:25:21.56,Default,,0,0,0,,Gọi Russell. Anh ta là\Nhy vọng duy nhất để hủy không kích.
+Dialogue: 0,1:25:21.72,1:25:24.47,Default,,0,0,0,,Rồi cho anh ta biết\Ncòn quân nhân và dân thường ở đó.
+Dialogue: 0,1:25:24.68,1:25:26.06,Default,,0,0,0,,George và tôi sẽ lo hai con kia.
+Dialogue: 0,1:25:26.23,1:25:27.56,Default,,0,0,0,,- Daivs?\N- Sao?
+Dialogue: 0,1:25:28.18,1:25:30.35,Default,,0,0,0,,Cố đừng để bị giết nhé?
+Dialogue: 0,1:25:31.47,1:25:32.68,Default,,0,0,0,,Nào, tiến hành đi.
+Dialogue: 0,1:25:42.65,1:25:45.28,Default,,0,0,0,,Rồi, George. Phải ngăn chúng\Ntrước khi chúng phá hủy thành phố.
+Dialogue: 0,1:25:47.57,1:25:49.91,Default,,0,0,0,,Đúng thế. Đá đít chúng đi.
+Dialogue: 0,1:26:08.76,1:26:09.93,Default,,0,0,0,,Chết tiệt!
+Dialogue: 0,1:26:32.03,1:26:34.20,Default,,0,0,0,,Rồi, có sói biết bay luôn.
+Dialogue: 0,1:26:52.14,1:26:53.60,Default,,0,0,0,,Này! Đến mà xơi tao,
+Dialogue: 0,1:26:53.72,1:26:55.56,Default,,0,0,0,,thằng khốn xấu trai!
+Dialogue: 0,1:27:03.40,1:27:04.40,Default,,0,0,0,,Đúng rồi!
+Dialogue: 0,1:27:27.13,1:27:28.84,Default,,0,0,0,,Giúp với! Tôi cần một điện thoại vệ tinh!
+Dialogue: 0,1:27:28.96,1:27:30.55,Default,,0,0,0,,Ở đây không an toàn. Ta phải đi ngay.
+Dialogue: 0,1:27:30.63,1:27:31.72,Default,,0,0,0,,Hai cậu, đưa cô ấy lên xe.
+Dialogue: 0,1:27:31.88,1:27:34.47,Default,,0,0,0,,Khoan! Có một cách ngăn chuyện này!
+Dialogue: 0,1:27:34.68,1:27:35.68,Default,,0,0,0,,Này mấy cậu.
+Dialogue: 0,1:27:35.89,1:27:36.89,Default,,0,0,0,,Russell?
+Dialogue: 0,1:27:36.93,1:27:39.39,Default,,0,0,0,,- Tôi sẽ xử lý từ đây.\N- Vâng, sếp.
+Dialogue: 0,1:27:39.60,1:27:41.27,Default,,0,0,0,,Thở đi, Tiến sĩ.
+Dialogue: 0,1:27:41.48,1:27:42.68,Default,,0,0,0,,Cho tôi biết cô làm gì ở đây.
+Dialogue: 0,1:27:42.81,1:27:44.02,Default,,0,0,0,,Thuốc giải đã có tác dụng.
+Dialogue: 0,1:27:44.14,1:27:46.15,Default,,0,0,0,,Davis và George đang cố ngăn hai con kia.
+Dialogue: 0,1:27:46.27,1:27:48.57,Default,,0,0,0,,Nhưng còn dân thường và quân nhân ở đó.
+Dialogue: 0,1:27:48.77,1:27:50.86,Default,,0,0,0,,Ta phải dừng không kích lại.
+Dialogue: 0,1:27:54.61,1:27:57.45,Default,,0,0,0,,Con trai, nói này. Trao đổi nhé.
+Dialogue: 0,1:27:57.70,1:27:59.24,Default,,0,0,0,,Rồi, đi nào. Ra khỏi đây.
+Dialogue: 0,1:28:07.17,1:28:08.67,Default,,0,0,0,,George, đi!
+Dialogue: 0,1:29:25.76,1:29:28.72,Default,,0,0,0,,Đại tá Blake, bạn cũ của ngài,\NĐặc vụ Russell đây.
+Dialogue: 0,1:29:28.72,1:29:30.00,Default,,0,0,0,,Nghe này, về quả bom mẹ của ngài.
+Dialogue: 0,1:29:30.00,1:29:31.83,Default,,0,0,0,,Giúp tôi một việc nhé,
+Dialogue: 0,1:29:31.83,1:29:34.39,Default,,0,0,0,,xem tình hình ở Federal Plaza\Ntrước khi thả bom được chứ?
+Dialogue: 0,1:29:35.46,1:29:37.38,Default,,0,0,0,,Đưa hình ảnh ở Federal Plaza lên.
+Dialogue: 0,1:29:37.55,1:29:38.59,Default,,0,0,0,,Vâng, sếp.
+Dialogue: 0,1:29:42.39,1:29:43.81,Default,,0,0,0,,Chúa ơi.
+Dialogue: 0,1:30:41.61,1:30:42.86,Default,,0,0,0,,Thôi nào.
+Dialogue: 0,1:30:59.84,1:31:01.55,Default,,0,0,0,,George, không!
+Dialogue: 0,1:31:04.59,1:31:06.93,Default,,0,0,0,,Đây là Viper 2-5. Còn hai phút.
+Dialogue: 0,1:31:07.10,1:31:09.56,Default,,0,0,0,,Đã chốt mục tiêu. Bom mẹ đã sẵn sàng.
+Dialogue: 0,1:31:10.31,1:31:11.43,Default,,0,0,0,,Cửa thả bom đang mở.
+Dialogue: 0,1:31:25.41,1:31:26.41,Default,,0,0,0,,Chạy đi!
+Dialogue: 0,1:31:27.03,1:31:28.95,Default,,0,0,0,,Đứng dậy! Mày phải chạy đi!
+Dialogue: 0,1:31:52.89,1:31:54.06,Default,,0,0,0,,NGUỒN ĐIỆN\NPIN PHỤ
+Dialogue: 0,1:31:56.56,1:31:57.86,Default,,0,0,0,,Coi nào, coi nào!
+Dialogue: 0,1:31:58.52,1:31:59.82,Default,,0,0,0,,Lên nào, cố lên!
+Dialogue: 0,1:31:59.94,1:32:00.94,Default,,0,0,0,,SÚNG
+Dialogue: 0,1:32:25.47,1:32:26.47,Default,,0,0,0,,HẾT ĐẠN\NNẠP TÊN LỬA
+Dialogue: 0,1:32:26.72,1:32:28.68,Default,,0,0,0,,Đụng tới bạn tao là đụng tới tao, đồ...
+Dialogue: 0,1:32:43.90,1:32:44.90,Default,,0,0,0,,Má ơi!
+Dialogue: 0,1:34:01.85,1:34:02.85,Default,,0,0,0,,George.
+Dialogue: 0,1:34:08.28,1:34:09.49,Default,,0,0,0,,Quá khó tin.
+Dialogue: 0,1:34:11.49,1:34:12.57,Default,,0,0,0,,Hủy bỏ nhiệm vụ.
+Dialogue: 0,1:34:46.11,1:34:47.28,Default,,0,0,0,,George.
+Dialogue: 0,1:34:48.53,1:34:49.69,Default,,0,0,0,,Này, anh bạn.
+Dialogue: 0,1:34:58.87,1:34:59.95,Default,,0,0,0,,Chúng ta đã thành công.
+Dialogue: 0,1:35:03.08,1:35:04.46,Default,,0,0,0,,Ta đã cứu thành phố.
+Dialogue: 0,1:35:10.63,1:35:11.63,Default,,0,0,0,,Ừ.
+Dialogue: 0,1:35:12.47,1:35:13.97,Default,,0,0,0,,Mày đã cứu tao.
+Dialogue: 0,1:35:15.89,1:35:17.43,Default,,0,0,0,,George đã cứu Davis.
+Dialogue: 0,1:35:51.84,1:35:52.88,Default,,0,0,0,,George.
+Dialogue: 0,1:35:54.93,1:35:55.93,Default,,0,0,0,,George!
+Dialogue: 0,1:36:44.73,1:36:46.23,Default,,0,0,0,,Tôi rất tiếc, Davis.
+Dialogue: 0,1:36:48.94,1:36:50.44,Default,,0,0,0,,Nó đã cứu mạng tôi.
+Dialogue: 0,1:36:51.77,1:36:53.69,Default,,0,0,0,,Nó đã cứu rất nhiều sinh mạng.
+Dialogue: 0,1:37:22.05,1:37:23.05,Default,,0,0,0,,Mẹ ơi!
+Dialogue: 0,1:37:34.94,1:37:36.15,Default,,0,0,0,,Đúng thế.
+Dialogue: 0,1:37:46.50,1:37:47.91,Default,,0,0,0,,Tao vừa thấy mày nhắm mắt à?
+Dialogue: 0,1:37:49.75,1:37:51.46,Default,,0,0,0,,Tao vừa thấy mày mở mắt!
+Dialogue: 0,1:37:57.84,1:37:59.68,Default,,0,0,0,,Đồ khốn này!
+Dialogue: 0,1:37:59.93,1:38:01.34,Default,,0,0,0,,Giả chết à?
+Dialogue: 0,1:38:01.51,1:38:03.72,Default,,0,0,0,,- Vào lúc thế này sao?\N- Chúa ơi!
+Dialogue: 0,1:38:09.64,1:38:10.77,Default,,0,0,0,,Không, không.
+Dialogue: 0,1:38:10.98,1:38:12.86,Default,,0,0,0,,Không, chẳng vui đâu và tao không khóc!
+Dialogue: 0,1:38:12.98,1:38:15.27,Default,,0,0,0,,Tao không khóc, nhé?\NỞ đây nhiều bụi đất quá thôi.
+Dialogue: 0,1:38:15.40,1:38:17.15,Default,,0,0,0,,Khoan, đây là trò giữa hai người à?
+Dialogue: 0,1:38:17.28,1:38:19.36,Default,,0,0,0,,Không phải trò giữa bọn tôi.\NLà trò của nó!
+Dialogue: 0,1:38:19.53,1:38:21.82,Default,,0,0,0,,Vì nó có óc hài hước biến thái lắm!
+Dialogue: 0,1:38:25.91,1:38:29.12,Default,,0,0,0,,Ừ, tao cho là mày có thể nói vậy.
+Dialogue: 0,1:38:29.66,1:38:31.87,Default,,0,0,0,,Cô ấy thuộc bầy của tao.
+Dialogue: 0,1:38:32.38,1:38:34.04,Default,,0,0,0,,Chúng ta là bạn, nhỉ?
+Dialogue: 0,1:38:34.21,1:38:35.21,Default,,0,0,0,,Phải.
+Dialogue: 0,1:38:35.92,1:38:37.59,Default,,0,0,0,,Phải, bọn tao là bạn bè.
+Dialogue: 0,1:38:41.80,1:38:43.26,Default,,0,0,0,,Không! Dẹp đi thằng kia!
+Dialogue: 0,1:38:43.39,1:38:44.76,Default,,0,0,0,,Lịch sự một tí chứ?
+Dialogue: 0,1:38:45.22,1:38:47.52,Default,,0,0,0,,Tôi không biết nó bị gì nữa.\NKate, tôi rất xin lỗi.
+Dialogue: 0,1:38:47.72,1:38:48.93,Default,,0,0,0,,George, dừng lại.
+Dialogue: 0,1:38:49.14,1:38:50.39,Default,,0,0,0,,Được rồi, mọi người.
+Dialogue: 0,1:38:50.60,1:38:52.35,Default,,0,0,0,,Về nhà thôi, được chứ?
+Dialogue: 0,1:38:52.56,1:38:53.81,Default,,0,0,0,,Anh bạn, vui đấy.
+Dialogue: 0,1:38:54.02,1:38:55.06,Default,,0,0,0,,Tôi nghe rồi nhé!
+Dialogue: 0,1:38:55.27,1:38:56.27,Default,,0,0,0,,Chết tiệt.
+Dialogue: 0,1:38:57.15,1:38:59.36,Default,,0,0,0,,Cảm ơn các bạn đã cứu thế giới.
+Dialogue: 0,1:39:00.28,1:39:01.96,Default,,0,0,0,,Vâng, và cảm ơn anh đã báo hủy không kích.
+Dialogue: 0,1:39:02.07,1:39:04.20,Default,,0,0,0,,Như một cao bồi khôn ngoan từng nói,
+Dialogue: 0,1:39:04.37,1:39:06.37,Default,,0,0,0,,lũ khốn chúng ta phải đoàn kết.
+Dialogue: 0,1:39:07.66,1:39:09.50,Default,,0,0,0,,Ta hãy giúp mọi người thoát ra
+Dialogue: 0,1:39:09.66,1:39:11.62,Default,,0,0,0,,rồi tìm cho George một ngôi nhà mới.
+Dialogue: 0,1:39:11.79,1:39:13.37,Default,,0,0,0,,Ta sẽ để nó ở đâu đây?
+Dialogue: 0,1:39:14.33,1:39:16.84,Default,,0,0,0,,Ngay giờ tôi có thể nói là\Nkhông đưa nó lên máy bay.
+Dialogue: 0,1:39:35.86,1:39:39.53,Default,,0,0,0,,SIÊU THÚ CUỒNG NỘ

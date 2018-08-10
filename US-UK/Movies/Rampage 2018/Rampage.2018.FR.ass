@@ -1,0 +1,1206 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,30,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:26.27,0:00:29.23,Default,,0,0,0,,EN 1993, LA DÉCOUVERTE DE CRISPR,\NOUTIL D'ÉDITION GÉNÉTIQUE,
+Dialogue: 0,0:00:29.32,0:00:32.40,Default,,0,0,0,,OUVRE LA VOIE\NAU TRAITEMENT DE MALADIES INCURABLES.
+Dialogue: 0,0:00:32.65,0:00:35.32,Default,,0,0,0,,EN 2016, REDOUTANT DES DÉRIVES ÉTHIQUES\NLIÉES À CETTE TECHNIQUE,
+Dialogue: 0,0:00:35.41,0:00:39.03,Default,,0,0,0,,LES ÉTATS-UNIS L'AJOUTENT À LA LISTE\NDES ARMES DE DESTRUCTION MASSIVE.
+Dialogue: 0,0:01:24.87,0:01:26.58,Default,,0,0,0,,Athena-1, répondez.
+Dialogue: 0,0:01:26.96,0:01:30.88,Default,,0,0,0,,Ici, contrôle, votre dernière\Ntransmission était inaudible.
+Dialogue: 0,0:01:30.96,0:01:34.13,Default,,0,0,0,,Perte de signal au module de commande,\Nvérifiez.
+Dialogue: 0,0:01:34.30,0:01:36.47,Default,,0,0,0,,Contrôle? Ici, Atkins.
+Dialogue: 0,0:01:36.63,0:01:38.39,Default,,0,0,0,,L'essai s'est mal passé.
+Dialogue: 0,0:01:38.76,0:01:40.10,Default,,0,0,0,,L'équipage est mort.
+Dialogue: 0,0:01:40.68,0:01:42.97,Default,,0,0,0,,L'étanchéité de la coque est critique.
+Dialogue: 0,0:01:43.14,0:01:45.02,Default,,0,0,0,,Je vais à la capsule de sauvetage.
+Dialogue: 0,0:01:45.18,0:01:49.27,Default,,0,0,0,,Négatif. Allez d'abord au labo\Net récupérez les tubes.
+Dialogue: 0,0:01:49.44,0:01:51.23,Default,,0,0,0,,Mais le sujet s'est échappé.
+Dialogue: 0,0:01:51.40,0:01:53.53,Default,,0,0,0,,Docteur, le sujet est un rat.
+Dialogue: 0,0:01:53.69,0:01:54.78,Default,,0,0,0,,Plus maintenant.
+Dialogue: 0,0:02:00.49,0:02:02.62,Default,,0,0,0,,- Qu'est-ce qui se passe?\N- Obéissez.
+Dialogue: 0,0:02:02.78,0:02:03.83,Default,,0,0,0,,Ouvrez, putain!
+Dialogue: 0,0:02:03.99,0:02:06.29,Default,,0,0,0,,Dr Atkins, ici Claire Wyden.
+Dialogue: 0,0:02:07.04,0:02:10.42,Default,,0,0,0,,On vous ouvrira\Nsi vous prenez les échantillons.
+Dialogue: 0,0:02:15.63,0:02:16.63,Default,,0,0,0,,Docteur,
+Dialogue: 0,0:02:16.80,0:02:20.51,Default,,0,0,0,,vous revenez avec mes tubes,\Nou vous ne revenez pas.
+Dialogue: 0,0:02:47.83,0:02:49.29,Default,,0,0,0,,J'entre dans le labo.
+Dialogue: 0,0:03:07.68,0:03:09.35,Default,,0,0,0,,Je prends les échantillons.
+Dialogue: 0,0:03:09.93,0:03:10.93,Default,,0,0,0,,Bien reçu.
+Dialogue: 0,0:03:26.70,0:03:28.91,Default,,0,0,0,,Étanchéité critique de la coque.
+Dialogue: 0,0:03:33.92,0:03:34.92,Default,,0,0,0,,Oh, non.
+Dialogue: 0,0:03:46.93,0:03:47.93,Default,,0,0,0,,Ouvrez!
+Dialogue: 0,0:03:48.10,0:03:49.22,Default,,0,0,0,,Capsule déverrouillée.
+Dialogue: 0,0:05:27.36,0:05:28.37,Default,,0,0,0,,J'adore cette odeur.
+Dialogue: 0,0:05:28.74,0:05:30.53,Default,,0,0,0,,Ça me rappelle l'Ouganda.
+Dialogue: 0,0:05:31.03,0:05:32.12,Default,,0,0,0,,T'as été en Ouganda?
+Dialogue: 0,0:05:32.29,0:05:35.75,Default,,0,0,0,,Bien sûr. Si la jungle te tue pas,\Nles braconniers s'en chargent.
+Dialogue: 0,0:05:36.29,0:05:40.04,Default,,0,0,0,,Les flics me cherchent encore.\NOn m'appelait El Diablo.
+Dialogue: 0,0:05:40.21,0:05:42.50,Default,,0,0,0,,Ils parlent pas espagnol\Nmais ils devraient.
+Dialogue: 0,0:05:43.51,0:05:45.05,Default,,0,0,0,,T'as vu Blood Diamond?
+Dialogue: 0,0:05:45.72,0:05:48.05,Default,,0,0,0,,L'atmosphère est vraiment bien rendue.
+Dialogue: 0,0:05:48.51,0:05:50.80,Default,,0,0,0,,J'étais dans un autre coin,\Nmais c'est intense.
+Dialogue: 0,0:05:50.97,0:05:52.31,Default,,0,0,0,,Faut pas emmerder l'Afrique.
+Dialogue: 0,0:05:58.10,0:05:59.35,Default,,0,0,0,,Tout va bien, chef?
+Dialogue: 0,0:06:01.31,0:06:02.32,Default,,0,0,0,,Pas du tout.
+Dialogue: 0,0:06:04.03,0:06:05.03,Default,,0,0,0,,Pas un geste.
+Dialogue: 0,0:06:06.28,0:06:10.53,Default,,0,0,0,,Notre jeune primate\Na souillé le sol avec ses gros bobards.
+Dialogue: 0,0:06:15.00,0:06:16.50,Default,,0,0,0,,Mais c'est très distrayant.
+Dialogue: 0,0:06:19.50,0:06:21.00,Default,,0,0,0,,Je suis allé en Ouganda.
+Dialogue: 0,0:06:21.29,0:06:22.38,Default,,0,0,0,,Et à Poudlard.
+Dialogue: 0,0:06:23.75,0:06:25.80,Default,,0,0,0,,Si tu connaissais le braconnage,
+Dialogue: 0,0:06:25.96,0:06:29.59,Default,,0,0,0,,tu saurais que c'est très grossier\Nd'en parler devant une dame.
+Dialogue: 0,0:06:30.80,0:06:32.39,Default,,0,0,0,,Ça va, je peux gérer.
+Dialogue: 0,0:06:32.55,0:06:33.81,Default,,0,0,0,,Oui, je sais.
+Dialogue: 0,0:06:34.60,0:06:36.31,Default,,0,0,0,,Je parle de ces dames-là.
+Dialogue: 0,0:06:37.93,0:06:40.60,Default,,0,0,0,,SANCTUAIRE DE LA VIE SAUVAGE DE SAN DIEGO
+Dialogue: 0,0:06:57.25,0:07:00.58,Default,,0,0,0,,Ça devrait aller,\Nmais ici, vous n'êtes plus à la fac.
+Dialogue: 0,0:07:00.75,0:07:03.42,Default,,0,0,0,,Les animaux sauvages\Nsont imprévisibles.
+Dialogue: 0,0:07:03.75,0:07:06.92,Default,,0,0,0,,Pensez à ce que vous avez appris\Net faites ce que je dis.
+Dialogue: 0,0:07:08.05,0:07:09.34,Default,,0,0,0,,Vous voyez quoi?
+Dialogue: 0,0:07:14.05,0:07:15.06,Default,,0,0,0,,Le jeune mâle
+Dialogue: 0,0:07:15.56,0:07:17.60,Default,,0,0,0,,essaie d'affirmer
+Dialogue: 0,0:07:17.77,0:07:20.23,Default,,0,0,0,,sa présence auprès des femelles.
+Dialogue: 0,0:07:20.73,0:07:23.15,Default,,0,0,0,,Il gesticule, il est agité.
+Dialogue: 0,0:07:23.73,0:07:25.23,Default,,0,0,0,,Il me rappelle quelqu'un.
+Dialogue: 0,0:07:25.40,0:07:27.98,Default,,0,0,0,,C'est le premier contact de Paavo\Navec le groupe.
+Dialogue: 0,0:07:28.61,0:07:30.03,Default,,0,0,0,,Alors, on y va tranquille
+Dialogue: 0,0:07:30.20,0:07:32.70,Default,,0,0,0,,et on voit\Ncomment il réagit à mes ordres.
+Dialogue: 0,0:07:43.54,0:07:44.54,Default,,0,0,0,,Paavo.
+Dialogue: 0,0:07:45.84,0:07:47.80,Default,,0,0,0,,Paavo, tout va bien.
+Dialogue: 0,0:07:48.00,0:07:49.76,Default,,0,0,0,,Femi et Enu, vous rentrez.
+Dialogue: 0,0:07:52.26,0:07:53.30,Default,,0,0,0,,Bravo, les filles.
+Dialogue: 0,0:07:55.01,0:07:56.10,Default,,0,0,0,,Doucement.
+Dialogue: 0,0:07:57.31,0:07:58.72,Default,,0,0,0,,Pas plus loin.
+Dialogue: 0,0:07:59.27,0:08:00.14,Default,,0,0,0,,Ça va.
+Dialogue: 0,0:08:00.23,0:08:01.27,Default,,0,0,0,,Calme.
+Dialogue: 0,0:08:02.02,0:08:03.06,Default,,0,0,0,,C'est moi.
+Dialogue: 0,0:08:08.48,0:08:09.48,Default,,0,0,0,,Calme.
+Dialogue: 0,0:08:10.94,0:08:11.94,Default,,0,0,0,,Voilà.
+Dialogue: 0,0:08:12.36,0:08:13.36,Default,,0,0,0,,Cool, hein?
+Dialogue: 0,0:08:13.53,0:08:14.53,Default,,0,0,0,,Gentil.
+Dialogue: 0,0:08:18.20,0:08:19.33,Default,,0,0,0,,Gentil.
+Dialogue: 0,0:08:19.66,0:08:20.79,Default,,0,0,0,,Gentil.
+Dialogue: 0,0:08:29.25,0:08:30.25,Default,,0,0,0,,Davis.
+Dialogue: 0,0:08:37.51,0:08:39.31,Default,,0,0,0,,Personne ne bouge.
+Dialogue: 0,0:08:39.72,0:08:40.64,Default,,0,0,0,,Vous êtes fou?
+Dialogue: 0,0:08:40.72,0:08:42.68,Default,,0,0,0,,Si vous bougez, on est mal.\NConnor, bouge pas.
+Dialogue: 0,0:08:42.77,0:08:44.64,Default,,0,0,0,,Connor, fais ce qu'il te dit.
+Dialogue: 0,0:08:47.11,0:08:48.27,Default,,0,0,0,,Bouge pas, Connor.
+Dialogue: 0,0:08:49.69,0:08:50.69,Default,,0,0,0,,Paavo!
+Dialogue: 0,0:08:51.03,0:08:52.49,Default,,0,0,0,,Non, Paavo! Merde!
+Dialogue: 0,0:08:54.20,0:08:55.20,Default,,0,0,0,,Au secours!
+Dialogue: 0,0:09:05.71,0:09:06.71,Default,,0,0,0,,Connor!
+Dialogue: 0,0:09:07.75,0:09:08.75,Default,,0,0,0,,Tout va bien.
+Dialogue: 0,0:09:09.09,0:09:10.09,Default,,0,0,0,,George.
+Dialogue: 0,0:09:13.80,0:09:15.63,Default,,0,0,0,,Doucement.
+Dialogue: 0,0:09:24.02,0:09:25.48,Default,,0,0,0,,Très marrant.
+Dialogue: 0,0:09:26.60,0:09:27.73,Default,,0,0,0,,On est bluffés.
+Dialogue: 0,0:09:28.61,0:09:30.27,Default,,0,0,0,,Toi et moi, on rit de ta blague.
+Dialogue: 0,0:09:31.15,0:09:33.07,Default,,0,0,0,,Le nouveau, pas rire.
+Dialogue: 0,0:09:33.40,0:09:34.40,Default,,0,0,0,,Lui pleurer.
+Dialogue: 0,0:09:36.28,0:09:37.49,Default,,0,0,0,,Le contraire de rire.
+Dialogue: 0,0:09:37.66,0:09:38.78,Default,,0,0,0,,Debout, Connor.
+Dialogue: 0,0:09:38.95,0:09:40.20,Default,,0,0,0,,Vous êtes sûr?
+Dialogue: 0,0:09:40.37,0:09:41.58,Default,,0,0,0,,Oui, certain.
+Dialogue: 0,0:09:41.74,0:09:43.58,Default,,0,0,0,,Et change ta couche.\NAllez, debout.
+Dialogue: 0,0:09:48.71,0:09:49.71,Default,,0,0,0,,Tout va bien.
+Dialogue: 0,0:09:49.75,0:09:50.96,Default,,0,0,0,,Il va pas me tuer?
+Dialogue: 0,0:09:51.13,0:09:54.46,Default,,0,0,0,,Non, il a un sens de l'humour\Ntrès personnel...
+Dialogue: 0,0:09:59.84,0:10:01.43,Default,,0,0,0,,George a pas sauvé Davis.
+Dialogue: 0,0:10:02.76,0:10:05.27,Default,,0,0,0,,J'ai pas besoin d'être sauvé.\NNon, George.
+Dialogue: 0,0:10:05.48,0:10:08.52,Default,,0,0,0,,Tu m'as pas sauvé.\NJe peux me débrouiller tout seul.
+Dialogue: 0,0:10:08.69,0:10:09.52,Default,,0,0,0,,Arrête.
+Dialogue: 0,0:10:09.65,0:10:12.19,Default,,0,0,0,,Il faut que tu sois gentil avec Paavo.
+Dialogue: 0,0:10:13.19,0:10:14.53,Default,,0,0,0,,Il est tout jeune.
+Dialogue: 0,0:10:17.45,0:10:19.91,Default,,0,0,0,,Les braconniers ont tué sa famille.
+Dialogue: 0,0:10:21.70,0:10:23.41,Default,,0,0,0,,Il est dans ton groupe, maintenant.
+Dialogue: 0,0:10:24.45,0:10:26.08,Default,,0,0,0,,Je veux que tu l'acceptes.
+Dialogue: 0,0:10:26.54,0:10:27.83,Default,,0,0,0,,Accepte Paavo.
+Dialogue: 0,0:10:35.30,0:10:36.97,Default,,0,0,0,,George, on est potes?
+Dialogue: 0,0:10:38.13,0:10:39.13,Default,,0,0,0,,Allez.
+Dialogue: 0,0:10:49.77,0:10:51.77,Default,,0,0,0,,J'aurais pas dû te montrer ça.\NArrête.
+Dialogue: 0,0:10:52.52,0:10:53.52,Default,,0,0,0,,Allez...
+Dialogue: 0,0:10:55.36,0:10:56.40,Default,,0,0,0,,Fais pas ça.
+Dialogue: 0,0:10:56.48,0:10:57.53,Default,,0,0,0,,Arrête.
+Dialogue: 0,0:10:59.49,0:11:02.24,Default,,0,0,0,,Je veux que tu protèges Paavo.
+Dialogue: 0,0:11:06.95,0:11:08.08,Default,,0,0,0,,Famille.
+Dialogue: 0,0:11:20.47,0:11:22.34,Default,,0,0,0,,J'utilise un déo vegan.
+Dialogue: 0,0:11:22.51,0:11:24.60,Default,,0,0,0,,- Et?\N- Je sens le guacamole.
+Dialogue: 0,0:11:26.56,0:11:27.43,Default,,0,0,0,,Davis.
+Dialogue: 0,0:11:27.52,0:11:28.89,Default,,0,0,0,,- Salut.\N- Salut.
+Dialogue: 0,0:11:30.10,0:11:33.61,Default,,0,0,0,,Je voulais vous dire\Nque j'ai été très impressionnée.
+Dialogue: 0,0:11:33.81,0:11:34.81,Default,,0,0,0,,Merci.
+Dialogue: 0,0:11:35.19,0:11:38.36,Default,,0,0,0,,J'aimerais apprendre\Nvos techniques de soumission.
+Dialogue: 0,0:11:38.99,0:11:40.82,Default,,0,0,0,,On pourrait boire un verre?
+Dialogue: 0,0:11:44.07,0:11:45.28,Default,,0,0,0,,Tes allergies?
+Dialogue: 0,0:11:45.87,0:11:46.91,Default,,0,0,0,,Aux squames...
+Dialogue: 0,0:11:47.45,0:11:48.45,Default,,0,0,0,,d'animaux.
+Dialogue: 0,0:11:49.70,0:11:52.21,Default,,0,0,0,,Merci, c'est sympa,\Nmais j'ai un dîner.
+Dialogue: 0,0:11:52.83,0:11:55.04,Default,,0,0,0,,- T'as été super.\N- J'ai rien fait.
+Dialogue: 0,0:11:55.21,0:11:58.84,Default,,0,0,0,,Exact. Règle n° 1,\Nface à un animal hostile, on reste calme.
+Dialogue: 0,0:12:00.80,0:12:03.59,Default,,0,0,0,,Je fais du pain au kale, ce soir.\NSi ça te dit.
+Dialogue: 0,0:12:03.68,0:12:06.01,Default,,0,0,0,,Non, t'es intolérante au gluten.\NÀ demain.
+Dialogue: 0,0:12:07.64,0:12:10.02,Default,,0,0,0,,Elle a dit "soumission", c'est clair.
+Dialogue: 0,0:12:10.18,0:12:12.31,Default,,0,0,0,,Je lui dis\Nque tu dînes avec tes chiens?
+Dialogue: 0,0:12:12.48,0:12:15.61,Default,,0,0,0,,Tu me connais, Nelson.\NJ'ai besoin de temps pour moi.
+Dialogue: 0,0:12:15.77,0:12:16.82,Default,,0,0,0,,Du temps pour toi?
+Dialogue: 0,0:12:17.40,0:12:18.40,Default,,0,0,0,,Écoute-moi.
+Dialogue: 0,0:12:18.53,0:12:20.40,Default,,0,0,0,,On te dit rien, alors je me lance.
+Dialogue: 0,0:12:23.95,0:12:25.41,Default,,0,0,0,,Quel est le terme exact?
+Dialogue: 0,0:12:25.57,0:12:28.54,Default,,0,0,0,,C'est bizarre\Nque tu préfères les animaux aux gens.
+Dialogue: 0,0:12:29.49,0:12:30.49,Default,,0,0,0,,Ils me comprennent.
+Dialogue: 0,0:12:30.58,0:12:33.29,Default,,0,0,0,,Un animal t'aime, il te lèche.\NSinon, il te mange.
+Dialogue: 0,0:12:33.46,0:12:34.46,Default,,0,0,0,,C'est facile.
+Dialogue: 0,0:12:34.54,0:12:37.13,Default,,0,0,0,,Ou difficile, s'il décide de te dévorer.
+Dialogue: 0,0:12:37.29,0:12:39.75,Default,,0,0,0,,Je le dis pour nourrir ta réflexion.\NDigère ça.
+Dialogue: 0,0:12:40.17,0:12:41.30,Default,,0,0,0,,Dégage, gros mastard.
+Dialogue: 0,0:12:42.34,0:12:43.38,Default,,0,0,0,,La bise aux chiens.
+Dialogue: 0,0:12:43.55,0:12:44.55,Default,,0,0,0,,D'accord.
+Dialogue: 0,0:12:52.73,0:12:54.19,Default,,0,0,0,,Les filles l'adorent.
+Dialogue: 0,0:12:55.35,0:12:57.02,Default,,0,0,0,,Je devrais me raser le crâne.
+Dialogue: 0,0:14:23.36,0:14:24.94,Default,,0,0,0,,J'ai eu ton message.\NGeorge va bien?
+Dialogue: 0,0:14:25.11,0:14:26.15,Default,,0,0,0,,Je sais pas.
+Dialogue: 0,0:14:26.24,0:14:27.40,Default,,0,0,0,,Comment ça?
+Dialogue: 0,0:14:27.70,0:14:28.70,Default,,0,0,0,,Davis!
+Dialogue: 0,0:14:29.57,0:14:31.66,Default,,0,0,0,,Il est dans l'enclos des grizzlis.
+Dialogue: 0,0:14:33.54,0:14:34.54,Default,,0,0,0,,Quoi?
+Dialogue: 0,0:14:49.68,0:14:50.97,Default,,0,0,0,,C'est pas vrai.
+Dialogue: 0,0:15:03.65,0:15:05.32,Default,,0,0,0,,- Baisse ton arme.\N- Quoi?
+Dialogue: 0,0:15:05.48,0:15:08.03,Default,,0,0,0,,- Il déteste les armes, allez.\N- T'es sûr?
+Dialogue: 0,0:15:08.19,0:15:10.24,Default,,0,0,0,,Oui, je vais lui parler.
+Dialogue: 0,0:15:20.87,0:15:22.04,Default,,0,0,0,,Salut, George.
+Dialogue: 0,0:15:23.79,0:15:24.79,Default,,0,0,0,,Ça va.
+Dialogue: 0,0:15:25.75,0:15:26.76,Default,,0,0,0,,C'est moi.
+Dialogue: 0,0:15:28.88,0:15:29.88,Default,,0,0,0,,C'est moi.
+Dialogue: 0,0:15:36.77,0:15:37.93,Default,,0,0,0,,Qu'est-ce qu'il y a?
+Dialogue: 0,0:15:41.23,0:15:42.23,Default,,0,0,0,,Triste?
+Dialogue: 0,0:15:43.06,0:15:44.27,Default,,0,0,0,,Ça va.
+Dialogue: 0,0:15:45.57,0:15:47.40,Default,,0,0,0,,Tu lui as fait du mal?
+Dialogue: 0,0:15:50.15,0:15:51.53,Default,,0,0,0,,Tu es désolé?
+Dialogue: 0,0:15:52.53,0:15:53.62,Default,,0,0,0,,Ça va.
+Dialogue: 0,0:16:00.29,0:16:01.75,Default,,0,0,0,,Il t'a fait du mal?
+Dialogue: 0,0:16:04.96,0:16:06.21,Default,,0,0,0,,Il t'a fait peur.
+Dialogue: 0,0:16:07.80,0:16:08.80,Default,,0,0,0,,Je comprends.
+Dialogue: 0,0:16:13.68,0:16:14.68,Default,,0,0,0,,George.
+Dialogue: 0,0:16:18.22,0:16:19.39,Default,,0,0,0,,Tu peux avoir peur.
+Dialogue: 0,0:16:19.89,0:16:21.39,Default,,0,0,0,,T'as le droit. Calme.
+Dialogue: 0,0:16:24.77,0:16:25.77,Default,,0,0,0,,Doucement.
+Dialogue: 0,0:16:35.41,0:16:37.78,Default,,0,0,0,,Je rêve, ou il est devenu immense?
+Dialogue: 0,0:16:38.54,0:16:40.04,Default,,0,0,0,,Non, tu rêves pas.
+Dialogue: 0,0:16:40.75,0:16:41.75,Default,,0,0,0,,Ici Connor.
+Dialogue: 0,0:16:41.79,0:16:44.12,Default,,0,0,0,,Venez dans l'enclos des gorilles.
+Dialogue: 0,0:16:57.55,0:16:58.43,Default,,0,0,0,,C'est quoi, ça?
+Dialogue: 0,0:16:58.51,0:17:02.48,Default,,0,0,0,,En passant, on a vu le feuillage calciné,\Net on a trouvé ça.
+Dialogue: 0,0:17:02.64,0:17:03.89,Default,,0,0,0,,Passe le sac.
+Dialogue: 0,0:17:20.54,0:17:21.54,Default,,0,0,0,,C'est quoi?
+Dialogue: 0,0:17:22.41,0:17:23.62,Default,,0,0,0,,Aucune idée.
+Dialogue: 0,0:17:24.16,0:17:25.79,Default,,0,0,0,,Mais il faut qu'on le sache.
+Dialogue: 0,0:17:28.25,0:17:32.26,Default,,0,0,0,,Quelle saloperie,\Ncette mini station spatiale!
+Dialogue: 0,0:17:34.84,0:17:35.93,Default,,0,0,0,,T'as fini?
+Dialogue: 0,0:17:37.43,0:17:40.06,Default,,0,0,0,,On a perdu\Ndes milliards de dollars, Claire.
+Dialogue: 0,0:17:40.22,0:17:41.77,Default,,0,0,0,,Des dizaines de milliards.
+Dialogue: 0,0:17:41.93,0:17:44.52,Default,,0,0,0,,Plus les 20 000 $ de cette maquette.
+Dialogue: 0,0:17:45.02,0:17:46.77,Default,,0,0,0,,Notre action a plongé ce matin.
+Dialogue: 0,0:17:47.69,0:17:48.73,Default,,0,0,0,,De 20 %.
+Dialogue: 0,0:17:49.19,0:17:50.57,Default,,0,0,0,,Tu n'es pas furieuse?
+Dialogue: 0,0:17:50.73,0:17:53.07,Default,,0,0,0,,Non, le projet Rampage marche.
+Dialogue: 0,0:17:53.82,0:17:56.03,Default,,0,0,0,,- Tu sais combien ça vaut?\N- Zéro.
+Dialogue: 0,0:17:56.57,0:17:58.99,Default,,0,0,0,,Tous nos travaux étaient sur la station.
+Dialogue: 0,0:17:59.66,0:18:00.70,Default,,0,0,0,,Pas tout à fait.
+Dialogue: 0,0:18:03.08,0:18:05.25,Default,,0,0,0,,Atkins a embarqué les échantillons.
+Dialogue: 0,0:18:05.58,0:18:07.29,Default,,0,0,0,,La capsule a explosé
+Dialogue: 0,0:18:07.46,0:18:10.88,Default,,0,0,0,,mais les tubes sont censés\Nrésister à l'entrée dans l'atmosphère.
+Dialogue: 0,0:18:11.04,0:18:14.71,Default,,0,0,0,,Une pluie de météores\Na été signalée dans le Wyoming.
+Dialogue: 0,0:18:14.88,0:18:17.88,Default,,0,0,0,,Il nous suffit d'aller récupérer\Nles échantillons.
+Dialogue: 0,0:18:19.05,0:18:20.55,Default,,0,0,0,,Qu'est-ce qu'on attend?
+Dialogue: 0,0:18:21.10,0:18:23.43,Default,,0,0,0,,Si quelqu'un les trouve, on est foutus.
+Dialogue: 0,0:18:23.60,0:18:25.64,Default,,0,0,0,,S'il te plaît, arrête de dramatiser.
+Dialogue: 0,0:18:25.73,0:18:28.90,Default,,0,0,0,,Ce n'est pas un hasard\Nsi on fait ces tests dans l'espace.
+Dialogue: 0,0:18:29.23,0:18:31.11,Default,,0,0,0,,On n'est pas des philanthropes.
+Dialogue: 0,0:18:33.86,0:18:34.86,Default,,0,0,0,,Écoute-moi.
+Dialogue: 0,0:18:35.74,0:18:37.20,Default,,0,0,0,,Occupe-toi de la presse
+Dialogue: 0,0:18:37.36,0:18:39.53,Default,,0,0,0,,et j'envoie Burke récupérer les tubes.
+Dialogue: 0,0:18:39.70,0:18:40.53,Default,,0,0,0,,C'est qui?
+Dialogue: 0,0:18:40.70,0:18:43.37,Default,,0,0,0,,Tu sais, la société militaire privée\Nqu'on a rachetée?
+Dialogue: 0,0:18:43.54,0:18:45.37,Default,,0,0,0,,Tu l'appelais "Les tueurs, c'est nous".
+Dialogue: 0,0:18:45.45,0:18:46.58,Default,,0,0,0,,Oui?
+Dialogue: 0,0:18:47.71,0:18:49.37,Default,,0,0,0,,Eh bien, le tueur, c'est lui.
+Dialogue: 0,0:19:11.94,0:19:12.94,Default,,0,0,0,,Chef.
+Dialogue: 0,0:19:13.48,0:19:14.61,Default,,0,0,0,,On décolle!
+Dialogue: 0,0:19:16.48,0:19:17.48,Default,,0,0,0,,Allez.
+Dialogue: 0,0:19:29.46,0:19:30.46,Default,,0,0,0,,Destination?
+Dialogue: 0,0:19:30.96,0:19:31.96,Default,,0,0,0,,Le Wyoming.
+Dialogue: 0,0:19:32.00,0:19:33.08,Default,,0,0,0,,Je connais pas.
+Dialogue: 0,0:19:33.25,0:19:35.38,Default,,0,0,0,,Plein de montagnes, peu de gens.
+Dialogue: 0,0:19:35.71,0:19:38.05,Default,,0,0,0,,Les animaux adorent.\NTu seras pas perdu.
+Dialogue: 0,0:20:05.03,0:20:06.03,Default,,0,0,0,,Merde!
+Dialogue: 0,0:20:06.99,0:20:07.99,Default,,0,0,0,,Salut, Mark.
+Dialogue: 0,0:20:10.62,0:20:11.62,Default,,0,0,0,,Oui.
+Dialogue: 0,0:20:13.12,0:20:14.12,Default,,0,0,0,,Désolée.
+Dialogue: 0,0:20:14.25,0:20:18.51,Default,,0,0,0,,Je suis sur l'autoroute\Net j'arrive dans cinq minutes.
+Dialogue: 0,0:20:19.38,0:20:22.13,Default,,0,0,0,,Je sais, j'ai été en retard\Ndeux fois cette semaine,
+Dialogue: 0,0:20:22.30,0:20:23.89,Default,,0,0,0,,mais ça n'arrivera plus.
+Dialogue: 0,0:20:27.14,0:20:30.27,Default,,0,0,0,,Tout le monde à Energyne\Nest très éprouvé
+Dialogue: 0,0:20:30.43,0:20:32.31,Default,,0,0,0,,par la mort de l'équipage d'Athena-1.
+Dialogue: 0,0:20:32.48,0:20:36.69,Default,,0,0,0,,Ces esprits courageux et brillants\Nétaient au service de l'humanité.
+Dialogue: 0,0:20:36.86,0:20:38.69,Default,,0,0,0,,Nous poursuivrons leur travail.
+Dialogue: 0,0:20:38.78,0:20:39.82,Default,,0,0,0,,C'est tout, merci.
+Dialogue: 0,0:20:39.90,0:20:41.28,Default,,0,0,0,,Putain, les bobards!
+Dialogue: 0,0:20:43.66,0:20:47.37,Default,,0,0,0,,Wall Street suit de près\Nle cours de l'action Energyne.
+Dialogue: 0,0:20:49.95,0:20:52.79,Default,,0,0,0,,Voici les images\Nd'une boule de feu qui s'est abattue
+Dialogue: 0,0:20:52.96,0:20:55.29,Default,,0,0,0,,près de la réserve naturelle\Nde San Diego.
+Dialogue: 0,0:20:55.46,0:20:58.84,Default,,0,0,0,,Il pourrait s'agir\Ndes débris de la fusée Athena-1.
+Dialogue: 0,0:20:59.00,0:21:04.30,Default,,0,0,0,,On ignore encore si l'incident est lié\Nà l'évasion d'un gorille, ce matin.
+Dialogue: 0,0:21:04.47,0:21:06.30,Default,,0,0,0,,Le gorille s'appelle George...
+Dialogue: 0,0:21:06.59,0:21:07.93,Default,,0,0,0,,Attends, Mark.
+Dialogue: 0,0:21:08.10,0:21:11.56,Default,,0,0,0,,La voiture juste devant moi a explosé.
+Dialogue: 0,0:21:12.02,0:21:14.69,Default,,0,0,0,,Le comportement du primate\Nest inexplicable
+Dialogue: 0,0:21:14.85,0:21:16.98,Default,,0,0,0,,et le zoo n'a pas encore réagi.
+Dialogue: 0,0:21:17.15,0:21:20.32,Default,,0,0,0,,Jason Sloss est sur place.\NVous avez du nouveau?
+Dialogue: 0,0:21:40.42,0:21:42.17,Default,,0,0,0,,C'est là, on se pose.
+Dialogue: 0,0:22:07.03,0:22:10.08,Default,,0,0,0,,On a récupéré le tube\Nmais il est endommagé.
+Dialogue: 0,0:22:10.24,0:22:12.16,Default,,0,0,0,,Son contenu a été détruit.
+Dialogue: 0,0:22:13.04,0:22:14.04,Default,,0,0,0,,C'est pas tout.
+Dialogue: 0,0:22:15.66,0:22:17.37,Default,,0,0,0,,Ces loups ont été massacrés.
+Dialogue: 0,0:22:17.54,0:22:18.67,Default,,0,0,0,,D'après les traces,
+Dialogue: 0,0:22:18.75,0:22:20.79,Default,,0,0,0,,c'est un autre loup qui les a tués.
+Dialogue: 0,0:22:21.46,0:22:23.88,Default,,0,0,0,,Il est infecté par l'agent pathogène.
+Dialogue: 0,0:22:25.26,0:22:27.51,Default,,0,0,0,,Il me faut ce loup mort ou vif.
+Dialogue: 0,0:22:28.34,0:22:29.39,Default,,0,0,0,,Bien reçu.
+Dialogue: 0,0:22:39.48,0:22:41.31,Default,,0,0,0,,Les résultats d'analyses de George.
+Dialogue: 0,0:22:41.56,0:22:42.82,Default,,0,0,0,,Ça va pas te plaire.
+Dialogue: 0,0:22:46.28,0:22:47.45,Default,,0,0,0,,C'est impossible.
+Dialogue: 0,0:22:48.07,0:22:50.20,Default,,0,0,0,,L'activité de ses synapses est au max
+Dialogue: 0,0:22:50.37,0:22:53.41,Default,,0,0,0,,et son taux d'hormone de croissance\Ntrès élevé,
+Dialogue: 0,0:22:54.20,0:22:55.75,Default,,0,0,0,,il devrait être mort.
+Dialogue: 0,0:22:55.91,0:22:57.62,Default,,0,0,0,,- Recommence.\N- C'est déjà fait.
+Dialogue: 0,0:22:58.54,0:23:00.50,Default,,0,0,0,,Trois fois, et c'est de pire en pire.
+Dialogue: 0,0:23:01.25,0:23:04.42,Default,,0,0,0,,Il faut l'annoncer.\NAnimal Response pose des questions.
+Dialogue: 0,0:23:04.80,0:23:07.76,Default,,0,0,0,,Un mec du gouvernement veut me parler,\Nje dis quoi?
+Dialogue: 0,0:23:07.92,0:23:09.13,Default,,0,0,0,,Tu dis rien du tout.
+Dialogue: 0,0:23:09.84,0:23:12.26,Default,,0,0,0,,Il n'y est pour rien.\NOn lui a fait quelque chose.
+Dialogue: 0,0:23:12.35,0:23:13.35,Default,,0,0,0,,Davis.
+Dialogue: 0,0:23:13.56,0:23:15.56,Default,,0,0,0,,Il a tué un grizzli.
+Dialogue: 0,0:23:15.72,0:23:17.31,Default,,0,0,0,,Il lui a brisé le cou.
+Dialogue: 0,0:23:17.48,0:23:21.73,Default,,0,0,0,,En cas d'agressivité, la procédure\Nprévoit l'isolement, c'est ce qu'on fait.
+Dialogue: 0,0:23:22.02,0:23:23.40,Default,,0,0,0,,On n'en est plus là.
+Dialogue: 0,0:23:24.15,0:23:25.15,Default,,0,0,0,,Davis.
+Dialogue: 0,0:23:25.48,0:23:26.48,Default,,0,0,0,,Regarde-le.
+Dialogue: 0,0:23:26.57,0:23:28.45,Default,,0,0,0,,- Je le regarde.\N- Regarde-le vraiment!
+Dialogue: 0,0:23:31.45,0:23:33.74,Default,,0,0,0,,C'est pas le George qu'on connaît.
+Dialogue: 0,0:23:37.70,0:23:39.37,Default,,0,0,0,,Si on le dit, il sera abattu.
+Dialogue: 0,0:23:42.38,0:23:44.00,Default,,0,0,0,,Je peux pas laisser faire ça.
+Dialogue: 0,0:23:50.38,0:23:52.34,Default,,0,0,0,,Je vais essayer de jouer la montre.
+Dialogue: 0,0:23:53.05,0:23:54.05,Default,,0,0,0,,D'accord.
+Dialogue: 0,0:23:55.22,0:23:56.22,Default,,0,0,0,,Merci.
+Dialogue: 0,0:24:15.03,0:24:16.74,Default,,0,0,0,,On saura ce qui s'est passé.
+Dialogue: 0,0:24:20.12,0:24:21.21,Default,,0,0,0,,Je te le promets.
+Dialogue: 0,0:24:26.09,0:24:27.63,Default,,0,0,0,,Écoutez-moi tous.
+Dialogue: 0,0:24:28.09,0:24:31.42,Default,,0,0,0,,Je cherche une personne\Nqui connaisse ce truc.
+Dialogue: 0,0:24:31.59,0:24:32.68,Default,,0,0,0,,Je l'ai trouvée.
+Dialogue: 0,0:24:32.84,0:24:35.05,Default,,0,0,0,,C'est plutôt elle qui nous a trouvés.
+Dialogue: 0,0:24:35.22,0:24:36.97,Default,,0,0,0,,Vous êtes Davis Okoye?
+Dialogue: 0,0:24:37.47,0:24:39.60,Default,,0,0,0,,Merci beaucoup de votre aide.
+Dialogue: 0,0:24:39.77,0:24:40.77,Default,,0,0,0,,Comment ça?
+Dialogue: 0,0:24:40.85,0:24:44.02,Default,,0,0,0,,Je m'appelle Kate Caldwell,\Ngénéticienne à Energyne.
+Dialogue: 0,0:24:45.15,0:24:46.65,Default,,0,0,0,,Vous avez mes échantillons.
+Dialogue: 0,0:24:46.73,0:24:47.73,Default,,0,0,0,,Vous parlez de ça?
+Dialogue: 0,0:24:48.48,0:24:51.78,Default,,0,0,0,,Vous avez vérifié,\Nil n'y a pas de particules résiduelles?
+Dialogue: 0,0:24:52.03,0:24:55.41,Default,,0,0,0,,Oui, c'est toujours\Nla première chose que je fais.
+Dialogue: 0,0:24:55.62,0:24:57.58,Default,,0,0,0,,Amy, fais vérifier ça.
+Dialogue: 0,0:24:57.74,0:24:58.74,Default,,0,0,0,,Je veux le récupérer.
+Dialogue: 0,0:24:58.91,0:25:01.66,Default,,0,0,0,,Moi, je veux des réponses\Nà mes questions.
+Dialogue: 0,0:25:01.83,0:25:04.00,Default,,0,0,0,,Ça fait quoi à mon ami, ce truc?
+Dialogue: 0,0:25:04.58,0:25:08.04,Default,,0,0,0,,Je ne suis pas autorisée\Nà en discuter avec vous.
+Dialogue: 0,0:25:08.63,0:25:09.92,Default,,0,0,0,,Bon, d'accord...
+Dialogue: 0,0:25:10.63,0:25:12.05,Default,,0,0,0,,on s'est tout dit, alors.
+Dialogue: 0,0:25:12.55,0:25:14.59,Default,,0,0,0,,J'ai été ravi.\NNelson, raccompagne-la.
+Dialogue: 0,0:25:15.09,0:25:16.18,Default,,0,0,0,,Il grandit, c'est ça?
+Dialogue: 0,0:25:17.76,0:25:19.06,Default,,0,0,0,,À une allure record?
+Dialogue: 0,0:25:20.18,0:25:21.64,Default,,0,0,0,,Il est plus fort,
+Dialogue: 0,0:25:21.81,0:25:23.81,Default,,0,0,0,,plus rapide, plus agile.
+Dialogue: 0,0:25:24.35,0:25:26.15,Default,,0,0,0,,Il fait preuve d'une agressivité
+Dialogue: 0,0:25:26.31,0:25:27.98,Default,,0,0,0,,inconnue dans son espèce.
+Dialogue: 0,0:25:31.44,0:25:32.61,Default,,0,0,0,,Venez avec moi.
+Dialogue: 0,0:25:39.24,0:25:41.33,Default,,0,0,0,,Hier, il faisait 2 m et 220 kilos.
+Dialogue: 0,0:25:41.41,0:25:44.33,Default,,0,0,0,,Ce matin, il fait 2,75 m\Net presque 450 kilos.
+Dialogue: 0,0:25:46.08,0:25:47.13,Default,,0,0,0,,Son poil?
+Dialogue: 0,0:25:47.58,0:25:48.67,Default,,0,0,0,,C'est un albinos.
+Dialogue: 0,0:25:48.96,0:25:51.59,Default,,0,0,0,,À ma connaissance,\Nc'est le seul de son espèce.
+Dialogue: 0,0:25:55.47,0:25:56.51,Default,,0,0,0,,Il sait signer?
+Dialogue: 0,0:25:56.59,0:25:59.35,Default,,0,0,0,,Oui, et il a faim.\NDonnez-lui à manger.
+Dialogue: 0,0:25:59.68,0:26:01.60,Default,,0,0,0,,T'inquiète.\NTu vas manger.
+Dialogue: 0,0:26:02.97,0:26:04.23,Default,,0,0,0,,C'est logique.
+Dialogue: 0,0:26:04.60,0:26:05.81,Default,,0,0,0,,Il doit être affamé.
+Dialogue: 0,0:26:06.31,0:26:07.81,Default,,0,0,0,,Il grandit tellement vite.
+Dialogue: 0,0:26:07.98,0:26:09.02,Default,,0,0,0,,Logique?
+Dialogue: 0,0:26:09.48,0:26:12.73,Default,,0,0,0,,Hier soir, il a tué un grizzli,\Nle plus grand des prédateurs.
+Dialogue: 0,0:26:12.90,0:26:15.57,Default,,0,0,0,,Dites-moi en quoi c'est logique.
+Dialogue: 0,0:26:15.74,0:26:17.41,Default,,0,0,0,,CRISPR, vous connaissez?
+Dialogue: 0,0:26:17.57,0:26:20.16,Default,,0,0,0,,- Le génie génétique?\N- L'édition génétique.
+Dialogue: 0,0:26:20.78,0:26:23.54,Default,,0,0,0,,Je parle de résultats très concrets.
+Dialogue: 0,0:26:23.70,0:26:24.83,Default,,0,0,0,,Regardez ça.
+Dialogue: 0,0:26:25.71,0:26:28.79,Default,,0,0,0,,Les requins ne finissent jamais\Nleur croissance.
+Dialogue: 0,0:26:28.96,0:26:31.00,Default,,0,0,0,,Combinez ce gène
+Dialogue: 0,0:26:31.17,0:26:33.34,Default,,0,0,0,,à ceux de la croissance\Nde la baleine bleue,
+Dialogue: 0,0:26:33.51,0:26:35.34,Default,,0,0,0,,de la force du scarabée rhinocéros,
+Dialogue: 0,0:26:35.51,0:26:36.68,Default,,0,0,0,,de la vitesse du guépard...
+Dialogue: 0,0:26:36.84,0:26:39.14,Default,,0,0,0,,Et on a un gorille\Nqui peut tuer un grizzli.
+Dialogue: 0,0:26:39.30,0:26:42.64,Default,,0,0,0,,Nous avons essayé\Ndes tas de combinaisons,
+Dialogue: 0,0:26:42.81,0:26:45.48,Default,,0,0,0,,donc les changements\Nsont imprévisibles.
+Dialogue: 0,0:26:45.64,0:26:49.65,Default,,0,0,0,,D'accord, mais ça ne me dit pas\Npourquoi il a doublé de volume.
+Dialogue: 0,0:26:49.81,0:26:51.44,Default,,0,0,0,,Il faut le nourrir tout de suite.
+Dialogue: 0,0:26:51.61,0:26:52.61,Default,,0,0,0,,Avec CRISPR,
+Dialogue: 0,0:26:53.02,0:26:56.11,Default,,0,0,0,,on peut seulement modifier l'ADN\Ncellule par cellule.
+Dialogue: 0,0:26:56.49,0:26:58.20,Default,,0,0,0,,Mais j'ai mis au point un système
+Dialogue: 0,0:26:58.57,0:27:00.41,Default,,0,0,0,,qui transmet rapidement\Nles changements
+Dialogue: 0,0:27:00.57,0:27:03.49,Default,,0,0,0,,à tous les brins d'ADN\Ndans le corps de l'hôte.
+Dialogue: 0,0:27:03.87,0:27:05.83,Default,,0,0,0,,M. Okoye, écoutez-moi.
+Dialogue: 0,0:27:06.00,0:27:08.83,Default,,0,0,0,,Je suis la seule à pouvoir le guérir.
+Dialogue: 0,0:27:11.54,0:27:12.54,Default,,0,0,0,,George!
+Dialogue: 0,0:27:16.72,0:27:17.72,Default,,0,0,0,,George, non!
+Dialogue: 0,0:27:24.76,0:27:25.76,Default,,0,0,0,,Ça va pas tenir.
+Dialogue: 0,0:27:26.60,0:27:27.60,Default,,0,0,0,,Kate!
+Dialogue: 0,0:27:31.98,0:27:33.15,Default,,0,0,0,,Abritez-vous!
+Dialogue: 0,0:27:43.03,0:27:44.45,Default,,0,0,0,,Pas encore!
+Dialogue: 0,0:27:46.75,0:27:47.75,Default,,0,0,0,,George!
+Dialogue: 0,0:27:48.37,0:27:50.46,Default,,0,0,0,,Arrête, George!
+Dialogue: 0,0:27:51.00,0:27:52.00,Default,,0,0,0,,Davis!
+Dialogue: 0,0:27:54.42,0:27:55.46,Default,,0,0,0,,Appelle les secours.
+Dialogue: 0,0:27:55.55,0:27:56.55,Default,,0,0,0,,Allez!
+Dialogue: 0,0:27:58.09,0:27:59.09,Default,,0,0,0,,Attention!
+Dialogue: 0,0:28:18.49,0:28:19.49,Default,,0,0,0,,George!
+Dialogue: 0,0:28:20.53,0:28:21.78,Default,,0,0,0,,Ça va.
+Dialogue: 0,0:28:23.74,0:28:26.03,Default,,0,0,0,,Je sais que tu as peur.\NJe vais t'aider.
+Dialogue: 0,0:28:33.04,0:28:34.04,Default,,0,0,0,,Tout va bien.
+Dialogue: 0,0:28:34.21,0:28:35.67,Default,,0,0,0,,Éloignez-vous de l'animal.
+Dialogue: 0,0:28:35.84,0:28:36.96,Default,,0,0,0,,Tout va bien.
+Dialogue: 0,0:28:37.42,0:28:39.80,Default,,0,0,0,,Je suis primatologue,\Nje m'occupe de cet animal.
+Dialogue: 0,0:28:39.96,0:28:41.34,Default,,0,0,0,,Je maîtrise la situation.
+Dialogue: 0,0:28:41.51,0:28:43.09,Default,,0,0,0,,Pouvez-vous baisser vos armes?
+Dialogue: 0,0:28:43.43,0:28:44.43,Default,,0,0,0,,S'il vous plaît.
+Dialogue: 0,0:28:46.89,0:28:48.18,Default,,0,0,0,,Ça va. Calme.
+Dialogue: 0,0:28:50.10,0:28:51.10,Default,,0,0,0,,Bien.
+Dialogue: 0,0:28:54.85,0:28:55.85,Default,,0,0,0,,Repos.
+Dialogue: 0,0:28:57.19,0:28:58.27,Default,,0,0,0,,Repos.
+Dialogue: 0,0:28:59.78,0:29:01.78,Default,,0,0,0,,T'inquiète pas, je vais t'aider.
+Dialogue: 0,0:29:05.66,0:29:06.66,Default,,0,0,0,,C'est quoi, ça?
+Dialogue: 0,0:29:09.58,0:29:10.58,Default,,0,0,0,,Non!
+Dialogue: 0,0:29:15.29,0:29:16.29,Default,,0,0,0,,George!
+Dialogue: 0,0:29:42.15,0:29:43.15,Default,,0,0,0,,George.
+Dialogue: 0,0:29:46.61,0:29:47.61,Default,,0,0,0,,George!
+Dialogue: 0,0:29:58.84,0:30:00.67,Default,,0,0,0,,J'ai jamais chassé le loup.
+Dialogue: 0,0:30:00.75,0:30:02.51,Default,,0,0,0,,J'aurais dû prendre le calibre 50?
+Dialogue: 0,0:30:05.05,0:30:06.05,Default,,0,0,0,,Je le vois.
+Dialogue: 0,0:30:06.63,0:30:07.93,Default,,0,0,0,,À la limite des arbres.
+Dialogue: 0,0:30:10.56,0:30:11.89,Default,,0,0,0,,C'est un loup, t'es sûr?
+Dialogue: 0,0:30:12.22,0:30:13.52,Default,,0,0,0,,Il cavale.
+Dialogue: 0,0:30:13.60,0:30:14.85,Default,,0,0,0,,Pas pour longtemps.
+Dialogue: 0,0:30:33.41,0:30:34.50,Default,,0,0,0,,Burke à la base.
+Dialogue: 0,0:30:34.95,0:30:36.50,Default,,0,0,0,,Rampage-1 a été abattu.
+Dialogue: 0,0:31:13.91,0:31:15.00,Default,,0,0,0,,Vous trouvez quoi?
+Dialogue: 0,0:31:15.62,0:31:16.79,Default,,0,0,0,,Rien, pour l'instant.
+Dialogue: 0,0:31:20.00,0:31:21.08,Default,,0,0,0,,Attends.
+Dialogue: 0,0:31:24.55,0:31:25.63,Default,,0,0,0,,Il y a des traces.
+Dialogue: 0,0:31:26.09,0:31:27.13,Default,,0,0,0,,T'as vu ça?
+Dialogue: 0,0:31:33.39,0:31:34.68,Default,,0,0,0,,C'est dingue.
+Dialogue: 0,0:31:35.97,0:31:37.10,Default,,0,0,0,,Un loup a fait ça?
+Dialogue: 0,0:31:39.77,0:31:41.81,Default,,0,0,0,,J'aurais dû prendre le calibre 50.
+Dialogue: 0,0:31:57.62,0:31:58.62,Default,,0,0,0,,Chef?
+Dialogue: 0,0:32:02.92,0:32:04.00,Default,,0,0,0,,On la joue comment?
+Dialogue: 0,0:32:04.92,0:32:05.92,Default,,0,0,0,,En douceur.
+Dialogue: 0,0:32:15.51,0:32:16.51,Default,,0,0,0,,Ils sont pressés.
+Dialogue: 0,0:32:17.60,0:32:18.60,Default,,0,0,0,,Vous croyez...
+Dialogue: 0,0:32:21.06,0:32:23.40,Default,,0,0,0,,Vinny! Garrick!\NPérimètre de sécurité.
+Dialogue: 0,0:32:23.73,0:32:24.56,Default,,0,0,0,,Feu!
+Dialogue: 0,0:32:24.65,0:32:25.65,Default,,0,0,0,,Chopez-le!
+Dialogue: 0,0:32:26.57,0:32:27.57,Default,,0,0,0,,Flinguez-le!
+Dialogue: 0,0:32:31.91,0:32:33.03,Default,,0,0,0,,C'est quoi, ce bordel?
+Dialogue: 0,0:32:36.37,0:32:37.37,Default,,0,0,0,,Garrick, t'es où?
+Dialogue: 0,0:32:37.99,0:32:39.00,Default,,0,0,0,,Il fonce sur moi!
+Dialogue: 0,0:32:41.21,0:32:42.25,Default,,0,0,0,,Attrapez-le!
+Dialogue: 0,0:32:44.33,0:32:45.33,Default,,0,0,0,,Impossible.
+Dialogue: 0,0:32:46.88,0:32:49.13,Default,,0,0,0,,Notre agent pathogène fonctionne.
+Dialogue: 0,0:32:56.81,0:32:57.97,Default,,0,0,0,,Wilson, réponds.
+Dialogue: 0,0:32:59.39,0:33:00.56,Default,,0,0,0,,Zammit, réponds.
+Dialogue: 0,0:33:02.48,0:33:03.48,Default,,0,0,0,,Taylor.
+Dialogue: 0,0:33:32.34,0:33:33.47,Default,,0,0,0,,Garcia, sors-moi d'ici.
+Dialogue: 0,0:33:33.63,0:33:34.80,Default,,0,0,0,,Bien reçu, je suis à 10 km.
+Dialogue: 0,0:33:45.06,0:33:46.35,Default,,0,0,0,,Putain, je le vois!
+Dialogue: 0,0:33:47.27,0:33:48.27,Default,,0,0,0,,Allume-le!
+Dialogue: 0,0:33:54.32,0:33:55.53,Default,,0,0,0,,Ennemi!
+Dialogue: 0,0:33:58.62,0:33:59.62,Default,,0,0,0,,Remonte!
+Dialogue: 0,0:34:02.20,0:34:04.29,Default,,0,0,0,,Je perds le contrôle!
+Dialogue: 0,0:35:01.10,0:35:02.35,Default,,0,0,0,,Allez, monsieur.
+Dialogue: 0,0:35:05.14,0:35:06.52,Default,,0,0,0,,Descendez.
+Dialogue: 0,0:35:21.87,0:35:23.12,Default,,0,0,0,,C'est qui, celui-là?
+Dialogue: 0,0:35:32.67,0:35:35.63,Default,,0,0,0,,M. Okoye et Dr Caldwell.
+Dialogue: 0,0:35:37.26,0:35:39.13,Default,,0,0,0,,Je suis l'agent Harvey Russell.
+Dialogue: 0,0:35:39.97,0:35:41.47,Default,,0,0,0,,Sacrée journée!
+Dialogue: 0,0:35:41.80,0:35:44.39,Default,,0,0,0,,Des expériences scientifiques\Nqui tombent du ciel.
+Dialogue: 0,0:35:44.56,0:35:45.77,Default,,0,0,0,,Un gorille dans la nature.
+Dialogue: 0,0:35:45.93,0:35:49.73,Default,,0,0,0,,Le genre de trucs palpitants\Nqui attire l'attention du gouvernement.
+Dialogue: 0,0:35:49.89,0:35:51.10,Default,,0,0,0,,Il faut que je voie George.
+Dialogue: 0,0:35:51.40,0:35:54.23,Default,,0,0,0,,Si vous comptez le mettre dans cet avion,\Nvous avez tort.
+Dialogue: 0,0:35:55.40,0:35:56.78,Default,,0,0,0,,Ça va bien se passer.
+Dialogue: 0,0:36:00.03,0:36:01.95,Default,,0,0,0,,On inspire à fond...
+Dialogue: 0,0:36:02.12,0:36:03.70,Default,,0,0,0,,J'ai dit que je voulais le voir.
+Dialogue: 0,0:36:03.87,0:36:06.66,Default,,0,0,0,,Ou on se gueule dessus\Npour voir qui est le plus fort.
+Dialogue: 0,0:36:07.45,0:36:09.96,Default,,0,0,0,,Mon frère, quelque chose me dit
+Dialogue: 0,0:36:10.12,0:36:13.29,Default,,0,0,0,,qu'on ne vous a jamais accusé\Nd'aimer les gens.
+Dialogue: 0,0:36:14.25,0:36:17.88,Default,,0,0,0,,Enlevez-moi les menottes\Net vous aurez la réponse,
+Dialogue: 0,0:36:18.38,0:36:19.38,Default,,0,0,0,,mon frère.
+Dialogue: 0,0:36:23.85,0:36:25.22,Default,,0,0,0,,On se retrouve à bord.
+Dialogue: 0,0:36:25.39,0:36:26.85,Default,,0,0,0,,Embarquez-les avec le singe.
+Dialogue: 0,0:36:29.06,0:36:31.35,Default,,0,0,0,,Bizarre,\Nil n'a pas enlevé vos menottes.
+Dialogue: 0,0:36:51.46,0:36:52.46,Default,,0,0,0,,Vous avez vu?
+Dialogue: 0,0:36:53.50,0:36:55.63,Default,,0,0,0,,La coupure qu'il s'est faite ce matin.
+Dialogue: 0,0:36:56.54,0:36:57.92,Default,,0,0,0,,C'est déjà cicatrisé.
+Dialogue: 0,0:36:58.34,0:36:59.96,Default,,0,0,0,,La souris épineuse.
+Dialogue: 0,0:37:01.76,0:37:04.80,Default,,0,0,0,,Son ADN lui permet\Nune régénération hors norme.
+Dialogue: 0,0:37:06.68,0:37:07.76,Default,,0,0,0,,Davis Okoye.
+Dialogue: 0,0:37:08.97,0:37:10.10,Default,,0,0,0,,Primatologue.
+Dialogue: 0,0:37:14.77,0:37:16.19,Default,,0,0,0,,Forces Spéciales.
+Dialogue: 0,0:37:16.90,0:37:19.40,Default,,0,0,0,,Vous êtes le mystère incarné, ou quoi?
+Dialogue: 0,0:37:19.57,0:37:21.86,Default,,0,0,0,,Il y a des mentions "censuré" partout.
+Dialogue: 0,0:37:22.03,0:37:23.49,Default,,0,0,0,,Censuré, censuré.
+Dialogue: 0,0:37:24.11,0:37:25.45,Default,,0,0,0,,Voilà.
+Dialogue: 0,0:37:25.74,0:37:29.37,Default,,0,0,0,,Transféré à la Force opérationnelle\Nanti-braconnage de l'ONU.
+Dialogue: 0,0:37:30.29,0:37:32.71,Default,,0,0,0,,Il se trouve que j'adore les animaux.
+Dialogue: 0,0:37:32.87,0:37:36.21,Default,,0,0,0,,Arrêtez vos conneries.\NAmener George ici, c'est un suicide.
+Dialogue: 0,0:37:36.38,0:37:38.09,Default,,0,0,0,,On lui a donné un puissant sédatif.
+Dialogue: 0,0:37:38.25,0:37:41.13,Default,,0,0,0,,Il se réveillera quand on le décidera.
+Dialogue: 0,0:37:41.30,0:37:44.05,Default,,0,0,0,,Pardon,\Nmais au rythme où il se développe,
+Dialogue: 0,0:37:44.22,0:37:46.30,Default,,0,0,0,,le sédatif cessera de faire effet
+Dialogue: 0,0:37:46.47,0:37:47.60,Default,,0,0,0,,avant l'atterrissage.
+Dialogue: 0,0:37:47.76,0:37:50.60,Default,,0,0,0,,On a calculé son taux de croissance,\Nson métabolisme
+Dialogue: 0,0:37:51.56,0:37:53.52,Default,,0,0,0,,et l'augmentation du volume sanguin.
+Dialogue: 0,0:37:53.69,0:37:57.56,Default,,0,0,0,,On n'est pas des lumières,\Nmais on s'en sort pas mal.
+Dialogue: 0,0:37:58.11,0:37:59.32,Default,,0,0,0,,Sans compter
+Dialogue: 0,0:37:59.48,0:38:02.86,Default,,0,0,0,,qu'un autre de vos spécimens\Nest dans la nature.
+Dialogue: 0,0:38:03.45,0:38:04.49,Default,,0,0,0,,Comment ça?
+Dialogue: 0,0:38:04.82,0:38:06.82,Default,,0,0,0,,Vous ignorez\Nqu'on a un loup de 10 mètres?
+Dialogue: 0,0:38:07.12,0:38:08.53,Default,,0,0,0,,Monsieur,
+Dialogue: 0,0:38:08.87,0:38:12.20,Default,,0,0,0,,votre singe XXL\Nest carrément ringard.
+Dialogue: 0,0:38:14.00,0:38:15.00,Default,,0,0,0,,C'est pas vrai...
+Dialogue: 0,0:38:15.04,0:38:18.50,Default,,0,0,0,,Des cinglés sur le Net l'appellent Ralph.
+Dialogue: 0,0:38:18.67,0:38:19.71,Default,,0,0,0,,Vous travaillez pour qui?
+Dialogue: 0,0:38:20.05,0:38:21.92,Default,,0,0,0,,Pour le peuple américain.
+Dialogue: 0,0:38:22.09,0:38:23.55,Default,,0,0,0,,Sécurité Nationale, CIA?
+Dialogue: 0,0:38:25.34,0:38:26.76,Default,,0,0,0,,La Justice League?
+Dialogue: 0,0:38:27.34,0:38:28.93,Default,,0,0,0,,Je suis agent de l'A.A.G.
+Dialogue: 0,0:38:29.26,0:38:31.85,Default,,0,0,0,,Je vois le genre.\NAutre Agence Gouvernementale?
+Dialogue: 0,0:38:32.35,0:38:33.43,Default,,0,0,0,,C'est malin.
+Dialogue: 0,0:38:33.77,0:38:34.98,Default,,0,0,0,,Très malin.
+Dialogue: 0,0:38:35.69,0:38:38.44,Default,,0,0,0,,Quand la science chie au lit,
+Dialogue: 0,0:38:38.61,0:38:40.73,Default,,0,0,0,,on m'appelle pour changer les draps.
+Dialogue: 0,0:38:40.90,0:38:42.36,Default,,0,0,0,,Que va devenir George?
+Dialogue: 0,0:38:42.73,0:38:45.15,Default,,0,0,0,,Il a rien demandé, il mérite pas ça.
+Dialogue: 0,0:38:45.32,0:38:49.12,Default,,0,0,0,,Même si ce n'est pas de sa faute,\Nil est dangereux.
+Dialogue: 0,0:38:49.28,0:38:50.83,Default,,0,0,0,,Mais il existe un remède.
+Dialogue: 0,0:38:51.74,0:38:54.08,Default,,0,0,0,,Elle a conçu l'agent\Nqui a infecté George.
+Dialogue: 0,0:38:54.25,0:38:55.79,Default,,0,0,0,,Elle travaille pour Energyne.
+Dialogue: 0,0:38:56.87,0:38:58.54,Default,,0,0,0,,Ou plutôt "elle travaillait".
+Dialogue: 0,0:39:04.63,0:39:06.55,Default,,0,0,0,,Dr Kate Caldwell.
+Dialogue: 0,0:39:07.38,0:39:09.09,Default,,0,0,0,,Doctorat en biochimie à Stanford,
+Dialogue: 0,0:39:09.26,0:39:11.97,Default,,0,0,0,,spécialisée\Nen génétique de la conservation.
+Dialogue: 0,0:39:12.14,0:39:14.02,Default,,0,0,0,,Recrutée par Energyne
+Dialogue: 0,0:39:14.18,0:39:15.68,Default,,0,0,0,,en 2010,
+Dialogue: 0,0:39:17.89,0:39:18.94,Default,,0,0,0,,virée par Energyne
+Dialogue: 0,0:39:20.06,0:39:21.98,Default,,0,0,0,,il y a moins de 2 ans.
+Dialogue: 0,0:39:22.77,0:39:23.77,Default,,0,0,0,,J'ai mieux.
+Dialogue: 0,0:39:24.36,0:39:27.15,Default,,0,0,0,,Prise en train de voler\Ndes disques durs à la société,
+Dialogue: 0,0:39:27.32,0:39:29.32,Default,,0,0,0,,elle passe 13 mois magiques
+Dialogue: 0,0:39:29.95,0:39:33.41,Default,,0,0,0,,dans notre belle prison fédérale\Nde Greenville.
+Dialogue: 0,0:39:37.75,0:39:40.92,Default,,0,0,0,,Je crois lire sur le visage du costaud
+Dialogue: 0,0:39:41.63,0:39:42.96,Default,,0,0,0,,qu'il l'ignorait.
+Dialogue: 0,0:39:45.21,0:39:46.84,Default,,0,0,0,,Bon vol.
+Dialogue: 0,0:39:49.38,0:39:51.51,Default,,0,0,0,,M. Okoye, au sujet de votre ami,
+Dialogue: 0,0:39:53.18,0:39:54.64,Default,,0,0,0,,ça vaut ce que ça vaut,
+Dialogue: 0,0:39:56.35,0:39:58.18,Default,,0,0,0,,mais je suis vraiment navré.
+Dialogue: 0,0:40:08.61,0:40:10.61,Default,,0,0,0,,Pardon de vous avoir menti.
+Dialogue: 0,0:40:13.58,0:40:15.58,Default,,0,0,0,,Vous pouvez guérir George?
+Dialogue: 0,0:40:16.08,0:40:18.29,Default,,0,0,0,,Energyne étudiait une contre-mesure...
+Dialogue: 0,0:40:18.46,0:40:19.83,Default,,0,0,0,,Oui ou non?
+Dialogue: 0,0:40:23.54,0:40:24.59,Default,,0,0,0,,Non.
+Dialogue: 0,0:40:35.18,0:40:36.97,Default,,0,0,0,,Claire, je les ai trouvés.
+Dialogue: 0,0:40:37.14,0:40:40.94,Default,,0,0,0,,Des mecs des Forces Spéciales\Nont mis le gorille dans un avion.
+Dialogue: 0,0:40:41.85,0:40:42.98,Default,,0,0,0,,Tu sais qui était là?
+Dialogue: 0,0:40:43.15,0:40:45.48,Default,,0,0,0,,Non, mais il aime la fonte.
+Dialogue: 0,0:40:46.36,0:40:47.40,Default,,0,0,0,,La femme.
+Dialogue: 0,0:40:48.53,0:40:50.24,Default,,0,0,0,,Kate Caldwell.
+Dialogue: 0,0:40:51.32,0:40:52.91,Default,,0,0,0,,Le Dr Caldwell.
+Dialogue: 0,0:40:54.07,0:40:55.66,Default,,0,0,0,,Qu'est-ce qu'elle fait avec eux?
+Dialogue: 0,0:40:57.33,0:40:58.91,Default,,0,0,0,,On a un passif avec elle,
+Dialogue: 0,0:40:59.33,0:41:03.08,Default,,0,0,0,,elle nous a reproché sa condamnation\Net la mort de son frère.
+Dialogue: 0,0:41:03.25,0:41:06.34,Default,,0,0,0,,À mon avis, elle va tout faire\Npour nous baiser.
+Dialogue: 0,0:41:07.46,0:41:09.88,Default,,0,0,0,,Je voulais la liquider, il y a deux ans.
+Dialogue: 0,0:41:10.05,0:41:12.22,Default,,0,0,0,,On peut pas liquider\Ntous nos problèmes.
+Dialogue: 0,0:41:12.38,0:41:13.47,Default,,0,0,0,,Nos avis divergent.
+Dialogue: 0,0:41:13.64,0:41:14.97,Default,,0,0,0,,Je plaisante pas.
+Dialogue: 0,0:41:15.76,0:41:18.43,Default,,0,0,0,,J'en reviens pas de dire ça\Nmais je me fous du fric.
+Dialogue: 0,0:41:19.56,0:41:20.93,Default,,0,0,0,,J'ai peur d'aller en prison.
+Dialogue: 0,0:41:21.10,0:41:23.48,Default,,0,0,0,,Alors, si tu as une solution,\Nje suis preneur.
+Dialogue: 0,0:41:24.52,0:41:26.11,Default,,0,0,0,,J'ai toujours une solution.
+Dialogue: 0,0:41:30.94,0:41:34.28,Default,,0,0,0,,Si tu donnes à un sujet\Ndes capacités génétiques inouïes,
+Dialogue: 0,0:41:34.45,0:41:36.03,Default,,0,0,0,,une force illimitée,
+Dialogue: 0,0:41:36.20,0:41:38.66,Default,,0,0,0,,une violence\Net une agressivité inédites,
+Dialogue: 0,0:41:38.83,0:41:39.95,Default,,0,0,0,,comment tu le contrôles?
+Dialogue: 0,0:41:40.04,0:41:42.46,Default,,0,0,0,,- Je sais pas, tu lui donnes un calmant.\N- Oui.
+Dialogue: 0,0:41:43.00,0:41:45.33,Default,,0,0,0,,Tu vois, c'est pas si dur.
+Dialogue: 0,0:41:45.50,0:41:47.29,Default,,0,0,0,,R-19, le calmant.
+Dialogue: 0,0:41:47.46,0:41:50.76,Default,,0,0,0,,Une faible dose\Nsuffit à calmer un animal infecté.
+Dialogue: 0,0:41:50.92,0:41:51.92,Default,,0,0,0,,Pour l'attirer ici,
+Dialogue: 0,0:41:52.05,0:41:54.84,Default,,0,0,0,,l'agent pathogène\Na reprogrammé le sujet,
+Dialogue: 0,0:41:55.01,0:41:57.76,Default,,0,0,0,,qui réagira\Nà une onde radio basse fréquence.
+Dialogue: 0,0:41:57.93,0:42:02.14,Default,,0,0,0,,Par chance, ce bâtiment\Na des antennes ultra-puissantes.
+Dialogue: 0,0:42:02.85,0:42:05.85,Default,,0,0,0,,Notre équipe a modifié celle-ci, hier.
+Dialogue: 0,0:42:16.70,0:42:18.87,Default,,0,0,0,,Il suffit de déclencher le signal.
+Dialogue: 0,0:42:19.03,0:42:20.99,Default,,0,0,0,,Et nos créatures feront tout
+Dialogue: 0,0:42:21.16,0:42:22.75,Default,,0,0,0,,pour venir l'arrêter.
+Dialogue: 0,0:42:22.91,0:42:25.21,Default,,0,0,0,,Ça va donner quoi,\Nà 10 000 m d'altitude?
+Dialogue: 0,0:42:25.37,0:42:27.17,Default,,0,0,0,,Le singe va détruire l'avion.
+Dialogue: 0,0:42:27.33,0:42:28.42,Default,,0,0,0,,Quand le loup arrive,
+Dialogue: 0,0:42:28.59,0:42:29.71,Default,,0,0,0,,l'armée le tue
+Dialogue: 0,0:42:29.88,0:42:32.26,Default,,0,0,0,,et nous, on collecte\Nnotre ADN malveillant.
+Dialogue: 0,0:42:32.42,0:42:34.38,Default,,0,0,0,,Et on vend cette merde une fortune!
+Dialogue: 0,0:42:48.90,0:42:51.86,Default,,0,0,0,,BLACK HILLS, DAKOTA DU SUD
+Dialogue: 0,0:43:07.04,0:43:10.54,Default,,0,0,0,,GOLFE DU MEXIQUE, CÔTE DE FLORIDE
+Dialogue: 0,0:43:36.15,0:43:37.53,Default,,0,0,0,,Ça va, George?
+Dialogue: 0,0:43:55.80,0:43:57.26,Default,,0,0,0,,Oh, non.
+Dialogue: 0,0:44:03.76,0:44:04.89,Default,,0,0,0,,Debout!
+Dialogue: 0,0:44:10.94,0:44:12.31,Default,,0,0,0,,Danger!
+Dialogue: 0,0:44:20.28,0:44:21.66,Default,,0,0,0,,Visez le torse!
+Dialogue: 0,0:44:41.55,0:44:42.55,Default,,0,0,0,,Allez, vite.
+Dialogue: 0,0:44:42.93,0:44:44.01,Default,,0,0,0,,Attachez-vous.
+Dialogue: 0,0:44:56.23,0:44:57.23,Default,,0,0,0,,Attention!
+Dialogue: 0,0:45:00.57,0:45:02.03,Default,,0,0,0,,6-1-2, mayday, mayday.
+Dialogue: 0,0:45:06.41,0:45:07.49,Default,,0,0,0,,Merde.
+Dialogue: 0,0:45:26.76,0:45:27.76,Default,,0,0,0,,George.
+Dialogue: 0,0:45:52.29,0:45:53.29,Default,,0,0,0,,Merde!
+Dialogue: 0,0:46:22.99,0:46:23.99,Default,,0,0,0,,Tenez bon!
+Dialogue: 0,0:46:30.45,0:46:31.45,Default,,0,0,0,,Davis!
+Dialogue: 0,0:46:31.87,0:46:32.87,Default,,0,0,0,,Vite!
+Dialogue: 0,0:46:45.63,0:46:46.63,Default,,0,0,0,,Davis!
+Dialogue: 0,0:46:47.26,0:46:48.30,Default,,0,0,0,,Balancez-moi!
+Dialogue: 0,0:47:04.15,0:47:05.15,Default,,0,0,0,,Et maintenant?
+Dialogue: 0,0:47:12.58,0:47:14.37,Default,,0,0,0,,On se casse de cet avion.
+Dialogue: 0,0:47:27.01,0:47:28.13,Default,,0,0,0,,Accrochez-vous!
+Dialogue: 0,0:47:42.61,0:47:44.69,Default,,0,0,0,,C'est de la folie, on va mourir!
+Dialogue: 0,0:47:45.24,0:47:46.32,Default,,0,0,0,,Sûrement.
+Dialogue: 0,0:47:46.70,0:47:47.70,Default,,0,0,0,,Lâchez!
+Dialogue: 0,0:48:15.39,0:48:16.39,Default,,0,0,0,,Merde, Russell!
+Dialogue: 0,0:48:34.16,0:48:35.58,Default,,0,0,0,,Putain!
+Dialogue: 0,0:48:36.04,0:48:37.25,Default,,0,0,0,,Y a pas de quoi.
+Dialogue: 0,0:48:59.60,0:49:00.89,Default,,0,0,0,,Pardon, George.
+Dialogue: 0,0:49:30.47,0:49:31.88,Default,,0,0,0,,Où est le corps?
+Dialogue: 0,0:49:39.27,0:49:40.77,Default,,0,0,0,,Il n'est pas mort.
+Dialogue: 0,0:49:42.81,0:49:44.81,Default,,0,0,0,,Il est blessé mais il a survécu.
+Dialogue: 0,0:49:48.19,0:49:50.11,Default,,0,0,0,,Il est parti vers le nord-est.
+Dialogue: 0,0:49:50.86,0:49:53.91,Default,,0,0,0,,J'ai pas de réseau.\NJe vais voir s'il y a une radio
+Dialogue: 0,0:49:53.99,0:49:55.24,Default,,0,0,0,,que je peux bricoler.
+Dialogue: 0,0:49:55.32,0:49:58.66,Default,,0,0,0,,Quand le département de la Défense\Nsaura qu'il a survécu,
+Dialogue: 0,0:49:59.37,0:50:01.20,Default,,0,0,0,,ils vont vous poser des questions.
+Dialogue: 0,0:50:01.37,0:50:02.71,Default,,0,0,0,,Et Energyne?
+Dialogue: 0,0:50:03.16,0:50:05.04,Default,,0,0,0,,Ils en savent plus que nous.
+Dialogue: 0,0:50:05.21,0:50:08.04,Default,,0,0,0,,C'est le FBI qui s'occupe d'Energyne.
+Dialogue: 0,0:50:08.21,0:50:09.67,Default,,0,0,0,,Soyez gentils,
+Dialogue: 0,0:50:10.92,0:50:12.80,Default,,0,0,0,,ne vous éloignez pas trop.
+Dialogue: 0,0:50:14.26,0:50:15.55,Default,,0,0,0,,M. Okoye?
+Dialogue: 0,0:50:16.22,0:50:17.22,Default,,0,0,0,,Oui?
+Dialogue: 0,0:50:18.93,0:50:21.52,Default,,0,0,0,,Merci d'avoir sauvé la peau\Ndu vieux cow-boy.
+Dialogue: 0,0:50:22.06,0:50:24.27,Default,,0,0,0,,Même les gros cons\Nméritent une 2e chance.
+Dialogue: 0,0:50:27.06,0:50:29.32,Default,,0,0,0,,Comme disait mon grand-père:
+Dialogue: 0,0:50:29.86,0:50:32.24,Default,,0,0,0,,"Entre gros cons,\Non se serre les coudes."
+Dialogue: 0,0:50:36.16,0:50:39.37,Default,,0,0,0,,T'as vu les images satellite?\NLe gorille a survécu.
+Dialogue: 0,0:50:40.24,0:50:41.24,Default,,0,0,0,,Oui.
+Dialogue: 0,0:50:42.58,0:50:44.96,Default,,0,0,0,,Le Dr Caldwell aussi, hélas.
+Dialogue: 0,0:50:45.54,0:50:46.54,Default,,0,0,0,,On fait quoi?
+Dialogue: 0,0:50:49.17,0:50:50.84,Default,,0,0,0,,Le gorille, je m'en fous.
+Dialogue: 0,0:50:50.92,0:50:53.51,Default,,0,0,0,,Il réagira à la fréquence radio\Net viendra ici.
+Dialogue: 0,0:50:53.88,0:50:56.30,Default,,0,0,0,,Le Dr Caldwell m'inquiète plus.
+Dialogue: 0,0:50:56.47,0:50:58.30,Default,,0,0,0,,Tu crois qu'elle a parlé?
+Dialogue: 0,0:51:02.10,0:51:05.56,Default,,0,0,0,,Puisque le FBI arrive,\Nje pense qu'elle leur a tout dit.
+Dialogue: 0,0:51:06.98,0:51:08.06,Default,,0,0,0,,Quoi?
+Dialogue: 0,0:51:17.03,0:51:18.82,Default,,0,0,0,,Claire Wyden.\NPuis-je vous aider?
+Dialogue: 0,0:51:19.24,0:51:20.70,Default,,0,0,0,,Agent Park, FBI.
+Dialogue: 0,0:51:20.87,0:51:23.54,Default,,0,0,0,,J'ai un mandat pour fouiller vos archives
+Dialogue: 0,0:51:23.70,0:51:25.08,Default,,0,0,0,,et votre labo.
+Dialogue: 0,0:51:25.25,0:51:26.08,Default,,0,0,0,,Bien sûr.
+Dialogue: 0,0:51:26.25,0:51:27.42,Default,,0,0,0,,Suivez-moi.
+Dialogue: 0,0:51:31.67,0:51:34.80,Default,,0,0,0,,Nous sommes horrifiés\Nque tout soit parti de ce labo
+Dialogue: 0,0:51:34.96,0:51:37.30,Default,,0,0,0,,et nous ferons tout pour vous aider.
+Dialogue: 0,0:51:37.47,0:51:39.39,Default,,0,0,0,,Bien, on doit avoir accès à tout.
+Dialogue: 0,0:51:39.55,0:51:41.47,Default,,0,0,0,,Comptez sur notre entière coopération.
+Dialogue: 0,0:51:42.35,0:51:44.35,Default,,0,0,0,,Tous les fichiers,\Ndisques durs et serveurs.
+Dialogue: 0,0:51:44.52,0:51:45.52,Default,,0,0,0,,C'est parti.
+Dialogue: 0,0:51:46.94,0:51:48.52,Default,,0,0,0,,Éloignez-vous de votre poste.
+Dialogue: 0,0:51:48.81,0:51:50.02,Default,,0,0,0,,Ouvrez ça.
+Dialogue: 0,0:51:52.19,0:51:53.02,Default,,0,0,0,,Justement,
+Dialogue: 0,0:51:53.11,0:51:54.65,Default,,0,0,0,,nous examinons les fichiers
+Dialogue: 0,0:51:54.82,0:51:58.20,Default,,0,0,0,,de celle qui a conçu ces créatures,\Nle Dr Caldwell.
+Dialogue: 0,0:51:58.49,0:52:00.87,Default,,0,0,0,,Elle a déjà eu affaire à la justice.
+Dialogue: 0,0:52:01.24,0:52:03.08,Default,,0,0,0,,Hélas, nous découvrons maintenant
+Dialogue: 0,0:52:03.24,0:52:06.00,Default,,0,0,0,,les horreurs qu'elle a commises\Nquand elle travaillait ici.
+Dialogue: 0,0:52:06.16,0:52:08.33,Default,,0,0,0,,Je veux ces fichiers tout de suite.
+Dialogue: 0,0:52:08.42,0:52:09.50,Default,,0,0,0,,Bien sûr, monsieur.
+Dialogue: 0,0:52:16.88,0:52:17.88,Default,,0,0,0,,Ça va?
+Dialogue: 0,0:52:19.34,0:52:21.51,Default,,0,0,0,,Parce que tu transpires.\NBeaucoup.
+Dialogue: 0,0:52:21.93,0:52:22.93,Default,,0,0,0,,Oui, ça va.
+Dialogue: 0,0:52:23.05,0:52:24.43,Default,,0,0,0,,Tout va bien.
+Dialogue: 0,0:52:27.14,0:52:29.56,Default,,0,0,0,,Whisky-2-Tango,
+Dialogue: 0,0:52:29.73,0:52:31.90,Default,,0,0,0,,ici Echo-4-Romeo,
+Dialogue: 0,0:52:32.06,0:52:33.15,Default,,0,0,0,,à vous.
+Dialogue: 0,0:52:38.95,0:52:39.95,Default,,0,0,0,,Alors?
+Dialogue: 0,0:52:40.32,0:52:41.74,Default,,0,0,0,,On fait quoi, maintenant?
+Dialogue: 0,0:52:43.95,0:52:45.20,Default,,0,0,0,,Désolé, docteur,
+Dialogue: 0,0:52:45.74,0:52:47.25,Default,,0,0,0,,on n'a plus rien à se dire.
+Dialogue: 0,0:52:48.25,0:52:49.29,Default,,0,0,0,,Attendez.
+Dialogue: 0,0:52:49.83,0:52:51.29,Default,,0,0,0,,Pardon de vous avoir menti.
+Dialogue: 0,0:52:51.46,0:52:52.71,Default,,0,0,0,,Ne vous fatiguez pas.
+Dialogue: 0,0:52:53.46,0:52:56.05,Default,,0,0,0,,Vous avez menti par intérêt,\Ncomme tous les humains.
+Dialogue: 0,0:52:56.21,0:52:58.51,Default,,0,0,0,,Pourquoi vous détestez les gens?
+Dialogue: 0,0:53:03.85,0:53:05.26,Default,,0,0,0,,Je vais vous dire un truc.
+Dialogue: 0,0:53:05.76,0:53:08.18,Default,,0,0,0,,J'ai combattu partout dans le monde.
+Dialogue: 0,0:53:08.60,0:53:11.19,Default,,0,0,0,,J'ai traqué les braconniers\Nen Afrique, en Inde,
+Dialogue: 0,0:53:11.35,0:53:12.81,Default,,0,0,0,,et en Amérique du Sud.
+Dialogue: 0,0:53:12.98,0:53:15.27,Default,,0,0,0,,J'ai vu la vraie nature des gens.
+Dialogue: 0,0:53:16.23,0:53:18.49,Default,,0,0,0,,Ils sont prêts à tout\Npour avoir ce qu'ils veulent.
+Dialogue: 0,0:53:20.57,0:53:22.61,Default,,0,0,0,,Vous pensez qu'on est tous comme ça?
+Dialogue: 0,0:53:24.62,0:53:26.12,Default,,0,0,0,,Vous savez où j'ai trouvé George?
+Dialogue: 0,0:53:28.54,0:53:31.04,Default,,0,0,0,,Il se cachait\Nsous le 4x4 des braconniers.
+Dialogue: 0,0:53:33.38,0:53:36.80,Default,,0,0,0,,Quand mon équipe est arrivée,\Nces salauds massacraient sa mère.
+Dialogue: 0,0:53:39.30,0:53:41.01,Default,,0,0,0,,Ils lui coupaient les mains
+Dialogue: 0,0:53:41.17,0:53:42.88,Default,,0,0,0,,pour les vendre comme cendriers.
+Dialogue: 0,0:53:43.93,0:53:45.97,Default,,0,0,0,,George n'aurait jamais survécu seul.
+Dialogue: 0,0:53:46.14,0:53:49.22,Default,,0,0,0,,Un albinos au marché noir\Nvaut une fortune.
+Dialogue: 0,0:53:50.56,0:53:51.94,Default,,0,0,0,,Alors, je l'ai emmené.
+Dialogue: 0,0:53:55.19,0:53:56.69,Default,,0,0,0,,Et les braconniers?
+Dialogue: 0,0:53:58.57,0:53:59.94,Default,,0,0,0,,Ils nous ont tiré dessus
+Dialogue: 0,0:54:00.11,0:54:01.49,Default,,0,0,0,,et nous ont ratés.
+Dialogue: 0,0:54:02.53,0:54:03.95,Default,,0,0,0,,J'ai riposté
+Dialogue: 0,0:54:04.82,0:54:06.41,Default,,0,0,0,,et je les ai pas ratés.
+Dialogue: 0,0:54:33.23,0:54:36.98,Default,,0,0,0,,Heureusement que George\Nn'est pas comme vous.
+Dialogue: 0,0:54:39.15,0:54:40.48,Default,,0,0,0,,Ça veut dire quoi?
+Dialogue: 0,0:54:41.15,0:54:43.07,Default,,0,0,0,,Après ce qui est arrivé à sa famille,
+Dialogue: 0,0:54:43.24,0:54:46.70,Default,,0,0,0,,il pourrait très bien\Nne pas faire confiance aux humains.
+Dialogue: 0,0:54:47.95,0:54:49.87,Default,,0,0,0,,Mais il a confiance en vous.
+Dialogue: 0,0:54:51.20,0:54:52.20,Default,,0,0,0,,Non?
+Dialogue: 0,0:54:53.16,0:54:55.08,Default,,0,0,0,,Vous êtes généticienne, pas psy.
+Dialogue: 0,0:54:55.71,0:54:59.59,Default,,0,0,0,,Ma 2e thèse s'intitulait\N"Je te mets le nez dans ta merde."
+Dialogue: 0,0:54:59.92,0:55:01.96,Default,,0,0,0,,Là, c'est plus raccord.
+Dialogue: 0,0:55:03.88,0:55:06.26,Default,,0,0,0,,Après la fac, j'utilisais CRISPR
+Dialogue: 0,0:55:06.43,0:55:09.22,Default,,0,0,0,,pour sauver les espèces menacées\Nde l'Arctique.
+Dialogue: 0,0:55:10.06,0:55:11.35,Default,,0,0,0,,Mon frère est tombé malade.
+Dialogue: 0,0:55:13.14,0:55:15.94,Default,,0,0,0,,Les médecins\Nlui laissaient peu d'espoir.
+Dialogue: 0,0:55:16.10,0:55:18.65,Default,,0,0,0,,Moi, je savais\Nque CRISPR pouvait le sauver.
+Dialogue: 0,0:55:19.48,0:55:21.52,Default,,0,0,0,,Et puis, Claire Wyden est arrivée.
+Dialogue: 0,0:55:22.19,0:55:24.99,Default,,0,0,0,,Elle m'a nommée\Nchef du département Génétique.
+Dialogue: 0,0:55:25.61,0:55:27.49,Default,,0,0,0,,- Energyne vous a recrutée?\N- Oui.
+Dialogue: 0,0:55:28.07,0:55:31.99,Default,,0,0,0,,Mais j'ignorais que chaque avancée\Nqui pouvait aider mon frère
+Dialogue: 0,0:55:32.37,0:55:34.70,Default,,0,0,0,,était détournée\Npour créer un ADN malveillant.
+Dialogue: 0,0:55:37.75,0:55:39.63,Default,,0,0,0,,J'ai essayé de le détruire.
+Dialogue: 0,0:55:41.09,0:55:44.26,Default,,0,0,0,,La sécurité m'a arrêtée\Navant que j'aie fini.
+Dialogue: 0,0:55:46.76,0:55:47.80,Default,,0,0,0,,Bref,
+Dialogue: 0,0:55:49.55,0:55:52.26,Default,,0,0,0,,j'étais en prison depuis un mois\Nquand mon frère est mort.
+Dialogue: 0,0:55:56.98,0:55:59.23,Default,,0,0,0,,Je ne lui ai même pas dit adieu.
+Dialogue: 0,0:56:02.82,0:56:04.07,Default,,0,0,0,,Je suis désolé.
+Dialogue: 0,0:56:05.49,0:56:10.57,Default,,0,0,0,,Je veux m'assurer que les Wyden\Nne feront plus jamais de mal à personne.
+Dialogue: 0,0:56:13.08,0:56:14.66,Default,,0,0,0,,C'est pas un beau projet?
+Dialogue: 0,0:56:17.08,0:56:18.46,Default,,0,0,0,,C'est un beau projet.
+Dialogue: 0,0:56:25.13,0:56:26.88,Default,,0,0,0,,Notre carrosse est avancé.
+Dialogue: 0,0:56:29.30,0:56:33.05,Default,,0,0,0,,BASE AÉRIENNE SCOTT\NBELLEVILLE, ILLINOIS
+Dialogue: 0,0:56:38.18,0:56:39.94,Default,,0,0,0,,Kaplan, passe-moi le capitaine Evans.
+Dialogue: 0,0:56:44.65,0:56:46.15,Default,,0,0,0,,Bien reçu.\NÉtablissez un périmètre.
+Dialogue: 0,0:56:51.20,0:56:52.12,Default,,0,0,0,,Colonel Blake.
+Dialogue: 0,0:56:52.20,0:56:55.54,Default,,0,0,0,,Black dog Leader,\Ncibles Alpha et Bravo repérées.
+Dialogue: 0,0:56:55.70,0:56:56.79,Default,,0,0,0,,Bien reçu.
+Dialogue: 0,0:56:57.16,0:56:58.58,Default,,0,0,0,,En position pour les piéger.
+Dialogue: 0,0:56:58.66,0:57:01.96,Default,,0,0,0,,Bien reçu.\NCibles à 8 km, très rapides.
+Dialogue: 0,0:57:02.13,0:57:03.59,Default,,0,0,0,,George est avec le loup?
+Dialogue: 0,0:57:05.46,0:57:06.76,Default,,0,0,0,,Vous combattez le gorille?
+Dialogue: 0,0:57:06.92,0:57:07.92,Default,,0,0,0,,Et le loup.
+Dialogue: 0,0:57:08.09,0:57:11.18,Default,,0,0,0,,On les a encerclés dans une carrière\Nà 50 km de Chicago.
+Dialogue: 0,0:57:11.34,0:57:14.35,Default,,0,0,0,,Ils allaient droit sur le centre-ville.
+Dialogue: 0,0:57:14.80,0:57:18.60,Default,,0,0,0,,Deux espèces ne parcourent jamais\Nun long trajet ensemble.
+Dialogue: 0,0:57:18.77,0:57:19.77,Default,,0,0,0,,Qui c'est, lui?
+Dialogue: 0,0:57:19.98,0:57:21.56,Default,,0,0,0,,C'est Davis Okoye.
+Dialogue: 0,0:57:21.73,0:57:22.98,Default,,0,0,0,,Il est primatologue,
+Dialogue: 0,0:57:23.15,0:57:24.69,Default,,0,0,0,,il a élevé le gorille.
+Dialogue: 0,0:57:24.86,0:57:26.57,Default,,0,0,0,,Le Dr Caldwell a travaillé à Energyne,
+Dialogue: 0,0:57:27.23,0:57:29.28,Default,,0,0,0,,elle a concocté ces jolies peluches.
+Dialogue: 0,0:57:29.44,0:57:31.53,Default,,0,0,0,,Ceci est une opération militaire.
+Dialogue: 0,0:57:31.61,0:57:33.20,Default,,0,0,0,,Je le sais bien, colonel.
+Dialogue: 0,0:57:33.66,0:57:34.87,Default,,0,0,0,,Mais pour l'instant,
+Dialogue: 0,0:57:35.03,0:57:38.08,Default,,0,0,0,,ils en savent plus\Nsur ces créatures que n'importe qui.
+Dialogue: 0,0:57:38.24,0:57:40.37,Default,,0,0,0,,Vous devriez les écouter.
+Dialogue: 0,0:57:41.12,0:57:45.29,Default,,0,0,0,,Colonel, on n'a plus affaire\Nà un loup et un gorille.
+Dialogue: 0,0:57:46.04,0:57:47.34,Default,,0,0,0,,Ils se battraient,
+Dialogue: 0,0:57:47.88,0:57:51.09,Default,,0,0,0,,ils ne fonceraient pas\Nvers la même destination.
+Dialogue: 0,0:57:51.26,0:57:53.05,Default,,0,0,0,,Pourquoi vont-ils à Chicago?
+Dialogue: 0,0:57:53.22,0:57:54.84,Default,,0,0,0,,Parce qu'on les appelle.
+Dialogue: 0,0:57:55.39,0:57:57.89,Default,,0,0,0,,Energyne a travaillé\Nsur l'ADN de chauve-souris.
+Dialogue: 0,0:57:58.26,0:58:01.27,Default,,0,0,0,,Les Wyden voulaient\Ndévelopper l'écholocalisation.
+Dialogue: 0,0:58:01.89,0:58:04.10,Default,,0,0,0,,On dirait qu'ils ont réussi.
+Dialogue: 0,0:58:04.23,0:58:07.07,Default,,0,0,0,,Energyne émet sûrement un signal\Npour les attirer.
+Dialogue: 0,0:58:07.77,0:58:10.15,Default,,0,0,0,,Ces animaux feront tout
+Dialogue: 0,0:58:10.24,0:58:13.03,Default,,0,0,0,,pour arriver jusqu'au signal\Net pour l'arrêter.
+Dialogue: 0,0:58:13.78,0:58:15.82,Default,,0,0,0,,Colonel, faites évacuer Chicago.
+Dialogue: 0,0:58:15.99,0:58:19.58,Default,,0,0,0,,Ils sont conçus pour se régénérer,\Nvos tanks ne les arrêteront pas.
+Dialogue: 0,0:58:19.74,0:58:22.33,Default,,0,0,0,,Nous avons déjà un plan d'urgence.
+Dialogue: 0,0:58:23.33,0:58:24.33,Default,,0,0,0,,Colonel.
+Dialogue: 0,0:58:28.38,0:58:31.21,Default,,0,0,0,,Pour le moment,\Nle FBI vous prie de rester ici.
+Dialogue: 0,0:58:32.09,0:58:33.93,Default,,0,0,0,,Ils ont des questions à vous poser.
+Dialogue: 0,0:58:34.38,0:58:35.68,Default,,0,0,0,,Suivez ces messieurs.
+Dialogue: 0,0:58:38.43,0:58:39.76,Default,,0,0,0,,Vous avez tort, colonel.
+Dialogue: 0,0:58:39.93,0:58:41.02,Default,,0,0,0,,Monsieur, on y va.
+Dialogue: 0,0:58:43.27,0:58:44.89,Default,,0,0,0,,Cibles en zone de destruction.
+Dialogue: 0,0:58:45.31,0:58:46.90,Default,,0,0,0,,Attendez le signal de la récré.
+Dialogue: 0,0:58:47.06,0:58:49.27,Default,,0,0,0,,Black dog Leader, cibles encerclées.
+Dialogue: 0,0:58:49.44,0:58:52.11,Default,,0,0,0,,Piège tendu. On attend le signal.
+Dialogue: 0,0:58:52.69,0:58:53.99,Default,,0,0,0,,Préparez-vous au combat.
+Dialogue: 0,0:58:58.95,0:59:02.29,Default,,0,0,0,,Ça va être un fiasco.\NIl faut qu'on aille à Chicago.
+Dialogue: 0,0:59:04.62,0:59:05.79,Default,,0,0,0,,J'ai ma petite idée.
+Dialogue: 0,0:59:07.04,0:59:09.09,Default,,0,0,0,,Montez dans le camion de gauche.
+Dialogue: 0,0:59:09.25,0:59:10.34,Default,,0,0,0,,Venez, Kate.
+Dialogue: 0,0:59:12.71,0:59:13.72,Default,,0,0,0,,J'ai dit, à gauche.
+Dialogue: 0,0:59:13.88,0:59:15.05,Default,,0,0,0,,Attendez, les gars.
+Dialogue: 0,0:59:15.22,0:59:17.39,Default,,0,0,0,,Vous m'avez l'air intelligents.
+Dialogue: 0,0:59:17.55,0:59:21.31,Default,,0,0,0,,La situation est très grave,\Net franchement,
+Dialogue: 0,0:59:21.47,0:59:24.23,Default,,0,0,0,,notre petit jeu, là,\Nça m'amuse pas.
+Dialogue: 0,0:59:24.39,0:59:25.48,Default,,0,0,0,,Ça suffit, bouge.
+Dialogue: 0,0:59:26.19,0:59:28.73,Default,,0,0,0,,Écoutez,\Nj'ai été dans les Forces Spéciales.
+Dialogue: 0,0:59:28.90,0:59:30.86,Default,,0,0,0,,Toi, je te déconseille de me menacer,
+Dialogue: 0,0:59:31.02,0:59:33.11,Default,,0,0,0,,parce que je devrai te frapper.
+Dialogue: 0,0:59:33.28,0:59:34.32,Default,,0,0,0,,Et toi, regarde-moi.
+Dialogue: 0,0:59:34.94,0:59:37.45,Default,,0,0,0,,Je vais t'étrangler\Net tu vas te pisser dessus.
+Dialogue: 0,0:59:37.61,0:59:39.28,Default,,0,0,0,,Devant une dame.\NÇa la fout mal.
+Dialogue: 0,0:59:39.45,0:59:40.70,Default,,0,0,0,,T'as pas le choix.
+Dialogue: 0,0:59:40.87,0:59:41.87,Default,,0,0,0,,On y va.
+Dialogue: 0,0:59:48.42,0:59:50.67,Default,,0,0,0,,C'est ce que je voulais éviter.
+Dialogue: 0,0:59:51.17,0:59:52.17,Default,,0,0,0,,C'est un gros bras.
+Dialogue: 0,0:59:52.50,0:59:53.55,Default,,0,0,0,,Ne résiste pas.
+Dialogue: 0,0:59:55.30,0:59:56.30,Default,,0,0,0,,Voilà.
+Dialogue: 0,0:59:56.38,0:59:57.80,Default,,0,0,0,,Fais dodo.
+Dialogue: 0,1:00:02.35,1:00:03.85,Default,,0,0,0,,C'était ça, votre idée?
+Dialogue: 0,1:00:04.02,1:00:05.98,Default,,0,0,0,,Au moins, je les ai pas tués.
+Dialogue: 0,1:00:11.73,1:00:12.82,Default,,0,0,0,,On cherche quoi?
+Dialogue: 0,1:00:12.98,1:00:16.95,Default,,0,0,0,,On cherche un hélicoptère\Nqui ne soit pas gardé par des soldats.
+Dialogue: 0,1:00:17.11,1:00:19.70,Default,,0,0,0,,Il doit y avoir\Nun hélico médical, à l'hôpital.
+Dialogue: 0,1:00:23.87,1:00:25.54,Default,,0,0,0,,Vive les médecins.
+Dialogue: 0,1:00:51.35,1:00:52.73,Default,,0,0,0,,Bien vu, docteur.
+Dialogue: 0,1:00:58.32,1:01:00.78,Default,,0,0,0,,Mais qui je vois là?
+Dialogue: 0,1:01:01.32,1:01:04.78,Default,,0,0,0,,Vous volez l'hélico de l'hôpital,\Nça m'en bouche un coin.
+Dialogue: 0,1:01:04.95,1:01:06.12,Default,,0,0,0,,Ça,
+Dialogue: 0,1:01:06.29,1:01:07.41,Default,,0,0,0,,c'est créatif.
+Dialogue: 0,1:01:07.50,1:01:11.08,Default,,0,0,0,,Personne ne voit\Nque ces animaux sont dangereux.
+Dialogue: 0,1:01:12.08,1:01:13.84,Default,,0,0,0,,Mais vous avez la solution miracle.
+Dialogue: 0,1:01:13.92,1:01:15.25,Default,,0,0,0,,On croit savoir où la trouver.
+Dialogue: 0,1:01:15.34,1:01:19.59,Default,,0,0,0,,Écoutez, Claire Wyden est trop maligne\Npour créer une arme incontrôlable.
+Dialogue: 0,1:01:19.67,1:01:22.39,Default,,0,0,0,,Elle doit avoir un antidote\Nqui bloque les mutations.
+Dialogue: 0,1:01:23.09,1:01:24.10,Default,,0,0,0,,Si on le récupère,
+Dialogue: 0,1:01:24.26,1:01:27.60,Default,,0,0,0,,on a une chance d'empêcher\NGeorge et le loup de détruire Chicago.
+Dialogue: 0,1:01:32.81,1:01:34.86,Default,,0,0,0,,On est pas sur une aire d'autoroute.
+Dialogue: 0,1:01:35.44,1:01:36.44,Default,,0,0,0,,Ils laissent pas les clés
+Dialogue: 0,1:01:36.57,1:01:38.03,Default,,0,0,0,,dans le pare-soleil.
+Dialogue: 0,1:01:39.78,1:01:41.11,Default,,0,0,0,,Vous nous aidez?
+Dialogue: 0,1:01:41.28,1:01:44.20,Default,,0,0,0,,Vous m'avez sauvé la vie.\NC'est le moins que je puisse faire.
+Dialogue: 0,1:01:45.03,1:01:46.83,Default,,0,0,0,,Et on est d'accord sur les Wyden,
+Dialogue: 0,1:01:47.24,1:01:49.16,Default,,0,0,0,,ils se croient au-dessus des lois.
+Dialogue: 0,1:01:50.12,1:01:51.67,Default,,0,0,0,,Je veux les rappeler à l'ordre.
+Dialogue: 0,1:01:52.21,1:01:53.29,Default,,0,0,0,,Alors, oui,
+Dialogue: 0,1:01:53.46,1:01:55.04,Default,,0,0,0,,on s'entraide.
+Dialogue: 0,1:01:55.88,1:01:56.96,Default,,0,0,0,,Au boulot.
+Dialogue: 0,1:01:58.42,1:01:59.88,Default,,0,0,0,,On reste en contact.
+Dialogue: 0,1:02:02.18,1:02:03.76,Default,,0,0,0,,Ça s'est plutôt bien passé.
+Dialogue: 0,1:02:03.93,1:02:06.47,Default,,0,0,0,,Oui, même si j'aurais aimé le frapper.
+Dialogue: 0,1:02:06.64,1:02:08.77,Default,,0,0,0,,Vous savez,\Non peut communiquer autrement.
+Dialogue: 0,1:02:08.93,1:02:10.89,Default,,0,0,0,,Je sais mais ça m'amuse pas.
+Dialogue: 0,1:02:13.65,1:02:15.02,Default,,0,0,0,,Vous savez piloter?
+Dialogue: 0,1:02:17.90,1:02:18.90,Default,,0,0,0,,Absolument.
+Dialogue: 0,1:02:25.16,1:02:27.83,Default,,0,0,0,,Ça revient.\NJe sens que ça revient.
+Dialogue: 0,1:02:28.08,1:02:29.08,Default,,0,0,0,,On y va.
+Dialogue: 0,1:02:32.25,1:02:33.37,Default,,0,0,0,,Ça revient.
+Dialogue: 0,1:02:34.00,1:02:35.00,Default,,0,0,0,,Ça revient.
+Dialogue: 0,1:02:37.46,1:02:41.09,Default,,0,0,0,,Lever du jour dans 15 min.\NAutorisation de tir à suivre.
+Dialogue: 0,1:02:41.26,1:02:43.59,Default,,0,0,0,,Cibles en vue.\NPrêts pour la récré.
+Dialogue: 0,1:02:46.14,1:02:47.97,Default,,0,0,0,,Imagerie infrarouge à l'écran.
+Dialogue: 0,1:02:51.56,1:02:52.56,Default,,0,0,0,,Tir autorisé.
+Dialogue: 0,1:03:00.23,1:03:02.28,Default,,0,0,0,,Bravo. Évaluation des dommages.
+Dialogue: 0,1:03:02.78,1:03:03.95,Default,,0,0,0,,Confirmez résultat.
+Dialogue: 0,1:03:04.11,1:03:06.74,Default,,0,0,0,,6-Alpha-Lobo X-Ray,\Nconfirmez résultat.
+Dialogue: 0,1:03:06.91,1:03:08.32,Default,,0,0,0,,Bien reçu. Attendez.
+Dialogue: 0,1:03:08.78,1:03:10.41,Default,,0,0,0,,2-6, restez en observation.
+Dialogue: 0,1:03:11.83,1:03:14.21,Default,,0,0,0,,On avance vers la ligne de regroupement.
+Dialogue: 0,1:03:17.67,1:03:18.79,Default,,0,0,0,,Allez!
+Dialogue: 0,1:03:20.42,1:03:22.63,Default,,0,0,0,,6-Alpha-Lobo X-ray, au rapport.
+Dialogue: 0,1:03:23.01,1:03:24.30,Default,,0,0,0,,Résultat négatif.
+Dialogue: 0,1:03:24.47,1:03:26.01,Default,,0,0,0,,Ils ont dû bouger.
+Dialogue: 0,1:03:26.09,1:03:27.39,Default,,0,0,0,,Je répète, on n'a pas...
+Dialogue: 0,1:03:38.56,1:03:39.56,Default,,0,0,0,,Ça marche pas!
+Dialogue: 0,1:03:42.65,1:03:44.94,Default,,0,0,0,,Bushmaster, je veux un rapport.
+Dialogue: 0,1:03:46.91,1:03:47.91,Default,,0,0,0,,Capitaine Evans?
+Dialogue: 0,1:03:54.12,1:03:57.79,Default,,0,0,0,,Informez la Garde Nationale\Nqu'on poursuit le plan d'urgence.
+Dialogue: 0,1:03:57.87,1:04:00.96,Default,,0,0,0,,Je veux l'artillerie terrestre\Ndans le centre de Chicago.
+Dialogue: 0,1:04:02.00,1:04:05.80,Default,,0,0,0,,On leur balance tout ce qu'on a\Net on évacue la population.
+Dialogue: 0,1:04:06.34,1:04:09.01,Default,,0,0,0,,Je veux un barrage tous les 500 m,\Nau sud du Loop.
+Dialogue: 0,1:04:09.18,1:04:10.97,Default,,0,0,0,,On évacue les civils au nord.
+Dialogue: 0,1:04:11.14,1:04:12.22,Default,,0,0,0,,C'est moi.
+Dialogue: 0,1:04:12.39,1:04:14.43,Default,,0,0,0,,Ils évacuent Chicago.
+Dialogue: 0,1:04:14.60,1:04:16.89,Default,,0,0,0,,George et le loup ont forcé le passage.
+Dialogue: 0,1:04:17.06,1:04:19.27,Default,,0,0,0,,Ils sont droit devant vous.
+Dialogue: 0,1:04:19.98,1:04:20.98,Default,,0,0,0,,Bien reçu.
+Dialogue: 0,1:04:25.44,1:04:26.44,Default,,0,0,0,,Qu'y a-t-il?
+Dialogue: 0,1:04:27.40,1:04:29.32,Default,,0,0,0,,Ils auront pas le temps d'évacuer.
+Dialogue: 0,1:05:01.19,1:05:02.19,Default,,0,0,0,,Davis!
+Dialogue: 0,1:05:21.50,1:05:22.79,Default,,0,0,0,,2-3, cibles à découvert.
+Dialogue: 0,1:05:22.96,1:05:24.50,Default,,0,0,0,,Bien reçu. Autorisé à tirer.
+Dialogue: 0,1:05:24.67,1:05:26.80,Default,,0,0,0,,Bien reçu. J'engage le combat.
+Dialogue: 0,1:05:28.92,1:05:30.55,Default,,0,0,0,,- Je suis touché!\N- Hélico au tapis.
+Dialogue: 0,1:05:30.72,1:05:32.68,Default,,0,0,0,,Ça suffit, je vais les défoncer.
+Dialogue: 0,1:05:33.64,1:05:34.93,Default,,0,0,0,,Je perds le contrôle.
+Dialogue: 0,1:05:43.86,1:05:45.94,Default,,0,0,0,,2-9, cible touchée. Je l'allume.
+Dialogue: 0,1:05:52.03,1:05:54.03,Default,,0,0,0,,Il m'a jeté un truc. Direction touchée.
+Dialogue: 0,1:05:54.12,1:05:55.99,Default,,0,0,0,,Mayday. Je tombe!
+Dialogue: 0,1:06:02.96,1:06:04.75,Default,,0,0,0,,Compte-rendu. Où est Warthog-1?
+Dialogue: 0,1:06:05.17,1:06:06.17,Default,,0,0,0,,En approche.
+Dialogue: 0,1:06:06.29,1:06:08.51,Default,,0,0,0,,- Warthog-1, tir autorisé.\N- Bien reçu.
+Dialogue: 0,1:06:16.93,1:06:18.56,Default,,0,0,0,,Cibles ratées.
+Dialogue: 0,1:06:21.18,1:06:23.94,Default,,0,0,0,,Je demande feu vert pour nouvel essai.
+Dialogue: 0,1:06:24.10,1:06:27.11,Default,,0,0,0,,Warthog-1, ici Black dog Leader,\Nfrappez à nouveau.
+Dialogue: 0,1:06:27.27,1:06:28.11,Default,,0,0,0,,Bien reçu.
+Dialogue: 0,1:06:28.27,1:06:29.61,Default,,0,0,0,,Où en est l'évacuation?
+Dialogue: 0,1:06:30.15,1:06:31.53,Default,,0,0,0,,50 % dans le centre.
+Dialogue: 0,1:06:32.78,1:06:35.16,Default,,0,0,0,,Un ennemi va vers le nord,\Ndans la rivière, à 800 m.
+Dialogue: 0,1:06:35.70,1:06:37.66,Default,,0,0,0,,C'est quoi, cette histoire?
+Dialogue: 0,1:06:44.46,1:06:45.46,Default,,0,0,0,,C'est un bateau?
+Dialogue: 0,1:06:45.67,1:06:46.84,Default,,0,0,0,,Il est sous l'eau.
+Dialogue: 0,1:06:47.21,1:06:49.21,Default,,0,0,0,,On n'a pas de sous-marin dans la zone.
+Dialogue: 0,1:07:07.52,1:07:09.44,Default,,0,0,0,,Il y a un truc énorme dans la rivière.
+Dialogue: 0,1:07:39.22,1:07:41.06,Default,,0,0,0,,Ça, ça craint.
+Dialogue: 0,1:07:42.35,1:07:44.93,Default,,0,0,0,,Ici 3-2, contact ennemi dans le fleuve!
+Dialogue: 0,1:07:45.10,1:07:46.10,Default,,0,0,0,,Répétez.
+Dialogue: 0,1:07:46.39,1:07:48.52,Default,,0,0,0,,Contact ennemi. La cible va vers l'est.
+Dialogue: 0,1:07:48.69,1:07:50.52,Default,,0,0,0,,Bien reçu.\NAutorisation de tir à suivre.
+Dialogue: 0,1:07:50.69,1:07:52.07,Default,,0,0,0,,Négatif! Il est trop près.
+Dialogue: 0,1:07:52.23,1:07:53.23,Default,,0,0,0,,Bien reçu.
+Dialogue: 0,1:07:53.36,1:07:55.95,Default,,0,0,0,,Envoyez toutes nos forces\Nsur ce machin!
+Dialogue: 0,1:07:57.95,1:08:00.49,Default,,0,0,0,,Contact ennemi!\NÀ 3 h, engagez le combat.
+Dialogue: 0,1:08:00.66,1:08:02.29,Default,,0,0,0,,Par le flanc!
+Dialogue: 0,1:08:02.45,1:08:03.58,Default,,0,0,0,,Balancez tout!
+Dialogue: 0,1:08:03.75,1:08:04.75,Default,,0,0,0,,Visez les branchies!
+Dialogue: 0,1:08:05.29,1:08:06.41,Default,,0,0,0,,Feu!
+Dialogue: 0,1:08:31.52,1:08:32.90,Default,,0,0,0,,Feu! Feu!
+Dialogue: 0,1:08:52.21,1:08:53.21,Default,,0,0,0,,Ils les arrêteront pas.
+Dialogue: 0,1:08:53.71,1:08:54.88,Default,,0,0,0,,Il faut trouver l'antidote.
+Dialogue: 0,1:09:11.77,1:09:13.36,Default,,0,0,0,,On peut pas les contenir.
+Dialogue: 0,1:09:13.52,1:09:15.19,Default,,0,0,0,,J'ai trop de pertes, on se replie.
+Dialogue: 0,1:09:15.36,1:09:16.40,Default,,0,0,0,,Le centre est évacué?
+Dialogue: 0,1:09:16.57,1:09:19.24,Default,,0,0,0,,Sur 800 mètres,\Nentre Upper Wacker et Adams.
+Dialogue: 0,1:09:19.61,1:09:20.82,Default,,0,0,0,,Préparez la mégabombe.
+Dialogue: 0,1:09:20.99,1:09:21.99,Default,,0,0,0,,Compris.
+Dialogue: 0,1:09:30.54,1:09:31.96,Default,,0,0,0,,Vous allez larguer
+Dialogue: 0,1:09:32.13,1:09:34.92,Default,,0,0,0,,la bombe non-nucléaire\Nla plus puissante de notre arsenal
+Dialogue: 0,1:09:35.42,1:09:36.76,Default,,0,0,0,,sur le sol américain.
+Dialogue: 0,1:09:37.55,1:09:40.01,Default,,0,0,0,,Pardon, mais on doit pouvoir\Nfaire autrement.
+Dialogue: 0,1:09:40.80,1:09:42.47,Default,,0,0,0,,Si vous larguez cette bombe,
+Dialogue: 0,1:09:42.64,1:09:45.60,Default,,0,0,0,,non seulement,\Nvous éradiquez la moitié de la ville,
+Dialogue: 0,1:09:46.01,1:09:47.85,Default,,0,0,0,,mais vous détruisez les preuves.
+Dialogue: 0,1:09:48.02,1:09:50.85,Default,,0,0,0,,J'ai une équipe qui va récupérer\Nl'antidote chez Energyne.
+Dialogue: 0,1:09:51.02,1:09:55.11,Default,,0,0,0,,Vous pourriez mettre certaines\Nde vos ressources à leur service.
+Dialogue: 0,1:09:55.61,1:09:58.44,Default,,0,0,0,,Vous parlez de l'équipe\Nqui a volé l'hélico médical?
+Dialogue: 0,1:09:58.61,1:10:00.20,Default,,0,0,0,,Davis Okoye et Dr Caldwell...
+Dialogue: 0,1:10:00.36,1:10:01.95,Default,,0,0,0,,Doivent nous foutre la paix.
+Dialogue: 0,1:10:02.57,1:10:04.70,Default,,0,0,0,,Et vous, arrêtez de jouer au cow-boy
+Dialogue: 0,1:10:05.41,1:10:06.83,Default,,0,0,0,,et faites ce qu'on vous dit.
+Dialogue: 0,1:10:10.37,1:10:11.58,Default,,0,0,0,,Colonel,
+Dialogue: 0,1:10:12.17,1:10:13.96,Default,,0,0,0,,nous autres les cow-boys,
+Dialogue: 0,1:10:14.13,1:10:17.55,Default,,0,0,0,,on supporte pas\Nde laisser tomber les amis.
+Dialogue: 0,1:10:18.00,1:10:19.88,Default,,0,0,0,,Foutez-moi le camp d'ici!
+Dialogue: 0,1:10:20.38,1:10:21.55,Default,,0,0,0,,Enfin!
+Dialogue: 0,1:10:22.01,1:10:24.05,Default,,0,0,0,,J'approuve un de vos ordres.
+Dialogue: 0,1:10:30.02,1:10:31.77,Default,,0,0,0,,Images bombardier furtif.
+Dialogue: 0,1:10:34.65,1:10:36.23,Default,,0,0,0,,Images bombardier.
+Dialogue: 0,1:10:37.65,1:10:40.78,Default,,0,0,0,,BASE AÉRIENNE WHITEMAN\NCOMTÉ DE JOHNSON, MISSOURI
+Dialogue: 0,1:10:42.70,1:10:44.24,Default,,0,0,0,,Autorisé à décoller, piste 25.
+Dialogue: 0,1:10:44.32,1:10:45.76,Default,,0,0,0,,Autorisation sur piste 25 confirmée.
+Dialogue: 0,1:10:46.03,1:10:47.49,Default,,0,0,0,,Bien reçu, bonne chance.
+Dialogue: 0,1:10:48.83,1:10:50.70,Default,,0,0,0,,Lobo X-Ray, ici Viper 2-5.
+Dialogue: 0,1:10:51.66,1:10:53.42,Default,,0,0,0,,Le paquet a décollé.
+Dialogue: 0,1:10:53.75,1:10:55.13,Default,,0,0,0,,On est en route.
+Dialogue: 0,1:10:56.58,1:10:57.84,Default,,0,0,0,,Agent Russell.
+Dialogue: 0,1:10:58.00,1:10:59.63,Default,,0,0,0,,Voici ce que vous avez demandé.
+Dialogue: 0,1:10:59.80,1:11:02.38,Default,,0,0,0,,La liste des serveurs d'Energyne\Nétablie par le FBI.
+Dialogue: 0,1:11:02.55,1:11:03.80,Default,,0,0,0,,Vous aviez raison.
+Dialogue: 0,1:11:03.97,1:11:05.76,Default,,0,0,0,,Ils en ont oublié un.
+Dialogue: 0,1:11:05.93,1:11:07.80,Default,,0,0,0,,Deux personnes y ont accès.
+Dialogue: 0,1:11:09.89,1:11:13.27,Default,,0,0,0,,Brett et Claire,\Nces deux petits enfoirés.
+Dialogue: 0,1:11:14.56,1:11:16.35,Default,,0,0,0,,- Merci, petit.\N- De rien, monsieur.
+Dialogue: 0,1:11:20.15,1:11:21.40,Default,,0,0,0,,C'est Russell.
+Dialogue: 0,1:11:21.57,1:11:23.07,Default,,0,0,0,,Il me faut un chauffeur.
+Dialogue: 0,1:11:24.24,1:11:25.74,Default,,0,0,0,,Venez! Par ici!
+Dialogue: 0,1:11:33.91,1:11:36.12,Default,,0,0,0,,- On va où?\N- Au 85e étage.
+Dialogue: 0,1:11:45.22,1:11:46.26,Default,,0,0,0,,Le labo est là.
+Dialogue: 0,1:11:46.80,1:11:47.80,Default,,0,0,0,,Merde.
+Dialogue: 0,1:11:50.97,1:11:52.14,Default,,0,0,0,,Je veux une bonne nouvelle.
+Dialogue: 0,1:11:52.31,1:11:54.52,Default,,0,0,0,,Une mégabombe explosera dans 30 min.
+Dialogue: 0,1:11:54.68,1:11:58.06,Default,,0,0,0,,Elle va tout détruire sur 400 mètres,\Nne restez pas là.
+Dialogue: 0,1:11:58.15,1:11:59.94,Default,,0,0,0,,Je regrette d'avoir répondu.
+Dialogue: 0,1:12:00.32,1:12:02.07,Default,,0,0,0,,C'est fermé. Il a dit quoi?
+Dialogue: 0,1:12:02.15,1:12:04.40,Default,,0,0,0,,Une mégabombe arrive,\Nil faut se bouger.
+Dialogue: 0,1:12:14.75,1:12:16.37,Default,,0,0,0,,Le FBI a saisi les disques.
+Dialogue: 0,1:12:17.79,1:12:18.79,Default,,0,0,0,,Bon.
+Dialogue: 0,1:12:19.25,1:12:20.59,Default,,0,0,0,,Allez, Kate.
+Dialogue: 0,1:12:20.92,1:12:21.92,Default,,0,0,0,,Réfléchis.
+Dialogue: 0,1:12:26.76,1:12:27.76,Default,,0,0,0,,Bon.
+Dialogue: 0,1:12:27.88,1:12:30.47,Default,,0,0,0,,Tout est connecté à un seul système.
+Dialogue: 0,1:12:30.64,1:12:32.60,Default,,0,0,0,,Le FBI n'a pas pensé à saisir
+Dialogue: 0,1:12:32.76,1:12:35.56,Default,,0,0,0,,un thermostat,\Nmais il contient une porte dérobée,
+Dialogue: 0,1:12:35.73,1:12:38.10,Default,,0,0,0,,on va pouvoir accéder au serveur
+Dialogue: 0,1:12:38.77,1:12:39.77,Default,,0,0,0,,à partir d'ici.
+Dialogue: 0,1:12:40.31,1:12:44.03,Default,,0,0,0,,Changement de programme,\Nl'armée a perdu le contrôle, on monte.
+Dialogue: 0,1:12:46.11,1:12:48.36,Default,,0,0,0,,L'hélicoptère est prêt.
+Dialogue: 0,1:12:48.91,1:12:51.28,Default,,0,0,0,,J'ai ton rat.
+Dialogue: 0,1:12:51.87,1:12:54.54,Default,,0,0,0,,Emportons le R-19\Npour pouvoir négocier
+Dialogue: 0,1:12:54.70,1:12:57.75,Default,,0,0,0,,quand on sera rattrapés\Npar toute cette merde.
+Dialogue: 0,1:12:58.96,1:13:00.08,Default,,0,0,0,,Quoi encore?
+Dialogue: 0,1:13:00.46,1:13:01.46,Default,,0,0,0,,On a de la visite.
+Dialogue: 0,1:13:04.21,1:13:05.88,Default,,0,0,0,,- J'y crois pas.\N- Quoi?
+Dialogue: 0,1:13:06.34,1:13:07.92,Default,,0,0,0,,Le système a été nettoyé.
+Dialogue: 0,1:13:08.09,1:13:10.84,Default,,0,0,0,,Ils ont effacé\Nles fichiers liés au projet.
+Dialogue: 0,1:13:11.01,1:13:12.64,Default,,0,0,0,,Mais l'antidote est là,
+Dialogue: 0,1:13:12.97,1:13:14.56,Default,,0,0,0,,il suffit de le trouver.
+Dialogue: 0,1:13:15.39,1:13:16.39,Default,,0,0,0,,Là.
+Dialogue: 0,1:13:19.98,1:13:21.10,Default,,0,0,0,,Je m'en occupe.
+Dialogue: 0,1:13:28.70,1:13:29.70,Default,,0,0,0,,Ça me plaît.
+Dialogue: 0,1:13:30.95,1:13:32.07,Default,,0,0,0,,On cherche quoi?
+Dialogue: 0,1:13:32.24,1:13:36.33,Default,,0,0,0,,Un truc où il y a écrit "RPG".\NDans des tubes cryoconservés.
+Dialogue: 0,1:13:36.49,1:13:37.50,Default,,0,0,0,,D'accord.
+Dialogue: 0,1:13:42.08,1:13:43.08,Default,,0,0,0,,Je crois que j'ai trouvé.
+Dialogue: 0,1:13:52.97,1:13:54.14,Default,,0,0,0,,C'est ça.
+Dialogue: 0,1:13:55.76,1:13:56.76,Default,,0,0,0,,C'est le remède?
+Dialogue: 0,1:13:57.81,1:13:59.35,Default,,0,0,0,,Pas tout à fait.
+Dialogue: 0,1:14:00.10,1:14:03.15,Default,,0,0,0,,Le R-19 ne leur rend pas\Nleur taille normale,
+Dialogue: 0,1:14:03.31,1:14:05.73,Default,,0,0,0,,il neutralise leur agressivité.
+Dialogue: 0,1:14:08.36,1:14:09.86,Default,,0,0,0,,Ravie de te voir, Kate.
+Dialogue: 0,1:14:10.03,1:14:11.53,Default,,0,0,0,,Je t'emmerde, Claire.
+Dialogue: 0,1:14:13.37,1:14:16.28,Default,,0,0,0,,J'ai eu tellement de peine\Npour ton frère.
+Dialogue: 0,1:14:24.33,1:14:25.96,Default,,0,0,0,,Allez, passe-les-moi.
+Dialogue: 0,1:14:40.39,1:14:41.39,Default,,0,0,0,,On y va.
+Dialogue: 0,1:14:41.98,1:14:43.40,Default,,0,0,0,,Même pas en rêve.
+Dialogue: 0,1:14:45.86,1:14:47.36,Default,,0,0,0,,Tu me le passes?
+Dialogue: 0,1:14:59.62,1:15:00.62,Default,,0,0,0,,C'est vous qui rêvez.
+Dialogue: 0,1:15:01.96,1:15:03.21,Default,,0,0,0,,Allez, on y va.
+Dialogue: 0,1:15:05.58,1:15:06.71,Default,,0,0,0,,Vite.
+Dialogue: 0,1:15:17.80,1:15:18.97,Default,,0,0,0,,Ils sont là.
+Dialogue: 0,1:15:49.79,1:15:50.79,Default,,0,0,0,,Allez!
+Dialogue: 0,1:15:53.47,1:15:56.51,Default,,0,0,0,,Je me demandais\Ncomment recréer l'agent pathogène.
+Dialogue: 0,1:15:57.64,1:15:58.64,Default,,0,0,0,,Et tu es arrivée.
+Dialogue: 0,1:15:59.35,1:16:01.35,Default,,0,0,0,,Monte, ou tu finis comme ton copain.
+Dialogue: 0,1:16:19.74,1:16:20.74,Default,,0,0,0,,Brett!
+Dialogue: 0,1:16:21.16,1:16:22.54,Default,,0,0,0,,Reviens.
+Dialogue: 0,1:16:42.35,1:16:43.35,Default,,0,0,0,,Venez.
+Dialogue: 0,1:16:52.19,1:16:53.32,Default,,0,0,0,,Je vous croyais mort.
+Dialogue: 0,1:16:53.48,1:16:56.49,Default,,0,0,0,,Elle a dû rater les organes vitaux,\Ncroisons les doigts.
+Dialogue: 0,1:16:56.82,1:16:58.20,Default,,0,0,0,,Allez, faut pas rester ici.
+Dialogue: 0,1:16:58.36,1:16:59.53,Default,,0,0,0,,Attendez.
+Dialogue: 0,1:17:00.95,1:17:02.24,Default,,0,0,0,,J'en ai un.
+Dialogue: 0,1:17:03.74,1:17:06.71,Default,,0,0,0,,Si on le donne à George,\Nil changera de camp.
+Dialogue: 0,1:17:13.17,1:17:15.46,Default,,0,0,0,,Comment on va lui faire avaler?
+Dialogue: 0,1:17:18.05,1:17:19.05,Default,,0,0,0,,Ne restons pas là.
+Dialogue: 0,1:17:25.47,1:17:28.56,Default,,0,0,0,,Finalement, c'est bien\Nque vous soyez vivants.
+Dialogue: 0,1:17:29.02,1:17:31.65,Default,,0,0,0,,Allez occuper votre pote\Npendant que je me casse.
+Dialogue: 0,1:17:33.73,1:17:35.48,Default,,0,0,0,,Sinon, je peux vous tuer!
+Dialogue: 0,1:17:44.66,1:17:45.79,Default,,0,0,0,,J'y vais.
+Dialogue: 0,1:17:53.42,1:17:54.54,Default,,0,0,0,,M'approche pas!
+Dialogue: 0,1:17:56.21,1:17:57.42,Default,,0,0,0,,Qu'est-ce que tu fous?
+Dialogue: 0,1:18:00.30,1:18:01.84,Default,,0,0,0,,Le gorille va dévorer le monstre.
+Dialogue: 0,1:18:11.81,1:18:13.90,Default,,0,0,0,,Merde!
+Dialogue: 0,1:18:20.61,1:18:21.70,Default,,0,0,0,,Quoi?
+Dialogue: 0,1:18:21.86,1:18:22.70,Default,,0,0,0,,Non!
+Dialogue: 0,1:18:22.86,1:18:25.74,Default,,0,0,0,,On oublie ma sœur,\Nelle est devenue dingue.
+Dialogue: 0,1:18:25.91,1:18:28.66,Default,,0,0,0,,Vous amenez le 4x4\Net vous me sortez d'ici.
+Dialogue: 0,1:18:31.46,1:18:32.46,Default,,0,0,0,,Merde, petit!
+Dialogue: 0,1:18:34.63,1:18:37.38,Default,,0,0,0,,Tu viens de dévaler 80 étages?
+Dialogue: 0,1:18:38.21,1:18:39.30,Default,,0,0,0,,Vous êtes qui, vous?
+Dialogue: 0,1:18:39.46,1:18:42.05,Default,,0,0,0,,Le type qui allait monter\Npour t'arrêter.
+Dialogue: 0,1:18:42.59,1:18:43.80,Default,,0,0,0,,Merde!
+Dialogue: 0,1:18:43.97,1:18:46.93,Default,,0,0,0,,T'as vraiment une sale tête,\Nje m'en veux un peu.
+Dialogue: 0,1:18:50.81,1:18:52.14,Default,,0,0,0,,Je vais être sympa.
+Dialogue: 0,1:18:52.31,1:18:54.98,Default,,0,0,0,,T'as mouillé la chemise\Npour sortir d'ici.
+Dialogue: 0,1:18:55.73,1:18:58.48,Default,,0,0,0,,Quelque chose me dit\Nque t'as un ordi dans ce sac.
+Dialogue: 0,1:18:58.65,1:19:01.11,Default,,0,0,0,,Tu me le donnes, et je te laisse
+Dialogue: 0,1:19:01.28,1:19:02.90,Default,,0,0,0,,sortir par cette porte.
+Dialogue: 0,1:19:03.53,1:19:04.70,Default,,0,0,0,,- C'est vrai?\N- Oui.
+Dialogue: 0,1:19:05.37,1:19:07.37,Default,,0,0,0,,Remets-le-moi et tu es libre.
+Dialogue: 0,1:19:11.29,1:19:12.29,Default,,0,0,0,,D'accord.
+Dialogue: 0,1:19:13.33,1:19:14.62,Default,,0,0,0,,C'est ma sœur qui a tout fait.
+Dialogue: 0,1:19:15.25,1:19:16.46,Default,,0,0,0,,C'était pas mon idée.
+Dialogue: 0,1:19:16.79,1:19:18.59,Default,,0,0,0,,Et la complicité n'est pas un délit.
+Dialogue: 0,1:19:19.09,1:19:20.17,Default,,0,0,0,,Exactement.
+Dialogue: 0,1:19:20.67,1:19:21.67,Default,,0,0,0,,Salut, l'ami.
+Dialogue: 0,1:19:23.13,1:19:24.47,Default,,0,0,0,,Laisse-moi ton copain.
+Dialogue: 0,1:19:27.30,1:19:29.43,Default,,0,0,0,,Avec plaisir.\NJe déteste cette bestiole.
+Dialogue: 0,1:19:41.19,1:19:42.24,Default,,0,0,0,,La vache!
+Dialogue: 0,1:19:42.86,1:19:44.24,Default,,0,0,0,,C'est du brutal.
+Dialogue: 0,1:19:48.20,1:19:50.33,Default,,0,0,0,,J'espère qu'ils savent\Ncomment descendre.
+Dialogue: 0,1:19:50.62,1:19:53.75,Default,,0,0,0,,Dis, mon pote,\Nsi on prenait une autre sortie?
+Dialogue: 0,1:20:14.48,1:20:16.35,Default,,0,0,0,,L'antidote fera effet quand?
+Dialogue: 0,1:20:16.98,1:20:18.44,Default,,0,0,0,,Dans 10 min, environ.
+Dialogue: 0,1:20:19.02,1:20:20.94,Default,,0,0,0,,L'immeuble ne tiendra pas 10 min.
+Dialogue: 0,1:20:28.95,1:20:30.28,Default,,0,0,0,,Comment on s'en va?
+Dialogue: 0,1:20:35.16,1:20:36.62,Default,,0,0,0,,Et si on restait sur le toit?
+Dialogue: 0,1:20:36.79,1:20:37.79,Default,,0,0,0,,Quoi?
+Dialogue: 0,1:20:42.17,1:20:44.59,Default,,0,0,0,,Moi, je veux pas rester ici.
+Dialogue: 0,1:20:47.80,1:20:48.80,Default,,0,0,0,,Davis!
+Dialogue: 0,1:20:49.80,1:20:51.35,Default,,0,0,0,,Cet hélico n'a pas de queue.
+Dialogue: 0,1:20:51.51,1:20:52.60,Default,,0,0,0,,C'est pas grave.
+Dialogue: 0,1:20:52.76,1:20:54.27,Default,,0,0,0,,Alors, on vole comment?
+Dialogue: 0,1:20:54.35,1:20:56.10,Default,,0,0,0,,On vole pas, on se crashe.
+Dialogue: 0,1:20:56.35,1:20:57.35,Default,,0,0,0,,Quoi?
+Dialogue: 0,1:21:01.27,1:21:02.15,Default,,0,0,0,,Bon.
+Dialogue: 0,1:21:02.23,1:21:05.94,Default,,0,0,0,,Il suffit de rester\Nau-dessus de l'immeuble qui tombe.
+Dialogue: 0,1:21:06.11,1:21:07.55,Default,,0,0,0,,Vous savez,\Ncomme dans une avalanche.
+Dialogue: 0,1:21:08.66,1:21:09.78,Default,,0,0,0,,Non, je ne sais pas.
+Dialogue: 0,1:21:19.83,1:21:21.17,Default,,0,0,0,,Allez, c'est parti.
+Dialogue: 0,1:21:38.44,1:21:39.44,Default,,0,0,0,,La vache!
+Dialogue: 0,1:21:39.60,1:21:40.81,Default,,0,0,0,,Ça pourrait se gâter.
+Dialogue: 0,1:21:48.74,1:21:49.74,Default,,0,0,0,,Putain!
+Dialogue: 0,1:21:52.49,1:21:54.08,Default,,0,0,0,,La vache!
+Dialogue: 0,1:22:02.13,1:22:03.71,Default,,0,0,0,,Accrochez-vous!
+Dialogue: 0,1:22:12.05,1:22:13.22,Default,,0,0,0,,Attention au choc!
+Dialogue: 0,1:23:00.98,1:23:02.23,Default,,0,0,0,,Venez.
+Dialogue: 0,1:23:14.16,1:23:15.57,Default,,0,0,0,,Je boirais bien un coup.
+Dialogue: 0,1:23:27.67,1:23:29.71,Default,,0,0,0,,J'en reviens pas qu'on soit vivants.
+Dialogue: 0,1:23:33.17,1:23:34.84,Default,,0,0,0,,Il y a encore des gens.
+Dialogue: 0,1:23:35.01,1:23:36.89,Default,,0,0,0,,Il faut faire annuler la frappe.
+Dialogue: 0,1:23:51.53,1:23:52.53,Default,,0,0,0,,Davis?
+Dialogue: 0,1:23:54.53,1:23:55.70,Default,,0,0,0,,Je sais.
+Dialogue: 0,1:24:02.33,1:24:03.33,Default,,0,0,0,,George?
+Dialogue: 0,1:24:06.04,1:24:07.04,Default,,0,0,0,,Ça va?
+Dialogue: 0,1:24:19.55,1:24:20.81,Default,,0,0,0,,Ça a marché.
+Dialogue: 0,1:24:22.27,1:24:24.14,Default,,0,0,0,,C'est bon de te retrouver.
+Dialogue: 0,1:24:29.23,1:24:30.44,Default,,0,0,0,,J'ai une sale tronche?
+Dialogue: 0,1:24:32.44,1:24:33.86,Default,,0,0,0,,Toi, t'as
+Dialogue: 0,1:24:34.03,1:24:35.49,Default,,0,0,0,,une grosse sale tronche.
+Dialogue: 0,1:24:54.76,1:24:55.76,Default,,0,0,0,,Venez.
+Dialogue: 0,1:25:00.93,1:25:02.97,Default,,0,0,0,,Lobo X-Ray, ici Viper 2-5.
+Dialogue: 0,1:25:03.14,1:25:05.23,Default,,0,0,0,,Escortes en place. 8 min de la cible.
+Dialogue: 0,1:25:06.23,1:25:08.02,Default,,0,0,0,,Rappelez pour autorisation de tir.
+Dialogue: 0,1:25:08.98,1:25:10.02,Default,,0,0,0,,Bien reçu.
+Dialogue: 0,1:25:15.24,1:25:16.24,Default,,0,0,0,,On fait quoi?
+Dialogue: 0,1:25:16.65,1:25:18.91,Default,,0,0,0,,Prenez le 4x4,\Ntrouvez un téléphone satellite.
+Dialogue: 0,1:25:19.07,1:25:21.62,Default,,0,0,0,,Russell peut faire annuler la frappe.
+Dialogue: 0,1:25:21.78,1:25:24.70,Default,,0,0,0,,Dites qu'il y a\Ndes soldats et des civils, ici.
+Dialogue: 0,1:25:24.87,1:25:26.12,Default,,0,0,0,,On s'occupe des deux autres.
+Dialogue: 0,1:25:26.25,1:25:27.66,Default,,0,0,0,,- Davis?\N- Oui?
+Dialogue: 0,1:25:28.16,1:25:30.25,Default,,0,0,0,,Essayez de ne pas vous faire tuer.
+Dialogue: 0,1:25:31.50,1:25:32.50,Default,,0,0,0,,Allez-y.
+Dialogue: 0,1:25:42.72,1:25:45.14,Default,,0,0,0,,On doit les empêcher\Nde détruire la ville.
+Dialogue: 0,1:25:47.60,1:25:50.02,Default,,0,0,0,,T'as raison.\NOn va leur latter la tronche.
+Dialogue: 0,1:26:08.83,1:26:09.83,Default,,0,0,0,,Merde!
+Dialogue: 0,1:26:32.48,1:26:34.36,Default,,0,0,0,,Évidemment, le loup vole.
+Dialogue: 0,1:26:52.67,1:26:53.92,Default,,0,0,0,,Viens me chercher,
+Dialogue: 0,1:26:54.08,1:26:55.67,Default,,0,0,0,,espèce de saloperie!
+Dialogue: 0,1:27:03.72,1:27:04.72,Default,,0,0,0,,C'est ça.
+Dialogue: 0,1:27:27.20,1:27:28.87,Default,,0,0,0,,Il me faut un téléphone satellite.
+Dialogue: 0,1:27:29.04,1:27:30.87,Default,,0,0,0,,C'est dangereux.\NNe restez pas ici.
+Dialogue: 0,1:27:31.04,1:27:32.08,Default,,0,0,0,,Emmenez-la.
+Dialogue: 0,1:27:32.25,1:27:34.50,Default,,0,0,0,,Attendez!\NIl y a une solution.
+Dialogue: 0,1:27:34.67,1:27:35.79,Default,,0,0,0,,Messieurs.
+Dialogue: 0,1:27:36.21,1:27:37.21,Default,,0,0,0,,Russell.
+Dialogue: 0,1:27:37.34,1:27:39.25,Default,,0,0,0,,Je prends le relais.
+Dialogue: 0,1:27:40.09,1:27:41.67,Default,,0,0,0,,Respirez, docteur.
+Dialogue: 0,1:27:41.84,1:27:44.34,Default,,0,0,0,,- Que faites-vous là?\N- L'antidote a marché.
+Dialogue: 0,1:27:44.51,1:27:47.35,Default,,0,0,0,,Davis et George essaient de les arrêter\Nmais il reste des civils
+Dialogue: 0,1:27:47.51,1:27:49.01,Default,,0,0,0,,et des soldats sur place.
+Dialogue: 0,1:27:49.18,1:27:50.85,Default,,0,0,0,,Il faut annuler la frappe.
+Dialogue: 0,1:27:54.44,1:27:55.44,Default,,0,0,0,,Petit,
+Dialogue: 0,1:27:56.06,1:27:57.94,Default,,0,0,0,,je te propose un échange.
+Dialogue: 0,1:27:58.36,1:27:59.77,Default,,0,0,0,,Allez, on y va.
+Dialogue: 0,1:28:07.45,1:28:08.87,Default,,0,0,0,,George, vas-y!
+Dialogue: 0,1:29:25.99,1:29:28.66,Default,,0,0,0,,Colonel, c'est votre pote Russell.
+Dialogue: 0,1:29:28.82,1:29:30.07,Default,,0,0,0,,Au sujet de votre bombe,
+Dialogue: 0,1:29:30.62,1:29:31.83,Default,,0,0,0,,faites-moi plaisir,
+Dialogue: 0,1:29:31.99,1:29:34.74,Default,,0,0,0,,jetez un œil sur Federal Plaza\Navant de la larguer.
+Dialogue: 0,1:29:35.62,1:29:37.79,Default,,0,0,0,,Envoyez les images de Federal Plaza.
+Dialogue: 0,1:29:42.54,1:29:43.71,Default,,0,0,0,,C'est pas vrai!
+Dialogue: 0,1:30:41.69,1:30:42.73,Default,,0,0,0,,C'est une blague.
+Dialogue: 0,1:30:59.87,1:31:01.29,Default,,0,0,0,,George, non!
+Dialogue: 0,1:31:04.67,1:31:05.67,Default,,0,0,0,,Ici Viper 2-5.
+Dialogue: 0,1:31:05.96,1:31:07.59,Default,,0,0,0,,- 2 minutes.\N- Cible verrouillée.
+Dialogue: 0,1:31:08.30,1:31:09.42,Default,,0,0,0,,Bombe armée.
+Dialogue: 0,1:31:10.26,1:31:11.30,Default,,0,0,0,,Ouverture soute.
+Dialogue: 0,1:31:25.27,1:31:26.27,Default,,0,0,0,,Sauve-toi!
+Dialogue: 0,1:31:27.02,1:31:28.61,Default,,0,0,0,,Lève-toi, bouge!
+Dialogue: 0,1:31:56.09,1:31:57.39,Default,,0,0,0,,Allez!
+Dialogue: 0,1:32:26.75,1:32:28.46,Default,,0,0,0,,On emmerde pas mon pote!
+Dialogue: 0,1:32:43.81,1:32:44.81,Default,,0,0,0,,Merde!
+Dialogue: 0,1:33:57.17,1:33:58.17,Default,,0,0,0,,George.
+Dialogue: 0,1:34:07.98,1:34:09.39,Default,,0,0,0,,Ça alors.
+Dialogue: 0,1:34:11.35,1:34:12.86,Default,,0,0,0,,Abandon de la mission.
+Dialogue: 0,1:34:45.97,1:34:46.97,Default,,0,0,0,,George?
+Dialogue: 0,1:34:48.43,1:34:49.60,Default,,0,0,0,,Mon pote?
+Dialogue: 0,1:34:58.82,1:35:00.03,Default,,0,0,0,,On a réussi.
+Dialogue: 0,1:35:02.99,1:35:04.66,Default,,0,0,0,,On a sauvé la ville.
+Dialogue: 0,1:35:12.42,1:35:14.00,Default,,0,0,0,,Tu m'as sauvé.
+Dialogue: 0,1:35:15.92,1:35:17.63,Default,,0,0,0,,George a sauvé Davis.
+Dialogue: 0,1:35:51.62,1:35:52.62,Default,,0,0,0,,George?
+Dialogue: 0,1:35:54.54,1:35:55.54,Default,,0,0,0,,George!
+Dialogue: 0,1:36:44.59,1:36:46.51,Default,,0,0,0,,Je suis désolée.
+Dialogue: 0,1:36:48.85,1:36:50.60,Default,,0,0,0,,Il m'a sauvé la vie.
+Dialogue: 0,1:36:51.77,1:36:54.10,Default,,0,0,0,,Il a sauvé des tas de gens.
+Dialogue: 0,1:37:21.92,1:37:22.92,Default,,0,0,0,,Maman!
+Dialogue: 0,1:37:34.97,1:37:36.23,Default,,0,0,0,,C'est vrai.
+Dialogue: 0,1:37:46.53,1:37:47.65,Default,,0,0,0,,T'as fermé un œil, là?
+Dialogue: 0,1:37:49.86,1:37:51.37,Default,,0,0,0,,Je t'ai vu ouvrir un œil!
+Dialogue: 0,1:37:57.66,1:37:59.37,Default,,0,0,0,,Petit salopard!
+Dialogue: 0,1:37:59.92,1:38:01.12,Default,,0,0,0,,Tu fais semblant d'être mort?
+Dialogue: 0,1:38:01.46,1:38:02.54,Default,,0,0,0,,Dans un moment pareil?
+Dialogue: 0,1:38:02.63,1:38:03.88,Default,,0,0,0,,J'y crois pas:
+Dialogue: 0,1:38:10.93,1:38:13.60,Default,,0,0,0,,Non, c'est pas marrant,\Net je pleurais pas.
+Dialogue: 0,1:38:13.76,1:38:15.06,Default,,0,0,0,,C'est la poussière.
+Dialogue: 0,1:38:15.22,1:38:16.93,Default,,0,0,0,,C'est un jeu entre vous?
+Dialogue: 0,1:38:17.10,1:38:19.14,Default,,0,0,0,,Moi, je fais rien, c'est lui.
+Dialogue: 0,1:38:19.31,1:38:21.81,Default,,0,0,0,,Il a un sens de l'humour très personnel.
+Dialogue: 0,1:38:25.65,1:38:26.65,Default,,0,0,0,,Oui.
+Dialogue: 0,1:38:27.65,1:38:29.28,Default,,0,0,0,,Je crois qu'on peut dire ça,
+Dialogue: 0,1:38:29.65,1:38:31.78,Default,,0,0,0,,elle fait partie de mon groupe.
+Dialogue: 0,1:38:32.37,1:38:33.99,Default,,0,0,0,,On est amis, non?
+Dialogue: 0,1:38:34.08,1:38:35.08,Default,,0,0,0,,Oui.
+Dialogue: 0,1:38:35.99,1:38:37.50,Default,,0,0,0,,Oui, on est amis.
+Dialogue: 0,1:38:42.29,1:38:44.59,Default,,0,0,0,,Non, arrête.\NUn peu de classe.
+Dialogue: 0,1:38:45.13,1:38:47.59,Default,,0,0,0,,Je sais pas ce qu'il a.\NDésolé, Kate.
+Dialogue: 0,1:38:48.17,1:38:49.01,Default,,0,0,0,,Arrête.
+Dialogue: 0,1:38:49.17,1:38:50.38,Default,,0,0,0,,Bon, d'accord,
+Dialogue: 0,1:38:50.55,1:38:51.97,Default,,0,0,0,,allez, on rentre.
+Dialogue: 0,1:38:52.43,1:38:53.72,Default,,0,0,0,,C'était drôle.
+Dialogue: 0,1:38:53.89,1:38:55.85,Default,,0,0,0,,- J'ai entendu!\N- Merde.
+Dialogue: 0,1:38:57.10,1:38:59.35,Default,,0,0,0,,Merci d'avoir sauvé le monde.
+Dialogue: 0,1:39:00.27,1:39:01.77,Default,,0,0,0,,Merci d'avoir fait annuler la frappe.
+Dialogue: 0,1:39:01.94,1:39:04.27,Default,,0,0,0,,Comme un vieux cow-boy\Nl'a dit un jour:
+Dialogue: 0,1:39:04.44,1:39:06.69,Default,,0,0,0,,"Entre gros cons,\Non se serre les coudes."
+Dialogue: 0,1:39:07.65,1:39:09.61,Default,,0,0,0,,On va aider tous ces gens
+Dialogue: 0,1:39:09.78,1:39:11.78,Default,,0,0,0,,et on va chercher une maison à George.
+Dialogue: 0,1:39:11.95,1:39:13.49,Default,,0,0,0,,Où on va le mettre?
+Dialogue: 0,1:39:14.32,1:39:16.99,Default,,0,0,0,,Je sais pas, mais pas dans un avion.
+Dialogue: 0,1:39:36.10,1:39:40.85,Default,,0,0,0,,RAMPAGE HORS DE CONTRÔLE
+Dialogue: 0,1:47:00.67,1:47:02.79,Default,,0,0,0,,RAMPAGE HORS DE CONTRÔLE
+Dialogue: 0,1:47:05.80,1:47:07.80,Default,,0,0,0,,Adaptation: Isabelle Audinot
