@@ -1,0 +1,841 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.31,0:01:03.56,Default,,0,0,0,,Just packed up a real money load,\Nand it's coming your way.
+Dialogue: 0,0:01:03.64,0:01:07.81,Default,,0,0,0,,Look for "Rodgers" on the truck's side.\NDon't forget my share of the deal.
+Dialogue: 0,0:03:57.82,0:03:58.98,Default,,0,0,0,,Shit!
+Dialogue: 0,0:04:39.73,0:04:43.19,Default,,0,0,0,,- Tuna on white, no crust, right?\N- L don't know. How is it?
+Dialogue: 0,0:04:43.86,0:04:48.16,Default,,0,0,0,,Every day, for the last three weeks,\Nyou've come here, asking how the tuna is.
+Dialogue: 0,0:04:48.24,0:04:51.99,Default,,0,0,0,,Now, it was crappy yesterday.\NLt was crappy the day before.
+Dialogue: 0,0:04:52.08,0:04:54.87,Default,,0,0,0,,And guess what? lt hasn't changed.
+Dialogue: 0,0:04:55.54,0:04:57.42,Default,,0,0,0,,- L'll have the tuna.\N- No crust?
+Dialogue: 0,0:04:57.54,0:04:58.58,Default,,0,0,0,,No crust.
+Dialogue: 0,0:05:22.82,0:05:23.94,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:06:10.99,0:06:13.37,Default,,0,0,0,,Talk to me, Jesse.\NThis ain't working, brother.
+Dialogue: 0,0:06:13.45,0:06:16.12,Default,,0,0,0,,Lt's your fuel map. lt's got a nasty hole.
+Dialogue: 0,0:06:16.50,0:06:19.25,Default,,0,0,0,,- That's why you're unloading in third.\N- Told you.
+Dialogue: 0,0:06:19.33,0:06:24.29,Default,,0,0,0,,L'd lengthen the injector pulse a millisecond.\NJust tune the NOS timer, you'll run nines.
+Dialogue: 0,0:06:32.30,0:06:34.93,Default,,0,0,0,,What's up with this fool?\NLs he sandwich-crazy?
+Dialogue: 0,0:06:35.01,0:06:39.64,Default,,0,0,0,,- No. He ain't here for the food, dog.\N- Chill out. He's slinging parts for Harry.
+Dialogue: 0,0:06:39.73,0:06:43.23,Default,,0,0,0,,- L know what he's slinging.\N- He's trying to get in Mia's pants, dog.
+Dialogue: 0,0:06:43.31,0:06:45.57,Default,,0,0,0,,- What's up, guys?\N- How you doing, Mia?
+Dialogue: 0,0:06:45.65,0:06:47.82,Default,,0,0,0,,- How you living, girl?\N- Hey!
+Dialogue: 0,0:06:48.40,0:06:50.82,Default,,0,0,0,,Hey, Dom. You want something to drink?
+Dialogue: 0,0:07:01.83,0:07:05.00,Default,,0,0,0,,- He's beautiful.\N- L like his haircut.
+Dialogue: 0,0:07:06.05,0:07:07.21,Default,,0,0,0,,MlA: Vince!
+Dialogue: 0,0:07:07.67,0:07:08.71,Default,,0,0,0,,Vince!
+Dialogue: 0,0:07:10.01,0:07:12.01,Default,,0,0,0,,- What?\N- Can l get you anything?
+Dialogue: 0,0:07:13.72,0:07:15.01,Default,,0,0,0,,You look good.
+Dialogue: 0,0:07:19.18,0:07:21.85,Default,,0,0,0,,- Thanks a lot, Mia. See you tomorrow.\N- Sure.
+Dialogue: 0,0:07:24.77,0:07:26.73,Default,,0,0,0,,- Tomorrow?\N- L love this part.
+Dialogue: 0,0:07:31.53,0:07:36.12,Default,,0,0,0,,Try Fatburger from now on. Get yourself a\NDouble Cheese with fries for $2.95, faggot.
+Dialogue: 0,0:07:36.20,0:07:39.70,Default,,0,0,0,,- L like the tuna here.\N- Bullshit. No one likes the tuna here.
+Dialogue: 0,0:07:39.79,0:07:41.20,Default,,0,0,0,,Yeah, well, l do.
+Dialogue: 0,0:07:53.72,0:07:57.26,Default,,0,0,0,,Jesus Christ, Dom! Would you get out\Nthere? l'm sick of this shit.
+Dialogue: 0,0:07:57.39,0:07:59.72,Default,,0,0,0,,L'm not kidding, Dom. Get out there!
+Dialogue: 0,0:08:04.06,0:08:06.56,Default,,0,0,0,,- What did you put in that sandwich?\N- That's funny.
+Dialogue: 0,0:08:06.65,0:08:08.90,Default,,0,0,0,,- Dom!\N- All right.
+Dialogue: 0,0:08:27.42,0:08:30.25,Default,,0,0,0,,- Hey, man. He was in my face.\N- L'm in your face.
+Dialogue: 0,0:08:31.92,0:08:34.80,Default,,0,0,0,,Relax! Don't push it! You embarrass me!
+Dialogue: 0,0:08:37.47,0:08:38.76,Default,,0,0,0,,Get over there!
+Dialogue: 0,0:08:40.26,0:08:42.10,Default,,0,0,0,,Jesse, give me the wallet.
+Dialogue: 0,0:08:44.94,0:08:48.31,Default,,0,0,0,,"Brian Earl Spilner."\NSounds like a serial killer name.
+Dialogue: 0,0:08:48.44,0:08:50.23,Default,,0,0,0,,- Ls that what you are?\N- No, man.
+Dialogue: 0,0:08:50.32,0:08:52.28,Default,,0,0,0,,Don't come around here again.
+Dialogue: 0,0:08:54.74,0:08:56.61,Default,,0,0,0,,Hey, man. This is bullshit.
+Dialogue: 0,0:08:57.66,0:09:00.66,Default,,0,0,0,,- You work for Harry, right?\N- Yeah. l just started.
+Dialogue: 0,0:09:00.91,0:09:02.45,Default,,0,0,0,,You were just fired.
+Dialogue: 0,0:09:15.34,0:09:18.47,Default,,0,0,0,,Hey, Dominic.\NL appreciate what you did, in a big way.
+Dialogue: 0,0:09:18.97,0:09:20.47,Default,,0,0,0,,Dominic, l owe you.
+Dialogue: 0,0:09:22.43,0:09:26.98,Default,,0,0,0,,Brian, you're messing with my business.\NWhen Dominic drives, he's golden.
+Dialogue: 0,0:09:27.10,0:09:31.69,Default,,0,0,0,,Kids pour in. They want everything he has.\NEvery performance part. They pay cash!
+Dialogue: 0,0:09:32.28,0:09:34.99,Default,,0,0,0,,- What did Dominic say?\N- You don't want to know.
+Dialogue: 0,0:09:35.32,0:09:38.20,Default,,0,0,0,,- What did Dominic say?\N- He wants you out of here.
+Dialogue: 0,0:09:38.82,0:09:40.74,Default,,0,0,0,,- He wants me out of here?\N- Yes.
+Dialogue: 0,0:09:40.83,0:09:44.16,Default,,0,0,0,,- And what did you say to Dom?\N- What do you think l said?
+Dialogue: 0,0:09:44.45,0:09:46.96,Default,,0,0,0,,L told him, "Good help is hard to find."
+Dialogue: 0,0:09:50.13,0:09:51.17,Default,,0,0,0,,Relax.
+Dialogue: 0,0:09:54.84,0:09:56.05,Default,,0,0,0,,L need NOS.
+Dialogue: 0,0:09:56.63,0:09:58.84,Default,,0,0,0,,- L need NOS.\N- No.
+Dialogue: 0,0:09:59.01,0:10:01.76,Default,,0,0,0,,My car topped out at 140 miles per hour,\Nthis morning.
+Dialogue: 0,0:10:01.85,0:10:06.31,Default,,0,0,0,,Amateurs don't use nitrous oxide. l've\Nseen how you drive. You've a heavy foot.
+Dialogue: 0,0:10:07.06,0:10:10.19,Default,,0,0,0,,- You'll blow yourself to pieces.\N- L need one of these.
+Dialogue: 0,0:10:10.48,0:10:13.86,Default,,0,0,0,,One of the big ones.\NActually, let's make it two.
+Dialogue: 0,0:10:14.36,0:10:16.53,Default,,0,0,0,,And, Harry, l need it by tonight.
+Dialogue: 0,0:11:28.27,0:11:31.60,Default,,0,0,0,,Hold up, hold up.\NLook at this snowman right here, man.
+Dialogue: 0,0:11:35.94,0:11:38.78,Default,,0,0,0,,Sweet ride.\NWhat you running under there, man?
+Dialogue: 0,0:11:41.49,0:11:44.36,Default,,0,0,0,,- Going to make me find out the hard way?\N- Hell, yeah.
+Dialogue: 0,0:11:44.45,0:11:47.33,Default,,0,0,0,,You brave. You brave. They call me Hector.
+Dialogue: 0,0:11:47.95,0:11:50.75,Default,,0,0,0,,L got a last name, too,\Nbut l can't pronounce it.
+Dialogue: 0,0:11:50.83,0:11:53.29,Default,,0,0,0,,- Brian Spilner.\N- Typical white-boy name.
+Dialogue: 0,0:11:53.62,0:11:55.50,Default,,0,0,0,,Know what l'm saying?
+Dialogue: 0,0:11:57.80,0:12:02.67,Default,,0,0,0,,See that over there? That's mine. My baby.\NL ain't cutting her loose tonight.
+Dialogue: 0,0:12:02.97,0:12:04.80,Default,,0,0,0,,- Why not?\N- L'm going legit, homey.
+Dialogue: 0,0:12:04.93,0:12:07.55,Default,,0,0,0,,Trying to get on the NlRA circuit.\NHeard about that?
+Dialogue: 0,0:12:07.64,0:12:10.64,Default,,0,0,0,,- Hell, yeah.\N- So, what's up with you, man?
+Dialogue: 0,0:12:10.85,0:12:15.02,Default,,0,0,0,,- L'm just waiting for Toretto.\N- Shit. Better get in line. This yours?
+Dialogue: 0,0:12:16.23,0:12:18.73,Default,,0,0,0,,- L'm standing next to it.\N- EDWlN: That's funny.
+Dialogue: 0,0:12:18.82,0:12:21.48,Default,,0,0,0,,You know,\NEdwin happens to know a few things.
+Dialogue: 0,0:12:21.82,0:12:25.91,Default,,0,0,0,,And one of the things Edwin knows is:\Nlt's not how you stand by your car,
+Dialogue: 0,0:12:26.32,0:12:29.24,Default,,0,0,0,,it's how you race your car.\NYou better learn that.
+Dialogue: 0,0:12:35.17,0:12:38.13,Default,,0,0,0,,Oh, shit. Here they come. lt's on.
+Dialogue: 0,0:12:53.52,0:12:55.31,Default,,0,0,0,,- Dom.\N- Marvin.
+Dialogue: 0,0:12:57.02,0:13:00.61,Default,,0,0,0,,- Hey, Dom. How you doing?\N- Hey, Camille. You been doing yoga?
+Dialogue: 0,0:13:04.99,0:13:07.86,Default,,0,0,0,,You did? Of course you did. Monica.
+Dialogue: 0,0:13:10.79,0:13:12.79,Default,,0,0,0,,L smell skanks.
+Dialogue: 0,0:13:13.50,0:13:17.37,Default,,0,0,0,,Why don't you girls pack it up,\Nbefore l leave tread marks on your face?
+Dialogue: 0,0:13:17.46,0:13:18.54,Default,,0,0,0,,Okay.
+Dialogue: 0,0:13:18.63,0:13:21.29,Default,,0,0,0,,- Letty, l was just talking.\N- Yeah. Whatever.
+Dialogue: 0,0:13:21.71,0:13:24.71,Default,,0,0,0,,- Okay, Hector.\N- Yeah? What's up, man?
+Dialogue: 0,0:13:26.38,0:13:27.97,Default,,0,0,0,,- EDWlN: Yo. What's up?\N- Edwin.
+Dialogue: 0,0:13:28.05,0:13:30.39,Default,,0,0,0,,- How we doing this tonight?\N- One race.
+Dialogue: 0,0:13:30.89,0:13:35.06,Default,,0,0,0,,$2,000 buy-in. Winner takes all.\NHector, you're going to hold the cash.
+Dialogue: 0,0:13:35.56,0:13:38.56,Default,,0,0,0,,- Why Hector?\N- Too slow to make away with the money.
+Dialogue: 0,0:13:41.02,0:13:43.69,Default,,0,0,0,,- Okay. Good luck, guys.\N- BRlAN: Hey, wait. Hold up.
+Dialogue: 0,0:13:44.19,0:13:48.07,Default,,0,0,0,,L don't have any cash.\NBut l do have the pink slip to my car.
+Dialogue: 0,0:13:48.53,0:13:52.37,Default,,0,0,0,,You just can't climb in the ring with Ali,\N'cause you think you box.
+Dialogue: 0,0:13:52.58,0:13:55.83,Default,,0,0,0,,He knows l can box. Check it out.\NLt's like this.
+Dialogue: 0,0:13:56.83,0:13:59.92,Default,,0,0,0,,L lose, the winner takes my car.\NClean and clear.
+Dialogue: 0,0:14:00.38,0:14:03.75,Default,,0,0,0,,But if l win, l take the cash,\Nand l take the respect.
+Dialogue: 0,0:14:04.38,0:14:05.42,Default,,0,0,0,,Respect.
+Dialogue: 0,0:14:07.76,0:14:10.09,Default,,0,0,0,,To some people, that's more important.
+Dialogue: 0,0:14:12.26,0:14:13.60,Default,,0,0,0,,That your car?
+Dialogue: 0,0:14:17.39,0:14:22.23,Default,,0,0,0,,L see a cool air intake. lt's got a NOS\Nfogger system and a T4 turbo, Dominic.
+Dialogue: 0,0:14:22.40,0:14:27.36,Default,,0,0,0,,L see an AlC controller.\NLt has direct port nitrous injection.
+Dialogue: 0,0:14:27.61,0:14:30.41,Default,,0,0,0,,Yeah. And a stand-alone\Nfuel management system.
+Dialogue: 0,0:14:31.41,0:14:33.45,Default,,0,0,0,,Not a bad way to spend $1 0,000.
+Dialogue: 0,0:14:36.45,0:14:37.95,Default,,0,0,0,,EDWlN: You see that shit?
+Dialogue: 0,0:14:38.79,0:14:41.08,Default,,0,0,0,,He's got enough NOS in there\Nto blow himself up. Period.
+Dialogue: 0,0:14:41.17,0:14:42.29,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:14:43.04,0:14:46.21,Default,,0,0,0,,- So, what do you say? Am l worthy?\N- We don't know yet.
+Dialogue: 0,0:14:46.92,0:14:48.72,Default,,0,0,0,,But you're in. Let's go.
+Dialogue: 0,0:14:49.59,0:14:51.13,Default,,0,0,0,,- All right.\N- Let's go!
+Dialogue: 0,0:15:55.53,0:15:59.37,Default,,0,0,0,,- What the hell is going on around here?\N- Street's closed, pizza boy.
+Dialogue: 0,0:15:59.87,0:16:02.83,Default,,0,0,0,,- Find another way home.\N- Goddamn street racers.
+Dialogue: 0,0:16:03.54,0:16:07.88,Default,,0,0,0,,DlSPATCHER: Log on, 22. Code 3. Tension\Nis high. They've blocked the street.
+Dialogue: 0,0:16:54.05,0:16:55.43,Default,,0,0,0,,Edwin.
+Dialogue: 0,0:16:56.97,0:16:59.93,Default,,0,0,0,,This is yours, whether you win or lose.
+Dialogue: 0,0:17:00.81,0:17:03.43,Default,,0,0,0,,But if you win, you get her, too.
+Dialogue: 0,0:17:12.94,0:17:14.49,Default,,0,0,0,,You're going to win.
+Dialogue: 0,0:17:15.86,0:17:17.45,Default,,0,0,0,,L'm going to win.
+Dialogue: 0,0:18:01.83,0:18:04.70,Default,,0,0,0,,We had a reported homicide.\N187, at Barabian Liquors.
+Dialogue: 0,0:18:04.79,0:18:09.17,Default,,0,0,0,,L've got a 1 87 in Glendale.\NCops are all over it. We're good to roll.
+Dialogue: 0,0:18:09.88,0:18:11.29,Default,,0,0,0,,- All right.\N- Let's race!
+Dialogue: 0,0:18:11.38,0:18:12.42,Default,,0,0,0,,Right.
+Dialogue: 0,0:18:22.18,0:18:23.26,Default,,0,0,0,,Go!
+Dialogue: 0,0:18:37.11,0:18:38.24,Default,,0,0,0,,Hell, yeah!
+Dialogue: 0,0:18:54.29,0:18:55.92,Default,,0,0,0,,Damn, that guy's fast.
+Dialogue: 0,0:19:04.10,0:19:06.26,Default,,0,0,0,,Let's go! Ménage à!
+Dialogue: 0,0:19:33.29,0:19:36.09,Default,,0,0,0,,No! Monica!
+Dialogue: 0,0:19:51.85,0:19:53.31,Default,,0,0,0,,Shut up!
+Dialogue: 0,0:20:47.66,0:20:50.28,Default,,0,0,0,,- Let's go now, baby!\N- Yeah!
+Dialogue: 0,0:20:58.92,0:21:00.84,Default,,0,0,0,,Come on. Come on. Back up.
+Dialogue: 0,0:21:01.63,0:21:04.97,Default,,0,0,0,,Here's what you won, right here.\NThere you go.
+Dialogue: 0,0:21:05.05,0:21:07.93,Default,,0,0,0,,You were racing a bunch of skateboards.\NKnow what l mean?
+Dialogue: 0,0:21:09.35,0:21:12.01,Default,,0,0,0,,My sister holds the money. Count it.
+Dialogue: 0,0:21:15.06,0:21:16.64,Default,,0,0,0,,Me and my trophy.
+Dialogue: 0,0:21:19.90,0:21:23.86,Default,,0,0,0,,- Hey, Monica. What's up, baby?\N- What's your problem? You didn't win.
+Dialogue: 0,0:21:26.82,0:21:28.11,Default,,0,0,0,,Fuck you then!
+Dialogue: 0,0:21:41.42,0:21:42.71,Default,,0,0,0,,Was that fun?
+Dialogue: 0,0:21:42.92,0:21:44.84,Default,,0,0,0,,Got a problem there, buddy?
+Dialogue: 0,0:21:51.56,0:21:54.81,Default,,0,0,0,,- What are you smiling about?\N- Dude. l almost had you.
+Dialogue: 0,0:21:57.64,0:21:59.44,Default,,0,0,0,,You almost had me?
+Dialogue: 0,0:22:00.11,0:22:02.57,Default,,0,0,0,,You never had me. You never had your car.
+Dialogue: 0,0:22:05.86,0:22:09.03,Default,,0,0,0,,Granny-shifting.\NNot double-clutching, like you should.
+Dialogue: 0,0:22:09.95,0:22:14.12,Default,,0,0,0,,You're lucky that 1 00-shot of NOS\Ndidn't blow the welds on the intake.
+Dialogue: 0,0:22:15.37,0:22:19.75,Default,,0,0,0,,- Almost had me?\N- You tell him, Dominic. Get out of here.
+Dialogue: 0,0:22:21.13,0:22:24.21,Default,,0,0,0,,Now, me and the mad scientist\Ngot to rip apart the block
+Dialogue: 0,0:22:24.30,0:22:26.88,Default,,0,0,0,,and replace the piston rings you fried.
+Dialogue: 0,0:22:34.64,0:22:36.68,Default,,0,0,0,,Ask any racer. Any real racer.
+Dialogue: 0,0:22:37.43,0:22:41.90,Default,,0,0,0,,Lt don't matter if you win by an inch\Nor a mile. Winning's winning.
+Dialogue: 0,0:22:42.19,0:22:43.52,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:22:49.11,0:22:52.20,Default,,0,0,0,,DlSPATCHER: All available units,\Nwe have street-racing along Hawthorne....
+Dialogue: 0,0:22:52.28,0:22:54.20,Default,,0,0,0,,Oh, shit! We got cops. Cops!
+Dialogue: 0,0:22:54.49,0:22:55.74,Default,,0,0,0,,Go!
+Dialogue: 0,0:23:07.46,0:23:09.26,Default,,0,0,0,,Cops! Get in the car! Go!
+Dialogue: 0,0:24:33.55,0:24:35.72,Default,,0,0,0,,OFFlCER: Toretto, stop right there!
+Dialogue: 0,0:24:37.43,0:24:38.55,Default,,0,0,0,,Toretto!
+Dialogue: 0,0:24:53.57,0:24:54.78,Default,,0,0,0,,Get in!
+Dialogue: 0,0:25:21.22,0:25:22.39,Default,,0,0,0,,Whoa! Whoa!
+Dialogue: 0,0:25:41.28,0:25:44.62,Default,,0,0,0,,You're the last person in the world\Nl expected to show up.
+Dialogue: 0,0:25:45.79,0:25:49.75,Default,,0,0,0,,L thought if l got in your good graces,\Nyou might let me keep my car.
+Dialogue: 0,0:25:49.96,0:25:53.30,Default,,0,0,0,,You are in my good graces,\Nbut you ain't keeping your car.
+Dialogue: 0,0:25:54.17,0:25:57.17,Default,,0,0,0,,You drive like you've done this before.\NAre you a wheelman?
+Dialogue: 0,0:25:57.30,0:25:59.64,Default,,0,0,0,,- No.\N- You boost cars?
+Dialogue: 0,0:26:02.10,0:26:04.27,Default,,0,0,0,,- No. Never.\N- Ever done time?
+Dialogue: 0,0:26:04.64,0:26:06.98,Default,,0,0,0,,Couple of overnighters. No big deal.
+Dialogue: 0,0:26:07.69,0:26:10.77,Default,,0,0,0,,What about the two years\Nin juvie for boosting cars?
+Dialogue: 0,0:26:13.69,0:26:15.19,Default,,0,0,0,,Tucson, right?
+Dialogue: 0,0:26:15.94,0:26:18.99,Default,,0,0,0,,L had Jesse run a profile on you,\NBrian Earl Spilner.
+Dialogue: 0,0:26:20.53,0:26:23.70,Default,,0,0,0,,He'll find anything on the Web.\NAnything about anybody.
+Dialogue: 0,0:26:24.45,0:26:25.83,Default,,0,0,0,,So, why bullshit?
+Dialogue: 0,0:26:27.54,0:26:29.04,Default,,0,0,0,,So, what about you?
+Dialogue: 0,0:26:31.50,0:26:33.00,Default,,0,0,0,,Two years in Lompoc.
+Dialogue: 0,0:26:36.05,0:26:37.84,Default,,0,0,0,,L'll die before l go back.
+Dialogue: 0,0:26:44.01,0:26:46.02,Default,,0,0,0,,- Oh, great.\N- What?
+Dialogue: 0,0:26:48.89,0:26:51.31,Default,,0,0,0,,Lt's going to be a long-ass night.\NThat's what.
+Dialogue: 0,0:26:55.57,0:26:56.98,Default,,0,0,0,,Follow us.
+Dialogue: 0,0:27:47.70,0:27:51.91,Default,,0,0,0,,L thought we had an agreement.\NYou stay away. l stay away.
+Dialogue: 0,0:27:53.29,0:27:54.92,Default,,0,0,0,,Everybody stays happy.
+Dialogue: 0,0:27:55.09,0:27:57.38,Default,,0,0,0,,We got lost.\NWhat do you want me to tell you?
+Dialogue: 0,0:27:57.46,0:28:00.42,Default,,0,0,0,,- Who's "we"?\N- My new mechanic.
+Dialogue: 0,0:28:00.76,0:28:02.59,Default,,0,0,0,,Brian, meet Johnny Tran.
+Dialogue: 0,0:28:02.76,0:28:05.72,Default,,0,0,0,,The guy in the snakeskin pants.\NThat's his cousin. Lance.
+Dialogue: 0,0:28:05.80,0:28:09.52,Default,,0,0,0,,So, when are you going to give me a shot\Nat that Honda 2000 of yours?
+Dialogue: 0,0:28:09.60,0:28:12.06,Default,,0,0,0,,- This your ride?\N- Lt was. lt's his now.
+Dialogue: 0,0:28:12.44,0:28:14.94,Default,,0,0,0,,No, it's not. l haven't taken delivery.
+Dialogue: 0,0:28:17.11,0:28:20.82,Default,,0,0,0,,Then, it's nobody's car.\NBut somebody put in the wrench time.
+Dialogue: 0,0:28:23.91,0:28:27.49,Default,,0,0,0,,- What do you think, Lance?\N- Lt's an amazing machine.
+Dialogue: 0,0:28:28.16,0:28:29.62,Default,,0,0,0,,Yes, indeed.
+Dialogue: 0,0:28:31.83,0:28:33.29,Default,,0,0,0,,Let's go.
+Dialogue: 0,0:28:35.46,0:28:39.84,Default,,0,0,0,,L'll see you in the desert next month.\NBe ready to have your ass handed to you.
+Dialogue: 0,0:28:40.13,0:28:43.97,Default,,0,0,0,,- You'll need more than that crotch rocket.\N- L got something for you.
+Dialogue: 0,0:28:57.86,0:29:01.40,Default,,0,0,0,,- What the hell was that all about?\N- Long story. l'll tell you later.
+Dialogue: 0,0:29:01.48,0:29:03.15,Default,,0,0,0,,Let's get out of here.
+Dialogue: 0,0:29:30.51,0:29:31.68,Default,,0,0,0,,NOS!
+Dialogue: 0,0:29:43.86,0:29:47.24,Default,,0,0,0,,- BRlAN: So, what the hell was that all about?\N- Lt's a long story.
+Dialogue: 0,0:29:48.16,0:29:50.53,Default,,0,0,0,,BRlAN: Well, we got a 20-mile hike.\NHumor me.
+Dialogue: 0,0:29:51.03,0:29:53.20,Default,,0,0,0,,A business deal that went sour.
+Dialogue: 0,0:29:54.16,0:29:57.21,Default,,0,0,0,,Plus, l made the mistake\Nof sleeping with his sister.
+Dialogue: 0,0:30:23.40,0:30:24.69,Default,,0,0,0,,Take care.
+Dialogue: 0,0:30:29.74,0:30:31.28,Default,,0,0,0,,Yo, Spilner.
+Dialogue: 0,0:30:32.74,0:30:34.91,Default,,0,0,0,,- You want a beer?\N- Yeah, sure.
+Dialogue: 0,0:30:35.58,0:30:37.20,Default,,0,0,0,,Oh, shit.
+Dialogue: 0,0:31:01.27,0:31:04.19,Default,,0,0,0,,- You're all in, right?\N- Wow, man, she's hot.
+Dialogue: 0,0:31:04.27,0:31:06.78,Default,,0,0,0,,- Which one of you uses nitrous?\N- Yo.
+Dialogue: 0,0:31:13.62,0:31:17.12,Default,,0,0,0,,Yo, Dom. We were just about to go\Nlooking for you, brother.
+Dialogue: 0,0:31:23.00,0:31:24.29,Default,,0,0,0,,Where were you?
+Dialogue: 0,0:31:24.42,0:31:28.63,Default,,0,0,0,,There were mass cops there. They came in\Nfrom every direction. lt was orchestrated.
+Dialogue: 0,0:31:28.76,0:31:31.13,Default,,0,0,0,,- This your beer?\N- Yeah, that's my beer.
+Dialogue: 0,0:31:34.18,0:31:36.68,Default,,0,0,0,,Yo, Einstein. Take it upstairs.
+Dialogue: 0,0:31:37.35,0:31:39.93,Default,,0,0,0,,You can't detail a car with the cover on.
+Dialogue: 0,0:31:40.77,0:31:43.65,Default,,0,0,0,,- Can't even get that right.\N- You all right?
+Dialogue: 0,0:31:45.82,0:31:48.65,Default,,0,0,0,,- Am l all right?\N- Lt was just a question.
+Dialogue: 0,0:31:52.45,0:31:53.70,Default,,0,0,0,,Yo, Dom.
+Dialogue: 0,0:31:53.99,0:31:58.04,Default,,0,0,0,,- Why did you bring the buster here?\N- 'Cause he kept me out of handcuffs!
+Dialogue: 0,0:31:58.33,0:32:02.16,Default,,0,0,0,,He didn't just run back to the fort!\NThe buster brought me back.
+Dialogue: 0,0:32:08.00,0:32:11.80,Default,,0,0,0,,You can have any brew you want,\Nas long as it's a Corona.
+Dialogue: 0,0:32:12.47,0:32:15.05,Default,,0,0,0,,- Thanks, man.\N- That's Vince's. So, enjoy it.
+Dialogue: 0,0:32:17.06,0:32:18.35,Default,,0,0,0,,You.
+Dialogue: 0,0:32:25.48,0:32:29.52,Default,,0,0,0,,- Hey, bro. You got a bathroom?\N- Upstairs. First door on the right.
+Dialogue: 0,0:32:45.75,0:32:49.17,Default,,0,0,0,,He's got no call being up in here.\NYou don't know that fool for shit.
+Dialogue: 0,0:32:49.25,0:32:52.76,Default,,0,0,0,,- He's right, Dom.\N- There was a time when l didn't know you.
+Dialogue: 0,0:32:52.92,0:32:54.88,Default,,0,0,0,,That was in the third grade!
+Dialogue: 0,0:32:58.05,0:33:01.56,Default,,0,0,0,,- Yeah. So, what girls are here?\N- You name it. You want mine?
+Dialogue: 0,0:33:01.68,0:33:04.06,Default,,0,0,0,,- You need to shut the...\N- You want two?
+Dialogue: 0,0:33:04.27,0:33:06.94,Default,,0,0,0,,- You don't have anything?\N- You look a bit tired.
+Dialogue: 0,0:33:07.06,0:33:09.82,Default,,0,0,0,,L think you should go upstairs\Nand give me a massage.
+Dialogue: 0,0:33:09.90,0:33:13.28,Default,,0,0,0,,- Look at all our guests.\N- How about you give me a massage?
+Dialogue: 0,0:33:16.61,0:33:18.07,Default,,0,0,0,,Crazy bitch.
+Dialogue: 0,0:33:25.75,0:33:28.42,Default,,0,0,0,,You know you owe me\Na 1 0-second car, right?
+Dialogue: 0,0:33:29.67,0:33:30.84,Default,,0,0,0,,Ouch!
+Dialogue: 0,0:33:33.09,0:33:34.38,Default,,0,0,0,,Oh, shit.
+Dialogue: 0,0:33:40.10,0:33:41.76,Default,,0,0,0,,Did you wipe the seat?
+Dialogue: 0,0:33:44.98,0:33:48.40,Default,,0,0,0,,Jesus Christ! Would you cut this shit?\NCome on!
+Dialogue: 0,0:33:50.44,0:33:55.32,Default,,0,0,0,,- Come on. Let's go get me a drink.\N- We were just about to get along.
+Dialogue: 0,0:34:02.58,0:34:05.75,Default,,0,0,0,,- So, what do you want?\N- Anything, as long as it's cold.
+Dialogue: 0,0:34:07.33,0:34:10.92,Default,,0,0,0,,You know, my brother likes you.\NHe usually doesn't like anybody.
+Dialogue: 0,0:34:11.00,0:34:14.30,Default,,0,0,0,,- He's a complicated guy.\N- Yeah? What about you?
+Dialogue: 0,0:34:17.47,0:34:19.80,Default,,0,0,0,,- L'm simpler.\N- You're a shitty liar.
+Dialogue: 0,0:34:21.55,0:34:23.89,Default,,0,0,0,,Well, l'll take that as a compliment.
+Dialogue: 0,0:34:25.56,0:34:28.23,Default,,0,0,0,,- But there's a problem.\N- What's that?
+Dialogue: 0,0:34:28.31,0:34:30.48,Default,,0,0,0,,You need to get some sleep.
+Dialogue: 0,0:34:31.11,0:34:35.07,Default,,0,0,0,,And you definitely,\Ndefinitely need a shower.
+Dialogue: 0,0:34:35.99,0:34:38.32,Default,,0,0,0,,Come on. l'll take you home.
+Dialogue: 0,0:35:00.13,0:35:03.01,Default,,0,0,0,,OFFlCER: Show me your hands.\NVery good. Now open the door.
+Dialogue: 0,0:35:03.51,0:35:06.68,Default,,0,0,0,,Put your hands on your head.\NBehind your head.
+Dialogue: 0,0:35:07.18,0:35:10.81,Default,,0,0,0,,Face the front of the vehicle,\Nwalk backwards towards the rear.
+Dialogue: 0,0:35:11.02,0:35:14.36,Default,,0,0,0,,Take two steps to your right.\NStop right there.
+Dialogue: 0,0:35:17.44,0:35:21.36,Default,,0,0,0,,- What did l do?\N- Shut up. He's clean, Sarge.
+Dialogue: 0,0:35:32.17,0:35:34.46,Default,,0,0,0,,Damn! Muse, will you take these things off?
+Dialogue: 0,0:35:34.54,0:35:37.50,Default,,0,0,0,,- Shit. You put them on so tight.\N- L like realism.
+Dialogue: 0,0:35:38.13,0:35:40.47,Default,,0,0,0,,You never know who's watching, Brian.
+Dialogue: 0,0:35:44.72,0:35:48.56,Default,,0,0,0,,Nice crib, Sergeant. lt's a lot nicer\Nthan the last place you confiscated.
+Dialogue: 0,0:35:48.64,0:35:52.85,Default,,0,0,0,,Ain't it? Eddie Fisher built this house\Nfor Elizabeth Taylor in the '50s.
+Dialogue: 0,0:35:53.02,0:35:55.90,Default,,0,0,0,,You see, even the cops\Nare Hollywood in Hollywood.
+Dialogue: 0,0:35:59.69,0:36:02.99,Default,,0,0,0,,Okay, here he is,\Nfresh from Toretto's hot rod heaven.
+Dialogue: 0,0:36:03.07,0:36:05.41,Default,,0,0,0,,That was an $80,000 vehicle, Officer.
+Dialogue: 0,0:36:05.53,0:36:07.74,Default,,0,0,0,,- You told him what happened?\N- He knows.
+Dialogue: 0,0:36:07.83,0:36:11.75,Default,,0,0,0,,- Send the bill to Johnny Tran.\N- The kid's giving me attitude?
+Dialogue: 0,0:36:11.83,0:36:14.58,Default,,0,0,0,,Lt doesn't speak well\Nfor police/FBl relations, Tanner.
+Dialogue: 0,0:36:14.67,0:36:18.25,Default,,0,0,0,,- L walk in the door and the guy's already...\N- All right, all right.
+Dialogue: 0,0:36:18.38,0:36:20.59,Default,,0,0,0,,We'll talk, okay? Let's talk about it.
+Dialogue: 0,0:36:20.67,0:36:23.93,Default,,0,0,0,,Muse, why don't you make us\Nfour iced cappuccinos, please?
+Dialogue: 0,0:36:24.05,0:36:26.39,Default,,0,0,0,,- Come on.\N- Regular or decaf, Sarge?
+Dialogue: 0,0:36:27.93,0:36:29.39,Default,,0,0,0,,Decaf, l think.
+Dialogue: 0,0:36:29.72,0:36:32.43,Default,,0,0,0,,BlLKlNS: Four hijackings in two months,\Nand we have nothing.
+Dialogue: 0,0:36:32.52,0:36:35.60,Default,,0,0,0,,The DVD players and digital cameras\Nare worth $1 .2 million
+Dialogue: 0,0:36:35.69,0:36:38.44,Default,,0,0,0,,which brings the grand total\Nto $6 million plus.
+Dialogue: 0,0:36:38.57,0:36:41.40,Default,,0,0,0,,We're in the political\Ncrosshairs now, Brian.
+Dialogue: 0,0:36:42.11,0:36:43.95,Default,,0,0,0,,That's why you're undercover.
+Dialogue: 0,0:36:44.07,0:36:48.03,Default,,0,0,0,,BlLKlNS: You want that detective badge\Nfast, kid. And you want to know something?
+Dialogue: 0,0:36:48.37,0:36:51.20,Default,,0,0,0,,The FBl can help,\Nif you come through for us.
+Dialogue: 0,0:36:52.25,0:36:54.21,Default,,0,0,0,,What does the truck driver say?
+Dialogue: 0,0:36:54.29,0:36:57.79,Default,,0,0,0,,He gave us the same M.O.:\NThree Honda Civics, precision driving,
+Dialogue: 0,0:36:57.92,0:37:00.88,Default,,0,0,0,,the same green neon glow\Nfrom under the chassis.
+Dialogue: 0,0:37:00.96,0:37:05.38,Default,,0,0,0,,Lab says the skidmarks came back\Nthe same: Mashamoto ZX tires.
+Dialogue: 0,0:37:05.47,0:37:08.22,Default,,0,0,0,,So, we know it's somebody\Nin the street-racing world.
+Dialogue: 0,0:37:08.30,0:37:12.72,Default,,0,0,0,,Lf we don't make this case, the truckers\Nwill take matters into their own hands.
+Dialogue: 0,0:37:12.81,0:37:14.56,Default,,0,0,0,,L tell them we're close.
+Dialogue: 0,0:37:15.77,0:37:17.65,Default,,0,0,0,,Are you going to make me a liar?
+Dialogue: 0,0:37:17.77,0:37:19.31,Default,,0,0,0,,Look, what do we know?
+Dialogue: 0,0:37:19.40,0:37:21.90,Default,,0,0,0,,We know this world\Nrevolves around Toretto, right?
+Dialogue: 0,0:37:21.98,0:37:25.07,Default,,0,0,0,,L'm not saying that he's the one\Nthat's popping these trucks,
+Dialogue: 0,0:37:25.15,0:37:29.49,Default,,0,0,0,,but l can guarantee he knows who is.\NLt's just a matter of time until l win...
+Dialogue: 0,0:37:29.58,0:37:33.50,Default,,0,0,0,,You want time, buy the magazine.\NWe don't have time.
+Dialogue: 0,0:37:35.33,0:37:37.42,Default,,0,0,0,,Just get me something l can use.
+Dialogue: 0,0:37:39.25,0:37:40.92,Default,,0,0,0,,Ls Harry cooperating?
+Dialogue: 0,0:37:41.00,0:37:44.59,Default,,0,0,0,,Like a guy that'll do time for receiving\Nstolen property if he doesn't.
+Dialogue: 0,0:37:44.67,0:37:46.76,Default,,0,0,0,,What kind of vibe\Nis he getting from Toretto?
+Dialogue: 0,0:37:46.84,0:37:50.01,Default,,0,0,0,,He's scared of him,\Nbut he doesn't think he's jacking trucks.
+Dialogue: 0,0:37:50.10,0:37:52.43,Default,,0,0,0,,- He's too controlled for that.\N- Wait.
+Dialogue: 0,0:37:52.52,0:37:55.68,Default,,0,0,0,,Not that l want to contradict\NHarry's fine judge of character,
+Dialogue: 0,0:37:55.77,0:37:59.27,Default,,0,0,0,,but Toretto did hard time\Nfor nearly beating a guy to death.
+Dialogue: 0,0:37:59.36,0:38:02.52,Default,,0,0,0,,He's got nitrous oxide in his blood\Nand a gas tank for a brain.
+Dialogue: 0,0:38:02.61,0:38:04.53,Default,,0,0,0,,Do not turn your back on him.
+Dialogue: 0,0:38:04.94,0:38:07.45,Default,,0,0,0,,Tanner, l'm gonna need another car.
+Dialogue: 0,0:38:12.03,0:38:14.45,Default,,0,0,0,,- What about parts and service?\N- Hold off on it.
+Dialogue: 0,0:38:14.54,0:38:16.87,Default,,0,0,0,,Dom, l don't know what to do with it.
+Dialogue: 0,0:38:19.96,0:38:23.80,Default,,0,0,0,,All right, what the hell is this?\NWhat do you got there?
+Dialogue: 0,0:38:25.55,0:38:27.97,Default,,0,0,0,,- This is your car.\N- My car?
+Dialogue: 0,0:38:28.55,0:38:31.55,Default,,0,0,0,,L said a 1 0-second car,\Nnot a 1 0-minute car.
+Dialogue: 0,0:38:31.64,0:38:35.47,Default,,0,0,0,,You could push this across the finish line,\Nor tow it.
+Dialogue: 0,0:38:36.73,0:38:39.69,Default,,0,0,0,,You couldn't even tow that\Nacross the finish line.
+Dialogue: 0,0:38:40.40,0:38:41.65,Default,,0,0,0,,No faith.
+Dialogue: 0,0:38:41.73,0:38:44.15,Default,,0,0,0,,L have faith in you, but\Nthis isn't a junkyard.
+Dialogue: 0,0:38:44.23,0:38:46.48,Default,,0,0,0,,- This is a garage.\N- Pop the hood.
+Dialogue: 0,0:38:46.74,0:38:49.20,Default,,0,0,0,,- Pop the hood?\N- Pop the hood.
+Dialogue: 0,0:38:51.16,0:38:54.83,Default,,0,0,0,,- 2JZ engine. No shit.\N- And what did l tell you?
+Dialogue: 0,0:38:54.91,0:38:57.66,Default,,0,0,0,,- L retract my previous statement.\N- You know what?
+Dialogue: 0,0:38:57.75,0:39:02.33,Default,,0,0,0,,This will decimate all\Nafter you put about $1 5,000 in it.
+Dialogue: 0,0:39:02.42,0:39:06.17,Default,,0,0,0,,Or more,\Nif we have to overnight parts from Japan.
+Dialogue: 0,0:39:06.59,0:39:09.34,Default,,0,0,0,,- We'll put it on my tab at Harry's.\N- Yes!
+Dialogue: 0,0:39:09.76,0:39:13.55,Default,,0,0,0,,L gotta get you racing again\Nso l can make some money off your ass.
+Dialogue: 0,0:39:14.10,0:39:16.77,Default,,0,0,0,,There's a showdown in the desert\Ncalled Race Wars.
+Dialogue: 0,0:39:16.89,0:39:19.18,Default,,0,0,0,,That's where you'll do it.
+Dialogue: 0,0:39:19.56,0:39:22.90,Default,,0,0,0,,When you're not working at Harry's,\Nyou're working here.
+Dialogue: 0,0:39:23.11,0:39:26.90,Default,,0,0,0,,Lf you can't find the right tool\Nin this garage, Mr. Arizona,
+Dialogue: 0,0:39:27.28,0:39:29.44,Default,,0,0,0,,you don't belong near a car.
+Dialogue: 0,0:39:33.07,0:39:34.45,Default,,0,0,0,,He owns you now.
+Dialogue: 0,0:40:00.06,0:40:03.56,Default,,0,0,0,,Tell me what you think about this.\NKoni adjustables.
+Dialogue: 0,0:40:04.40,0:40:06.61,Default,,0,0,0,,Gonna save us about 2 pounds.
+Dialogue: 0,0:40:06.82,0:40:10.15,Default,,0,0,0,,And they're gonna give us\Nbetter traction for the hole shot.
+Dialogue: 0,0:40:10.24,0:40:11.49,Default,,0,0,0,,All right?
+Dialogue: 0,0:40:12.32,0:40:14.41,Default,,0,0,0,,This is your basic layout of the car.
+Dialogue: 0,0:40:14.49,0:40:18.33,Default,,0,0,0,,And that's pretty much\Nwhat it could look like when it's finished.
+Dialogue: 0,0:40:19.08,0:40:20.45,Default,,0,0,0,,Red, green.
+Dialogue: 0,0:40:21.08,0:40:24.62,Default,,0,0,0,,- You should be going to MlT or something.\N- Yeah, right.
+Dialogue: 0,0:40:25.29,0:40:28.13,Default,,0,0,0,,No, l got that... What's it called?
+Dialogue: 0,0:40:29.17,0:40:31.34,Default,,0,0,0,,That attention disorder...
+Dialogue: 0,0:40:31.47,0:40:35.18,Default,,0,0,0,,- ADD?\N- Yes, that shit. Yeah.
+Dialogue: 0,0:40:36.30,0:40:40.18,Default,,0,0,0,,You know, l was good in algebra\Nand like math and shit.
+Dialogue: 0,0:40:41.02,0:40:44.81,Default,,0,0,0,,Everything else l failed.\NDropped out of school.
+Dialogue: 0,0:40:45.69,0:40:48.77,Default,,0,0,0,,L don't know.\NThere's just something about engines
+Dialogue: 0,0:40:48.86,0:40:52.03,Default,,0,0,0,,that calms me down, you know.
+Dialogue: 0,0:41:12.88,0:41:15.34,Default,,0,0,0,,- L'm outta here.\N- Come on, dog.
+Dialogue: 0,0:41:15.97,0:41:18.64,Default,,0,0,0,,- Yo, Dom.\N- Vince, get over here and give us a hand.
+Dialogue: 0,0:41:18.72,0:41:21.64,Default,,0,0,0,,Looks like you got\Nall the help you need, brother.
+Dialogue: 0,0:41:35.32,0:41:38.45,Default,,0,0,0,,- Mia! The chicken's dry.\N- MlA: All right. l'm coming out already.
+Dialogue: 0,0:41:43.79,0:41:45.29,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:41:47.21,0:41:48.63,Default,,0,0,0,,Wait, hold up.
+Dialogue: 0,0:41:49.13,0:41:54.09,Default,,0,0,0,,Because you were the first to reach in\Nto get the chicken, you say grace.
+Dialogue: 0,0:42:00.39,0:42:03.10,Default,,0,0,0,,- Dear heavenly...\N- Spirit.
+Dialogue: 0,0:42:04.77,0:42:06.43,Default,,0,0,0,,Spirit. Thank you.
+Dialogue: 0,0:42:06.98,0:42:13.07,Default,,0,0,0,,Thank you for providing us\Nwith a direct port nitrous injection,
+Dialogue: 0,0:42:13.15,0:42:16.99,Default,,0,0,0,,four core intercoolers\Nand ball-bearing turbos
+Dialogue: 0,0:42:17.15,0:42:20.32,Default,,0,0,0,,and titanium valve springs.
+Dialogue: 0,0:42:20.41,0:42:22.03,Default,,0,0,0,,- Thank you.\N- Amen.
+Dialogue: 0,0:42:23.16,0:42:25.12,Default,,0,0,0,,- Not bad.\N- Amen.
+Dialogue: 0,0:42:25.20,0:42:27.46,Default,,0,0,0,,He was praying to the car gods, man.
+Dialogue: 0,0:42:28.79,0:42:30.33,Default,,0,0,0,,He's not the best.
+Dialogue: 0,0:42:30.42,0:42:32.59,Default,,0,0,0,,- MlA: What do you want?\N- Practice.
+Dialogue: 0,0:42:32.67,0:42:34.00,Default,,0,0,0,,Thank you, girl.
+Dialogue: 0,0:42:34.09,0:42:37.67,Default,,0,0,0,,Look who it is. "Old Coyotes 'R' Us."
+Dialogue: 0,0:42:37.76,0:42:40.51,Default,,0,0,0,,l thought you weren't hungry,\Npumpkin.
+Dialogue: 0,0:42:40.68,0:42:43.64,Default,,0,0,0,,- You know, l gotta eat.\N- He's always hungry.
+Dialogue: 0,0:42:43.72,0:42:45.77,Default,,0,0,0,,All right, sit down.
+Dialogue: 0,0:42:53.15,0:42:55.07,Default,,0,0,0,,How you doing, Mia?
+Dialogue: 0,0:42:58.24,0:42:59.86,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:43:06.33,0:43:09.08,Default,,0,0,0,,- Jesse, hand me that chicken.\N- Let's eat some grub, man.
+Dialogue: 0,0:43:09.16,0:43:12.58,Default,,0,0,0,,- Want some of that chicken?\N- What, you rent a movie or something?
+Dialogue: 0,0:43:19.38,0:43:21.30,Default,,0,0,0,,Need a hand with anything else?
+Dialogue: 0,0:43:21.39,0:43:24.85,Default,,0,0,0,,No, l'm good. You can go join the boys\Nand watch the movie.
+Dialogue: 0,0:43:25.35,0:43:29.02,Default,,0,0,0,,- The cook doesn't clean where l come from.\N- L'd like to go there.
+Dialogue: 0,0:43:34.19,0:43:38.40,Default,,0,0,0,,- L think we should go out sometime.\N- No, l don't date my brother's friends.
+Dialogue: 0,0:43:39.11,0:43:40.61,Default,,0,0,0,,That sucks.
+Dialogue: 0,0:43:40.70,0:43:44.03,Default,,0,0,0,,- L'll have to kick his ass then.\N- L'd love to see that one.
+Dialogue: 0,0:43:44.12,0:43:47.41,Default,,0,0,0,,L would pay to see that one, actually.
+Dialogue: 0,0:44:01.34,0:44:03.05,Default,,0,0,0,,Wash my car when you get done.
+Dialogue: 0,0:44:03.14,0:44:06.80,Default,,0,0,0,,- What was that?\N- No, Mia. l'm talking to the punk.
+Dialogue: 0,0:44:07.64,0:44:10.10,Default,,0,0,0,,Wear your favorite dress,\N'cause when you're done,
+Dialogue: 0,0:44:10.18,0:44:13.48,Default,,0,0,0,,l'm putting you on the street\Nwhere you belong, cutie.
+Dialogue: 0,0:44:16.77,0:44:20.49,Default,,0,0,0,,Ls this thing broken?\NWhat's wrong with this thing?
+Dialogue: 0,0:44:21.74,0:44:25.74,Default,,0,0,0,,What was that Cuban restaurant\Nyou wanted to take me to?
+Dialogue: 0,0:44:25.91,0:44:27.91,Default,,0,0,0,,The one with the picadillo and...
+Dialogue: 0,0:44:27.99,0:44:31.79,Default,,0,0,0,,- With red candles, wooden tables...\N- The plantain, food all over the place.
+Dialogue: 0,0:44:31.87,0:44:33.75,Default,,0,0,0,,- What it's called?\N- Cha Cha Cha.
+Dialogue: 0,0:44:33.83,0:44:35.79,Default,,0,0,0,,- Yeah, that's it.\N- Yeah.
+Dialogue: 0,0:44:36.96,0:44:38.96,Default,,0,0,0,,Well, you can take me there.
+Dialogue: 0,0:44:39.09,0:44:41.71,Default,,0,0,0,,Friday night at 1 0:00.\NLs that good for you?
+Dialogue: 0,0:44:42.34,0:44:44.38,Default,,0,0,0,,- Yeah, it's perfect.\N- Good.
+Dialogue: 0,0:44:50.81,0:44:54.73,Default,,0,0,0,,- There's no popcorn.\N- Make your own goddamn popcorn!
+Dialogue: 0,0:45:08.74,0:45:11.33,Default,,0,0,0,,All right. Now that's valet parking.
+Dialogue: 0,0:45:15.25,0:45:17.54,Default,,0,0,0,,- Harry. What's up, dog?\N- Nice to see you.
+Dialogue: 0,0:45:17.63,0:45:19.46,Default,,0,0,0,,Excellent. Come on in, man.
+Dialogue: 0,0:45:19.55,0:45:22.67,Default,,0,0,0,,- Check it. lt's yours.\N- Damn. What do we got here?
+Dialogue: 0,0:45:23.80,0:45:26.30,Default,,0,0,0,,- Hired some new help?\N- Don't even think about it.
+Dialogue: 0,0:45:26.39,0:45:28.85,Default,,0,0,0,,- What's up?\N- What's up, Brian? How you feeling?
+Dialogue: 0,0:45:28.93,0:45:31.85,Default,,0,0,0,,- Pretty good. What do you need?\N- What's up, man?
+Dialogue: 0,0:45:31.93,0:45:35.48,Default,,0,0,0,,L need you to hook me up.\NThree of everything. l made a list.
+Dialogue: 0,0:45:37.10,0:45:39.06,Default,,0,0,0,,Why don't you look that over?
+Dialogue: 0,0:45:39.36,0:45:42.53,Default,,0,0,0,,- When do you need this stuff by?\N- Tomorrow, today, now.
+Dialogue: 0,0:45:42.94,0:45:45.19,Default,,0,0,0,,- Right.\N- White boys work fast, don't they?
+Dialogue: 0,0:45:48.45,0:45:49.78,Default,,0,0,0,,That's right.
+Dialogue: 0,0:45:52.66,0:45:56.16,Default,,0,0,0,,- BRlAN: You said you need three of each?\N- Yeah, three of everything.
+Dialogue: 0,0:45:56.96,0:45:59.63,Default,,0,0,0,,What do you think about that?\NCheck this out.
+Dialogue: 0,0:48:07.75,0:48:09.30,Default,,0,0,0,,He moans like a cop.
+Dialogue: 0,0:48:18.60,0:48:22.77,Default,,0,0,0,,Brian, this is one of those times\Nyou need to be clear about what you say.
+Dialogue: 0,0:48:23.52,0:48:25.52,Default,,0,0,0,,Nod if you understand me.
+Dialogue: 0,0:48:25.61,0:48:26.90,Default,,0,0,0,,Nod!
+Dialogue: 0,0:48:28.73,0:48:30.15,Default,,0,0,0,,Sit up.
+Dialogue: 0,0:48:36.41,0:48:39.08,Default,,0,0,0,,Tell me what the hell you're doing\Ndown here.
+Dialogue: 0,0:48:39.37,0:48:41.83,Default,,0,0,0,,Shit. What l'm doing?
+Dialogue: 0,0:48:44.42,0:48:45.79,Default,,0,0,0,,Dom.
+Dialogue: 0,0:48:48.05,0:48:50.76,Default,,0,0,0,,L owe you a 1 0-second car.
+Dialogue: 0,0:48:51.72,0:48:55.34,Default,,0,0,0,,And what this is about,\Nthis is about Race Wars.
+Dialogue: 0,0:48:58.51,0:49:02.39,Default,,0,0,0,,L just went in there,\Nand Hector is gonna be running
+Dialogue: 0,0:49:02.85,0:49:05.39,Default,,0,0,0,,three Honda Civics with Spoon engines.
+Dialogue: 0,0:49:05.52,0:49:08.36,Default,,0,0,0,,And on top of that, he\Njust came into Harry's
+Dialogue: 0,0:49:08.44,0:49:12.69,Default,,0,0,0,,and he ordered three T66 turbos, with NOS,
+Dialogue: 0,0:49:14.32,0:49:16.41,Default,,0,0,0,,and a MoTeC system exhaust.
+Dialogue: 0,0:49:19.91,0:49:21.62,Default,,0,0,0,,So, what are you saying?
+Dialogue: 0,0:49:22.83,0:49:27.38,Default,,0,0,0,,You're gonna check everybody's shit out,\None garage after another?
+Dialogue: 0,0:49:30.25,0:49:31.71,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:49:34.55,0:49:38.47,Default,,0,0,0,,Because, Dom, you know l can't lose again.
+Dialogue: 0,0:49:40.47,0:49:41.85,Default,,0,0,0,,He's a cop.
+Dialogue: 0,0:49:44.18,0:49:45.31,Default,,0,0,0,,He's a cop!
+Dialogue: 0,0:49:48.61,0:49:49.94,Default,,0,0,0,,You a cop?
+Dialogue: 0,0:49:56.45,0:49:58.28,Default,,0,0,0,,Let's go for a little ride.
+Dialogue: 0,0:50:01.28,0:50:02.66,Default,,0,0,0,,Walk!
+Dialogue: 0,0:50:22.06,0:50:23.76,Default,,0,0,0,,Okay. You stand watch.
+Dialogue: 0,0:50:54.50,0:50:56.17,Default,,0,0,0,,Yo, Dominic.
+Dialogue: 0,0:50:57.92,0:50:59.59,Default,,0,0,0,,There's no engines.
+Dialogue: 0,0:51:00.72,0:51:03.47,Default,,0,0,0,,What are they planning on racing with,\Nhopes and dreams?
+Dialogue: 0,0:51:03.56,0:51:05.97,Default,,0,0,0,,L don't know, but they're sneaky as shit
+Dialogue: 0,0:51:06.06,0:51:08.89,Default,,0,0,0,,and they've got enough money\Nto buy anything.
+Dialogue: 0,0:51:14.07,0:51:15.11,Default,,0,0,0,,What?
+Dialogue: 0,0:51:24.16,0:51:25.49,Default,,0,0,0,,We got a wolf pack.
+Dialogue: 0,0:51:25.99,0:51:29.66,Default,,0,0,0,,Lt's Johnny Tran,\Nand he's coming your way really fast.
+Dialogue: 0,0:51:29.96,0:51:32.58,Default,,0,0,0,,All right, we got company. Spilner.
+Dialogue: 0,0:51:58.74,0:52:01.03,Default,,0,0,0,,Come on. Move!
+Dialogue: 0,0:52:01.28,0:52:03.32,Default,,0,0,0,,Let me ask you a question, Ted.
+Dialogue: 0,0:52:04.83,0:52:08.04,Default,,0,0,0,,- Do you see anything wrong here?\N- No.
+Dialogue: 0,0:52:11.92,0:52:14.33,Default,,0,0,0,,- We got no engines, do we?\N- No.
+Dialogue: 0,0:52:14.42,0:52:15.71,Default,,0,0,0,,- Do we?\N- No.
+Dialogue: 0,0:52:18.80,0:52:21.38,Default,,0,0,0,,A couple of Nissan SR20 motors\Nwill pull a premium
+Dialogue: 0,0:52:21.47,0:52:24.51,Default,,0,0,0,,- one week before Race Wars, huh?\N- Yeah, probably.
+Dialogue: 0,0:52:24.89,0:52:27.89,Default,,0,0,0,,You're a smart fence, Ted. Maybe too smart.
+Dialogue: 0,0:52:29.39,0:52:31.31,Default,,0,0,0,,What are you feeling, Lance?
+Dialogue: 0,0:52:32.81,0:52:34.35,Default,,0,0,0,,40-weight?
+Dialogue: 0,0:52:34.86,0:52:36.69,Default,,0,0,0,,50-weight?
+Dialogue: 0,0:52:37.32,0:52:39.02,Default,,0,0,0,,A 40-weight sounds nice.
+Dialogue: 0,0:52:54.62,0:52:56.17,Default,,0,0,0,,Where are they, Ted?
+Dialogue: 0,0:52:56.33,0:52:58.17,Default,,0,0,0,,- Where are they?\N- Enough!
+Dialogue: 0,0:52:58.34,0:53:00.84,Default,,0,0,0,,- Where are they?\N- They're in a warehouse.
+Dialogue: 0,0:53:01.38,0:53:03.30,Default,,0,0,0,,They're in a warehouse, man!
+Dialogue: 0,0:53:19.57,0:53:20.86,Default,,0,0,0,,Ted.
+Dialogue: 0,0:53:20.94,0:53:22.61,Default,,0,0,0,,Kiss my shoes?
+Dialogue: 0,0:53:34.87,0:53:36.75,Default,,0,0,0,,Let's go get our engines.
+Dialogue: 0,0:53:37.63,0:53:40.42,Default,,0,0,0,,My superiors are flying in from D.C.,\Nin two days.
+Dialogue: 0,0:53:40.50,0:53:42.13,Default,,0,0,0,,L want something to show.
+Dialogue: 0,0:53:42.21,0:53:44.59,Default,,0,0,0,,We've got a fence\Nwith a lube hose in his mouth,
+Dialogue: 0,0:53:44.67,0:53:48.43,Default,,0,0,0,,automatic weapons,\Npriors on every one of these Asian punks,
+Dialogue: 0,0:53:48.51,0:53:51.85,Default,,0,0,0,,a garage full of DVD players\Nand generally psychotic behavior.
+Dialogue: 0,0:53:51.93,0:53:55.31,Default,,0,0,0,,Tell me why we shouldn't move\Non Tran now and figure it out later?
+Dialogue: 0,0:53:55.39,0:53:57.14,Default,,0,0,0,,Because all we have is behavior.
+Dialogue: 0,0:53:57.23,0:54:00.31,Default,,0,0,0,,Let me get hard evidence,\Nbecause what we have now is just...
+Dialogue: 0,0:54:00.40,0:54:02.40,Default,,0,0,0,,BlLKlNS: What we have is probable cause.
+Dialogue: 0,0:54:02.48,0:54:06.36,Default,,0,0,0,,And truckers arming themselves for some\Ngood old-fashioned vigilante mayhem.
+Dialogue: 0,0:54:06.49,0:54:10.53,Default,,0,0,0,,- Tell us about Hector, Brian.\N- Latinos with spear guns. Give me a break.
+Dialogue: 0,0:54:10.83,0:54:14.37,Default,,0,0,0,,Hector's still working on the engines,\Nbut the tires don't match.
+Dialogue: 0,0:54:14.50,0:54:16.25,Default,,0,0,0,,Will somebody give me a cigarette?
+Dialogue: 0,0:54:16.33,0:54:18.50,Default,,0,0,0,,- Get him a cigarette.\N- Don't give him one.
+Dialogue: 0,0:54:18.71,0:54:21.17,Default,,0,0,0,,- L thought you quit.\N- L did. Just give me one.
+Dialogue: 0,0:54:21.25,0:54:23.00,Default,,0,0,0,,- Get him a cigarette.\N- No!
+Dialogue: 0,0:54:25.34,0:54:26.92,Default,,0,0,0,,Tell me about Toretto.
+Dialogue: 0,0:54:27.18,0:54:29.97,Default,,0,0,0,,L told you,\Nl think he's too controlled for this.
+Dialogue: 0,0:54:30.05,0:54:34.68,Default,,0,0,0,,Going suicidal on semi-trucks? No way.\NMaybe Vince. But he's too dumb to do it.
+Dialogue: 0,0:54:35.06,0:54:38.73,Default,,0,0,0,,- L think the kid sister's blurring your vision.\N- What did you say?
+Dialogue: 0,0:54:38.85,0:54:42.40,Default,,0,0,0,,L don't blame you. l'd get off\Non her surveillance photos, too.
+Dialogue: 0,0:54:45.19,0:54:46.44,Default,,0,0,0,,Knock it off!
+Dialogue: 0,0:54:47.61,0:54:50.20,Default,,0,0,0,,What? Are you going native on me, Brian?
+Dialogue: 0,0:54:54.87,0:54:57.08,Default,,0,0,0,,Have you read Toretto's file lately?
+Dialogue: 0,0:54:57.37,0:54:59.67,Default,,0,0,0,,- Yeah. l memorized that file.\N- Read it again.
+Dialogue: 0,0:54:59.75,0:55:02.21,Default,,0,0,0,,No, better still, take a look at these.
+Dialogue: 0,0:55:03.96,0:55:07.38,Default,,0,0,0,,Remember l told you about the guy\Nhe nearly beat to death?
+Dialogue: 0,0:55:07.76,0:55:11.05,Default,,0,0,0,,Toretto did this\Nwith a three-quarter-inch torque wrench.
+Dialogue: 0,0:55:11.55,0:55:13.55,Default,,0,0,0,,He's a model of self-control.
+Dialogue: 0,0:55:16.43,0:55:22.77,Default,,0,0,0,,L need a few more days.
+Dialogue: 0,0:55:25.07,0:55:27.65,Default,,0,0,0,,Got a TR7 here,\Nwith a ball-bearing upgrade.
+Dialogue: 0,0:55:27.99,0:55:31.91,Default,,0,0,0,,What it's going to do is,\Nit's going to spool up really quick.
+Dialogue: 0,0:55:32.07,0:55:34.58,Default,,0,0,0,,- L got this set up for 24 psi.\N- Got it.
+Dialogue: 0,0:55:38.08,0:55:39.83,Default,,0,0,0,,You got big plans tonight?
+Dialogue: 0,0:55:41.96,0:55:44.13,Default,,0,0,0,,Yeah. We're going out to dinner.
+Dialogue: 0,0:55:45.75,0:55:48.30,Default,,0,0,0,,You break her heart, l'll break your neck.
+Dialogue: 0,0:55:48.92,0:55:50.42,Default,,0,0,0,,That's not gonna happen.
+Dialogue: 0,0:55:55.60,0:55:57.43,Default,,0,0,0,,L want to show you something.
+Dialogue: 0,0:56:07.53,0:56:08.61,Default,,0,0,0,,Wow!
+Dialogue: 0,0:56:11.70,0:56:13.45,Default,,0,0,0,,Me and my dad built her.
+Dialogue: 0,0:56:14.28,0:56:16.66,Default,,0,0,0,,Nine hundred horses of Detroit muscle.
+Dialogue: 0,0:56:17.95,0:56:19.20,Default,,0,0,0,,Lt's a beast.
+Dialogue: 0,0:56:19.79,0:56:22.66,Default,,0,0,0,,- You know what she ran in Palmdale?\N- No. What?
+Dialogue: 0,0:56:22.83,0:56:24.29,Default,,0,0,0,,Nine seconds flat.
+Dialogue: 0,0:56:25.79,0:56:27.96,Default,,0,0,0,,- God.\N- My dad was driving.
+Dialogue: 0,0:56:28.46,0:56:32.67,Default,,0,0,0,,So much torque,\Nthe chassis twisted coming off the line.
+Dialogue: 0,0:56:33.80,0:56:35.72,Default,,0,0,0,,Barely kept her on the track.
+Dialogue: 0,0:56:36.47,0:56:39.39,Default,,0,0,0,,- So, what's your best time?\N- L've never driven her.
+Dialogue: 0,0:56:39.47,0:56:40.56,Default,,0,0,0,,Why not?
+Dialogue: 0,0:56:43.31,0:56:45.31,Default,,0,0,0,,Lt scares the shit out of me.
+Dialogue: 0,0:56:47.69,0:56:48.98,Default,,0,0,0,,That's my dad.
+Dialogue: 0,0:56:50.49,0:56:53.15,Default,,0,0,0,,He was coming up\Nin the pro stock-car circuit.
+Dialogue: 0,0:56:53.57,0:56:55.32,Default,,0,0,0,,Last race of the season.
+Dialogue: 0,0:56:56.41,0:57:00.66,Default,,0,0,0,,A guy named Kenny Linder\Ncame up from inside, in the final turn.
+Dialogue: 0,0:57:01.50,0:57:05.00,Default,,0,0,0,,He clipped his bumper\Nand put him into the wall at 1 20.
+Dialogue: 0,0:57:08.17,0:57:10.50,Default,,0,0,0,,L watched my dad burn to death.
+Dialogue: 0,0:57:13.05,0:57:15.18,Default,,0,0,0,,L remembered hearing him scream.
+Dialogue: 0,0:57:18.35,0:57:22.85,Default,,0,0,0,,But the people that were there\Nsaid he had died before the tanks blew.
+Dialogue: 0,0:57:29.23,0:57:31.65,Default,,0,0,0,,They said it was me who was screaming.
+Dialogue: 0,0:57:35.20,0:57:37.57,Default,,0,0,0,,L saw Linder about a week later.
+Dialogue: 0,0:57:38.99,0:57:42.37,Default,,0,0,0,,L had a wrench, and l hit him.
+Dialogue: 0,0:57:42.70,0:57:47.42,Default,,0,0,0,,And l didn't intend to keep hitting him, but\Nwhen l finished, l couldn't lift my arm.
+Dialogue: 0,0:57:52.84,0:57:55.09,Default,,0,0,0,,He's a janitor at a high school.
+Dialogue: 0,0:57:56.22,0:57:58.76,Default,,0,0,0,,He has to take the bus to work every day.
+Dialogue: 0,0:58:00.01,0:58:02.72,Default,,0,0,0,,And they banned me from\Nthe tracks for life.
+Dialogue: 0,0:58:08.35,0:58:10.86,Default,,0,0,0,,L live my life a quarter mile at a time.
+Dialogue: 0,0:58:12.69,0:58:15.44,Default,,0,0,0,,Nothing else matters.\NNot the mortgage, not the store,
+Dialogue: 0,0:58:15.57,0:58:18.07,Default,,0,0,0,,not my team and all their bullshit.
+Dialogue: 0,0:58:19.74,0:58:22.12,Default,,0,0,0,,For those 1 0 seconds or less,
+Dialogue: 0,0:58:23.62,0:58:25.29,Default,,0,0,0,,l'm free.
+Dialogue: 0,0:58:45.77,0:58:49.06,Default,,0,0,0,,BRlAN: So, how is it, anyways,\Nthat the gang came to be?
+Dialogue: 0,0:58:49.27,0:58:50.40,Default,,0,0,0,,MlA: What?\NBRlAN: The gang.
+Dialogue: 0,0:58:50.48,0:58:52.90,Default,,0,0,0,,MlA: The gang?\NNo, they don't call themselves a gang.
+Dialogue: 0,0:58:52.98,0:58:55.32,Default,,0,0,0,,BRlAN: What do they call themselves?\NMlA: They're a team.
+Dialogue: 0,0:58:55.44,0:58:59.45,Default,,0,0,0,,- They call themselves a team.\N- All right. How did the team come to be?
+Dialogue: 0,0:58:59.91,0:59:02.16,Default,,0,0,0,,Well, that's a whole lot of history.
+Dialogue: 0,0:59:03.62,0:59:07.29,Default,,0,0,0,,- L've got time.\N- Okay. Vince grew up with my brother.
+Dialogue: 0,0:59:08.29,0:59:11.38,Default,,0,0,0,,Actually, he didn't ever actually grow up,\Nas you can tell.
+Dialogue: 0,0:59:11.46,0:59:13.46,Default,,0,0,0,,But they were friends as kids.
+Dialogue: 0,0:59:13.67,0:59:16.30,Default,,0,0,0,,And Letty, she just lived down the street.
+Dialogue: 0,0:59:16.46,0:59:19.68,Default,,0,0,0,,Always into cars, though.\NEver since she was, like, 1 0 years old.
+Dialogue: 0,0:59:19.80,0:59:23.35,Default,,0,0,0,,So, naturally, you know,\Nmy brother always had her attention.
+Dialogue: 0,0:59:24.01,0:59:27.68,Default,,0,0,0,,- And then she turned 1 6...\N- And then she had Dom's attention.
+Dialogue: 0,0:59:27.98,0:59:30.94,Default,,0,0,0,,Yeah. lt's funny how that works, isn't it?
+Dialogue: 0,0:59:31.65,0:59:32.94,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:59:36.19,0:59:38.69,Default,,0,0,0,,How does Jesse fit into the whole thing?
+Dialogue: 0,0:59:38.82,0:59:43.82,Default,,0,0,0,,Jesse. Well, Jesse and Leon just sort of\Nshowed up one night and never, ever left.
+Dialogue: 0,0:59:44.66,0:59:47.95,Default,,0,0,0,,Lt's just the way my brother is, you know.\NDom's like...
+Dialogue: 0,0:59:49.50,0:59:51.46,Default,,0,0,0,,He's like gravity.
+Dialogue: 0,0:59:52.54,0:59:54.79,Default,,0,0,0,,Everything just gets pulled to him.
+Dialogue: 0,0:59:56.38,0:59:57.80,Default,,0,0,0,,Even you.
+Dialogue: 0,1:00:00.01,1:00:02.84,Default,,0,0,0,,No.
+Dialogue: 0,1:00:03.34,1:00:06.14,Default,,0,0,0,,The only thing that pulled me in was you.
+Dialogue: 0,1:00:06.22,1:00:09.10,Default,,0,0,0,,Being friends with your brother\Nis just a bonus.
+Dialogue: 0,1:00:11.85,1:00:13.35,Default,,0,0,0,,That's good.
+Dialogue: 0,1:00:15.19,1:00:18.78,Default,,0,0,0,,That's good. lt's nice to come first\Nevery once in a while.
+Dialogue: 0,1:00:22.36,1:00:24.03,Default,,0,0,0,,Want to go for a drive?
+Dialogue: 0,1:01:02.15,1:01:04.40,Default,,0,0,0,,- Yeah?\N- The hijackers have hit again.
+Dialogue: 0,1:01:04.49,1:01:09.41,Default,,0,0,0,,Bilkins has decided that we're gonna move\Non Johnny Tran and his guys at 17:00.
+Dialogue: 0,1:01:09.66,1:01:11.50,Default,,0,0,0,,Unless you say otherwise.
+Dialogue: 0,1:01:11.58,1:01:13.50,Default,,0,0,0,,Lf you agree, just say yes.
+Dialogue: 0,1:01:14.08,1:01:16.08,Default,,0,0,0,,- Yeah.\N- Who is that?
+Dialogue: 0,1:01:18.38,1:01:20.09,Default,,0,0,0,,Lt's just a wrong number.
+Dialogue: 0,1:04:12.34,1:04:14.51,Default,,0,0,0,,BlLKlNS: Yes, sir. Yeah, l know, but...
+Dialogue: 0,1:04:14.72,1:04:17.39,Default,,0,0,0,,Yeah. Yes, sir.
+Dialogue: 0,1:04:17.60,1:04:19.02,Default,,0,0,0,,Yeah. l got it.
+Dialogue: 0,1:04:23.40,1:04:25.44,Default,,0,0,0,,The DVD players were purchased legally.
+Dialogue: 0,1:04:25.52,1:04:28.78,Default,,0,0,0,,All we've got are a couple\Nof low-rent weapons charges
+Dialogue: 0,1:04:28.86,1:04:31.11,Default,,0,0,0,,and some outstanding speeding tickets.
+Dialogue: 0,1:04:31.24,1:04:32.90,Default,,0,0,0,,- So, they're out.\N- Yeah.
+Dialogue: 0,1:04:33.11,1:04:34.70,Default,,0,0,0,,Father bailed them out.
+Dialogue: 0,1:04:35.78,1:04:39.58,Default,,0,0,0,,Ls this the kind of intelligence\Nl can expect from you, O'Conner?
+Dialogue: 0,1:04:44.42,1:04:47.54,Default,,0,0,0,,- You're gonna put this on me?\N- L can put it on whoever l want to.
+Dialogue: 0,1:04:47.63,1:04:50.38,Default,,0,0,0,,- Perks of the job.\N- No, you can't put this on me...
+Dialogue: 0,1:04:50.46,1:04:52.30,Default,,0,0,0,,No, wait a minute. Let me tell you.
+Dialogue: 0,1:04:52.43,1:04:56.64,Default,,0,0,0,,L don't care if you have to aim at someone\Nand blow your cover to smithereens.
+Dialogue: 0,1:04:56.72,1:04:59.22,Default,,0,0,0,,You've got 36 hours to crack this bastard
+Dialogue: 0,1:04:59.31,1:05:02.43,Default,,0,0,0,,or you might want to think\Nabout another career.
+Dialogue: 0,1:05:13.49,1:05:16.91,Default,,0,0,0,,Lt's Toretto, Brian.\NLt always has been Toretto.
+Dialogue: 0,1:05:18.28,1:05:20.16,Default,,0,0,0,,Tran and Hector are...
+Dialogue: 0,1:05:20.58,1:05:22.33,Default,,0,0,0,,They're just fumes.
+Dialogue: 0,1:05:25.63,1:05:28.34,Default,,0,0,0,,L know you've been lying to me.\NMy question is this:
+Dialogue: 0,1:05:28.42,1:05:32.09,Default,,0,0,0,,Have you been lying to yourself\Nbecause you can't see past Mia?
+Dialogue: 0,1:05:34.68,1:05:36.68,Default,,0,0,0,,He won't go back to prison.
+Dialogue: 0,1:05:37.68,1:05:40.51,Default,,0,0,0,,Well, that's a choice\Nhe's going to have to make.
+Dialogue: 0,1:05:44.64,1:05:47.02,Default,,0,0,0,,There's all kinds of family, Brian.
+Dialogue: 0,1:05:48.48,1:05:51.27,Default,,0,0,0,,And that's a choice\Nyou're gonna have to make.
+Dialogue: 0,1:06:09.29,1:06:11.29,Default,,0,0,0,,You ready for this?
+Dialogue: 0,1:06:37.70,1:06:40.53,Default,,0,0,0,,Nice car. What's the\Nretail on one of those?
+Dialogue: 0,1:06:41.16,1:06:43.74,Default,,0,0,0,,More than you can afford, pal. Ferrari.
+Dialogue: 0,1:06:49.92,1:06:51.42,Default,,0,0,0,,Smoke him.
+Dialogue: 0,1:07:46.35,1:07:48.14,Default,,0,0,0,,So, what's wrong, Brian?
+Dialogue: 0,1:07:49.10,1:07:50.81,Default,,0,0,0,,Nothing, man, l'm fine.
+Dialogue: 0,1:07:51.27,1:07:54.52,Default,,0,0,0,,Come on. Obviously something's off.
+Dialogue: 0,1:07:55.07,1:07:58.78,Default,,0,0,0,,Look, l have my good days and bad days\Njust like anybody else.
+Dialogue: 0,1:07:59.45,1:08:03.03,Default,,0,0,0,,Brian, don't lose that cool of yours.\NThat's your meal ticket.
+Dialogue: 0,1:08:04.99,1:08:07.83,Default,,0,0,0,,My meal ticket?\NL can't pay for my own shrimp?
+Dialogue: 0,1:08:08.00,1:08:09.45,Default,,0,0,0,,L got the shrimp.
+Dialogue: 0,1:08:09.87,1:08:12.46,Default,,0,0,0,,No, that's one thing about me\Nyou don't understand.
+Dialogue: 0,1:08:12.54,1:08:16.21,Default,,0,0,0,,L don't take handouts.\NL earn my way, every step.
+Dialogue: 0,1:08:17.13,1:08:19.51,Default,,0,0,0,,L need something extra\Non the side, like you.
+Dialogue: 0,1:08:19.59,1:08:21.55,Default,,0,0,0,,What do you mean, like me?
+Dialogue: 0,1:08:21.84,1:08:24.72,Default,,0,0,0,,- What's that supposed to mean?\N- That's what l mean.
+Dialogue: 0,1:08:24.80,1:08:27.51,Default,,0,0,0,,- What does that mean, like me?\N- Don't try...
+Dialogue: 0,1:08:27.81,1:08:29.72,Default,,0,0,0,,l'm not stupid, all right?
+Dialogue: 0,1:08:30.10,1:08:34.19,Default,,0,0,0,,L know that there's no way you paid\Nfor all that shit you got under the hood...
+Dialogue: 0,1:08:34.27,1:08:37.65,Default,,0,0,0,,There's no way you paid for\Nwhat's under the hood of those cars
+Dialogue: 0,1:08:37.73,1:08:40.49,Default,,0,0,0,,by doing tune-ups and selling groceries.
+Dialogue: 0,1:08:41.32,1:08:44.32,Default,,0,0,0,,Whatever it is you're in on,\Nl want in on it, too.
+Dialogue: 0,1:09:07.18,1:09:09.26,Default,,0,0,0,,- Well, what is this?\N- Read it.
+Dialogue: 0,1:09:10.06,1:09:12.35,Default,,0,0,0,,- What is this for?\N- Lt's directions.
+Dialogue: 0,1:09:14.35,1:09:16.06,Default,,0,0,0,,To Race Wars.
+Dialogue: 0,1:09:16.56,1:09:18.36,Default,,0,0,0,,We'll see how you go.
+Dialogue: 0,1:09:19.36,1:09:20.98,Default,,0,0,0,,Then we'll talk.
+Dialogue: 0,1:10:07.28,1:10:08.91,Default,,0,0,0,,- BRlAN: How's it going?\N- What's up?
+Dialogue: 0,1:10:08.99,1:10:11.66,Default,,0,0,0,,- Welcome to Race Wars.\N- Great. Thanks a lot.
+Dialogue: 0,1:10:35.06,1:10:36.77,Default,,0,0,0,,Baby. Hey, baby.
+Dialogue: 0,1:10:37.94,1:10:39.77,Default,,0,0,0,,You should watch from the side.
+Dialogue: 0,1:10:39.86,1:10:42.32,Default,,0,0,0,,L wouldn't want to get exhaust\Non that pretty face.
+Dialogue: 0,1:10:42.40,1:10:46.49,Default,,0,0,0,,- Put your money where your mouth is.\N- L'll race you for that sweet little ass.
+Dialogue: 0,1:10:46.57,1:10:49.03,Default,,0,0,0,,You want ass,\Nwhy don't you hit Hollywood Boulevard?
+Dialogue: 0,1:10:49.11,1:10:52.20,Default,,0,0,0,,You want an adrenaline rush,\Nit'll be two large.
+Dialogue: 0,1:10:52.28,1:10:55.29,Default,,0,0,0,,Right here. Right now. What's it gonna be?
+Dialogue: 0,1:10:57.96,1:10:59.37,Default,,0,0,0,,You got it.
+Dialogue: 0,1:11:19.40,1:11:21.44,Default,,0,0,0,,"Another one bites the dust"
+Dialogue: 0,1:11:24.73,1:11:26.65,Default,,0,0,0,,Come on. What you got?
+Dialogue: 0,1:11:27.36,1:11:28.82,Default,,0,0,0,,See ya.
+Dialogue: 0,1:12:04.82,1:12:07.78,Default,,0,0,0,,- What's up?\N- Hey, what's up, Jesse?
+Dialogue: 0,1:12:08.24,1:12:09.53,Default,,0,0,0,,What's in your hand?
+Dialogue: 0,1:12:09.61,1:12:11.99,Default,,0,0,0,,Throwing down the pink slip, just like you.
+Dialogue: 0,1:12:12.07,1:12:14.70,Default,,0,0,0,,- The pink slip to what? The Jetta?\N- Yeah.
+Dialogue: 0,1:12:15.12,1:12:17.66,Default,,0,0,0,,- You can't bet your dad's car.\N- Lt's all right.
+Dialogue: 0,1:12:17.75,1:12:19.04,Default,,0,0,0,,L ain't losing.
+Dialogue: 0,1:12:19.12,1:12:22.62,Default,,0,0,0,,This fool is running a Honda 2000.\NL'll win.
+Dialogue: 0,1:12:22.79,1:12:27.34,Default,,0,0,0,,That way, me and my dad can roll\Nwhen he gets out of prison. lt's all good.
+Dialogue: 0,1:12:27.42,1:12:31.05,Default,,0,0,0,,They're gonna throw him right back\Nin prison after he kills you.
+Dialogue: 0,1:12:38.68,1:12:40.64,Default,,0,0,0,,VlNCE: You visualize the win.
+Dialogue: 0,1:12:40.73,1:12:44.40,Default,,0,0,0,,Visualize the win, Jesse. l'm serious.\NYou got to listen to me, man.
+Dialogue: 0,1:12:44.48,1:12:46.02,Default,,0,0,0,,Who are you racing?
+Dialogue: 0,1:12:50.40,1:12:52.61,Default,,0,0,0,,Jesse, don't do it.
+Dialogue: 0,1:12:52.74,1:12:56.41,Default,,0,0,0,,L bet you he's got more than $1 00,000\Nunder the hood of that car.
+Dialogue: 0,1:13:19.56,1:13:21.14,Default,,0,0,0,,Too soon, junior.
+Dialogue: 0,1:13:24.77,1:13:25.81,Default,,0,0,0,,No!
+Dialogue: 0,1:13:28.77,1:13:29.98,Default,,0,0,0,,Shit!
+Dialogue: 0,1:13:30.61,1:13:31.78,Default,,0,0,0,,Oh, God!
+Dialogue: 0,1:13:42.20,1:13:44.87,Default,,0,0,0,,Yo! Heads up, bro. We got problems.
+Dialogue: 0,1:13:44.96,1:13:46.71,Default,,0,0,0,,- What?\N- Jesse.
+Dialogue: 0,1:13:48.21,1:13:50.25,Default,,0,0,0,,Where's Jesse going?
+Dialogue: 0,1:13:50.42,1:13:53.92,Default,,0,0,0,,- He just raced Tran for slips.\N- Oh, shit.
+Dialogue: 0,1:14:05.60,1:14:08.73,Default,,0,0,0,,- Where's he going?\N- He went to the car wash.
+Dialogue: 0,1:14:08.94,1:14:10.90,Default,,0,0,0,,Whatever. Go fetch my car.
+Dialogue: 0,1:14:11.48,1:14:13.11,Default,,0,0,0,,Go fetch your car?
+Dialogue: 0,1:14:14.07,1:14:15.74,Default,,0,0,0,,We're not on your block.
+Dialogue: 0,1:14:15.82,1:14:18.45,Default,,0,0,0,,You better watch who you talk to like that.
+Dialogue: 0,1:14:18.99,1:14:20.12,Default,,0,0,0,,Toretto!
+Dialogue: 0,1:14:23.41,1:14:25.29,Default,,0,0,0,,SWAT came into my house,
+Dialogue: 0,1:14:26.25,1:14:30.50,Default,,0,0,0,,disrespected my whole family,\Nbecause somebody narked me out.
+Dialogue: 0,1:14:31.21,1:14:33.67,Default,,0,0,0,,And you know what? lt was you!
+Dialogue: 0,1:14:58.03,1:15:00.07,Default,,0,0,0,,VlNCE: Get off of him, man.
+Dialogue: 0,1:15:09.42,1:15:11.21,Default,,0,0,0,,Dom, chill out, man. Come on!
+Dialogue: 0,1:15:11.29,1:15:13.09,Default,,0,0,0,,L never narked on nobody!
+Dialogue: 0,1:15:13.21,1:15:15.71,Default,,0,0,0,,L never narked on nobody!
+Dialogue: 0,1:15:50.54,1:15:55.80,Default,,0,0,0,,Mia.
+Dialogue: 0,1:16:00.55,1:16:02.93,Default,,0,0,0,,MlA: l have respected you\Nand l haven't said shit.
+Dialogue: 0,1:16:03.01,1:16:04.76,Default,,0,0,0,,Now l am asking you not to go.
+Dialogue: 0,1:16:04.85,1:16:07.72,Default,,0,0,0,,L'm doing this for both of us.\NMlA: Don't give me that crap.
+Dialogue: 0,1:16:07.81,1:16:09.27,Default,,0,0,0,,You're doing this for you.
+Dialogue: 0,1:16:09.35,1:16:13.48,Default,,0,0,0,,Why are you insisting on doing this?\NDom, please, just don't.
+Dialogue: 0,1:16:25.45,1:16:27.95,Default,,0,0,0,,- BRlAN: Mia, what's going on?\N- What?
+Dialogue: 0,1:16:28.04,1:16:30.54,Default,,0,0,0,,- You know what l'm talking about.\N- No, l don't.
+Dialogue: 0,1:16:30.62,1:16:33.87,Default,,0,0,0,,You always have tears in your eyes\Nwhen Dom drives away?
+Dialogue: 0,1:16:34.00,1:16:35.54,Default,,0,0,0,,What's the matter with you?
+Dialogue: 0,1:16:35.63,1:16:38.21,Default,,0,0,0,,What's he racing off\Nin the middle of the night for?
+Dialogue: 0,1:16:38.30,1:16:41.47,Default,,0,0,0,,- You know about the trucks?\N- No, Brian! What trucks?
+Dialogue: 0,1:16:41.55,1:16:45.43,Default,,0,0,0,,- Jesus Christ. What?\N- Listen to me.
+Dialogue: 0,1:16:46.68,1:16:48.14,Default,,0,0,0,,Mia, l'm a cop.
+Dialogue: 0,1:16:49.68,1:16:52.35,Default,,0,0,0,,What are you talking about, Brian?\NWhat is this?
+Dialogue: 0,1:16:52.44,1:16:55.90,Default,,0,0,0,,Ever since the first time l met you,\Nl've been undercover.
+Dialogue: 0,1:16:57.15,1:16:58.36,Default,,0,0,0,,L'm a cop.
+Dialogue: 0,1:17:03.41,1:17:05.03,Default,,0,0,0,,Oh, you bastard.
+Dialogue: 0,1:17:07.87,1:17:09.16,Default,,0,0,0,,You bastard.
+Dialogue: 0,1:17:11.54,1:17:13.37,Default,,0,0,0,,- Mia.\N- Get off of me, Brian!
+Dialogue: 0,1:17:13.46,1:17:15.21,Default,,0,0,0,,Mia! Listen to me!
+Dialogue: 0,1:17:16.46,1:17:19.05,Default,,0,0,0,,Everything l ever said\Nl felt about you was real.
+Dialogue: 0,1:17:19.13,1:17:21.76,Default,,0,0,0,,L swear to God. You have\Nto believe me, Mia.
+Dialogue: 0,1:17:21.84,1:17:25.47,Default,,0,0,0,,But this isn't about you and me.\NYour brother's out there to pull a job.
+Dialogue: 0,1:17:25.55,1:17:29.01,Default,,0,0,0,,We're running out of time. Those truckers\Naren't laying down anymore.
+Dialogue: 0,1:17:29.10,1:17:32.85,Default,,0,0,0,,Maybe they'll make it through tonight,\Nbut every law enforcement agency
+Dialogue: 0,1:17:32.93,1:17:34.64,Default,,0,0,0,,is coming down on them.
+Dialogue: 0,1:17:34.73,1:17:37.65,Default,,0,0,0,,Lf you don't want anything to happen\Nto them,
+Dialogue: 0,1:17:37.73,1:17:40.82,Default,,0,0,0,,you have to get in that car\Nwith me right now and help me.
+Dialogue: 0,1:17:42.36,1:17:45.70,Default,,0,0,0,,Mia, you are the only person\Nthat can help me right now.
+Dialogue: 0,1:17:46.49,1:17:49.83,Default,,0,0,0,,Please, Mia. Please help me.
+Dialogue: 0,1:18:01.76,1:18:04.59,Default,,0,0,0,,Civics are stashed somewhere\Noutside of Thermal.
+Dialogue: 0,1:18:04.68,1:18:07.97,Default,,0,0,0,,They wouldn't double back,\Nand Highway 1 0 is too well patrolled.
+Dialogue: 0,1:18:08.05,1:18:11.01,Default,,0,0,0,,- So, what does that leave us with?\N- All this.
+Dialogue: 0,1:18:19.94,1:18:22.82,Default,,0,0,0,,- Nextel.\N- This is Officer Brian O'Conner.
+Dialogue: 0,1:18:22.98,1:18:27.36,Default,,0,0,0,,Serial number 34762.\NL need a cell phone trace.
+Dialogue: 0,1:18:27.57,1:18:30.62,Default,,0,0,0,,- Okay. What's the cell number?\N- Mia, what is it?
+Dialogue: 0,1:18:32.74,1:18:35.91,Default,,0,0,0,,Come on, Mia.\NShe needs Dom's cell phone number now.
+Dialogue: 0,1:18:39.25,1:18:43.96,Default,,0,0,0,,323-555-6439.
+Dialogue: 0,1:18:45.05,1:18:47.63,Default,,0,0,0,,Thank you. Yeah, you get that?
+Dialogue: 0,1:19:13.83,1:19:17.66,Default,,0,0,0,,All right, we're one man short.\NLetty, l need you on the left side.
+Dialogue: 0,1:19:19.96,1:19:23.29,Default,,0,0,0,,Your sister's right about this one.\NThis don't feel good.
+Dialogue: 0,1:19:23.42,1:19:27.55,Default,,0,0,0,,- Don't do that.\N- Something's wrong.
+Dialogue: 0,1:19:27.63,1:19:30.47,Default,,0,0,0,,- Stop.\N- We shouldn't be doing this without Jesse.
+Dialogue: 0,1:19:31.60,1:19:34.56,Default,,0,0,0,,This is the mother lode.\NWe've been on this for three months.
+Dialogue: 0,1:19:34.64,1:19:37.14,Default,,0,0,0,,After this, it's a long\Nvacation for everyone.
+Dialogue: 0,1:19:37.23,1:19:39.19,Default,,0,0,0,,- Let's go.\N- L hope so.
+Dialogue: 0,1:19:42.73,1:19:45.82,Default,,0,0,0,,Listen, the other night l had a dream
+Dialogue: 0,1:19:46.32,1:19:49.03,Default,,0,0,0,,that you and l were on the beach in Mexico.
+Dialogue: 0,1:19:49.40,1:19:51.45,Default,,0,0,0,,- Really?\N- Really.
+Dialogue: 0,1:19:54.62,1:19:56.79,Default,,0,0,0,,Come on. Let's make this happen.
+Dialogue: 0,1:19:59.87,1:20:04.38,Default,,0,0,0,,- Leon, keep on those scanners.\N- Copy that.
+Dialogue: 0,1:20:07.92,1:20:09.97,Default,,0,0,0,,All right, let's go.
+Dialogue: 0,1:20:19.48,1:20:20.48,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:20:20.56,1:20:23.65,Default,,0,0,0,,Okay, we traced the number\Nto the northbound 86.
+Dialogue: 0,1:20:23.73,1:20:28.23,Default,,0,0,0,,Mile 1 14, outside Coachella.\NWe'll keep the trace open, Officer.
+Dialogue: 0,1:20:28.57,1:20:29.99,Default,,0,0,0,,Let me see this.
+Dialogue: 0,1:20:34.78,1:20:37.03,Default,,0,0,0,,L think we're about 40 miles away.
+Dialogue: 0,1:20:37.45,1:20:42.37,Default,,0,0,0,,What are you gonna do?
+Dialogue: 0,1:21:14.66,1:21:16.74,Default,,0,0,0,,Okay! Go time!
+Dialogue: 0,1:21:32.42,1:21:34.88,Default,,0,0,0,,We're all good.\NL got nothing on the scanners.
+Dialogue: 0,1:21:34.97,1:21:36.26,Default,,0,0,0,,Keep going.
+Dialogue: 0,1:21:50.82,1:21:51.98,Default,,0,0,0,,Vince!
+Dialogue: 0,1:21:52.65,1:21:54.74,Default,,0,0,0,,Vince, don't! Get back in!
+Dialogue: 0,1:21:56.32,1:21:57.45,Default,,0,0,0,,Vince!
+Dialogue: 0,1:22:03.08,1:22:04.79,Default,,0,0,0,,He's got a damn shotgun! Leon!
+Dialogue: 0,1:22:04.87,1:22:07.17,Default,,0,0,0,,Back off! Get him off of there!
+Dialogue: 0,1:22:09.84,1:22:11.13,Default,,0,0,0,,Oh, shit!
+Dialogue: 0,1:22:22.18,1:22:24.85,Default,,0,0,0,,Get me off this thing! Pull up!
+Dialogue: 0,1:22:25.98,1:22:29.31,Default,,0,0,0,,Unhook yourself. Do it!
+Dialogue: 0,1:22:29.69,1:22:31.69,Default,,0,0,0,,- Do it!\N- L can't get...
+Dialogue: 0,1:22:31.78,1:22:33.15,Default,,0,0,0,,You can do it!
+Dialogue: 0,1:22:34.19,1:22:35.65,Default,,0,0,0,,Come on, Vince!
+Dialogue: 0,1:22:43.16,1:22:45.75,Default,,0,0,0,,Dom! l'm pulling up to distract him!
+Dialogue: 0,1:22:53.21,1:22:54.67,Default,,0,0,0,,Come on, boy!
+Dialogue: 0,1:22:55.88,1:22:58.01,Default,,0,0,0,,Shot doesn't get better than this.
+Dialogue: 0,1:23:03.06,1:23:04.35,Default,,0,0,0,,Son of a bitch!
+Dialogue: 0,1:23:09.19,1:23:11.52,Default,,0,0,0,,Take me off here,\Nor l'll have to unhook the wire!
+Dialogue: 0,1:23:11.61,1:23:15.86,Default,,0,0,0,,Try it again. One, two, three!
+Dialogue: 0,1:23:27.87,1:23:29.46,Default,,0,0,0,,Unhook yourself!
+Dialogue: 0,1:23:31.21,1:23:33.09,Default,,0,0,0,,L can't get my arm free!
+Dialogue: 0,1:23:33.17,1:23:35.42,Default,,0,0,0,,- Vince, grab my hand!\N- My arm!
+Dialogue: 0,1:23:35.51,1:23:37.30,Default,,0,0,0,,Listen, give me your hand.
+Dialogue: 0,1:23:37.47,1:23:39.93,Default,,0,0,0,,L'm gonna pull you off the rig!
+Dialogue: 0,1:23:43.10,1:23:44.72,Default,,0,0,0,,Vince!
+Dialogue: 0,1:23:44.81,1:23:46.81,Default,,0,0,0,,Hold on!
+Dialogue: 0,1:23:46.89,1:23:49.02,Default,,0,0,0,,Give me your hand! Listen to me!
+Dialogue: 0,1:23:55.86,1:23:56.86,Default,,0,0,0,,Dominic!
+Dialogue: 0,1:23:56.94,1:23:58.15,Default,,0,0,0,,Shit!
+Dialogue: 0,1:24:01.70,1:24:03.82,Default,,0,0,0,,- Dominic!\N- Hang on!
+Dialogue: 0,1:24:04.41,1:24:07.33,Default,,0,0,0,,Dom! Move out of the way.\NL'm coming to get him.
+Dialogue: 0,1:24:32.44,1:24:33.77,Default,,0,0,0,,Letty!
+Dialogue: 0,1:24:34.56,1:24:35.61,Default,,0,0,0,,- Leon!\N- Yo!
+Dialogue: 0,1:24:35.69,1:24:36.77,Default,,0,0,0,,Pull back for Letty.
+Dialogue: 0,1:24:36.86,1:24:38.15,Default,,0,0,0,,Get her out of there!
+Dialogue: 0,1:24:38.23,1:24:39.65,Default,,0,0,0,,L'm on it! Go!
+Dialogue: 0,1:24:48.83,1:24:51.50,Default,,0,0,0,,L've got her! You get Vince off that truck.
+Dialogue: 0,1:24:56.84,1:24:59.09,Default,,0,0,0,,Letty! Come on, baby.
+Dialogue: 0,1:25:00.13,1:25:01.22,Default,,0,0,0,,You okay?
+Dialogue: 0,1:25:01.30,1:25:03.72,Default,,0,0,0,,Oh, shit. Come on, girl, you all right?
+Dialogue: 0,1:25:03.80,1:25:07.39,Default,,0,0,0,,Come on, let me look at you.\NCome on. We got to go. Let's go.
+Dialogue: 0,1:25:21.19,1:25:22.69,Default,,0,0,0,,Vince!
+Dialogue: 0,1:25:27.12,1:25:28.78,Default,,0,0,0,,- Dominic!\N- Vince!
+Dialogue: 0,1:25:50.97,1:25:52.14,Default,,0,0,0,,Take the wheel.
+Dialogue: 0,1:25:52.23,1:25:54.94,Default,,0,0,0,,- What do you mean?\N- Put your foot on the gas!
+Dialogue: 0,1:25:55.69,1:25:57.98,Default,,0,0,0,,L'm gonna get him. Put\Nyour foot on the gas!
+Dialogue: 0,1:25:58.06,1:25:59.31,Default,,0,0,0,,MlA: Okay!
+Dialogue: 0,1:26:02.69,1:26:05.78,Default,,0,0,0,,- BRlAN: Come on. Keep it steady.\N- L got it!
+Dialogue: 0,1:26:07.32,1:26:09.28,Default,,0,0,0,,All right, hold on, Vince.
+Dialogue: 0,1:26:10.08,1:26:13.00,Default,,0,0,0,,He's having a hard time holding on.\NGet me a little closer.
+Dialogue: 0,1:26:13.08,1:26:14.37,Default,,0,0,0,,All right.
+Dialogue: 0,1:26:15.21,1:26:17.37,Default,,0,0,0,,- Closer.\N- L'm moving in.
+Dialogue: 0,1:26:17.75,1:26:19.33,Default,,0,0,0,,Hold it right there!
+Dialogue: 0,1:26:20.17,1:26:21.25,Default,,0,0,0,,Go!
+Dialogue: 0,1:26:23.42,1:26:26.01,Default,,0,0,0,,You got to hang in here with me now!
+Dialogue: 0,1:26:26.09,1:26:28.26,Default,,0,0,0,,We'll get you off. Give me your arm!
+Dialogue: 0,1:26:28.34,1:26:30.51,Default,,0,0,0,,Vince, look at me! Don't let go!
+Dialogue: 0,1:26:34.48,1:26:37.06,Default,,0,0,0,,Come on, Vince! Throw this arm around me!
+Dialogue: 0,1:26:37.85,1:26:40.19,Default,,0,0,0,,Vince, don't let go!
+Dialogue: 0,1:26:44.40,1:26:46.49,Default,,0,0,0,,Come on, Mia. Get closer!
+Dialogue: 0,1:26:52.04,1:26:53.74,Default,,0,0,0,,Mia, get closer! Come on.
+Dialogue: 0,1:26:53.83,1:26:55.70,Default,,0,0,0,,Come on, Vince. Here we go!
+Dialogue: 0,1:27:23.78,1:27:25.07,Default,,0,0,0,,BRlAN: Shit.
+Dialogue: 0,1:27:28.70,1:27:32.24,Default,,0,0,0,,Lt's gonna be okay, Letty. l love you.
+Dialogue: 0,1:27:35.50,1:27:37.12,Default,,0,0,0,,- Watch her.\N- L got her.
+Dialogue: 0,1:27:38.04,1:27:40.58,Default,,0,0,0,,Come on, Vince! Hang in there! Come on!
+Dialogue: 0,1:27:44.75,1:27:47.92,Default,,0,0,0,,Lf he doesn't get to an ambulance\Nin 1 0 minutes, he's dead.
+Dialogue: 0,1:27:48.01,1:27:50.47,Default,,0,0,0,,- Hold the pressure. Hold his arm up.\N- MlA: l got it.
+Dialogue: 0,1:27:56.39,1:27:59.35,Default,,0,0,0,,Yeah. Yeah, this is Officer Brian O'Conner.
+Dialogue: 0,1:27:59.56,1:28:02.02,Default,,0,0,0,,L'm off-duty MAPD.
+Dialogue: 0,1:28:02.15,1:28:04.94,Default,,0,0,0,,L need a life flight roll out right away.
+Dialogue: 0,1:28:06.07,1:28:10.36,Default,,0,0,0,,My 20 is Highway 86, mile marker 147.
+Dialogue: 0,1:28:10.91,1:28:13.95,Default,,0,0,0,,L got one trauma victim,\Nabout 24 years of age.
+Dialogue: 0,1:28:14.03,1:28:16.62,Default,,0,0,0,,Six-foot, maybe 200 pounds.
+Dialogue: 0,1:28:16.79,1:28:20.54,Default,,0,0,0,,He's got a deep laceration to his right arm\Nwith arterial bleeding.
+Dialogue: 0,1:28:20.62,1:28:25.00,Default,,0,0,0,,And he's got a shotgun wound\Nclose range to his left flank.
+Dialogue: 0,1:28:25.21,1:28:26.38,Default,,0,0,0,,Yeah.
+Dialogue: 0,1:28:26.92,1:28:28.84,Default,,0,0,0,,Yeah, he's going into shock!
+Dialogue: 0,1:30:08.90,1:30:10.82,Default,,0,0,0,,Dom, put the gun down now!
+Dialogue: 0,1:30:13.40,1:30:15.24,Default,,0,0,0,,- Move your car.\N- No bullshit!
+Dialogue: 0,1:30:15.32,1:30:17.78,Default,,0,0,0,,Put it down now! No more running!
+Dialogue: 0,1:30:17.91,1:30:19.45,Default,,0,0,0,,L'm not running!
+Dialogue: 0,1:30:22.58,1:30:25.00,Default,,0,0,0,,- Where's Leon and Letty?\N- They're long gone!
+Dialogue: 0,1:30:25.08,1:30:28.13,Default,,0,0,0,,Then it's over. l didn't call\Nthe police, but don't push me!
+Dialogue: 0,1:30:28.21,1:30:31.13,Default,,0,0,0,,- Put the gun down. l swear to God!\N- You are the cop!
+Dialogue: 0,1:30:31.21,1:30:32.63,Default,,0,0,0,,You're a cop!
+Dialogue: 0,1:30:34.22,1:30:37.59,Default,,0,0,0,,Brian, l got to find Jesse before they do.
+Dialogue: 0,1:30:37.68,1:30:40.55,Default,,0,0,0,,- L'm all the kid's got.\N- L'll call in the plates.
+Dialogue: 0,1:30:40.64,1:30:42.97,Default,,0,0,0,,PD will pick him up way before\NJohnny even gets near him.
+Dialogue: 0,1:30:44.52,1:30:47.98,Default,,0,0,0,,- Move your car.\N- Dom, stop it! lt's over. Please.
+Dialogue: 0,1:30:48.10,1:30:50.69,Default,,0,0,0,,Mia, stay out of it! Move the...
+Dialogue: 0,1:30:55.36,1:30:58.57,Default,,0,0,0,,Dominic, l am so sorry.
+Dialogue: 0,1:30:58.95,1:31:01.16,Default,,0,0,0,,L don't know what l'm doing, Dom.
+Dialogue: 0,1:31:01.24,1:31:05.50,Default,,0,0,0,,L'm so scared right now.\NL don't know what's going on.
+Dialogue: 0,1:31:05.58,1:31:08.33,Default,,0,0,0,,What were you thinking, man?
+Dialogue: 0,1:31:08.42,1:31:10.92,Default,,0,0,0,,L don't know! l panicked! l'm sorry.
+Dialogue: 0,1:31:11.00,1:31:12.92,Default,,0,0,0,,L'm scared!
+Dialogue: 0,1:31:13.00,1:31:16.09,Default,,0,0,0,,L don't know what l'm doing!\NWill you please help me?
+Dialogue: 0,1:31:20.64,1:31:22.14,Default,,0,0,0,,Dom!
+Dialogue: 0,1:31:38.07,1:31:42.32,Default,,0,0,0,,Jesse!
+Dialogue: 0,1:31:42.41,1:31:43.91,Default,,0,0,0,,No, Jesse!
+Dialogue: 0,1:31:58.63,1:32:00.26,Default,,0,0,0,,No, Dom, no!
+Dialogue: 0,1:34:55.14,1:34:58.65,Default,,0,0,0,,Call 91 1 . You call 91 1!
+Dialogue: 0,1:35:33.35,1:35:36.10,Default,,0,0,0,,L used to drag here back in high school.
+Dialogue: 0,1:35:36.81,1:35:40.98,Default,,0,0,0,,That railroad crossing up there\Nis exactly a quarter mile away from here.
+Dialogue: 0,1:35:42.15,1:35:44.77,Default,,0,0,0,,On green, l'm going for it.
+Dialogue: 0,1:38:08.75,1:38:09.92,Default,,0,0,0,,Dom!
+Dialogue: 0,1:38:19.31,1:38:21.60,Default,,0,0,0,,That's not what l had in mind.
+Dialogue: 0,1:39:08.15,1:39:10.02,Default,,0,0,0,,You know what you're doing?
+Dialogue: 0,1:39:10.52,1:39:12.61,Default,,0,0,0,,L owe you a 1 0-second car.
+Dialogue: 0,1:46:26.46,1:46:29.13,Default,,0,0,0,,L live my life a quarter mile at a time.
+Dialogue: 0,1:46:30.75,1:46:32.42,Default,,0,0,0,,Nothing else matters.
+Dialogue: 0,1:46:33.30,1:46:36.05,Default,,0,0,0,,For those 10 seconds or less,
+Dialogue: 0,1:46:37.47,1:46:38.76,Default,,0,0,0,,I'm free.

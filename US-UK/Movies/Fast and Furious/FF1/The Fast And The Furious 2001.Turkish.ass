@@ -1,0 +1,843 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.31,0:01:03.56,Default,,0,0,0,,Kamyon değerli mallarla yüklendi,\Nsana doğru geliyor.
+Dialogue: 0,0:01:03.64,0:01:07.81,Default,,0,0,0,,Kamyonun yan taraflnda "Rodgers" yazlyor.\NBenim hissemi unutma.
+Dialogue: 0,0:03:37.05,0:03:38.17,Default,,0,0,0,,1 90-220
+Dialogue: 0,0:03:57.82,0:03:58.98,Default,,0,0,0,,Kahretsin!
+Dialogue: 0,0:04:39.73,0:04:43.19,Default,,0,0,0,,- Kabuksuz beyaz ekmek arasl ton, değil mi?\N- Bilmem. Ton ballğI nasll?
+Dialogue: 0,0:04:43.86,0:04:48.16,Default,,0,0,0,,Haftalardlr her gün gelip\Nton ballğI nasll diye soruyorsun.
+Dialogue: 0,0:04:48.24,0:04:51.99,Default,,0,0,0,,Dün kötüydü. Ondan önceki gün kötüydü.
+Dialogue: 0,0:04:52.08,0:04:54.87,Default,,0,0,0,,Biliyor musun? Değişen bir şey yok.
+Dialogue: 0,0:04:55.54,0:04:57.42,Default,,0,0,0,,- Ton alaylm.\N- Kabuksuz ekmek mi?
+Dialogue: 0,0:04:57.54,0:04:58.58,Default,,0,0,0,,Evet.
+Dialogue: 0,0:05:22.82,0:05:23.94,Default,,0,0,0,,Teşekkür ederim.
+Dialogue: 0,0:06:10.99,0:06:13.37,Default,,0,0,0,,Yeteneğini konuştur Jesse. Bu çallşmlyor.
+Dialogue: 0,0:06:13.45,0:06:16.12,Default,,0,0,0,,Sorun benzin otomatiğinde. Delinmiş.
+Dialogue: 0,0:06:16.50,0:06:19.25,Default,,0,0,0,,- Onun için üçüncü viteste güç kaybediyor.\N- Söylemiştim.
+Dialogue: 0,0:06:19.33,0:06:24.29,Default,,0,0,0,,Enjeksiyon oranlnl bir milisaniye artlrlrlm.\NNitrojeni ayarla, 9 saniyede maksimumdasln.
+Dialogue: 0,0:06:32.30,0:06:34.93,Default,,0,0,0,,Nesi var bu salağln?\NSandviç manyağI ml bu?
+Dialogue: 0,0:06:35.01,0:06:39.64,Default,,0,0,0,,- Haylr. Yemek için gelmiyor buraya.\N- Yapma. Harry'nin dükkanlnda parça taklyor.
+Dialogue: 0,0:06:39.73,0:06:43.23,Default,,0,0,0,,- Ne taktlğlnl biliyorum.\N- Mia'ya bir parça takmaya çallşlyor.
+Dialogue: 0,0:06:43.31,0:06:45.57,Default,,0,0,0,,- Ne haber çocuklar?\N- Nasllsln Mia?
+Dialogue: 0,0:06:45.65,0:06:47.82,Default,,0,0,0,,- Nasllsln canlm?\N- Selam!
+Dialogue: 0,0:06:48.40,0:06:50.82,Default,,0,0,0,,Selam Dom. Bir şey içmek ister misin?
+Dialogue: 0,0:07:01.83,0:07:05.00,Default,,0,0,0,,- Yaklşlkllymlş.\N- Saç modelini beğendim.
+Dialogue: 0,0:07:07.67,0:07:08.71,Default,,0,0,0,,Vince!
+Dialogue: 0,0:07:10.01,0:07:12.01,Default,,0,0,0,,- Ne var?\N- Bir şey istiyor musun?
+Dialogue: 0,0:07:13.72,0:07:15.01,Default,,0,0,0,,İyi görünüyorsun.
+Dialogue: 0,0:07:19.18,0:07:21.85,Default,,0,0,0,,- Teşekkür ederim Mia. Yarln görüşürüz.\N- Tabii.
+Dialogue: 0,0:07:24.77,0:07:26.73,Default,,0,0,0,,- Yarln ml?\N- Bu bölüme baylllyorum.
+Dialogue: 0,0:07:31.53,0:07:36.12,Default,,0,0,0,,Bundan sonra hamburgerciye git.\NOradan 2,95 dolara çizburger allrsln ibne.
+Dialogue: 0,0:07:36.20,0:07:39.70,Default,,0,0,0,,- Buranln ton ballğlnl seviyorum.\N- Saçma. Kimse buranln tonunu sevmez.
+Dialogue: 0,0:07:39.79,0:07:41.20,Default,,0,0,0,,Ama ben seviyorum.
+Dialogue: 0,0:07:53.72,0:07:57.26,Default,,0,0,0,,Aman tanrlm Dom! DIşarl bakar mlsln?\NBiktlm bu saçmallktan.
+Dialogue: 0,0:07:57.39,0:07:59.72,Default,,0,0,0,,Şaka yapmlyorum Dom. DIşarl çlk da bir bak!
+Dialogue: 0,0:08:04.06,0:08:06.56,Default,,0,0,0,,- O sandviçin içine ne koydun?\N- Çok komik.
+Dialogue: 0,0:08:06.65,0:08:08.90,Default,,0,0,0,,- Dom!\N- Tamam.
+Dialogue: 0,0:08:27.42,0:08:30.25,Default,,0,0,0,,- Benimle uğraşlyordu.\N- Şimdi ben seninle uğraşlyorum.
+Dialogue: 0,0:08:31.92,0:08:34.80,Default,,0,0,0,,Sakin ol! Fazla uzatma!\NBeni utandlrlyorsun!
+Dialogue: 0,0:08:37.47,0:08:38.76,Default,,0,0,0,,Şu tarafa geç!
+Dialogue: 0,0:08:40.26,0:08:42.10,Default,,0,0,0,,Jesse, cüzdanl ver bana.
+Dialogue: 0,0:08:44.94,0:08:48.31,Default,,0,0,0,,"Brian Earl Spilner."\NSeri katil ismine benziyor.
+Dialogue: 0,0:08:48.44,0:08:50.23,Default,,0,0,0,,- Öyle misin?\N- Haylr dostum.
+Dialogue: 0,0:08:50.32,0:08:52.28,Default,,0,0,0,,Bir daha buralara gelme.
+Dialogue: 0,0:08:54.74,0:08:56.61,Default,,0,0,0,,Hey dostum. Bu saçmallk.
+Dialogue: 0,0:08:57.66,0:09:00.66,Default,,0,0,0,,- Harry için çallşlyorsun, değil mi?\N- Evet. Yeni başladlm.
+Dialogue: 0,0:09:00.91,0:09:02.45,Default,,0,0,0,,Yeni kovuldun.
+Dialogue: 0,0:09:05.12,0:09:07.25,Default,,0,0,0,,YARlŞÇlNlN KÖŞESİ\NYarlş Otosu Parçalarl
+Dialogue: 0,0:09:15.34,0:09:18.47,Default,,0,0,0,,Hey Dominic.\NYaptlklarlnl takdir ediyorum, hem de çok.
+Dialogue: 0,0:09:18.97,0:09:20.47,Default,,0,0,0,,Sana borçluyum Dominic.
+Dialogue: 0,0:09:22.43,0:09:26.98,Default,,0,0,0,,Brian, işimi bozuyorsun. Dominic\Ndireksiyon başlnda altln değerindedir.
+Dialogue: 0,0:09:27.10,0:09:31.69,Default,,0,0,0,,Çocuklar akln akln buraya gelip onda olan\Nher parçayl almak istiyor. Nakit ödüyorlar!
+Dialogue: 0,0:09:32.28,0:09:34.99,Default,,0,0,0,,- Dominic ne dedi?\N- Bilmesen daha iyi.
+Dialogue: 0,0:09:35.32,0:09:38.20,Default,,0,0,0,,- Dominic ne dedi?\N- Buradan gitmeni istiyor.
+Dialogue: 0,0:09:38.82,0:09:40.74,Default,,0,0,0,,- Buradan gitmemi mi istiyor?\N- Evet.
+Dialogue: 0,0:09:40.83,0:09:44.16,Default,,0,0,0,,- Peki sen Dominic'e ne dedin?\N- Ne dediğimi sanlyorsun?
+Dialogue: 0,0:09:44.45,0:09:46.96,Default,,0,0,0,,"İyi bir yardlmcl bulmak zor" dedim.
+Dialogue: 0,0:09:50.13,0:09:51.17,Default,,0,0,0,,Sakin ol.
+Dialogue: 0,0:09:54.84,0:09:56.05,Default,,0,0,0,,Nitrojen oksit lazlm.
+Dialogue: 0,0:09:56.63,0:09:58.84,Default,,0,0,0,,- Bana nitrojen lazlm.\N- Haylr.
+Dialogue: 0,0:09:59.01,0:10:01.76,Default,,0,0,0,,Bu sabah arabam 220 kilometrede stop etti.
+Dialogue: 0,0:10:01.85,0:10:06.31,Default,,0,0,0,,Amatörler nitrojen kullanmaz. Seni\Nsürerken gördüm. Gaza fazla baslyorsun.
+Dialogue: 0,0:10:07.06,0:10:10.19,Default,,0,0,0,,- Paramparça olacaksln.\N- Bunlardan bir tane lazlm bana.
+Dialogue: 0,0:10:10.48,0:10:13.86,Default,,0,0,0,,Büyüklerinden.\NHatta iki tane olsa daha iyi olur.
+Dialogue: 0,0:10:14.36,0:10:16.53,Default,,0,0,0,,Harry, buna bu gece ihtiyaclm var.
+Dialogue: 0,0:10:18.15,0:10:19.86,Default,,0,0,0,,NİTROJEN
+Dialogue: 0,0:11:28.27,0:11:31.60,Default,,0,0,0,,Dur bir dakika. Bir dakika.\NŞu soluk benizliye bak dostum.
+Dialogue: 0,0:11:35.94,0:11:38.78,Default,,0,0,0,,Güzel araba. Kaportanln altlnda neler var?
+Dialogue: 0,0:11:41.49,0:11:44.36,Default,,0,0,0,,- Kendim mi öğreneyim yani?\N- Evet.
+Dialogue: 0,0:11:44.45,0:11:47.33,Default,,0,0,0,,Cesursun. Bana Hector derler.
+Dialogue: 0,0:11:47.95,0:11:50.75,Default,,0,0,0,,Bir soyadlm da var,\Nama telaffuz edemiyorum.
+Dialogue: 0,0:11:50.83,0:11:53.29,Default,,0,0,0,,- Brian Spilner.\N- Tipik bir beyaz çocuk ismi.
+Dialogue: 0,0:11:53.62,0:11:55.50,Default,,0,0,0,,Dediğimi anladln ml?
+Dialogue: 0,0:11:57.80,0:12:02.67,Default,,0,0,0,,Şunu görüyor musun? O benim. Benim\Nbebeğim. Onu bu gece kullanmlyorum.
+Dialogue: 0,0:12:02.97,0:12:04.80,Default,,0,0,0,,- Neden?\N- Yasal yarlşlara gireceğim.
+Dialogue: 0,0:12:04.93,0:12:07.55,Default,,0,0,0,,Ulusal Yarlş Derneği'ne girmek istiyorum.\NDuydun mu?
+Dialogue: 0,0:12:07.64,0:12:10.64,Default,,0,0,0,,- Evet.\N- Sen ne yaplyorsun dostum?
+Dialogue: 0,0:12:10.85,0:12:15.02,Default,,0,0,0,,- Toretto'yu bekliyorum.\N- Vay. Siraya girsen iyi edersin. Bu senin mi?
+Dialogue: 0,0:12:16.23,0:12:18.73,Default,,0,0,0,,- Yanlnda duruyorum ya.\N- Çok komik.
+Dialogue: 0,0:12:18.82,0:12:21.48,Default,,0,0,0,,Edwin de bir şeyler bilir.
+Dialogue: 0,0:12:21.82,0:12:25.91,Default,,0,0,0,,Edwin'in bildiği şeylerden biri şu: Mesele,\Narabanln yanlnda nasll durduğun değil,
+Dialogue: 0,0:12:26.32,0:12:29.24,Default,,0,0,0,,onu nasll yarlştlrdlğlndlr.\NBunu öğrensen iyi edersin.
+Dialogue: 0,0:12:35.17,0:12:38.13,Default,,0,0,0,,Vay canlna. Geliyorlar. Başllyoruz.
+Dialogue: 0,0:12:53.52,0:12:55.31,Default,,0,0,0,,- Dom.\N- Marvin.
+Dialogue: 0,0:12:57.02,0:13:00.61,Default,,0,0,0,,- Selam Dom. Nasllsln?\N- Selam Camille. Yoga ml yaplyordun?
+Dialogue: 0,0:13:04.99,0:13:07.86,Default,,0,0,0,,Yaptln ml? Tabii ki yaptln. Monica.
+Dialogue: 0,0:13:10.79,0:13:12.79,Default,,0,0,0,,Orospu kokusu allyorum.
+Dialogue: 0,0:13:13.50,0:13:17.37,Default,,0,0,0,,Kizlar, ben yüzünüzde tekme izi blrakmadan\Nneden çekip gitmiyorsunuz?
+Dialogue: 0,0:13:17.46,0:13:18.54,Default,,0,0,0,,Tamam.
+Dialogue: 0,0:13:18.63,0:13:21.29,Default,,0,0,0,,- Letty, ben sadece konuşuyordum.\N- Evet. Ne demezsin.
+Dialogue: 0,0:13:21.71,0:13:24.71,Default,,0,0,0,,- Pekala, Hector.\N- Evet? Nasllsln dostum?
+Dialogue: 0,0:13:26.38,0:13:27.97,Default,,0,0,0,,- Selam. Ne haber?\N- Edwin.
+Dialogue: 0,0:13:28.05,0:13:30.39,Default,,0,0,0,,- Bu gece nasll yaplyoruz?\N- Tek yarlş olacak.
+Dialogue: 0,0:13:30.89,0:13:35.06,Default,,0,0,0,,2000 dolar koyuyoruz. Kazanan hepsini allr.\NHector, para sende dursun.
+Dialogue: 0,0:13:35.56,0:13:38.56,Default,,0,0,0,,- Neden Hector?\N- Parayla kaçamayacak kadar yavaş da ondan.
+Dialogue: 0,0:13:41.02,0:13:43.69,Default,,0,0,0,,- Tamam. İyi şanslar çocuklar.\N- Hey, bekle. Bir dakika.
+Dialogue: 0,0:13:44.19,0:13:48.07,Default,,0,0,0,,Hiç nakit param yok.\NAma ortaya arabaml koyuyorum.
+Dialogue: 0,0:13:48.53,0:13:52.37,Default,,0,0,0,,Sirf boks yaptlğlnl sanlyorsun diye\NMuhammed Ali'yle ringe çlkamazsln.
+Dialogue: 0,0:13:52.58,0:13:55.83,Default,,0,0,0,,O benim boks yapabildiğimi biliyor.\NBenim fikrim şu:
+Dialogue: 0,0:13:56.83,0:13:59.92,Default,,0,0,0,,Kaybedersem, kazanan arabaml allr.\NTemiz ve net.
+Dialogue: 0,0:14:00.38,0:14:03.75,Default,,0,0,0,,Ama kazanlrsam, para ve onur benim olur.
+Dialogue: 0,0:14:04.38,0:14:05.42,Default,,0,0,0,,Onur mu?
+Dialogue: 0,0:14:07.76,0:14:10.09,Default,,0,0,0,,Bazl insanlar için bu daha önemlidir.
+Dialogue: 0,0:14:12.26,0:14:13.60,Default,,0,0,0,,Araban bu mu?
+Dialogue: 0,0:14:17.39,0:14:22.23,Default,,0,0,0,,Soğuk hava emme sistemi görüyorum.\NNitrojen karlştlrlclll T4 turbo motor var.
+Dialogue: 0,0:14:22.40,0:14:27.36,Default,,0,0,0,,Ekstra enjektör regülatörü görüyorum.\NDirekt nitrojen enjeksiyon borusu var.
+Dialogue: 0,0:14:27.61,0:14:30.41,Default,,0,0,0,,Ve kendi kendine çallşan\Nbir benzin kontrol sistemi.
+Dialogue: 0,0:14:31.41,0:14:33.45,Default,,0,0,0,,1 0.000 dolarl boşa harcamamlşsln.
+Dialogue: 0,0:14:36.45,0:14:37.95,Default,,0,0,0,,Şunu görüyor musun?
+Dialogue: 0,0:14:38.79,0:14:42.13,Default,,0,0,0,,Kendini havaya uçuracak kadar nitrojen var.\NBaşka söze ne hacet.
+Dialogue: 0,0:14:43.04,0:14:46.21,Default,,0,0,0,,- Ne diyorsun? Buna değer miyim?\N- Henüz bilmiyoruz.
+Dialogue: 0,0:14:46.92,0:14:48.72,Default,,0,0,0,,Ama yarlştasln. Gidelim.
+Dialogue: 0,0:14:49.59,0:14:51.13,Default,,0,0,0,,- Pekala.\N- Gidelim!
+Dialogue: 0,0:15:55.53,0:15:59.37,Default,,0,0,0,,- Burada neler oluyor?\N- Bu sokak kapall pizzacl çocuk.
+Dialogue: 0,0:15:59.87,0:16:02.83,Default,,0,0,0,,- Evine başka yoldan git.\N- Kahrolasl sokak yarlşçllarl.
+Dialogue: 0,0:16:03.54,0:16:07.88,Default,,0,0,0,,Acil durum. Tansiyon yüksek.\NSokağı kapatmışlar.
+Dialogue: 0,0:16:54.05,0:16:55.43,Default,,0,0,0,,Edwin.
+Dialogue: 0,0:16:56.97,0:16:59.93,Default,,0,0,0,,Bu senin, kazansan da kaybetsen de.
+Dialogue: 0,0:17:00.81,0:17:03.43,Default,,0,0,0,,Ama kazanlrsan, onu da allrsln.
+Dialogue: 0,0:17:12.94,0:17:14.49,Default,,0,0,0,,Kazanacaksln.
+Dialogue: 0,0:17:15.86,0:17:17.45,Default,,0,0,0,,Kazanacağlm.
+Dialogue: 0,0:18:01.83,0:18:04.70,Default,,0,0,0,,Bir cinayet bildirildi.\NBarabian içki dükkanında.
+Dialogue: 0,0:18:04.79,0:18:09.17,Default,,0,0,0,,Glendale'de bir cinayet olmuş.\NPolisler bununla meşgul. Başlamaya hazlrlz.
+Dialogue: 0,0:18:09.88,0:18:11.29,Default,,0,0,0,,- Tamam.\N- Haydi yarlşallm!
+Dialogue: 0,0:18:11.38,0:18:12.42,Default,,0,0,0,,Peki.
+Dialogue: 0,0:18:22.18,0:18:23.26,Default,,0,0,0,,Başla!
+Dialogue: 0,0:18:37.11,0:18:38.24,Default,,0,0,0,,Haydi!
+Dialogue: 0,0:18:54.29,0:18:55.92,Default,,0,0,0,,Vay be, bu herif bayağI hlzll.
+Dialogue: 0,0:19:04.10,0:19:06.26,Default,,0,0,0,,Gidelim! Bekleyin klzlar!
+Dialogue: 0,0:19:33.29,0:19:36.09,Default,,0,0,0,,Haylr! Monica!
+Dialogue: 0,0:19:49.73,0:19:51.31,Default,,0,0,0,,DİKKAT!!! - Manifoldlar tehlikede
+Dialogue: 0,0:19:51.85,0:19:53.31,Default,,0,0,0,,Kapa çeneni!
+Dialogue: 0,0:20:47.66,0:20:50.28,Default,,0,0,0,,- Haydi bakallm bebek!\N- Evet!
+Dialogue: 0,0:20:58.92,0:21:00.84,Default,,0,0,0,,Haydi. Haydi. Geri çekilin.
+Dialogue: 0,0:21:01.63,0:21:04.97,Default,,0,0,0,,İşte ödülün, tam burada. Al bakallm.
+Dialogue: 0,0:21:05.05,0:21:07.93,Default,,0,0,0,,Tosbağalarla yarlşlyordun.\NNe dediğimi anladln ml?
+Dialogue: 0,0:21:09.35,0:21:12.01,Default,,0,0,0,,Paralar kardeşimde. Hepsini say.
+Dialogue: 0,0:21:15.06,0:21:16.64,Default,,0,0,0,,İşte benim kupam.
+Dialogue: 0,0:21:19.90,0:21:23.86,Default,,0,0,0,,- Selam Monica. Nasllsln bebek?\N- Neyin var senin? Kazanamadln ki.
+Dialogue: 0,0:21:26.82,0:21:28.11,Default,,0,0,0,,Siktir!
+Dialogue: 0,0:21:41.42,0:21:42.71,Default,,0,0,0,,Eğlenceli miydi?
+Dialogue: 0,0:21:42.92,0:21:44.84,Default,,0,0,0,,Bir sorunun mu var ahbap?
+Dialogue: 0,0:21:51.56,0:21:54.81,Default,,0,0,0,,- Niye gülüyorsun?\N- Neredeyse yeniyordum seni ahbap.
+Dialogue: 0,0:21:57.64,0:21:59.44,Default,,0,0,0,,Neredeyse beni yeniyor muydun?
+Dialogue: 0,0:22:00.11,0:22:02.57,Default,,0,0,0,,Beni yenmedin. Arabana hakim olamadln.
+Dialogue: 0,0:22:05.86,0:22:09.03,Default,,0,0,0,,Vitesi anneannem gibi değiştiriyordun.\NÇok seri olman lazlm.
+Dialogue: 0,0:22:09.95,0:22:14.12,Default,,0,0,0,,1 00 birim nitrojen oksit, emme manifoldu\Nkaynaklarlnl eritmediği için şansllsln.
+Dialogue: 0,0:22:15.37,0:22:19.75,Default,,0,0,0,,- Neredeyse beni yeniyormuş.\N- Haddini bildir ona. Defolsun buradan.
+Dialogue: 0,0:22:21.13,0:22:24.21,Default,,0,0,0,,Şimdi bu çllgln bilim adamlyla ben\Nmotoru söküp
+Dialogue: 0,0:22:24.30,0:22:26.88,Default,,0,0,0,,yaktlğln piston segmanlarlnl\Ndeğiştirmek zorundaylz.
+Dialogue: 0,0:22:34.64,0:22:36.68,Default,,0,0,0,,İstediğin yarlşçlya sor. Gerçek yarlşçlya.
+Dialogue: 0,0:22:37.43,0:22:41.90,Default,,0,0,0,,Ha santim farklyla yenmişsin, ha\Nkilometre farklyla. Kazanmak kazanmaktlr.
+Dialogue: 0,0:22:42.19,0:22:43.52,Default,,0,0,0,,Evet!
+Dialogue: 0,0:22:49.11,0:22:52.20,Default,,0,0,0,,Bütün birimlerin dikkatine,\NHawthorne yakınında sokak yarışı...
+Dialogue: 0,0:22:52.28,0:22:54.20,Default,,0,0,0,,Kahretsin! Polis geliyor. Polisler!
+Dialogue: 0,0:22:54.49,0:22:55.74,Default,,0,0,0,,Gidelim!
+Dialogue: 0,0:23:07.46,0:23:09.26,Default,,0,0,0,,Polisler! Arabaya bin! Çabuk!
+Dialogue: 0,0:24:33.55,0:24:35.72,Default,,0,0,0,,Toretto, olduğun yerde kal!
+Dialogue: 0,0:24:37.43,0:24:38.55,Default,,0,0,0,,Toretto!
+Dialogue: 0,0:24:53.57,0:24:54.78,Default,,0,0,0,,Atla!
+Dialogue: 0,0:25:41.28,0:25:44.62,Default,,0,0,0,,Karşlma çlkacağlnl düşündüğüm\Nen son kişi sendin.
+Dialogue: 0,0:25:45.79,0:25:49.75,Default,,0,0,0,,Minnetini kazanlrsam,\Narabaml bana blraklrsln diye düşündüm.
+Dialogue: 0,0:25:49.96,0:25:53.30,Default,,0,0,0,,Minnetimi kazandln,\Nama araban sende kalmayacak.
+Dialogue: 0,0:25:54.17,0:25:57.17,Default,,0,0,0,,Bunu daha önce yapmlş gibisin.\NKanun kaçağI mlsln?
+Dialogue: 0,0:25:57.30,0:25:59.64,Default,,0,0,0,,- Haylr.\N- Araba ml çallyorsun?
+Dialogue: 0,0:26:02.10,0:26:04.27,Default,,0,0,0,,- Haylr. Asla.\N- Hiç kodeste yattln ml?
+Dialogue: 0,0:26:04.64,0:26:06.98,Default,,0,0,0,,Birkaç gece gözaltl falan. Önemli değil.
+Dialogue: 0,0:26:07.69,0:26:10.77,Default,,0,0,0,,Araba hlrslzllğlndan\Niki yll Islahevinde kalmadln ml yani?
+Dialogue: 0,0:26:13.69,0:26:15.19,Default,,0,0,0,,Tucson'da, değil mi?
+Dialogue: 0,0:26:15.94,0:26:18.99,Default,,0,0,0,,Jesse'ye hakklnda bir dosya hazlrlattlm\NBrian Earl Spilner.
+Dialogue: 0,0:26:20.53,0:26:23.70,Default,,0,0,0,,İnternet'te her şeyi bulabilir.\NHerkes hakklnda her şeyi.
+Dialogue: 0,0:26:24.45,0:26:25.83,Default,,0,0,0,,Niye yalan söylüyorsun?
+Dialogue: 0,0:26:27.54,0:26:29.04,Default,,0,0,0,,Ya sen?
+Dialogue: 0,0:26:31.50,0:26:33.00,Default,,0,0,0,,Lompoc'da iki yll.
+Dialogue: 0,0:26:36.05,0:26:37.84,Default,,0,0,0,,Oraya geri döneceğime ölürüm.
+Dialogue: 0,0:26:44.01,0:26:46.02,Default,,0,0,0,,- Harika.\N- Ne oldu?
+Dialogue: 0,0:26:48.89,0:26:51.31,Default,,0,0,0,,Uzun bir gece olacak. Olan bu.
+Dialogue: 0,0:26:55.57,0:26:56.98,Default,,0,0,0,,Bizi takip et.
+Dialogue: 0,0:26:59.86,0:27:01.91,Default,,0,0,0,,T & K RESTORAN
+Dialogue: 0,0:27:05.37,0:27:07.70,Default,,0,0,0,,KONGFUZİ - KONFÜÇYÜS - İ.Ö. 551 -479\NFİLOZOF
+Dialogue: 0,0:27:47.70,0:27:51.91,Default,,0,0,0,,Bir anlaşmamlz olduğunu sanlyordum.\NSen uzak durursun. Ben uzak dururum.
+Dialogue: 0,0:27:53.29,0:27:54.92,Default,,0,0,0,,Herkes mutlu olur.
+Dialogue: 0,0:27:55.09,0:27:57.38,Default,,0,0,0,,Kaybolduk. Sana ne söylememi istiyorsun?
+Dialogue: 0,0:27:57.46,0:28:00.42,Default,,0,0,0,,- "Biz" kim?\N- Yeni tamircim.
+Dialogue: 0,0:28:00.76,0:28:02.59,Default,,0,0,0,,Brian, Johnny Tran'le tanlş.
+Dialogue: 0,0:28:02.76,0:28:05.72,Default,,0,0,0,,Yllan derisi pantolonlu adam.\NBu da kuzeni Lance.
+Dialogue: 0,0:28:05.80,0:28:09.52,Default,,0,0,0,,Ne zaman şu senin Honda 2000'e\Nbinmeme izin vereceksin?
+Dialogue: 0,0:28:09.60,0:28:12.06,Default,,0,0,0,,- Bu senin araban ml?\N- Benimdi. Şimdi onun.
+Dialogue: 0,0:28:12.44,0:28:14.94,Default,,0,0,0,,Haylr, değil. Henüz teslim almadlm.
+Dialogue: 0,0:28:17.11,0:28:20.82,Default,,0,0,0,,O zaman kimsenin arabasl değil.\NAma birisi onu fazla zorlamlş.
+Dialogue: 0,0:28:23.91,0:28:27.49,Default,,0,0,0,,- Ne düşünüyorsun Lance?\N- Muhteşem bir makine.
+Dialogue: 0,0:28:28.16,0:28:29.62,Default,,0,0,0,,Gerçekten öyle.
+Dialogue: 0,0:28:31.83,0:28:33.29,Default,,0,0,0,,Gidelim.
+Dialogue: 0,0:28:35.46,0:28:39.84,Default,,0,0,0,,Gelecek ay çölde görüşürüz.\NHazlr ol, seni ezip geçeceğim.
+Dialogue: 0,0:28:40.13,0:28:43.97,Default,,0,0,0,,- O motosikletten fazlaslna ihtiyacln olacak.\N- Senin için bir sürprizim var.
+Dialogue: 0,0:28:57.86,0:29:01.40,Default,,0,0,0,,- Neydi bütün bunlar?\N- Uzun hikaye. Sonra anlatlrlm.
+Dialogue: 0,0:29:01.48,0:29:03.15,Default,,0,0,0,,Gidelim buradan.
+Dialogue: 0,0:29:30.51,0:29:31.68,Default,,0,0,0,,Nitrojen!
+Dialogue: 0,0:29:43.86,0:29:47.24,Default,,0,0,0,,- Neydi bütün bunlar?\N- Uzun bir hikaye.
+Dialogue: 0,0:29:48.16,0:29:50.53,Default,,0,0,0,,30 kilometrelik yolumuz var. Eğlendir beni.
+Dialogue: 0,0:29:51.03,0:29:53.20,Default,,0,0,0,,Kötü sonuçlanan bir iş anlaşmasl.
+Dialogue: 0,0:29:54.16,0:29:57.21,Default,,0,0,0,,Üstüne üstlük,\Nklz kardeşiyle yatmak gibi bir hata yaptlm.
+Dialogue: 0,0:30:23.40,0:30:24.69,Default,,0,0,0,,Dikkat et.
+Dialogue: 0,0:30:29.74,0:30:31.28,Default,,0,0,0,,Hey, Spilner.
+Dialogue: 0,0:30:32.74,0:30:34.91,Default,,0,0,0,,- Bira ister misin?\N- Evet, tabii.
+Dialogue: 0,0:30:35.58,0:30:37.20,Default,,0,0,0,,Kahretsin.
+Dialogue: 0,0:31:01.27,0:31:04.19,Default,,0,0,0,,- Hepiniz varslnlz, değil mi?\N- Vay canlna, çok seksi.
+Dialogue: 0,0:31:04.27,0:31:06.78,Default,,0,0,0,,- Hanginiz nitrojen kullanlyorsunuz?\N- Ben.
+Dialogue: 0,0:31:13.62,0:31:17.12,Default,,0,0,0,,Hey, Dom.\NNeredeyse seni aramaya çlklyorduk.
+Dialogue: 0,0:31:23.00,0:31:24.29,Default,,0,0,0,,Neredeydin?
+Dialogue: 0,0:31:24.42,0:31:28.63,Default,,0,0,0,,Orada sürüyle polis vardl.\NHer yönden geldiler. Fena bastlrdllar.
+Dialogue: 0,0:31:28.76,0:31:31.13,Default,,0,0,0,,- Bu senin biran ml?\N- Evet, benim biram.
+Dialogue: 0,0:31:34.18,0:31:36.68,Default,,0,0,0,,Hey, Einstein. Onu üst kata çlkar.
+Dialogue: 0,0:31:37.35,0:31:39.93,Default,,0,0,0,,Kaporta kapallyken\Narabayl muayene edemezsin.
+Dialogue: 0,0:31:40.77,0:31:43.65,Default,,0,0,0,,- Bunu bile doğru yapamlyorsun.\N- İyi misin sen?
+Dialogue: 0,0:31:45.82,0:31:48.65,Default,,0,0,0,,- İyi miyim?\N- Öylesine sordum.
+Dialogue: 0,0:31:52.45,0:31:53.70,Default,,0,0,0,,Hey, Dom.
+Dialogue: 0,0:31:53.99,0:31:58.04,Default,,0,0,0,,- O herifi niye buraya getirdin?\N- Çünkü beni kelepçelerden kurtardl!
+Dialogue: 0,0:31:58.33,0:32:02.16,Default,,0,0,0,,O sizin gibi hemen buraya kaçmadl!\NBu herif beni geri getirdi.
+Dialogue: 0,0:32:08.00,0:32:11.80,Default,,0,0,0,,İstediğin içkiyi alabilirsin,\Nmarkasl Corona olduğu sürece.
+Dialogue: 0,0:32:12.47,0:32:15.05,Default,,0,0,0,,- Sağol dostum.\N- O Vince'in. Afiyet olsun.
+Dialogue: 0,0:32:17.06,0:32:18.35,Default,,0,0,0,,Sen.
+Dialogue: 0,0:32:25.48,0:32:29.52,Default,,0,0,0,,- Hey, dostum. Tuvalet nerede?\N- Üst katta. Sağda ilk kapl.
+Dialogue: 0,0:32:45.75,0:32:49.17,Default,,0,0,0,,Burada olmaya hakkl yok.\NOnu hiç tanlmlyorsun.
+Dialogue: 0,0:32:49.25,0:32:52.76,Default,,0,0,0,,- Hakll Dom.\N- Bir zamanlar seni de tanlmlyordum.
+Dialogue: 0,0:32:52.92,0:32:54.88,Default,,0,0,0,,O zaman ilkokul üçteydik!
+Dialogue: 0,0:32:58.05,0:33:01.56,Default,,0,0,0,,- Evet. Nasll klzlar var?\N- Seç bir tane. Benimkini ister misin?
+Dialogue: 0,0:33:01.68,0:33:04.06,Default,,0,0,0,,- Kapat çeneni...\N- İki tane mi istiyorsun?
+Dialogue: 0,0:33:04.27,0:33:06.94,Default,,0,0,0,,- Bir şeyin yok ya?\N- Biraz yorgun görünüyorsun.
+Dialogue: 0,0:33:07.06,0:33:09.82,Default,,0,0,0,,Bence yukarl çlklp bana masaj yapmallsln.
+Dialogue: 0,0:33:09.90,0:33:13.28,Default,,0,0,0,,- Misafirlerimiz var.\N- Bana masaj yapmaya ne dersin?
+Dialogue: 0,0:33:16.61,0:33:18.07,Default,,0,0,0,,Çilgln kadln.
+Dialogue: 0,0:33:25.75,0:33:28.42,Default,,0,0,0,,Bana 1 0 saniyede maksimuma çlkan\Nbir araba borçlusun.
+Dialogue: 0,0:33:33.09,0:33:34.38,Default,,0,0,0,,Kahretsin.
+Dialogue: 0,0:33:40.10,0:33:41.76,Default,,0,0,0,,Klozeti sildin mi?
+Dialogue: 0,0:33:44.98,0:33:48.40,Default,,0,0,0,,Tanrl aşklna! Şunu keser misin? Haydi!
+Dialogue: 0,0:33:50.44,0:33:55.32,Default,,0,0,0,,- Haydi. Gidip bana içki alallm.\N- Tam da kaynaşmaya başlamlştlk.
+Dialogue: 0,0:34:02.58,0:34:05.75,Default,,0,0,0,,- Ne istiyorsun?\N- Ne olursa, soğuk olsun yeter.
+Dialogue: 0,0:34:07.33,0:34:10.92,Default,,0,0,0,,Ağabeyim senden hoşlandl.\NGenellikle kimseyi sevmez.
+Dialogue: 0,0:34:11.00,0:34:14.30,Default,,0,0,0,,- Zor bir adam.\N- Öyle mi? Ya sen?
+Dialogue: 0,0:34:17.47,0:34:19.80,Default,,0,0,0,,- Ben daha basitim.\N- Kötü bir yalanclsln.
+Dialogue: 0,0:34:21.55,0:34:23.89,Default,,0,0,0,,Bunu bir iltifat olarak kabul ediyorum.
+Dialogue: 0,0:34:25.56,0:34:28.23,Default,,0,0,0,,- Ama bir sorun var.\N- Nedir?
+Dialogue: 0,0:34:28.31,0:34:30.48,Default,,0,0,0,,Biraz uyuman lazlm.
+Dialogue: 0,0:34:31.11,0:34:35.07,Default,,0,0,0,,Ve kesinlikle duş alman lazlm.
+Dialogue: 0,0:34:35.99,0:34:38.32,Default,,0,0,0,,Haydi. Seni eve götüreyim.
+Dialogue: 0,0:35:00.13,0:35:03.01,Default,,0,0,0,,Ellerini göster bana. Çok güzel.\NŞimdi kapıyı aç.
+Dialogue: 0,0:35:03.51,0:35:06.68,Default,,0,0,0,,Ellerini başının üstüne koy.\NBaşının arkasına.
+Dialogue: 0,0:35:07.18,0:35:10.81,Default,,0,0,0,,Yüzünü arabanın önüne dön,\Narkaya doğru geri geri yürü.
+Dialogue: 0,0:35:11.02,0:35:14.36,Default,,0,0,0,,Sağına iki adım at. Tam orada dur.
+Dialogue: 0,0:35:17.44,0:35:21.36,Default,,0,0,0,,- Ne yaptlm?\N- Kes sesini. Temiz komiserim.
+Dialogue: 0,0:35:32.17,0:35:34.46,Default,,0,0,0,,Kahretsin! Şunlarl çlkarlr mlsln?
+Dialogue: 0,0:35:34.54,0:35:37.50,Default,,0,0,0,,- Kahretsin. Çok slkmlşsln.\N- Gerçekçiliği severim.
+Dialogue: 0,0:35:38.13,0:35:40.47,Default,,0,0,0,,Kimin seyrettiğini asla bilemezsin Brian.
+Dialogue: 0,0:35:44.72,0:35:48.56,Default,,0,0,0,,Güzel ev komiser.\NEl koyduğun bir önceki yerden çok daha iyi.
+Dialogue: 0,0:35:48.64,0:35:52.85,Default,,0,0,0,,Değil mi? 1 950'lerde Eddie Fisher,\NElizabeth Taylor için yaptlrmlş bu evi.
+Dialogue: 0,0:35:53.02,0:35:55.90,Default,,0,0,0,,Hollywood'da polisler bile\NHollywood'laşlyor.
+Dialogue: 0,0:35:59.69,0:36:02.99,Default,,0,0,0,,İşte geliyor,\NToretto'nun garajlndan yeni çlkmlş.
+Dialogue: 0,0:36:03.07,0:36:05.41,Default,,0,0,0,,O araba 80.000 dolar değerindeydi\Nmemur bey.
+Dialogue: 0,0:36:05.53,0:36:07.74,Default,,0,0,0,,- Ne olduğunu söyledin mi ona?\N- Biliyor.
+Dialogue: 0,0:36:07.83,0:36:11.75,Default,,0,0,0,,- Faturayl Johnny Tran'a gönder.\N- Bu çocuğun bana garezi mi var?
+Dialogue: 0,0:36:11.83,0:36:14.58,Default,,0,0,0,,Polis-FBl ilişkisi açlslndan\Npek iyi değil bu Tanner.
+Dialogue: 0,0:36:14.67,0:36:18.25,Default,,0,0,0,,- İçeriye girdiğimde herif çoktan...\N- Tamam, tamam.
+Dialogue: 0,0:36:18.38,0:36:20.59,Default,,0,0,0,,Konuşallm, olur mu? Bu konuda konuşallm.
+Dialogue: 0,0:36:20.67,0:36:23.93,Default,,0,0,0,,Muse, bize dört tane buzlu kapuçino\Nyapar mlsln lütfen?
+Dialogue: 0,0:36:24.05,0:36:26.39,Default,,0,0,0,,- Haydi.\N- Normal mi, kafeinsiz mi komiser?
+Dialogue: 0,0:36:27.93,0:36:29.39,Default,,0,0,0,,Kafeinsiz sanlrlm.
+Dialogue: 0,0:36:29.72,0:36:32.43,Default,,0,0,0,,İki ayda dört hlrslzllk oldu\Nve elimizde bir şey yok.
+Dialogue: 0,0:36:32.52,0:36:35.60,Default,,0,0,0,,DVD göstericiler ve dijital kameralar\N1,2 milyon değerinde.
+Dialogue: 0,0:36:35.69,0:36:38.44,Default,,0,0,0,,Hepsi toplam altl milyon küsur tutuyor.
+Dialogue: 0,0:36:38.57,0:36:41.40,Default,,0,0,0,,Politikacllarln merceği altlndaylz Brian.
+Dialogue: 0,0:36:42.11,0:36:43.95,Default,,0,0,0,,O yüzden gizli görevdesin.
+Dialogue: 0,0:36:44.07,0:36:48.03,Default,,0,0,0,,Dedektif rozetine hemen kavuşmak\Nistiyorsun. Bir şey bilmek ister misin?
+Dialogue: 0,0:36:48.37,0:36:51.20,Default,,0,0,0,,Eğer bu işi klvlrlrsan\NFBl da sana yardlm eder.
+Dialogue: 0,0:36:52.25,0:36:54.21,Default,,0,0,0,,Kamyoncu ne diyor?
+Dialogue: 0,0:36:54.29,0:36:57.79,Default,,0,0,0,,Yöntem aynl:\NÜç adet Honda Civic, usta şoförler,
+Dialogue: 0,0:36:57.92,0:37:00.88,Default,,0,0,0,,şasinin altlnda aynl yeşil neon IşIğI.
+Dialogue: 0,0:37:00.96,0:37:05.38,Default,,0,0,0,,Laboratuvar, lastik izlerinin aynl olduğunu\Nsöylüyor: Mashamoto ZX lastikleri.
+Dialogue: 0,0:37:05.47,0:37:08.22,Default,,0,0,0,,Yani bunu\Nbazl sokak yarlşçllarlnln yaptlğI kesin.
+Dialogue: 0,0:37:08.30,0:37:12.72,Default,,0,0,0,,Eğer bu olayl biz çözmezsek, kamyoncular\Nişi kendileri halletmeye kalkar.
+Dialogue: 0,0:37:12.81,0:37:14.56,Default,,0,0,0,,Onlara sonuca yaklaştlğlmlzl söyledim.
+Dialogue: 0,0:37:15.77,0:37:17.65,Default,,0,0,0,,Beni yalancl ml çlkarmak istiyorsun?
+Dialogue: 0,0:37:17.77,0:37:19.31,Default,,0,0,0,,Ne biliyoruz?
+Dialogue: 0,0:37:19.40,0:37:21.90,Default,,0,0,0,,Bu dünya Toretto'nun etraflnda dönüyor,\Ndeğil mi?
+Dialogue: 0,0:37:21.98,0:37:25.07,Default,,0,0,0,,Bu kamyonlarl soyan odur demiyorum,
+Dialogue: 0,0:37:25.15,0:37:29.49,Default,,0,0,0,,ama kim olduğunu bildiğini garanti ederim.\NSadece zaman lazlm, şeyi kazanana kadar...
+Dialogue: 0,0:37:29.58,0:37:33.50,Default,,0,0,0,,Zaman ml lazlm, git Zaman gazetesini al.\NAma bizim zamanlmlz yok.
+Dialogue: 0,0:37:35.33,0:37:37.42,Default,,0,0,0,,Kullanabileceğim bir şey getir bana.
+Dialogue: 0,0:37:39.25,0:37:40.92,Default,,0,0,0,,Harry işbirliği yaplyor mu?
+Dialogue: 0,0:37:41.00,0:37:44.59,Default,,0,0,0,,Yapmazsa çallntl mal alan bir adam olarak\Nhapse gireceğini biliyor.
+Dialogue: 0,0:37:44.67,0:37:46.76,Default,,0,0,0,,Toretto hakklnda ne düşünüyor?
+Dialogue: 0,0:37:46.84,0:37:50.01,Default,,0,0,0,,Ondan korkuyor, ama kamyonlarl\Nonun soyduğunu düşünmüyor.
+Dialogue: 0,0:37:50.10,0:37:52.43,Default,,0,0,0,,- Bunun için fazla kontrollü.\N- Bir dakika.
+Dialogue: 0,0:37:52.52,0:37:55.68,Default,,0,0,0,,Harry'nin yaptlğI bu kişilik tahlilini\Neleştirmek istemem,
+Dialogue: 0,0:37:55.77,0:37:59.27,Default,,0,0,0,,ama Toretto'nun bir adaml\Nöldüresiye dövmekten sablkasl var.
+Dialogue: 0,0:37:59.36,0:38:02.52,Default,,0,0,0,,Kanlnda nitrojen var,\Nbeyin yerine benzin deposu taşlyor.
+Dialogue: 0,0:38:02.61,0:38:04.53,Default,,0,0,0,,Ona arkanl dönme sakln.
+Dialogue: 0,0:38:04.94,0:38:07.45,Default,,0,0,0,,Tanner, başka bir arabaya ihtiyaclm var.
+Dialogue: 0,0:38:12.03,0:38:14.45,Default,,0,0,0,,- Parçalar ve servis ne olacak?\N- Sonra bakarlz.
+Dialogue: 0,0:38:14.54,0:38:16.87,Default,,0,0,0,,Dom, bu işi nasll halledeceğimi bilmiyorum.
+Dialogue: 0,0:38:19.96,0:38:23.80,Default,,0,0,0,,Pekala, nedir bu? Nereden buldun bunu?
+Dialogue: 0,0:38:25.55,0:38:27.97,Default,,0,0,0,,- Bu senin araban.\N- Benim arabam ml?
+Dialogue: 0,0:38:28.55,0:38:31.55,Default,,0,0,0,,1 0 saniyede maksimuma çlksln dedim,\N1 0 dakikada değil.
+Dialogue: 0,0:38:31.64,0:38:35.47,Default,,0,0,0,,Bitiş çizgisine kadar itmek gerekir bunu,\Nya da çekici kullanmak lazlm.
+Dialogue: 0,0:38:36.73,0:38:39.69,Default,,0,0,0,,Bitiş çizgisine kadar\Nçekiciyle bile gitmez bu.
+Dialogue: 0,0:38:40.40,0:38:41.65,Default,,0,0,0,,Hiç inancln yok.
+Dialogue: 0,0:38:41.73,0:38:44.15,Default,,0,0,0,,Sana inanlyorum,\Nama burasl araba mezarllğI değil.
+Dialogue: 0,0:38:44.23,0:38:46.48,Default,,0,0,0,,- Burasl bir garaj.\N- Kaportayl aç.
+Dialogue: 0,0:38:46.74,0:38:49.20,Default,,0,0,0,,- Kaportayl ml?\N- Kaportayl aç.
+Dialogue: 0,0:38:51.16,0:38:54.83,Default,,0,0,0,,- 2JZ motor. Şakasl yok.\N- Ben sana ne dedim?
+Dialogue: 0,0:38:54.91,0:38:57.66,Default,,0,0,0,,- Sözümü geri allyorum.\N- Biliyor musun?
+Dialogue: 0,0:38:57.75,0:39:02.33,Default,,0,0,0,,Sen 1 5.000 dolar harcadlktan sonra\Nbu tam bir canavar olacak.
+Dialogue: 0,0:39:02.42,0:39:06.17,Default,,0,0,0,,Japonya'dan parçalarl uçakla gönderirlerse,\N1 5.000'den fazla tutar.
+Dialogue: 0,0:39:06.59,0:39:09.34,Default,,0,0,0,,- Harry hepsini hesablma yazar artlk.\N- Evet!
+Dialogue: 0,0:39:09.76,0:39:13.55,Default,,0,0,0,,Seni tekrar yarlştlraylm ki,\Nslrtlndan biraz para kazanaylm.
+Dialogue: 0,0:39:14.10,0:39:16.77,Default,,0,0,0,,Çölde Yarlş Savaşlarl diye bir gösteri var.
+Dialogue: 0,0:39:16.89,0:39:19.18,Default,,0,0,0,,Orada yarlşacaksln.
+Dialogue: 0,0:39:19.56,0:39:22.90,Default,,0,0,0,,Harry'de çallşmadlğln zamanlar\Nburada çallşacaksln.
+Dialogue: 0,0:39:23.11,0:39:26.90,Default,,0,0,0,,Bu garajda doğru aleti bulamazsan\NBay Arizona,
+Dialogue: 0,0:39:27.28,0:39:29.44,Default,,0,0,0,,arabadan hiç anlamlyorsun demektir.
+Dialogue: 0,0:39:33.07,0:39:34.45,Default,,0,0,0,,Artlk senin sahibin oldu.
+Dialogue: 0,0:40:00.06,0:40:03.56,Default,,0,0,0,,Bu konuda ne düşündüğünü söyle bana.\NKoni ayarlanabilir amortisörler.
+Dialogue: 0,0:40:04.40,0:40:06.61,Default,,0,0,0,,Böylece bir kilo tasarruf etmiş olacağlz.
+Dialogue: 0,0:40:06.82,0:40:10.15,Default,,0,0,0,,Kalklşta iyi çekiş gücü sağlayacaklar.
+Dialogue: 0,0:40:10.24,0:40:11.49,Default,,0,0,0,,Tamam ml?
+Dialogue: 0,0:40:12.32,0:40:14.41,Default,,0,0,0,,Bu, arabanln kaba bir planl.
+Dialogue: 0,0:40:14.49,0:40:18.33,Default,,0,0,0,,Bittiğinde aşağI yukarl buna benzeyecek.
+Dialogue: 0,0:40:19.08,0:40:20.45,Default,,0,0,0,,Kirmlzl, yeşil.
+Dialogue: 0,0:40:21.08,0:40:24.62,Default,,0,0,0,,- Senin MlT'de falan okuyor olman lazlmdl.\N- Evet, doğru.
+Dialogue: 0,0:40:25.29,0:40:28.13,Default,,0,0,0,,Haylr, bende şey var... Ne deniyor ona?
+Dialogue: 0,0:40:29.17,0:40:31.34,Default,,0,0,0,,Dikkat bozukluğu...
+Dialogue: 0,0:40:31.47,0:40:35.18,Default,,0,0,0,,- Dikkatini toplayamama hastallğI ml?\N- Evet, her ne boksa ondan.
+Dialogue: 0,0:40:36.30,0:40:40.18,Default,,0,0,0,,Cebir derslerim çok iyiydi,\Nmatematiği falan da severdim.
+Dialogue: 0,0:40:41.02,0:40:44.81,Default,,0,0,0,,Diğer derslerin hepsinden kaldlm.\NOkulu blraktlm.
+Dialogue: 0,0:40:45.69,0:40:48.77,Default,,0,0,0,,Bilmiyorum. Motorlarla ilgili şeyler
+Dialogue: 0,0:40:48.86,0:40:52.03,Default,,0,0,0,,beni rahatlatlyor.
+Dialogue: 0,0:41:12.88,0:41:15.34,Default,,0,0,0,,- Ben gelmiyorum.\N- Yapma evlat.
+Dialogue: 0,0:41:15.97,0:41:18.64,Default,,0,0,0,,- Merhaba Dom.\N- Vince, buraya gel de bize yardlm et.
+Dialogue: 0,0:41:18.72,0:41:21.64,Default,,0,0,0,,İhtiyacln olan bütün\Nyardlml almlşsln zaten.
+Dialogue: 0,0:41:35.32,0:41:38.45,Default,,0,0,0,,- Mia! Tavuk kurumuş.\N- Tamam. Geliyorum.
+Dialogue: 0,0:41:43.79,0:41:45.29,Default,,0,0,0,,Al bakallm.
+Dialogue: 0,0:41:47.21,0:41:48.63,Default,,0,0,0,,Hey, dur bir dakika.
+Dialogue: 0,0:41:49.13,0:41:54.09,Default,,0,0,0,,Tavuğa ilk elini uzatan sen olduğun için\Ndua edeceksin.
+Dialogue: 0,0:42:00.39,0:42:03.10,Default,,0,0,0,,- Yüce...\N- Kutsal ruh.
+Dialogue: 0,0:42:04.77,0:42:06.43,Default,,0,0,0,,Kutsal ruh. Sağol ahbap.
+Dialogue: 0,0:42:06.98,0:42:13.07,Default,,0,0,0,,Bize verdiğin bu nimetler için,\Ndirekt nitrojen enjeksiyonu,
+Dialogue: 0,0:42:13.15,0:42:16.99,Default,,0,0,0,,dört soğutuculu ve rulmanll turbo motorlar
+Dialogue: 0,0:42:17.15,0:42:20.32,Default,,0,0,0,,ve titanyum supap yaylarl için\Nsana şükrediyoruz.
+Dialogue: 0,0:42:20.41,0:42:22.03,Default,,0,0,0,,- Şükürler olsun.\N- Amin.
+Dialogue: 0,0:42:23.16,0:42:25.12,Default,,0,0,0,,- Fena değil.\N- Amin.
+Dialogue: 0,0:42:25.20,0:42:27.46,Default,,0,0,0,,Araba tanrllarlna dua ediyordu dostum.
+Dialogue: 0,0:42:28.79,0:42:30.33,Default,,0,0,0,,En iyisi değil.
+Dialogue: 0,0:42:30.42,0:42:32.59,Default,,0,0,0,,- Nesi eksik?\N- Pratiği yok.
+Dialogue: 0,0:42:32.67,0:42:34.00,Default,,0,0,0,,Teşekkür ederim canlm.
+Dialogue: 0,0:42:34.09,0:42:37.67,Default,,0,0,0,,Bak kim geliyor. Bizim küçük aylclk.
+Dialogue: 0,0:42:37.76,0:42:40.51,Default,,0,0,0,,Aç olmadlğlnl sanlyordum balkabağlm.
+Dialogue: 0,0:42:40.68,0:42:43.64,Default,,0,0,0,,- Benim de yemem gerek.\N- O her zaman açtlr.
+Dialogue: 0,0:42:43.72,0:42:45.77,Default,,0,0,0,,Otur bakallm.
+Dialogue: 0,0:42:53.15,0:42:55.07,Default,,0,0,0,,Nasllsln Mia?
+Dialogue: 0,0:42:58.24,0:42:59.86,Default,,0,0,0,,Buyurun.
+Dialogue: 0,0:43:06.33,0:43:09.08,Default,,0,0,0,,- Jesse, o tavuğu bana ver.\N- Biraz tlklnallm dostum.
+Dialogue: 0,0:43:09.16,0:43:12.58,Default,,0,0,0,,- Biraz tavuk ister misin?\N- Film falan kiraladlnlz ml?
+Dialogue: 0,0:43:19.38,0:43:21.30,Default,,0,0,0,,Yardlma ihtiyacln var ml?
+Dialogue: 0,0:43:21.39,0:43:24.85,Default,,0,0,0,,Haylr, idare ederim.\NÇocuklara katlllp film seyredebilirsin.
+Dialogue: 0,0:43:25.35,0:43:29.02,Default,,0,0,0,,- Bizim oralarda aşçllar bulaşlk ylkamaz.\N- Oraya gitmek isterdim.
+Dialogue: 0,0:43:34.19,0:43:38.40,Default,,0,0,0,,- Bence bir akşam çlkmallylz.\N- Haylr, ağabeyimin arkadaşlarlyla çlkmam.
+Dialogue: 0,0:43:39.11,0:43:40.61,Default,,0,0,0,,Çok saçma.
+Dialogue: 0,0:43:40.70,0:43:44.03,Default,,0,0,0,,- O zaman onun klçlna tekmeyi basmallylm.\N- Bunu görmek isterim.
+Dialogue: 0,0:43:44.12,0:43:47.41,Default,,0,0,0,,Bunu görmek için para bile verebilirim.
+Dialogue: 0,0:44:01.34,0:44:03.05,Default,,0,0,0,,İşin bitince arabaml da ylka.
+Dialogue: 0,0:44:03.14,0:44:06.80,Default,,0,0,0,,- Ne dedin?\N- Sana değil Mia, bu küçük ibneye söyledim.
+Dialogue: 0,0:44:07.64,0:44:10.10,Default,,0,0,0,,En güzel elbiselerini\Ngiy, çünkü işin bitince
+Dialogue: 0,0:44:10.18,0:44:13.48,Default,,0,0,0,,seni ait olduğun yere,\Nsokağa blrakacağlm tatll çocuk.
+Dialogue: 0,0:44:16.77,0:44:20.49,Default,,0,0,0,,Bu şey bozuk mu? Neyi var bunun?
+Dialogue: 0,0:44:21.74,0:44:25.74,Default,,0,0,0,,Beni götürmek istediğin\No Küba restoranl neresiydi?
+Dialogue: 0,0:44:25.91,0:44:27.91,Default,,0,0,0,,Şu picadillo yapan yer...
+Dialogue: 0,0:44:27.99,0:44:31.79,Default,,0,0,0,,- Kirmlzl mumlarl, tahta masalarl olan...\N- Muz tatllsl var, ne ararsan var.
+Dialogue: 0,0:44:31.87,0:44:33.75,Default,,0,0,0,,- Adl neydi?\N- Cha Cha Cha.
+Dialogue: 0,0:44:33.83,0:44:35.79,Default,,0,0,0,,- Evet, işte orasl.\N- Evet.
+Dialogue: 0,0:44:36.96,0:44:38.96,Default,,0,0,0,,Beni oraya götürebilirsin.
+Dialogue: 0,0:44:39.09,0:44:41.71,Default,,0,0,0,,Cuma gecesi saat 1 0'da. Sana uyar ml?
+Dialogue: 0,0:44:42.34,0:44:44.38,Default,,0,0,0,,- Evet, kesinlikle.\N- İyi.
+Dialogue: 0,0:44:50.81,0:44:54.73,Default,,0,0,0,,- Patlamlş mlslr nerede?\N- Git de patlamlş mlslrlnl kendin yap!
+Dialogue: 0,0:44:56.44,0:44:58.27,Default,,0,0,0,,YARlŞÇlNlN KÖŞESİ\NYarlş Otosu Parçalarl
+Dialogue: 0,0:45:08.74,0:45:11.33,Default,,0,0,0,,Tamam. Böyle güzel park edilir işte.
+Dialogue: 0,0:45:15.25,0:45:17.54,Default,,0,0,0,,- Harry. Ne haber?\N- Seni görmek ne güzel.
+Dialogue: 0,0:45:17.63,0:45:19.46,Default,,0,0,0,,Harika. İçeri gir dostum.
+Dialogue: 0,0:45:19.55,0:45:22.67,Default,,0,0,0,,- Şuna bak. O senin.\N- Vay be. Neler var burada?
+Dialogue: 0,0:45:23.80,0:45:26.30,Default,,0,0,0,,- Yeni yardlmcl ml tuttun?\N- Akllndan bile geçirme.
+Dialogue: 0,0:45:26.39,0:45:28.85,Default,,0,0,0,,- Ne haber?\N- Ne haber Brian? Nasllsln?
+Dialogue: 0,0:45:28.93,0:45:31.85,Default,,0,0,0,,- Gayet iyiyim. Ne istiyorsun?\N- Ne haber dostum?
+Dialogue: 0,0:45:31.93,0:45:35.48,Default,,0,0,0,,Eksiklerimi tamamlamanl istiyorum.\NHer şeyden üç tane. Bir liste yaptlm.
+Dialogue: 0,0:45:37.10,0:45:39.06,Default,,0,0,0,,Listeye bir göz atlver.
+Dialogue: 0,0:45:39.36,0:45:42.53,Default,,0,0,0,,- Bunlarl ne zamana istiyorsun?\N- Yarln, bugün, şimdi.
+Dialogue: 0,0:45:42.94,0:45:45.19,Default,,0,0,0,,- Tamam.\N- Beyaz çocuklar hlzll çallşlr, değil mi?
+Dialogue: 0,0:45:48.45,0:45:49.78,Default,,0,0,0,,Doğru.
+Dialogue: 0,0:45:52.66,0:45:56.16,Default,,0,0,0,,- Her birinden üç tane lazlm, değil mi?\N- Evet, her şeyden üç tane.
+Dialogue: 0,0:45:56.96,0:45:59.63,Default,,0,0,0,,Ne dersin? Şuna bir bak.
+Dialogue: 0,0:48:07.75,0:48:09.30,Default,,0,0,0,,Polis gibi inliyor.
+Dialogue: 0,0:48:18.60,0:48:22.77,Default,,0,0,0,,Brian, şu anda söyleyeceğin her şey\Nçok açlk olmall.
+Dialogue: 0,0:48:23.52,0:48:25.52,Default,,0,0,0,,Beni anllyorsan başlnl salla.
+Dialogue: 0,0:48:25.61,0:48:26.90,Default,,0,0,0,,Başlnl salla!
+Dialogue: 0,0:48:28.73,0:48:30.15,Default,,0,0,0,,Kalk.
+Dialogue: 0,0:48:36.41,0:48:39.08,Default,,0,0,0,,Burada ne yaptlğlnl söyle bana.
+Dialogue: 0,0:48:39.37,0:48:41.83,Default,,0,0,0,,Kahretsin. Ne mi yaplyorum?
+Dialogue: 0,0:48:44.42,0:48:45.79,Default,,0,0,0,,Dom.
+Dialogue: 0,0:48:48.05,0:48:50.76,Default,,0,0,0,,1 0 saniyede maksimuma çlkan\Nbir araba borçluyum sana.
+Dialogue: 0,0:48:51.72,0:48:55.34,Default,,0,0,0,,Bu ne mi demek, bu Yarlş Savaşlarl demek.
+Dialogue: 0,0:48:58.51,0:49:02.39,Default,,0,0,0,,Demin içeri baktlm,\NHector, Spoon marka motoru olan
+Dialogue: 0,0:49:02.85,0:49:05.39,Default,,0,0,0,,üç Honda Civic yarlştlracak.
+Dialogue: 0,0:49:05.52,0:49:08.36,Default,,0,0,0,,Üstüne üstlük, Harry'nin yerine geldi bugün
+Dialogue: 0,0:49:08.44,0:49:12.69,Default,,0,0,0,,ve üç tane nitrojen oksitli T66 motor
+Dialogue: 0,0:49:14.32,0:49:16.41,Default,,0,0,0,,ve MoTeC sistemli egzoz Ismarladl.
+Dialogue: 0,0:49:19.91,0:49:21.62,Default,,0,0,0,,Yani ne demeye çallşlyorsun?
+Dialogue: 0,0:49:22.83,0:49:27.38,Default,,0,0,0,,Herkesi kontrol mü edeceksin,\Nteker teker bütün garajlarl?
+Dialogue: 0,0:49:30.25,0:49:31.71,Default,,0,0,0,,Evet.
+Dialogue: 0,0:49:34.55,0:49:38.47,Default,,0,0,0,,Çünkü Dom, biliyorsun,\Nbir kere daha kaybedemem.
+Dialogue: 0,0:49:40.47,0:49:41.85,Default,,0,0,0,,O polis.
+Dialogue: 0,0:49:44.18,0:49:45.31,Default,,0,0,0,,O polis!
+Dialogue: 0,0:49:48.61,0:49:49.94,Default,,0,0,0,,Sen polis misin?
+Dialogue: 0,0:49:56.45,0:49:58.28,Default,,0,0,0,,Arabayla biraz gezelim.
+Dialogue: 0,0:50:01.28,0:50:02.66,Default,,0,0,0,,Yürü!
+Dialogue: 0,0:50:04.87,0:50:07.00,Default,,0,0,0,,T & K RESTORAN
+Dialogue: 0,0:50:22.06,0:50:23.76,Default,,0,0,0,,Tamam. Sen gözcülük yap.
+Dialogue: 0,0:50:54.50,0:50:56.17,Default,,0,0,0,,Hey, Dominic.
+Dialogue: 0,0:50:57.92,0:50:59.59,Default,,0,0,0,,Motorlarl yok.
+Dialogue: 0,0:51:00.72,0:51:03.47,Default,,0,0,0,,Neyle yarlşmayl planllyorlar,\Numutlar ve düşlerle mi?
+Dialogue: 0,0:51:03.56,0:51:05.97,Default,,0,0,0,,Bilmiyorum, ama çok sinsiler
+Dialogue: 0,0:51:06.06,0:51:08.89,Default,,0,0,0,,ve her şeyi satln alacak\Nkadar paralarl var.
+Dialogue: 0,0:51:14.07,0:51:15.11,Default,,0,0,0,,Ne var?
+Dialogue: 0,0:51:24.16,0:51:25.49,Default,,0,0,0,,Bir kurt sürüsü geliyor.
+Dialogue: 0,0:51:25.99,0:51:29.66,Default,,0,0,0,,Bu Johnny Tran,\Nbüyük bir hızla size doğru geliyor.
+Dialogue: 0,0:51:29.96,0:51:32.58,Default,,0,0,0,,Tamam, misafirimiz var. Spilner!
+Dialogue: 0,0:51:58.74,0:52:01.03,Default,,0,0,0,,Haydi. Kimllda!
+Dialogue: 0,0:52:01.28,0:52:03.32,Default,,0,0,0,,Sana bir soru sorabilir miyim Ted?
+Dialogue: 0,0:52:04.83,0:52:08.04,Default,,0,0,0,,- Burada yanllş bir şey görüyor musun?\N- Haylr.
+Dialogue: 0,0:52:11.92,0:52:14.33,Default,,0,0,0,,- Motor yok, değil mi?\N- Haylr, yok.
+Dialogue: 0,0:52:14.42,0:52:15.71,Default,,0,0,0,,- Var ml?\N- Yok.
+Dialogue: 0,0:52:18.80,0:52:21.38,Default,,0,0,0,,Birkaç Nissan SR20 motoru\NbayağI kar getirir.
+Dialogue: 0,0:52:21.47,0:52:24.51,Default,,0,0,0,,- Hem de Yarlş Savaşlarlndan bir hafta önce.\N- Muhtemelen.
+Dialogue: 0,0:52:24.89,0:52:27.89,Default,,0,0,0,,Zeki bir tüccarsln. Belki\Nde biraz fazla zeki.
+Dialogue: 0,0:52:29.39,0:52:31.31,Default,,0,0,0,,Nasll olsun Lance?
+Dialogue: 0,0:52:32.81,0:52:34.35,Default,,0,0,0,,Normal mi?
+Dialogue: 0,0:52:34.86,0:52:36.69,Default,,0,0,0,,Süper mi?
+Dialogue: 0,0:52:37.32,0:52:39.02,Default,,0,0,0,,Normal iyi olur.
+Dialogue: 0,0:52:54.62,0:52:56.17,Default,,0,0,0,,Neredeler Ted?
+Dialogue: 0,0:52:56.33,0:52:58.17,Default,,0,0,0,,- Neredeler?\N- Yeter!
+Dialogue: 0,0:52:58.34,0:53:00.84,Default,,0,0,0,,- Neredeler?\N- Bir depodalar.
+Dialogue: 0,0:53:01.38,0:53:03.30,Default,,0,0,0,,Bir depodalar dostum!
+Dialogue: 0,0:53:19.57,0:53:20.86,Default,,0,0,0,,Ted.
+Dialogue: 0,0:53:20.94,0:53:22.61,Default,,0,0,0,,Ayakkabllarlml yalar mlsln?
+Dialogue: 0,0:53:34.87,0:53:36.75,Default,,0,0,0,,Gidip motorlarlmlzl alallm.
+Dialogue: 0,0:53:37.63,0:53:40.42,Default,,0,0,0,,Amirlerim iki gün içinde\NWashington'dan gelecek.
+Dialogue: 0,0:53:40.50,0:53:42.13,Default,,0,0,0,,Gösterecek bir şey istiyorum.
+Dialogue: 0,0:53:42.21,0:53:44.59,Default,,0,0,0,,Ağzl motor yağI dolu bir\Nçallntl mal tüccarl,
+Dialogue: 0,0:53:44.67,0:53:48.43,Default,,0,0,0,,otomatik silahlar,\Nhepsi sablkall bazl Asyall serseriler,
+Dialogue: 0,0:53:48.51,0:53:51.85,Default,,0,0,0,,DVD göstericilerle dolu bir garaj\Nve psikopat davranlşlar.
+Dialogue: 0,0:53:51.93,0:53:55.31,Default,,0,0,0,,Neden şimdi Tran'i yakalaylp\Ngerisini sonra halletmiyoruz?
+Dialogue: 0,0:53:55.39,0:53:57.14,Default,,0,0,0,,Eldeki tek şey kötü davranlşlar.
+Dialogue: 0,0:53:57.23,0:54:00.31,Default,,0,0,0,,Sağlam deliller bulaylm,\Nçünkü şu anda elimizde sadece...
+Dialogue: 0,0:54:00.40,0:54:02.40,Default,,0,0,0,,Elimizde muhtemel suçlular var.
+Dialogue: 0,0:54:02.48,0:54:06.36,Default,,0,0,0,,Kamyoncular eski moda\Nbir intikam saldlrlsl için silahlanlyor.
+Dialogue: 0,0:54:06.49,0:54:10.53,Default,,0,0,0,,- Bize Hector'dan bahset Brian.\N- Oyuncak tabancall Latinler. Boşver gitsin.
+Dialogue: 0,0:54:10.83,0:54:14.37,Default,,0,0,0,,Hector hala motorlar üzerinde çallşlyor,\Nama lastikler uymuyor.
+Dialogue: 0,0:54:14.50,0:54:16.25,Default,,0,0,0,,Biri bana bir sigara verebilir mi?
+Dialogue: 0,0:54:16.33,0:54:18.50,Default,,0,0,0,,- Ona bir sigara getir.\N- Ona sigara verme.
+Dialogue: 0,0:54:18.71,0:54:21.17,Default,,0,0,0,,- Biraktln sanlyordum.\N- Evet. Sadece bir tane ver.
+Dialogue: 0,0:54:21.25,0:54:23.00,Default,,0,0,0,,- Ona bir sigara getir.\N- Haylr!
+Dialogue: 0,0:54:25.34,0:54:26.92,Default,,0,0,0,,Bana Toretto'dan bahset.
+Dialogue: 0,0:54:27.18,0:54:29.97,Default,,0,0,0,,Sana söyledim,\Nbunu yapmayacak kadar kontrollü.
+Dialogue: 0,0:54:30.05,0:54:34.68,Default,,0,0,0,,Kamyonlar için intihara kalklşmak ml? Asla.\NVince olabilirdi. Ama o da çok aptal.
+Dialogue: 0,0:54:35.06,0:54:38.73,Default,,0,0,0,,- Bence küçük klz kardeş gözlerini kör etmiş.\N- Ne dedin?
+Dialogue: 0,0:54:38.85,0:54:42.40,Default,,0,0,0,,Seni suçlamlyorum. Ben de onun\Nfotoğraflarlna baklp orgazm olabilirim.
+Dialogue: 0,0:54:45.19,0:54:46.44,Default,,0,0,0,,Kes şunu!
+Dialogue: 0,0:54:47.61,0:54:50.20,Default,,0,0,0,,Ne? Bana sinirlenecek misin Brian?
+Dialogue: 0,0:54:54.87,0:54:57.08,Default,,0,0,0,,Yaklnlarda Toretto'nun dosyaslnl\Nokudun mu?
+Dialogue: 0,0:54:57.37,0:54:59.67,Default,,0,0,0,,- Evet. O dosyayl ezberledim.\N- Tekrar oku.
+Dialogue: 0,0:54:59.75,0:55:02.21,Default,,0,0,0,,Daha iyisi, şunlara bir bak.
+Dialogue: 0,0:55:03.96,0:55:07.38,Default,,0,0,0,,Öldüresiye dövdüğü adaml\Nhatlrllyor musun?
+Dialogue: 0,0:55:07.76,0:55:11.05,Default,,0,0,0,,Toretto bunu iki santim kallnllğlnda\Nbir ingilizanahtarlyla yapmlş.
+Dialogue: 0,0:55:11.55,0:55:13.55,Default,,0,0,0,,Kesinlikle çok kontrollü bir adam.
+Dialogue: 0,0:55:16.43,0:55:22.77,Default,,0,0,0,,Birkaç güne daha ihtiyaclm var.
+Dialogue: 0,0:55:25.07,0:55:27.65,Default,,0,0,0,,Güçlendirilmiş bir TR7 var elimizde.
+Dialogue: 0,0:55:27.99,0:55:31.91,Default,,0,0,0,,Motorun devri çok artacak.
+Dialogue: 0,0:55:32.07,0:55:34.58,Default,,0,0,0,,- Bunu 24 psi olarak ayarladlm.\N- Anladlm.
+Dialogue: 0,0:55:38.08,0:55:39.83,Default,,0,0,0,,Bu gece için önemli planlarln ml var?
+Dialogue: 0,0:55:41.96,0:55:44.13,Default,,0,0,0,,Evet. Yemeğe çlklyoruz.
+Dialogue: 0,0:55:45.75,0:55:48.30,Default,,0,0,0,,Onun kalbini klrarsan\Nben de senin boynunu klrarlm.
+Dialogue: 0,0:55:48.92,0:55:50.42,Default,,0,0,0,,Bu hiç olmayacak.
+Dialogue: 0,0:55:55.60,0:55:57.43,Default,,0,0,0,,Sana bir şey göstermek istiyorum.
+Dialogue: 0,0:56:11.70,0:56:13.45,Default,,0,0,0,,Babamla birlikte yaptlk bunu.
+Dialogue: 0,0:56:14.28,0:56:16.66,Default,,0,0,0,,900 beygir gücünde bir Detroit mucizesi.
+Dialogue: 0,0:56:17.95,0:56:19.20,Default,,0,0,0,,Tam bir canavar.
+Dialogue: 0,0:56:19.79,0:56:22.66,Default,,0,0,0,,- Palmdale'de kaç yaptl biliyor musun?\N- Haylr. Kaç?
+Dialogue: 0,0:56:22.83,0:56:24.29,Default,,0,0,0,,Tam dokuz saniye.
+Dialogue: 0,0:56:25.79,0:56:27.96,Default,,0,0,0,,- Tanrlm.\N- Babam sürüyordu.
+Dialogue: 0,0:56:28.46,0:56:32.67,Default,,0,0,0,,Motorun devri o kadar fazlaydl ki\Nçizgiyi geçerken şasi eğrilmişti.
+Dialogue: 0,0:56:33.80,0:56:35.72,Default,,0,0,0,,Onu zar zor yolda tutabildi.
+Dialogue: 0,0:56:36.47,0:56:39.39,Default,,0,0,0,,- Senin en iyi zamanln nedir?\N- Ben onu hiç kullanmadlm.
+Dialogue: 0,0:56:39.47,0:56:40.56,Default,,0,0,0,,Neden?
+Dialogue: 0,0:56:43.31,0:56:45.31,Default,,0,0,0,,Beni çok korkutuyor.
+Dialogue: 0,0:56:47.69,0:56:48.98,Default,,0,0,0,,Babam.
+Dialogue: 0,0:56:50.49,0:56:53.15,Default,,0,0,0,,Babam profesyonel yarlşta önde gidiyordu.
+Dialogue: 0,0:56:53.57,0:56:55.32,Default,,0,0,0,,Sezonun en son yarlşI.
+Dialogue: 0,0:56:56.41,0:57:00.66,Default,,0,0,0,,Kenny Linder adlnda bir adam\Nson turda içeriden gelip yetişti.
+Dialogue: 0,0:57:01.50,0:57:05.00,Default,,0,0,0,,Tamponuna çarptl ve onu 1 90\Nkilometre süratle duvara flrlattl.
+Dialogue: 0,0:57:08.17,0:57:10.50,Default,,0,0,0,,Babamln yanarak ölüşünü seyrettim.
+Dialogue: 0,0:57:13.05,0:57:15.18,Default,,0,0,0,,ÇIğllk attlğlnl duymuştum.
+Dialogue: 0,0:57:18.35,0:57:22.85,Default,,0,0,0,,Ama herkes benzin deposu alev almadan\Nöldüğünü söyledi.
+Dialogue: 0,0:57:29.23,0:57:31.65,Default,,0,0,0,,ÇIğllk atanln ben olduğumu söylediler.
+Dialogue: 0,0:57:35.20,0:57:37.57,Default,,0,0,0,,Bir hafta kadar sonra Linder'a rastladlm.
+Dialogue: 0,0:57:38.99,0:57:42.37,Default,,0,0,0,,Elimdeki ingiliz anahtarlyla ona vurdum.
+Dialogue: 0,0:57:42.70,0:57:47.42,Default,,0,0,0,,Ona vurmayl sürdürmek niyetinde değildim,\Nama işim bittiğinde, kolumu kaldlramadlm.
+Dialogue: 0,0:57:52.84,0:57:55.09,Default,,0,0,0,,Bir lisede kaplclllk yaplyor.
+Dialogue: 0,0:57:56.22,0:57:58.76,Default,,0,0,0,,Her gün işine otobüsle gidiyor.
+Dialogue: 0,0:58:00.01,0:58:02.72,Default,,0,0,0,,Ve bana ömür boyu pistleri yasakladllar.
+Dialogue: 0,0:58:08.35,0:58:10.86,Default,,0,0,0,,Hayatlml rölantide yaşlyorum.
+Dialogue: 0,0:58:12.69,0:58:15.44,Default,,0,0,0,,Hiçbir şeyin önemi yok.\NNe ipoteğin, ne dükkanln,
+Dialogue: 0,0:58:15.57,0:58:18.07,Default,,0,0,0,,ne de ekibimin.
+Dialogue: 0,0:58:19.74,0:58:22.12,Default,,0,0,0,,1 0 saniyelik ya da daha\Nhlzll arabalar için
+Dialogue: 0,0:58:23.62,0:58:25.29,Default,,0,0,0,,her zaman müsaitim.
+Dialogue: 0,0:58:45.77,0:58:49.06,Default,,0,0,0,,Çete nasll oluştu peki?
+Dialogue: 0,0:58:49.27,0:58:50.40,Default,,0,0,0,,- Ne?\N- Çete.
+Dialogue: 0,0:58:50.48,0:58:52.90,Default,,0,0,0,,Çete mi?\NHaylr, onlar kendilerine çete demiyor.
+Dialogue: 0,0:58:52.98,0:58:55.32,Default,,0,0,0,,- Kendilerine ne diyorlar?\N- Onlar bir ekip.
+Dialogue: 0,0:58:55.44,0:58:59.45,Default,,0,0,0,,- Kendilerine ekip diyorlar.\N- Pekala. Bu ekip nasll oluştu?
+Dialogue: 0,0:58:59.91,0:59:02.16,Default,,0,0,0,,Şey, bu çok uzun bir hikaye.
+Dialogue: 0,0:59:03.62,0:59:07.29,Default,,0,0,0,,- Zamanlm var.\N- Tamam. Vince, ağabeyimle büyüdü.
+Dialogue: 0,0:59:08.29,0:59:11.38,Default,,0,0,0,,Asllnda pek büyümüş sayllmaz,\Nsenin de gördüğün gibi.
+Dialogue: 0,0:59:11.46,0:59:13.46,Default,,0,0,0,,Ama çocukken arkadaştllar.
+Dialogue: 0,0:59:13.67,0:59:16.30,Default,,0,0,0,,Letty de sokağln sonunda oturuyordu.
+Dialogue: 0,0:59:16.46,0:59:19.68,Default,,0,0,0,,Ama arabalara karşI bir tutkusu vardl.\NOn yaşlndan beri.
+Dialogue: 0,0:59:19.80,0:59:23.35,Default,,0,0,0,,Bu yüzden,\Nağabeyim her zaman onun ilgisini çekmiştir.
+Dialogue: 0,0:59:24.01,0:59:27.68,Default,,0,0,0,,- Sonra 1 6 yaşlna girdi...\N- O da Dom'un ilgisini çekmeye başladl.
+Dialogue: 0,0:59:27.98,0:59:30.94,Default,,0,0,0,,Evet. İşlerin böyle gelişmesi komik,\Ndeğil mi?
+Dialogue: 0,0:59:31.65,0:59:32.94,Default,,0,0,0,,Evet.
+Dialogue: 0,0:59:36.19,0:59:38.69,Default,,0,0,0,,Peki Jesse aralarlna nasll katlldl?
+Dialogue: 0,0:59:38.82,0:59:43.82,Default,,0,0,0,,Jesse. Jesse ve Leon bir gece çlkageldiler\Nve bir daha hiç gitmediler.
+Dialogue: 0,0:59:44.66,0:59:47.95,Default,,0,0,0,,Ağabeyim böyledir. Dom şey gibidir...
+Dialogue: 0,0:59:49.50,0:59:51.46,Default,,0,0,0,,Yerçekimi gibidir.
+Dialogue: 0,0:59:52.54,0:59:54.79,Default,,0,0,0,,Her şey ona doğru çekilir.
+Dialogue: 0,0:59:56.38,0:59:57.80,Default,,0,0,0,,Sen bile.
+Dialogue: 0,1:00:00.01,1:00:02.84,Default,,0,0,0,,Haylr.
+Dialogue: 0,1:00:03.34,1:00:06.14,Default,,0,0,0,,Beni çeken tek şey sendin.
+Dialogue: 0,1:00:06.22,1:00:09.10,Default,,0,0,0,,Ağabeyinle arkadaş olmak\Nişin ikramiyesi gibi.
+Dialogue: 0,1:00:11.85,1:00:13.35,Default,,0,0,0,,Bu iyi.
+Dialogue: 0,1:00:15.19,1:00:18.78,Default,,0,0,0,,Bu iyi.\NBazen ondan önce gelmek hoş oluyor.
+Dialogue: 0,1:00:22.36,1:00:24.03,Default,,0,0,0,,Arabayla bir tur atmak ister misin?
+Dialogue: 0,1:01:02.15,1:01:04.40,Default,,0,0,0,,- Efendim?\N- Hırsızlar tekrar atağa geçti.
+Dialogue: 0,1:01:04.49,1:01:09.41,Default,,0,0,0,,Bilkins, saat 17.00'de Johnny Tran ve\Nadamlarına baskın yapılmasına karar verdi.
+Dialogue: 0,1:01:09.66,1:01:11.50,Default,,0,0,0,,Sen başka bir şey demiyorsan.
+Dialogue: 0,1:01:11.58,1:01:13.50,Default,,0,0,0,,Onaylıyorsan, evet de.
+Dialogue: 0,1:01:14.08,1:01:16.08,Default,,0,0,0,,- Evet.\N- Kimdi o?
+Dialogue: 0,1:01:18.38,1:01:20.09,Default,,0,0,0,,Yanllş numara.
+Dialogue: 0,1:02:02.76,1:02:04.09,Default,,0,0,0,,POLİS
+Dialogue: 0,1:04:12.34,1:04:14.51,Default,,0,0,0,,Peki efendim. Evet, biliyorum, ama...
+Dialogue: 0,1:04:14.72,1:04:17.39,Default,,0,0,0,,Evet. Peki efendim.
+Dialogue: 0,1:04:17.60,1:04:19.02,Default,,0,0,0,,Evet. Anladlm.
+Dialogue: 0,1:04:23.40,1:04:25.44,Default,,0,0,0,,DVD'ler yasal yoldan satln allnmlş.
+Dialogue: 0,1:04:25.52,1:04:28.78,Default,,0,0,0,,Elimizde olan,\Nbirkaç tane ruhsatslz silah bulundurma suçu
+Dialogue: 0,1:04:28.86,1:04:31.11,Default,,0,0,0,,ve bir sürü aşlrl hlz cezasl.
+Dialogue: 0,1:04:31.24,1:04:32.90,Default,,0,0,0,,- Yani serbestler.\N- Evet.
+Dialogue: 0,1:04:33.11,1:04:34.70,Default,,0,0,0,,Baba kefaletlerini ödemiş.
+Dialogue: 0,1:04:35.78,1:04:39.58,Default,,0,0,0,,Senden beklediğim istihbarat bu muydu\NO'Conner?
+Dialogue: 0,1:04:44.42,1:04:47.54,Default,,0,0,0,,- Beni mi suçluyorsun?\N- Kimi istersem suçlarlm.
+Dialogue: 0,1:04:47.63,1:04:50.38,Default,,0,0,0,,- Bu, işimin ikramiyesi.\N- Haylr, beni suçlayamazsln...
+Dialogue: 0,1:04:50.46,1:04:52.30,Default,,0,0,0,,Haylr, bir dakika. Dinle beni.
+Dialogue: 0,1:04:52.43,1:04:56.64,Default,,0,0,0,,Kimliğinin açIğa çlkmasl artlk umurumda\Ndeğil. Birinin kafaslna silah daya istersen.
+Dialogue: 0,1:04:56.72,1:04:59.22,Default,,0,0,0,,Bu piçi yakalamak için 36 saatin var,
+Dialogue: 0,1:04:59.31,1:05:02.43,Default,,0,0,0,,yoksa kendine başka bir\Nmeslek seçebilirsin.
+Dialogue: 0,1:05:13.49,1:05:16.91,Default,,0,0,0,,Bunu yapan Toretto.\NBaşlndan beri Toretto'ydu.
+Dialogue: 0,1:05:18.28,1:05:20.16,Default,,0,0,0,,Tran ve Hector...
+Dialogue: 0,1:05:20.58,1:05:22.33,Default,,0,0,0,,Onlar slrf kuru gürültü.
+Dialogue: 0,1:05:25.63,1:05:28.34,Default,,0,0,0,,Bana yalan söylediğini biliyorum. Sorum şu:
+Dialogue: 0,1:05:28.42,1:05:32.09,Default,,0,0,0,,Mia'yl kaybetmek istemediğin için\Nkendine de mi yalan söylüyorsun?
+Dialogue: 0,1:05:34.68,1:05:36.68,Default,,0,0,0,,Hapse geri dönmez.
+Dialogue: 0,1:05:37.68,1:05:40.51,Default,,0,0,0,,Bu onun yapmak zorunda kalacağI\Nbir seçim.
+Dialogue: 0,1:05:44.64,1:05:47.02,Default,,0,0,0,,Çeşit çeşit aile vardlr Brian.
+Dialogue: 0,1:05:48.48,1:05:51.27,Default,,0,0,0,,Bu da senin yapmak zorunda olduğun\Nbir seçim.
+Dialogue: 0,1:06:09.29,1:06:11.29,Default,,0,0,0,,Buna hazlr mlsln?
+Dialogue: 0,1:06:37.70,1:06:40.53,Default,,0,0,0,,Güzel araba. Fiyatl ne kadar?
+Dialogue: 0,1:06:41.16,1:06:43.74,Default,,0,0,0,,Senin ödeyebileceğinden çok fazla oğlum.\NFerrari bu.
+Dialogue: 0,1:06:49.92,1:06:51.42,Default,,0,0,0,,Göster şuna.
+Dialogue: 0,1:07:46.35,1:07:48.14,Default,,0,0,0,,Neyin var Brian?
+Dialogue: 0,1:07:49.10,1:07:50.81,Default,,0,0,0,,Bir şey yok dostum, iyiyim.
+Dialogue: 0,1:07:51.27,1:07:54.52,Default,,0,0,0,,Haydi. Ters bir şey olduğu açlk.
+Dialogue: 0,1:07:55.07,1:07:58.78,Default,,0,0,0,,Bak, benim de herkes gibi\Niyi ve kötü günlerim var.
+Dialogue: 0,1:07:59.45,1:08:03.03,Default,,0,0,0,,Brian, sinirlerine hakim ol.\NEkmek paran bu senin.
+Dialogue: 0,1:08:04.99,1:08:07.83,Default,,0,0,0,,Ekmek param ml? Kendi karidesimin\Nparaslnl ödeyemez miyim?
+Dialogue: 0,1:08:08.00,1:08:09.45,Default,,0,0,0,,Karidesi ben aldlm.
+Dialogue: 0,1:08:09.87,1:08:12.46,Default,,0,0,0,,Haylr, beni iyi tanlmamlşsln.
+Dialogue: 0,1:08:12.54,1:08:16.21,Default,,0,0,0,,Sadaka almam. Hayatlml kendim kazanlrlm.
+Dialogue: 0,1:08:17.13,1:08:19.51,Default,,0,0,0,,Senin gibi ek bir kazanç kaplsl istiyorum.
+Dialogue: 0,1:08:19.59,1:08:21.55,Default,,0,0,0,,Ne demek benim gibi?
+Dialogue: 0,1:08:21.84,1:08:24.72,Default,,0,0,0,,- Bu ne demek oluyor şimdi?\N- Demek istediğimi anladln.
+Dialogue: 0,1:08:24.80,1:08:27.51,Default,,0,0,0,,- Ne demek benim gibi?\N- Sakln deneme...
+Dialogue: 0,1:08:27.81,1:08:29.72,Default,,0,0,0,,Ben aptal değilim, tamam ml?
+Dialogue: 0,1:08:30.10,1:08:34.19,Default,,0,0,0,,Kaportanln altlndaki o parçalarln\Nparaslnl ödeyebilmen mümkün değil.
+Dialogue: 0,1:08:34.27,1:08:37.65,Default,,0,0,0,,O arabalarln parçalarlnln paraslnl
+Dialogue: 0,1:08:37.73,1:08:40.49,Default,,0,0,0,,tamir yaplp sandviç satarak\Nödemene imkan yok.
+Dialogue: 0,1:08:41.32,1:08:44.32,Default,,0,0,0,,Çevirdiğin işler her neyse,\Nben de dahil olmak istiyorum.
+Dialogue: 0,1:09:07.18,1:09:09.26,Default,,0,0,0,,- Bu da ne?\N- Oku.
+Dialogue: 0,1:09:10.06,1:09:12.35,Default,,0,0,0,,- Ne için bu?\N- Talimatlar.
+Dialogue: 0,1:09:14.35,1:09:16.06,Default,,0,0,0,,Yarlş Savaşlarl için.
+Dialogue: 0,1:09:16.56,1:09:18.36,Default,,0,0,0,,Bakallm ne yapacaksln.
+Dialogue: 0,1:09:19.36,1:09:20.98,Default,,0,0,0,,O zaman konuşuruz.
+Dialogue: 0,1:10:02.69,1:10:04.74,Default,,0,0,0,,GİRMEK YASAK - ÜS KAPALl\NABD HÜKÜMETİNE AİTTİR
+Dialogue: 0,1:10:07.28,1:10:08.91,Default,,0,0,0,,- Nasll gidiyor?\N- Ne haber?
+Dialogue: 0,1:10:08.99,1:10:11.66,Default,,0,0,0,,- Yarlş Savaşlarlna hoşgeldin.\N- Harika. Çok sağol.
+Dialogue: 0,1:10:35.06,1:10:36.77,Default,,0,0,0,,Bebek. Selam bebek.
+Dialogue: 0,1:10:37.94,1:10:39.77,Default,,0,0,0,,Kenardan izlemelisin.
+Dialogue: 0,1:10:39.86,1:10:42.32,Default,,0,0,0,,O güzel yüzün egzoz dumanl\Nolmaslnl istemem.
+Dialogue: 0,1:10:42.40,1:10:46.49,Default,,0,0,0,,- Paranl ağzlna sok.\N- O güzel klçln için yarlşacağlm seninle.
+Dialogue: 0,1:10:46.57,1:10:49.03,Default,,0,0,0,,KIç peşindeysen, Hollywood Bulvarlna git.
+Dialogue: 0,1:10:49.11,1:10:52.20,Default,,0,0,0,,Ama damarlarlnda adrenalin istiyorsan,\Niki yüz dolara patlar.
+Dialogue: 0,1:10:52.28,1:10:55.29,Default,,0,0,0,,Hemen burada. Hemen şimdi. Ne dersin?
+Dialogue: 0,1:10:57.96,1:10:59.37,Default,,0,0,0,,Anlaştlk.
+Dialogue: 0,1:11:19.40,1:11:21.44,Default,,0,0,0,,"Bu da yuttu tozumu."
+Dialogue: 0,1:11:24.73,1:11:26.65,Default,,0,0,0,,Haydi. Neyin var?
+Dialogue: 0,1:11:27.36,1:11:28.82,Default,,0,0,0,,Görüşürüz.
+Dialogue: 0,1:12:04.82,1:12:07.78,Default,,0,0,0,,- Ne haber?\N- Selam, ne haber Jesse?
+Dialogue: 0,1:12:08.24,1:12:09.53,Default,,0,0,0,,Elinde ne var?
+Dialogue: 0,1:12:09.61,1:12:11.99,Default,,0,0,0,,Tipkl senin gibi arabaml koyuyorum ortaya.
+Dialogue: 0,1:12:12.07,1:12:14.70,Default,,0,0,0,,- Hangi arabayl? Jetta'yl ml?\N- Evet.
+Dialogue: 0,1:12:15.12,1:12:17.66,Default,,0,0,0,,- Babanln arabaslyla bahse giremezsin.\N- Dert değil.
+Dialogue: 0,1:12:17.75,1:12:19.04,Default,,0,0,0,,Kaybetmeyeceğim.
+Dialogue: 0,1:12:19.12,1:12:22.62,Default,,0,0,0,,Bu salak, Honda 2000 kullanlyor.\NBen kazanacağlm.
+Dialogue: 0,1:12:22.79,1:12:27.34,Default,,0,0,0,,Böylece babam hapisten çlktlktan sonra\Nbirlikte dolaşabiliriz. Her şey yolunda.
+Dialogue: 0,1:12:27.42,1:12:31.05,Default,,0,0,0,,Baban seni öldürünce\Nonu kodese geri gönderirler.
+Dialogue: 0,1:12:38.68,1:12:40.64,Default,,0,0,0,,Kazanacağlnl hayal et.
+Dialogue: 0,1:12:40.73,1:12:44.40,Default,,0,0,0,,Hayal et Jesse. Ciddiyim.\NBeni dinle dostum.
+Dialogue: 0,1:12:44.48,1:12:46.02,Default,,0,0,0,,Kiminle yarlşlyorsun?
+Dialogue: 0,1:12:50.40,1:12:52.61,Default,,0,0,0,,Jesse, yapma bunu.
+Dialogue: 0,1:12:52.74,1:12:56.41,Default,,0,0,0,,İddiaya girerim, o kaportanln\Naltlndakiler 1 00.000 dolar eder.
+Dialogue: 0,1:13:19.56,1:13:21.14,Default,,0,0,0,,Fazla erken acemi.
+Dialogue: 0,1:13:24.77,1:13:25.81,Default,,0,0,0,,Haylr!
+Dialogue: 0,1:13:28.77,1:13:29.98,Default,,0,0,0,,Kahretsin!
+Dialogue: 0,1:13:30.61,1:13:31.78,Default,,0,0,0,,Aman tanrlm!
+Dialogue: 0,1:13:42.20,1:13:44.87,Default,,0,0,0,,Hey! Dinle. Başlmlz dertte.
+Dialogue: 0,1:13:44.96,1:13:46.71,Default,,0,0,0,,- Ne var?\N- Jesse.
+Dialogue: 0,1:13:48.21,1:13:50.25,Default,,0,0,0,,Jesse nereye gidiyor?
+Dialogue: 0,1:13:50.42,1:13:53.92,Default,,0,0,0,,- Demin arabayl ortaya koyup Tran'la yarlştl.\N- Kahretsin.
+Dialogue: 0,1:14:05.60,1:14:08.73,Default,,0,0,0,,- Nereye gidiyor?\N- Arabayl ylkatmaya gitti.
+Dialogue: 0,1:14:08.94,1:14:10.90,Default,,0,0,0,,Her neyse. Git arabaml getir.
+Dialogue: 0,1:14:11.48,1:14:13.11,Default,,0,0,0,,Senin arabanl ml getireyim?
+Dialogue: 0,1:14:14.07,1:14:15.74,Default,,0,0,0,,Biz senin uşağln değiliz.
+Dialogue: 0,1:14:15.82,1:14:18.45,Default,,0,0,0,,Kiminle konuştuğuna dikkat etsen iyi olur.
+Dialogue: 0,1:14:18.99,1:14:20.12,Default,,0,0,0,,Toretto!
+Dialogue: 0,1:14:23.41,1:14:25.29,Default,,0,0,0,,Özel tim evime girdi,
+Dialogue: 0,1:14:26.25,1:14:30.50,Default,,0,0,0,,bütün ailemin şerefiyle oynadl,\Nçünkü biri beni gammazlamlştl.
+Dialogue: 0,1:14:31.21,1:14:33.67,Default,,0,0,0,,Biliyor musun? O sendin!
+Dialogue: 0,1:14:46.89,1:14:48.44,Default,,0,0,0,,GÜVENLİK
+Dialogue: 0,1:14:58.03,1:15:00.07,Default,,0,0,0,,Birak onu dostum.
+Dialogue: 0,1:15:09.42,1:15:11.21,Default,,0,0,0,,Dom, sakin ol dostum. Haydi!
+Dialogue: 0,1:15:11.29,1:15:15.71,Default,,0,0,0,,Ben kimseyi gammazlamadlm!
+Dialogue: 0,1:15:54.71,1:15:55.80,Default,,0,0,0,,Mia.
+Dialogue: 0,1:16:00.55,1:16:02.93,Default,,0,0,0,,Sana saygl gösterdim\Nve hiçbir şey söylemedim.
+Dialogue: 0,1:16:03.01,1:16:04.76,Default,,0,0,0,,Şimdi gitmemeni rica ediyorum.
+Dialogue: 0,1:16:04.85,1:16:07.72,Default,,0,0,0,,- Bunu ikimiz için yaplyorum.\N- Bana maval okuma.
+Dialogue: 0,1:16:07.81,1:16:09.27,Default,,0,0,0,,Kendin için yaplyorsun.
+Dialogue: 0,1:16:09.35,1:16:13.48,Default,,0,0,0,,Neden bunu yapmakta Israr ediyorsun?\NDom, lütfen yapma.
+Dialogue: 0,1:16:25.45,1:16:27.95,Default,,0,0,0,,- Mia, neler oluyor?\N- Ne?
+Dialogue: 0,1:16:28.04,1:16:30.54,Default,,0,0,0,,- Neden bahsettiğimi biliyorsun.\N- Bilmiyorum.
+Dialogue: 0,1:16:30.62,1:16:33.87,Default,,0,0,0,,Ne zaman Dom arabaslna binip gitse\Nsenin gözlerin doluyor.
+Dialogue: 0,1:16:34.00,1:16:35.54,Default,,0,0,0,,Neyin var senin?
+Dialogue: 0,1:16:35.63,1:16:38.21,Default,,0,0,0,,Gece vakti telaşla nereye gidiyor böyle?
+Dialogue: 0,1:16:38.30,1:16:41.47,Default,,0,0,0,,- Kamyonlardan haberin var ml?\N- Haylr Brian! Ne kamyonu?
+Dialogue: 0,1:16:41.55,1:16:45.43,Default,,0,0,0,,- Of tanrlm. Ne var?\N- Beni dinle.
+Dialogue: 0,1:16:46.68,1:16:48.14,Default,,0,0,0,,Mia, ben polisim.
+Dialogue: 0,1:16:49.68,1:16:52.35,Default,,0,0,0,,Sen neden bahsediyorsun Brian?\NNeler oluyor?
+Dialogue: 0,1:16:52.44,1:16:55.90,Default,,0,0,0,,Seninle tanlştlğlm ilk günden beri\Ngizli görevdeyim.
+Dialogue: 0,1:16:57.15,1:16:58.36,Default,,0,0,0,,Ben polisim.
+Dialogue: 0,1:17:03.41,1:17:05.03,Default,,0,0,0,,Seni piç.
+Dialogue: 0,1:17:07.87,1:17:09.16,Default,,0,0,0,,Piç herif.
+Dialogue: 0,1:17:11.54,1:17:13.37,Default,,0,0,0,,- Mia.\N- Birak beni Brian!
+Dialogue: 0,1:17:13.46,1:17:15.21,Default,,0,0,0,,Mia! Dinle beni!
+Dialogue: 0,1:17:16.46,1:17:19.05,Default,,0,0,0,,Sana olan duygularlm gerçek.
+Dialogue: 0,1:17:19.13,1:17:21.76,Default,,0,0,0,,Yemin ederim.\NBana inanmak zorundasln Mia.
+Dialogue: 0,1:17:21.84,1:17:25.47,Default,,0,0,0,,Ama bu seninle benim meselem değil.\NAğabeyin orada iş üzerinde.
+Dialogue: 0,1:17:25.55,1:17:29.01,Default,,0,0,0,,Zamanlmlz darallyor.\NO kamyoncular artlk buna izin vermez.
+Dialogue: 0,1:17:29.10,1:17:32.85,Default,,0,0,0,,Belki de bu geceki işi becerirler,\Nama bütün polisler
+Dialogue: 0,1:17:32.93,1:17:34.64,Default,,0,0,0,,onlarln peşinde.
+Dialogue: 0,1:17:34.73,1:17:37.65,Default,,0,0,0,,Onlara bir şey olmaslnl istemiyorsan
+Dialogue: 0,1:17:37.73,1:17:40.82,Default,,0,0,0,,hemen benimle şu arabaya binip\Nbana yardlm etmek zorundasln.
+Dialogue: 0,1:17:42.36,1:17:45.70,Default,,0,0,0,,Mia, bana yardlm edebilecek\Ntek insan sensin.
+Dialogue: 0,1:17:46.49,1:17:49.83,Default,,0,0,0,,Lütfen Mia. Lütfen bana yardlm et.
+Dialogue: 0,1:18:01.76,1:18:04.59,Default,,0,0,0,,Hondalar termik santralin dlşlnda\Nbir yere gizlenmiş.
+Dialogue: 0,1:18:04.68,1:18:07.97,Default,,0,0,0,,Aynl yolu iki defa kullanmazlar\Nve 1 0. Otoyolda çok devriye var.
+Dialogue: 0,1:18:08.05,1:18:11.01,Default,,0,0,0,,- Geriye ne kallyor?\N- Bütün bu yollar.
+Dialogue: 0,1:18:19.94,1:18:22.82,Default,,0,0,0,,- Nextel, buyurun.\N- Ben memur Brian O'Conner.
+Dialogue: 0,1:18:22.98,1:18:27.36,Default,,0,0,0,,Yaka numarasl 34762.\NBir cep telefonunun izini bulmak istiyorum.
+Dialogue: 0,1:18:27.57,1:18:30.62,Default,,0,0,0,,- Tamam. Numara nedir?\N- Mia, numara ne?
+Dialogue: 0,1:18:32.74,1:18:35.91,Default,,0,0,0,,Haydi Mia. Dom'un cep numaraslnl istiyor.
+Dialogue: 0,1:18:39.25,1:18:43.96,Default,,0,0,0,,323-555-6439.
+Dialogue: 0,1:18:45.05,1:18:47.63,Default,,0,0,0,,Teşekkür ederim. Evet, aldlnlz ml?
+Dialogue: 0,1:19:13.83,1:19:17.66,Default,,0,0,0,,Pekala, bir adam eksiğimiz var.\NLetty, sen sola geç.
+Dialogue: 0,1:19:19.96,1:19:23.29,Default,,0,0,0,,Kiz kardeşin bu konuda hakll.\NBu iş hoşuma gitmiyor.
+Dialogue: 0,1:19:23.42,1:19:27.55,Default,,0,0,0,,- Bunu yapma.\N- Bir terslik var.
+Dialogue: 0,1:19:27.63,1:19:30.47,Default,,0,0,0,,- Dur.\N- Jesse olmadan bunu yapmamallylz.
+Dialogue: 0,1:19:31.60,1:19:34.56,Default,,0,0,0,,Bu en büyük iş.\NÜç aydlr bunun üzerinde çallşlyoruz.
+Dialogue: 0,1:19:34.64,1:19:37.14,Default,,0,0,0,,Bundan sonra hepimiz\Nuzun bir tatile çlkacağlz.
+Dialogue: 0,1:19:37.23,1:19:39.19,Default,,0,0,0,,- Gidelim.\N- Umarlm.
+Dialogue: 0,1:19:42.73,1:19:45.82,Default,,0,0,0,,Dinle, geçen gece bir rüya gördüm.
+Dialogue: 0,1:19:46.32,1:19:49.03,Default,,0,0,0,,Sen ve ben Meksika'daki kumsaldaydlk.
+Dialogue: 0,1:19:49.40,1:19:51.45,Default,,0,0,0,,- Gerçekten mi?\N- Gerçekten.
+Dialogue: 0,1:19:54.62,1:19:56.79,Default,,0,0,0,,Haydi. Rüyayl gerçek yapallm.
+Dialogue: 0,1:19:59.87,1:20:04.38,Default,,0,0,0,,- Leon, o taraylcllardan gözünü aylrma.\N- Anlaşlldl.
+Dialogue: 0,1:20:07.92,1:20:09.97,Default,,0,0,0,,Pekala, gidelim.
+Dialogue: 0,1:20:20.56,1:20:23.65,Default,,0,0,0,,Numarayı 86. Otoyolda\Nkuzey yönünde bulduk.
+Dialogue: 0,1:20:23.73,1:20:28.23,Default,,0,0,0,,Coachella'nın 183 km dışında.\Nİzlemeye devam ediyoruz memur bey.
+Dialogue: 0,1:20:28.57,1:20:29.99,Default,,0,0,0,,Şuna bakaylm.
+Dialogue: 0,1:20:34.78,1:20:37.03,Default,,0,0,0,,Sanlrlm 65 kilometre mesafedeyiz.
+Dialogue: 0,1:20:37.45,1:20:42.37,Default,,0,0,0,,Ne yapacaksln?
+Dialogue: 0,1:21:14.66,1:21:16.74,Default,,0,0,0,,Tamam! Başllyoruz!
+Dialogue: 0,1:21:32.42,1:21:34.88,Default,,0,0,0,,Başlamaya hazlrlz.\NTaraylcllarda bir şey yok.
+Dialogue: 0,1:21:34.97,1:21:36.26,Default,,0,0,0,,Devam et.
+Dialogue: 0,1:21:50.82,1:21:51.98,Default,,0,0,0,,Vince!
+Dialogue: 0,1:21:52.65,1:21:54.74,Default,,0,0,0,,Vince, yapma! Geri dön!
+Dialogue: 0,1:21:56.32,1:21:57.45,Default,,0,0,0,,Vince!
+Dialogue: 0,1:22:03.08,1:22:04.79,Default,,0,0,0,,Silahl var! Leon!
+Dialogue: 0,1:22:04.87,1:22:07.17,Default,,0,0,0,,Geri çekil! Kamyondan al onu!
+Dialogue: 0,1:22:09.84,1:22:11.13,Default,,0,0,0,,Kahretsin!
+Dialogue: 0,1:22:22.18,1:22:24.85,Default,,0,0,0,,Buradan kurtar beni! Çek!
+Dialogue: 0,1:22:25.98,1:22:29.31,Default,,0,0,0,,Kurtar kendini. Haydi!
+Dialogue: 0,1:22:29.69,1:22:31.69,Default,,0,0,0,,- Yap şunu!\N- Kurtulamlyorum...
+Dialogue: 0,1:22:31.78,1:22:33.15,Default,,0,0,0,,Yapabilirsin!
+Dialogue: 0,1:22:34.19,1:22:35.65,Default,,0,0,0,,Haydi Vince!
+Dialogue: 0,1:22:43.16,1:22:45.75,Default,,0,0,0,,Dom! Dikkatini dağltmak için\Nöne geçiyorum.
+Dialogue: 0,1:22:53.21,1:22:54.67,Default,,0,0,0,,Haydi oğlum!
+Dialogue: 0,1:22:55.88,1:22:58.01,Default,,0,0,0,,Daha iyi nişan al.
+Dialogue: 0,1:23:03.06,1:23:04.35,Default,,0,0,0,,Orospu çocuğu!
+Dialogue: 0,1:23:09.19,1:23:11.52,Default,,0,0,0,,Kurtar beni buradan, yoksa ipi salacağlm!
+Dialogue: 0,1:23:11.61,1:23:15.86,Default,,0,0,0,,Tekrar dene. Bir, iki, üç!
+Dialogue: 0,1:23:27.87,1:23:29.46,Default,,0,0,0,,Kurtar kendini!
+Dialogue: 0,1:23:31.21,1:23:33.09,Default,,0,0,0,,Kolumu kurtaramlyorum!
+Dialogue: 0,1:23:33.17,1:23:35.42,Default,,0,0,0,,- Vince, elimi tut!\N- Kolum!
+Dialogue: 0,1:23:35.51,1:23:37.30,Default,,0,0,0,,Dinle, elini ver bana.
+Dialogue: 0,1:23:37.47,1:23:39.93,Default,,0,0,0,,Seni çekeceğim!
+Dialogue: 0,1:23:43.10,1:23:44.72,Default,,0,0,0,,Vince!
+Dialogue: 0,1:23:44.81,1:23:46.81,Default,,0,0,0,,Dur!
+Dialogue: 0,1:23:46.89,1:23:49.02,Default,,0,0,0,,Elini ver bana! Dinle beni!
+Dialogue: 0,1:23:55.86,1:23:56.86,Default,,0,0,0,,Dominic!
+Dialogue: 0,1:23:56.94,1:23:58.15,Default,,0,0,0,,Kahretsin!
+Dialogue: 0,1:24:01.70,1:24:03.82,Default,,0,0,0,,- Dominic!\N- Dayan!
+Dialogue: 0,1:24:04.41,1:24:07.33,Default,,0,0,0,,Dom! Yoldan çekil. Onu almaya geliyorum.
+Dialogue: 0,1:24:32.44,1:24:33.77,Default,,0,0,0,,Letty!
+Dialogue: 0,1:24:34.56,1:24:35.61,Default,,0,0,0,,Leon!
+Dialogue: 0,1:24:35.69,1:24:36.77,Default,,0,0,0,,Letty'yi bul.
+Dialogue: 0,1:24:36.86,1:24:38.15,Default,,0,0,0,,Onu arabadan çıkar!
+Dialogue: 0,1:24:38.23,1:24:39.65,Default,,0,0,0,,Tamam! Sen devam et!
+Dialogue: 0,1:24:48.83,1:24:51.50,Default,,0,0,0,,Onu buldum! Sen Vince'i kamyondan kurtar.
+Dialogue: 0,1:24:56.84,1:24:59.09,Default,,0,0,0,,Letty! Haydi canlm.
+Dialogue: 0,1:25:00.13,1:25:01.22,Default,,0,0,0,,İyi misin?
+Dialogue: 0,1:25:01.30,1:25:03.72,Default,,0,0,0,,Kahretsin. Haydi canlm, iyi misin?
+Dialogue: 0,1:25:03.80,1:25:07.39,Default,,0,0,0,,Sana bakaylm. Haydi.\NGitmek zorundaylz. Gidelim.
+Dialogue: 0,1:25:21.19,1:25:22.69,Default,,0,0,0,,Vince!
+Dialogue: 0,1:25:50.97,1:25:52.14,Default,,0,0,0,,Direksiyona geç.
+Dialogue: 0,1:25:52.23,1:25:54.94,Default,,0,0,0,,- Ne demek istiyorsun?\N- Gaza bas!
+Dialogue: 0,1:25:55.69,1:25:57.98,Default,,0,0,0,,Onu yakalayacağlm. Gaza bas!
+Dialogue: 0,1:25:58.06,1:25:59.31,Default,,0,0,0,,Tamam!
+Dialogue: 0,1:26:02.69,1:26:05.78,Default,,0,0,0,,- Haydi. Devam et.\N- Tamam!
+Dialogue: 0,1:26:07.32,1:26:09.28,Default,,0,0,0,,Pekala, dayan Vince.
+Dialogue: 0,1:26:10.08,1:26:13.00,Default,,0,0,0,,Dayanamayacak.\NBiraz daha yaklna götür beni.
+Dialogue: 0,1:26:13.08,1:26:14.37,Default,,0,0,0,,Tamam.
+Dialogue: 0,1:26:15.21,1:26:17.37,Default,,0,0,0,,- Daha yaklna.\N- Yaklaşlyorum.
+Dialogue: 0,1:26:17.75,1:26:19.33,Default,,0,0,0,,Böyle kal!
+Dialogue: 0,1:26:20.17,1:26:21.25,Default,,0,0,0,,Şimdi!
+Dialogue: 0,1:26:23.42,1:26:26.01,Default,,0,0,0,,Şimdi benimle buraya asllmallsln.
+Dialogue: 0,1:26:26.09,1:26:28.26,Default,,0,0,0,,Seni çekip alacağlz. Bana kolunu ver!
+Dialogue: 0,1:26:28.34,1:26:30.51,Default,,0,0,0,,Vince, bana bak! Birakma!
+Dialogue: 0,1:26:34.48,1:26:37.06,Default,,0,0,0,,Haydi Vince! Kolunu boynuma dola!
+Dialogue: 0,1:26:37.85,1:26:40.19,Default,,0,0,0,,Birakma Vince!
+Dialogue: 0,1:26:44.40,1:26:46.49,Default,,0,0,0,,Haydi Mia. Biraz daha yaklaş!
+Dialogue: 0,1:26:52.04,1:26:53.74,Default,,0,0,0,,Mia, biraz daha yaklaş! Haydi.
+Dialogue: 0,1:26:53.83,1:26:55.70,Default,,0,0,0,,Haydi Vince. Gidiyoruz.
+Dialogue: 0,1:27:23.78,1:27:25.07,Default,,0,0,0,,Kahretsin.
+Dialogue: 0,1:27:28.70,1:27:32.24,Default,,0,0,0,,Her şey yoluna girecek Letty.\NSeni seviyorum.
+Dialogue: 0,1:27:35.50,1:27:37.12,Default,,0,0,0,,- Ona dikkat et.\N- Merak etme.
+Dialogue: 0,1:27:38.04,1:27:40.58,Default,,0,0,0,,Haydi Vince! Dayan biraz! Haydi!
+Dialogue: 0,1:27:44.75,1:27:47.92,Default,,0,0,0,,On dakika içinde ambulans gelmezse ölür.
+Dialogue: 0,1:27:48.01,1:27:50.47,Default,,0,0,0,,- Tamponu tut. Kolunu kaldlr.\N- Tamam.
+Dialogue: 0,1:27:56.39,1:27:59.35,Default,,0,0,0,,Evet. Evet, ben memur Brian O'Conner.
+Dialogue: 0,1:27:59.56,1:28:02.02,Default,,0,0,0,,Minneola Emniyetinde memurum.
+Dialogue: 0,1:28:02.15,1:28:04.94,Default,,0,0,0,,Hemen bir hava ambulansl\Ngöndermenizi istiyorum.
+Dialogue: 0,1:28:06.07,1:28:10.36,Default,,0,0,0,,Pozisyonum, 86. Otoyol, 236.\NKilometre taşI.
+Dialogue: 0,1:28:10.91,1:28:13.95,Default,,0,0,0,,Travma geçiren bir yarall\Nvar, 24 yaşlarlnda.
+Dialogue: 0,1:28:14.03,1:28:16.62,Default,,0,0,0,,1 .80 boyunda, yaklaşlk\N90 kilo ağlrllğlnda.
+Dialogue: 0,1:28:16.79,1:28:20.54,Default,,0,0,0,,Sağ kolunda derin bir kesik\Nve atardamar kanamasl var.
+Dialogue: 0,1:28:20.62,1:28:25.00,Default,,0,0,0,,Ve sol kaburgaslna yakln bir yerde\Nbir kurşun yarasl var.
+Dialogue: 0,1:28:26.92,1:28:28.84,Default,,0,0,0,,Evet, şoka giriyor!
+Dialogue: 0,1:30:08.90,1:30:10.82,Default,,0,0,0,,Dom, silahl yere at hemen!
+Dialogue: 0,1:30:13.40,1:30:15.24,Default,,0,0,0,,- Çek arabanl.\N- Bir hata yapaylm deme!
+Dialogue: 0,1:30:15.32,1:30:17.78,Default,,0,0,0,,Onu yere at hemen! Artlk kaçamazsln!
+Dialogue: 0,1:30:17.91,1:30:19.45,Default,,0,0,0,,Kaçmlyorum!
+Dialogue: 0,1:30:22.58,1:30:25.00,Default,,0,0,0,,- Leon'la Letty nerede?\N- Çoktan gittiler!
+Dialogue: 0,1:30:25.08,1:30:28.13,Default,,0,0,0,,Öyleyse her şey bitti.\NPolis çağlrmadlm, beni buna zorlama!
+Dialogue: 0,1:30:28.21,1:30:31.13,Default,,0,0,0,,- Silahl yere at. Yemin ediyorum!\N- Polis sensin!
+Dialogue: 0,1:30:31.21,1:30:32.63,Default,,0,0,0,,Polis sensin!
+Dialogue: 0,1:30:34.22,1:30:37.59,Default,,0,0,0,,Onlar bulmadan Jesse'yi bulmam lazlm.
+Dialogue: 0,1:30:37.68,1:30:40.55,Default,,0,0,0,,- Benden başka kimsesi yok.\N- Plakaslnl merkeze veririm.
+Dialogue: 0,1:30:40.64,1:30:44.35,Default,,0,0,0,,Devriye ekibi Johnny'den önce bulur onu.
+Dialogue: 0,1:30:44.52,1:30:47.98,Default,,0,0,0,,- Çek arabanl.\N- Dom, kes şunu! Her şey bitti. Lütfen.
+Dialogue: 0,1:30:48.10,1:30:49.81,Default,,0,0,0,,Mia, sen karlşma bu işe!
+Dialogue: 0,1:30:55.36,1:30:58.57,Default,,0,0,0,,Çok üzgünüm Dominic.
+Dialogue: 0,1:30:58.95,1:31:01.16,Default,,0,0,0,,Ne yaptlğlml bilmiyorum Dom.
+Dialogue: 0,1:31:01.24,1:31:05.50,Default,,0,0,0,,Şu anda o kadar korkuyorum ki.\NNe olacak bilmiyorum.
+Dialogue: 0,1:31:05.58,1:31:08.33,Default,,0,0,0,,Ne düşünüyordun dostum?
+Dialogue: 0,1:31:08.42,1:31:10.92,Default,,0,0,0,,Bilmem! Paniğe kaplldlm! Kusura bakma.
+Dialogue: 0,1:31:11.00,1:31:12.92,Default,,0,0,0,,Korkuyorum!
+Dialogue: 0,1:31:13.00,1:31:16.09,Default,,0,0,0,,Bunu nasll yaptlm bilmem!\NLütfen bana yardlm eder misin?
+Dialogue: 0,1:31:20.64,1:31:22.14,Default,,0,0,0,,Dom!
+Dialogue: 0,1:31:40.99,1:31:42.32,Default,,0,0,0,,Jesse!
+Dialogue: 0,1:31:42.41,1:31:43.91,Default,,0,0,0,,Haylr Jesse!
+Dialogue: 0,1:31:58.63,1:32:00.26,Default,,0,0,0,,Haylr Dom, haylr!
+Dialogue: 0,1:34:55.14,1:34:58.65,Default,,0,0,0,,Polis imdatl ara! Çabuk!
+Dialogue: 0,1:35:33.35,1:35:36.10,Default,,0,0,0,,Lisedeyken burada yarlşlrdlm.
+Dialogue: 0,1:35:36.81,1:35:40.98,Default,,0,0,0,,Şuradan geçen demiryolu\Nsadece 400 metre uzakta.
+Dialogue: 0,1:35:42.15,1:35:44.77,Default,,0,0,0,,Yeşil yanlnca oraya gidiyorum.
+Dialogue: 0,1:38:19.31,1:38:21.60,Default,,0,0,0,,Benim akllmdaki bu değildi.
+Dialogue: 0,1:39:08.15,1:39:10.02,Default,,0,0,0,,Ne yaptlğlnl biliyor musun?
+Dialogue: 0,1:39:10.52,1:39:12.64,Default,,0,0,0,,Sana 1 0 saniyede\Nmaksimuma çlkan bir araba borçluyum.
+Dialogue: 0,1:46:09.86,1:46:11.53,Default,,0,0,0,,Baja, Meksika
+Dialogue: 0,1:46:26.46,1:46:29.13,Default,,0,0,0,,Hayatımı rölantide yaşıyorum.
+Dialogue: 0,1:46:30.75,1:46:32.42,Default,,0,0,0,,Hiçbir şeyin önemi yok.
+Dialogue: 0,1:46:33.30,1:46:36.05,Default,,0,0,0,,10 saniyelik ya da daha hızlı arabalar için
+Dialogue: 0,1:46:37.47,1:46:38.76,Default,,0,0,0,,her zaman müsaitim.

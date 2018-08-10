@@ -1,0 +1,935 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.06,0:01:03.31,Default,,0,0,0,,Acabo de cargar un buen cargamento\Ny está en camino.
+Dialogue: 0,0:01:03.52,0:01:07.60,Default,,0,0,0,,El camión tiene "Rodgers" escrito\Nen el costado. No te olvides de mi tajada.
+Dialogue: 0,0:03:57.65,0:03:58.73,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,0:04:39.27,0:04:43.15,Default,,0,0,0,,- Sándwich de atún, sin corteza, ¿no?\N- No sé. ¿Está bueno el atún?
+Dialogue: 0,0:04:43.57,0:04:45.24,Default,,0,0,0,,Llevas tres semanas...
+Dialogue: 0,0:04:45.32,0:04:48.28,Default,,0,0,0,,viniendo todos los días\Npreguntándome si el atún está bueno.
+Dialogue: 0,0:04:48.37,0:04:51.95,Default,,0,0,0,,Ayer estaba asqueroso,\Nantes de ayer estaba asqueroso.
+Dialogue: 0,0:04:52.04,0:04:55.12,Default,,0,0,0,,Y ¿sabes qué? La cosa no ha cambiado.
+Dialogue: 0,0:04:55.21,0:04:56.37,Default,,0,0,0,,Un sándwich de atún.
+Dialogue: 0,0:04:56.46,0:04:58.38,Default,,0,0,0,,- ¿Sin corteza?\N- Sin corteza.
+Dialogue: 0,0:05:22.61,0:05:23.86,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:06:10.82,0:06:13.20,Default,,0,0,0,,Dime qué pasa, Jesse.\NEsto no funciona, hermano.
+Dialogue: 0,0:06:13.28,0:06:15.91,Default,,0,0,0,,Es tu mapa de alimentación.\NTienes un agujero.
+Dialogue: 0,0:06:16.16,0:06:19.16,Default,,0,0,0,,- Pierdes potencia en tercera.\N- Te dije que era en tercera.
+Dialogue: 0,0:06:19.25,0:06:21.17,Default,,0,0,0,,- Cállate.\N- Alargaría el pulso del inyector...
+Dialogue: 0,0:06:21.25,0:06:25.30,Default,,0,0,0,,otra milésima, ajustaría el temporizador\Nde nitro y correrás los 9 segundos.
+Dialogue: 0,0:06:32.35,0:06:34.89,Default,,0,0,0,,¿Qué le pasa a este bobo?\N¿Es adicto a los sándwiches?
+Dialogue: 0,0:06:34.97,0:06:37.72,Default,,0,0,0,,- No, V. No viene aquí por la comida.\N- Tranquilo, hermano.
+Dialogue: 0,0:06:37.81,0:06:40.89,Default,,0,0,0,,- Sólo vende piezas para Harry.\N- Sé lo que se trae.
+Dialogue: 0,0:06:40.98,0:06:43.06,Default,,0,0,0,,Quiere levantarse a Mía.
+Dialogue: 0,0:06:43.15,0:06:45.40,Default,,0,0,0,,- ¿Qué tal, amigos?\N- ¿Cómo estás, Mía?
+Dialogue: 0,0:06:45.61,0:06:47.15,Default,,0,0,0,,¿Cómo va eso, hermana?
+Dialogue: 0,0:06:47.36,0:06:49.11,Default,,0,0,0,,- ¡Eh!\N- Oye, Dom.
+Dialogue: 0,0:06:49.40,0:06:51.24,Default,,0,0,0,,¿Quieres beber algo?
+Dialogue: 0,0:07:01.87,0:07:05.13,Default,,0,0,0,,- Ay, qué guapo es.\N- Me gusta su corte de pelo.
+Dialogue: 0,0:07:06.00,0:07:07.00,Default,,0,0,0,,Vince.
+Dialogue: 0,0:07:07.67,0:07:08.67,Default,,0,0,0,,¡Vince!
+Dialogue: 0,0:07:09.84,0:07:12.09,Default,,0,0,0,,- ¿Qué?\N- ¿Quieres tomar algo?
+Dialogue: 0,0:07:13.51,0:07:14.80,Default,,0,0,0,,Te ves bien.
+Dialogue: 0,0:07:19.06,0:07:22.06,Default,,0,0,0,,- Muchas gracias, Mía. Hasta mañana.\N- Claro.
+Dialogue: 0,0:07:24.56,0:07:27.02,Default,,0,0,0,,- ¿Mañana?\N- Me encanta esta parte.
+Dialogue: 0,0:07:27.98,0:07:29.07,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:07:31.24,0:07:32.78,Default,,0,0,0,,Ve a la hamburguesería desde ahora.
+Dialogue: 0,0:07:32.86,0:07:36.07,Default,,0,0,0,,Cómprate una hamburguesa doble\Ncon queso por $2,95, maricón.
+Dialogue: 0,0:07:36.16,0:07:37.20,Default,,0,0,0,,Prefiero el atún.
+Dialogue: 0,0:07:37.29,0:07:39.62,Default,,0,0,0,,Un carajo, cretino.\NA nadie le gusta el atún aquí.
+Dialogue: 0,0:07:39.70,0:07:41.04,Default,,0,0,0,,Pues a mí sí.
+Dialogue: 0,0:07:53.51,0:07:55.76,Default,,0,0,0,,¡Dios santo, Dom! ¿Quieres hacer algo?
+Dialogue: 0,0:07:55.85,0:07:57.30,Default,,0,0,0,,¡Estoy harta de esta mierda!
+Dialogue: 0,0:07:57.39,0:07:59.72,Default,,0,0,0,,¡No bromeo, Dom! ¡Sal ahí!
+Dialogue: 0,0:08:03.77,0:08:06.27,Default,,0,0,0,,- ¿Qué pusiste en ese sándwich?\N- Muy gracioso.
+Dialogue: 0,0:08:06.36,0:08:07.52,Default,,0,0,0,,¡Dom!
+Dialogue: 0,0:08:08.19,0:08:09.27,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:08:27.25,0:08:29.79,Default,,0,0,0,,- Él me enfrentó.\N- Pues ahora te enfrento yo.
+Dialogue: 0,0:08:31.84,0:08:34.93,Default,,0,0,0,,¡Cálmate! ¡No te pases!\N¡Me haces quedar en ridículo!
+Dialogue: 0,0:08:37.26,0:08:38.60,Default,,0,0,0,,¡Vete!
+Dialogue: 0,0:08:38.80,0:08:40.14,Default,,0,0,0,,¿Qué haces?
+Dialogue: 0,0:08:40.22,0:08:41.93,Default,,0,0,0,,Jesse, dame la billetera.
+Dialogue: 0,0:08:44.94,0:08:48.23,Default,,0,0,0,,"Brian Earl Spilner."\NParece un asesino en serie.
+Dialogue: 0,0:08:48.31,0:08:50.23,Default,,0,0,0,,- ¿Eso es lo que eres?\N- No, viejo.
+Dialogue: 0,0:08:50.32,0:08:52.23,Default,,0,0,0,,No vengas más por aquí.
+Dialogue: 0,0:08:54.61,0:08:56.78,Default,,0,0,0,,Oye, esto es una mierda.
+Dialogue: 0,0:08:57.57,0:09:00.58,Default,,0,0,0,,- Trabajas para Harry, ¿verdad?\N- Sí, acabo de empezar.
+Dialogue: 0,0:09:00.79,0:09:02.58,Default,,0,0,0,,Pues te acaban de despedir.
+Dialogue: 0,0:09:05.29,0:09:07.79,Default,,0,0,0,,EL PlLOTO CAMPEÓN\NPiezas de alto rendimiento
+Dialogue: 0,0:09:15.30,0:09:18.22,Default,,0,0,0,,Dominic, te agradezco mucho lo que hiciste.
+Dialogue: 0,0:09:18.68,0:09:20.22,Default,,0,0,0,,Dominic, te debo una.
+Dialogue: 0,0:09:22.39,0:09:25.06,Default,,0,0,0,,Brian, estás arruinando mi negocio.
+Dialogue: 0,0:09:25.14,0:09:26.98,Default,,0,0,0,,Cuando Dominic corre, me hago de oro.
+Dialogue: 0,0:09:27.48,0:09:29.29,Default,,0,0,0,,Los chicos vienen\Ny compran todo lo que tiene...
+Dialogue: 0,0:09:29.31,0:09:32.07,Default,,0,0,0,,todas las piezas que tiene,\N¡y pagan en efectivo!
+Dialogue: 0,0:09:32.15,0:09:34.78,Default,,0,0,0,,- ¿Qué dijo Dominic?\N- No quieres saberlo.
+Dialogue: 0,0:09:35.19,0:09:37.99,Default,,0,0,0,,- ¿Qué dijo Dominic?\N- Quiere que te despida.
+Dialogue: 0,0:09:38.74,0:09:40.74,Default,,0,0,0,,- ¿Quiere que me despidas?\N- ¡Sí!
+Dialogue: 0,0:09:40.83,0:09:43.62,Default,,0,0,0,,- ¿Y qué le dijiste a Dom?\N- ¿Qué crees que le dije?
+Dialogue: 0,0:09:44.58,0:09:47.46,Default,,0,0,0,,Le dije que encontrar\Na buenos empleados es difícil.
+Dialogue: 0,0:09:47.96,0:09:49.00,Default,,0,0,0,,Oye.
+Dialogue: 0,0:09:50.00,0:09:51.17,Default,,0,0,0,,Tranquilo.
+Dialogue: 0,0:09:54.76,0:09:57.51,Default,,0,0,0,,Necesito nitro. Necesito nitro.
+Dialogue: 0,0:09:58.05,0:09:59.09,Default,,0,0,0,,No.
+Dialogue: 0,0:09:59.18,0:10:01.72,Default,,0,0,0,,Mi auto no superó los 225 km por hora\Nesta mañana.
+Dialogue: 0,0:10:01.80,0:10:03.68,Default,,0,0,0,,Los aficionados no usan óxido nitroso.
+Dialogue: 0,0:10:03.76,0:10:06.93,Default,,0,0,0,,He visto cómo conduces.\NTe gusta pisarle a fondo.
+Dialogue: 0,0:10:07.02,0:10:08.64,Default,,0,0,0,,Acabarás hecho añicos.
+Dialogue: 0,0:10:08.73,0:10:11.52,Default,,0,0,0,,Necesito uno de éstos. Uno de los grandes.
+Dialogue: 0,0:10:11.77,0:10:13.98,Default,,0,0,0,,En realidad, no, que sean dos.
+Dialogue: 0,0:10:14.32,0:10:16.78,Default,,0,0,0,,Y, Harry, lo necesito antes de esta noche.
+Dialogue: 0,0:10:18.03,0:10:19.70,Default,,0,0,0,,NlTRO
+Dialogue: 0,0:11:28.39,0:11:31.27,Default,,0,0,0,,Esperen, esperen. Miren a ese blanquito.
+Dialogue: 0,0:11:35.86,0:11:39.07,Default,,0,0,0,,Qué lindo auto.\N¿Qué tienes bajo el capó, amigo?
+Dialogue: 0,0:11:41.28,0:11:44.11,Default,,0,0,0,,- ¿Quieres que lo averigüe corriendo?\N- Sí, carajo.
+Dialogue: 0,0:11:44.32,0:11:47.37,Default,,0,0,0,,Tienes agallas. Me llaman Héctor.
+Dialogue: 0,0:11:47.95,0:11:50.70,Default,,0,0,0,,Tengo un apellido también,\Npero no sé pronunciarlo...
+Dialogue: 0,0:11:50.79,0:11:53.54,Default,,0,0,0,,- Brian Spilner.\N- Nombre típico de un blanquito.
+Dialogue: 0,0:11:53.62,0:11:55.33,Default,,0,0,0,,¿Sabes?
+Dialogue: 0,0:11:57.80,0:12:01.05,Default,,0,0,0,,¿Ves ese auto de ahí? Es mío. Es mi nena.
+Dialogue: 0,0:12:01.22,0:12:02.76,Default,,0,0,0,,Pero no correré esta noche.
+Dialogue: 0,0:12:02.84,0:12:04.60,Default,,0,0,0,,- ¿Por qué no?\N- Porque voy a volverme legal.
+Dialogue: 0,0:12:04.84,0:12:06.43,Default,,0,0,0,,Quiero correr en la NlRA.
+Dialogue: 0,0:12:06.51,0:12:08.30,Default,,0,0,0,,- ¿Oíste hablar de eso?\N- Claro que sí.
+Dialogue: 0,0:12:08.39,0:12:10.52,Default,,0,0,0,,¿Y tú qué, amigo?
+Dialogue: 0,0:12:10.60,0:12:12.35,Default,,0,0,0,,Sólo estoy esperando a Toretto.
+Dialogue: 0,0:12:12.44,0:12:15.27,Default,,0,0,0,,Mierda. Ponte en la fila. ¿Es tuyo?
+Dialogue: 0,0:12:16.15,0:12:18.82,Default,,0,0,0,,- Sí, estoy de pie junto a él.\N- Qué gracioso.
+Dialogue: 0,0:12:18.90,0:12:21.65,Default,,0,0,0,,¿Sabes? Edwin sabe un par de cosas.
+Dialogue: 0,0:12:21.74,0:12:26.11,Default,,0,0,0,,Y una de las cosas que sabe es que no\Nimporta que estés de pie junto a tu auto...
+Dialogue: 0,0:12:26.20,0:12:29.16,Default,,0,0,0,,lo que importa es cómo lo conduces.\NApréndete eso.
+Dialogue: 0,0:12:35.37,0:12:37.75,Default,,0,0,0,,Mierda. Aquí vienen. Tenemos una carrera.
+Dialogue: 0,0:12:54.73,0:12:55.77,Default,,0,0,0,,Marvin.
+Dialogue: 0,0:12:56.81,0:12:58.56,Default,,0,0,0,,- Dom, ¿qué tal?\N- Hola, Gimel.
+Dialogue: 0,0:12:58.65,0:13:00.57,Default,,0,0,0,,¿Has estado haciendo yoga?
+Dialogue: 0,0:13:04.99,0:13:08.41,Default,,0,0,0,,- ¿De veras? Claro que sí. Mónica.\N- Hola, soy Mónica. Encantada.
+Dialogue: 0,0:13:10.58,0:13:12.87,Default,,0,0,0,,Huele a marranas.
+Dialogue: 0,0:13:13.25,0:13:17.29,Default,,0,0,0,,Lárguense, chicas,\No les dejaré estrías en la cara.
+Dialogue: 0,0:13:17.37,0:13:18.54,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:13:18.63,0:13:21.09,Default,,0,0,0,,- Letty, sólo hablaba con ellas.\N- Sí, claro.
+Dialogue: 0,0:13:21.75,0:13:24.88,Default,,0,0,0,,- De acuerdo. Héctor.\N- Sí. ¿Qué tal, viejo?
+Dialogue: 0,0:13:26.43,0:13:29.22,Default,,0,0,0,,¿Qué tal? Edwin.\N¿Cómo lo hacemos esta noche?
+Dialogue: 0,0:13:29.68,0:13:33.64,Default,,0,0,0,,Una carrera, $2.000 por correr.\NEl ganador se lo lleva todo.
+Dialogue: 0,0:13:33.72,0:13:36.23,Default,,0,0,0,,- Héctor, tú guardas el dinero.\N- ¿Por qué Héctor?
+Dialogue: 0,0:13:36.31,0:13:39.27,Default,,0,0,0,,Es demasiado lento\Npara largarse con el dinero.
+Dialogue: 0,0:13:40.98,0:13:43.57,Default,,0,0,0,,- Buena suerte, muchachos.\N- Esperen.
+Dialogue: 0,0:13:44.07,0:13:48.03,Default,,0,0,0,,No tengo dinero,\Npero tengo el título del auto.
+Dialogue: 0,0:13:48.11,0:13:51.83,Default,,0,0,0,,No puedes subir al cuadrilátero\Nsólo porque crees que sabes boxear.
+Dialogue: 0,0:13:52.54,0:13:56.04,Default,,0,0,0,,Él sabe que sé boxear.\NAsí que escuchen, así lo haremos.
+Dialogue: 0,0:13:56.75,0:14:00.04,Default,,0,0,0,,Si pierdo, el ganador se queda con mi auto.
+Dialogue: 0,0:14:00.29,0:14:04.05,Default,,0,0,0,,Pero si gano yo,\Ngano el dinero y su respeto.
+Dialogue: 0,0:14:04.30,0:14:05.59,Default,,0,0,0,,Respeto.
+Dialogue: 0,0:14:07.59,0:14:09.76,Default,,0,0,0,,Para algunos, eso es más importante.
+Dialogue: 0,0:14:12.26,0:14:13.81,Default,,0,0,0,,¿Es tu auto?
+Dialogue: 0,0:14:17.23,0:14:18.85,Default,,0,0,0,,Tiene inducción de aire frío.
+Dialogue: 0,0:14:18.94,0:14:22.23,Default,,0,0,0,,Tiene un nebulizador de nitro\Ny un turbo T4, Dominic.
+Dialogue: 0,0:14:22.31,0:14:24.48,Default,,0,0,0,,Veo un controlador de inyección auxiliar.
+Dialogue: 0,0:14:24.57,0:14:27.53,Default,,0,0,0,,Tiene inyección directa de nitro\Na los cilindros.
+Dialogue: 0,0:14:27.61,0:14:30.61,Default,,0,0,0,,Sí, y un sistema autónomo\Nde gestión de combustible.
+Dialogue: 0,0:14:31.20,0:14:33.95,Default,,0,0,0,,No es una mala forma de gastar $1 0.000.
+Dialogue: 0,0:14:36.37,0:14:37.79,Default,,0,0,0,,¿Ves esa mierda?
+Dialogue: 0,0:14:38.79,0:14:41.04,Default,,0,0,0,,Tiene suficiente nitro\Npara volar en mil pedazos.
+Dialogue: 0,0:14:41.13,0:14:42.21,Default,,0,0,0,,Sí.
+Dialogue: 0,0:14:42.63,0:14:46.09,Default,,0,0,0,,- ¿Y bien? ¿Soy un digno rival?\N- Eso aún no lo sabemos.
+Dialogue: 0,0:14:46.63,0:14:49.09,Default,,0,0,0,,Pero correrás. Vamos.
+Dialogue: 0,0:15:55.32,0:15:57.33,Default,,0,0,0,,¿Qué diablos ocurre aquí?
+Dialogue: 0,0:15:57.87,0:16:01.20,Default,,0,0,0,,La calle está cerrada, repartidor.\NRegresa por otro lado.
+Dialogue: 0,0:16:01.54,0:16:03.41,Default,,0,0,0,,Malditas carreras callejeras.
+Dialogue: 0,0:16:04.63,0:16:06.29,Default,,0,0,0,,Código 3. La tensión está alta.
+Dialogue: 0,0:16:06.38,0:16:09.05,Default,,0,0,0,,Han bloqueado la calle.
+Dialogue: 0,0:16:53.92,0:16:56.05,Default,,0,0,0,,Edwin...
+Dialogue: 0,0:16:56.84,0:17:00.26,Default,,0,0,0,,esto será tuyo, ganes o pierdas.
+Dialogue: 0,0:17:00.76,0:17:04.27,Default,,0,0,0,,Pero si ganas, ella será tuya también.
+Dialogue: 0,0:17:12.78,0:17:15.19,Default,,0,0,0,,Vas a ganar.
+Dialogue: 0,0:17:15.78,0:17:18.07,Default,,0,0,0,,Voy a ganar.
+Dialogue: 0,0:18:01.70,0:18:04.62,Default,,0,0,0,,Tenemos un homicidio\Nen la tienda de licores Barabian.
+Dialogue: 0,0:18:04.70,0:18:06.58,Default,,0,0,0,,Hubo un homicidio en Glendale.
+Dialogue: 0,0:18:06.66,0:18:08.71,Default,,0,0,0,,La policía está allá. Todo está despejado.
+Dialogue: 0,0:18:08.79,0:18:09.87,Default,,0,0,0,,Repito, todo despejado.
+Dialogue: 0,0:18:09.96,0:18:11.38,Default,,0,0,0,,- Muy bien.\N- ¡Corramos!
+Dialogue: 0,0:18:11.46,0:18:14.17,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,0:18:22.01,0:18:24.51,Default,,0,0,0,,¡Ya!
+Dialogue: 0,0:18:36.69,0:18:37.82,Default,,0,0,0,,¡Sí, carajo!
+Dialogue: 0,0:18:54.09,0:18:56.88,Default,,0,0,0,,Qué rápido es.
+Dialogue: 0,0:19:03.68,0:19:06.72,Default,,0,0,0,,¡Vamos! ¡Ménage à!
+Dialogue: 0,0:19:13.77,0:19:16.48,Default,,0,0,0,,Etapa 1 completa
+Dialogue: 0,0:19:33.29,0:19:34.96,Default,,0,0,0,,¡No!
+Dialogue: 0,0:19:35.04,0:19:37.13,Default,,0,0,0,,¡Mónica!
+Dialogue: 0,0:19:49.85,0:19:51.68,Default,,0,0,0,,¡Peligro! - Daño al colector
+Dialogue: 0,0:19:51.77,0:19:54.90,Default,,0,0,0,,¡Cállate!
+Dialogue: 0,0:20:47.91,0:20:50.70,Default,,0,0,0,,- ¡Eso es, nena!\N- ¡Sí!
+Dialogue: 0,0:21:01.63,0:21:04.84,Default,,0,0,0,,Esto es lo que quieres, esto mismo.\NAquí tienes.
+Dialogue: 0,0:21:09.30,0:21:12.43,Default,,0,0,0,,Mi hermana guardará el dinero. Cuéntalo.
+Dialogue: 0,0:21:15.06,0:21:17.52,Default,,0,0,0,,Y tú eres mi trofeo.
+Dialogue: 0,0:21:19.86,0:21:21.82,Default,,0,0,0,,Eh, Mónica. ¿Qué tal, nena?
+Dialogue: 0,0:21:21.90,0:21:24.44,Default,,0,0,0,,¿Qué haces? No ganaste.
+Dialogue: 0,0:21:26.70,0:21:29.62,Default,,0,0,0,,¡Que te jodan!
+Dialogue: 0,0:21:41.09,0:21:42.55,Default,,0,0,0,,¿Fue divertido?
+Dialogue: 0,0:21:42.88,0:21:45.13,Default,,0,0,0,,Tienes un pequeño problema, ¿eh?
+Dialogue: 0,0:21:51.51,0:21:54.60,Default,,0,0,0,,- ¿Por qué te ríes?\N- Casi te gané.
+Dialogue: 0,0:21:57.56,0:21:59.65,Default,,0,0,0,,¿Casi me ganaste?
+Dialogue: 0,0:21:59.73,0:22:03.57,Default,,0,0,0,,Nunca me ganaste. Perdiste control\Nde tu auto desde el principio.
+Dialogue: 0,0:22:05.82,0:22:08.99,Default,,0,0,0,,Cambiando de marcha\Nsin hacer doble embrague, como debes.
+Dialogue: 0,0:22:10.03,0:22:13.33,Default,,0,0,0,,Tienes suerte de que el nitro no arrancara\Nla inducción de cuajo.
+Dialogue: 0,0:22:13.41,0:22:14.99,Default,,0,0,0,,¡Bien hecho!
+Dialogue: 0,0:22:15.29,0:22:17.66,Default,,0,0,0,,¿Casi me ganó?
+Dialogue: 0,0:22:17.75,0:22:20.37,Default,,0,0,0,,- No lo sé, viejo.\N- Sal de aquí.
+Dialogue: 0,0:22:21.08,0:22:24.25,Default,,0,0,0,,Ahora yo y el científico loco tendremos\Nque abrir el motor...
+Dialogue: 0,0:22:24.34,0:22:27.38,Default,,0,0,0,,para cambiar\Nlos aros de pistón que quemaste.
+Dialogue: 0,0:22:34.60,0:22:37.22,Default,,0,0,0,,Pregúntaselo a cualquier piloto de verdad.
+Dialogue: 0,0:22:37.31,0:22:40.56,Default,,0,0,0,,Da igual que ganes\Npor un centímetro o por un kilómetro.
+Dialogue: 0,0:22:40.65,0:22:42.10,Default,,0,0,0,,Ganar es ganar.
+Dialogue: 0,0:22:42.19,0:22:43.77,Default,,0,0,0,,¡Sí!
+Dialogue: 0,0:22:49.15,0:22:52.20,Default,,0,0,0,,Unidades disponibles,\Ntenemos una carrera ilegal en Hawthorne...
+Dialogue: 0,0:22:52.28,0:22:55.20,Default,,0,0,0,,¡Mierda! ¡La policía, la policía! ¡Vamos!
+Dialogue: 0,0:23:07.34,0:23:10.93,Default,,0,0,0,,¡Dom, sube al auto! ¡Vamos!
+Dialogue: 0,0:24:33.47,0:24:35.80,Default,,0,0,0,,¡Toretto, alto ahí mismo!
+Dialogue: 0,0:24:37.14,0:24:39.14,Default,,0,0,0,,¡Toretto!
+Dialogue: 0,0:24:53.32,0:24:56.20,Default,,0,0,0,,¡Sube!
+Dialogue: 0,0:25:41.28,0:25:44.95,Default,,0,0,0,,Eres la última persona del mundo\Na quien esperaba ver.
+Dialogue: 0,0:25:45.58,0:25:47.67,Default,,0,0,0,,Creí que si gozaba de tus favores...
+Dialogue: 0,0:25:47.75,0:25:49.79,Default,,0,0,0,,quizá me dejarías conservar mi auto.
+Dialogue: 0,0:25:49.88,0:25:53.21,Default,,0,0,0,,Gozas de mis favores,\Npero no conservarás tu auto.
+Dialogue: 0,0:25:54.05,0:25:55.76,Default,,0,0,0,,Parece que has hecho esto antes.
+Dialogue: 0,0:25:55.84,0:25:57.97,Default,,0,0,0,,- ¿Conduces para ladrones?\N- No.
+Dialogue: 0,0:25:58.80,0:26:00.72,Default,,0,0,0,,¿Robas autos?
+Dialogue: 0,0:26:01.93,0:26:03.14,Default,,0,0,0,,No, jamás.
+Dialogue: 0,0:26:03.22,0:26:06.60,Default,,0,0,0,,- ¿Has estado en la cárcel?\N- Un par de noches. Nada importante.
+Dialogue: 0,0:26:07.60,0:26:10.85,Default,,0,0,0,,¿Y los dos años en la prisión de menores\Npor robar autos?
+Dialogue: 0,0:26:13.53,0:26:15.69,Default,,0,0,0,,Tucson, ¿verdad?
+Dialogue: 0,0:26:15.78,0:26:19.32,Default,,0,0,0,,Le pedí a Jesse que te investigara,\NBrian Earl Spilner.
+Dialogue: 0,0:26:20.49,0:26:23.83,Default,,0,0,0,,Encuentra lo que sea en lnternet,\Nlo que sea sobre cualquiera.
+Dialogue: 0,0:26:24.37,0:26:26.70,Default,,0,0,0,,Así que, ¿por qué me mientes?
+Dialogue: 0,0:26:27.46,0:26:30.33,Default,,0,0,0,,¿Y tú qué?
+Dialogue: 0,0:26:31.33,0:26:33.42,Default,,0,0,0,,Dos años en Lompoc.
+Dialogue: 0,0:26:35.96,0:26:38.05,Default,,0,0,0,,Prefiero morir antes que regresar.
+Dialogue: 0,0:26:44.01,0:26:46.35,Default,,0,0,0,,- Genial.\N- ¿Qué?
+Dialogue: 0,0:26:48.81,0:26:51.35,Default,,0,0,0,,Será una noche muy larga, eso es qué.
+Dialogue: 0,0:26:55.53,0:26:57.94,Default,,0,0,0,,Síguenos.
+Dialogue: 0,0:27:03.58,0:27:05.28,Default,,0,0,0,,COMlDA T & K
+Dialogue: 0,0:27:05.37,0:27:08.16,Default,,0,0,0,,K'UNG FU-TZE\N551 - 479 A.C. - FlLÓSOFO
+Dialogue: 0,0:27:47.41,0:27:50.04,Default,,0,0,0,,Creí que teníamos un acuerdo.
+Dialogue: 0,0:27:50.12,0:27:52.79,Default,,0,0,0,,Yo no te molesto, tú no me molestas.
+Dialogue: 0,0:27:53.42,0:27:54.83,Default,,0,0,0,,Y todos contentos.
+Dialogue: 0,0:27:54.92,0:27:57.34,Default,,0,0,0,,Nos perdimos, Johnny.\N¿Qué quieres que te diga?
+Dialogue: 0,0:27:57.42,0:27:59.34,Default,,0,0,0,,¿"Nos"?
+Dialogue: 0,0:27:59.42,0:28:02.51,Default,,0,0,0,,Mi nuevo mecánico.\NBrian, te presento a Johnny Tran.
+Dialogue: 0,0:28:02.59,0:28:05.55,Default,,0,0,0,,El de los pantalones\Nde piel de serpiente es su primo, Lance.
+Dialogue: 0,0:28:05.64,0:28:09.26,Default,,0,0,0,,¿Cuándo me vas a dejar correr\Ncontra tu Honda 2000?
+Dialogue: 0,0:28:09.60,0:28:12.18,Default,,0,0,0,,- ¿Es tu auto?\N- Lo era. Es de él ahora.
+Dialogue: 0,0:28:12.27,0:28:14.65,Default,,0,0,0,,No, aún no he tomado posesión de él.
+Dialogue: 0,0:28:16.94,0:28:19.27,Default,,0,0,0,,Entonces no es de nadie.
+Dialogue: 0,0:28:19.57,0:28:22.82,Default,,0,0,0,,Alguien equipó muy bien este auto.
+Dialogue: 0,0:28:23.82,0:28:26.12,Default,,0,0,0,,¿Qué te parece, Lance?
+Dialogue: 0,0:28:26.37,0:28:29.28,Default,,0,0,0,,- Es increíble.\N- Sí, desde luego.
+Dialogue: 0,0:28:31.71,0:28:35.08,Default,,0,0,0,,Vámonos.
+Dialogue: 0,0:28:35.38,0:28:37.75,Default,,0,0,0,,Te veré en el desierto el mes que viene.
+Dialogue: 0,0:28:37.92,0:28:39.88,Default,,0,0,0,,Prepárate para ser humillado.
+Dialogue: 0,0:28:39.96,0:28:42.13,Default,,0,0,0,,Necesitarás algo más que esa moto.
+Dialogue: 0,0:28:42.22,0:28:43.97,Default,,0,0,0,,Tengo una sorpresa para ti.
+Dialogue: 0,0:28:57.69,0:28:59.57,Default,,0,0,0,,¿Qué diablos fue todo eso?
+Dialogue: 0,0:28:59.65,0:29:02.86,Default,,0,0,0,,Es una historia muy larga.\NLuego te la cuento. Larguémonos.
+Dialogue: 0,0:29:30.35,0:29:32.85,Default,,0,0,0,,¡El nitro!
+Dialogue: 0,0:29:43.86,0:29:47.53,Default,,0,0,0,,- Así que, ¿qué diablos fue todo eso?\N- Es una historia muy larga.
+Dialogue: 0,0:29:47.99,0:29:50.78,Default,,0,0,0,,Caminaremos 30 kilómetros. Dame el gusto.
+Dialogue: 0,0:29:50.99,0:29:53.08,Default,,0,0,0,,Un negocio que salió mal.
+Dialogue: 0,0:29:53.87,0:29:57.08,Default,,0,0,0,,Además, cometí el error\Nde acostarme con su hermana.
+Dialogue: 0,0:30:23.32,0:30:26.36,Default,,0,0,0,,Cuídate.
+Dialogue: 0,0:30:29.57,0:30:31.57,Default,,0,0,0,,Eh, Spilner.
+Dialogue: 0,0:30:32.58,0:30:34.91,Default,,0,0,0,,- ¿Quieres una cerveza?\N- Sí, claro.
+Dialogue: 0,0:30:35.91,0:30:38.16,Default,,0,0,0,,Mierda.
+Dialogue: 0,0:31:01.15,0:31:04.11,Default,,0,0,0,,- Cuento con ustedes, ¿no?\N- Vaya, viejo, es preciosa.
+Dialogue: 0,0:31:04.52,0:31:07.07,Default,,0,0,0,,- ¿Cuál de ustedes usa nitro?\N- Yo.
+Dialogue: 0,0:31:13.53,0:31:16.74,Default,,0,0,0,,Dom, estábamos a punto\Nde ir a buscarte, hermano.
+Dialogue: 0,0:31:23.08,0:31:25.71,Default,,0,0,0,,- ¿Dónde estabas?\N- Había policías por todos lados.
+Dialogue: 0,0:31:25.80,0:31:28.59,Default,,0,0,0,,Llegaron de todas las direcciones.\NLo tenían orquestado.
+Dialogue: 0,0:31:28.67,0:31:31.30,Default,,0,0,0,,- ¿Es tu cerveza?\N- Sí, es mi cerveza.
+Dialogue: 0,0:31:34.18,0:31:36.64,Default,,0,0,0,,Oye, Einstein. Vayan arriba.
+Dialogue: 0,0:31:37.31,0:31:39.98,Default,,0,0,0,,No puedes lavar el auto\Ncon la cubierta puesta.
+Dialogue: 0,0:31:40.69,0:31:43.40,Default,,0,0,0,,- Ni siquiera sabes hacer eso.\N- ¿Estás bien?
+Dialogue: 0,0:31:45.82,0:31:48.90,Default,,0,0,0,,- ¿Que si estoy bien?\N- Sólo era una pregunta.
+Dialogue: 0,0:31:52.36,0:31:55.49,Default,,0,0,0,,¡Oye, Dom! ¿Por qué trajiste al perdedor?
+Dialogue: 0,0:31:55.58,0:31:57.95,Default,,0,0,0,,¡Porque gracias al perdedor\Nescapé de la policía!
+Dialogue: 0,0:31:58.04,0:32:00.25,Default,,0,0,0,,¡No huyó de regreso al fuerte!
+Dialogue: 0,0:32:00.46,0:32:04.08,Default,,0,0,0,,El perdedor me trajo de regreso.
+Dialogue: 0,0:32:07.92,0:32:12.26,Default,,0,0,0,,Tómate toda la cerveza que quieras,\Nmientras sea una Corona.
+Dialogue: 0,0:32:12.34,0:32:15.76,Default,,0,0,0,,- Gracias, amigo.\N- Ésa es de Vince, que la disfrutes.
+Dialogue: 0,0:32:16.85,0:32:19.68,Default,,0,0,0,,Tú...
+Dialogue: 0,0:32:25.23,0:32:29.44,Default,,0,0,0,,- ¿Tienes un cuarto de baño?\N- Sí, arriba. Primera puerta a la derecha.
+Dialogue: 0,0:32:45.71,0:32:49.04,Default,,0,0,0,,No tiene por qué estar aquí.\N¡No conoces nada de ese tipo!
+Dialogue: 0,0:32:49.13,0:32:50.63,Default,,0,0,0,,Tiene razón, Dom.
+Dialogue: 0,0:32:50.71,0:32:52.92,Default,,0,0,0,,Vince, hubo un tiempo\Nen el que no te conocía.
+Dialogue: 0,0:32:53.01,0:32:54.93,Default,,0,0,0,,¡Eso fue en el tercer grado!
+Dialogue: 0,0:32:55.01,0:32:57.39,Default,,0,0,0,,Sí.
+Dialogue: 0,0:32:58.01,0:33:01.47,Default,,0,0,0,,- Bueno, ¿qué chicas hay aquí?\N- Las que quieras. ¿Quieres la mía?
+Dialogue: 0,0:33:01.56,0:33:04.18,Default,,0,0,0,,- Cállate, carajo.\N- ¿Quieres dos?
+Dialogue: 0,0:33:04.27,0:33:06.60,Default,,0,0,0,,- ¿No tienes nada?\N- Te ves cansado.
+Dialogue: 0,0:33:06.69,0:33:09.48,Default,,0,0,0,,Deberías subir a darme un masaje.
+Dialogue: 0,0:33:09.57,0:33:10.73,Default,,0,0,0,,¿Y todos nuestros invitados?
+Dialogue: 0,0:33:10.82,0:33:13.69,Default,,0,0,0,,¿Qué tal si subimos y me das un masaje?
+Dialogue: 0,0:33:16.53,0:33:18.87,Default,,0,0,0,,Loca.
+Dialogue: 0,0:33:22.50,0:33:25.33,Default,,0,0,0,,Oye.
+Dialogue: 0,0:33:25.42,0:33:28.63,Default,,0,0,0,,Sabes que me debes un auto\Nque corra los 1 0 segundos, ¿no?
+Dialogue: 0,0:33:29.63,0:33:32.34,Default,,0,0,0,,Ay.
+Dialogue: 0,0:33:33.01,0:33:35.55,Default,,0,0,0,,Mierda.
+Dialogue: 0,0:33:39.80,0:33:42.47,Default,,0,0,0,,¿Limpiaste el retrete?
+Dialogue: 0,0:33:44.77,0:33:48.52,Default,,0,0,0,,¡Por el amor de Dios!\N¿Quieres parar de una vez? ¡Vamos!
+Dialogue: 0,0:33:50.44,0:33:52.90,Default,,0,0,0,,Vamos, quiero tomar algo.
+Dialogue: 0,0:33:52.98,0:33:55.44,Default,,0,0,0,,Vamos. Estábamos a punto\Nde llevarnos bien.
+Dialogue: 0,0:33:55.53,0:33:58.28,Default,,0,0,0,,Sí.
+Dialogue: 0,0:34:02.37,0:34:05.29,Default,,0,0,0,,- ¿Qué quieres?\N- Lo que sea, mientras esté frío.
+Dialogue: 0,0:34:07.25,0:34:09.42,Default,,0,0,0,,Le caes bien a mi hermano.
+Dialogue: 0,0:34:09.50,0:34:12.46,Default,,0,0,0,,- No le suele caer bien nadie.\N- Sí, es un tipo complicado.
+Dialogue: 0,0:34:12.55,0:34:14.80,Default,,0,0,0,,¿Sí? ¿Y tú qué?
+Dialogue: 0,0:34:17.22,0:34:19.89,Default,,0,0,0,,- Soy más sencillo.\N- No sabes mentir.
+Dialogue: 0,0:34:21.47,0:34:24.47,Default,,0,0,0,,Bueno, me lo tomaré como un cumplido.
+Dialogue: 0,0:34:25.64,0:34:28.39,Default,,0,0,0,,- Pero hay un problema.\N- ¿Cuál?
+Dialogue: 0,0:34:28.48,0:34:30.94,Default,,0,0,0,,Necesitas dormir.
+Dialogue: 0,0:34:31.02,0:34:34.82,Default,,0,0,0,,Y desde luego, sin duda,\Nnecesitas una ducha.
+Dialogue: 0,0:34:35.94,0:34:39.36,Default,,0,0,0,,Vamos, te llevaré a casa.
+Dialogue: 0,0:35:01.59,0:35:03.55,Default,,0,0,0,,Saca las manos. Muy bien.\NAhora abre la puerta.
+Dialogue: 0,0:35:03.64,0:35:06.77,Default,,0,0,0,,Pon las manos sobre la cabeza.\NDetrás de la cabeza.
+Dialogue: 0,0:35:07.02,0:35:10.48,Default,,0,0,0,,Mira hacia el vehículo, camina hacia atrás.
+Dialogue: 0,0:35:10.77,0:35:13.19,Default,,0,0,0,,Da dos pasos a la derecha.
+Dialogue: 0,0:35:13.27,0:35:15.69,Default,,0,0,0,,Alto ahí mismo.
+Dialogue: 0,0:35:17.36,0:35:19.86,Default,,0,0,0,,- ¿Qué hice?\N- Cállate.
+Dialogue: 0,0:35:20.32,0:35:22.03,Default,,0,0,0,,No lleva nada, Sargento.
+Dialogue: 0,0:35:32.04,0:35:34.21,Default,,0,0,0,,¡Maldita sea! Muse, quítame estas esposas.
+Dialogue: 0,0:35:34.29,0:35:37.38,Default,,0,0,0,,- Carajo, cómo las aprietas.\N- Me gusta el realismo.
+Dialogue: 0,0:35:38.01,0:35:40.05,Default,,0,0,0,,Nunca se sabe quién está mirando.
+Dialogue: 0,0:35:44.93,0:35:46.30,Default,,0,0,0,,Qué linda casa, Sargento.
+Dialogue: 0,0:35:46.39,0:35:48.56,Default,,0,0,0,,Más linda que la última que decomisaste.
+Dialogue: 0,0:35:48.64,0:35:50.81,Default,,0,0,0,,¿Verdad? Eddie Fisher se la construyó...
+Dialogue: 0,0:35:50.89,0:35:52.85,Default,,0,0,0,,a Elizabeth Taylor en los años cincuenta.
+Dialogue: 0,0:35:52.94,0:35:55.40,Default,,0,0,0,,Hasta los policías viven\Ncomo en Hollywood.
+Dialogue: 0,0:35:59.78,0:36:02.95,Default,,0,0,0,,Aquí lo tiene.\NRecién equipado y listo para correr.
+Dialogue: 0,0:36:03.03,0:36:05.20,Default,,0,0,0,,Ese auto costó $80.000, agente.
+Dialogue: 0,0:36:05.28,0:36:06.78,Default,,0,0,0,,¿Le explicaste lo que ocurrió?
+Dialogue: 0,0:36:06.87,0:36:08.33,Default,,0,0,0,,- Sabe lo que ocurrió.\N- Oiga.
+Dialogue: 0,0:36:08.41,0:36:10.33,Default,,0,0,0,,- Envíele la cuenta a Johnny Tran.\N- Brian.
+Dialogue: 0,0:36:10.41,0:36:11.79,Default,,0,0,0,,¿El muchacho se me pone bravo?
+Dialogue: 0,0:36:11.87,0:36:14.58,Default,,0,0,0,,No habla bien de la armonía\Nentre la policía y el FBl.
+Dialogue: 0,0:36:14.67,0:36:17.21,Default,,0,0,0,,Apenas llego y ya me está dando...
+Dialogue: 0,0:36:17.30,0:36:20.55,Default,,0,0,0,,De acuerdo, de acuerdo.\NHablaremos, ¿sí? Hablemos de eso.
+Dialogue: 0,0:36:20.63,0:36:23.93,Default,,0,0,0,,Muse, tráenos cuatro capuchinos helados,\Npor favor.
+Dialogue: 0,0:36:24.01,0:36:27.39,Default,,0,0,0,,- Vamos.\N- ¿Normal o descafeinados, Sargento?
+Dialogue: 0,0:36:28.10,0:36:29.72,Default,,0,0,0,,Descafeinados, creo.
+Dialogue: 0,0:36:29.81,0:36:32.48,Default,,0,0,0,,Cuatro robos en dos meses\Ny no tenemos nada.
+Dialogue: 0,0:36:32.56,0:36:35.35,Default,,0,0,0,,Los reproductores de DVD\Ny las cámaras valen $1,2 millones...
+Dialogue: 0,0:36:35.44,0:36:38.40,Default,,0,0,0,,lo que eleva el total a más de $6 millones.
+Dialogue: 0,0:36:38.48,0:36:41.65,Default,,0,0,0,,Se ha vuelto una cuestión\Npolíticamente peliaguda, Brian.
+Dialogue: 0,0:36:42.03,0:36:44.11,Default,,0,0,0,,Por eso trabajas de encubierto.
+Dialogue: 0,0:36:44.20,0:36:47.95,Default,,0,0,0,,Quieres ascender a detective, hijo.\NY ¿sabes qué?
+Dialogue: 0,0:36:48.24,0:36:51.16,Default,,0,0,0,,El FBl puede ayudarte, si lo haces bien.
+Dialogue: 0,0:36:52.33,0:36:55.50,Default,,0,0,0,,- ¿Qué dice el camionero?\N- Nos describió el mismo método.
+Dialogue: 0,0:36:55.58,0:36:57.75,Default,,0,0,0,,Tres Honda Civic, conductores expertos...
+Dialogue: 0,0:36:57.84,0:37:00.88,Default,,0,0,0,,la misma luz verde fosforescente\Nbajo el chasis.
+Dialogue: 0,0:37:00.96,0:37:03.72,Default,,0,0,0,,Las huellas de los neumáticos son\Nlas mismas.
+Dialogue: 0,0:37:03.80,0:37:05.38,Default,,0,0,0,,Neumáticos Mashimoto ZX.
+Dialogue: 0,0:37:05.47,0:37:08.26,Default,,0,0,0,,Sabemos que es alguien\Nde las carreras clandestinas.
+Dialogue: 0,0:37:08.35,0:37:09.80,Default,,0,0,0,,Si no resolvemos esto pronto...
+Dialogue: 0,0:37:09.89,0:37:12.77,Default,,0,0,0,,los camioneros lo resolverán por su cuenta.
+Dialogue: 0,0:37:12.85,0:37:14.98,Default,,0,0,0,,Les dije que estamos cerca.
+Dialogue: 0,0:37:15.98,0:37:19.15,Default,,0,0,0,,- ¿Me harás quedar como un mentiroso?\N- Miren, ¿qué sabemos?
+Dialogue: 0,0:37:19.44,0:37:21.90,Default,,0,0,0,,Sabemos que este mundo gira\Nen torno a Toretto, ¿no?
+Dialogue: 0,0:37:21.98,0:37:25.07,Default,,0,0,0,,No digo que sea él\Nel que asalta estos camiones...
+Dialogue: 0,0:37:25.15,0:37:27.95,Default,,0,0,0,,pero les garantizo a los dos\Nque sabe quién es.
+Dialogue: 0,0:37:28.03,0:37:32.16,Default,,0,0,0,,- Es cuestión de tiempo hasta ganar...\N- ¿Quieres tiempo? Cómprate una revista.
+Dialogue: 0,0:37:32.29,0:37:34.50,Default,,0,0,0,,No tenemos tiempo.
+Dialogue: 0,0:37:35.21,0:37:37.25,Default,,0,0,0,,Averigua algo que me sirva.
+Dialogue: 0,0:37:39.25,0:37:40.59,Default,,0,0,0,,¿Harry está cooperando?
+Dialogue: 0,0:37:40.67,0:37:42.67,Default,,0,0,0,,Sí, irá a la cárcel...
+Dialogue: 0,0:37:42.76,0:37:44.55,Default,,0,0,0,,por vender piezas robadas si no coopera.
+Dialogue: 0,0:37:44.63,0:37:46.42,Default,,0,0,0,,¿Qué piensa sobre Toretto?
+Dialogue: 0,0:37:46.51,0:37:47.55,Default,,0,0,0,,Le tiene miedo...
+Dialogue: 0,0:37:47.64,0:37:50.22,Default,,0,0,0,,pero no cree que asalte los camiones.
+Dialogue: 0,0:37:50.30,0:37:52.31,Default,,0,0,0,,- Es muy moderado para eso.\N- Espera.
+Dialogue: 0,0:37:52.39,0:37:55.52,Default,,0,0,0,,No quiero contradecir\Nel buen ojo para la gente de Harry...
+Dialogue: 0,0:37:55.60,0:37:59.27,Default,,0,0,0,,pero Toretto fue a la cárcel\Npor aporrear casi a muerte a un tipo.
+Dialogue: 0,0:37:59.36,0:38:02.44,Default,,0,0,0,,Tiene óxido nitroso en la sangre\Ny gasolina en el cerebro.
+Dialogue: 0,0:38:02.53,0:38:04.69,Default,,0,0,0,,No puedes descuidarte con él.
+Dialogue: 0,0:38:04.78,0:38:07.99,Default,,0,0,0,,Oye, Tanner, necesitaré otro auto.
+Dialogue: 0,0:38:11.41,0:38:14.04,Default,,0,0,0,,- ¿Piezas y mano de obra?\N- Eso déjalo.
+Dialogue: 0,0:38:14.12,0:38:16.66,Default,,0,0,0,,Dom, no sé qué hacer con esto.
+Dialogue: 0,0:38:20.04,0:38:22.63,Default,,0,0,0,,Bien, ¿qué diablos es esto?
+Dialogue: 0,0:38:22.71,0:38:25.30,Default,,0,0,0,,¿Qué tienes ahí?
+Dialogue: 0,0:38:25.55,0:38:28.38,Default,,0,0,0,,- Éste es tu auto.\N- ¿Mi auto?
+Dialogue: 0,0:38:28.47,0:38:31.51,Default,,0,0,0,,Dije que corra los 1 0 segundos,\Nno 1 0 minutos.
+Dialogue: 0,0:38:31.60,0:38:35.56,Default,,0,0,0,,Puedes empujarlo hasta la meta,\No remolcarlo.
+Dialogue: 0,0:38:36.77,0:38:39.73,Default,,0,0,0,,No podrías ni remolcarlo hasta la meta.
+Dialogue: 0,0:38:40.40,0:38:41.69,Default,,0,0,0,,No tienes fe.
+Dialogue: 0,0:38:41.77,0:38:45.40,Default,,0,0,0,,Tengo fe, pero esto no es\Nun jardín de chatarra, es un taller.
+Dialogue: 0,0:38:45.48,0:38:47.61,Default,,0,0,0,,- Abre el capó.\N- ¿Que abra el capó?
+Dialogue: 0,0:38:47.70,0:38:50.16,Default,,0,0,0,,Abre el capó.
+Dialogue: 0,0:38:51.16,0:38:54.74,Default,,0,0,0,,- Un motor 2JZ. Vaya.\N- ¿Qué te dije?
+Dialogue: 0,0:38:54.83,0:38:57.66,Default,,0,0,0,,- Retiro lo que acabo de decir.\N- ¿Sabes qué?
+Dialogue: 0,0:38:57.75,0:39:02.33,Default,,0,0,0,,Esto arrasará cualquier auto\Ndespués de invertir $1 5.000...
+Dialogue: 0,0:39:02.42,0:39:06.25,Default,,0,0,0,,o más,\Nsi tenemos que traer piezas de Japón.
+Dialogue: 0,0:39:06.59,0:39:09.09,Default,,0,0,0,,- Lo cobraremos a mi cuenta con Harry.\N- ¡Sí!
+Dialogue: 0,0:39:09.63,0:39:13.35,Default,,0,0,0,,Tienes que correr de nuevo\Npara que pueda ganar dinero contigo.
+Dialogue: 0,0:39:14.10,0:39:16.85,Default,,0,0,0,,Hay una competición en el desierto...
+Dialogue: 0,0:39:16.93,0:39:19.31,Default,,0,0,0,,y ahí es donde correrás.
+Dialogue: 0,0:39:19.39,0:39:22.98,Default,,0,0,0,,Cuando no trabajes en la tienda de Harry,\Ntrabajarás aquí.
+Dialogue: 0,0:39:23.06,0:39:27.07,Default,,0,0,0,,Si no encuentras la herramienta\Nque necesitas en este garaje...
+Dialogue: 0,0:39:27.15,0:39:29.94,Default,,0,0,0,,los autos no son para ti.
+Dialogue: 0,0:39:33.16,0:39:35.87,Default,,0,0,0,,Ahora le perteneces.
+Dialogue: 0,0:39:56.31,0:39:59.81,Default,,0,0,0,,SUPRA DlSEÑO
+Dialogue: 0,0:40:01.31,0:40:03.51,Default,,0,0,0,,Dime qué te parece esto.\NAmortiguadores regulables Koni.
+Dialogue: 0,0:40:04.31,0:40:06.61,Default,,0,0,0,,Con eso ahorraremos un kilo.
+Dialogue: 0,0:40:06.77,0:40:11.07,Default,,0,0,0,,Y nos darán mucha más adherencia.\N¿De acuerdo?
+Dialogue: 0,0:40:12.20,0:40:14.36,Default,,0,0,0,,Éste es el diseño básico del auto...
+Dialogue: 0,0:40:14.45,0:40:18.49,Default,,0,0,0,,y así es como se verá\Ncuando esté terminado.
+Dialogue: 0,0:40:19.04,0:40:20.79,Default,,0,0,0,,Rojo, verde.
+Dialogue: 0,0:40:20.87,0:40:23.25,Default,,0,0,0,,Deberías estudiar ingeniería o algo así.
+Dialogue: 0,0:40:23.33,0:40:25.04,Default,,0,0,0,,Sí, claro.
+Dialogue: 0,0:40:25.13,0:40:27.04,Default,,0,0,0,,No, tengo...
+Dialogue: 0,0:40:27.13,0:40:29.09,Default,,0,0,0,,¿Cómo se llama?
+Dialogue: 0,0:40:29.17,0:40:31.46,Default,,0,0,0,,El déficit de atención...
+Dialogue: 0,0:40:31.55,0:40:35.55,Default,,0,0,0,,- ¿ADD?\N- Sí, esa mierda. Sí.
+Dialogue: 0,0:40:36.30,0:40:40.14,Default,,0,0,0,,¿Sabes? Era bueno en álgebra,\Nmatemáticas y esa mierda.
+Dialogue: 0,0:40:40.93,0:40:43.44,Default,,0,0,0,,Pero me reprobaban en todo lo demás.
+Dialogue: 0,0:40:43.52,0:40:45.60,Default,,0,0,0,,Dejé la escuela.
+Dialogue: 0,0:40:45.69,0:40:49.19,Default,,0,0,0,,No sé. Los motores tienen algo...
+Dialogue: 0,0:40:49.28,0:40:52.36,Default,,0,0,0,,que me relaja, ¿sabes?
+Dialogue: 0,0:41:12.80,0:41:15.72,Default,,0,0,0,,- Me rajo.\N- Vamos, viejo.
+Dialogue: 0,0:41:16.05,0:41:18.64,Default,,0,0,0,,- Oye, Dom.\N- Vince, ven aquí y ayúdanos.
+Dialogue: 0,0:41:18.72,0:41:21.76,Default,,0,0,0,,Parece que tienes\Ntoda la ayuda que necesitas, hermano.
+Dialogue: 0,0:41:35.24,0:41:38.99,Default,,0,0,0,,- ¡Mía! El pollo está seco.\N- Ya voy. Espera.
+Dialogue: 0,0:41:39.41,0:41:41.08,Default,,0,0,0,,- ¿Cómo están?\N- Bien.
+Dialogue: 0,0:41:41.16,0:41:43.70,Default,,0,0,0,,Ven aquí.
+Dialogue: 0,0:41:47.25,0:41:49.00,Default,,0,0,0,,Espera, un momento.
+Dialogue: 0,0:41:49.08,0:41:51.34,Default,,0,0,0,,Como fuiste el primero de todos aquí...
+Dialogue: 0,0:41:51.42,0:41:54.55,Default,,0,0,0,,en servirte el pollo,\Nte toca bendecir la mesa.
+Dialogue: 0,0:41:57.26,0:41:59.09,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:42:00.43,0:42:03.35,Default,,0,0,0,,- Querido, uh...\N- Espíritu.
+Dialogue: 0,0:42:04.52,0:42:06.98,Default,,0,0,0,,Espíritu. Gracias.
+Dialogue: 0,0:42:07.06,0:42:08.77,Default,,0,0,0,,Gracias por otorgarnos...
+Dialogue: 0,0:42:08.85,0:42:12.77,Default,,0,0,0,,un sistema de inyección directa de nitro...
+Dialogue: 0,0:42:13.15,0:42:17.07,Default,,0,0,0,,cuatro refrigeradores intermedios\Ny turbos de cojinetes de bolas...
+Dialogue: 0,0:42:17.15,0:42:20.95,Default,,0,0,0,,y muelles de válvulas de titanio. Gracias.
+Dialogue: 0,0:42:21.16,0:42:22.95,Default,,0,0,0,,- Amén.\N- Amén.
+Dialogue: 0,0:42:23.04,0:42:25.04,Default,,0,0,0,,- No está mal.\N- Amén.
+Dialogue: 0,0:42:25.12,0:42:28.00,Default,,0,0,0,,Estaba rezando a los dioses del motor.
+Dialogue: 0,0:42:29.21,0:42:30.54,Default,,0,0,0,,Si no es el mejor...
+Dialogue: 0,0:42:30.63,0:42:32.21,Default,,0,0,0,,¿Tú qué quieres?
+Dialogue: 0,0:42:32.29,0:42:33.92,Default,,0,0,0,,- Necesitas practicar.\N- Gracias.
+Dialogue: 0,0:42:34.00,0:42:37.55,Default,,0,0,0,,Miren quién viene. Don Coyote.
+Dialogue: 0,0:42:38.01,0:42:40.47,Default,,0,0,0,,Creí que no tenías hambre.
+Dialogue: 0,0:42:40.72,0:42:43.60,Default,,0,0,0,,- Tengo que comer.\N- Siempre tiene hambre.
+Dialogue: 0,0:42:43.93,0:42:46.81,Default,,0,0,0,,De acuerdo, siéntate.
+Dialogue: 0,0:42:53.02,0:42:55.69,Default,,0,0,0,,¿Cómo estás, Mía?
+Dialogue: 0,0:42:58.24,0:43:01.36,Default,,0,0,0,,Por nosotros.
+Dialogue: 0,0:43:06.20,0:43:08.75,Default,,0,0,0,,- Jesse, pasa el pollo.\N- Comamos.
+Dialogue: 0,0:43:08.83,0:43:10.79,Default,,0,0,0,,- Sí.\N- ¿Quieres un poco de pollo?
+Dialogue: 0,0:43:10.87,0:43:14.21,Default,,0,0,0,,¿Adónde fuiste? ¿Alquilaste una película?
+Dialogue: 0,0:43:19.63,0:43:21.43,Default,,0,0,0,,¿Necesitas ayuda?
+Dialogue: 0,0:43:21.51,0:43:24.60,Default,,0,0,0,,No, estoy bien.\NVe a ver la película con los demás.
+Dialogue: 0,0:43:25.18,0:43:27.60,Default,,0,0,0,,De donde soy,\Nel que cocina no lava los platos.
+Dialogue: 0,0:43:27.68,0:43:30.35,Default,,0,0,0,,¿Sí? Me gustaría ir allá.
+Dialogue: 0,0:43:34.06,0:43:35.82,Default,,0,0,0,,Creo que deberíamos salir alguna vez.
+Dialogue: 0,0:43:35.90,0:43:38.36,Default,,0,0,0,,No, no salgo con los amigos de mi hermano.
+Dialogue: 0,0:43:39.11,0:43:42.20,Default,,0,0,0,,Qué lástima. Tendré que partirle la cara.
+Dialogue: 0,0:43:42.28,0:43:44.12,Default,,0,0,0,,Eso me encantaría verlo.
+Dialogue: 0,0:43:44.20,0:43:47.37,Default,,0,0,0,,No, en realidad, pagaría por verlo.
+Dialogue: 0,0:44:01.26,0:44:04.09,Default,,0,0,0,,- Lava mi auto cuando termines.\N- ¿Cómo?
+Dialogue: 0,0:44:04.26,0:44:06.76,Default,,0,0,0,,No, Mía. Le hablo a esa putita.
+Dialogue: 0,0:44:07.81,0:44:09.93,Default,,0,0,0,,Y ponte un vestido,\Nporque cuando termines...
+Dialogue: 0,0:44:10.02,0:44:12.94,Default,,0,0,0,,te voy a echar a la calle,\Ndonde debes estar, monada.
+Dialogue: 0,0:44:16.57,0:44:18.57,Default,,0,0,0,,¿Esto no funciona?
+Dialogue: 0,0:44:18.65,0:44:21.65,Default,,0,0,0,,- ¿Qué le ocurre?\N- V.
+Dialogue: 0,0:44:21.74,0:44:25.49,Default,,0,0,0,,V, ¿cuál es ese restaurante cubano\Nal que querías llevarme?
+Dialogue: 0,0:44:25.91,0:44:29.41,Default,,0,0,0,,- El que servía picadillo y tenía...\N- ¿Velas rojas y mesas de madera?
+Dialogue: 0,0:44:29.50,0:44:30.87,Default,,0,0,0,,- Sí, los plátanos grandes.\N- Sí.
+Dialogue: 0,0:44:30.95,0:44:32.83,Default,,0,0,0,,Con comida variada. ¿Cómo se llamaba?
+Dialogue: 0,0:44:32.92,0:44:34.75,Default,,0,0,0,,- Cha Cha Cha.\N- Sí, eso es.
+Dialogue: 0,0:44:34.83,0:44:36.71,Default,,0,0,0,,- Sí.\N- Cierto.
+Dialogue: 0,0:44:36.79,0:44:39.00,Default,,0,0,0,,Bien, puedes llevarme ahí.
+Dialogue: 0,0:44:39.09,0:44:42.22,Default,,0,0,0,,El viernes a las 1 0:00. ¿Te viene bien?
+Dialogue: 0,0:44:42.30,0:44:45.43,Default,,0,0,0,,- Sí, perfecto.\N- Muy bien.
+Dialogue: 0,0:44:50.85,0:44:54.52,Default,,0,0,0,,- ¿No hay palomitas?\N- ¡Hazte tus propias palomitas!
+Dialogue: 0,0:45:08.62,0:45:11.45,Default,,0,0,0,,Muy bien. Eso es estacionarse en la puerta.
+Dialogue: 0,0:45:15.46,0:45:17.54,Default,,0,0,0,,Harry. ¿Qué tal?
+Dialogue: 0,0:45:17.63,0:45:20.25,Default,,0,0,0,,Genial, hermano. Adelante.\NEstás en tu casa.
+Dialogue: 0,0:45:20.34,0:45:22.63,Default,,0,0,0,,¿Qué tenemos aquí?
+Dialogue: 0,0:45:23.88,0:45:26.01,Default,,0,0,0,,- Tienen una empleada nueva, ¿eh?\N- Ni lo pienses.
+Dialogue: 0,0:45:26.09,0:45:27.72,Default,,0,0,0,,- Bien, ¿te gusta?\N- ¿Qué tal, Héctor?
+Dialogue: 0,0:45:27.80,0:45:29.80,Default,,0,0,0,,- ¿Cómo estás?\N- Muy bien.
+Dialogue: 0,0:45:29.89,0:45:33.68,Default,,0,0,0,,- ¿Qué necesitas?\N- Necesito que me ayudes.
+Dialogue: 0,0:45:33.77,0:45:36.94,Default,,0,0,0,,Tres de todo. Hice una lista.
+Dialogue: 0,0:45:37.02,0:45:39.27,Default,,0,0,0,,Échale un vistazo.
+Dialogue: 0,0:45:39.36,0:45:42.23,Default,,0,0,0,,- ¿Cuándo lo necesitas?\N- Mañana, hoy, ahora.
+Dialogue: 0,0:45:42.32,0:45:43.40,Default,,0,0,0,,Muy bien.
+Dialogue: 0,0:45:43.49,0:45:46.65,Default,,0,0,0,,Los blancos trabajan rápido, ¿no?
+Dialogue: 0,0:45:48.49,0:45:51.37,Default,,0,0,0,,Eso es.
+Dialogue: 0,0:45:52.62,0:45:54.54,Default,,0,0,0,,¿Dices que necesitas tres de todo?
+Dialogue: 0,0:45:54.62,0:45:56.75,Default,,0,0,0,,Sí, tres de todo.
+Dialogue: 0,0:45:56.83,0:46:00.00,Default,,0,0,0,,¿Qué te parece esto? Fíjate.
+Dialogue: 0,0:48:07.55,0:48:10.42,Default,,0,0,0,,Se queja como un policía.
+Dialogue: 0,0:48:18.47,0:48:20.10,Default,,0,0,0,,Brian, éste es uno de esos momentos...
+Dialogue: 0,0:48:20.18,0:48:23.02,Default,,0,0,0,,en los que debes ser muy claro\Na la hora de hablar.
+Dialogue: 0,0:48:23.52,0:48:26.36,Default,,0,0,0,,- Asiente con la cabeza si me comprendes.\N- ¡Asiente!
+Dialogue: 0,0:48:28.69,0:48:31.74,Default,,0,0,0,,Siéntate derecho.
+Dialogue: 0,0:48:36.45,0:48:38.83,Default,,0,0,0,,Dime qué diablos haces aquí.
+Dialogue: 0,0:48:38.91,0:48:42.66,Default,,0,0,0,,Mierda. Lo que hago aquí.
+Dialogue: 0,0:48:44.21,0:48:46.71,Default,,0,0,0,,Dom...
+Dialogue: 0,0:48:46.79,0:48:48.00,Default,,0,0,0,,yo no...
+Dialogue: 0,0:48:48.09,0:48:50.55,Default,,0,0,0,,Te debo un auto que corra los 1 0 segundos.
+Dialogue: 0,0:48:51.67,0:48:53.97,Default,,0,0,0,,Y todo esto tiene que ver...
+Dialogue: 0,0:48:54.05,0:48:56.14,Default,,0,0,0,,con la competición.
+Dialogue: 0,0:48:58.47,0:49:02.35,Default,,0,0,0,,Sólo entré, y Héctor va a correr...
+Dialogue: 0,0:49:02.85,0:49:05.31,Default,,0,0,0,,con tres Honda Civic con motores Spoon.
+Dialogue: 0,0:49:05.48,0:49:08.27,Default,,0,0,0,,Y además, acaba de ir a\Nla tienda de Harry...
+Dialogue: 0,0:49:08.36,0:49:12.94,Default,,0,0,0,,y encargó tres turbos T66, con nitro...
+Dialogue: 0,0:49:14.32,0:49:17.70,Default,,0,0,0,,y un sistema de escape MoTeC.
+Dialogue: 0,0:49:19.79,0:49:22.75,Default,,0,0,0,,¿Qué estás diciendo?
+Dialogue: 0,0:49:22.83,0:49:25.62,Default,,0,0,0,,¿Vas a ir por ahí comprobando\Nlos autos de los demás...
+Dialogue: 0,0:49:25.71,0:49:28.83,Default,,0,0,0,,un taller tras otro?
+Dialogue: 0,0:49:30.21,0:49:33.71,Default,,0,0,0,,Sí.
+Dialogue: 0,0:49:34.42,0:49:37.05,Default,,0,0,0,,Porque, Dom, sabes...
+Dialogue: 0,0:49:37.14,0:49:39.55,Default,,0,0,0,,que no puedo perder otra vez.
+Dialogue: 0,0:49:40.31,0:49:42.85,Default,,0,0,0,,Es un policía.
+Dialogue: 0,0:49:44.06,0:49:47.06,Default,,0,0,0,,¡Es un policía!
+Dialogue: 0,0:49:48.52,0:49:51.27,Default,,0,0,0,,¿Eres un policía?
+Dialogue: 0,0:49:56.24,0:49:59.41,Default,,0,0,0,,Vayamos a dar un paseíto.
+Dialogue: 0,0:50:01.20,0:50:03.54,Default,,0,0,0,,¡Camina!
+Dialogue: 0,0:50:21.76,0:50:25.06,Default,,0,0,0,,De acuerdo, muchacho, tú vigila.
+Dialogue: 0,0:50:54.46,0:50:57.84,Default,,0,0,0,,Oye, Dominic.
+Dialogue: 0,0:50:57.92,0:51:00.76,Default,,0,0,0,,Faltan los motores.
+Dialogue: 0,0:51:00.84,0:51:03.51,Default,,0,0,0,,¿Con qué van a correr?\N¿Con sueños e ilusiones?
+Dialogue: 0,0:51:03.60,0:51:05.89,Default,,0,0,0,,No lo sé, pero sé que son muy astutos...
+Dialogue: 0,0:51:05.97,0:51:08.73,Default,,0,0,0,,y tienen dinero para comprar lo que sea.
+Dialogue: 0,0:51:13.98,0:51:15.07,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:51:23.33,0:51:25.91,Default,,0,0,0,,Dom, tenemos una manada de lobos.
+Dialogue: 0,0:51:25.99,0:51:29.50,Default,,0,0,0,,¡Es Johnny Tran y va hacia ti a toda prisa!
+Dialogue: 0,0:51:29.87,0:51:33.17,Default,,0,0,0,,De acuerdo, tenemos compañía. ¡Spilner!
+Dialogue: 0,0:51:58.53,0:52:00.44,Default,,0,0,0,,Vamos.
+Dialogue: 0,0:52:00.53,0:52:03.28,Default,,0,0,0,,- ¡Muévete!\N- Déjame hacerte una pregunta, Ted.
+Dialogue: 0,0:52:04.78,0:52:07.49,Default,,0,0,0,,¿Ves que algo esté mal aquí?
+Dialogue: 0,0:52:07.58,0:52:10.54,Default,,0,0,0,,No.
+Dialogue: 0,0:52:11.92,0:52:14.29,Default,,0,0,0,,- No tenemos motores, ¿verdad?\N- ¡No!
+Dialogue: 0,0:52:14.38,0:52:18.63,Default,,0,0,0,,- ¿Verdad?\N- ¡No!
+Dialogue: 0,0:52:18.71,0:52:21.34,Default,,0,0,0,,Un par de motores Nissan SR20 estarían\Nmuy cotizados...
+Dialogue: 0,0:52:21.42,0:52:24.72,Default,,0,0,0,,- antes de la competición, ¿eh?\N- Es probable.
+Dialogue: 0,0:52:24.80,0:52:28.35,Default,,0,0,0,,Eres un reducidor listo, Ted.\NQuizá demasiado listo.
+Dialogue: 0,0:52:29.43,0:52:32.23,Default,,0,0,0,,¿Tú qué crees, Lance?
+Dialogue: 0,0:52:32.81,0:52:34.69,Default,,0,0,0,,¿De grado 40?
+Dialogue: 0,0:52:34.77,0:52:37.11,Default,,0,0,0,,¿Grado 50?
+Dialogue: 0,0:52:37.19,0:52:39.90,Default,,0,0,0,,40 me parece bien.
+Dialogue: 0,0:52:54.58,0:52:57.38,Default,,0,0,0,,¿Dónde están, Ted? ¿Dónde están?
+Dialogue: 0,0:52:57.46,0:52:59.63,Default,,0,0,0,,- ¡Ya basta!\N- ¿Dónde están?
+Dialogue: 0,0:52:59.71,0:53:03.01,Default,,0,0,0,,Están en el almacén. ¡Están en el almacén!
+Dialogue: 0,0:53:19.61,0:53:22.28,Default,,0,0,0,,¿Me lames los zapatos?
+Dialogue: 0,0:53:34.79,0:53:37.71,Default,,0,0,0,,Vayamos por nuestros motores.
+Dialogue: 0,0:53:37.79,0:53:40.38,Default,,0,0,0,,Mis superiores vendrán de Washington\Npasado mañana.
+Dialogue: 0,0:53:40.46,0:53:41.92,Default,,0,0,0,,Quiero enseñarles algo.
+Dialogue: 0,0:53:42.01,0:53:44.72,Default,,0,0,0,,Un reducidor con una manguera de aceite\Nen la boca...
+Dialogue: 0,0:53:44.80,0:53:48.39,Default,,0,0,0,,armas automáticas, una banda de asiáticos\Ncon antecedentes penales...
+Dialogue: 0,0:53:48.47,0:53:51.56,Default,,0,0,0,,un garaje lleno de reproductores de DVD\Ny de psicópatas.
+Dialogue: 0,0:53:51.64,0:53:54.02,Default,,0,0,0,,¿Por qué no arrestamos a Tran ahora...
+Dialogue: 0,0:53:54.10,0:53:55.60,Default,,0,0,0,,para ver qué descubrimos?
+Dialogue: 0,0:53:55.69,0:53:58.48,Default,,0,0,0,,Sólo tenemos comportamiento.\NNecesitamos pruebas concretas...
+Dialogue: 0,0:53:58.56,0:54:00.52,Default,,0,0,0,,porque sólo hay pruebas circunstanciales...
+Dialogue: 0,0:54:00.61,0:54:02.40,Default,,0,0,0,,Tenemos una sospecha fundada.
+Dialogue: 0,0:54:02.48,0:54:06.36,Default,,0,0,0,,Y a camioneros armándose como un grupo\Nde vigilantes a la antigua usanza.
+Dialogue: 0,0:54:06.45,0:54:08.24,Default,,0,0,0,,Háblanos de Héctor.
+Dialogue: 0,0:54:08.32,0:54:10.74,Default,,0,0,0,,Hispanos con arpones. Por favor.
+Dialogue: 0,0:54:10.83,0:54:14.12,Default,,0,0,0,,Héctor aún trabaja en los motores,\Npero los neumáticos no concuerdan.
+Dialogue: 0,0:54:14.20,0:54:16.62,Default,,0,0,0,,- Denme un cigarrillo.\N- Dale un cigarrillo.
+Dialogue: 0,0:54:16.71,0:54:18.29,Default,,0,0,0,,No le des un cigarrillo.
+Dialogue: 0,0:54:18.38,0:54:19.92,Default,,0,0,0,,- Creí que habías dejado.\N- Lo dejé.
+Dialogue: 0,0:54:20.00,0:54:21.84,Default,,0,0,0,,- Sólo dame un cigarrillo.\N- Dale uno.
+Dialogue: 0,0:54:21.92,0:54:25.01,Default,,0,0,0,,¡No!
+Dialogue: 0,0:54:25.38,0:54:27.13,Default,,0,0,0,,Háblame de Toretto.
+Dialogue: 0,0:54:27.22,0:54:29.89,Default,,0,0,0,,Es muy moderado para hacer esto.
+Dialogue: 0,0:54:29.97,0:54:32.39,Default,,0,0,0,,¿Jugarse la vida asaltando camiones?\NNi hablar.
+Dialogue: 0,0:54:32.47,0:54:35.06,Default,,0,0,0,,Su amigo Vince quizá,\Npero es demasiado estúpido.
+Dialogue: 0,0:54:35.14,0:54:37.77,Default,,0,0,0,,Creo que su hermana no te deja ver\Nlas cosas claramente.
+Dialogue: 0,0:54:37.85,0:54:39.73,Default,,0,0,0,,- ¿Cómo?\N- No te culpo.
+Dialogue: 0,0:54:39.81,0:54:43.15,Default,,0,0,0,,Me la pone dura\Nde sólo ver sus fotos, amigo.
+Dialogue: 0,0:54:45.15,0:54:47.44,Default,,0,0,0,,¡Basta!
+Dialogue: 0,0:54:47.53,0:54:50.28,Default,,0,0,0,,¿Ahora vas a adoptar sus costumbres?
+Dialogue: 0,0:54:54.87,0:54:58.12,Default,,0,0,0,,- ¿Has leído el expediente de Toretto?\N- Sí, me lo aprendí de memoria.
+Dialogue: 0,0:54:58.21,0:55:01.88,Default,,0,0,0,,Pues léelo de nuevo.\NNo, aún mejor que eso, mira estas fotos.
+Dialogue: 0,0:55:03.96,0:55:06.80,Default,,0,0,0,,¿Recuerdas el tipo\Nal que casi mata de una paliza?
+Dialogue: 0,0:55:07.63,0:55:11.30,Default,,0,0,0,,Toretto le hizo esto con\Nuna llave torsiométrica de dos centímetros.
+Dialogue: 0,0:55:11.51,0:55:14.43,Default,,0,0,0,,Es un modelo de autocontrol.
+Dialogue: 0,0:55:16.35,0:55:24.11,Default,,0,0,0,,Necesito un par de días más.
+Dialogue: 0,0:55:24.90,0:55:27.82,Default,,0,0,0,,Tengo un TR7 aquí\Ncon un cojinete de bolas nuevo.
+Dialogue: 0,0:55:27.90,0:55:31.95,Default,,0,0,0,,Lo que hará es... Girar como una bobina.
+Dialogue: 0,0:55:32.03,0:55:35.08,Default,,0,0,0,,- Lo tengo programado para 24...\N- Sí.
+Dialogue: 0,0:55:37.70,0:55:41.08,Default,,0,0,0,,¿Tienes planes para esta noche?
+Dialogue: 0,0:55:41.79,0:55:44.50,Default,,0,0,0,,Sí, vamos a salir a cenar.
+Dialogue: 0,0:55:45.71,0:55:48.38,Default,,0,0,0,,Si le partes el corazón,\Nte partiré el cuello.
+Dialogue: 0,0:55:48.84,0:55:51.72,Default,,0,0,0,,Eso no ocurrirá.
+Dialogue: 0,0:55:55.60,0:55:58.77,Default,,0,0,0,,Quiero mostrarte algo.
+Dialogue: 0,0:56:07.48,0:56:10.44,Default,,0,0,0,,Vaya.
+Dialogue: 0,0:56:11.65,0:56:14.11,Default,,0,0,0,,Mi padre y yo lo construimos.
+Dialogue: 0,0:56:14.20,0:56:16.91,Default,,0,0,0,,900 caballos de Detroit.
+Dialogue: 0,0:56:17.74,0:56:19.70,Default,,0,0,0,,Es un monstruo.
+Dialogue: 0,0:56:19.79,0:56:22.71,Default,,0,0,0,,- ¿Sabes cuánto corrió en Palmdale?\N- No. ¿Cuánto?
+Dialogue: 0,0:56:22.79,0:56:25.79,Default,,0,0,0,,Nueve segundos exactos.
+Dialogue: 0,0:56:25.88,0:56:28.30,Default,,0,0,0,,- Dios.\N- Conducía mi padre.
+Dialogue: 0,0:56:28.38,0:56:32.55,Default,,0,0,0,,Tenía tanto par de motor\Nque retorcía el chasis al arrancar.
+Dialogue: 0,0:56:33.72,0:56:36.30,Default,,0,0,0,,Apenas lo pudo mantener en la pista.
+Dialogue: 0,0:56:36.39,0:56:39.39,Default,,0,0,0,,- ¿Cuál es tu mejor tiempo?\N- Nunca lo he conducido.
+Dialogue: 0,0:56:39.47,0:56:42.48,Default,,0,0,0,,¿Por qué no?
+Dialogue: 0,0:56:43.31,0:56:46.23,Default,,0,0,0,,Me aterra.
+Dialogue: 0,0:56:47.61,0:56:50.19,Default,,0,0,0,,Ése es mi padre.
+Dialogue: 0,0:56:50.61,0:56:52.99,Default,,0,0,0,,Corría en el circuito profesional.
+Dialogue: 0,0:56:53.49,0:56:55.99,Default,,0,0,0,,La última carrera de la temporada.
+Dialogue: 0,0:56:56.37,0:57:00.79,Default,,0,0,0,,Un tipo llamado Kenny Linder le hizo\Nun interior en la última curva.
+Dialogue: 0,0:57:01.37,0:57:05.17,Default,,0,0,0,,Le tocó el parachoques y lo estrelló\Ncontra el muro a 1 90 km por hora.
+Dialogue: 0,0:57:08.04,0:57:10.84,Default,,0,0,0,,Vi a mi padre arder vivo.
+Dialogue: 0,0:57:12.92,0:57:15.59,Default,,0,0,0,,Recuerdo que lo oí gritar.
+Dialogue: 0,0:57:18.26,0:57:22.81,Default,,0,0,0,,La gente que estaba ahí dijo que murió antes\Nde estallar los depósitos de gasolina.
+Dialogue: 0,0:57:28.86,0:57:31.69,Default,,0,0,0,,Dijeron que era yo el que gritaba.
+Dialogue: 0,0:57:35.03,0:57:37.70,Default,,0,0,0,,Vi a Linder una semana después.
+Dialogue: 0,0:57:38.74,0:57:41.62,Default,,0,0,0,,Tenía una llave inglesa.
+Dialogue: 0,0:57:41.70,0:57:44.46,Default,,0,0,0,,Y lo golpeé,\Ny no lo quise seguir golpeando...
+Dialogue: 0,0:57:44.54,0:57:47.37,Default,,0,0,0,,pero cuando terminé,\Nno podía levantar los brazos.
+Dialogue: 0,0:57:52.76,0:57:55.97,Default,,0,0,0,,Trabaja como conserje\Nen una escuela secundaria.
+Dialogue: 0,0:57:56.22,0:57:59.55,Default,,0,0,0,,Tiene que tomar el autobús todos los días.
+Dialogue: 0,0:57:59.89,0:58:02.89,Default,,0,0,0,,Y me prohibieron competir\Nen los circuitos de por vida.
+Dialogue: 0,0:58:08.27,0:58:10.98,Default,,0,0,0,,Vivo mi vida 400 metros a la vez.
+Dialogue: 0,0:58:12.65,0:58:15.49,Default,,0,0,0,,Todo lo demás no importa,\Nni la hipoteca, ni la tienda...
+Dialogue: 0,0:58:15.57,0:58:19.24,Default,,0,0,0,,ni mi equipo y toda esa mierda.
+Dialogue: 0,0:58:19.74,0:58:23.45,Default,,0,0,0,,Durante esos 1 0 segundos o menos...
+Dialogue: 0,0:58:23.70,0:58:26.12,Default,,0,0,0,,soy libre.
+Dialogue: 0,0:58:45.77,0:58:48.98,Default,,0,0,0,,¿Y cómo se creó la banda?
+Dialogue: 0,0:58:49.06,0:58:50.31,Default,,0,0,0,,- ¿Qué?\N- La banda.
+Dialogue: 0,0:58:50.40,0:58:52.86,Default,,0,0,0,,¿La banda?\NNo, no se consideran una banda.
+Dialogue: 0,0:58:52.94,0:58:55.19,Default,,0,0,0,,- ¿Qué se consideran?\N- Son un equipo.
+Dialogue: 0,0:58:55.28,0:58:56.74,Default,,0,0,0,,Se consideran un equipo.
+Dialogue: 0,0:58:56.82,0:58:59.82,Default,,0,0,0,,¿Cómo nació el equipo?
+Dialogue: 0,0:58:59.91,0:59:02.66,Default,,0,0,0,,Bueno, ésa es una historia muy larga.
+Dialogue: 0,0:59:03.45,0:59:05.54,Default,,0,0,0,,- Tengo tiempo.\N- Bien.
+Dialogue: 0,0:59:05.62,0:59:07.87,Default,,0,0,0,,Vince creció con mi hermano.
+Dialogue: 0,0:59:07.96,0:59:11.29,Default,,0,0,0,,No creció del todo en realidad,\Ncomo habrás visto...
+Dialogue: 0,0:59:11.67,0:59:13.71,Default,,0,0,0,,pero eran amigos de pequeños.
+Dialogue: 0,0:59:13.80,0:59:16.42,Default,,0,0,0,,Y Letty... Vivía en la misma calle.
+Dialogue: 0,0:59:16.51,0:59:19.55,Default,,0,0,0,,Siempre le gustaron los autos.\NDesde que tenía 1 0 años.
+Dialogue: 0,0:59:19.63,0:59:23.35,Default,,0,0,0,,Así que, naturalmente,\Nsiempre le hizo ojitos a mi hermano.
+Dialogue: 0,0:59:23.97,0:59:27.64,Default,,0,0,0,,- Y luego ella cumplió 1 6 años.\N- Y Dom le hizo ojitos a ella.
+Dialogue: 0,0:59:27.85,0:59:30.98,Default,,0,0,0,,Sí, es gracioso\Ncómo funciona eso, ¿verdad?
+Dialogue: 0,0:59:31.65,0:59:34.11,Default,,0,0,0,,Sí.
+Dialogue: 0,0:59:36.15,0:59:38.49,Default,,0,0,0,,¿Y Jesse cómo encaja en todo esto?
+Dialogue: 0,0:59:38.57,0:59:39.57,Default,,0,0,0,,¿Jesse?
+Dialogue: 0,0:59:39.65,0:59:43.95,Default,,0,0,0,,Bueno, Jesse y León aparecieron\Nuna noche y nunca se fueron.
+Dialogue: 0,0:59:44.37,0:59:46.74,Default,,0,0,0,,Es por cómo es mi hermano.
+Dialogue: 0,0:59:46.83,0:59:49.37,Default,,0,0,0,,Dom es como...
+Dialogue: 0,0:59:49.46,0:59:51.87,Default,,0,0,0,,Es como la fuerza de gravedad.
+Dialogue: 0,0:59:52.21,0:59:55.42,Default,,0,0,0,,Lo arrastra todo hacia él.
+Dialogue: 0,0:59:56.34,0:59:59.34,Default,,0,0,0,,Lncluso a ti.
+Dialogue: 0,1:00:00.01,1:00:02.97,Default,,0,0,0,,No.
+Dialogue: 0,1:00:03.05,1:00:05.80,Default,,0,0,0,,Lo único que me atrajo fuiste tú.
+Dialogue: 0,1:00:06.14,1:00:09.14,Default,,0,0,0,,Ser amigo de tu hermano sólo es\Nuna ventaja adicional.
+Dialogue: 0,1:00:11.69,1:00:14.52,Default,,0,0,0,,Qué bien.
+Dialogue: 0,1:00:15.15,1:00:18.57,Default,,0,0,0,,Qué bien, me gusta ser la primera\Nde vez en cuando.
+Dialogue: 0,1:00:22.24,1:00:23.82,Default,,0,0,0,,¿Quieres ir a dar un paseo?
+Dialogue: 0,1:01:02.07,1:01:04.24,Default,,0,0,0,,- Sí.\N- Hemos tenido otro asalto.
+Dialogue: 0,1:01:04.32,1:01:05.66,Default,,0,0,0,,Bilkins ha tomado una decisión.
+Dialogue: 0,1:01:05.74,1:01:09.24,Default,,0,0,0,,Arrestaremos a Johnny Tran\Ny a su banda a las 17:00.
+Dialogue: 0,1:01:09.49,1:01:13.00,Default,,0,0,0,,A menos que digas lo contrario.\NSi estás de acuerdo, di que sí.
+Dialogue: 0,1:01:14.25,1:01:17.08,Default,,0,0,0,,- Sí.\N- ¿Quién es?
+Dialogue: 0,1:01:17.96,1:01:21.25,Default,,0,0,0,,Alguien que se equivocó de número.
+Dialogue: 0,1:01:24.76,1:01:27.55,Default,,0,0,0,,Hola.
+Dialogue: 0,1:04:12.22,1:04:14.59,Default,,0,0,0,,Sí, señor. Sí. Lo sé, pero...
+Dialogue: 0,1:04:14.68,1:04:17.31,Default,,0,0,0,,Sí. Sí. Sí, señor.
+Dialogue: 0,1:04:17.39,1:04:20.39,Default,,0,0,0,,Sí, entendido.
+Dialogue: 0,1:04:23.35,1:04:25.27,Default,,0,0,0,,Los reproductores de DVD no son robados.
+Dialogue: 0,1:04:25.36,1:04:28.61,Default,,0,0,0,,Sólo tenemos contra Tan y compañía\Ncargos menores por armas...
+Dialogue: 0,1:04:28.69,1:04:31.03,Default,,0,0,0,,y algunas multas de velocidad sin pagar.
+Dialogue: 0,1:04:31.11,1:04:34.07,Default,,0,0,0,,- Así que están libres.\N- Sí. Su papá pagó la fianza.
+Dialogue: 0,1:04:35.62,1:04:39.29,Default,,0,0,0,,¿Ésta es la clase de información\Nque puedo esperar de ti, O'Conner?
+Dialogue: 0,1:04:44.33,1:04:47.38,Default,,0,0,0,,- ¿Me va a culpar de esto?\N- Puedo culpar a quien quiera.
+Dialogue: 0,1:04:47.46,1:04:48.55,Default,,0,0,0,,Las ventajas de mi trabajo.
+Dialogue: 0,1:04:48.63,1:04:50.42,Default,,0,0,0,,No me culpará a mí de esto...
+Dialogue: 0,1:04:50.51,1:04:52.34,Default,,0,0,0,,Espera. Déjame decirte una cosa.
+Dialogue: 0,1:04:52.43,1:04:54.55,Default,,0,0,0,,Me da igual\Nque tengas que sacar tu pistola...
+Dialogue: 0,1:04:54.64,1:04:56.51,Default,,0,0,0,,y desenmascararte.
+Dialogue: 0,1:04:56.60,1:04:59.14,Default,,0,0,0,,Tienes 36 horas para arrestar\Na este desgraciado...
+Dialogue: 0,1:04:59.22,1:05:02.23,Default,,0,0,0,,o ya puedes pensar en cambiar de trabajo.
+Dialogue: 0,1:05:13.45,1:05:16.70,Default,,0,0,0,,Es Toretto, Brian. Siempre ha sido Toretto.
+Dialogue: 0,1:05:18.20,1:05:20.41,Default,,0,0,0,,Tran y Héctor son...
+Dialogue: 0,1:05:20.49,1:05:23.00,Default,,0,0,0,,Sólo son unos pordioseros.
+Dialogue: 0,1:05:25.54,1:05:28.34,Default,,0,0,0,,Sé que me has mentido.\NPero mi pregunta es...
+Dialogue: 0,1:05:28.42,1:05:32.34,Default,,0,0,0,,¿te has estado mintiendo a ti mismo\Npor culpa de Mía?
+Dialogue: 0,1:05:34.59,1:05:36.97,Default,,0,0,0,,Él no regresará a la cárcel.
+Dialogue: 0,1:05:37.64,1:05:40.47,Default,,0,0,0,,Bueno, ésa es una decisión\Nque tendrá que tomar.
+Dialogue: 0,1:05:44.52,1:05:47.02,Default,,0,0,0,,Hay familias de muchas clases, Brian.
+Dialogue: 0,1:05:48.48,1:05:51.36,Default,,0,0,0,,Ésa es una decisión que tendrás que tomar.
+Dialogue: 0,1:06:09.25,1:06:11.80,Default,,0,0,0,,¿Estás listo para esto?
+Dialogue: 0,1:06:13.76,1:06:16.01,Default,,0,0,0,,¡Sí!
+Dialogue: 0,1:06:37.57,1:06:40.57,Default,,0,0,0,,Qué lindo auto.\N¿Cuánto cuesta uno de ésos?
+Dialogue: 0,1:06:40.91,1:06:43.91,Default,,0,0,0,,Más de lo que puedes pagar, amigo. Ferrari.
+Dialogue: 0,1:06:49.83,1:06:53.25,Default,,0,0,0,,Aniquílalo.
+Dialogue: 0,1:07:46.06,1:07:48.43,Default,,0,0,0,,¿Qué ocurre, Brian?
+Dialogue: 0,1:07:48.93,1:07:51.06,Default,,0,0,0,,Nada, viejo, estoy bien.
+Dialogue: 0,1:07:51.15,1:07:54.36,Default,,0,0,0,,Vamos. Obviamente,\Nhay algo que te tiene preocupado.
+Dialogue: 0,1:07:54.98,1:07:57.36,Default,,0,0,0,,Mira, tengo días buenos y días malos...
+Dialogue: 0,1:07:57.44,1:07:59.15,Default,,0,0,0,,como todo el mundo.
+Dialogue: 0,1:07:59.24,1:08:03.07,Default,,0,0,0,,Brian, no pierdas tus nervios de acero.\NDe eso vives.
+Dialogue: 0,1:08:04.66,1:08:07.58,Default,,0,0,0,,¿De eso vivo?\N¿Qué, no puedo pagar estos camarones?
+Dialogue: 0,1:08:07.66,1:08:09.62,Default,,0,0,0,,Yo invito.
+Dialogue: 0,1:08:09.71,1:08:12.42,Default,,0,0,0,,Eso es algo que tengo, no lo entiendes.
+Dialogue: 0,1:08:12.50,1:08:14.33,Default,,0,0,0,,No necesito limosnas. No acepto limosnas.
+Dialogue: 0,1:08:14.42,1:08:16.80,Default,,0,0,0,,Me lo gano todo.
+Dialogue: 0,1:08:16.88,1:08:19.42,Default,,0,0,0,,Sólo necesito ganarme un dinerito extra,\Ncomo tú.
+Dialogue: 0,1:08:19.51,1:08:21.47,Default,,0,0,0,,¿Cómo que como yo?
+Dialogue: 0,1:08:21.55,1:08:24.30,Default,,0,0,0,,- ¿Qué significa eso?\N- Eso mismo.
+Dialogue: 0,1:08:24.60,1:08:27.43,Default,,0,0,0,,- ¿Qué significa eso de "como yo"?\N- No intentes...
+Dialogue: 0,1:08:27.72,1:08:30.93,Default,,0,0,0,,No soy estúpido, ¿de acuerdo?\NEs imposible que pudieras pagar...
+Dialogue: 0,1:08:31.02,1:08:33.73,Default,,0,0,0,,todo lo que hay bajo el capó...
+Dialogue: 0,1:08:33.81,1:08:36.06,Default,,0,0,0,,Es imposible que puedas pagar...
+Dialogue: 0,1:08:36.15,1:08:40.36,Default,,0,0,0,,todo lo que hay bajo el capó, haciendo\Npuestas a punto y vendiendo comestibles.
+Dialogue: 0,1:08:41.24,1:08:44.16,Default,,0,0,0,,Lo que sea que hagas, yo quiero hacerlo.
+Dialogue: 0,1:09:07.10,1:09:09.64,Default,,0,0,0,,- ¿Qué es esto?\N- Léelo.
+Dialogue: 0,1:09:09.72,1:09:12.77,Default,,0,0,0,,- ¿Para qué es?\N- Cómo llegar...
+Dialogue: 0,1:09:14.40,1:09:16.31,Default,,0,0,0,,a la competición del desierto.
+Dialogue: 0,1:09:16.40,1:09:18.90,Default,,0,0,0,,Veremos qué tal lo haces...
+Dialogue: 0,1:09:19.44,1:09:22.28,Default,,0,0,0,,luego hablaremos.
+Dialogue: 0,1:10:01.98,1:10:04.28,Default,,0,0,0,,PROHlBlDO EL PASO - BASE CERRADA\NGOBlERNO DE EE.UU.
+Dialogue: 0,1:10:07.11,1:10:08.87,Default,,0,0,0,,- ¿Cómo estás?\N- ¿Qué tal?
+Dialogue: 0,1:10:08.95,1:10:11.95,Default,,0,0,0,,- Bienvenido a la competición.\N- Muy bien. Gracias.
+Dialogue: 0,1:10:34.73,1:10:37.85,Default,,0,0,0,,Eh, nena.
+Dialogue: 0,1:10:38.02,1:10:39.60,Default,,0,0,0,,Mira por el costado.
+Dialogue: 0,1:10:39.69,1:10:41.94,Default,,0,0,0,,No quiero mancharte la carita con mi humo.
+Dialogue: 0,1:10:42.02,1:10:43.98,Default,,0,0,0,,¿Quieres apostar?
+Dialogue: 0,1:10:44.07,1:10:46.24,Default,,0,0,0,,¿Si te gano me das ese culito?
+Dialogue: 0,1:10:46.32,1:10:48.91,Default,,0,0,0,,Si quieres culos,\Nvete a Hollywood Boulevard.
+Dialogue: 0,1:10:48.99,1:10:52.16,Default,,0,0,0,,Si quieres correr te costará $2.000.
+Dialogue: 0,1:10:52.24,1:10:55.04,Default,,0,0,0,,Aquí y ahora. ¿Qué dices?
+Dialogue: 0,1:10:57.83,1:11:00.83,Default,,0,0,0,,De acuerdo.
+Dialogue: 0,1:11:19.19,1:11:22.31,Default,,0,0,0,,Otro que morderá el polvo
+Dialogue: 0,1:11:24.53,1:11:27.28,Default,,0,0,0,,Vamos. ¿Qué tienes? ¿Qué tienes?
+Dialogue: 0,1:11:27.36,1:11:30.53,Default,,0,0,0,,Nos vemos.
+Dialogue: 0,1:12:04.69,1:12:08.15,Default,,0,0,0,,- Brian, ¿qué tal?\N- ¿Qué tal, Jesse?
+Dialogue: 0,1:12:08.24,1:12:12.03,Default,,0,0,0,,- ¿Qué tienes en la mano?\N- Voy a apostar mi auto, como tú.
+Dialogue: 0,1:12:12.32,1:12:14.95,Default,,0,0,0,,- ¿Qué auto? ¿El Jetta?\N- Sí.
+Dialogue: 0,1:12:15.03,1:12:18.91,Default,,0,0,0,,- No apuestes el auto de tu padre.\N- Tranquilo. No perderé.
+Dialogue: 0,1:12:19.00,1:12:22.58,Default,,0,0,0,,Este tonto correrá\Ncon un Honda 2000. Ganaré.
+Dialogue: 0,1:12:22.67,1:12:26.50,Default,,0,0,0,,Así, mi padre y yo nos divertiremos juntos\Ncuando salga de la cárcel.
+Dialogue: 0,1:12:26.59,1:12:29.13,Default,,0,0,0,,Regresará a la cárcel después de matarte.
+Dialogue: 0,1:12:29.21,1:12:32.26,Default,,0,0,0,,Mierda. Me toca.
+Dialogue: 0,1:12:38.56,1:12:40.35,Default,,0,0,0,,Mentalízate para ganar.
+Dialogue: 0,1:12:40.43,1:12:44.10,Default,,0,0,0,,Mentalízate para ganar, Jesse.\NEn serio. Hazme caso, viejo.
+Dialogue: 0,1:12:44.31,1:12:46.65,Default,,0,0,0,,¿Contra quién corres?
+Dialogue: 0,1:12:50.40,1:12:52.53,Default,,0,0,0,,No lo hagas.
+Dialogue: 0,1:12:52.61,1:12:55.70,Default,,0,0,0,,Tiene más de $1 00.000 bajo el capó.
+Dialogue: 0,1:13:19.47,1:13:22.73,Default,,0,0,0,,Demasiado pronto, pequeño.
+Dialogue: 0,1:13:24.40,1:13:27.31,Default,,0,0,0,,¡No!
+Dialogue: 0,1:13:28.36,1:13:30.19,Default,,0,0,0,,¡Mierda!
+Dialogue: 0,1:13:30.28,1:13:32.94,Default,,0,0,0,,¡Ay, Dios!
+Dialogue: 0,1:13:42.08,1:13:43.87,Default,,0,0,0,,¡Dom! Despierta, hermano.
+Dialogue: 0,1:13:43.96,1:13:45.33,Default,,0,0,0,,- Tenemos problemas.\N- ¿Qué?
+Dialogue: 0,1:13:45.42,1:13:48.17,Default,,0,0,0,,Jesse.
+Dialogue: 0,1:13:48.25,1:13:51.84,Default,,0,0,0,,- ¿Adónde va Jesse?\N- Apostó su auto contra Tran.
+Dialogue: 0,1:13:52.05,1:13:55.34,Default,,0,0,0,,Mierda.
+Dialogue: 0,1:14:05.56,1:14:08.48,Default,,0,0,0,,- ¿Adónde va?\N- A lavar el auto.
+Dialogue: 0,1:14:08.73,1:14:11.19,Default,,0,0,0,,Como sea. Tráeme mi auto.
+Dialogue: 0,1:14:11.28,1:14:14.19,Default,,0,0,0,,¿Que te traiga tu auto?
+Dialogue: 0,1:14:14.28,1:14:17.82,Default,,0,0,0,,Ya no estamos en tu barrio.\NTen cuidado con cómo me hablas.
+Dialogue: 0,1:14:18.87,1:14:20.28,Default,,0,0,0,,- ¡Toretto!\N- Bien, ten cuidado.
+Dialogue: 0,1:14:20.37,1:14:23.20,Default,,0,0,0,,¡Toretto!
+Dialogue: 0,1:14:23.29,1:14:26.04,Default,,0,0,0,,La policía entró en mi casa...
+Dialogue: 0,1:14:26.12,1:14:30.29,Default,,0,0,0,,deshonró a toda mi familia\Nporque alguien me delató.
+Dialogue: 0,1:14:31.04,1:14:33.75,Default,,0,0,0,,¿Y sabes qué? ¡Fuiste tú!
+Dialogue: 0,1:14:35.80,1:14:37.47,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:14:42.22,1:14:44.10,Default,,0,0,0,,¡Vamos! ¡Detenlo!
+Dialogue: 0,1:14:45.14,1:14:47.52,Default,,0,0,0,,- ¡Vamos!\N- ¡Suéltalo! ¡Suéltalo!
+Dialogue: 0,1:14:56.11,1:14:57.74,Default,,0,0,0,,¡Dom!
+Dialogue: 0,1:14:57.82,1:15:01.57,Default,,0,0,0,,¡Déjenlo! ¡Déjenlo!
+Dialogue: 0,1:15:06.91,1:15:08.92,Default,,0,0,0,,¡Vete de aquí!
+Dialogue: 0,1:15:09.33,1:15:11.21,Default,,0,0,0,,Dom, ¡tranquilízate, viejo! ¡Vamos!
+Dialogue: 0,1:15:11.29,1:15:15.34,Default,,0,0,0,,¡No delaté a nadie! ¡No delaté a nadie!
+Dialogue: 0,1:15:16.84,1:15:20.09,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:15:50.42,1:15:52.58,Default,,0,0,0,,¡Mía!
+Dialogue: 0,1:15:54.34,1:15:57.55,Default,,0,0,0,,Mía.
+Dialogue: 0,1:16:00.01,1:16:02.84,Default,,0,0,0,,Te he respetado y no he dicho nada.
+Dialogue: 0,1:16:02.93,1:16:06.18,Default,,0,0,0,,- Te pido que no vayas.\N- Lo hago por los dos.
+Dialogue: 0,1:16:06.27,1:16:09.06,Default,,0,0,0,,No me vengas con eso. Lo haces por ti.
+Dialogue: 0,1:16:09.14,1:16:12.94,Default,,0,0,0,,¿Por qué insistes en hacerlo?\NDom, por favor, no lo hagas.
+Dialogue: 0,1:16:25.37,1:16:27.87,Default,,0,0,0,,- Mía, ¿qué ocurre?\N- ¿Qué?
+Dialogue: 0,1:16:27.95,1:16:30.45,Default,,0,0,0,,- Sabes a qué me refiero.\N- No, Brian.
+Dialogue: 0,1:16:30.54,1:16:33.71,Default,,0,0,0,,¿Siempre tienes los ojos llorosos\Ncuando se va Dom?
+Dialogue: 0,1:16:33.79,1:16:35.04,Default,,0,0,0,,¿Qué te ocurre?
+Dialogue: 0,1:16:35.13,1:16:37.92,Default,,0,0,0,,Vamos. ¿Por qué se va\Nen mitad de la noche?
+Dialogue: 0,1:16:38.01,1:16:40.01,Default,,0,0,0,,Hablo de los camiones.\N¿Sabes algo de eso?
+Dialogue: 0,1:16:40.09,1:16:42.93,Default,,0,0,0,,¡No, Brian! ¿Qué camiones? Dios santo.
+Dialogue: 0,1:16:43.64,1:16:45.39,Default,,0,0,0,,- ¿Qué?\N- Escúchame.
+Dialogue: 0,1:16:46.68,1:16:49.10,Default,,0,0,0,,Mía, soy policía.
+Dialogue: 0,1:16:49.18,1:16:52.18,Default,,0,0,0,,¿Qué dices, Brian? ¿Qué ocurre?
+Dialogue: 0,1:16:52.27,1:16:55.35,Default,,0,0,0,,Desde que te conocí,\Nhe trabajado de encubierto.
+Dialogue: 0,1:16:56.94,1:16:58.27,Default,,0,0,0,,Soy policía.
+Dialogue: 0,1:17:02.95,1:17:10.33,Default,,0,0,0,,Desgraciado.
+Dialogue: 0,1:17:11.46,1:17:13.33,Default,,0,0,0,,- Mía.\N- ¡Suéltame, Brian!
+Dialogue: 0,1:17:13.42,1:17:15.88,Default,,0,0,0,,¡Escúchame!
+Dialogue: 0,1:17:16.38,1:17:18.92,Default,,0,0,0,,Lo que dije que sentía por ti es verdad.
+Dialogue: 0,1:17:19.00,1:17:20.21,Default,,0,0,0,,Lo juro por Dios.
+Dialogue: 0,1:17:20.30,1:17:23.22,Default,,0,0,0,,Debes creerme. Pero ahora,\Nesto no tiene que ver con nosotros.
+Dialogue: 0,1:17:23.30,1:17:24.47,Default,,0,0,0,,Tu hermano...
+Dialogue: 0,1:17:24.55,1:17:26.84,Default,,0,0,0,,va a asaltar un camión y no hay tiempo.
+Dialogue: 0,1:17:26.93,1:17:29.10,Default,,0,0,0,,Esos camioneros ya no se van\Na quedar quietos.
+Dialogue: 0,1:17:29.18,1:17:30.81,Default,,0,0,0,,Si sobreviven a esta noche...
+Dialogue: 0,1:17:30.89,1:17:34.31,Default,,0,0,0,,toda la policía de California\Nlos estará buscando.
+Dialogue: 0,1:17:34.39,1:17:37.81,Default,,0,0,0,,Si no quieres que le ocurra nada\Na tu hermano y a los demás...
+Dialogue: 0,1:17:37.90,1:17:41.15,Default,,0,0,0,,sube al auto conmigo. Debes ayudarme.
+Dialogue: 0,1:17:42.24,1:17:45.61,Default,,0,0,0,,Mía, eres la única persona\Nque puede ayudarme ahora mismo.
+Dialogue: 0,1:17:46.37,1:17:49.37,Default,,0,0,0,,Por favor, Mía. Ayúdame, por favor.
+Dialogue: 0,1:18:01.25,1:18:04.17,Default,,0,0,0,,Los Civic están escondidos\Nen las afueras de Thermal.
+Dialogue: 0,1:18:04.26,1:18:06.01,Default,,0,0,0,,No volverían sobre sus pasos.
+Dialogue: 0,1:18:06.09,1:18:07.93,Default,,0,0,0,,Y la 1 0 está muy vigilada.
+Dialogue: 0,1:18:08.01,1:18:11.10,Default,,0,0,0,,- ¿Qué nos queda?\N- Todo esto.
+Dialogue: 0,1:18:19.82,1:18:22.78,Default,,0,0,0,,- Nextel.\N- Sí, soy el agente Brian O'Conner.
+Dialogue: 0,1:18:22.86,1:18:27.15,Default,,0,0,0,,Número de placa 34762.\NNecesito rastrear un celular.
+Dialogue: 0,1:18:27.28,1:18:29.03,Default,,0,0,0,,¿Cuál es el número?
+Dialogue: 0,1:18:29.12,1:18:31.62,Default,,0,0,0,,Mía, ¿cuál es su número?
+Dialogue: 0,1:18:32.45,1:18:35.66,Default,,0,0,0,,Vamos, Mía.\NNecesita el número del celular de Dom.
+Dialogue: 0,1:18:39.13,1:18:43.25,Default,,0,0,0,,323 555 6439.
+Dialogue: 0,1:18:44.72,1:18:46.55,Default,,0,0,0,,Gracias.
+Dialogue: 0,1:18:46.63,1:18:47.93,Default,,0,0,0,,¿Lo tiene?
+Dialogue: 0,1:19:13.66,1:19:17.46,Default,,0,0,0,,Bien, nos falta un hombre.\NLetty, toma el lado izquierdo.
+Dialogue: 0,1:19:19.67,1:19:23.13,Default,,0,0,0,,Tu hermana tenía razón esta vez.\NEsto me huele mal.
+Dialogue: 0,1:19:23.25,1:19:25.00,Default,,0,0,0,,No digas eso.
+Dialogue: 0,1:19:26.17,1:19:28.13,Default,,0,0,0,,- Algo está mal.\N- Basta.
+Dialogue: 0,1:19:28.22,1:19:30.43,Default,,0,0,0,,No deberíamos hacer esto sin Jesse.
+Dialogue: 0,1:19:31.51,1:19:34.47,Default,,0,0,0,,Llevamos tres meses\Nesperando este cargamento.
+Dialogue: 0,1:19:34.56,1:19:37.06,Default,,0,0,0,,Después de esto,\Nnos tomaremos unas vacaciones largas.
+Dialogue: 0,1:19:37.14,1:19:39.19,Default,,0,0,0,,- Vamos.\N- Eso espero.
+Dialogue: 0,1:19:42.69,1:19:45.61,Default,,0,0,0,,Escucha, la otra noche soñé...
+Dialogue: 0,1:19:46.23,1:19:48.86,Default,,0,0,0,,que tú y yo estábamos en una playa,\Nen México.
+Dialogue: 0,1:19:49.28,1:19:51.07,Default,,0,0,0,,- ¿De veras?\N- De veras.
+Dialogue: 0,1:19:54.37,1:19:56.24,Default,,0,0,0,,Vamos. Hagamos esto.
+Dialogue: 0,1:19:59.79,1:20:03.54,Default,,0,0,0,,- León, estate atento a la radio.\N- Entendido.
+Dialogue: 0,1:20:07.63,1:20:09.59,Default,,0,0,0,,De acuerdo, vámonos.
+Dialogue: 0,1:20:19.56,1:20:20.60,Default,,0,0,0,,Sí.
+Dialogue: 0,1:20:20.69,1:20:23.48,Default,,0,0,0,,Rastreamos el número\Na la 86 en dirección norte.
+Dialogue: 0,1:20:23.56,1:20:27.86,Default,,0,0,0,,Kilómetro 183, a las afueras de Coachella.\NSeguiremos rastreando, agente.
+Dialogue: 0,1:20:28.44,1:20:30.90,Default,,0,0,0,,Dame eso.
+Dialogue: 0,1:20:34.41,1:20:37.12,Default,,0,0,0,,De acuerdo,\Ncreo que estamos a 64 kilómetros.
+Dialogue: 0,1:20:37.20,1:20:42.21,Default,,0,0,0,,¿Qué vas a hacer?
+Dialogue: 0,1:21:14.61,1:21:16.45,Default,,0,0,0,,¡De acuerdo! ¡Adelante!
+Dialogue: 0,1:21:32.22,1:21:35.76,Default,,0,0,0,,Todo está despejado.\NNo oigo nada en la radio.
+Dialogue: 0,1:21:50.32,1:21:52.40,Default,,0,0,0,,¡Vince!
+Dialogue: 0,1:21:52.49,1:21:55.53,Default,,0,0,0,,¡Vince, no! ¡Regresa!
+Dialogue: 0,1:21:56.20,1:21:58.66,Default,,0,0,0,,¡Vince!
+Dialogue: 0,1:22:03.04,1:22:04.58,Default,,0,0,0,,¡Tiene un maldito rifle! ¡León!
+Dialogue: 0,1:22:04.66,1:22:06.96,Default,,0,0,0,,¡Aléjate! ¡Bájalo de ahí!
+Dialogue: 0,1:22:21.56,1:22:23.18,Default,,0,0,0,,¡Bájame de aquí!
+Dialogue: 0,1:22:23.68,1:22:25.23,Default,,0,0,0,,Acércate.
+Dialogue: 0,1:22:25.31,1:22:28.15,Default,,0,0,0,,¡Desengánchate! ¡Regresa!
+Dialogue: 0,1:22:28.23,1:22:29.61,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:22:29.69,1:22:31.44,Default,,0,0,0,,- ¡Hazlo!\N- No puedo...
+Dialogue: 0,1:22:31.52,1:22:33.94,Default,,0,0,0,,¡Sí puedes!
+Dialogue: 0,1:22:34.03,1:22:36.03,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:22:42.95,1:22:45.50,Default,,0,0,0,,¡Lo voy a distraer!
+Dialogue: 0,1:22:53.17,1:22:55.30,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:22:55.38,1:22:58.22,Default,,0,0,0,,No me puedes tener más a tiro.
+Dialogue: 0,1:23:02.68,1:23:05.56,Default,,0,0,0,,¡Hijo de perra!
+Dialogue: 0,1:23:08.52,1:23:11.11,Default,,0,0,0,,¡Bájame de aquí!\N¡Voy a desenganchar el cable!
+Dialogue: 0,1:23:11.19,1:23:12.31,Default,,0,0,0,,¡lnténtalo de nuevo!
+Dialogue: 0,1:23:12.40,1:23:15.65,Default,,0,0,0,,¡Uno, dos, tres!
+Dialogue: 0,1:23:26.96,1:23:30.08,Default,,0,0,0,,¡Desengánchate!
+Dialogue: 0,1:23:31.04,1:23:34.34,Default,,0,0,0,,- ¡Tengo el brazo enganchado!\N- Vince, agarra mi mano.
+Dialogue: 0,1:23:34.42,1:23:37.26,Default,,0,0,0,,- ¡Mi brazo!\N- ¡Dame la mano!
+Dialogue: 0,1:23:37.72,1:23:40.18,Default,,0,0,0,,¡Tiraré de ti!
+Dialogue: 0,1:23:50.23,1:23:53.48,Default,,0,0,0,,¡Dominic!
+Dialogue: 0,1:23:55.78,1:23:58.15,Default,,0,0,0,,- ¡Dominic!\N- ¡Mierda!
+Dialogue: 0,1:24:01.45,1:24:03.78,Default,,0,0,0,,- ¡Dominic!\N- ¡Espera!
+Dialogue: 0,1:24:03.99,1:24:06.99,Default,,0,0,0,,¡Apártate! ¡Voy por él!
+Dialogue: 0,1:24:32.23,1:24:34.19,Default,,0,0,0,,¡Letty!
+Dialogue: 0,1:24:34.27,1:24:35.73,Default,,0,0,0,,- ¡León!\N- ¿Qué?
+Dialogue: 0,1:24:35.82,1:24:37.82,Default,,0,0,0,,¡Ve por Letty! ¡Sácala de ahí!
+Dialogue: 0,1:24:37.90,1:24:41.15,Default,,0,0,0,,¡De acuerdo!
+Dialogue: 0,1:24:48.66,1:24:51.91,Default,,0,0,0,,¡Yo me encargo de ella!\N¡Baja a Vince de ahí!
+Dialogue: 0,1:24:56.75,1:24:58.88,Default,,0,0,0,,¡Letty! Vamos, nena.
+Dialogue: 0,1:24:59.17,1:25:01.92,Default,,0,0,0,,Letty. ¿Estás bien?
+Dialogue: 0,1:25:02.01,1:25:04.97,Default,,0,0,0,,Vamos, nena, ¿estás bien?\NDéjame echarte un vistazo.
+Dialogue: 0,1:25:05.05,1:25:07.10,Default,,0,0,0,,Vamos. Debemos irnos.
+Dialogue: 0,1:25:20.74,1:25:22.32,Default,,0,0,0,,¡Vámonos!
+Dialogue: 0,1:25:27.08,1:25:28.45,Default,,0,0,0,,- ¡Dominic!\N- ¡Vince!
+Dialogue: 0,1:25:50.72,1:25:53.10,Default,,0,0,0,,- Toma el volante.\N- ¿Cómo?
+Dialogue: 0,1:25:53.18,1:25:55.44,Default,,0,0,0,,¡Toma el volante! Pisa el acelerador!
+Dialogue: 0,1:25:55.52,1:25:57.31,Default,,0,0,0,,Voy por él. ¡Pisa el acelerador!
+Dialogue: 0,1:25:57.40,1:25:58.56,Default,,0,0,0,,¡De acuerdo!
+Dialogue: 0,1:26:02.28,1:26:05.40,Default,,0,0,0,,- ¡Mantenlo recto!\N- ¡Ya lo tengo!
+Dialogue: 0,1:26:07.28,1:26:09.91,Default,,0,0,0,,- ¡Aguanta, Vince!\N- ¡De acuerdo!
+Dialogue: 0,1:26:10.20,1:26:12.95,Default,,0,0,0,,¡No aguantará! ¡Acércate más!
+Dialogue: 0,1:26:13.04,1:26:14.20,Default,,0,0,0,,¡De acuerdo!
+Dialogue: 0,1:26:14.71,1:26:17.08,Default,,0,0,0,,- ¡Más cerca!\N- ¡Me estoy acercando!
+Dialogue: 0,1:26:17.50,1:26:19.13,Default,,0,0,0,,¡Mantenlo ahí!
+Dialogue: 0,1:26:20.34,1:26:21.42,Default,,0,0,0,,¡No!
+Dialogue: 0,1:26:23.01,1:26:25.76,Default,,0,0,0,,¡Vince! ¡Agárrate a mí!
+Dialogue: 0,1:26:25.84,1:26:28.09,Default,,0,0,0,,¡Vamos a bajarte de aquí! ¡Dame tu brazo!
+Dialogue: 0,1:26:28.18,1:26:30.22,Default,,0,0,0,,¡Mírame! ¡No te sueltes!
+Dialogue: 0,1:26:34.23,1:26:36.94,Default,,0,0,0,,¡Vamos, Vince! ¡Agárrate a mí!
+Dialogue: 0,1:26:37.90,1:26:39.69,Default,,0,0,0,,¡No te sueltes!
+Dialogue: 0,1:26:44.03,1:26:45.94,Default,,0,0,0,,¡Vamos, acércate más!
+Dialogue: 0,1:26:51.62,1:26:54.95,Default,,0,0,0,,Mía, ¡acércate más! ¡Vamos!\NVamos, Vince. ¡Allá vamos!
+Dialogue: 0,1:27:21.98,1:27:24.40,Default,,0,0,0,,- ¡Brian!\N- Mierda.
+Dialogue: 0,1:27:28.82,1:27:31.66,Default,,0,0,0,,Todo va a estar bien, nena. Te quiero.
+Dialogue: 0,1:27:35.33,1:27:37.16,Default,,0,0,0,,- Vigílala.\N- Sí, yo me encargo.
+Dialogue: 0,1:27:38.00,1:27:40.21,Default,,0,0,0,,¡Vamos, Vince! ¡Aguanta!
+Dialogue: 0,1:27:44.63,1:27:47.30,Default,,0,0,0,,Necesita una ambulancia o morirá.
+Dialogue: 0,1:27:47.38,1:27:49.55,Default,,0,0,0,,- Sostén esto. Aprieta.\N- Lo tengo.
+Dialogue: 0,1:27:49.63,1:27:51.84,Default,,0,0,0,,- No sueltes. Levanta su brazo.\N- Vince.
+Dialogue: 0,1:27:56.64,1:27:59.52,Default,,0,0,0,,Sí, soy el agente Brian O'Conner.
+Dialogue: 0,1:28:00.40,1:28:04.36,Default,,0,0,0,,No estoy de servicio.\NNecesito un helicóptero inmediatamente.
+Dialogue: 0,1:28:06.03,1:28:09.74,Default,,0,0,0,,Estoy en la autopista 86, kilómetro 236.
+Dialogue: 0,1:28:10.82,1:28:14.03,Default,,0,0,0,,Tengo a un herido, 24 años.
+Dialogue: 0,1:28:14.24,1:28:16.49,Default,,0,0,0,,1,80, 90 kilos.
+Dialogue: 0,1:28:16.62,1:28:20.46,Default,,0,0,0,,Corte profundo en el brazo derecho\Ny sangra por la arteria.
+Dialogue: 0,1:28:20.54,1:28:24.71,Default,,0,0,0,,Y una herida de bala,\Na quemarropa en la pierna izquierda.
+Dialogue: 0,1:28:25.34,1:28:28.26,Default,,0,0,0,,Sí. ¡Sí, y va a entrar en estado de choque!
+Dialogue: 0,1:30:08.73,1:30:10.82,Default,,0,0,0,,Dom, ¡suelta el rifle ahora mismo!
+Dialogue: 0,1:30:13.32,1:30:15.24,Default,,0,0,0,,- Mueve tu auto.\N- ¡Un carajo!
+Dialogue: 0,1:30:15.32,1:30:19.28,Default,,0,0,0,,- ¡Suelta el rifle! ¡Basta de huir!\N- ¡No estoy huyendo!
+Dialogue: 0,1:30:22.45,1:30:24.91,Default,,0,0,0,,- ¿Dónde están León y Letty?\N- ¡Ya se fueron!
+Dialogue: 0,1:30:25.00,1:30:28.04,Default,,0,0,0,,Pues se acabó.\NNo avisé a la policía, ¡pero no me fuerces!
+Dialogue: 0,1:30:28.13,1:30:32.34,Default,,0,0,0,,- ¡Suelta el rifle! Te juro que...\N- ¡Tú eres el policía! ¡Eres un policía!
+Dialogue: 0,1:30:34.17,1:30:37.18,Default,,0,0,0,,Brian, ¡tengo que encontrar a Jesse\Nantes que ellos!
+Dialogue: 0,1:30:37.59,1:30:40.10,Default,,0,0,0,,- No tiene a nadie más.\N- Les daré la placa.
+Dialogue: 0,1:30:40.56,1:30:43.72,Default,,0,0,0,,La policía lo encontrará\Nmucho antes que Johnny.
+Dialogue: 0,1:30:44.14,1:30:45.23,Default,,0,0,0,,Mueve el auto.
+Dialogue: 0,1:30:45.31,1:30:47.89,Default,,0,0,0,,¡Basta! ¡Se acabó! ¡Por favor!
+Dialogue: 0,1:30:48.02,1:30:49.73,Default,,0,0,0,,Mía, ¡no te metas en esto!
+Dialogue: 0,1:30:50.11,1:30:51.52,Default,,0,0,0,,Mueve el...
+Dialogue: 0,1:30:55.28,1:30:58.20,Default,,0,0,0,,¡Lo siento mucho!
+Dialogue: 0,1:30:58.74,1:31:01.16,Default,,0,0,0,,¡No sé lo que estoy haciendo!
+Dialogue: 0,1:31:01.24,1:31:05.45,Default,,0,0,0,,¡Estoy muerto de miedo! ¡No sé qué ocurre!
+Dialogue: 0,1:31:05.54,1:31:08.29,Default,,0,0,0,,¡Jess! ¿En qué estabas pensando?
+Dialogue: 0,1:31:08.37,1:31:12.09,Default,,0,0,0,,¡No lo sé! ¡Me entró el pánico! ¡Lo siento!
+Dialogue: 0,1:31:12.17,1:31:15.21,Default,,0,0,0,,¡No sé lo que hago! ¡Ayúdame, por favor!
+Dialogue: 0,1:31:20.39,1:31:21.51,Default,,0,0,0,,¡Dom!
+Dialogue: 0,1:31:38.03,1:31:39.20,Default,,0,0,0,,¡Jesse!
+Dialogue: 0,1:31:40.82,1:31:43.53,Default,,0,0,0,,¡Jesse! ¡No, Jesse!
+Dialogue: 0,1:31:58.34,1:31:59.88,Default,,0,0,0,,No. Dom, ¡no!
+Dialogue: 0,1:34:55.27,1:34:57.94,Default,,0,0,0,,Llama a emergencias. ¡Llama a emergencias!
+Dialogue: 0,1:35:33.26,1:35:36.10,Default,,0,0,0,,Hacía carreras aquí\Ncuando estaba en la secundaria.
+Dialogue: 0,1:35:36.77,1:35:40.94,Default,,0,0,0,,Ese cruce ferroviario está exactamente\Na 400 metros.
+Dialogue: 0,1:35:42.11,1:35:44.65,Default,,0,0,0,,Cuando la luz se ponga verde,\Nvoy a arrancar.
+Dialogue: 0,1:38:08.67,1:38:09.75,Default,,0,0,0,,¡Dom!
+Dialogue: 0,1:38:19.14,1:38:21.39,Default,,0,0,0,,Eso no lo tenía planeado.
+Dialogue: 0,1:39:07.81,1:39:09.69,Default,,0,0,0,,¿Sabes lo que estás haciendo?
+Dialogue: 0,1:39:10.36,1:39:12.40,Default,,0,0,0,,Te debo un auto de 1 0 segundos.
+Dialogue: 0,1:46:26.25,1:46:28.96,Default,,0,0,0,,Vivo mi vida 400 metros a la vez.
+Dialogue: 0,1:46:30.63,1:46:32.46,Default,,0,0,0,,Todo lo demás no importa.
+Dialogue: 0,1:46:33.51,1:46:35.88,Default,,0,0,0,,Durante esos 10 segundos o menos...
+Dialogue: 0,1:46:37.22,1:46:38.30,Default,,0,0,0,,soy libre.

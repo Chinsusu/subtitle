@@ -1,0 +1,961 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:00.31,0:01:03.56,Default,,0,0,0,,Tiền thu xếp xong rồi đấy,\Nđang tới chỗ anh.
+Dialogue: 0,0:01:03.64,0:01:06.05,Default,,0,0,0,,Nhớ tìm chữ "Rodgers"\Nbên hông xe.
+Dialogue: 0,0:01:06.05,0:01:07.81,Default,,0,0,0,,Đừng có quên phần tôi đấy!
+Dialogue: 0,0:03:57.82,0:03:58.98,Default,,0,0,0,,Khỉ thật!
+Dialogue: 0,0:04:39.73,0:04:41.52,Default,,0,0,0,,Bánh mì kẹp cá ngừ,\Nkhông vảy cứng chứ gì?
+Dialogue: 0,0:04:42.01,0:04:43.33,Default,,0,0,0,,Tôi không biết nữa.\NCó ngon không?
+Dialogue: 0,0:04:43.86,0:04:48.16,Default,,0,0,0,,Ba tuần qua, ngày nào anh cũng\Ntới đây hỏi cá ngừ ngon không.
+Dialogue: 0,0:04:48.24,0:04:51.99,Default,,0,0,0,,Nào, hôm qua nó rất dở.\NHôm kia cũng thế.
+Dialogue: 0,0:04:52.08,0:04:54.87,Default,,0,0,0,,Đoán ra gì chưa?\NChả có gì thay đổi cả.
+Dialogue: 0,0:04:55.54,0:04:57.42,Default,,0,0,0,,- Tôi sẽ gọi cá ngừ.\N- Không vảy cứng?
+Dialogue: 0,0:04:57.54,0:04:58.58,Default,,0,0,0,,Không vảy cứng.
+Dialogue: 0,0:05:22.82,0:05:23.94,Default,,0,0,0,,Cảm ơn.
+Dialogue: 0,0:06:10.99,0:06:13.37,Default,,0,0,0,,Nói tôi nghe xem, Jesse.\NNó không chạy đâu, anh bạn.
+Dialogue: 0,0:06:13.45,0:06:16.12,Default,,0,0,0,,Là do giản đồ nhiên liệu đấy.\NNó bị hổng một chỗ ra trò.
+Dialogue: 0,0:06:16.50,0:06:19.25,Default,,0,0,0,,- Do vậy mà cậu mới về hạng 3!\N- Đã bảo cậu rồi mà.
+Dialogue: 0,0:06:19.33,0:06:22.25,Default,,0,0,0,,Tăng xung phun nhiên liệu\Nthêm một phần nghìn giây.
+Dialogue: 0,0:06:22.25,0:06:24.30,Default,,0,0,0,,Điều chỉnh bộ đếm NOS\Nlà chạy như ngựa lồng cho xem.
+Dialogue: 0,0:06:32.30,0:06:34.93,Default,,0,0,0,,Thằng đần này bị làm sao vậy?\NHắn hám mấy cái xăng-uých à?
+Dialogue: 0,0:06:35.02,0:06:37.05,Default,,0,0,0,,Không đâu. Hắn đâu tới đây để ăn, cẩu ạ.
+Dialogue: 0,0:06:37.05,0:06:39.64,Default,,0,0,0,,Bình tĩnh. Hắn đang\Nquăng hàng cho Harry thôi mà.
+Dialogue: 0,0:06:39.73,0:06:41.03,Default,,0,0,0,,Tôi biết hắn đang quăng cái gì.
+Dialogue: 0,0:06:41.03,0:06:43.23,Default,,0,0,0,,Hắn tìm cách chui vào\Nquần Mia đấy, cẩu ạ.
+Dialogue: 0,0:06:43.32,0:06:45.57,Default,,0,0,0,,- Chuyện gì thế các bạn?\N- Mọi thứ ổn chứ, Mia?
+Dialogue: 0,0:06:45.65,0:06:47.82,Default,,0,0,0,,- Cuộc sống thế nào, cô bé?\N- Ê!
+Dialogue: 0,0:06:48.40,0:06:50.82,Default,,0,0,0,,Ê, Dom.\NMuốn uống gì không?
+Dialogue: 0,0:07:01.83,0:07:05.00,Default,,0,0,0,,- Anh chàng đẹp mã đấy chứ!\N- Tớ thích kiểu tóc của hắn.
+Dialogue: 0,0:07:06.05,0:07:07.21,Default,,0,0,0,,Vince!
+Dialogue: 0,0:07:07.67,0:07:08.71,Default,,0,0,0,,Vince!
+Dialogue: 0,0:07:10.01,0:07:10.74,Default,,0,0,0,,Gì thế?
+Dialogue: 0,0:07:10.74,0:07:12.01,Default,,0,0,0,,Cần gì không?
+Dialogue: 0,0:07:13.72,0:07:15.01,Default,,0,0,0,,Trông em rất tuyệt.
+Dialogue: 0,0:07:19.18,0:07:20.53,Default,,0,0,0,,Rất cảm ơn cô, Mia.
+Dialogue: 0,0:07:20.54,0:07:21.85,Default,,0,0,0,,- Mai gặp lại nhé.\N- Hẳn rồi.
+Dialogue: 0,0:07:24.77,0:07:26.73,Default,,0,0,0,,- Mai hả?\N- Tớ kết đoạn này.
+Dialogue: 0,0:07:31.53,0:07:32.87,Default,,0,0,0,,Kể từ giờ\Nthử món "Fatburger" ấy!
+Dialogue: 0,0:07:32.87,0:07:36.12,Default,,0,0,0,,Gọi gấp đôi bơ cùng thịt rán\Nmất có 2,95 đô thôi.
+Dialogue: 0,0:07:36.20,0:07:37.14,Default,,0,0,0,,Tôi thích món cá ngừ ở đây.
+Dialogue: 0,0:07:37.14,0:07:39.70,Default,,0,0,0,,Vớ vẩn. Chả ai khoái\Nmón cá ngừ ở đây cả.
+Dialogue: 0,0:07:39.79,0:07:41.21,Default,,0,0,0,,Ờ, tôi thích là được.
+Dialogue: 0,0:07:53.72,0:07:55.00,Default,,0,0,0,,Chúa ơi!\NDom!
+Dialogue: 0,0:07:55.00,0:07:57.37,Default,,0,0,0,,Anh ra ngoài kia giùm em đi chứ?\NEm phát ngán cái trò này rồi.
+Dialogue: 0,0:07:57.39,0:07:59.72,Default,,0,0,0,,Em không giỡn đâu, Dom.\NRa ngoài đó đi!
+Dialogue: 0,0:08:04.06,0:08:05.45,Default,,0,0,0,,Em cho gì vào chiếc xăng-uých đó thế?
+Dialogue: 0,0:08:05.45,0:08:06.56,Default,,0,0,0,,Rất hài hước đấy.
+Dialogue: 0,0:08:06.65,0:08:08.90,Default,,0,0,0,,- Dom!\N- Được rồi.
+Dialogue: 0,0:08:27.42,0:08:28.67,Default,,0,0,0,,Này anh bạn.\NHắn gây sự với tôi.
+Dialogue: 0,0:08:28.67,0:08:30.25,Default,,0,0,0,,Tôi gây sự với anh đây.
+Dialogue: 0,0:08:31.92,0:08:34.80,Default,,0,0,0,,Bỏ đi! Đừng lên cơn thế!\NCậu làm mất mặt tớ đấy!
+Dialogue: 0,0:08:37.47,0:08:38.76,Default,,0,0,0,,Ra đằng kia!
+Dialogue: 0,0:08:40.27,0:08:42.10,Default,,0,0,0,,Jesse, đưa tớ cái ví.
+Dialogue: 0,0:08:44.94,0:08:46.90,Default,,0,0,0,,"Brian Earl Spilner."
+Dialogue: 0,0:08:46.90,0:08:48.42,Default,,0,0,0,,Giống tên một kẻ\Ngiết người hàng loạt nhỉ.
+Dialogue: 0,0:08:48.44,0:08:50.23,Default,,0,0,0,,- Anh là vậy đó hả?\N- Không phải đâu!
+Dialogue: 0,0:08:50.32,0:08:52.28,Default,,0,0,0,,Đừng có lảng vảng\Ngần đây nữa đấy.
+Dialogue: 0,0:08:54.74,0:08:56.61,Default,,0,0,0,,Này, anh bạn.\NChuyện vớ vẩn thôi mà!
+Dialogue: 0,0:08:57.66,0:08:59.16,Default,,0,0,0,,Anh làm việc cho Harry\Nđúng không?
+Dialogue: 0,0:08:59.16,0:09:00.66,Default,,0,0,0,,Ừ, mới đây thôi.
+Dialogue: 0,0:09:00.91,0:09:02.45,Default,,0,0,0,,Anh bị sa thải rồi đấy.
+Dialogue: 0,0:09:15.34,0:09:18.47,Default,,0,0,0,,Dominic này, tớ rất cảm kích\Nvề việc cậu đã làm.
+Dialogue: 0,0:09:18.97,0:09:20.47,Default,,0,0,0,,Dominic, tớ nợ cậu đấy.
+Dialogue: 0,0:09:22.43,0:09:25.05,Default,,0,0,0,,Brian, cậu làm rối tung\Nchuyện làm ăn của tôi rồi.
+Dialogue: 0,0:09:25.06,0:09:26.98,Default,,0,0,0,,Dominic mà lái xe thì cứ gọi là.
+Dialogue: 0,0:09:27.10,0:09:29.22,Default,,0,0,0,,Lũ trẻ con cũng nhao nhao.\NHọ muốn mọi thứ cậu ta có.
+Dialogue: 0,0:09:29.23,0:09:31.69,Default,,0,0,0,,Mọi hiệu năng của xe.\NHọ trả cả tiền mặt nữa!
+Dialogue: 0,0:09:32.28,0:09:34.99,Default,,0,0,0,,- Dominic nói gì thế?\N- Cậu không muốn biết đâu.
+Dialogue: 0,0:09:35.32,0:09:38.20,Default,,0,0,0,,- Dominic nói gì nào?\N- Cậu ấy muốn cậu rời khỏi đây.
+Dialogue: 0,0:09:38.82,0:09:40.74,Default,,0,0,0,,- Cậu ta muốn tôi nghỉ việc?\N- Phải.
+Dialogue: 0,0:09:40.83,0:09:44.16,Default,,0,0,0,,- Thế ông nói gì với Dom?\N- Thế cậu nghĩ tôi nói gì?
+Dialogue: 0,0:09:44.45,0:09:46.96,Default,,0,0,0,,Tôi bảo cậu ta,\N"Khó tìm người biết việc lắm."
+Dialogue: 0,0:09:50.13,0:09:51.17,Default,,0,0,0,,Bình tĩnh đi!
+Dialogue: 0,0:09:54.84,0:09:56.05,Default,,0,0,0,,Tôi cần NOS.
+Dialogue: 0,0:09:56.63,0:09:58.84,Default,,0,0,0,,- Tôi cần NOS.\N- Không.
+Dialogue: 0,0:09:59.01,0:10:01.76,Default,,0,0,0,,Sáng nay xe tôi đã\Nvọt lên đến 230 km/giờ lận.
+Dialogue: 0,0:10:01.85,0:10:04.11,Default,,0,0,0,,Dân nghiệp dư\Nđâu dùng ôxit nitric!
+Dialogue: 0,0:10:04.11,0:10:06.31,Default,,0,0,0,,Tôi thấy cái kiểu cậu lái rồi.\NCậu nhấn ga ghê quá.
+Dialogue: 0,0:10:07.06,0:10:08.79,Default,,0,0,0,,Có ngày nổ tung cho coi.
+Dialogue: 0,0:10:08.79,0:10:10.19,Default,,0,0,0,,Tôi cần một trong mấy thứ này.
+Dialogue: 0,0:10:10.48,0:10:13.86,Default,,0,0,0,,Lấy cái to to nhé.\NMà này, cho tôi hai cái đi.
+Dialogue: 0,0:10:14.36,0:10:16.53,Default,,0,0,0,,Harry, tối nay tôi cần rồi đấy.
+Dialogue: 0,0:11:28.27,0:11:31.60,Default,,0,0,0,,Gượm đã, gượm đã.\NNhìn cái gã người tuyết kìa.
+Dialogue: 0,0:11:35.94,0:11:38.78,Default,,0,0,0,,Tuyệt đấy. Anh chạy\Ncái gì tới thế, anh bạn?
+Dialogue: 0,0:11:41.49,0:11:44.37,Default,,0,0,0,,- Định bắt tôi tự tìm hiểu lấy sao?\N- Ừ.
+Dialogue: 0,0:11:44.45,0:11:47.33,Default,,0,0,0,,Gan đấy. Gan đấy.\NNgười ta gọi tôi là Hector.
+Dialogue: 0,0:11:47.95,0:11:50.75,Default,,0,0,0,,Tôi cũng có họ,\Nnhưng đếch biết phát âm.
+Dialogue: 0,0:11:50.83,0:11:53.29,Default,,0,0,0,,- Brian Spilner.\N- Tên cũng đặc trưng nhỉ.
+Dialogue: 0,0:11:53.63,0:11:55.50,Default,,0,0,0,,Biết tôi nói gì chứ?
+Dialogue: 0,0:11:57.80,0:11:59.00,Default,,0,0,0,,Thấy chiếc đằng kia không?
+Dialogue: 0,0:11:59.00,0:12:01.08,Default,,0,0,0,,Nó là của tôi.\NCon cưng đó.
+Dialogue: 0,0:12:01.09,0:12:02.69,Default,,0,0,0,,Nhưng tối nay\Nthì không thả cửa được rồi.
+Dialogue: 0,0:12:02.97,0:12:04.80,Default,,0,0,0,,- Sao thế?\N- Tôi sẽ chơi đúng luật.
+Dialogue: 0,0:12:04.93,0:12:07.55,Default,,0,0,0,,Sẽ cố được vào đường đua NIRA.\NNghe nói bao giờ chưa?
+Dialogue: 0,0:12:07.64,0:12:10.64,Default,,0,0,0,,- Ờ, cũng có.\N- Này, sao thế anh bạn?
+Dialogue: 0,0:12:10.85,0:12:12.55,Default,,0,0,0,,Tôi đang đợi Toretto thôi.
+Dialogue: 0,0:12:12.55,0:12:15.02,Default,,0,0,0,,Mẹ. Vào hàng đi.\NCái này của anh hả?
+Dialogue: 0,0:12:16.23,0:12:18.73,Default,,0,0,0,,- Tôi đang đứng cạnh nó đây.\N- Hài hước nhỉ.
+Dialogue: 0,0:12:18.82,0:12:21.49,Default,,0,0,0,,Biết không, Edwin chợt biết\Nmột vài chuyện.
+Dialogue: 0,0:12:21.82,0:12:24.10,Default,,0,0,0,,Và một trong những chuyện đó là:
+Dialogue: 0,0:12:24.10,0:12:25.91,Default,,0,0,0,,Không phải là cách\Nanh đứng bên xe thế nào
+Dialogue: 0,0:12:26.32,0:12:29.24,Default,,0,0,0,,mà là cách anh đua thế nào kìa.\NAnh nên học điều đó thì hơn.
+Dialogue: 0,0:12:35.17,0:12:38.13,Default,,0,0,0,,Khỉ thật.\NHọ đến rồi kìa. Bắt đầu đi.
+Dialogue: 0,0:12:53.52,0:12:55.31,Default,,0,0,0,,- Dom.\N- Marvin.
+Dialogue: 0,0:12:57.02,0:13:00.61,Default,,0,0,0,,- Ê, Dom. Dạo này thế nào?\N- Chào Camille. Vẫn tập yoga chứ?
+Dialogue: 0,0:13:04.99,0:13:07.87,Default,,0,0,0,,Thật chứ? Tất nhiên\Ncậu làm được rồi. Monica.
+Dialogue: 0,0:13:10.79,0:13:12.79,Default,,0,0,0,,Lại có bọn vớ vẩn.
+Dialogue: 0,0:13:13.50,0:13:14.88,Default,,0,0,0,,Sao mấy em không cuốn xéo đi,
+Dialogue: 0,0:13:14.88,0:13:17.37,Default,,0,0,0,,trước khi chị đây\Ncho mấy vết lên mặt nhỉ?
+Dialogue: 0,0:13:17.46,0:13:18.54,Default,,0,0,0,,Vâng ạ.
+Dialogue: 0,0:13:18.63,0:13:21.30,Default,,0,0,0,,- Letty, anh mới bắt chuyện thôi mà.\N- Vâng. Sao cũng được.
+Dialogue: 0,0:13:21.71,0:13:24.72,Default,,0,0,0,,- Rồi, Hector.\N- Ừ? Gì thế?
+Dialogue: 0,0:13:26.38,0:13:27.97,Default,,0,0,0,,- Chào. Chuyện gì thế?\N- Edwin.
+Dialogue: 0,0:13:28.05,0:13:30.39,Default,,0,0,0,,- Tối nay diễn thế nào giờ?\N- Đua một vòng.
+Dialogue: 0,0:13:30.89,0:13:33.72,Default,,0,0,0,,2.000 đô chung độ.\NAi thắng có tất.
+Dialogue: 0,0:13:33.72,0:13:35.06,Default,,0,0,0,,Hector, cậu sẽ giữ tiền mặt.
+Dialogue: 0,0:13:35.56,0:13:36.18,Default,,0,0,0,,Sao lại là Hector?
+Dialogue: 0,0:13:36.18,0:13:38.56,Default,,0,0,0,,Chậm vung tiền thế nhóc.
+Dialogue: 0,0:13:41.02,0:13:43.69,Default,,0,0,0,,- Rồi. Chúc anh em may mắn.\N- Ê, khoan đã. Hẵng gượm.
+Dialogue: 0,0:13:44.19,0:13:46.41,Default,,0,0,0,,Tôi không có tiền mặt.
+Dialogue: 0,0:13:46.41,0:13:48.49,Default,,0,0,0,,Nhưng tôi có giấy buộc thôi việc\Ncho xe của mình đây.
+Dialogue: 0,0:13:48.53,0:13:52.37,Default,,0,0,0,,Đừng lên sàn đấu với Ali,\Nchỉ vì anh nghĩ mình biết đấm bốc.
+Dialogue: 0,0:13:52.58,0:13:54.27,Default,,0,0,0,,Anh ta biết tôi\Ncó thể đấm bốc đấy.
+Dialogue: 0,0:13:54.27,0:13:55.83,Default,,0,0,0,,Cứ thử xem.\NSẽ thế này.
+Dialogue: 0,0:13:56.83,0:13:59.92,Default,,0,0,0,,Tôi thua, người thắng\Nlấy xe tôi. Rất rõ ràng.
+Dialogue: 0,0:14:00.38,0:14:03.75,Default,,0,0,0,,Song nếu tôi thắng, tôi có tiền\Nvà cả sự nể trọng.
+Dialogue: 0,0:14:04.38,0:14:05.42,Default,,0,0,0,,Nể trọng hả?
+Dialogue: 0,0:14:07.76,0:14:10.09,Default,,0,0,0,,Với ai đó,\Nđiều này quan trọng đấy.
+Dialogue: 0,0:14:12.26,0:14:13.60,Default,,0,0,0,,Xe anh đó hả?
+Dialogue: 0,0:14:17.39,0:14:19.04,Default,,0,0,0,,Có giàn nạp khí mát.
+Dialogue: 0,0:14:19.04,0:14:22.23,Default,,0,0,0,,Có cả hệ thống Oxit Nitric\Nvà turbo T4, Dominic ạ.
+Dialogue: 0,0:14:22.40,0:14:27.36,Default,,0,0,0,,Một bộ điều chỉnh AIC.\NCó ống phun nitơ trực tiếp.
+Dialogue: 0,0:14:27.61,0:14:30.41,Default,,0,0,0,,Ừ. Thêm một hệ thống\Nđiều chỉnh nhiên liệu độc lập.
+Dialogue: 0,0:14:31.41,0:14:33.45,Default,,0,0,0,,Một cách tiêu 10.000 đô\Nkhông đến nỗi tệ.
+Dialogue: 0,0:14:36.45,0:14:37.96,Default,,0,0,0,,Thấy cái khỉ kia không?
+Dialogue: 0,0:14:38.79,0:14:41.08,Default,,0,0,0,,Anh ta trữ oxit nitric\Nđủ để nổ banh xác. Chấm hết.
+Dialogue: 0,0:14:43.04,0:14:44.91,Default,,0,0,0,,Sao, thế nào?\NTôi xứng đáng chứ?
+Dialogue: 0,0:14:44.91,0:14:46.21,Default,,0,0,0,,Cũng không rõ nữa.
+Dialogue: 0,0:14:46.92,0:14:48.72,Default,,0,0,0,,Nhưng cho anh tham gia đó.\NĐi thôi.
+Dialogue: 0,0:14:49.59,0:14:51.13,Default,,0,0,0,,- Rồi.\N- Lên đường!
+Dialogue: 0,0:15:55.53,0:15:57.62,Default,,0,0,0,,Chuyện quái gì ở đây thế này?
+Dialogue: 0,0:15:57.78,0:15:59.37,Default,,0,0,0,,Hết đường rồi, anh bạn ạ.
+Dialogue: 0,0:15:59.87,0:16:02.83,Default,,0,0,0,,- Kiếm đường khác về nhà đi!\N- Tiên sư lũ đua xe!
+Dialogue: 0,0:16:03.54,0:16:07.88,Default,,0,0,0,,{\i1}Mật độ ách tắc tăng cao.\NĐường phố đông nghẹt rồi.{\i0}
+Dialogue: 0,0:16:54.05,0:16:55.43,Default,,0,0,0,,Edwin.
+Dialogue: 0,0:16:56.97,0:16:59.93,Default,,0,0,0,,Đây là của anh,\Ndù anh thắng hay thua.
+Dialogue: 0,0:17:00.81,0:17:03.43,Default,,0,0,0,,Nhưng nếu anh thắng,\Nsẽ có cả cô ấy nữa.
+Dialogue: 0,0:17:12.94,0:17:14.49,Default,,0,0,0,,Anh sắp thắng rồi.
+Dialogue: 0,0:17:15.86,0:17:17.45,Default,,0,0,0,,Tôi cũng sắp thắng.
+Dialogue: 0,0:18:01.83,0:18:04.70,Default,,0,0,0,,{\i1}Có án mạng.\NSố 187, quán Barabian.{\i0}
+Dialogue: 0,0:18:04.79,0:18:09.17,Default,,0,0,0,,Tớ lo khu 187 Glendale rồi.\NCớm đã dồn hết về đó. Cứ lăn bánh đi.
+Dialogue: 0,0:18:09.88,0:18:11.29,Default,,0,0,0,,- Được rồi.\N- Đua đi!
+Dialogue: 0,0:18:11.38,0:18:12.42,Default,,0,0,0,,Ừ.
+Dialogue: 0,0:18:22.18,0:18:23.26,Default,,0,0,0,,Đi!
+Dialogue: 0,0:18:54.30,0:18:55.92,Default,,0,0,0,,Mẹ, gã này nhanh thật!
+Dialogue: 0,0:19:04.10,0:19:06.26,Default,,0,0,0,,Nào! Xông lên!
+Dialogue: 0,0:19:13.77,0:19:15.10,Default,,0,0,0,,{\i1}Hoàn tất bước 1!{\i0}
+Dialogue: 0,0:19:33.29,0:19:36.09,Default,,0,0,0,,Không! Monica!
+Dialogue: 0,0:19:49.72,0:19:51.34,Default,,0,0,0,,{\i1}Cảnh báo!\NNguy hiểm cho buồng khí!{\i0}
+Dialogue: 0,0:19:51.85,0:19:53.31,Default,,0,0,0,,Câm mồm!
+Dialogue: 0,0:20:47.66,0:20:50.29,Default,,0,0,0,,- Đi thôi, cưng!\N- Tuyệt!
+Dialogue: 0,0:21:01.63,0:21:04.97,Default,,0,0,0,,Tiền cậu thắng đây.\NCứ thế phát huy nhé.
+Dialogue: 0,0:21:05.05,0:21:07.93,Default,,0,0,0,,Cậu vừa đua với mấy gã trượt ván.\NHiểu ý tớ chứ?
+Dialogue: 0,0:21:09.35,0:21:12.02,Default,,0,0,0,,Em gái tớ giữ tiền.\NĐếm đi em.
+Dialogue: 0,0:21:15.06,0:21:16.65,Default,,0,0,0,,Tớ và chiến lợi phẩm.
+Dialogue: 0,0:21:19.90,0:21:21.90,Default,,0,0,0,,Này, Monica.\NCưng sao thế?
+Dialogue: 0,0:21:21.90,0:21:23.86,Default,,0,0,0,,Anh làm sao đấy?\NAnh đâu có thắng.
+Dialogue: 0,0:21:24.01,0:21:25.64,Default,,0,0,0,,Tẽn tò chưa?
+Dialogue: 0,0:21:26.82,0:21:28.11,Default,,0,0,0,,Mẹ nhà mày!
+Dialogue: 0,0:21:41.42,0:21:42.71,Default,,0,0,0,,Đua có vui không?
+Dialogue: 0,0:21:42.92,0:21:44.84,Default,,0,0,0,,{\i1}Gặp rắc rối à, anh bạn?{\i0}
+Dialogue: 0,0:21:51.56,0:21:54.81,Default,,0,0,0,,- Anh cười cái gì thế?\N- Anh bạn. Suýt nữa tôi thắng anh rồi.
+Dialogue: 0,0:21:57.65,0:21:59.44,Default,,0,0,0,,Suýt thắng tôi hả?
+Dialogue: 0,0:22:00.11,0:22:02.57,Default,,0,0,0,,Đừng hòng thắng tôi.\NCũng đừng hòng có xe nữa.
+Dialogue: 0,0:22:05.86,0:22:09.03,Default,,0,0,0,,Sang số thì chậm. Nhẽ ra\Nphải có ly hợp kép, thì lại chả có.
+Dialogue: 0,0:22:09.95,0:22:14.12,Default,,0,0,0,,May cho anh là hệ thống NOS\Nkhông thổi bay mối hàn ống dẫn đấy.
+Dialogue: 0,0:22:15.37,0:22:19.75,Default,,0,0,0,,- Suýt thắng mình ư?\N- Bảo hắn ấy, Dominic. Té đi.
+Dialogue: 0,0:22:21.13,0:22:24.21,Default,,0,0,0,,Giờ, tôi với gã bác học điên\Nsẽ rã máy cái cục sắt này
+Dialogue: 0,0:22:24.30,0:22:26.88,Default,,0,0,0,,và thay thế vòng găng pít-tông\Nanh đã rán cháy.
+Dialogue: 0,0:22:34.64,0:22:36.68,Default,,0,0,0,,Hỏi dân đua mà xem.\NBất kì dân đua thứ thiệt nào.
+Dialogue: 0,0:22:37.44,0:22:41.90,Default,,0,0,0,,Không cần biết là thắng một inch\Nhay một dặm. Thắng là thắng.
+Dialogue: 0,0:22:42.19,0:22:43.52,Default,,0,0,0,,Chuẩn!
+Dialogue: 0,0:22:49.11,0:22:52.20,Default,,0,0,0,,{\i1}Toàn bộ lực lượng, hiện có đua xe\Ndọc đường Hawthorne...{\i0}
+Dialogue: 0,0:22:52.28,0:22:54.20,Default,,0,0,0,,Tiên sư!\NCó cớm! Cớm!
+Dialogue: 0,0:22:54.49,0:22:55.74,Default,,0,0,0,,Chuồn mau!
+Dialogue: 0,0:23:07.47,0:23:09.26,Default,,0,0,0,,Cớm đấy!\NLên xe đi! Mau lên!
+Dialogue: 0,0:24:33.55,0:24:35.72,Default,,0,0,0,,{\i1}Toretto, đứng yên đó!{\i0}
+Dialogue: 0,0:24:37.43,0:24:38.56,Default,,0,0,0,,Toretto!
+Dialogue: 0,0:24:53.57,0:24:54.78,Default,,0,0,0,,Lên đi!
+Dialogue: 0,0:25:41.29,0:25:44.62,Default,,0,0,0,,Anh là kẻ cuối cùng trên đời\Ntôi mong xuất hiện đấy.
+Dialogue: 0,0:25:45.79,0:25:49.75,Default,,0,0,0,,Tôi tưởng nếu được anh chiếu cố,\Nanh sẽ cho tôi giữ lại xe đấy.
+Dialogue: 0,0:25:49.96,0:25:51.15,Default,,0,0,0,,Đúng là tôi chiếu cố cho anh,
+Dialogue: 0,0:25:51.15,0:25:53.30,Default,,0,0,0,,nhưng đừng mong được giữ lại xe.
+Dialogue: 0,0:25:54.17,0:25:55.77,Default,,0,0,0,,Anh lái như thể\Ntừng làm trò này rồi vậy.
+Dialogue: 0,0:25:55.77,0:25:57.18,Default,,0,0,0,,Đi xe đạp hả?
+Dialogue: 0,0:25:57.30,0:25:59.64,Default,,0,0,0,,- Không.\N- Chôm xe hơi hả?
+Dialogue: 0,0:26:02.10,0:26:04.27,Default,,0,0,0,,- Không. Chưa bao giờ.\N- Biết mùi đời chưa?
+Dialogue: 0,0:26:04.64,0:26:06.98,Default,,0,0,0,,Đôi lần qua đêm.\NCó gì to tát đâu.
+Dialogue: 0,0:26:07.69,0:26:10.77,Default,,0,0,0,,Thế còn hai năm cải tạo\Nvì chôm xe hơi?
+Dialogue: 0,0:26:13.69,0:26:15.19,Default,,0,0,0,,Tucson, đúng không?
+Dialogue: 0,0:26:15.95,0:26:18.99,Default,,0,0,0,,Tôi sai Jesse tìm hiểu lai lịch\Nvề anh rồi, Brian Earl Spilner ạ.
+Dialogue: 0,0:26:20.53,0:26:23.70,Default,,0,0,0,,Lên mạng là tìm được mọi thứ.\NBất kì điều gì về một ai đó.
+Dialogue: 0,0:26:24.45,0:26:25.83,Default,,0,0,0,,Nào, sao ngẩn ra thế?
+Dialogue: 0,0:26:27.54,0:26:29.04,Default,,0,0,0,,Còn anh thì sao?
+Dialogue: 0,0:26:31.50,0:26:33.00,Default,,0,0,0,,Hai năm ngồi Lompoc.
+Dialogue: 0,0:26:36.05,0:26:37.84,Default,,0,0,0,,Thà chết còn hơn quay lại đó.
+Dialogue: 0,0:26:44.01,0:26:46.02,Default,,0,0,0,,- Tuyệt thật.\N- Sao cơ?
+Dialogue: 0,0:26:48.89,0:26:51.31,Default,,0,0,0,,Lại là một đêm dài thoòng.\NThế đấy.
+Dialogue: 0,0:26:55.57,0:26:56.99,Default,,0,0,0,,Theo tụi tao!
+Dialogue: 0,0:27:47.70,0:27:49.81,Default,,0,0,0,,Tao tưởng chúng ta\Nđã thỏa thuận rồi mà.
+Dialogue: 0,0:27:49.81,0:27:51.91,Default,,0,0,0,,Đừng ai đụng vào ai.
+Dialogue: 0,0:27:53.29,0:27:54.92,Default,,0,0,0,,Cả nhà đều vui vẻ.
+Dialogue: 0,0:27:55.09,0:27:57.38,Default,,0,0,0,,Bọn tôi bị lạc.\NMuốn tôi nói gì với cậu nữa?
+Dialogue: 0,0:27:57.46,0:28:00.42,Default,,0,0,0,,- "Bọn tôi" là những ai?\N- Anh thợ máy mới của tôi.
+Dialogue: 0,0:28:00.76,0:28:02.59,Default,,0,0,0,,Brian, đây là Johnny Tran.
+Dialogue: 0,0:28:02.76,0:28:05.72,Default,,0,0,0,,Người mặc quần da rắn kia\Nlà em họ anh ta, Lance.
+Dialogue: 0,0:28:05.80,0:28:09.52,Default,,0,0,0,,Bao giờ cậu mới định tông tôi\Nvới chiếc Honda 2000 đó đây?
+Dialogue: 0,0:28:09.60,0:28:12.06,Default,,0,0,0,,- Xe của mày hả?\N- Đã từng. Giờ là của anh ta.
+Dialogue: 0,0:28:12.44,0:28:14.94,Default,,0,0,0,,Không phải đâu.\NTôi chưa nhận hàng mà.
+Dialogue: 0,0:28:17.11,0:28:19.62,Default,,0,0,0,,Vậy là xe vô chủ.
+Dialogue: 0,0:28:19.62,0:28:20.86,Default,,0,0,0,,Song ai đó đã làm thành xe đua.
+Dialogue: 0,0:28:23.91,0:28:26.00,Default,,0,0,0,,Lance, chú thấy sao?
+Dialogue: 0,0:28:26.13,0:28:27.49,Default,,0,0,0,,Cỗ máy khá chất đấy.
+Dialogue: 0,0:28:28.16,0:28:29.62,Default,,0,0,0,,Ừ, đúng vậy.
+Dialogue: 0,0:28:31.83,0:28:33.29,Default,,0,0,0,,Đi thôi.
+Dialogue: 0,0:28:35.46,0:28:37.51,Default,,0,0,0,,Hẹn gặp lại\Nngoài sa mạc tháng tới.
+Dialogue: 0,0:28:38.00,0:28:39.84,Default,,0,0,0,,Chuẩn bị tinh thần\Nvác xác tới đó đi.
+Dialogue: 0,0:28:40.13,0:28:42.00,Default,,0,0,0,,Cậu sẽ cần nhiều hơn\Nquả hỏa tiễn kia đấy.
+Dialogue: 0,0:28:42.00,0:28:43.97,Default,,0,0,0,,Tao có cái dành cho mày rồi.
+Dialogue: 0,0:28:57.86,0:28:59.53,Default,,0,0,0,,Chuyện quái quỷ gì thế?
+Dialogue: 0,0:28:59.53,0:29:01.40,Default,,0,0,0,,Dài lắm.\NTôi sẽ kể sau.
+Dialogue: 0,0:29:01.49,0:29:03.15,Default,,0,0,0,,Giờ chuồn khỏi đây đã.
+Dialogue: 0,0:29:30.51,0:29:31.68,Default,,0,0,0,,NOS!
+Dialogue: 0,0:29:43.86,0:29:45.98,Default,,0,0,0,,Nào, chuyện quái quỷ gì vậy?
+Dialogue: 0,0:29:45.99,0:29:47.24,Default,,0,0,0,,Chuyện dài lắm!
+Dialogue: 0,0:29:48.16,0:29:50.53,Default,,0,0,0,,Chà, sẽ phải đi bộ 30 cây đấy.\NChiều ý tôi đi.
+Dialogue: 0,0:29:51.03,0:29:53.20,Default,,0,0,0,,Một vụ làm ăn đổ bể.
+Dialogue: 0,0:29:54.16,0:29:57.21,Default,,0,0,0,,Thêm nữa, có lần tôi lỡ\Nngủ với em gái hắn.
+Dialogue: 0,0:30:23.40,0:30:24.69,Default,,0,0,0,,Bảo trọng nhé!
+Dialogue: 0,0:30:29.74,0:30:31.28,Default,,0,0,0,,Ê, Spilner!
+Dialogue: 0,0:30:32.74,0:30:33.83,Default,,0,0,0,,Làm cốc bia nhé?
+Dialogue: 0,0:30:33.83,0:30:34.91,Default,,0,0,0,,{\i1}Ừ, được.{\i0}
+Dialogue: 0,0:30:35.58,0:30:37.21,Default,,0,0,0,,Khỉ thật.
+Dialogue: 0,0:31:01.27,0:31:04.19,Default,,0,0,0,,- Vào hết rồi, đúng không?\N- Chà chà, cô nàng nóng bỏng.
+Dialogue: 0,0:31:04.27,0:31:06.78,Default,,0,0,0,,- Ai dùng nitrat thế?\N- Tớ.
+Dialogue: 0,0:31:13.62,0:31:17.12,Default,,0,0,0,,Ê, Dom. Tụi tớ đang định\Nđi tìm cậu đấy, người anh em.
+Dialogue: 0,0:31:23.00,0:31:24.29,Default,,0,0,0,,Cậu đã ở đâu?
+Dialogue: 0,0:31:24.42,0:31:25.71,Default,,0,0,0,,Quá nhiều cớm.
+Dialogue: 0,0:31:25.71,0:31:27.49,Default,,0,0,0,,Chúng ập tới từ mọi hướng.
+Dialogue: 0,0:31:27.49,0:31:28.63,Default,,0,0,0,,Là một vụ dàn xếp.
+Dialogue: 0,0:31:28.76,0:31:31.13,Default,,0,0,0,,- Bia của cậu đây hả?\N- Phải, bia của tớ.
+Dialogue: 0,0:31:34.18,0:31:36.68,Default,,0,0,0,,Ê, Einstein.\NLàm chuyện đó trên lầu ấy.
+Dialogue: 0,0:31:37.35,0:31:39.93,Default,,0,0,0,,Làm sao khám phá xe\Nmà cứ để nguyên vỏ được.
+Dialogue: 0,0:31:40.77,0:31:42.43,Default,,0,0,0,,Có thế mà cũng\Nkhông biết làm cho đúng.
+Dialogue: 0,0:31:42.43,0:31:43.65,Default,,0,0,0,,Anh không sao chứ?
+Dialogue: 0,0:31:45.82,0:31:48.65,Default,,0,0,0,,- Tôi có sao không ấy hả?\N- Chỉ là hỏi han thôi mà.
+Dialogue: 0,0:31:52.45,0:31:53.70,Default,,0,0,0,,Ê, Dom.
+Dialogue: 0,0:31:53.99,0:31:55.30,Default,,0,0,0,,Sao lại dẫn thằng lập dị đó\Nvề đây vậy?
+Dialogue: 0,0:31:55.30,0:31:58.04,Default,,0,0,0,,Vì cậu ta giúp tao\Nthoát khỏi còng số 8 đấy!
+Dialogue: 0,0:31:58.33,0:32:00.42,Default,,0,0,0,,Cậu ta không hề\Nchạy về chỗ trốn!
+Dialogue: 0,0:32:00.42,0:32:02.16,Default,,0,0,0,,Chính "thằng lập dị"\Nđã đưa tao về đây.
+Dialogue: 0,0:32:08.01,0:32:10.38,Default,,0,0,0,,Anh có thể uống\Nbia gì tùy thích,
+Dialogue: 0,0:32:10.39,0:32:11.80,Default,,0,0,0,,miễn sao đấy là bia Corona.
+Dialogue: 0,0:32:12.47,0:32:15.05,Default,,0,0,0,,- Cảm ơn.\N- Của Vince đó. Tận hưởng đi.
+Dialogue: 0,0:32:17.06,0:32:18.35,Default,,0,0,0,,Mày...
+Dialogue: 0,0:32:25.48,0:32:27.21,Default,,0,0,0,,Này, có nhà vệ sinh không?
+Dialogue: 0,0:32:27.21,0:32:29.53,Default,,0,0,0,,Trên tầng.\NCửa đầu tiên bên tay phải.
+Dialogue: 0,0:32:45.75,0:32:47.51,Default,,0,0,0,,Chẳng ai mời gọi hắn tới đây cả.
+Dialogue: 0,0:32:47.51,0:32:49.17,Default,,0,0,0,,Cậu chẳng biết gì\Nvề thằng đần đó cả.
+Dialogue: 0,0:32:49.25,0:32:50.55,Default,,0,0,0,,Phải đó, Dom.
+Dialogue: 0,0:32:50.55,0:32:52.76,Default,,0,0,0,,Cũng từng có thời\Ntôi chưa biết cậu đó thôi!
+Dialogue: 0,0:32:52.92,0:32:54.88,Default,,0,0,0,,Đó là hồi lớp 3!
+Dialogue: 0,0:32:58.06,0:33:00.20,Default,,0,0,0,,Phải. Này, gái gú\Ngì ở đây thế này?
+Dialogue: 0,0:33:00.20,0:33:01.66,Default,,0,0,0,,Tự gọi tên đi.\NMuốn ẻm của tớ nữa chắc?
+Dialogue: 0,0:33:01.68,0:33:04.06,Default,,0,0,0,,- Anh câm cái miệng...\N- Muốn hai nàng hả?
+Dialogue: 0,0:33:04.27,0:33:06.94,Default,,0,0,0,,- Em không có gì à?\N- Trông anh thấm mệt rồi.
+Dialogue: 0,0:33:07.06,0:33:09.82,Default,,0,0,0,,Em nghĩ anh nên lên tầng\Nvà mát-xa cho em.
+Dialogue: 0,0:33:09.90,0:33:10.81,Default,,0,0,0,,Nhìn khách của chúng ta xem.
+Dialogue: 0,0:33:10.81,0:33:13.28,Default,,0,0,0,,Thế còn việc mát-xa cho em?
+Dialogue: 0,0:33:16.62,0:33:18.07,Default,,0,0,0,,Con quỷ cái.
+Dialogue: 0,0:33:25.75,0:33:28.42,Default,,0,0,0,,Anh nợ tôi một chiếc xe nhỉ?
+Dialogue: 0,0:33:29.67,0:33:30.84,Default,,0,0,0,,Ái chà!
+Dialogue: 0,0:33:33.09,0:33:34.38,Default,,0,0,0,,Bố khỉ.
+Dialogue: 0,0:33:40.00,0:33:41.76,Default,,0,0,0,,Mày lau bồn cầu chưa đấy?
+Dialogue: 0,0:33:44.98,0:33:48.40,Default,,0,0,0,,Chúa ơi! Dẹp trò này đi\Nđược không? Thôi nào!
+Dialogue: 0,0:33:50.44,0:33:52.74,Default,,0,0,0,,Nào.\NMình đi lấy đồ uống.
+Dialogue: 0,0:33:52.74,0:33:55.32,Default,,0,0,0,,Thôi nào, tụi này\Nđang làm quen thôi mà.
+Dialogue: 0,0:34:02.58,0:34:05.75,Default,,0,0,0,,- Nào, em uống gì?\N- Gì cũng được, miễn là lạnh.
+Dialogue: 0,0:34:07.33,0:34:10.92,Default,,0,0,0,,Anh trai em khoái anh đấy.\NAnh ấy không ưa ai mấy đâu.
+Dialogue: 0,0:34:11.00,0:34:14.30,Default,,0,0,0,,- Ừ. Anh ấy khá phức tạp.\N- Vậy sao? Thế còn anh?
+Dialogue: 0,0:34:17.47,0:34:19.80,Default,,0,0,0,,- Anh thì đơn giản hơn.\N- Đúng là ba xạo.
+Dialogue: 0,0:34:21.56,0:34:23.89,Default,,0,0,0,,Chà, anh sẽ xem đó là lời khen.
+Dialogue: 0,0:34:25.56,0:34:28.23,Default,,0,0,0,,- Có một vấn đề.\N- Gì vậy em?
+Dialogue: 0,0:34:28.31,0:34:30.48,Default,,0,0,0,,Anh cần chợp mắt.
+Dialogue: 0,0:34:31.11,0:34:35.07,Default,,0,0,0,,Và nhất định, nhất định\Nanh cần phải tắm.
+Dialogue: 0,0:34:35.99,0:34:38.32,Default,,0,0,0,,Nào.\NEm sẽ đưa anh về nhà.
+Dialogue: 0,0:35:00.14,0:35:03.01,Default,,0,0,0,,Đưa tay ra. Rất tốt.\NGiờ mở cửa xe đi.
+Dialogue: 0,0:35:03.51,0:35:06.68,Default,,0,0,0,,Để tay lên đầu!\NSau đầu ấy.
+Dialogue: 0,0:35:07.18,0:35:10.81,Default,,0,0,0,,Hướng mặt ra trước xe,\Nbước lùi lại phía sau.
+Dialogue: 0,0:35:11.02,0:35:14.36,Default,,0,0,0,,Bước hai bước sang phải.\NĐứng yên đó.
+Dialogue: 0,0:35:17.44,0:35:18.64,Default,,0,0,0,,Tôi đã làm gì thế?
+Dialogue: 0,0:35:18.64,0:35:20.10,Default,,0,0,0,,Im đi.
+Dialogue: 0,0:35:20.29,0:35:21.53,Default,,0,0,0,,Hắn không có gì, thưa trung sĩ.
+Dialogue: 0,0:35:32.17,0:35:34.46,Default,,0,0,0,,Mẹ! Muse, anh bỏ\Ncái thứ này ra được chứ?
+Dialogue: 0,0:35:34.54,0:35:37.51,Default,,0,0,0,,- Mẹ kiếp, siết gì chặt thế.\N- Tôi thích chủ nghĩa hiện thực.
+Dialogue: 0,0:35:38.13,0:35:40.47,Default,,0,0,0,,Anh sẽ chẳng bao giờ biết\Nai đang theo dõi đâu, Brian.
+Dialogue: 0,0:35:44.72,0:35:46.45,Default,,0,0,0,,Nhà đẹp đấy, trung sĩ!
+Dialogue: 0,0:35:46.46,0:35:48.56,Default,,0,0,0,,Đẹp hơn cái chốn\Nanh tịch thu lần trước nhiều.
+Dialogue: 0,0:35:48.64,0:35:52.85,Default,,0,0,0,,Vậy sao? Eddie Fisher xây nhà này cho\NElizabeth Taylor vào những năm 50.
+Dialogue: 0,0:35:53.02,0:35:55.90,Default,,0,0,0,,Ngay cả cớm\Ncũng sướng như tiên vậy.
+Dialogue: 0,0:35:59.69,0:36:02.99,Default,,0,0,0,,Ok, anh ta đây rồi, lính mới\Ntừ thiên đường xe chế của Toretto.
+Dialogue: 0,0:36:03.07,0:36:05.41,Default,,0,0,0,,Chiếc đó giá 80.000 đô đấy,\Nthưa ngài sĩ quan.
+Dialogue: 0,0:36:05.53,0:36:07.74,Default,,0,0,0,,- Kể cho anh ta biết rồi à?\N- Anh ta biết sẵn đấy chứ.
+Dialogue: 0,0:36:07.83,0:36:10.15,Default,,0,0,0,,Sao không gửi hóa đơn\Ncho tên Johnny Trần ấy?
+Dialogue: 0,0:36:10.15,0:36:11.75,Default,,0,0,0,,Trẻ nít mà còn lên mặt sao?
+Dialogue: 0,0:36:11.83,0:36:14.58,Default,,0,0,0,,Như vậy là không hay cho\Nquan hệ Cảnh sát và FBl đâu, Tanner?
+Dialogue: 0,0:36:14.67,0:36:16.90,Default,,0,0,0,,Thế này là sao?\NVừa bước vào cửa thì đã...
+Dialogue: 0,0:36:16.90,0:36:18.25,Default,,0,0,0,,Được rồi mà.
+Dialogue: 0,0:36:18.38,0:36:20.59,Default,,0,0,0,,Ta sẽ nói chuyện, được chứ?\NCùng nói về chuyện này nào.
+Dialogue: 0,0:36:20.67,0:36:23.93,Default,,0,0,0,,Muse, pha giúp tụi tôi\Nbốn tách cappuccino đá nhé?
+Dialogue: 0,0:36:24.05,0:36:26.39,Default,,0,0,0,,- Nào.\N- Thường hay không cafein?
+Dialogue: 0,0:36:27.93,0:36:29.39,Default,,0,0,0,,Loại không cafein đi.
+Dialogue: 0,0:36:29.72,0:36:32.43,Default,,0,0,0,,Bốn vụ cướp trong hai tháng.\NKhông một manh mối.
+Dialogue: 0,0:36:32.52,0:36:35.60,Default,,0,0,0,,Đầu DVD và camera kĩ thuật số\Ntrị giá 1,2 triệu đô.
+Dialogue: 0,0:36:35.69,0:36:38.44,Default,,0,0,0,,Tức là tổng cộng\Nmất hơn 6 triệu đô.
+Dialogue: 0,0:36:38.57,0:36:41.40,Default,,0,0,0,,Hiện giờ lại đang bức bối\Nvề chính trị nữa, Brian.
+Dialogue: 0,0:36:42.11,0:36:43.95,Default,,0,0,0,,Chính vì thế cậu phải\Nhoạt động bí mật.
+Dialogue: 0,0:36:44.07,0:36:46.45,Default,,0,0,0,,Muốn leo nhanh lên chức\Nđiều tra viên, nhóc ạ...
+Dialogue: 0,0:36:46.45,0:36:48.03,Default,,0,0,0,,Cậu muốn biết điều gì không?
+Dialogue: 0,0:36:48.37,0:36:51.20,Default,,0,0,0,,FBI sẽ giúp được, nếu cậu\Nchịu hợp tác với chúng tôi.
+Dialogue: 0,0:36:52.25,0:36:54.21,Default,,0,0,0,,Tài xế xe tải nói gì?
+Dialogue: 0,0:36:54.29,0:36:57.79,Default,,0,0,0,,Vẫn khai y nguyên:\NBa xe Honda Civic, lái rất lụa,
+Dialogue: 0,0:36:57.92,0:37:00.88,Default,,0,0,0,,vẫn là ánh đèn xanh lá\Ngắn dưới gầm máy.
+Dialogue: 0,0:37:00.96,0:37:05.38,Default,,0,0,0,,Vết phanh là từ cùng một\Nloại lốp: Mashamoto ZX.
+Dialogue: 0,0:37:05.47,0:37:08.22,Default,,0,0,0,,Cho nên, rõ ràng đó là\Nmột tay đua đường phố.
+Dialogue: 0,0:37:08.31,0:37:09.96,Default,,0,0,0,,Nếu không sớm kết thúc vụ này,
+Dialogue: 0,0:37:09.96,0:37:12.73,Default,,0,0,0,,công đoàn xe tải\Nsẽ tự giải quyết đấy.
+Dialogue: 0,0:37:12.81,0:37:14.56,Default,,0,0,0,,Tôi bảo họ sắp phá được án rồi.
+Dialogue: 0,0:37:15.77,0:37:17.65,Default,,0,0,0,,Cậu định biến tôi\Nthành kẻ nói cuội chăng?
+Dialogue: 0,0:37:17.77,0:37:19.32,Default,,0,0,0,,Chúng ta đã biết gì nào?
+Dialogue: 0,0:37:19.40,0:37:21.90,Default,,0,0,0,,Ta biết thế giới này\Ntập trung về Toretto, vậy chăng?
+Dialogue: 0,0:37:21.99,0:37:25.07,Default,,0,0,0,,Tôi không nói anh ta\Nlà kẻ nã súng vào đoàn xe tải,
+Dialogue: 0,0:37:25.16,0:37:27.77,Default,,0,0,0,,song tôi có thể đảm bảo\Nanh ta biết kẻ đó.
+Dialogue: 0,0:37:27.77,0:37:29.49,Default,,0,0,0,,Chỉ là vấn đề thời gian\Ncho tới khi tôi...
+Dialogue: 0,0:37:29.58,0:37:33.50,Default,,0,0,0,,Muốn có thì giờ thì mua tạp chí ấy.\NChúng tôi không có thì giờ.
+Dialogue: 0,0:37:35.33,0:37:37.42,Default,,0,0,0,,Đưa tôi manh mối gì\Ndùng được đi.
+Dialogue: 0,0:37:39.25,0:37:40.67,Default,,0,0,0,,Harry có cộng tác không?
+Dialogue: 0,0:37:40.67,0:37:44.59,Default,,0,0,0,,Có. Như thể một gã sẽ phải ngồi tù\Nvì nhận đồ bị đánh cắp vậy.
+Dialogue: 0,0:37:44.67,0:37:46.76,Default,,0,0,0,,Anh ta nhận được\Nrung cảm gì từ Toretto thế?
+Dialogue: 0,0:37:46.84,0:37:50.01,Default,,0,0,0,,Anh chàng rất sợ Toretto, song lại\Nkhông nghĩ mình đang cướp xe tải.
+Dialogue: 0,0:37:50.10,0:37:51.21,Default,,0,0,0,,Về chuyện đó,\Nanh ta đã bị kiểm soát.
+Dialogue: 0,0:37:51.21,0:37:52.31,Default,,0,0,0,,Khoan đã.
+Dialogue: 0,0:37:52.32,0:37:55.68,Default,,0,0,0,,Không phải tôi muốn phủ nhận\Nđức tính tốt đẹp của Harry,
+Dialogue: 0,0:37:55.77,0:37:59.27,Default,,0,0,0,,song Toretto đã từng ngồi tù\Nvì suýt nữa đánh chết người đấy.
+Dialogue: 0,0:37:59.36,0:38:02.52,Default,,0,0,0,,Máu anh ta có oxit nitrat,\Ncòn trí óc là cả một bình xăng đấy.
+Dialogue: 0,0:38:02.61,0:38:04.53,Default,,0,0,0,,Đừng khinh suất với hắn.
+Dialogue: 0,0:38:04.95,0:38:07.45,Default,,0,0,0,,Tanner, tôi sẽ cần\Nmột chiếc xe khác đấy.
+Dialogue: 0,0:38:12.04,0:38:13.09,Default,,0,0,0,,Thế còn các phụ tùng\Nvà bảo dưỡng?
+Dialogue: 0,0:38:13.09,0:38:14.45,Default,,0,0,0,,Tránh mấy việc đó ra.
+Dialogue: 0,0:38:14.54,0:38:16.87,Default,,0,0,0,,Don, em không biết\Nlàm gì thật mà.
+Dialogue: 0,0:38:19.96,0:38:23.80,Default,,0,0,0,,Chà, cái quái gì thế này?\NCác cậu có gì thế?
+Dialogue: 0,0:38:25.55,0:38:27.97,Default,,0,0,0,,- Xe của anh đấy.\N- Xe của tôi?
+Dialogue: 0,0:38:28.55,0:38:31.55,Default,,0,0,0,,Tôi bảo xe khởi động 10 giây,\Nđâu phải xe khởi động 10 phút.
+Dialogue: 0,0:38:31.64,0:38:35.47,Default,,0,0,0,,Anh có thể đẩy thứ này qua vạch đích,\Nhoặc dùng thừng kéo.
+Dialogue: 0,0:38:36.73,0:38:39.69,Default,,0,0,0,,{\i1}Có kéo cũng đừng mong\Nqua được vạch đích.{\i0}
+Dialogue: 0,0:38:40.40,0:38:41.65,Default,,0,0,0,,Chẳng tin nhau gì cả.
+Dialogue: 0,0:38:41.73,0:38:44.15,Default,,0,0,0,,Tôi tin anh đấy,\Nnhưng đây đâu phải bãi phế liệu.
+Dialogue: 0,0:38:44.23,0:38:46.49,Default,,0,0,0,,- Đây là gara.\N- Mở nắp ca-pô ra đi.
+Dialogue: 0,0:38:46.74,0:38:49.20,Default,,0,0,0,,- Mở ca-pô ra?\N- Mở ca-pô xe.
+Dialogue: 0,0:38:51.16,0:38:54.83,Default,,0,0,0,,- Động cơ 2JZ. Không xoàng đâu.\N- Tôi đã bảo gì nhỉ?
+Dialogue: 0,0:38:54.91,0:38:57.66,Default,,0,0,0,,- Tôi rút lại lời nói ban nãy.\N- Anh biết không?
+Dialogue: 0,0:38:57.75,0:39:02.33,Default,,0,0,0,,Thứ này sẽ vô địch thiên hạ\Nsau khi rót 15.000 đô cho nó.
+Dialogue: 0,0:39:02.42,0:39:06.17,Default,,0,0,0,,Có thể hơn, nếu ta\Nlấy phụ tùng từ Nhật.
+Dialogue: 0,0:39:06.59,0:39:09.34,Default,,0,0,0,,- Ta sẽ kê vào hóa đơn tại chỗ Harry.\N- Tuyệt!
+Dialogue: 0,0:39:09.76,0:39:13.55,Default,,0,0,0,,Tôi sẽ cho anh đua tiếp,\Nđể còn kiếm ít tiền chứ.
+Dialogue: 0,0:39:14.10,0:39:16.77,Default,,0,0,0,,Có giải đua tại sa mạc\Ntên gọi Race Wars.
+Dialogue: 0,0:39:16.89,0:39:19.18,Default,,0,0,0,,Đó là nơi anh sẽ làm việc đó.
+Dialogue: 0,0:39:19.56,0:39:22.90,Default,,0,0,0,,Khi nào không làm việc\Ncho Harry nữa thì qua đây nhé.
+Dialogue: 0,0:39:23.11,0:39:25.34,Default,,0,0,0,,Nếu anh không thể tìm ra\Nđúng dụng cụ trong gara này,
+Dialogue: 0,0:39:25.34,0:39:26.90,Default,,0,0,0,,anh chàng Arizona ạ,
+Dialogue: 0,0:39:27.28,0:39:29.45,Default,,0,0,0,,anh không xứng\Nđược ở gần chiếc xe.
+Dialogue: 0,0:39:33.07,0:39:34.45,Default,,0,0,0,,Anh ấy là chủ anh rồi đấy.
+Dialogue: 0,0:40:00.06,0:40:03.56,Default,,0,0,0,,Nói cảm nghĩ của anh xem.\NĐồ điều chỉnh được.
+Dialogue: 0,0:40:04.40,0:40:06.61,Default,,0,0,0,,Sẽ nhẹ đi được gần một cân đấy.
+Dialogue: 0,0:40:06.82,0:40:10.15,Default,,0,0,0,,Và sẽ bám đất hơn\Nnếu bị thủng lốp.
+Dialogue: 0,0:40:10.24,0:40:11.49,Default,,0,0,0,,Được chưa nào?
+Dialogue: 0,0:40:12.32,0:40:14.41,Default,,0,0,0,,Bố cục cơ bản cho chiếc xe đây.
+Dialogue: 0,0:40:14.49,0:40:18.33,Default,,0,0,0,,Hoàn thiện xong,\Ntrông nó sẽ tuyệt thế này đấy.
+Dialogue: 0,0:40:19.08,0:40:20.45,Default,,0,0,0,,Đỏ, xanh lá.
+Dialogue: 0,0:40:21.08,0:40:23.00,Default,,0,0,0,,Lẽ ra cậu nên đi học\Ntại MIT hay gì đó mới phải.
+Dialogue: 0,0:40:23.00,0:40:24.63,Default,,0,0,0,,Ừ, đúng vậy.
+Dialogue: 0,0:40:25.29,0:40:28.13,Default,,0,0,0,,À không, tớ có...\NGọi là gì nhỉ?
+Dialogue: 0,0:40:29.17,0:40:31.34,Default,,0,0,0,,Chứng mất tập trung...
+Dialogue: 0,0:40:31.47,0:40:35.18,Default,,0,0,0,,- ADD?\N- Ừ, chính nó. Tuyệt.
+Dialogue: 0,0:40:36.30,0:40:40.18,Default,,0,0,0,,Tớ từng giỏi đại số\Nvà rất thích toán.
+Dialogue: 0,0:40:41.02,0:40:44.81,Default,,0,0,0,,Mọi môn khác đều kém.\NBỏ học giữa chừng.
+Dialogue: 0,0:40:45.69,0:40:48.77,Default,,0,0,0,,Tớ không rõ nữa.\NCó cái gì đó ở máy móc...
+Dialogue: 0,0:40:48.86,0:40:52.03,Default,,0,0,0,,luôn giúp tớ bình tĩnh,\Ncậu biết đấy.
+Dialogue: 0,0:41:12.88,0:41:15.34,Default,,0,0,0,,- Tớ nghỉ việc.\N- Thôi nào, cẩu.
+Dialogue: 0,0:41:15.97,0:41:18.64,Default,,0,0,0,,- Ê, Dom.\N- Vince, lại đây giúp tụi tớ một tay đi.
+Dialogue: 0,0:41:18.72,0:41:21.64,Default,,0,0,0,,Có vẻ cậu có đủ\Nsự trợ giúp rồi còn gì, chiến hữu.
+Dialogue: 0,0:41:35.32,0:41:38.45,Default,,0,0,0,,- Mia! Gà khô đét rồi này.\N- Vâng. Em ra rồi đây.
+Dialogue: 0,0:41:43.79,0:41:45.29,Default,,0,0,0,,Lại đây nào.
+Dialogue: 0,0:41:47.21,0:41:48.63,Default,,0,0,0,,À, khoan đã.
+Dialogue: 0,0:41:49.13,0:41:54.09,Default,,0,0,0,,Bởi cậu là người động tay\Nvào món gà đầu tiên, cậu tạ ơn đi.
+Dialogue: 0,0:42:00.39,0:42:03.10,Default,,0,0,0,,- Hỡi Chúa trời...\N- Thần linh.
+Dialogue: 0,0:42:04.77,0:42:06.44,Default,,0,0,0,,Hỡi thần linh.\NTạ ơn Người.
+Dialogue: 0,0:42:06.98,0:42:13.07,Default,,0,0,0,,Tạ ơn Người đã ban cho chúng con\Nống bơm nitơ trực tiếp,
+Dialogue: 0,0:42:13.15,0:42:16.99,Default,,0,0,0,,bốn thiết bị làm nguội trung gian,\Ncùng tuốc-bin vòng bi
+Dialogue: 0,0:42:17.16,0:42:20.32,Default,,0,0,0,,cả lò xo bằng titan nữa.
+Dialogue: 0,0:42:20.41,0:42:22.03,Default,,0,0,0,,- Tạ ơn Người.\N- Amen!
+Dialogue: 0,0:42:23.16,0:42:25.12,Default,,0,0,0,,- Cũng đâu tệ!\N- Amen!
+Dialogue: 0,0:42:25.21,0:42:27.46,Default,,0,0,0,,Cậu ấy tạ ơn Thần Xe hơi đấy.
+Dialogue: 0,0:42:28.79,0:42:30.33,Default,,0,0,0,,Vị thần đó đâu phải là nhất.
+Dialogue: 0,0:42:30.42,0:42:32.59,Default,,0,0,0,,- Cậu muốn gì nào?\N- Vào việc thôi.
+Dialogue: 0,0:42:32.67,0:42:34.00,Default,,0,0,0,,Cảm ơn em.
+Dialogue: 0,0:42:34.09,0:42:37.67,Default,,0,0,0,,Xem ai kìa.\N"Old Coyotes 'R' Us."
+Dialogue: 0,0:42:37.76,0:42:40.51,Default,,0,0,0,,Tớ tưởng cậu\Nkhông đói chứ, Bí Ngô.
+Dialogue: 0,0:42:40.68,0:42:43.64,Default,,0,0,0,,- Thì cũng phải ăn chứ.\N- Cậu ta lúc nào chả đói.
+Dialogue: 0,0:42:43.72,0:42:45.77,Default,,0,0,0,,Được rồi, ngồi đi.
+Dialogue: 0,0:42:53.15,0:42:55.07,Default,,0,0,0,,Em thế nào, Mia?
+Dialogue: 0,0:42:58.24,0:42:59.86,Default,,0,0,0,,Mời.
+Dialogue: 0,0:43:06.33,0:43:09.08,Default,,0,0,0,,- Jesse, lấy cho tớ ít thịt gà.\N- Nhậu đi đã, anh bạn.
+Dialogue: 0,0:43:09.17,0:43:12.58,Default,,0,0,0,,- Ăn ít thịt gà nhé?\N- Sao, cậu thuê phim hay gì thế?
+Dialogue: 0,0:43:19.38,0:43:21.30,Default,,0,0,0,,Cần anh giúp gì nữa không?
+Dialogue: 0,0:43:21.39,0:43:24.85,Default,,0,0,0,,Thôi. Anh lên xem phim\Nvới anh em đi.
+Dialogue: 0,0:43:25.35,0:43:27.32,Default,,0,0,0,,Đầu bếp chỗ anh\Nkhông sạch sẽ thế này đâu.
+Dialogue: 0,0:43:27.32,0:43:29.02,Default,,0,0,0,,Em rất thích được tới đó đấy.
+Dialogue: 0,0:43:34.19,0:43:35.68,Default,,0,0,0,,Anh nghĩ thi thoảng mình nên\Nra ngoài đi chơi chút.
+Dialogue: 0,0:43:35.68,0:43:38.40,Default,,0,0,0,,Thôi, em không thích hẹn hò\Nvới bạn của anh trai.
+Dialogue: 0,0:43:39.11,0:43:40.61,Default,,0,0,0,,Chán nhỉ.
+Dialogue: 0,0:43:40.70,0:43:44.03,Default,,0,0,0,,- Chắc anh phải sút mông anh ta rồi.\N- Em rất thích xem cảnh đó.
+Dialogue: 0,0:43:44.12,0:43:47.41,Default,,0,0,0,,Thật tình, em sẽ trả tiền\Nđể xem cảnh đó đấy.
+Dialogue: 0,0:44:01.34,0:44:03.05,Default,,0,0,0,,Khi nào xong\Nthì rửa xe giúp tôi nhé.
+Dialogue: 0,0:44:03.14,0:44:04.12,Default,,0,0,0,,Gì cơ?
+Dialogue: 0,0:44:04.13,0:44:06.81,Default,,0,0,0,,Không, Mia.\NLà anh nói với gã du côn kia.
+Dialogue: 0,0:44:07.64,0:44:10.10,Default,,0,0,0,,Mặc bộ nào anh thích ấy,\Nvì khi xong việc,
+Dialogue: 0,0:44:10.18,0:44:13.48,Default,,0,0,0,,tôi sẽ quẳng anh ra đường,\Nnơi anh thuộc về đấy, nhóc.
+Dialogue: 0,0:44:16.77,0:44:20.49,Default,,0,0,0,,Thứ này hỏng rồi à?\NNó bị làm sao vậy?
+Dialogue: 0,0:44:21.74,0:44:25.74,Default,,0,0,0,,Nhà hàng Cuba mà anh muốn\Nrủ em tới tên là gì nhỉ?
+Dialogue: 0,0:44:25.91,0:44:27.91,Default,,0,0,0,,Chỗ có picadillo và...
+Dialogue: 0,0:44:27.99,0:44:31.79,Default,,0,0,0,,- Có nến đỏ, bàn gỗ...\N- Chuối, thức ăn ngập tràn ấy.
+Dialogue: 0,0:44:31.87,0:44:33.75,Default,,0,0,0,,- Tên gì ấy nhỉ?\N- Cha Cha Cha!
+Dialogue: 0,0:44:33.83,0:44:35.79,Default,,0,0,0,,- Ừ, đúng là nó.\N- Tuyệt.
+Dialogue: 0,0:44:36.96,0:44:38.96,Default,,0,0,0,,Anh có thể đưa em tới đó.
+Dialogue: 0,0:44:39.09,0:44:41.72,Default,,0,0,0,,10 giờ tối thứ Sáu.\NĐược không anh?
+Dialogue: 0,0:44:42.34,0:44:44.38,Default,,0,0,0,,- Ừ, tuyệt đấy.\N- Vâng.
+Dialogue: 0,0:44:50.81,0:44:54.73,Default,,0,0,0,,- Chẳng có bỏng ngô.\N- Tự mà làm lấy bỏng ngô!
+Dialogue: 0,0:45:08.74,0:45:11.33,Default,,0,0,0,,Rồi. Giờ thì có cả\Nngười đậu xe giúp.
+Dialogue: 0,0:45:15.25,0:45:17.54,Default,,0,0,0,,- Harry. Thế nào, cẩu?\N- Rất vui được gặp các cậu.
+Dialogue: 0,0:45:17.63,0:45:19.46,Default,,0,0,0,,Tuyệt đấy.\NVào đi, các cậu.
+Dialogue: 0,0:45:19.55,0:45:22.67,Default,,0,0,0,,- Kiểm lại đi. Của cậu đấy.\N- Trời. Chúng ta có gì thế này?
+Dialogue: 0,0:45:23.80,0:45:26.30,Default,,0,0,0,,- Thuê lính mới hả?\N- Chẳng nghĩ đến chuyện đó luôn.
+Dialogue: 0,0:45:26.39,0:45:28.85,Default,,0,0,0,,Thế nào, Brian?\NThấy sao hả?
+Dialogue: 0,0:45:28.93,0:45:31.85,Default,,0,0,0,,- Khá ổn. Anh cần gì?\N- Sao thế anh bạn?
+Dialogue: 0,0:45:31.93,0:45:33.75,Default,,0,0,0,,Tôi cần anh giúp tôi hứng khởi.
+Dialogue: 0,0:45:33.75,0:45:35.48,Default,,0,0,0,,Mỗi thứ ba chiếc.\NTôi lên danh sách rồi.
+Dialogue: 0,0:45:37.11,0:45:39.06,Default,,0,0,0,,Sao anh không xem qua nhỉ?
+Dialogue: 0,0:45:39.36,0:45:42.53,Default,,0,0,0,,- Chừng nào anh cần thứ này?\N- Ngày mai, hôm nay, bây giờ.
+Dialogue: 0,0:45:42.94,0:45:43.25,Default,,0,0,0,,Được rồi.
+Dialogue: 0,0:45:43.25,0:45:45.20,Default,,0,0,0,,Dân da trắng làm việc\Nmau lẹ đó chứ?
+Dialogue: 0,0:45:48.45,0:45:49.78,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,0:45:52.66,0:45:54.37,Default,,0,0,0,,Anh cần mỗi thứ ba chiếc?
+Dialogue: 0,0:45:54.37,0:45:56.16,Default,,0,0,0,,Ừ, ba hết.
+Dialogue: 0,0:45:56.96,0:45:59.63,Default,,0,0,0,,Thấy thứ này thế nào?\NThử đi.
+Dialogue: 0,0:48:07.76,0:48:09.30,Default,,0,0,0,,Hắn than vãn như cớm vậy.
+Dialogue: 0,0:48:18.60,0:48:22.77,Default,,0,0,0,,Brian, đây là một trong những lúc\Nanh cần nói rõ ràng đấy.
+Dialogue: 0,0:48:23.52,0:48:25.52,Default,,0,0,0,,Hãy gật đầu nếu hiểu ý tôi.
+Dialogue: 0,0:48:25.61,0:48:26.90,Default,,0,0,0,,Gật đầu!
+Dialogue: 0,0:48:28.73,0:48:30.15,Default,,0,0,0,,Ngồi dậy đi!
+Dialogue: 0,0:48:36.41,0:48:39.08,Default,,0,0,0,,Nói xem, cậu xuống đây làm gì?
+Dialogue: 0,0:48:39.37,0:48:41.83,Default,,0,0,0,,Chết tiệt.\NTôi đang làm gì ấy à?
+Dialogue: 0,0:48:44.42,0:48:45.79,Default,,0,0,0,,Dom.
+Dialogue: 0,0:48:48.05,0:48:50.76,Default,,0,0,0,,Tôi nợ anh chiếc xe\Nkhởi động 10 giây.
+Dialogue: 0,0:48:51.72,0:48:55.34,Default,,0,0,0,,Về chuyện gì hả, về Race Wars.
+Dialogue: 0,0:48:58.51,0:49:02.39,Default,,0,0,0,,Tôi vừa vào trong kia,\NHector đang chuẩn bị chạy
+Dialogue: 0,0:49:02.85,0:49:05.40,Default,,0,0,0,,ba chiếc Honda Civic\Nvới động cơ Spoon.
+Dialogue: 0,0:49:05.52,0:49:08.36,Default,,0,0,0,,Hơn hết thảy,\Nhắn còn đến chỗ Harry
+Dialogue: 0,0:49:08.44,0:49:12.69,Default,,0,0,0,,đặt hàng ba tuốc-bin T66, có NOS,
+Dialogue: 0,0:49:14.32,0:49:16.41,Default,,0,0,0,,và hệ thống ống xả MoTeC.
+Dialogue: 0,0:49:19.91,0:49:21.62,Default,,0,0,0,,Anh nói cái gì thế?
+Dialogue: 0,0:49:22.83,0:49:27.38,Default,,0,0,0,,Anh định đi kiểm tra từng người,\Ntừng gara một chắc?
+Dialogue: 0,0:49:30.25,0:49:31.71,Default,,0,0,0,,Phải.
+Dialogue: 0,0:49:34.55,0:49:38.47,Default,,0,0,0,,Anh biết mà, Dom,\Ntôi không thể thua lần nữa.
+Dialogue: 0,0:49:40.47,0:49:41.85,Default,,0,0,0,,Hắn là cớm đó.
+Dialogue: 0,0:49:44.19,0:49:45.31,Default,,0,0,0,,Hắn là cớm!
+Dialogue: 0,0:49:48.41,0:49:49.94,Default,,0,0,0,,Anh là cớm à?
+Dialogue: 0,0:49:56.45,0:49:58.28,Default,,0,0,0,,Đi chơi một vòng đi.
+Dialogue: 0,0:50:01.29,0:50:02.66,Default,,0,0,0,,Bước!
+Dialogue: 0,0:50:22.06,0:50:23.77,Default,,0,0,0,,Được rồi.\NCậu canh chừng nhé.
+Dialogue: 0,0:50:54.51,0:50:56.17,Default,,0,0,0,,Ê, Dominic.
+Dialogue: 0,0:50:57.93,0:50:59.59,Default,,0,0,0,,Không có động cơ.
+Dialogue: 0,0:51:00.72,0:51:03.47,Default,,0,0,0,,Chúng định đua với cái gì thế,\Nhi vọng và mơ mộng à?
+Dialogue: 0,0:51:03.56,0:51:05.97,Default,,0,0,0,,Không rõ nữa,\Nsong chúng rất lén lút,
+Dialogue: 0,0:51:06.06,0:51:08.89,Default,,0,0,0,,chúng lại có đủ tiền\Nđể mua bất kì thứ gì.
+Dialogue: 0,0:51:14.07,0:51:15.11,Default,,0,0,0,,Sao?
+Dialogue: 0,0:51:24.16,0:51:25.49,Default,,0,0,0,,Một bầy sói.
+Dialogue: 0,0:51:26.00,0:51:29.66,Default,,0,0,0,,Johnny Tran đang tới chỗ cậu,\Nrất nhanh đấy.
+Dialogue: 0,0:51:29.96,0:51:32.58,Default,,0,0,0,,Rồi, thế là có bạn đồng hành.\NSpilner.
+Dialogue: 0,0:51:58.74,0:52:01.03,Default,,0,0,0,,Mau lên.\NBước!
+Dialogue: 0,0:52:01.28,0:52:03.32,Default,,0,0,0,,Cho tao hỏi mày\Nmột câu thôi, Ted.
+Dialogue: 0,0:52:04.83,0:52:07.38,Default,,0,0,0,,Mày có thấy gì lạ ở đây không?
+Dialogue: 0,0:52:07.47,0:52:08.47,Default,,0,0,0,,Không.
+Dialogue: 0,0:52:11.92,0:52:13.75,Default,,0,0,0,,Tụi tao chả có động cơ nào,\Nđúng không?
+Dialogue: 0,0:52:13.75,0:52:14.33,Default,,0,0,0,,Không.
+Dialogue: 0,0:52:14.42,0:52:15.71,Default,,0,0,0,,- Đúng không?\N- Không.
+Dialogue: 0,0:52:18.80,0:52:21.38,Default,,0,0,0,,Đôi mô-tô Nissan SR20\Nsẽ kiếm được giải
+Dialogue: 0,0:52:21.47,0:52:23.02,Default,,0,0,0,,một tuần trước vụ\NRace Wars đấy chứ?
+Dialogue: 0,0:52:23.02,0:52:24.51,Default,,0,0,0,,Phải, có thể lắm.
+Dialogue: 0,0:52:24.89,0:52:27.89,Default,,0,0,0,,Mày thông minh lắm, Ted.\NQuá thông minh.
+Dialogue: 0,0:52:29.39,0:52:31.31,Default,,0,0,0,,Chú mày thấy sao, Lance?
+Dialogue: 0,0:52:32.81,0:52:34.35,Default,,0,0,0,,40 cân?
+Dialogue: 0,0:52:34.86,0:52:36.69,Default,,0,0,0,,50 cân?
+Dialogue: 0,0:52:37.32,0:52:39.03,Default,,0,0,0,,40 cân nghe hay đấy.
+Dialogue: 0,0:52:54.63,0:52:56.17,Default,,0,0,0,,Chúng đâu, Ted?
+Dialogue: 0,0:52:56.34,0:52:58.17,Default,,0,0,0,,- Chúng đâu rồi?\N- Đủ rồi!
+Dialogue: 0,0:52:58.34,0:53:00.84,Default,,0,0,0,,- Chúng đâu?\N- Trong kho.
+Dialogue: 0,0:53:01.38,0:53:03.30,Default,,0,0,0,,Trong nhà kho!
+Dialogue: 0,0:53:19.57,0:53:20.86,Default,,0,0,0,,Ted.
+Dialogue: 0,0:53:20.94,0:53:22.61,Default,,0,0,0,,Hôn giày tao chứ?
+Dialogue: 0,0:53:34.87,0:53:36.75,Default,,0,0,0,,Đi lấy động cơ thôi.
+Dialogue: 0,0:53:37.63,0:53:40.42,Default,,0,0,0,,Cấp trên của tôi sắp từ\NWashington đến, hai ngày nữa.
+Dialogue: 0,0:53:40.50,0:53:42.13,Default,,0,0,0,,Tôi muốn có gì đó để trưng ra.
+Dialogue: 0,0:53:42.21,0:53:44.59,Default,,0,0,0,,Một anh chàng\Nbị nhét vòi dầu vào miệng,
+Dialogue: 0,0:53:44.68,0:53:45.77,Default,,0,0,0,,vũ khí tự động
+Dialogue: 0,0:53:45.77,0:53:48.43,Default,,0,0,0,,găm sẵn trên người\Nmấy tên du côn gốc Á đó,
+Dialogue: 0,0:53:48.51,0:53:49.97,Default,,0,0,0,,một gara đầy rẫy đầu DVD
+Dialogue: 0,0:53:49.97,0:53:51.85,Default,,0,0,0,,và một động thái tâm thần.
+Dialogue: 0,0:53:51.93,0:53:54.04,Default,,0,0,0,,Nói tôi nghe vì sao ta\Nkhông nên tóm gã Tran đó
+Dialogue: 0,0:53:54.04,0:53:55.31,Default,,0,0,0,,rồi tìm hiểu cho ra nhẽ?
+Dialogue: 0,0:53:55.39,0:53:57.15,Default,,0,0,0,,Vì chúng ta chỉ có động thái.
+Dialogue: 0,0:53:57.23,0:53:58.45,Default,,0,0,0,,Để tôi tìm chứng cớ cụ thể đã,
+Dialogue: 0,0:53:58.46,0:54:00.32,Default,,0,0,0,,vì những gì\Nta có hiện giờ chỉ là...
+Dialogue: 0,0:54:00.40,0:54:02.40,Default,,0,0,0,,Những gì chúng ta có\Nlà động cơ gây án.
+Dialogue: 0,0:54:02.48,0:54:06.29,Default,,0,0,0,,Và đám tài xế đã tự trang bị\Nvới vài tên dân phòng cổ hủ.
+Dialogue: 0,0:54:06.29,0:54:08.02,Default,,0,0,0,,Kể chúng tôi nghe\Nvề Hector đi, Brian.
+Dialogue: 0,0:54:08.02,0:54:10.33,Default,,0,0,0,,Thổ dân dùng giáo làm súng ấy mà.\NCho tôi thảnh thơi cái.
+Dialogue: 0,0:54:10.83,0:54:12.84,Default,,0,0,0,,Hector vẫn tiếp tục\Nlàm việc với động cơ,
+Dialogue: 0,0:54:12.84,0:54:14.37,Default,,0,0,0,,nhưng bánh xe không khớp.
+Dialogue: 0,0:54:14.50,0:54:16.25,Default,,0,0,0,,Ai đó đưa giùm tôi\Nđiếu thuốc với!
+Dialogue: 0,0:54:16.33,0:54:18.50,Default,,0,0,0,,- Lấy cho cậu ta một điếu đi.\N- Đừng đưa.
+Dialogue: 0,0:54:18.71,0:54:21.17,Default,,0,0,0,,- Tưởng cậu bỏ rồi?\N- Ừ, bỏ rồi. Cứ đưa một điếu đi.
+Dialogue: 0,0:54:21.25,0:54:23.00,Default,,0,0,0,,- Lấy cho cậu ta một điếu đi.\N- Không!
+Dialogue: 0,0:54:25.34,0:54:26.93,Default,,0,0,0,,Kể tôi nghe về Toretto xem nào.
+Dialogue: 0,0:54:27.18,0:54:29.97,Default,,0,0,0,,Tôi nói rồi, anh ta\Nbị kiểm soát về việc này.
+Dialogue: 0,0:54:30.05,0:54:32.35,Default,,0,0,0,,Đâm đầu vào xe bán tải ư?\NKhông đời nào.
+Dialogue: 0,0:54:32.35,0:54:34.68,Default,,0,0,0,,Có thể là Vince. Nhưng hắn\Nquá đần, không làm nổi đâu.
+Dialogue: 0,0:54:35.06,0:54:37.54,Default,,0,0,0,,Chắc cô em gái cậu nhóc\Nlàm mờ tầm nhìn của anh rồi.
+Dialogue: 0,0:54:37.71,0:54:38.73,Default,,0,0,0,,Anh vừa nói gì?
+Dialogue: 0,0:54:38.85,0:54:39.51,Default,,0,0,0,,Tôi không trách anh.
+Dialogue: 0,0:54:39.51,0:54:42.40,Default,,0,0,0,,Tôi cũng thích ảnh tình nghi\Ncủa cô ta mà.
+Dialogue: 0,0:54:45.19,0:54:46.44,Default,,0,0,0,,Thôi ngay!
+Dialogue: 0,0:54:47.61,0:54:50.20,Default,,0,0,0,,Sao?\NĐịnh đồng hóa tôi hả, Brian?
+Dialogue: 0,0:54:54.87,0:54:57.08,Default,,0,0,0,,Gần đây anh có đọc\Nhồ sơ về Toretto không?
+Dialogue: 0,0:54:57.37,0:54:59.67,Default,,0,0,0,,- Có. Tôi thuộc lòng rồi.\N- Đọc lại đi.
+Dialogue: 0,0:54:59.75,0:55:02.21,Default,,0,0,0,,Hay thôi, đọc cái này đi.
+Dialogue: 0,0:55:03.96,0:55:07.38,Default,,0,0,0,,Có nhớ tôi từng kể anh nghe về gã\Nbị anh ta đánh suýt chết không?
+Dialogue: 0,0:55:07.76,0:55:11.05,Default,,0,0,0,,Terrone đã làm việc này\Nvới một chiếc cần siết lực.
+Dialogue: 0,0:55:11.55,0:55:13.55,Default,,0,0,0,,Quả là một mẫu người tự chủ.
+Dialogue: 0,0:55:16.43,0:55:22.77,Default,,0,0,0,,Tôi cần thêm vài ngày nữa.
+Dialogue: 0,0:55:25.07,0:55:27.65,Default,,0,0,0,,Gắn TR7 vào đây,\Ncùng một ổ bi nâng cấp.
+Dialogue: 0,0:55:27.99,0:55:31.91,Default,,0,0,0,,Trò nó sẽ làm được\Nlà tăng tốc cực kì nhanh.
+Dialogue: 0,0:55:32.07,0:55:34.58,Default,,0,0,0,,- Tôi tăng áp lên 24 psi.\N- Hiểu rồi.
+Dialogue: 0,0:55:38.08,0:55:39.83,Default,,0,0,0,,Tối nay có kế hoạch gì\Nto tát không?
+Dialogue: 0,0:55:41.96,0:55:44.13,Default,,0,0,0,,Có. Bọn tôi rủ nhau\Nra ngoài ăn tối.
+Dialogue: 0,0:55:45.75,0:55:48.30,Default,,0,0,0,,Con bé mà đau khổ\Nlà tôi bẻ cổ anh đấy.
+Dialogue: 0,0:55:48.92,0:55:50.43,Default,,0,0,0,,Không có chuyện đó đâu.
+Dialogue: 0,0:55:55.60,0:55:57.43,Default,,0,0,0,,Tôi muốn cho anh xem thứ này.
+Dialogue: 0,0:56:07.53,0:56:08.61,Default,,0,0,0,,Chà!
+Dialogue: 0,0:56:11.70,0:56:13.45,Default,,0,0,0,,Tôi và ông cụ thân sinh\Nchế ra nó đấy.
+Dialogue: 0,0:56:14.28,0:56:16.66,Default,,0,0,0,,Động cơ Detroit 900 mã lực.
+Dialogue: 0,0:56:17.95,0:56:19.20,Default,,0,0,0,,Một con quái vật.
+Dialogue: 0,0:56:19.79,0:56:21.12,Default,,0,0,0,,Anh biết nó chạy thế nào\Nở Palmdale không?
+Dialogue: 0,0:56:21.12,0:56:22.67,Default,,0,0,0,,Không. Sao?
+Dialogue: 0,0:56:22.83,0:56:24.29,Default,,0,0,0,,Chín giây chẵn.
+Dialogue: 0,0:56:25.79,0:56:27.96,Default,,0,0,0,,- Trời.\N- Bố tôi từng lái nó.
+Dialogue: 0,0:56:28.46,0:56:32.68,Default,,0,0,0,,Nhiều mô-men xoắn đến nỗi,\Nvỏ gầm máy văng đi đâu mất.
+Dialogue: 0,0:56:33.80,0:56:35.72,Default,,0,0,0,,Khó lòng bắt nó\Nđi đúng đường được.
+Dialogue: 0,0:56:36.47,0:56:37.90,Default,,0,0,0,,Thế lần lái hay nhất\Ncủa anh thế nào?
+Dialogue: 0,0:56:37.90,0:56:39.39,Default,,0,0,0,,Tôi chưa bao giờ lái nó.
+Dialogue: 0,0:56:39.48,0:56:40.56,Default,,0,0,0,,Sao vậy?
+Dialogue: 0,0:56:43.31,0:56:45.31,Default,,0,0,0,,Nó làm tôi sợ.
+Dialogue: 0,0:56:47.69,0:56:48.98,Default,,0,0,0,,Bố tôi đó.
+Dialogue: 0,0:56:50.49,0:56:53.15,Default,,0,0,0,,Lúc ấy ông đang tham dự\Ngiải đua chuyên nghiệp.
+Dialogue: 0,0:56:53.57,0:56:55.32,Default,,0,0,0,,Trận đua cuối cùng của mùa giải.
+Dialogue: 0,0:56:56.41,0:56:57.76,Default,,0,0,0,,Một gã tên Kenny Linder
+Dialogue: 0,0:56:57.76,0:57:00.66,Default,,0,0,0,,đã tiến sát từ bên hông,\Nở khúc quanh cuối.
+Dialogue: 0,0:57:01.41,0:57:02.79,Default,,0,0,0,,Hắn cắt cái hãm xung ra
+Dialogue: 0,0:57:02.79,0:57:05.00,Default,,0,0,0,,và bố tôi va vào tường\Nở tốc độ 120.
+Dialogue: 0,0:57:08.17,0:57:10.51,Default,,0,0,0,,Tôi đứng nhìn bố tôi\Nbị thiêu tới chết.
+Dialogue: 0,0:57:13.05,0:57:15.18,Default,,0,0,0,,Tôi nhớ như in\Ntiếng thét của ông.
+Dialogue: 0,0:57:18.35,0:57:22.85,Default,,0,0,0,,Song những người ở đó nói rằng\Nông đã chết trước khi bình xăng nổ.
+Dialogue: 0,0:57:29.23,0:57:31.65,Default,,0,0,0,,Họ bảo chính tôi\Nmới là người la hét.
+Dialogue: 0,0:57:35.20,0:57:37.57,Default,,0,0,0,,Tôi bắt gặp Linder\Nmột tuần sau đó.
+Dialogue: 0,0:57:38.99,0:57:42.37,Default,,0,0,0,,Tay cầm mỏ lết,\Nvà tôi đã đánh hắn.
+Dialogue: 0,0:57:42.70,0:57:44.70,Default,,0,0,0,,Tôi không có ý định\Ncứ thế đánh hắn,
+Dialogue: 0,0:57:44.70,0:57:47.42,Default,,0,0,0,,song khi dừng lại,\Ntôi không nhấc nổi tay nữa.
+Dialogue: 0,0:57:52.84,0:57:55.09,Default,,0,0,0,,Hắn là bảo vệ\Nở một trường trung học.
+Dialogue: 0,0:57:56.22,0:57:58.76,Default,,0,0,0,,Phải đi xe buýt\Nđến chỗ làm hằng ngày.
+Dialogue: 0,0:58:00.01,0:58:02.72,Default,,0,0,0,,Và rồi họ đã cấm tôi\Nkhông được đua suốt đời.
+Dialogue: 0,0:58:08.36,0:58:10.86,Default,,0,0,0,,Tôi sống từng phần tư dặm một.
+Dialogue: 0,0:58:12.69,0:58:13.72,Default,,0,0,0,,Chuyện khác\Nkhông quan trọng nữa.
+Dialogue: 0,0:58:13.72,0:58:15.52,Default,,0,0,0,,Không phải tiền thế chấp,\Nkhông phải cửa hiệu,
+Dialogue: 0,0:58:15.57,0:58:18.07,Default,,0,0,0,,không phải anh em\Nvà chuyện tào lao của họ.
+Dialogue: 0,0:58:19.74,0:58:22.12,Default,,0,0,0,,Với 10 giây hoặc ít hơn đó,
+Dialogue: 0,0:58:23.62,0:58:25.29,Default,,0,0,0,,tôi được tự do.
+Dialogue: 0,0:58:45.77,0:58:49.06,Default,,0,0,0,,Thế rồi sao lại có\Ncả băng nhóm như vậy?
+Dialogue: 0,0:58:49.27,0:58:50.40,Default,,0,0,0,,- Sao anh?\N- Băng nhóm.
+Dialogue: 0,0:58:50.48,0:58:52.90,Default,,0,0,0,,Băng nhóm á? Không,\Nhọ có tự xưng băng nhóm gì đâu.
+Dialogue: 0,0:58:52.98,0:58:55.32,Default,,0,0,0,,- Họ tự xưng là gì vậy?\N- Một nhóm thôi.
+Dialogue: 0,0:58:55.44,0:58:59.45,Default,,0,0,0,,- Họ tự cho là một nhóm.\N- Rồi. Thế sao lại có nhóm thế em?
+Dialogue: 0,0:58:59.91,0:59:02.16,Default,,0,0,0,,À, đó là cả bề dày lịch sử.
+Dialogue: 0,0:59:03.62,0:59:04.55,Default,,0,0,0,,Anh có thì giờ mà.
+Dialogue: 0,0:59:04.55,0:59:07.29,Default,,0,0,0,,Vâng. Vince lớn lên\Ncùng anh trai em.
+Dialogue: 0,0:59:08.29,0:59:11.38,Default,,0,0,0,,Thật ra, anh ấy đâu có lớn lên,\Nanh cũng thấy đấy.
+Dialogue: 0,0:59:11.46,0:59:13.46,Default,,0,0,0,,Nhưng họ là bạn thuở ấu thơ.
+Dialogue: 0,0:59:13.67,0:59:16.30,Default,,0,0,0,,Và Letty, cô ấy sống ở cuối phố.
+Dialogue: 0,0:59:16.47,0:59:19.68,Default,,0,0,0,,Cũng mê xe hơi.\NTừ lúc mới lên 10 thì phải.
+Dialogue: 0,0:59:19.80,0:59:23.35,Default,,0,0,0,,Thế là tự nhiên,\Nanh tôi luôn được cô ấy chú ý.
+Dialogue: 0,0:59:24.01,0:59:27.68,Default,,0,0,0,,- Khi cô ấy lên 16...\N- Thì cô ấy được Dom chú ý.
+Dialogue: 0,0:59:27.98,0:59:28.99,Default,,0,0,0,,Đúng vậy.
+Dialogue: 0,0:59:28.99,0:59:30.94,Default,,0,0,0,,Chuyện thật hài hước,\Nphải không anh?
+Dialogue: 0,0:59:36.19,0:59:38.69,Default,,0,0,0,,Cách nào mà Jesse lại dính vào\Ntoàn bộ chuyện này?
+Dialogue: 0,0:59:38.82,0:59:43.82,Default,,0,0,0,,Jesse. À, Jesse và Leon chợt xuất hiện\Nmột tối nọ, và chưa bao giờ rời đi cả.
+Dialogue: 0,0:59:44.66,0:59:47.95,Default,,0,0,0,,Anh trai em thế mà,\Nanh biết đấy. Dom giống như.
+Dialogue: 0,0:59:49.50,0:59:51.46,Default,,0,0,0,,Anh ấy giống như trọng lực vậy.
+Dialogue: 0,0:59:52.54,0:59:54.79,Default,,0,0,0,,Thứ gì cũng bị anh ấy cuốn hút.
+Dialogue: 0,0:59:56.38,0:59:57.80,Default,,0,0,0,,Anh cũng vậy.
+Dialogue: 0,1:00:00.01,1:00:02.84,Default,,0,0,0,,Không đâu.
+Dialogue: 0,1:00:03.35,1:00:06.14,Default,,0,0,0,,Điều duy nhất cuốn anh vào\Nchính là em.
+Dialogue: 0,1:00:06.22,1:00:09.10,Default,,0,0,0,,Làm bạn với anh trai em\Nchỉ là phần phụ.
+Dialogue: 0,1:00:11.85,1:00:13.35,Default,,0,0,0,,Hay đó.
+Dialogue: 0,1:00:15.19,1:00:18.78,Default,,0,0,0,,Thi thoảng nghe vậy cũng vui.
+Dialogue: 0,1:00:22.36,1:00:24.03,Default,,0,0,0,,Anh muốn dạo một vòng không?
+Dialogue: 0,1:01:02.15,1:01:02.39,Default,,0,0,0,,Alô?
+Dialogue: 0,1:01:02.39,1:01:04.41,Default,,0,0,0,,Băng cướp lại tấn công rồi.
+Dialogue: 0,1:01:04.49,1:01:09.41,Default,,0,0,0,,Bilkins vừa quyết định 17:00\Nsẽ tấn công bè lũ Johnny Tran.
+Dialogue: 0,1:01:09.66,1:01:11.50,Default,,0,0,0,,Trừ khi anh nói khác.
+Dialogue: 0,1:01:11.58,1:01:13.50,Default,,0,0,0,,Nếu anh đồng ý thì cứ gật.
+Dialogue: 0,1:01:14.08,1:01:16.08,Default,,0,0,0,,- Rồi.\N- Ai thế anh?
+Dialogue: 0,1:01:18.38,1:01:20.09,Default,,0,0,0,,Gọi nhầm số ấy mà.
+Dialogue: 0,1:04:12.14,1:04:14.51,Default,,0,0,0,,Vâng, thưa sếp.\NTôi hiểu, nhưng mà...
+Dialogue: 0,1:04:14.72,1:04:17.39,Default,,0,0,0,,Vâng.\NVâng, thưa sếp.
+Dialogue: 0,1:04:17.60,1:04:19.02,Default,,0,0,0,,Tôi hiểu rồi.
+Dialogue: 0,1:04:23.40,1:04:25.44,Default,,0,0,0,,Đầu đĩa DVD được buôn hợp pháp.
+Dialogue: 0,1:04:25.52,1:04:28.78,Default,,0,0,0,,Trong tay ta chỉ có\Nvài ba vũ khí rẻ tiền
+Dialogue: 0,1:04:28.86,1:04:31.11,Default,,0,0,0,,và đống biên lai phạt\Nvi phạm tốc độ thôi.
+Dialogue: 0,1:04:31.24,1:04:32.91,Default,,0,0,0,,- Vậy là chúng được thả?\N- Phải.
+Dialogue: 0,1:04:33.11,1:04:34.70,Default,,0,0,0,,Bố già bảo lãnh cho chúng.
+Dialogue: 0,1:04:35.78,1:04:39.58,Default,,0,0,0,,Kiểu tình báo tôi có thể\Nmong đợi ở anh đây sao, O'Conner?
+Dialogue: 0,1:04:44.42,1:04:47.55,Default,,0,0,0,,- Ông định đổ lỗi cho tôi?\N- Tôi muốn đổ cho ai mà chả được.
+Dialogue: 0,1:04:47.63,1:04:50.38,Default,,0,0,0,,- Quà tặng công việc mà.\N- Khoan, ông không thể đổ...
+Dialogue: 0,1:04:50.47,1:04:52.30,Default,,0,0,0,,Khoan đã.\NĐể tôi nói anh nghe.
+Dialogue: 0,1:04:52.43,1:04:54.59,Default,,0,0,0,,Tôi đếch quan tâm\Nnếu anh buộc phải nhắm bắn ai đó
+Dialogue: 0,1:04:54.59,1:04:56.64,Default,,0,0,0,,và thổi bay vỏ bọc của anh.
+Dialogue: 0,1:04:56.72,1:04:59.22,Default,,0,0,0,,Anh có 36 tiếng\Nđể xử tên khốn này
+Dialogue: 0,1:04:59.31,1:05:02.43,Default,,0,0,0,,hoặc biết đâu anh lại muốn\Nnghĩ đến một nghề khác.
+Dialogue: 0,1:05:13.49,1:05:16.91,Default,,0,0,0,,Là Toretto đấy, Brian.\NLuôn là Toretto.
+Dialogue: 0,1:05:18.29,1:05:20.16,Default,,0,0,0,,Tran và Hector là...
+Dialogue: 0,1:05:20.58,1:05:22.33,Default,,0,0,0,,Chúng chỉ là khí có mùi.
+Dialogue: 0,1:05:25.63,1:05:28.34,Default,,0,0,0,,Tôi biết anh dối trá với tôi.\NCâu hỏi của tôi đây:
+Dialogue: 0,1:05:28.42,1:05:32.09,Default,,0,0,0,,Anh có tự dối lòng mình\Nchỉ vì không hiểu thấu Mia không?
+Dialogue: 0,1:05:34.68,1:05:36.68,Default,,0,0,0,,Anh ấy không quay lại\Nnhà tù đâu.
+Dialogue: 0,1:05:37.68,1:05:40.51,Default,,0,0,0,,Chà, đó là lựa chọn\Nanh ta sẽ phải quyết thôi.
+Dialogue: 0,1:05:44.64,1:05:47.02,Default,,0,0,0,,Có nhiều kiểu gia đình mà, Brian.
+Dialogue: 0,1:05:48.48,1:05:51.28,Default,,0,0,0,,Và đó cũng là lựa chọn\Nanh sẽ phải quyết.
+Dialogue: 0,1:06:09.29,1:06:11.30,Default,,0,0,0,,Sẵn sàng chưa?
+Dialogue: 0,1:06:37.70,1:06:38.70,Default,,0,0,0,,Xe đẹp đấy!
+Dialogue: 0,1:06:39.20,1:06:40.53,Default,,0,0,0,,Giá bán lẻ là bao nhiêu thế?
+Dialogue: 0,1:06:41.16,1:06:43.74,Default,,0,0,0,,Sắm không nổi đâu, nhóc.\NFerrari đấy.
+Dialogue: 0,1:06:49.92,1:06:51.42,Default,,0,0,0,,Cho hắn hít khói đi.
+Dialogue: 0,1:07:46.35,1:07:48.14,Default,,0,0,0,,Sao thế, Brian?
+Dialogue: 0,1:07:49.10,1:07:50.81,Default,,0,0,0,,Không sao đâu, anh bạn.
+Dialogue: 0,1:07:51.27,1:07:54.52,Default,,0,0,0,,Thôi đi.\NRõ là có chuyện còn gì.
+Dialogue: 0,1:07:55.07,1:07:58.78,Default,,0,0,0,,Thì tôi cũng có ngày vui ngày buồn\Nnhư mọi người thôi.
+Dialogue: 0,1:07:59.45,1:08:01.07,Default,,0,0,0,,Brian, đừng đánh mất\Nvẻ điềm tĩnh của anh.
+Dialogue: 0,1:08:01.07,1:08:03.03,Default,,0,0,0,,Phiếu ăn của anh đấy.
+Dialogue: 0,1:08:04.99,1:08:07.83,Default,,0,0,0,,Phiếu ăn của tôi?\NTôi không tự trả tiền tôm được sao?
+Dialogue: 0,1:08:08.00,1:08:09.46,Default,,0,0,0,,Tôi trả hết rồi.
+Dialogue: 0,1:08:09.87,1:08:12.46,Default,,0,0,0,,Khoan, đó là điều\Nanh chưa hiểu về tôi đấy.
+Dialogue: 0,1:08:12.54,1:08:16.21,Default,,0,0,0,,Tôi không cần của bố thí.\NTôi tự biết cách kiếm tiền.
+Dialogue: 0,1:08:17.13,1:08:19.51,Default,,0,0,0,,Tôi cần thứ gì đó ở bên mình,\Nnhư anh vậy.
+Dialogue: 0,1:08:19.59,1:08:21.55,Default,,0,0,0,,Ý anh là sao, như tôi?
+Dialogue: 0,1:08:21.84,1:08:22.73,Default,,0,0,0,,Vậy tức là sao?
+Dialogue: 0,1:08:22.73,1:08:24.72,Default,,0,0,0,,Thì ý tôi là vậy đấy.
+Dialogue: 0,1:08:24.80,1:08:27.51,Default,,0,0,0,,- Như tôi nghĩa là làm sao?\N- Đừng cố...
+Dialogue: 0,1:08:27.81,1:08:29.73,Default,,0,0,0,,Tôi đâu có ngu, được chứ?
+Dialogue: 0,1:08:30.10,1:08:34.19,Default,,0,0,0,,Tôi biết anh không cách nào trả nổi\Ncho những thứ anh có dưới nắp ca-pô...
+Dialogue: 0,1:08:34.27,1:08:37.65,Default,,0,0,0,,Sao anh trả nổi cho những thứ\Ndưới nắp ca-pô những chiếc xe kia
+Dialogue: 0,1:08:37.73,1:08:40.49,Default,,0,0,0,,bằng việc nâng cấp xe\Nvà bán tạp hóa chứ!
+Dialogue: 0,1:08:41.32,1:08:44.32,Default,,0,0,0,,Dù anh biết chuyện gì đi nữa,\Ntôi cũng muốn biết nó.
+Dialogue: 0,1:09:07.18,1:09:09.26,Default,,0,0,0,,- Sao, chuyện gì thế?\N- Đọc đi.
+Dialogue: 0,1:09:10.06,1:09:12.35,Default,,0,0,0,,- Cái này để làm gì?\N- Hướng dẫn đấy.
+Dialogue: 0,1:09:14.35,1:09:16.06,Default,,0,0,0,,Tới dự Race Wars.
+Dialogue: 0,1:09:16.56,1:09:18.36,Default,,0,0,0,,Để xem cậu làm ăn ra sao.
+Dialogue: 0,1:09:19.36,1:09:20.98,Default,,0,0,0,,Sau đó hẵng nói chuyện tiếp.
+Dialogue: 0,1:10:07.28,1:10:08.91,Default,,0,0,0,,- Dạo này thế nào?\N- Gì thế?
+Dialogue: 0,1:10:08.99,1:10:11.66,Default,,0,0,0,,- Chào đón anh tới Race Wars.\N- Tuyệt. Cảm ơn nhé.
+Dialogue: 0,1:10:35.06,1:10:36.77,Default,,0,0,0,,Cưng. Ê, cưng!
+Dialogue: 0,1:10:37.94,1:10:39.77,Default,,0,0,0,,Em nên nhìn bên hông ấy.
+Dialogue: 0,1:10:39.86,1:10:42.00,Default,,0,0,0,,Anh không muốn xả khói\Nlên khuôn mặt xinh đẹp kia đâu.
+Dialogue: 0,1:10:42.00,1:10:43.79,Default,,0,0,0,,Nhét tiền vào lỗ mồm đi.
+Dialogue: 0,1:10:43.79,1:10:46.37,Default,,0,0,0,,Anh sẽ đua với em cho chiếc mông\Nnhỏ nhắn xinh xắn kia nhé.
+Dialogue: 0,1:10:46.37,1:10:49.03,Default,,0,0,0,,Anh thích mông, sao không lên\NĐại lộ Hollywood ấy?
+Dialogue: 0,1:10:49.12,1:10:52.20,Default,,0,0,0,,Muốn tiết ra nhiều adrenaline,\Nsẽ mất gấp đôi thế đấy.
+Dialogue: 0,1:10:52.29,1:10:55.29,Default,,0,0,0,,Ngay tại đây. Ngay bây giờ.\NSẽ thế nào nhỉ?
+Dialogue: 0,1:10:57.96,1:10:59.37,Default,,0,0,0,,Em được đấy.
+Dialogue: 0,1:11:19.40,1:11:21.44,Default,,0,0,0,,Thêm một cú hít bụi nữa nhé.
+Dialogue: 0,1:11:24.73,1:11:26.65,Default,,0,0,0,,Mau lên.\NEm có gì nào?
+Dialogue: 0,1:11:27.36,1:11:28.82,Default,,0,0,0,,Chào nhé.
+Dialogue: 0,1:12:04.82,1:12:07.78,Default,,0,0,0,,- Khỏe chứ?\N- Chào, khỏe chứ, Jesse?
+Dialogue: 0,1:12:08.24,1:12:09.53,Default,,0,0,0,,Cầm gì trên tay thế?
+Dialogue: 0,1:12:09.61,1:12:11.99,Default,,0,0,0,,Vứt giấy buộc thôi việc cho xe,\Nnhư cậu thôi.
+Dialogue: 0,1:12:12.07,1:12:13.64,Default,,0,0,0,,Giấy thôi việc cho chiếc nào?\NThe Jetta?
+Dialogue: 0,1:12:13.64,1:12:14.70,Default,,0,0,0,,Ừ.
+Dialogue: 0,1:12:15.12,1:12:16.55,Default,,0,0,0,,Cậu không thể đem cược\Nxe của bố cậu được.
+Dialogue: 0,1:12:16.55,1:12:17.66,Default,,0,0,0,,Không sao đâu.
+Dialogue: 0,1:12:17.75,1:12:19.02,Default,,0,0,0,,Tớ thua sao được.
+Dialogue: 0,1:12:19.02,1:12:22.62,Default,,0,0,0,,Tên khùng này sẽ lái Honda 2000.\NTớ sẽ thắng.
+Dialogue: 0,1:12:22.79,1:12:27.34,Default,,0,0,0,,Như thế, tớ và bố tớ có thể lượn\Nkhi ông ấy ra tù. Thật tốt đẹp.
+Dialogue: 0,1:12:27.42,1:12:31.05,Default,,0,0,0,,Họ sẽ lại quẳng ông ấy vào tù\Nsau khi ông ấy giết cậu thôi.
+Dialogue: 0,1:12:38.68,1:12:40.64,Default,,0,0,0,,Cậu hình dung ra chiến thắng đi.
+Dialogue: 0,1:12:40.73,1:12:42.23,Default,,0,0,0,,Hình dung ra\Nchiến thắng nhé, Jesse.
+Dialogue: 0,1:12:42.23,1:12:44.40,Default,,0,0,0,,Tớ nói nghiêm túc đấy.\NPhải nghe lời tớ, anh bạn ạ.
+Dialogue: 0,1:12:44.48,1:12:46.02,Default,,0,0,0,,Cậu đua với ai thế?
+Dialogue: 0,1:12:50.40,1:12:52.61,Default,,0,0,0,,Jessie, đừng đua!
+Dialogue: 0,1:12:52.74,1:12:56.41,Default,,0,0,0,,Tớ dám cá hắn rót hơn trăm ngàn đô\Ncho những thứ dưới nắp ca-pô đó!
+Dialogue: 0,1:13:19.56,1:13:21.14,Default,,0,0,0,,Quá sớm đấy, đàn em ạ.
+Dialogue: 0,1:13:24.77,1:13:25.81,Default,,0,0,0,,Không!
+Dialogue: 0,1:13:28.78,1:13:29.98,Default,,0,0,0,,Mẹ kiếp!
+Dialogue: 0,1:13:30.61,1:13:31.78,Default,,0,0,0,,Trời đất!
+Dialogue: 0,1:13:42.21,1:13:44.87,Default,,0,0,0,,Ê! Ngẩng đầu lên, anh bạn.\NCó rắc rối rồi.
+Dialogue: 0,1:13:44.96,1:13:46.71,Default,,0,0,0,,- Sao thế?\N- Jesse.
+Dialogue: 0,1:13:48.21,1:13:50.25,Default,,0,0,0,,Jesse đi đâu thế?
+Dialogue: 0,1:13:50.42,1:13:51.97,Default,,0,0,0,,- Cậu ấy đem giấy tờ xe ra đua với Tran.
+Dialogue: 0,1:13:51.97,1:13:53.92,Default,,0,0,0,,Tiên sư.
+Dialogue: 0,1:14:05.60,1:14:06.76,Default,,0,0,0,,Nó đi đâu rồi?
+Dialogue: 0,1:14:06.76,1:14:08.73,Default,,0,0,0,,Cậu ấy tới chỗ rửa xe rồi.
+Dialogue: 0,1:14:08.94,1:14:10.90,Default,,0,0,0,,Sao cũng được.\NLấy xe về cho tao.
+Dialogue: 0,1:14:11.48,1:14:13.11,Default,,0,0,0,,Lấy xe về cho mày?
+Dialogue: 0,1:14:14.07,1:14:15.52,Default,,0,0,0,,Bọn tao đâu ở trên đất của mày.
+Dialogue: 0,1:14:15.52,1:14:18.45,Default,,0,0,0,,Nên xem lại mày đang\Nnói chuyện kiểu đó với ai thì hơn.
+Dialogue: 0,1:14:18.99,1:14:20.12,Default,,0,0,0,,Toretto!
+Dialogue: 0,1:14:23.41,1:14:25.29,Default,,0,0,0,,Đội đặc nhiệm đã vào nhà tao,
+Dialogue: 0,1:14:26.25,1:14:30.50,Default,,0,0,0,,vô lễ với mọi người trong gia đình,\Nchỉ vì có kẻ chỉ điểm tao.
+Dialogue: 0,1:14:31.21,1:14:33.67,Default,,0,0,0,,Và mày biết không?\NChính là mày!
+Dialogue: 0,1:14:58.03,1:15:00.07,Default,,0,0,0,,Thả anh ta ra, anh bạn.
+Dialogue: 0,1:15:09.42,1:15:11.21,Default,,0,0,0,,Bình tĩnh nào, Dom.\NThôi mà!
+Dialogue: 0,1:15:11.29,1:15:13.09,Default,,0,0,0,,Tao chưa bao giờ\Nchỉ điểm đứa nào hết!
+Dialogue: 0,1:15:13.21,1:15:15.71,Default,,0,0,0,,Chưa bao giờ chỉ điểm một ai!
+Dialogue: 0,1:15:50.54,1:15:55.80,Default,,0,0,0,,Mia.
+Dialogue: 0,1:16:00.55,1:16:02.93,Default,,0,0,0,,Em tôn trọng anh\Nvà chưa bao giờ nói cợt nhả.
+Dialogue: 0,1:16:03.01,1:16:04.76,Default,,0,0,0,,Giờ em yêu cầu anh\Nkhông được đi đấy.
+Dialogue: 0,1:16:04.85,1:16:06.35,Default,,0,0,0,,Anh làm thế này\Nvì cả hai chúng ta mà.
+Dialogue: 0,1:16:06.35,1:16:07.72,Default,,0,0,0,,Đừng có nói câu trò mèo đó.
+Dialogue: 0,1:16:07.81,1:16:09.27,Default,,0,0,0,,Anh làm thế\Nvì bản thân mình thì có.
+Dialogue: 0,1:16:09.35,1:16:13.48,Default,,0,0,0,,Sao anh cứ nhất quyết làm thế nhỉ?\NDom, đừng làm thế, xin anh đấy.
+Dialogue: 0,1:16:25.45,1:16:27.95,Default,,0,0,0,,- Mia, chuyện gì thế em?\N- Sao?
+Dialogue: 0,1:16:28.04,1:16:29.15,Default,,0,0,0,,Em biết anh nói gì mà.
+Dialogue: 0,1:16:29.15,1:16:30.54,Default,,0,0,0,,Không, em đâu có biết.
+Dialogue: 0,1:16:30.62,1:16:33.88,Default,,0,0,0,,Lần nào Dom rời đi\Nem cũng khóc thế sao?
+Dialogue: 0,1:16:34.00,1:16:35.54,Default,,0,0,0,,Anh làm sao vậy?
+Dialogue: 0,1:16:35.63,1:16:38.21,Default,,0,0,0,,Thế anh trai em bỏ đi\Nlúc nửa đêm thế này làm gì chứ?
+Dialogue: 0,1:16:38.30,1:16:39.82,Default,,0,0,0,,Anh đang nói đến vụ xe tải đấy.\NEm biết vụ xe tải chứ?
+Dialogue: 0,1:16:39.82,1:16:41.47,Default,,0,0,0,,Không hề, anh Brian!\NXe tải nào chứ?
+Dialogue: 0,1:16:41.55,1:16:45.43,Default,,0,0,0,,- Chúa ơi! Gì thế?\N- Nghe anh nói đã.
+Dialogue: 0,1:16:46.68,1:16:48.14,Default,,0,0,0,,Mia, anh là cớm.
+Dialogue: 0,1:16:49.68,1:16:52.35,Default,,0,0,0,,Anh nói cái gì thế, Brian?\NThế này là sao?
+Dialogue: 0,1:16:52.44,1:16:55.90,Default,,0,0,0,,Từ lần đầu gặp em,\Nanh đã là cớm chìm.
+Dialogue: 0,1:16:57.15,1:16:58.36,Default,,0,0,0,,Anh là cớm.
+Dialogue: 0,1:17:03.41,1:17:05.03,Default,,0,0,0,,Khốn nạn thật.
+Dialogue: 0,1:17:07.87,1:17:09.16,Default,,0,0,0,,Đồ khốn nạn!
+Dialogue: 0,1:17:11.54,1:17:13.37,Default,,0,0,0,,- Mia!\N- Buông tôi ra, Brian!
+Dialogue: 0,1:17:13.46,1:17:15.21,Default,,0,0,0,,Mia!\NNghe anh nói đã!
+Dialogue: 0,1:17:16.46,1:17:19.05,Default,,0,0,0,,Những câu anh nói\Ncảm nhận về em là thật.
+Dialogue: 0,1:17:19.13,1:17:21.76,Default,,0,0,0,,Thề có Chúa.\NEm phải tin anh, Mia.
+Dialogue: 0,1:17:21.84,1:17:23.70,Default,,0,0,0,,Song đây không phải\Nchuyện riêng của em với anh.
+Dialogue: 0,1:17:23.70,1:17:25.47,Default,,0,0,0,,Anh trai em đang\Nthực hiện phi vụ ngoài kia.
+Dialogue: 0,1:17:25.55,1:17:26.77,Default,,0,0,0,,Sắp hết thời gian rồi.
+Dialogue: 0,1:17:26.77,1:17:29.01,Default,,0,0,0,,Đám tài xế xe tải đó\Nsẽ không nhịn nữa đâu.
+Dialogue: 0,1:17:29.10,1:17:32.85,Default,,0,0,0,,Có thể họ sẽ làm ra nhẽ đêm nay,\Nsong mọi cơ quan hành pháp
+Dialogue: 0,1:17:32.94,1:17:34.64,Default,,0,0,0,,đang trách họ rồi.
+Dialogue: 0,1:17:34.73,1:17:37.65,Default,,0,0,0,,Nếu em không muốn\Nchuyện gì xảy ra họ,
+Dialogue: 0,1:17:37.73,1:17:40.82,Default,,0,0,0,,em phải lên chiếc xe kia\Nvới anh ngay và giúp anh.
+Dialogue: 0,1:17:42.36,1:17:45.70,Default,,0,0,0,,Mia, em là người duy nhất\Ngiúp được anh lúc này.
+Dialogue: 0,1:17:46.49,1:17:49.83,Default,,0,0,0,,Mia, xin em đấy.\NHãy giúp anh.
+Dialogue: 0,1:18:01.36,1:18:04.37,Default,,0,0,0,,Đống Civic được giấu đâu đó\Nngoại ô Thermal.
+Dialogue: 0,1:18:04.38,1:18:05.79,Default,,0,0,0,,Họ sẽ không\Nquay ngược trở lại đâu,
+Dialogue: 0,1:18:05.79,1:18:07.97,Default,,0,0,0,,mà Quốc lộ 10 lại bị\Ntuần tra quá ngặt.
+Dialogue: 0,1:18:08.05,1:18:11.01,Default,,0,0,0,,- Chúng ta còn lại gì đây?\N- Những thứ này.
+Dialogue: 0,1:18:19.94,1:18:22.82,Default,,0,0,0,,- Nextel.\N- Sĩ quan Brian O'Conner đây.
+Dialogue: 0,1:18:22.99,1:18:25.49,Default,,0,0,0,,Số thẻ 34762.
+Dialogue: 0,1:18:25.49,1:18:27.36,Default,,0,0,0,,Tôi cần lần theo một số di động.
+Dialogue: 0,1:18:27.57,1:18:30.62,Default,,0,0,0,,- Rồi. Số di động là gì?\N- Mia, số nào?
+Dialogue: 0,1:18:32.75,1:18:35.91,Default,,0,0,0,,Mau nào, Mia. Cô ấy đang cần\Nsố di động của Dom đấy.
+Dialogue: 0,1:18:39.25,1:18:43.96,Default,,0,0,0,,323-555-6439.
+Dialogue: 0,1:18:45.05,1:18:46.84,Default,,0,0,0,,Cảm ơn em.
+Dialogue: 0,1:18:46.84,1:18:47.84,Default,,0,0,0,,Ừ, cô nghe rõ rồi chứ?
+Dialogue: 0,1:19:13.83,1:19:17.66,Default,,0,0,0,,Rồi, chúng ta là một.\NLetty, anh cần em yểm trợ bên trái.
+Dialogue: 0,1:19:19.96,1:19:23.29,Default,,0,0,0,,Lần này em gái cậu nói đúng đấy.\NCảm giác không ổn tẹo nào.
+Dialogue: 0,1:19:23.42,1:19:27.55,Default,,0,0,0,,- Đừng thế.\N- Có gì không ổn rồi.
+Dialogue: 0,1:19:27.63,1:19:27.91,Default,,0,0,0,,Thôi ngay!
+Dialogue: 0,1:19:27.91,1:19:30.47,Default,,0,0,0,,Ta không nên làm chuyện này\Nmà không có Jessie.
+Dialogue: 0,1:19:31.60,1:19:34.56,Default,,0,0,0,,Đây chính là vỉa chính.\NTa đã theo dõi vụ này ba tháng nay.
+Dialogue: 0,1:19:34.64,1:19:37.14,Default,,0,0,0,,Sau vụ này sẽ là\Nmột kì nghỉ dài cho cả nhóm.
+Dialogue: 0,1:19:37.23,1:19:39.19,Default,,0,0,0,,- Đi thôi.\N- Mong là vậy.
+Dialogue: 0,1:19:42.73,1:19:45.82,Default,,0,0,0,,Nghe này, đêm nọ anh mơ thấy
+Dialogue: 0,1:19:46.32,1:19:49.03,Default,,0,0,0,,anh và em cùng đến\Nbãi biển ở Mê-hi-cô.
+Dialogue: 0,1:19:49.41,1:19:51.45,Default,,0,0,0,,- Thật à?\N- Thật chứ.
+Dialogue: 0,1:19:54.62,1:19:56.79,Default,,0,0,0,,Nào, biến giấc mơ\Nthành hiện thực đi.
+Dialogue: 0,1:19:59.87,1:20:02.84,Default,,0,0,0,,Leon, nhớ theo dõi bộ quét.
+Dialogue: 0,1:20:02.84,1:20:04.38,Default,,0,0,0,,Đã rõ.
+Dialogue: 0,1:20:07.92,1:20:09.97,Default,,0,0,0,,Được rồi, lên đường.
+Dialogue: 0,1:20:19.48,1:20:20.48,Default,,0,0,0,,Alô?
+Dialogue: 0,1:20:20.56,1:20:23.53,Default,,0,0,0,,{\i1}Rồi, chúng tôi đã lần ra,\Nsố di động đó đang ở phía Bắc.{\i0}
+Dialogue: 0,1:20:23.53,1:20:26.14,Default,,0,0,0,,{\i1}Cột cây số 114,\Nngoại ô Coachella.{\i0}
+Dialogue: 0,1:20:26.14,1:20:28.23,Default,,0,0,0,,{\i1}Chúng tôi sẽ tiếp tục\Nlần theo, Sĩ quan ạ.{\i0}
+Dialogue: 0,1:20:28.57,1:20:29.99,Default,,0,0,0,,Cho anh xem cái nào.
+Dialogue: 0,1:20:34.78,1:20:37.04,Default,,0,0,0,,Có lẽ chúng ta còn cách họ\Nkhoảng 65 cây nữa thôi.
+Dialogue: 0,1:20:37.45,1:20:42.37,Default,,0,0,0,,Anh định làm gì?
+Dialogue: 0,1:21:14.66,1:21:16.74,Default,,0,0,0,,Rồi! Xuất kích!
+Dialogue: 0,1:21:32.42,1:21:34.88,Default,,0,0,0,,Mọi chuyện ổn cả.\NBộ quét không có gì hết.
+Dialogue: 0,1:21:34.97,1:21:36.26,Default,,0,0,0,,Tiếp tục đi.
+Dialogue: 0,1:21:50.82,1:21:51.99,Default,,0,0,0,,Vince!
+Dialogue: 0,1:21:52.65,1:21:54.74,Default,,0,0,0,,Vince, đừng!\NQuay lại đi!
+Dialogue: 0,1:21:56.32,1:21:57.45,Default,,0,0,0,,Vince!
+Dialogue: 0,1:22:03.08,1:22:04.79,Default,,0,0,0,,Nó có súng ngắn!\NLeon!
+Dialogue: 0,1:22:04.87,1:22:07.17,Default,,0,0,0,,Quay lại đi!\NĐưa cậu ấy khỏi đó mau!
+Dialogue: 0,1:22:09.84,1:22:11.13,Default,,0,0,0,,Mẹ kiếp!
+Dialogue: 0,1:22:22.18,1:22:24.85,Default,,0,0,0,,Đưa tớ xuống với!\NVượt lên đây!
+Dialogue: 0,1:22:26.44,1:22:29.31,Default,,0,0,0,,Buông tay ra!\NLàm đi!
+Dialogue: 0,1:22:29.69,1:22:31.69,Default,,0,0,0,,- Làm đi!\N- Tớ không thể...
+Dialogue: 0,1:22:31.78,1:22:33.15,Default,,0,0,0,,Cậu làm được mà!
+Dialogue: 0,1:22:34.19,1:22:35.65,Default,,0,0,0,,Cố lên, Vince!
+Dialogue: 0,1:22:43.16,1:22:45.75,Default,,0,0,0,,Dom! Em đang vượt lên\Nđể đánh lạc hướng hắn!
+Dialogue: 0,1:22:53.21,1:22:54.67,Default,,0,0,0,,Nào, cố lên!
+Dialogue: 0,1:22:55.88,1:22:58.01,Default,,0,0,0,,Kẹo đồng không khá hơn\Ntrò này đâu.
+Dialogue: 0,1:23:03.06,1:23:04.35,Default,,0,0,0,,Thằng chó đẻ!
+Dialogue: 0,1:23:09.19,1:23:11.52,Default,,0,0,0,,Đưa tớ xuống đi,\Nkhông là tớ phải tháo dây đấy!
+Dialogue: 0,1:23:11.61,1:23:15.86,Default,,0,0,0,,Thử lại đi.\NMột, hai, ba!
+Dialogue: 0,1:23:27.87,1:23:29.46,Default,,0,0,0,,Buông ra đi!
+Dialogue: 0,1:23:31.21,1:23:33.09,Default,,0,0,0,,Tay tớ vướng rồi!
+Dialogue: 0,1:23:33.17,1:23:35.31,Default,,0,0,0,,- Vince, tóm lấy tay tớ!\N- Tay tớ!
+Dialogue: 0,1:23:35.31,1:23:37.30,Default,,0,0,0,,Nào, đưa tay cho tớ!
+Dialogue: 0,1:23:37.47,1:23:39.93,Default,,0,0,0,,Tớ sẽ kéo cậu\Nra khỏi trò chơi khăm này!
+Dialogue: 0,1:23:43.10,1:23:44.72,Default,,0,0,0,,Vince!
+Dialogue: 0,1:23:44.81,1:23:46.81,Default,,0,0,0,,Cố lên!
+Dialogue: 0,1:23:46.89,1:23:49.02,Default,,0,0,0,,Đưa tay cho tớ!\NNghe tớ nói đi!
+Dialogue: 0,1:23:55.86,1:23:56.86,Default,,0,0,0,,Dominic!
+Dialogue: 0,1:23:56.94,1:23:58.15,Default,,0,0,0,,Mẹ nó!
+Dialogue: 0,1:24:01.70,1:24:03.83,Default,,0,0,0,,- Dominic!\N- Cố bám chắc!
+Dialogue: 0,1:24:04.41,1:24:07.33,Default,,0,0,0,,Dom! Tránh đường đi!\NEm đang lên cứu cậu ấy đây!
+Dialogue: 0,1:24:32.44,1:24:33.77,Default,,0,0,0,,Letty!
+Dialogue: 0,1:24:34.57,1:24:35.61,Default,,0,0,0,,- Leon!\N- Có!
+Dialogue: 0,1:24:35.69,1:24:36.77,Default,,0,0,0,,Lùi lại cứu Letty đi!
+Dialogue: 0,1:24:36.86,1:24:38.15,Default,,0,0,0,,Đưa cô ấy ra khỏi đây!
+Dialogue: 0,1:24:38.24,1:24:39.65,Default,,0,0,0,,Được rồi!\NCứ đi đi!
+Dialogue: 0,1:24:48.83,1:24:51.50,Default,,0,0,0,,Tớ tìm được cô ấy rồi!\NCậu cứu Vince khỏi chiếc xe tải đó đi.
+Dialogue: 0,1:24:56.84,1:24:59.09,Default,,0,0,0,,Letty!\NCố lên, cưng.
+Dialogue: 0,1:25:00.13,1:25:01.22,Default,,0,0,0,,Không sao chứ?
+Dialogue: 0,1:25:01.30,1:25:03.72,Default,,0,0,0,,Mẹ kiếp. Cố lên, cô bé,\Nkhông sao chứ?
+Dialogue: 0,1:25:03.80,1:25:07.39,Default,,0,0,0,,Nào, để tớ xem nào.\NCố lên. Ta phải đi thôi. Nào.
+Dialogue: 0,1:25:21.20,1:25:22.70,Default,,0,0,0,,Vince!
+Dialogue: 0,1:25:27.12,1:25:28.79,Default,,0,0,0,,- Dominic!\N- Vince!
+Dialogue: 0,1:25:50.97,1:25:52.14,Default,,0,0,0,,Cầm lấy vô-lăng đi!
+Dialogue: 0,1:25:52.23,1:25:54.94,Default,,0,0,0,,- Cầm vô-lăng là sao?\N- Nhấn ga đi!
+Dialogue: 0,1:25:55.69,1:25:57.98,Default,,0,0,0,,Anh sẽ cứu cậu ta.\NEm nhấn ga đi!
+Dialogue: 0,1:25:58.07,1:25:59.32,Default,,0,0,0,,Vâng!
+Dialogue: 0,1:26:02.31,1:26:04.70,Default,,0,0,0,,Cố lên.\NCứ giữ như thế nhé.
+Dialogue: 0,1:26:04.70,1:26:05.78,Default,,0,0,0,,Em hiểu rồi!
+Dialogue: 0,1:26:07.32,1:26:09.28,Default,,0,0,0,,Rồi, cố bám nhé, Vince.
+Dialogue: 0,1:26:10.08,1:26:13.00,Default,,0,0,0,,Cậu ấy khó bám được nữa rồi.\NĐưa anh lại gần thêm nữa đi.
+Dialogue: 0,1:26:13.08,1:26:14.37,Default,,0,0,0,,Được rồi.
+Dialogue: 0,1:26:15.21,1:26:15.79,Default,,0,0,0,,Nữa.
+Dialogue: 0,1:26:15.79,1:26:17.38,Default,,0,0,0,,Em tấp vào đây.
+Dialogue: 0,1:26:17.75,1:26:19.34,Default,,0,0,0,,Giữ nguyên thế nhé!
+Dialogue: 0,1:26:20.17,1:26:21.25,Default,,0,0,0,,Nhảy đi!
+Dialogue: 0,1:26:23.42,1:26:26.01,Default,,0,0,0,,Cậu phải gắng gượng\Nđể còn ở đây với tôi!
+Dialogue: 0,1:26:26.09,1:26:28.26,Default,,0,0,0,,Chúng tôi sẽ đưa cậu xuống.\NĐưa tay cậu đây!
+Dialogue: 0,1:26:28.35,1:26:30.51,Default,,0,0,0,,Vince, nhìn tôi này!\NĐừng buông xuôi!
+Dialogue: 0,1:26:34.48,1:26:37.06,Default,,0,0,0,,Cố lên, Vince!\NQuàng tay qua người tôi nào!
+Dialogue: 0,1:26:37.86,1:26:40.19,Default,,0,0,0,,Vince, đừng buông xuôi!
+Dialogue: 0,1:26:44.40,1:26:46.49,Default,,0,0,0,,Cố lên, Mia.\NTấp vô đây!
+Dialogue: 0,1:26:52.04,1:26:53.45,Default,,0,0,0,,Mia, gần hơn nữa đi!\NCố lên.
+Dialogue: 0,1:26:53.45,1:26:55.71,Default,,0,0,0,,Cố lên, Vince!\NTa đi nào!
+Dialogue: 0,1:27:23.78,1:27:25.07,Default,,0,0,0,,Mẹ kiếp!
+Dialogue: 0,1:27:28.70,1:27:32.24,Default,,0,0,0,,Sẽ ổn cả thôi, Letty.\NAnh yêu em.
+Dialogue: 0,1:27:35.50,1:27:37.12,Default,,0,0,0,,- Trông chừng cô ấy.\N- Được rồi.
+Dialogue: 0,1:27:38.04,1:27:40.58,Default,,0,0,0,,Nào, Vince!\NGắng gượng lên! Nào!
+Dialogue: 0,1:27:44.76,1:27:47.92,Default,,0,0,0,,Mười phút nữa mà không có\Nxe cứu thương thì cậu ấy chết mất.
+Dialogue: 0,1:27:48.01,1:27:50.47,Default,,0,0,0,,- Cứ ấn như thế. Nâng tay cậu ấy lên.\N- Được rồi.
+Dialogue: 0,1:27:56.39,1:27:59.35,Default,,0,0,0,,Vâng, tôi, sĩ quan\NBrian O'Conner đây.
+Dialogue: 0,1:27:59.56,1:28:02.02,Default,,0,0,0,,Tôi đang nghỉ phép.
+Dialogue: 0,1:28:02.15,1:28:04.94,Default,,0,0,0,,Tôi cần trực thăng cứu hộ\Ntới đây ngay lập tức.
+Dialogue: 0,1:28:06.07,1:28:10.36,Default,,0,0,0,,Vị trí tôi là Quốc lộ 86,\Ncột mốc 147.
+Dialogue: 0,1:28:10.91,1:28:13.95,Default,,0,0,0,,Có người bị thương nặng,\Ntrạc 24 tuổi.
+Dialogue: 0,1:28:14.03,1:28:16.62,Default,,0,0,0,,Cao 1m8, nặng chừng 90 kg.
+Dialogue: 0,1:28:16.79,1:28:20.54,Default,,0,0,0,,Tay phải cậu ấy bị rách sâu,\Nđứt động mạch.
+Dialogue: 0,1:28:20.62,1:28:25.00,Default,,0,0,0,,Và bị thương do đạn\Nở bên sườn trái.
+Dialogue: 0,1:28:25.21,1:28:26.38,Default,,0,0,0,,Vâng.
+Dialogue: 0,1:28:26.92,1:28:28.84,Default,,0,0,0,,Anh ấy đang bị sốc!
+Dialogue: 0,1:30:08.90,1:30:10.82,Default,,0,0,0,,Dom, bỏ súng xuống ngay!
+Dialogue: 0,1:30:13.40,1:30:15.24,Default,,0,0,0,,- Đem xe đi chỗ khác!\N- Tôi không đùa đâu!
+Dialogue: 0,1:30:15.32,1:30:17.78,Default,,0,0,0,,Bỏ súng xuống ngay!\NKhông được chạy!
+Dialogue: 0,1:30:17.91,1:30:19.45,Default,,0,0,0,,Tôi chẳng thèm chạy!
+Dialogue: 0,1:30:22.58,1:30:25.00,Default,,0,0,0,,- Leon và Letty đâu?\N- Họ cao chạy xa bay rồi!
+Dialogue: 0,1:30:25.08,1:30:26.16,Default,,0,0,0,,Kết thúc rồi!
+Dialogue: 0,1:30:26.17,1:30:28.13,Default,,0,0,0,,Tôi không gọi cảnh sát đâu,\Nnhưng đừng ép tôi!
+Dialogue: 0,1:30:28.21,1:30:29.95,Default,,0,0,0,,Bỏ súng xuống!\NThề có Chúa!
+Dialogue: 0,1:30:29.95,1:30:31.13,Default,,0,0,0,,Anh là cớm!
+Dialogue: 0,1:30:31.21,1:30:32.63,Default,,0,0,0,,Anh là một tên cớm!
+Dialogue: 0,1:30:34.22,1:30:37.59,Default,,0,0,0,,Brian, tôi phải tìm Jesse\Ntrước bọn kia!
+Dialogue: 0,1:30:37.68,1:30:38.92,Default,,0,0,0,,Thằng nhóc chỉ trông cậy vào tôi.
+Dialogue: 0,1:30:38.92,1:30:40.55,Default,,0,0,0,,Tôi gọi cảnh sát đây.
+Dialogue: 0,1:30:40.64,1:30:42.97,Default,,0,0,0,,Họ sẽ lo cho nó\Ntrước khi Johnny tìm ra.
+Dialogue: 0,1:30:44.52,1:30:45.16,Default,,0,0,0,,Đem xe đi chỗ khác!
+Dialogue: 0,1:30:45.16,1:30:47.98,Default,,0,0,0,,Dom, thôi đi!\NKết thúc rồi! Xin anh ấy!
+Dialogue: 0,1:30:48.11,1:30:50.69,Default,,0,0,0,,Mia, em đừng xía vô!\NĐem xe đi...
+Dialogue: 0,1:30:55.36,1:30:58.57,Default,,0,0,0,,Dominic, tớ xin lỗi.
+Dialogue: 0,1:30:58.95,1:31:01.16,Default,,0,0,0,,Tớ không biết\Nmình đang làm gì nữa, Dom.
+Dialogue: 0,1:31:01.24,1:31:03.63,Default,,0,0,0,,Tớ đang sợ chết khiếp đây này.
+Dialogue: 0,1:31:03.63,1:31:05.50,Default,,0,0,0,,Không hiểu đang xảy ra\Nchuyện gì nữa.
+Dialogue: 0,1:31:05.58,1:31:08.33,Default,,0,0,0,,Jesse! Cậu nghĩ gì thế hả?
+Dialogue: 0,1:31:08.42,1:31:10.92,Default,,0,0,0,,Tớ không biết nữa!\NTớ đã hoảng loạn! Tớ xin lỗi.
+Dialogue: 0,1:31:11.00,1:31:12.92,Default,,0,0,0,,Tớ sợ lắm!
+Dialogue: 0,1:31:13.00,1:31:16.09,Default,,0,0,0,,Tớ không biết mình đang\Nlàm gì nữa! Giúp tớ với!
+Dialogue: 0,1:31:20.64,1:31:22.14,Default,,0,0,0,,Dom!
+Dialogue: 0,1:31:38.07,1:31:42.32,Default,,0,0,0,,Jesse!
+Dialogue: 0,1:31:42.41,1:31:43.91,Default,,0,0,0,,Không, Jesse!
+Dialogue: 0,1:31:58.63,1:32:00.26,Default,,0,0,0,,Đừng, Dom, đừng!
+Dialogue: 0,1:34:55.14,1:34:58.65,Default,,0,0,0,,Gọi 911 đi.\NGọi 911 mau lên!
+Dialogue: 0,1:35:33.35,1:35:36.10,Default,,0,0,0,,Hồi cấp ba\Ntôi từng lái xe tới đây.
+Dialogue: 0,1:35:36.81,1:35:40.98,Default,,0,0,0,,Đường tàu vắt ngang trên kia\Ncách chỗ này đúng một phần tư dặm.
+Dialogue: 0,1:35:42.15,1:35:44.78,Default,,0,0,0,,Đèn xanh là tôi phi lên đó.
+Dialogue: 0,1:38:08.75,1:38:09.92,Default,,0,0,0,,Dom!
+Dialogue: 0,1:38:19.31,1:38:21.60,Default,,0,0,0,,Tôi đâu ngờ sẽ thế này.
+Dialogue: 0,1:39:08.15,1:39:10.02,Default,,0,0,0,,Anh biết mình đang làm gì không?
+Dialogue: 0,1:39:10.52,1:39:12.61,Default,,0,0,0,,Tôi còn nợ anh\Nmột chiếc xe khởi động 10 giây.
+Dialogue: 0,1:46:26.46,1:46:29.13,Default,,0,0,0,,Tôi sống từng phần tư dặm một.
+Dialogue: 0,1:46:30.76,1:46:32.42,Default,,0,0,0,,Những chuyện khác\Nkhông quan trọng nữa.
+Dialogue: 0,1:46:33.30,1:46:36.05,Default,,0,0,0,,Với mười giây hoặc ít hơn đó,
+Dialogue: 0,1:46:37.47,1:46:38.76,Default,,0,0,0,,tôi được tự do.
+Dialogue: 0,1:46:40.00,1:46:44.00,Default,,0,0,0,,Biên dịch: nomad\NSubits
+Dialogue: 0,1:46:44.00,1:46:48.00,Default,,0,0,0,,PhudeViet.org
