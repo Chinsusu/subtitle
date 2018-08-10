@@ -18,41 +18,69 @@ Style: Default,Arial,30,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.10,0:00:08.10,Default,,0,0,0,,Pusat Account Premium FileHosting\NTERMURAH Se-INDONESIA\Nwww.PremixStore.com
-Dialogue: 0,0:00:12.10,0:00:20.10,Default,,0,0,0,,Sedia Account Premium\NNitroFlare, Uptobox, IcerBox, DLL\Nwww.PremixStore.com
-Dialogue: 0,0:00:25.09,0:00:28.74,Default,,0,0,0,,Tahun 1993, terobosan teknologi baru yang Dikenal\Ndengan CRISPR membuka jalan ilmuwan..,..
-Dialogue: 0,0:00:28.74,0:00:31.74,Default,,0,0,0,,Mengobati penyakit tak tersembuhkan\Ndengan penyuntingan genetika
-Dialogue: 0,0:00:31.74,0:00:35.58,Default,,0,0,0,,Tahun 2016, karena rawan disalah gunakan,\NKomunitas Intelijen Amerika..,..
-Dialogue: 0,0:00:35.58,0:00:39.68,Default,,0,0,0,,Menyatakan penyuntingan genetika sebagai\N"Senjata Pemusnah Masal dan Percepatan"
-Dialogue: 0,0:00:39.68,0:00:47.68,Default,,0,0,0,,Pein Akatsuki - www.SEBUAH-DONGENG.COM - Instagram\N@paint_lapain Iklan di IDFL.ME - WA 088 132 669 06
-Dialogue: 0,0:01:22.75,0:01:26.42,Default,,0,0,0,,Athena-1 Athena-1, masuklah
-Dialogue: 0,0:01:26.42,0:01:30.82,Default,,0,0,0,,Athena-1, di sini Pusat\NKami tak menerima transmisi terakhir
-Dialogue: 0,0:01:30.83,0:01:33.93,Default,,0,0,0,,Kami kehilangan sinyal di modul komando\NTolong ulangi lagi, ganti
+Dialogue: 0,0:00:00.10,0:00:00.76,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}P{\c}remixStore.com{\b0}
+Dialogue: 0,0:00:00.76,0:00:01.43,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}Pr{\c}emixStore.com{\b0}
+Dialogue: 0,0:00:01.43,0:00:02.10,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}Pre{\c}mixStore.com{\b0}
+Dialogue: 0,0:00:02.10,0:00:02.76,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}Prem{\c}ixStore.com{\b0}
+Dialogue: 0,0:00:02.76,0:00:03.43,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}Premi{\c}xStore.com{\b0}
+Dialogue: 0,0:00:03.43,0:00:04.10,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}Premix{\c}Store.com{\b0}
+Dialogue: 0,0:00:04.10,0:00:04.76,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixS{\c}tore.com{\b0}
+Dialogue: 0,0:00:04.76,0:00:05.43,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixSt{\c}ore.com{\b0}
+Dialogue: 0,0:00:05.43,0:00:06.10,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixSto{\c}re.com{\b0}
+Dialogue: 0,0:00:06.10,0:00:06.77,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixStor{\c}e.com{\b0}
+Dialogue: 0,0:00:06.77,0:00:07.43,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixStore{\c}.com{\b0}
+Dialogue: 0,0:00:07.43,0:00:08.10,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixStore.{\c}com{\b0}
+Dialogue: 0,0:00:08.10,0:00:08.77,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixStore.c{\c}om{\b0}
+Dialogue: 0,0:00:08.77,0:00:09.43,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixStore.co{\c}m{\b0}
+Dialogue: 0,0:00:09.43,0:00:12.10,Default,,0,0,0,,{\b1\c&H00ffff&}Pusat Account Premium FileHosting{\c}\N{\c&H00ff00&}TERMURAH Se-INDONESIA{\c}\Nwww.{\c&Hffff00&}PremixStore.com{\c}{\b0}
+Dialogue: 0,0:00:12.10,0:00:12.76,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}P{\c}remixStore.com{\b0}
+Dialogue: 0,0:00:12.76,0:00:13.43,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}Pr{\c}emixStore.com{\b0}
+Dialogue: 0,0:00:13.43,0:00:14.10,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}Pre{\c}mixStore.com{\b0}
+Dialogue: 0,0:00:14.10,0:00:14.76,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}Prem{\c}ixStore.com{\b0}
+Dialogue: 0,0:00:14.76,0:00:15.43,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}Premi{\c}xStore.com{\b0}
+Dialogue: 0,0:00:15.43,0:00:16.10,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}Premix{\c}Store.com{\b0}
+Dialogue: 0,0:00:16.10,0:00:16.76,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixS{\c}tore.com{\b0}
+Dialogue: 0,0:00:16.76,0:00:17.43,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixSt{\c}ore.com{\b0}
+Dialogue: 0,0:00:17.43,0:00:18.10,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixSto{\c}re.com{\b0}
+Dialogue: 0,0:00:18.10,0:00:18.77,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixStor{\c}e.com{\b0}
+Dialogue: 0,0:00:18.77,0:00:19.43,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixStore{\c}.com{\b0}
+Dialogue: 0,0:00:19.43,0:00:20.10,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixStore.{\c}com{\b0}
+Dialogue: 0,0:00:20.10,0:00:20.77,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixStore.c{\c}om{\b0}
+Dialogue: 0,0:00:20.77,0:00:21.43,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixStore.co{\c}m{\b0}
+Dialogue: 0,0:00:21.43,0:00:25.00,Default,,0,0,0,,{\b1\c&Hffff00&}Sedia Account Premium{\c}\N{\c&H0199fe&}NitroFlare, Uptobox, IcerBox, DLL{\c}\Nwww.{\c&H00ffff&}PremixStore.com{\c}{\b0}
+Dialogue: 0,0:00:25.09,0:00:28.74,Default,,0,0,0,,{\c&H00ff00&\b1}Tahun 1993, terobosan teknologi baru yang Dikenal\Ndengan CRISPR membuka jalan ilmuwan..,..{\b0}
+Dialogue: 0,0:00:28.74,0:00:31.74,Default,,0,0,0,,{\c&H00ff00&\b1}Mengobati penyakit tak tersembuhkan\Ndengan penyuntingan genetika{\b0}
+Dialogue: 0,0:00:31.74,0:00:35.58,Default,,0,0,0,,{\c&H00ff00&\b1}Tahun 2016, karena rawan disalah gunakan,\NKomunitas Intelijen Amerika..,..{\b0}
+Dialogue: 0,0:00:35.58,0:00:39.68,Default,,0,0,0,,{\c&H00ff00&\b1}Menyatakan penyuntingan genetika sebagai\N"Senjata Pemusnah Masal dan Percepatan"{\b0}
+Dialogue: 0,0:00:39.68,0:00:47.68,Default,,0,0,0,,{\b1\c&Hf239c5&}Pein Akatsuki{\c} - {\c&H00ffff&}www.SEBUAH-DONGENG.COM{\c} - Instagram\N{\c&Hffff00&}@paint_lapain{\c} Iklan di {\c&Hffff00&}IDFL.ME{\c} - {\c&H00ff00&}WA {\c&H0000ff&}{\c} {\c&H00ff00&}088 132 669 06{\c}{\b0}
+Dialogue: 0,0:01:22.75,0:01:26.42,Default,,0,0,0,,{\i1}Athena-1 Athena-1, masuklah{\i0}
+Dialogue: 0,0:01:26.42,0:01:30.82,Default,,0,0,0,,{\i1}Athena-1, di sini Pusat\NKami tak menerima transmisi terakhir{\i0}
+Dialogue: 0,0:01:30.83,0:01:33.93,Default,,0,0,0,,{\i1}Kami kehilangan sinyal di modul komando\NTolong ulangi lagi, ganti{\i0}
 Dialogue: 0,0:01:33.93,0:01:36.33,Default,,0,0,0,,Pusat Misi, Ini Atkins.
 Dialogue: 0,0:01:36.33,0:01:38.33,Default,,0,0,0,,Ada yang tak beres dengan tes.
 Dialogue: 0,0:01:38.34,0:01:40.37,Default,,0,0,0,,Para Kru mati.
 Dialogue: 0,0:01:40.37,0:01:42.74,Default,,0,0,0,,Kekuatan lambung Athena kritis.
 Dialogue: 0,0:01:42.74,0:01:44.77,Default,,0,0,0,,Aku menuju kapsul darurat.
-Dialogue: 0,0:01:44.77,0:01:47.17,Default,,0,0,0,,Negatif, negatif, kembali ke lab dan..,..
-Dialogue: 0,0:01:47.18,0:01:49.04,Default,,0,0,0,,Amankan wadahnya sebelum pergi
+Dialogue: 0,0:01:44.77,0:01:47.17,Default,,0,0,0,,{\i1}Negatif, negatif, kembali ke lab dan..,..{\i0}
+Dialogue: 0,0:01:47.18,0:01:49.04,Default,,0,0,0,,{\i1}Amankan wadahnya sebelum pergi{\i0}
 Dialogue: 0,0:01:49.05,0:01:51.01,Default,,0,0,0,,Tapi tes subyek lepas.
-Dialogue: 0,0:01:51.01,0:01:53.35,Default,,0,0,0,,Doktor, tes subyeknya hanyalah tikus
+Dialogue: 0,0:01:51.01,0:01:53.35,Default,,0,0,0,,{\i1}Doktor, tes subyeknya hanyalah tikus{\i0}
 Dialogue: 0,0:01:53.35,0:01:54.68,Default,,0,0,0,,Tidak lagi.
 Dialogue: 0,0:02:00.06,0:02:01.22,Default,,0,0,0,,Apa ini?
-Dialogue: 0,0:02:01.23,0:02:02.46,Default,,0,0,0,,Kau sudah diperintahkan, Doktor
+Dialogue: 0,0:02:01.23,0:02:02.46,Default,,0,0,0,,{\i1}Kau sudah diperintahkan, Doktor{\i0}
 Dialogue: 0,0:02:02.46,0:02:03.69,Default,,0,0,0,,Buka Pintunya!
-Dialogue: 0,0:02:03.69,0:02:06.69,Default,,0,0,0,,Dr. Atkins, aku Claire Wyden
-Dialogue: 0,0:02:06.70,0:02:10.23,Default,,0,0,0,,Kami buka kapsul daruratnya\NSetelah kau amankan sampelnya
-Dialogue: 0,0:02:15.20,0:02:18.41,Default,,0,0,0,,Doktor, pilih pulang\Ndengan penelitianku..,..
-Dialogue: 0,0:02:18.41,0:02:20.21,Default,,0,0,0,,Atau kau tak pulang sama sekali
+Dialogue: 0,0:02:03.69,0:02:06.69,Default,,0,0,0,,{\i1}Dr. Atkins, aku Claire Wyden{\i0}
+Dialogue: 0,0:02:06.70,0:02:10.23,Default,,0,0,0,,{\i1}Kami buka kapsul daruratnya\NSetelah kau amankan sampelnya{\i0}
+Dialogue: 0,0:02:15.20,0:02:18.41,Default,,0,0,0,,{\i1}Doktor, pilih pulang\Ndengan penelitianku..,..{\i0}
+Dialogue: 0,0:02:18.41,0:02:20.21,Default,,0,0,0,,{\i1}Atau kau tak pulang sama sekali{\i0}
 Dialogue: 0,0:02:47.27,0:02:48.97,Default,,0,0,0,,Memasuki lab.
 Dialogue: 0,0:02:54.74,0:02:56.08,Default,,0,0,0,,Baik.
 Dialogue: 0,0:03:07.52,0:03:09.76,Default,,0,0,0,,Pusat Misi, mengamankan sampel sekarang
-Dialogue: 0,0:03:09.76,0:03:10.86,Default,,0,0,0,,Dimengerti
-Dialogue: 0,0:03:26.41,0:03:28.78,Default,,0,0,0,,Peringatan, Kekuatan Lambung Kritis
+Dialogue: 0,0:03:09.76,0:03:10.86,Default,,0,0,0,,{\i1}Dimengerti{\i0}
+Dialogue: 0,0:03:26.41,0:03:28.78,Default,,0,0,0,,{\i1}Peringatan, Kekuatan Lambung Kritis{\i0}
 Dialogue: 0,0:03:33.68,0:03:35.35,Default,,0,0,0,,Ya Tuhan.
 Dialogue: 0,0:03:46.66,0:03:47.80,Default,,0,0,0,,Bukalah!
-Dialogue: 0,0:03:47.80,0:03:49.40,Default,,0,0,0,,Kapsul Dibuka
+Dialogue: 0,0:03:47.80,0:03:49.40,Default,,0,0,0,,{\i1}Kapsul Dibuka{\i0}
 Dialogue: 0,0:05:26.46,0:05:28.30,Default,,0,0,0,,Aku suka baunya.
 Dialogue: 0,0:05:28.30,0:05:30.73,Default,,0,0,0,,Mengingatkanku pada Uganda.
 Dialogue: 0,0:05:30.73,0:05:31.93,Default,,0,0,0,,Kau pernah ke Uganda?
@@ -78,7 +106,7 @@ Dialogue: 0,0:06:23.39,0:06:25.62,Default,,0,0,0,,Meski kau punya pengalaman\Nde
 Dialogue: 0,0:06:25.62,0:06:29.66,Default,,0,0,0,,Itu sangat tak sopan jika kau\NMembicarakannya di depan wanita.
 Dialogue: 0,0:06:29.66,0:06:32.29,Default,,0,0,0,,Oh, tak apa.\NAku bisa mengatasinya.
 Dialogue: 0,0:06:32.30,0:06:36.13,Default,,0,0,0,,Oh, aku tahu kau bisa,\NAku membicarakan soal wanita ini.
-Dialogue: 0,0:06:37.90,0:06:40.90,Default,,0,0,0,,Suaka Alam Liar San Diego
+Dialogue: 0,0:06:37.90,0:06:40.90,Default,,0,0,0,,{\c&H00ff00&\b1}Suaka Alam Liar San Diego{\b0}
 Dialogue: 0,0:06:57.02,0:06:58.87,Default,,0,0,0,,Tak akan ada masalah, tapi ingatlah..,..
 Dialogue: 0,0:06:58.87,0:07:00.39,Default,,0,0,0,,Kalian sedang tak di kelas.
 Dialogue: 0,0:07:00.39,0:07:03.52,Default,,0,0,0,,Mereka hewan liar.\NMereka sangat tak terprediksi.
@@ -225,8 +253,8 @@ Dialogue: 0,0:16:19.25,0:16:21.48,Default,,0,0,0,,Tak apa.\NTenanglah.
 Dialogue: 0,0:16:24.25,0:16:25.39,Default,,0,0,0,,Tenanglah.
 Dialogue: 0,0:16:35.26,0:16:37.87,Default,,0,0,0,,Hanya aku ada dia jadi semakin besar?
 Dialogue: 0,0:16:38.27,0:16:40.60,Default,,0,0,0,,Tidak, dia sudah jelas semakin besar.
-Dialogue: 0,0:16:40.60,0:16:41.84,Default,,0,0,0,,Ini Connor
-Dialogue: 0,0:16:41.84,0:16:44.09,Default,,0,0,0,,Kalian harus pergi ke kandang Gorila
+Dialogue: 0,0:16:40.60,0:16:41.84,Default,,0,0,0,,{\i1}Ini Connor{\i0}
+Dialogue: 0,0:16:41.84,0:16:44.09,Default,,0,0,0,,{\i1}Kalian harus pergi ke kandang Gorila{\i0}
 Dialogue: 0,0:16:56.99,0:16:59.19,Default,,0,0,0,,- Apa yang terjadi?\N- Kami melakukan pemeriksaan pagi..,..
 Dialogue: 0,0:16:59.19,0:17:01.06,Default,,0,0,0,,Lalu melihat tanaman yang terbakar.
 Dialogue: 0,0:17:01.06,0:17:02.52,Default,,0,0,0,,Dan menemukan ini.
@@ -270,54 +298,54 @@ Dialogue: 0,0:18:47.60,0:18:49.73,Default,,0,0,0,,Yah, dialah "Kita"
 Dialogue: 0,0:19:11.82,0:19:13.32,Default,,0,0,0,,Bos.
 Dialogue: 0,0:19:13.32,0:19:15.49,Default,,0,0,0,,Bersiap! Kalian ikut Oscar Mike
 Dialogue: 0,0:19:16.26,0:19:17.46,Default,,0,0,0,,Mari lakukan.
-Dialogue: 0,0:19:29.40,0:19:30.80,Default,,0,0,0,,Pergi kemana Burke?
-Dialogue: 0,0:19:30.80,0:19:31.97,Default,,0,0,0,,Wyoming
-Dialogue: 0,0:19:31.97,0:19:33.44,Default,,0,0,0,,Aku tak pernah ke sana
-Dialogue: 0,0:19:33.44,0:19:35.51,Default,,0,0,0,,Banyak Gunung, sedikit orang
-Dialogue: 0,0:19:35.51,0:19:38.08,Default,,0,0,0,,Hewan menyukainya, kau pantas pergi ke sana
-Dialogue: 0,0:19:39.48,0:19:47.48,Default,,0,0,0,,Pusat Account Premium FileHosting Termurah\Nwww.PremixStore.com
+Dialogue: 0,0:19:29.40,0:19:30.80,Default,,0,0,0,,{\i1}Pergi kemana Burke?{\i0}
+Dialogue: 0,0:19:30.80,0:19:31.97,Default,,0,0,0,,{\i1}Wyoming{\i0}
+Dialogue: 0,0:19:31.97,0:19:33.44,Default,,0,0,0,,{\i1}Aku tak pernah ke sana{\i0}
+Dialogue: 0,0:19:33.44,0:19:35.51,Default,,0,0,0,,{\i1}Banyak Gunung, sedikit orang{\i0}
+Dialogue: 0,0:19:35.51,0:19:38.08,Default,,0,0,0,,{\i1}Hewan menyukainya, kau pantas pergi ke sana{\i0}
+Dialogue: 0,0:19:39.48,0:19:47.48,Default,,0,0,0,,{\b1}Pusat Account Premium FileHosting Termurah\N{\c&Hffff00&}www.PremixStore.com{\c}{\b0}
 Dialogue: 0,0:20:04.94,0:20:06.64,Default,,0,0,0,,Sial.
 Dialogue: 0,0:20:06.64,0:20:08.68,Default,,0,0,0,,Hei, Mark.
-Dialogue: 0,0:20:08.68,0:20:10.44,Default,,0,0,0,,Di mana kau?\NKau tahu jam berapa sekarang?
+Dialogue: 0,0:20:08.68,0:20:10.44,Default,,0,0,0,,{\i1}Di mana kau?\NKau tahu jam berapa sekarang?{\i0}
 Dialogue: 0,0:20:10.45,0:20:11.81,Default,,0,0,0,,Ya, ya.
 Dialogue: 0,0:20:12.98,0:20:14.15,Default,,0,0,0,,Ya, maaf.
 Dialogue: 0,0:20:14.15,0:20:18.76,Default,,0,0,0,,Aku ada di jalan tol\NDan aku hampir sampai kesana.
 Dialogue: 0,0:20:19.22,0:20:22.16,Default,,0,0,0,,Aku tahu terlambat dua kali seminggu ini.
 Dialogue: 0,0:20:22.16,0:20:24.49,Default,,0,0,0,,Itu tak akan terjadi lagi.
-Dialogue: 0,0:20:24.49,0:20:27.13,Default,,0,0,0,,Brett Wyden menanggapi situasinya\NDengan pernyataan singkat ini
-Dialogue: 0,0:20:27.13,0:20:30.36,Default,,0,0,0,,Aku dan saudariku juga semua orang di\NEnergyne terkejut dan berduka sedalamnya..,..
-Dialogue: 0,0:20:30.37,0:20:32.30,Default,,0,0,0,,Atas wafatnya kru Athena-1
-Dialogue: 0,0:20:32.30,0:20:34.67,Default,,0,0,0,,Mereka para ilmuwan\Npemberani dan cerdas..,..
-Dialogue: 0,0:20:34.67,0:20:36.74,Default,,0,0,0,,Yang berkomitmen membantu umat manusia
-Dialogue: 0,0:20:36.74,0:20:38.71,Default,,0,0,0,,Dan kami akan terus\Nmelanjutkan Tugas mereka
-Dialogue: 0,0:20:38.71,0:20:39.91,Default,,0,0,0,,Itu saja, terima kasih
+Dialogue: 0,0:20:24.49,0:20:27.13,Default,,0,0,0,,{\i1}Brett Wyden menanggapi situasinya\NDengan pernyataan singkat ini{\i0}
+Dialogue: 0,0:20:27.13,0:20:30.36,Default,,0,0,0,,{\i1}Aku dan saudariku juga semua orang di\NEnergyne terkejut dan berduka sedalamnya..,..{\i0}
+Dialogue: 0,0:20:30.37,0:20:32.30,Default,,0,0,0,,{\i1}Atas wafatnya kru Athena-1{\i0}
+Dialogue: 0,0:20:32.30,0:20:34.67,Default,,0,0,0,,{\i1}Mereka para ilmuwan\Npemberani dan cerdas..,..{\i0}
+Dialogue: 0,0:20:34.67,0:20:36.74,Default,,0,0,0,,{\i1}Yang berkomitmen membantu umat manusia{\i0}
+Dialogue: 0,0:20:36.74,0:20:38.71,Default,,0,0,0,,{\i1}Dan kami akan terus\Nmelanjutkan Tugas mereka{\i0}
+Dialogue: 0,0:20:38.71,0:20:39.91,Default,,0,0,0,,{\i1}Itu saja, terima kasih{\i0}
 Dialogue: 0,0:20:39.91,0:20:43.58,Default,,0,0,0,,Membantu umat manusia apanya.
-Dialogue: 0,0:20:43.58,0:20:47.51,Default,,0,0,0,,Sejak itu, Wall Street terus\NMengamati peforma Energyne
-Dialogue: 0,0:20:47.52,0:20:49.88,Default,,0,0,0,,Beralih ke berita politik..,..
-Dialogue: 0,0:20:49.88,0:20:52.25,Default,,0,0,0,,Yang kalian lihat adalah\NVideo bola api dramatis..,..
-Dialogue: 0,0:20:52.25,0:20:55.19,Default,,0,0,0,,Yang jatuh dekat\NSuaka Alam Liar San Diego
-Dialogue: 0,0:20:55.19,0:20:58.86,Default,,0,0,0,,Diduga puing dari tragedi Athena-1 semalam
-Dialogue: 0,0:20:58.86,0:21:00.59,Default,,0,0,0,,Namun, belum jelas berhubungan dengan..,..
-Dialogue: 0,0:21:00.59,0:21:03.00,Default,,0,0,0,,Salah satu Gorila yang kabur dari kandang
-Dialogue: 0,0:21:03.00,0:21:04.43,Default,,0,0,0,,Di Suaka tadi pagi
-Dialogue: 0,0:21:04.43,0:21:06.17,Default,,0,0,0,,Gorila itu bernama George..,..
+Dialogue: 0,0:20:43.58,0:20:47.51,Default,,0,0,0,,{\i1}Sejak itu, Wall Street terus\NMengamati peforma Energyne{\i0}
+Dialogue: 0,0:20:47.52,0:20:49.88,Default,,0,0,0,,{\i1}Beralih ke berita politik..,..{\i0}
+Dialogue: 0,0:20:49.88,0:20:52.25,Default,,0,0,0,,{\i1}Yang kalian lihat adalah\NVideo bola api dramatis..,..{\i0}
+Dialogue: 0,0:20:52.25,0:20:55.19,Default,,0,0,0,,{\i1}Yang jatuh dekat\NSuaka Alam Liar San Diego{\i0}
+Dialogue: 0,0:20:55.19,0:20:58.86,Default,,0,0,0,,{\i1}Diduga puing dari tragedi Athena-1 semalam{\i0}
+Dialogue: 0,0:20:58.86,0:21:00.59,Default,,0,0,0,,{\i1}Namun, belum jelas berhubungan dengan..,..{\i0}
+Dialogue: 0,0:21:00.59,0:21:03.00,Default,,0,0,0,,{\i1}Salah satu Gorila yang kabur dari kandang{\i0}
+Dialogue: 0,0:21:03.00,0:21:04.43,Default,,0,0,0,,{\i1}Di Suaka tadi pagi{\i0}
+Dialogue: 0,0:21:04.43,0:21:06.17,Default,,0,0,0,,{\i1}Gorila itu bernama George..,..{\i0}
 Dialogue: 0,0:21:06.17,0:21:09.17,Default,,0,0,0,,Tunggu sebentar, Mark.\NMobil di depanku..,..
-Dialogue: 0,0:21:09.17,0:21:11.87,Default,,0,0,0,,- Baru saja..,.. meledak.\N- Apa?
-Dialogue: 0,0:21:11.87,0:21:14.84,Default,,0,0,0,,Masih belum ada penjelasan\NAtas perilaku primata itu..,..
-Dialogue: 0,0:21:14.84,0:21:17.24,Default,,0,0,0,,Dan petugas kebun binatang\NTak mau berkomentar soal ini
-Dialogue: 0,0:21:17.25,0:21:20.45,Default,,0,0,0,,Petugas kami, Jason Sloss ada di lokasi\NJason, kau dapat kabar apa?
-Dialogue: 0,0:21:20.45,0:21:21.70,Default,,0,0,0,,Itu benar, Chris dan Maria
-Dialogue: 0,0:21:21.70,0:21:25.28,Default,,0,0,0,,Aku sekarang ada di Suaka Alam Liar San Diego\NDan kata yang digunakan semua orang..,..
-Dialogue: 0,0:21:25.29,0:21:28.39,Default,,0,0,0,,Menjelaskan kaburnya Gorila\Nini adalah "Mengejutkan"
-Dialogue: 0,0:21:40.30,0:21:42.27,Default,,0,0,0,,Di sana, cepat turunkan
-Dialogue: 0,0:22:06.83,0:22:10.16,Default,,0,0,0,,Kami menemukan wadahnya, tapi rusak parah
-Dialogue: 0,0:22:10.16,0:22:12.80,Default,,0,0,0,,Apapun yang ada di dalamnya\Npasti sudah hancur
-Dialogue: 0,0:22:12.80,0:22:14.14,Default,,0,0,0,,Ada sesuatu lagi
-Dialogue: 0,0:22:15.50,0:22:17.44,Default,,0,0,0,,Para Serigala ini dibantai
-Dialogue: 0,0:22:17.44,0:22:20.44,Default,,0,0,0,,Dari jejaknya terlihat seperti\NDi bunuh kawanan Serigala lain
+Dialogue: 0,0:21:09.17,0:21:11.87,Default,,0,0,0,,- Baru saja..,.. meledak.\N{\i1}- Apa?{\i0}
+Dialogue: 0,0:21:11.87,0:21:14.84,Default,,0,0,0,,{\i1}Masih belum ada penjelasan\NAtas perilaku primata itu..,..{\i0}
+Dialogue: 0,0:21:14.84,0:21:17.24,Default,,0,0,0,,{\i1}Dan petugas kebun binatang\NTak mau berkomentar soal ini{\i0}
+Dialogue: 0,0:21:17.25,0:21:20.45,Default,,0,0,0,,{\i1}Petugas kami, Jason Sloss ada di lokasi\NJason, kau dapat kabar apa?{\i0}
+Dialogue: 0,0:21:20.45,0:21:21.70,Default,,0,0,0,,{\i1}Itu benar, Chris dan Maria{\i0}
+Dialogue: 0,0:21:21.70,0:21:25.28,Default,,0,0,0,,{\i1}Aku sekarang ada di Suaka Alam Liar San Diego\NDan kata yang digunakan semua orang..,..{\i0}
+Dialogue: 0,0:21:25.29,0:21:28.39,Default,,0,0,0,,{\i1}Menjelaskan kaburnya Gorila\Nini adalah "Mengejutkan"{\i0}
+Dialogue: 0,0:21:40.30,0:21:42.27,Default,,0,0,0,,{\i1}Di sana, cepat turunkan{\i0}
+Dialogue: 0,0:22:06.83,0:22:10.16,Default,,0,0,0,,{\i1}Kami menemukan wadahnya, tapi rusak parah{\i0}
+Dialogue: 0,0:22:10.16,0:22:12.80,Default,,0,0,0,,{\i1}Apapun yang ada di dalamnya\Npasti sudah hancur{\i0}
+Dialogue: 0,0:22:12.80,0:22:14.14,Default,,0,0,0,,{\i1}Ada sesuatu lagi{\i0}
+Dialogue: 0,0:22:15.50,0:22:17.44,Default,,0,0,0,,{\i1}Para Serigala ini dibantai{\i0}
+Dialogue: 0,0:22:17.44,0:22:20.44,Default,,0,0,0,,{\i1}Dari jejaknya terlihat seperti\NDi bunuh kawanan Serigala lain{\i0}
 Dialogue: 0,0:22:21.24,0:22:22.91,Default,,0,0,0,,Serigala itu terinfeksi dengan Patogen.
 Dialogue: 0,0:22:25.01,0:22:28.00,Default,,0,0,0,,Burke, aku perlu Serigala itu,\NHidup atau mati.
-Dialogue: 0,0:22:28.20,0:22:29.92,Default,,0,0,0,,Dimengerti
+Dialogue: 0,0:22:28.20,0:22:29.92,Default,,0,0,0,,{\i1}Dimengerti{\i0}
 Dialogue: 0,0:22:33.15,0:22:36.62,Default,,0,0,0,,Ini daftar hibrida tak dikenal\Nyang kau katakan tadi.
 Dialogue: 0,0:22:39.26,0:22:41.16,Default,,0,0,0,,Hasil lab George sudah keluar.
 Dialogue: 0,0:22:41.36,0:22:43.03,Default,,0,0,0,,Kau tak akan menyukainya.
@@ -449,18 +477,18 @@ Dialogue: 0,0:29:15.09,0:29:16.23,Default,,0,0,0,,George!
 Dialogue: 0,0:29:41.92,0:29:43.12,Default,,0,0,0,,George!
 Dialogue: 0,0:29:43.72,0:29:45.09,Default,,0,0,0,,George!
 Dialogue: 0,0:29:46.39,0:29:47.79,Default,,0,0,0,,George!
-Dialogue: 0,0:29:58.57,0:30:01.60,Default,,0,0,0,,Aku tak pernah memburu Serigala sebelumnya\NBagaimana menurut kalian?
-Dialogue: 0,0:30:01.60,0:30:03.44,Default,,0,0,0,,Apa harus kubawa senjata besar?
-Dialogue: 0,0:30:05.01,0:30:07.11,Default,,0,0,0,,Dapat, Barisan pohon
-Dialogue: 0,0:30:10.08,0:30:13.31,Default,,0,0,0,,Kau yakin itu Serigala?\NSial, makhluk itu bergerak
-Dialogue: 0,0:30:13.32,0:30:14.82,Default,,0,0,0,,Tak lama lagi
-Dialogue: 0,0:30:32.93,0:30:34.30,Default,,0,0,0,,Burke ke Markas
-Dialogue: 0,0:30:34.30,0:30:36.60,Default,,0,0,0,,Rampage-1 ditembak
+Dialogue: 0,0:29:58.57,0:30:01.60,Default,,0,0,0,,{\i1}Aku tak pernah memburu Serigala sebelumnya\NBagaimana menurut kalian?{\i0}
+Dialogue: 0,0:30:01.60,0:30:03.44,Default,,0,0,0,,{\i1}Apa harus kubawa senjata besar?{\i0}
+Dialogue: 0,0:30:05.01,0:30:07.11,Default,,0,0,0,,{\i1}Dapat, Barisan pohon{\i0}
+Dialogue: 0,0:30:10.08,0:30:13.31,Default,,0,0,0,,{\i1}Kau yakin itu Serigala?\NSial, makhluk itu bergerak{\i0}
+Dialogue: 0,0:30:13.32,0:30:14.82,Default,,0,0,0,,{\i1}Tak lama lagi{\i0}
+Dialogue: 0,0:30:32.93,0:30:34.30,Default,,0,0,0,,{\i1}Burke ke Markas{\i0}
+Dialogue: 0,0:30:34.30,0:30:36.60,Default,,0,0,0,,{\i1}Rampage-1 ditembak{\i0}
 Dialogue: 0,0:31:13.77,0:31:15.34,Default,,0,0,0,,Apa yang kau punya?
-Dialogue: 0,0:31:15.34,0:31:17.14,Default,,0,0,0,,Belum ada
+Dialogue: 0,0:31:15.34,0:31:17.14,Default,,0,0,0,,{\i1}Belum ada{\i0}
 Dialogue: 0,0:31:19.48,0:31:20.98,Default,,0,0,0,,Tunggu dulu.
-Dialogue: 0,0:31:24.15,0:31:25.45,Default,,0,0,0,,Kami dapat jejak
-Dialogue: 0,0:31:25.45,0:31:26.99,Default,,0,0,0,,Kalian melihatnya?
+Dialogue: 0,0:31:24.15,0:31:25.45,Default,,0,0,0,,{\i1}Kami dapat jejak{\i0}
+Dialogue: 0,0:31:25.45,0:31:26.99,Default,,0,0,0,,{\i1}Kalian melihatnya?{\i0}
 Dialogue: 0,0:31:33.06,0:31:34.56,Default,,0,0,0,,Yesus.
 Dialogue: 0,0:31:35.80,0:31:37.30,Default,,0,0,0,,Serigala yang membuatnya?
 Dialogue: 0,0:31:39.33,0:31:41.37,Default,,0,0,0,,Mungkin aku harus membawa senjata besar.
@@ -471,31 +499,31 @@ Dialogue: 0,0:32:15.10,0:32:17.24,Default,,0,0,0,,Mereka terburu - buru.
 Dialogue: 0,0:32:17.24,0:32:18.52,Default,,0,0,0,,Menurutmu apa yang menakuti..,..
 Dialogue: 0,0:32:20.61,0:32:22.84,Default,,0,0,0,,Vinny! Garrick!\NBuat pertahanan!
 Dialogue: 0,0:32:22.84,0:32:24.44,Default,,0,0,0,,- Ayolah!\N- Tembak!
-Dialogue: 0,0:32:24.45,0:32:26.38,Default,,0,0,0,,Serang! Serang!
-Dialogue: 0,0:32:26.38,0:32:27.62,Default,,0,0,0,,Tembak dia!
+Dialogue: 0,0:32:24.45,0:32:26.38,Default,,0,0,0,,{\i1}Serang! Serang!{\i0}
+Dialogue: 0,0:32:26.38,0:32:27.62,Default,,0,0,0,,{\i1}Tembak dia!{\i0}
 Dialogue: 0,0:32:31.39,0:32:32.85,Default,,0,0,0,,Apa - apaan itu?
-Dialogue: 0,0:32:32.85,0:32:34.05,Default,,0,0,0,,Serang! Serang!
-Dialogue: 0,0:32:34.05,0:32:36.02,Default,,0,0,0,,Lari! Lari!
-Dialogue: 0,0:32:36.02,0:32:37.56,Default,,0,0,0,,Garrick, di mana kau?
-Dialogue: 0,0:32:37.56,0:32:39.89,Default,,0,0,0,,- Dia mengerjarku!\N- Lari, Garrick!
+Dialogue: 0,0:32:32.85,0:32:34.05,Default,,0,0,0,,{\i1}Serang! Serang!{\i0}
+Dialogue: 0,0:32:34.05,0:32:36.02,Default,,0,0,0,,{\i1}Lari! Lari!{\i0}
+Dialogue: 0,0:32:36.02,0:32:37.56,Default,,0,0,0,,{\i1}Garrick, di mana kau?{\i0}
+Dialogue: 0,0:32:37.56,0:32:39.89,Default,,0,0,0,,{\i1}- Dia mengerjarku!\N- Lari, Garrick!{\i0}
 Dialogue: 0,0:32:40.86,0:32:42.63,Default,,0,0,0,,Ayo, serang dia!
-Dialogue: 0,0:32:42.63,0:32:43.96,Default,,0,0,0,,Taylor, bangunlah!
+Dialogue: 0,0:32:42.63,0:32:43.96,Default,,0,0,0,,{\i1}Taylor, bangunlah!{\i0}
 Dialogue: 0,0:32:43.96,0:32:45.16,Default,,0,0,0,,Mereka tak akan selamat.
-Dialogue: 0,0:32:45.17,0:32:46.63,Default,,0,0,0,,Taylor! Pergilah!
+Dialogue: 0,0:32:45.17,0:32:46.63,Default,,0,0,0,,{\i1}Taylor! Pergilah!{\i0}
 Dialogue: 0,0:32:46.63,0:32:48.80,Default,,0,0,0,,Patogennya melakukan sesuai rancangannya.
-Dialogue: 0,0:32:48.80,0:32:50.60,Default,,0,0,0,,Tidak! Sialan!
+Dialogue: 0,0:32:48.80,0:32:50.60,Default,,0,0,0,,{\i1}Tidak! Sialan!{\i0}
 Dialogue: 0,0:32:56.38,0:32:58.08,Default,,0,0,0,,Wilson, jawablah.
 Dialogue: 0,0:32:58.95,0:33:00.58,Default,,0,0,0,,Zammit, jawablah.
 Dialogue: 0,0:33:02.15,0:33:03.95,Default,,0,0,0,,Taylor..,..
 Dialogue: 0,0:33:31.98,0:33:33.28,Default,,0,0,0,,Garcia, keluarkan aku dari sini.
-Dialogue: 0,0:33:33.28,0:33:34.68,Default,,0,0,0,,Dimengerti, sebentar lagi
-Dialogue: 0,0:33:44.69,0:33:46.93,Default,,0,0,0,,Oh, Sial! Aku melihatnya!
+Dialogue: 0,0:33:33.28,0:33:34.68,Default,,0,0,0,,{\i1}Dimengerti, sebentar lagi{\i0}
+Dialogue: 0,0:33:44.69,0:33:46.93,Default,,0,0,0,,{\i1}Oh, Sial! Aku melihatnya!{\i0}
 Dialogue: 0,0:33:46.93,0:33:48.43,Default,,0,0,0,,Tembak dia!
 Dialogue: 0,0:33:53.97,0:33:55.84,Default,,0,0,0,,Serangan!
-Dialogue: 0,0:33:58.37,0:34:00.00,Default,,0,0,0,,Naikkan! Naikkan!
-Dialogue: 0,0:34:00.01,0:34:02.01,Default,,0,0,0,,Oh, tidak!
-Dialogue: 0,0:34:02.01,0:34:04.05,Default,,0,0,0,,Aku kehilangan kendali!
-Dialogue: 0,0:34:40.33,0:34:48.33,Default,,0,0,0,,Account Premium Termurah Se-INDONESIA\NInstagram @premixstore
+Dialogue: 0,0:33:58.37,0:34:00.00,Default,,0,0,0,,{\i1}Naikkan! Naikkan!{\i0}
+Dialogue: 0,0:34:00.01,0:34:02.01,Default,,0,0,0,,{\i1}Oh, tidak!{\i0}
+Dialogue: 0,0:34:02.01,0:34:04.05,Default,,0,0,0,,{\i1}Aku kehilangan kendali!{\i0}
+Dialogue: 0,0:34:40.33,0:34:48.33,Default,,0,0,0,,{\b1}Account Premium Termurah Se-INDONESIA\N{\c&H00ffff&}Instagram @premixstore{\c}{\b0}
 Dialogue: 0,0:35:00.70,0:35:02.00,Default,,0,0,0,,Pak, ayo.
 Dialogue: 0,0:35:05.01,0:35:07.34,Default,,0,0,0,,Tolong keluar dari mobil.
 Dialogue: 0,0:35:21.52,0:35:23.02,Default,,0,0,0,,Apa - apaan ini?
@@ -588,7 +616,7 @@ Dialogue: 0,0:40:12.98,0:40:15.18,Default,,0,0,0,,Kau bisa menyembuhkan George a
 Dialogue: 0,0:40:15.18,0:40:18.08,Default,,0,0,0,,Aku tahu Energyne membuat\NPatogen penangkalnya..,..
 Dialogue: 0,0:40:18.08,0:40:19.65,Default,,0,0,0,,Ya atau tidak?
 Dialogue: 0,0:40:23.16,0:40:24.76,Default,,0,0,0,,Tidak.
-Dialogue: 0,0:40:34.83,0:40:36.77,Default,,0,0,0,,Claire, aku menemukannya
+Dialogue: 0,0:40:34.83,0:40:36.77,Default,,0,0,0,,{\i1}Claire, aku menemukannya{\i0}
 Dialogue: 0,0:40:36.77,0:40:38.74,Default,,0,0,0,,Ada pasukan orang berbaju\Nhitam memasukkan Gorila..,..
 Dialogue: 0,0:40:38.74,0:40:42.74,Default,,0,0,0,,Ke pesawat kargo semalam.\NKau tahu siapa yang bersama mereka?
 Dialogue: 0,0:40:42.74,0:40:45.04,Default,,0,0,0,,Tidak, tapi sudah jelas\Npria itu suka ke gym.
@@ -630,12 +658,12 @@ Dialogue: 0,0:42:27.18,0:42:29.55,Default,,0,0,0,,Lalu saat Serigala itu kemari,
 Dialogue: 0,0:42:29.55,0:42:32.18,Default,,0,0,0,,Lalu kita ambil sampel senjata DNA itu.
 Dialogue: 0,0:42:32.18,0:42:34.29,Default,,0,0,0,,Dan kita menjualnya dengan harga tinggi!
 Dialogue: 0,0:42:39.89,0:42:41.36,Default,,0,0,0,,Wauw.
-Dialogue: 0,0:42:50.70,0:42:52.71,Default,,0,0,0,,Jangan Beri Makan Hewan Liar
-Dialogue: 0,0:43:06.80,0:43:10.77,Default,,0,0,0,,Teluk Meksiko, Pesisir Florida
+Dialogue: 0,0:42:50.70,0:42:52.71,Default,,0,0,0,,{\c&H00ff00&\b1}Jangan Beri Makan Hewan Liar{\b0}
+Dialogue: 0,0:43:06.80,0:43:10.77,Default,,0,0,0,,{\c&Hffff00&\b1}Teluk Meksiko, Pesisir Florida{\b0}
 Dialogue: 0,0:43:36.02,0:43:37.68,Default,,0,0,0,,George, kau baik saja, kawan?
 Dialogue: 0,0:43:55.80,0:43:57.41,Default,,0,0,0,,Oh, tidak.
 Dialogue: 0,0:44:03.74,0:44:05.11,Default,,0,0,0,,Berdiri, sekarang!
-Dialogue: 0,0:44:10.92,0:44:13.25,Default,,0,0,0,,Waspada, Waspada, Waspada
+Dialogue: 0,0:44:10.92,0:44:13.25,Default,,0,0,0,,{\i1}Waspada, Waspada, Waspada{\i0}
 Dialogue: 0,0:44:20.09,0:44:21.63,Default,,0,0,0,,Bidik tubuhnya!
 Dialogue: 0,0:44:21.83,0:44:23.13,Default,,0,0,0,,Tembak dia!
 Dialogue: 0,0:44:25.47,0:44:26.63,Default,,0,0,0,,Mundur!
@@ -734,12 +762,12 @@ Dialogue: 0,0:53:12.86,0:53:16.16,Default,,0,0,0,,Aku melihat sifat sejati manus
 Dialogue: 0,0:53:16.16,0:53:18.84,Default,,0,0,0,,Dan mereka rela melakukan apapun\NDemi mendapat yang mereka inginkan.
 Dialogue: 0,0:53:20.43,0:53:22.44,Default,,0,0,0,,Kau pikir semua manusia seperti itu?
 Dialogue: 0,0:53:24.44,0:53:26.34,Default,,0,0,0,,Kau tahu di mana aku menemukan George?
-Dialogue: 0,0:53:28.31,0:53:30.64,Default,,0,0,0,,Dia bersembunyi di kolong\Ntruk pemburu gelap
-Dialogue: 0,0:53:33.28,0:53:35.35,Default,,0,0,0,,Saat Timku tiba, para bajingan itu..,..
-Dialogue: 0,0:53:35.35,0:53:37.12,Default,,0,0,0,,Sedang menjagal ibunya
-Dialogue: 0,0:53:39.09,0:53:43.39,Default,,0,0,0,,Mereka memotong tangannya supaya\NBisa menjualnya sebagai asbak
-Dialogue: 0,0:53:43.79,0:53:45.99,Default,,0,0,0,,George tak akan pernah\Nbisa bertahan sendirian
-Dialogue: 0,0:53:45.99,0:53:49.06,Default,,0,0,0,,Albino seperti dia berharga\Nmahal di pasar gelap
+Dialogue: 0,0:53:28.31,0:53:30.64,Default,,0,0,0,,{\i1}Dia bersembunyi di kolong\Ntruk pemburu gelap{\i0}
+Dialogue: 0,0:53:33.28,0:53:35.35,Default,,0,0,0,,{\i1}Saat Timku tiba, para bajingan itu..,..{\i0}
+Dialogue: 0,0:53:35.35,0:53:37.12,Default,,0,0,0,,{\i1}Sedang menjagal ibunya{\i0}
+Dialogue: 0,0:53:39.09,0:53:43.39,Default,,0,0,0,,{\i1}Mereka memotong tangannya supaya\NBisa menjualnya sebagai asbak{\i0}
+Dialogue: 0,0:53:43.79,0:53:45.99,Default,,0,0,0,,{\i1}George tak akan pernah\Nbisa bertahan sendirian{\i0}
+Dialogue: 0,0:53:45.99,0:53:49.06,Default,,0,0,0,,{\i1}Albino seperti dia berharga\Nmahal di pasar gelap{\i0}
 Dialogue: 0,0:53:50.36,0:53:52.17,Default,,0,0,0,,Jadi kubawa dia bersamaku.
 Dialogue: 0,0:53:55.13,0:53:56.90,Default,,0,0,0,,Apa yang terjadi ke para pemburu itu?
 Dialogue: 0,0:53:58.37,0:54:01.38,Default,,0,0,0,,Mereka menembaki kami dan meleset.
@@ -776,14 +804,14 @@ Dialogue: 0,0:56:07.17,0:56:10.11,Default,,0,0,0,,Tak bisa melukai siapapun atau
 Dialogue: 0,0:56:13.04,0:56:14.71,Default,,0,0,0,,Apa itu kedengarannya seperti rencana?
 Dialogue: 0,0:56:16.84,0:56:18.28,Default,,0,0,0,,Kedengarannya seperti rencana.
 Dialogue: 0,0:56:24.88,0:56:26.82,Default,,0,0,0,,Sepertinya tumpangan kita sudah tiba.
-Dialogue: 0,0:56:28.61,0:56:30.58,Default,,0,0,0,,Pangkalan Angkatan Udara Scott
-Dialogue: 0,0:56:38.16,0:56:40.73,Default,,0,0,0,,Beritahu situasinya Kapten Evans
-Dialogue: 0,0:56:44.34,0:56:46.24,Default,,0,0,0,,Dimengerti, pasang pertahanan
-Dialogue: 0,0:56:50.71,0:56:52.98,Default,,0,0,0,,- Kolonel Blake, pak.\N- Black-Dog-Six-Actual..,..
-Dialogue: 0,0:56:52.98,0:56:55.35,Default,,0,0,0,,Kami melihat sasaran Alpha dan Bravo
+Dialogue: 0,0:56:28.61,0:56:30.58,Default,,0,0,0,,{\c&H00ffff&\b1}Pangkalan Angkatan Udara Scott{\b0}
+Dialogue: 0,0:56:38.16,0:56:40.73,Default,,0,0,0,,{\i1}Beritahu situasinya Kapten Evans{\i0}
+Dialogue: 0,0:56:44.34,0:56:46.24,Default,,0,0,0,,{\i1}Dimengerti, pasang pertahanan{\i0}
+Dialogue: 0,0:56:50.71,0:56:52.98,Default,,0,0,0,,- Kolonel Blake, pak.\N{\i1}- Black-Dog-Six-Actual..,..{\i0}
+Dialogue: 0,0:56:52.98,0:56:55.35,Default,,0,0,0,,{\i1}Kami melihat sasaran Alpha dan Bravo{\i0}
 Dialogue: 0,0:56:55.35,0:56:58.42,Default,,0,0,0,,Dimengerti, ambil posisi menyerang mereka.
-Dialogue: 0,0:56:58.42,0:56:59.82,Default,,0,0,0,,Dimengerti, Six-Actual
-Dialogue: 0,0:56:59.82,0:57:01.92,Default,,0,0,0,,Sasaran delapan kilometer\Njauhnya dan bergerak cepat
+Dialogue: 0,0:56:58.42,0:56:59.82,Default,,0,0,0,,{\i1}Dimengerti, Six-Actual{\i0}
+Dialogue: 0,0:56:59.82,0:57:01.92,Default,,0,0,0,,{\i1}Sasaran delapan kilometer\Njauhnya dan bergerak cepat{\i0}
 Dialogue: 0,0:57:01.92,0:57:03.52,Default,,0,0,0,,George bersama Serigala?
 Dialogue: 0,0:57:04.76,0:57:06.72,Default,,0,0,0,,Kau menyerang Gorila itu, pak?
 Dialogue: 0,0:57:06.73,0:57:08.09,Default,,0,0,0,,Dan juga Serigala.
@@ -823,10 +851,10 @@ Dialogue: 0,0:58:34.11,0:58:35.61,Default,,0,0,0,,Mereka akan mengantarmu keluar
 Dialogue: 0,0:58:35.62,0:58:36.82,Default,,0,0,0,,- Bu, mari pergi.\N- Ayo.
 Dialogue: 0,0:58:38.25,0:58:39.75,Default,,0,0,0,,Kau membuat kesalahan besar, Kolonel.
 Dialogue: 0,0:58:39.75,0:58:41.49,Default,,0,0,0,,Pak, mari pergi.
-Dialogue: 0,0:58:42.19,0:58:44.85,Default,,0,0,0,,Sasaran dikepung, semuanya bersiap,\NSasaran ada di tiga zona serangan
-Dialogue: 0,0:58:44.86,0:58:46.86,Default,,0,0,0,,Tahan tembakan sampai diperintahkan
-Dialogue: 0,0:58:46.86,0:58:49.26,Default,,0,0,0,,Black-Dog-Six-Actual,\NKami sudah mengepung sasaran
-Dialogue: 0,0:58:49.26,0:58:52.33,Default,,0,0,0,,Penyergapan siap,\NSemua personil siaga
+Dialogue: 0,0:58:42.19,0:58:44.85,Default,,0,0,0,,{\i1}Sasaran dikepung, semuanya bersiap,\NSasaran ada di tiga zona serangan{\i0}
+Dialogue: 0,0:58:44.86,0:58:46.86,Default,,0,0,0,,{\i1}Tahan tembakan sampai diperintahkan{\i0}
+Dialogue: 0,0:58:46.86,0:58:49.26,Default,,0,0,0,,{\i1}Black-Dog-Six-Actual,\NKami sudah mengepung sasaran{\i0}
+Dialogue: 0,0:58:49.26,0:58:52.33,Default,,0,0,0,,{\i1}Penyergapan siap,\NSemua personil siaga{\i0}
 Dialogue: 0,0:58:52.33,0:58:53.70,Default,,0,0,0,,Bersiap menyerang.
 Dialogue: 0,0:58:58.64,0:59:02.21,Default,,0,0,0,,Operasi ini akan gagal.\NKita harus pergi ke Chicago.
 Dialogue: 0,0:59:04.14,0:59:06.64,Default,,0,0,0,,Ya, sedang kupikirkan.
@@ -857,7 +885,7 @@ Dialogue: 0,1:00:11.51,1:00:13.11,Default,,0,0,0,,Kita sedang mencari apa?
 Dialogue: 0,1:00:13.11,1:00:16.71,Default,,0,0,0,,Kita mencari helikopter\NTerutama yang tak dikepung anggota militer.
 Dialogue: 0,1:00:16.78,1:00:19.59,Default,,0,0,0,,Mereka mungkin punya helikopter medis\NDi dekat Rumah Sakit.
 Dialogue: 0,1:00:23.39,1:00:25.43,Default,,0,0,0,,Itu alasannya kau harus membawa dokter.
-Dialogue: 0,1:00:27.43,1:00:35.43,Default,,0,0,0,,Sedia Account RapidGator, UptoBox,\NNitroFlare, Dll www.PremixStore.com
+Dialogue: 0,1:00:27.43,1:00:35.43,Default,,0,0,0,,{\b1}Sedia Account RapidGator, UptoBox,\NNitroFlare, Dll {\c&H00ff00&}www.PremixStore.com{\c}{\b0}
 Dialogue: 0,1:00:51.15,1:00:52.55,Default,,0,0,0,,Bagus sekali, Dok.
 Dialogue: 0,1:00:58.23,1:01:00.66,Default,,0,0,0,,Yah, yah, yah, lihatlah kalian.
 Dialogue: 0,1:01:00.66,1:01:02.96,Default,,0,0,0,,Mencuri helikopter Rumah Sakit.
@@ -893,27 +921,27 @@ Dialogue: 0,1:02:24.68,1:02:26.48,Default,,0,0,0,,Aku akan terbiasa.
 Dialogue: 0,1:02:26.48,1:02:28.81,Default,,0,0,0,,Aku akan terbiasa, Sekarang juga.
 Dialogue: 0,1:02:30.32,1:02:32.05,Default,,0,0,0,,Ya.
 Dialogue: 0,1:02:32.05,1:02:35.08,Default,,0,0,0,,Aku akan terbiasa.\NAku akan terbiasa.
-Dialogue: 0,1:02:37.02,1:02:40.92,Default,,0,0,0,,Pak, 15 menit lagi mentari terbit\NMenunggu perintah menyerang, ganti
-Dialogue: 0,1:02:40.93,1:02:43.97,Default,,0,0,0,,Kami melihat sasaran\NSerpents dalam posisi, saatnya bermain
+Dialogue: 0,1:02:37.02,1:02:40.92,Default,,0,0,0,,{\i1}Pak, 15 menit lagi mentari terbit\NMenunggu perintah menyerang, ganti{\i0}
+Dialogue: 0,1:02:40.93,1:02:43.97,Default,,0,0,0,,{\i1}Kami melihat sasaran\NSerpents dalam posisi, saatnya bermain{\i0}
 Dialogue: 0,1:02:45.66,1:02:47.80,Default,,0,0,0,,Tampilkan FLIR di layar.
-Dialogue: 0,1:02:48.10,1:02:50.20,Default,,0,0,0,,FLIR tampil
-Dialogue: 0,1:02:50.20,1:02:51.17,Default,,0,0,0,,Di sini Tiga - Enam,\NSasaran di tempat terbuka, ganti
+Dialogue: 0,1:02:48.10,1:02:50.20,Default,,0,0,0,,{\i1}FLIR tampil{\i0}
+Dialogue: 0,1:02:50.20,1:02:51.17,Default,,0,0,0,,{\i1}Di sini Tiga - Enam,\NSasaran di tempat terbuka, ganti{\i0}
 Dialogue: 0,1:02:51.17,1:02:52.34,Default,,0,0,0,,Bersiap menembak
-Dialogue: 0,1:02:52.34,1:02:53.74,Default,,0,0,0,,Tembak
-Dialogue: 0,1:02:59.88,1:03:02.45,Default,,0,0,0,,Kena telak, menunggu konfirmasi
+Dialogue: 0,1:02:52.34,1:02:53.74,Default,,0,0,0,,{\i1}Tembak{\i0}
+Dialogue: 0,1:02:59.88,1:03:02.45,Default,,0,0,0,,{\i1}Kena telak, menunggu konfirmasi{\i0}
 Dialogue: 0,1:03:02.45,1:03:04.01,Default,,0,0,0,,Konfirmasi EKIA.
-Dialogue: 0,1:03:04.02,1:03:06.55,Default,,0,0,0,,Six-Alpha-Lobo X-ray\NKonfirmasi EKIA, ganti
-Dialogue: 0,1:03:06.55,1:03:08.45,Default,,0,0,0,,Dimengerti, Lobo Menunggu
-Dialogue: 0,1:03:08.45,1:03:10.22,Default,,0,0,0,,Dua - Enam, terus amati
-Dialogue: 0,1:03:11.92,1:03:14.59,Default,,0,0,0,,Echo - Nol - Dua\NBergerak ke tahap Garis Emas
-Dialogue: 0,1:03:16.13,1:03:17.26,Default,,0,0,0,,Yesus!
-Dialogue: 0,1:03:17.26,1:03:20.13,Default,,0,0,0,,Ayolah, ayolah
-Dialogue: 0,1:03:20.13,1:03:22.63,Default,,0,0,0,,Six-Alpha-Lobo X-ray\NLaporkan situasi, ganti
-Dialogue: 0,1:03:22.64,1:03:24.37,Default,,0,0,0,,Negatif EKIA
-Dialogue: 0,1:03:24.37,1:03:27.47,Default,,0,0,0,,Mereka pasti sudah bergerak, pak\NKu-ulangi, kami tak lagi..,..
-Dialogue: 0,1:03:30.08,1:03:32.08,Default,,0,0,0,,Yesus Kristus!
-Dialogue: 0,1:03:32.08,1:03:34.48,Default,,0,0,0,,Mereka mengepung sisi timur dan barat kami!\NSemuanya pergi!
-Dialogue: 0,1:03:38.32,1:03:39.42,Default,,0,0,0,,Tak ada yang berhasil!
+Dialogue: 0,1:03:04.02,1:03:06.55,Default,,0,0,0,,{\i1}Six-Alpha-Lobo X-ray\NKonfirmasi EKIA, ganti{\i0}
+Dialogue: 0,1:03:06.55,1:03:08.45,Default,,0,0,0,,{\i1}Dimengerti, Lobo Menunggu{\i0}
+Dialogue: 0,1:03:08.45,1:03:10.22,Default,,0,0,0,,{\i1}Dua - Enam, terus amati{\i0}
+Dialogue: 0,1:03:11.92,1:03:14.59,Default,,0,0,0,,{\i1}Echo - Nol - Dua\NBergerak ke tahap Garis Emas{\i0}
+Dialogue: 0,1:03:16.13,1:03:17.26,Default,,0,0,0,,{\i1}Yesus!{\i0}
+Dialogue: 0,1:03:17.26,1:03:20.13,Default,,0,0,0,,{\i1}Ayolah, ayolah{\i0}
+Dialogue: 0,1:03:20.13,1:03:22.63,Default,,0,0,0,,{\i1}Six-Alpha-Lobo X-ray\NLaporkan situasi, ganti{\i0}
+Dialogue: 0,1:03:22.64,1:03:24.37,Default,,0,0,0,,{\i1}Negatif EKIA{\i0}
+Dialogue: 0,1:03:24.37,1:03:27.47,Default,,0,0,0,,{\i1}Mereka pasti sudah bergerak, pak\NKu-ulangi, kami tak lagi..,..{\i0}
+Dialogue: 0,1:03:30.08,1:03:32.08,Default,,0,0,0,,{\i1}Yesus Kristus!{\i0}
+Dialogue: 0,1:03:32.08,1:03:34.48,Default,,0,0,0,,{\i1}Mereka mengepung sisi timur dan barat kami!\NSemuanya pergi!{\i0}
+Dialogue: 0,1:03:38.32,1:03:39.42,Default,,0,0,0,,{\i1}Tak ada yang berhasil!{\i0}
 Dialogue: 0,1:03:42.45,1:03:45.73,Default,,0,0,0,,Bushmaster-Six-Alpha, di sini Lobo X-ray.\NLaporkan situasi, ganti.
 Dialogue: 0,1:03:46.59,1:03:47.79,Default,,0,0,0,,Kapten Evans?
 Dialogue: 0,1:03:53.60,1:03:57.17,Default,,0,0,0,,Kaplan, informasikan Garda Nasional\NMelaksanakan rencana tak terduga.
@@ -924,30 +952,30 @@ Dialogue: 0,1:04:03.68,1:04:06.08,Default,,0,0,0,,Dan membantu warga keluar dari
 Dialogue: 0,1:04:06.08,1:04:08.81,Default,,0,0,0,,Aku ingin blokade setiap\Nseperempat mil wilayah Selatan!
 Dialogue: 0,1:04:08.81,1:04:10.85,Default,,0,0,0,,Kita evakuasi warga ke Utara!
 Dialogue: 0,1:04:10.85,1:04:14.25,Default,,0,0,0,,Ini aku, mereka mengevakuasi Chicago.
-Dialogue: 0,1:04:14.25,1:04:16.85,Default,,0,0,0,,George dan Serigala\Nmenghancurkan pasukan Blake
-Dialogue: 0,1:04:16.85,1:04:19.62,Default,,0,0,0,,Okoye, mereka ada di depanmu
+Dialogue: 0,1:04:14.25,1:04:16.85,Default,,0,0,0,,{\i1}George dan Serigala\Nmenghancurkan pasukan Blake{\i0}
+Dialogue: 0,1:04:16.85,1:04:19.62,Default,,0,0,0,,{\i1}Okoye, mereka ada di depanmu{\i0}
 Dialogue: 0,1:04:19.62,1:04:20.76,Default,,0,0,0,,Dimengerti.
 Dialogue: 0,1:04:24.96,1:04:27.03,Default,,0,0,0,,Ada apa?
 Dialogue: 0,1:04:27.03,1:04:29.27,Default,,0,0,0,,Mereka tak bisa mengeluarkan\Nwarga Kota tepat waktu.
 Dialogue: 0,1:05:01.20,1:05:02.34,Default,,0,0,0,,Davis!
-Dialogue: 0,1:05:21.55,1:05:23.09,Default,,0,0,0,,Dua - Tiga, sasaran di tempat terbuka
-Dialogue: 0,1:05:23.09,1:05:24.62,Default,,0,0,0,,Dimengerti, kalian bisa menyerangnya
-Dialogue: 0,1:05:24.62,1:05:27.66,Default,,0,0,0,,Dimengerti, lepaskan senjata\NAku menyerang sekarang
-Dialogue: 0,1:05:27.66,1:05:29.36,Default,,0,0,0,,Yesus!\NAku terkena! Aku terkena!
-Dialogue: 0,1:05:29.36,1:05:31.06,Default,,0,0,0,,Pesawat jatuh! Pesawat jatuh!
-Dialogue: 0,1:05:31.06,1:05:33.26,Default,,0,0,0,,Persetan, akan kuhancurkan dia!
-Dialogue: 0,1:05:33.50,1:05:35.00,Default,,0,0,0,,Aku tak punya kendali!
-Dialogue: 0,1:05:43.74,1:05:46.06,Default,,0,0,0,,Dua - Sembilan menembak, sasaran terkena\NTerus menyerangnya
-Dialogue: 0,1:05:50.95,1:05:52.45,Default,,0,0,0,,Dia menyerangku dengan sesuatu!
-Dialogue: 0,1:05:52.45,1:05:53.75,Default,,0,0,0,,Kehilangan kemudi ekor!
-Dialogue: 0,1:05:53.75,1:05:55.76,Default,,0,0,0,,Darurat! Darurat!\NAku akan jatuh!
+Dialogue: 0,1:05:21.55,1:05:23.09,Default,,0,0,0,,{\i1}Dua - Tiga, sasaran di tempat terbuka{\i0}
+Dialogue: 0,1:05:23.09,1:05:24.62,Default,,0,0,0,,{\i1}Dimengerti, kalian bisa menyerangnya{\i0}
+Dialogue: 0,1:05:24.62,1:05:27.66,Default,,0,0,0,,{\i1}Dimengerti, lepaskan senjata\NAku menyerang sekarang{\i0}
+Dialogue: 0,1:05:27.66,1:05:29.36,Default,,0,0,0,,{\i1}Yesus!\NAku terkena! Aku terkena!{\i0}
+Dialogue: 0,1:05:29.36,1:05:31.06,Default,,0,0,0,,{\i1}Pesawat jatuh! Pesawat jatuh!{\i0}
+Dialogue: 0,1:05:31.06,1:05:33.26,Default,,0,0,0,,{\i1}Persetan, akan kuhancurkan dia!{\i0}
+Dialogue: 0,1:05:33.50,1:05:35.00,Default,,0,0,0,,{\i1}Aku tak punya kendali!{\i0}
+Dialogue: 0,1:05:43.74,1:05:46.06,Default,,0,0,0,,{\i1}Dua - Sembilan menembak, sasaran terkena\NTerus menyerangnya{\i0}
+Dialogue: 0,1:05:50.95,1:05:52.45,Default,,0,0,0,,{\i1}Dia menyerangku dengan sesuatu!{\i0}
+Dialogue: 0,1:05:52.45,1:05:53.75,Default,,0,0,0,,{\i1}Kehilangan kemudi ekor!{\i0}
+Dialogue: 0,1:05:53.75,1:05:55.76,Default,,0,0,0,,{\i1}Darurat! Darurat!\NAku akan jatuh!{\i0}
 Dialogue: 0,1:06:02.59,1:06:04.89,Default,,0,0,0,,Laporkan status.\NMana Warthog Satu?
-Dialogue: 0,1:06:04.90,1:06:06.63,Default,,0,0,0,,- Dalam perjalanan, pak.\N- Warthog Satu..,..
-Dialogue: 0,1:06:06.63,1:06:08.35,Default,,0,0,0,,- Kau bisa menyerangnya\N- Dimengerti
-Dialogue: 0,1:06:16.61,1:06:18.44,Default,,0,0,0,,Di sini Warthog Satu\NSasaran meleset
-Dialogue: 0,1:06:20.81,1:06:23.75,Default,,0,0,0,,Lobo X-ray, minta izin menyerang lagi
+Dialogue: 0,1:06:04.90,1:06:06.63,Default,,0,0,0,,- Dalam perjalanan, pak.\N{\i1}- Warthog Satu..,..{\i0}
+Dialogue: 0,1:06:06.63,1:06:08.35,Default,,0,0,0,,{\i1}- Kau bisa menyerangnya\N- Dimengerti{\i0}
+Dialogue: 0,1:06:16.61,1:06:18.44,Default,,0,0,0,,{\i1}Di sini Warthog Satu\NSasaran meleset{\i0}
+Dialogue: 0,1:06:20.81,1:06:23.75,Default,,0,0,0,,{\i1}Lobo X-ray, minta izin menyerang lagi{\i0}
 Dialogue: 0,1:06:23.75,1:06:26.95,Default,,0,0,0,,Warthog Satu, di sini Black-Dog-Six-Actual.\NSerang mereka lagi.
-Dialogue: 0,1:06:26.95,1:06:28.19,Default,,0,0,0,,Dimengerti
+Dialogue: 0,1:06:26.95,1:06:28.19,Default,,0,0,0,,{\i1}Dimengerti{\i0}
 Dialogue: 0,1:06:28.19,1:06:29.95,Default,,0,0,0,,Kaplan, perkembangan evakuasinya?
 Dialogue: 0,1:06:29.95,1:06:31.62,Default,,0,0,0,,50 % pusat Kota, pak.
 Dialogue: 0,1:06:32.39,1:06:35.42,Default,,0,0,0,,Pak, ada sesuatu menuju Utara\NDi Sungai, setengah mil jaraknya.
@@ -957,24 +985,24 @@ Dialogue: 0,1:06:45.34,1:06:46.84,Default,,0,0,0,,Dia di bawah air, pak.
 Dialogue: 0,1:06:46.84,1:06:49.17,Default,,0,0,0,,Kita tak punya kapal selam di tempat itu.
 Dialogue: 0,1:07:06.76,1:07:09.09,Default,,0,0,0,,Davis, ada makhluk besar di dalam air.
 Dialogue: 0,1:07:38.99,1:07:40.73,Default,,0,0,0,,Itu menyebalkan.
-Dialogue: 0,1:07:42.06,1:07:43.43,Default,,0,0,0,,Di sini Dua - Tiga
-Dialogue: 0,1:07:43.43,1:07:45.16,Default,,0,0,0,,Kami melihat musuh di sungai, ganti
-Dialogue: 0,1:07:45.16,1:07:46.40,Default,,0,0,0,,Katakan lagi, Dua - Tiga?
-Dialogue: 0,1:07:46.40,1:07:48.70,Default,,0,0,0,,Melihat musuh!\NSasaran menuju Timur!
-Dialogue: 0,1:07:48.70,1:07:50.47,Default,,0,0,0,,Dimengerti, Tiga - Dua\NDiperintahkan terus menyerang
-Dialogue: 0,1:07:50.47,1:07:51.87,Default,,0,0,0,,Negatif, negatif!\NBahaya mendekat!
-Dialogue: 0,1:07:51.87,1:07:53.14,Default,,0,0,0,,Dimengerti, Tiga Dua!
+Dialogue: 0,1:07:42.06,1:07:43.43,Default,,0,0,0,,{\i1}Di sini Dua - Tiga{\i0}
+Dialogue: 0,1:07:43.43,1:07:45.16,Default,,0,0,0,,{\i1}Kami melihat musuh di sungai, ganti{\i0}
+Dialogue: 0,1:07:45.16,1:07:46.40,Default,,0,0,0,,{\i1}Katakan lagi, Dua - Tiga?{\i0}
+Dialogue: 0,1:07:46.40,1:07:48.70,Default,,0,0,0,,{\i1}Melihat musuh!\NSasaran menuju Timur!{\i0}
+Dialogue: 0,1:07:48.70,1:07:50.47,Default,,0,0,0,,{\i1}Dimengerti, Tiga - Dua\NDiperintahkan terus menyerang{\i0}
+Dialogue: 0,1:07:50.47,1:07:51.87,Default,,0,0,0,,{\i1}Negatif, negatif!\NBahaya mendekat!{\i0}
+Dialogue: 0,1:07:51.87,1:07:53.14,Default,,0,0,0,,{\i1}Dimengerti, Tiga Dua!{\i0}
 Dialogue: 0,1:07:53.14,1:07:55.91,Default,,0,0,0,,Kerahkan semua pasukan menyerang\Nmakhluk itu, sekarang!
-Dialogue: 0,1:07:57.54,1:08:00.51,Default,,0,0,0,,Musuh terlihat!\NArah jam tiga! Serang!
+Dialogue: 0,1:07:57.54,1:08:00.51,Default,,0,0,0,,{\i1}Musuh terlihat!\NArah jam tiga! Serang!{\i0}
 Dialogue: 0,1:08:00.51,1:08:02.01,Default,,0,0,0,,- Kepung dia!\N- Ayo!
 Dialogue: 0,1:08:02.38,1:08:03.65,Default,,0,0,0,,Serang kekuatan penuh!
 Dialogue: 0,1:08:03.65,1:08:05.02,Default,,0,0,0,,Bidik insangnya!
 Dialogue: 0,1:08:05.02,1:08:06.32,Default,,0,0,0,,Tembak!
 Dialogue: 0,1:08:31.54,1:08:33.25,Default,,0,0,0,,Tembak! Tembak! Tembak!
-Dialogue: 0,1:08:51.80,1:08:53.20,Default,,0,0,0,,Mereka tak bisa menghentikannya
+Dialogue: 0,1:08:51.80,1:08:53.20,Default,,0,0,0,,{\i1}Mereka tak bisa menghentikannya{\i0}
 Dialogue: 0,1:08:53.20,1:08:54.87,Default,,0,0,0,,Kita harus mengambil penawarnya.
-Dialogue: 0,1:09:11.55,1:09:13.32,Default,,0,0,0,,Alpha-Six-Actual,\NKami tak bisa menahan mereka!
-Dialogue: 0,1:09:13.32,1:09:14.95,Default,,0,0,0,,Setengah pasukanku binasa!\NKami mundur!
+Dialogue: 0,1:09:11.55,1:09:13.32,Default,,0,0,0,,{\i1}Alpha-Six-Actual,\NKami tak bisa menahan mereka!{\i0}
+Dialogue: 0,1:09:13.32,1:09:14.95,Default,,0,0,0,,{\i1}Setengah pasukanku binasa!\NKami mundur!{\i0}
 Dialogue: 0,1:09:14.95,1:09:16.72,Default,,0,0,0,,Kita mengevakuasi pusat Kota?
 Dialogue: 0,1:09:16.72,1:09:19.26,Default,,0,0,0,,Radius 10 Km aman mulai dari\NUpper Wacker sampai Adams, pak.
 Dialogue: 0,1:09:19.26,1:09:20.72,Default,,0,0,0,,Siapkan MOAB.
@@ -999,14 +1027,14 @@ Dialogue: 0,1:10:17.55,1:10:20.28,Default,,0,0,0,,Pergilah dari sini!
 Dialogue: 0,1:10:20.29,1:10:24.02,Default,,0,0,0,,Akhirnya, perintah darimu\Nyang bisa kuturuti.
 Dialogue: 0,1:10:29.69,1:10:31.73,Default,,0,0,0,,Tampilkan pesawat pengebom kita.
 Dialogue: 0,1:10:34.47,1:10:35.92,Default,,0,0,0,,Tampilan pengebom muncul.
-Dialogue: 0,1:10:37.03,1:10:40.37,Default,,0,0,0,,Viper Two-Five, kau siap\NMelakukan misi sekarang juga
-Dialogue: 0,1:10:40.37,1:10:42.41,Default,,0,0,0,,Dimengerti, landasan dua - lima
-Dialogue: 0,1:10:42.41,1:10:44.24,Default,,0,0,0,,Siap meluncur, landasan dua - lima
-Dialogue: 0,1:10:44.24,1:10:45.88,Default,,0,0,0,,Siap meluncur, landasan dua - lima
-Dialogue: 0,1:10:45.88,1:10:47.39,Default,,0,0,0,,Dimengerti, semoga beruntung
-Dialogue: 0,1:10:48.51,1:10:50.98,Default,,0,0,0,,Lobo X-ray, di sini Viper dua - lima
-Dialogue: 0,1:10:51.38,1:10:53.42,Default,,0,0,0,,Paket sudah terbang
-Dialogue: 0,1:10:53.42,1:10:55.24,Default,,0,0,0,,Kami menuju ke sana
+Dialogue: 0,1:10:37.03,1:10:40.37,Default,,0,0,0,,{\i1}Viper Two-Five, kau siap\NMelakukan misi sekarang juga{\i0}
+Dialogue: 0,1:10:40.37,1:10:42.41,Default,,0,0,0,,{\i1}Dimengerti, landasan dua - lima{\i0}
+Dialogue: 0,1:10:42.41,1:10:44.24,Default,,0,0,0,,{\i1}Siap meluncur, landasan dua - lima{\i0}
+Dialogue: 0,1:10:44.24,1:10:45.88,Default,,0,0,0,,{\i1}Siap meluncur, landasan dua - lima{\i0}
+Dialogue: 0,1:10:45.88,1:10:47.39,Default,,0,0,0,,{\i1}Dimengerti, semoga beruntung{\i0}
+Dialogue: 0,1:10:48.51,1:10:50.98,Default,,0,0,0,,{\i1}Lobo X-ray, di sini Viper dua - lima{\i0}
+Dialogue: 0,1:10:51.38,1:10:53.42,Default,,0,0,0,,{\i1}Paket sudah terbang{\i0}
+Dialogue: 0,1:10:53.42,1:10:55.24,Default,,0,0,0,,{\i1}Kami menuju ke sana{\i0}
 Dialogue: 0,1:10:56.52,1:10:59.42,Default,,0,0,0,,Agen Russell, ini informasi yang kau minta.
 Dialogue: 0,1:10:59.42,1:11:02.19,Default,,0,0,0,,Ini daftar FBI dari server Energyne.
 Dialogue: 0,1:11:02.19,1:11:03.66,Default,,0,0,0,,Kau benar.
@@ -1021,8 +1049,8 @@ Dialogue: 0,1:11:44.80,1:11:45.94,Default,,0,0,0,,Labnya ada di sini.
 Dialogue: 0,1:11:46.77,1:11:48.54,Default,,0,0,0,,Sialan!
 Dialogue: 0,1:11:50.24,1:11:51.88,Default,,0,0,0,,Hei, beri aku berita bagus.
 Dialogue: 0,1:11:51.88,1:11:54.25,Default,,0,0,0,,MOAB sampai sekitar 30 menit lagi.
-Dialogue: 0,1:11:54.25,1:11:56.38,Default,,0,0,0,,Satu Bom bisa menghancurkan lima blok Kota
-Dialogue: 0,1:11:56.38,1:11:57.71,Default,,0,0,0,,Kau harus bergerak!
+Dialogue: 0,1:11:54.25,1:11:56.38,Default,,0,0,0,,{\i1}Satu Bom bisa menghancurkan lima blok Kota{\i0}
+Dialogue: 0,1:11:56.38,1:11:57.71,Default,,0,0,0,,{\i1}Kau harus bergerak!{\i0}
 Dialogue: 0,1:11:57.72,1:11:59.72,Default,,0,0,0,,Aku tak mau menerima teleponmu lagi.
 Dialogue: 0,1:11:59.72,1:12:02.09,Default,,0,0,0,,Pintunya terkunci.\NApa katanya?
 Dialogue: 0,1:12:02.09,1:12:04.91,Default,,0,0,0,,Sesuatu mengenai Bom terbesar\NMenuju kemari dan kita harus cepat.
@@ -1162,7 +1190,7 @@ Dialogue: 0,1:21:48.54,1:21:49.64,Default,,0,0,0,,Oh, Yesus!
 Dialogue: 0,1:21:51.94,1:21:54.55,Default,,0,0,0,,Ya Tuhanku!
 Dialogue: 0,1:22:01.65,1:22:03.66,Default,,0,0,0,,Pegangan, Kate!
 Dialogue: 0,1:22:11.70,1:22:13.16,Default,,0,0,0,,Benturan!
-Dialogue: 0,1:22:42.00,1:22:50.00,Default,,0,0,0,,Pusat Account Premium FileHosting Termurah\Nwww.PremixStore.com
+Dialogue: 0,1:22:42.00,1:22:50.00,Default,,0,0,0,,{\b1}Pusat Account Premium FileHosting Termurah\N{\c&Hffff00&}www.PremixStore.com{\c}{\b0}
 Dialogue: 0,1:23:00.88,1:23:02.25,Default,,0,0,0,,Aku memegangimu.
 Dialogue: 0,1:23:13.82,1:23:15.33,Default,,0,0,0,,Aku ingin minum.
 Dialogue: 0,1:23:27.34,1:23:29.34,Default,,0,0,0,,Aku tak percaya kita selamat dari itu.
@@ -1178,11 +1206,11 @@ Dialogue: 0,1:24:28.73,1:24:30.47,Default,,0,0,0,,Oh, aku terlihat kacau?
 Dialogue: 0,1:24:31.00,1:24:32.37,Default,,0,0,0,,Baik.
 Dialogue: 0,1:24:32.37,1:24:35.67,Default,,0,0,0,,Kau terlihat kacau lebih besar lagi!
 Dialogue: 0,1:24:54.66,1:24:55.89,Default,,0,0,0,,Ayolah.
-Dialogue: 0,1:25:00.86,1:25:03.06,Default,,0,0,0,,Lobo X-ray, di sini Viper Dua - Lima
-Dialogue: 0,1:25:03.07,1:25:05.30,Default,,0,0,0,,Pesawat dalam posisi,\NKami dua menit dari sasaran
-Dialogue: 0,1:25:05.30,1:25:06.30,Default,,0,0,0,,Ganti
-Dialogue: 0,1:25:06.30,1:25:08.11,Default,,0,0,0,,Di mengerti, Dua - Lima\NTunggu perintah menembak
-Dialogue: 0,1:25:08.11,1:25:09.71,Default,,0,0,0,,- Ganti\N- Dimengerti
+Dialogue: 0,1:25:00.86,1:25:03.06,Default,,0,0,0,,{\i1}Lobo X-ray, di sini Viper Dua - Lima{\i0}
+Dialogue: 0,1:25:03.07,1:25:05.30,Default,,0,0,0,,{\i1}Pesawat dalam posisi,\NKami dua menit dari sasaran{\i0}
+Dialogue: 0,1:25:05.30,1:25:06.30,Default,,0,0,0,,{\i1}Ganti{\i0}
+Dialogue: 0,1:25:06.30,1:25:08.11,Default,,0,0,0,,{\i1}Di mengerti, Dua - Lima\NTunggu perintah menembak{\i0}
+Dialogue: 0,1:25:08.11,1:25:09.71,Default,,0,0,0,,{\i1}- Ganti\N- Dimengerti{\i0}
 Dialogue: 0,1:25:11.51,1:25:13.11,Default,,0,0,0,,Cepat! Cepat!
 Dialogue: 0,1:25:15.11,1:25:16.58,Default,,0,0,0,,Apa rencananya?
 Dialogue: 0,1:25:16.78,1:25:18.81,Default,,0,0,0,,Kendarai mobil ini dan\Ntemukan telepon satelit.
@@ -1218,15 +1246,15 @@ Dialogue: 0,1:28:07.05,1:28:08.72,Default,,0,0,0,,George, pergilah!
 Dialogue: 0,1:29:25.46,1:29:28.20,Default,,0,0,0,,Kolonel Blake, ini sobat\Nlamamu, Agen Russell.
 Dialogue: 0,1:29:28.20,1:29:29.80,Default,,0,0,0,,Dengar, soal MOAB-mu.
 Dialogue: 0,1:29:29.80,1:29:31.83,Default,,0,0,0,,Tolong bantulah aku..,..
-Dialogue: 0,1:29:31.84,1:29:34.67,Default,,0,0,0,,Lihat situasi di Federal Plaza\NSebelum kau jatuhkan bomnya
+Dialogue: 0,1:29:31.84,1:29:34.67,Default,,0,0,0,,{\i1}Lihat situasi di Federal Plaza\NSebelum kau jatuhkan bomnya{\i0}
 Dialogue: 0,1:29:34.97,1:29:37.11,Default,,0,0,0,,Tampilkan tayangan drone di Federal Plaza.
 Dialogue: 0,1:29:37.11,1:29:38.21,Default,,0,0,0,,Ya, pak.
 Dialogue: 0,1:29:41.95,1:29:43.52,Default,,0,0,0,,Ya, Tuhanku.
 Dialogue: 0,1:30:41.17,1:30:42.54,Default,,0,0,0,,Oh, ayolah.
 Dialogue: 0,1:30:59.36,1:31:01.26,Default,,0,0,0,,George, tidak!
-Dialogue: 0,1:31:04.13,1:31:06.59,Default,,0,0,0,,Di sini Viper Dua - Lima,\NDua menit sampai sasaran
-Dialogue: 0,1:31:06.60,1:31:09.43,Default,,0,0,0,,Sasaran terkunci,\NMOAB siap dijatuhkan
-Dialogue: 0,1:31:09.73,1:31:11.10,Default,,0,0,0,,Pintu terbuka
+Dialogue: 0,1:31:04.13,1:31:06.59,Default,,0,0,0,,{\i1}Di sini Viper Dua - Lima,\NDua menit sampai sasaran{\i0}
+Dialogue: 0,1:31:06.60,1:31:09.43,Default,,0,0,0,,{\i1}Sasaran terkunci,\NMOAB siap dijatuhkan{\i0}
+Dialogue: 0,1:31:09.73,1:31:11.10,Default,,0,0,0,,{\i1}Pintu terbuka{\i0}
 Dialogue: 0,1:31:24.91,1:31:26.58,Default,,0,0,0,,Lari!
 Dialogue: 0,1:31:26.58,1:31:28.65,Default,,0,0,0,,Bangunlah! Kau harus bergerak!
 Dialogue: 0,1:31:56.11,1:31:57.95,Default,,0,0,0,,Ayolah, ayolah, ayolah!
@@ -1284,6 +1312,6 @@ Dialogue: 0,1:39:07.18,1:39:09.21,Default,,0,0,0,,Bagaimana jika kita membantu\N
 Dialogue: 0,1:39:09.21,1:39:11.35,Default,,0,0,0,,Lalu mencari rumah baru bagi George.
 Dialogue: 0,1:39:11.35,1:39:13.88,Default,,0,0,0,,Kemana kita akan menaruhnya?
 Dialogue: 0,1:39:13.88,1:39:16.95,Default,,0,0,0,,Bisa kupastikan, kita tak akan\Nmenaruhnya dalam pesawat.
-Dialogue: 0,1:39:23.39,1:39:31.39,Default,,0,0,0,,Pusat Account Premium FileHosting Termurah Se-INDONESIA Rapidgator,\NFileNext, UptoBox, NitroFlare, DLL www.PremixStore.com
-Dialogue: 0,1:39:53.40,1:40:01.40,Default,,0,0,0,,Pasang Iklanmu di Forum www.IDFL.ME Traffic Rank Tinggi,\NJutaan Unique Visitor, Milyaran Benefit WA 088 132 669 06
-Dialogue: 0,1:40:03.40,1:40:11.40,Default,,0,0,0,,Pein Akatsuki - WWW.SEBUAH-DONGENG.COM\NFollow My Instagram @paint_lapain
+Dialogue: 0,1:39:23.39,1:39:31.39,Default,,0,0,0,,{\b1\c&Hffff00&}Pusat Account Premium FileHosting Termurah Se-INDONESIA{\c} {\c&H00ff00&}Rapidgator,\NFileNext, UptoBox, NitroFlare, DLL{\c} {\c&H00ffff&}www.PremixStore.com{\c}{\b0}
+Dialogue: 0,1:39:53.40,1:40:01.40,Default,,0,0,0,,{\b1}Pasang Iklanmu di Forum {\c&Hffff00&}www.IDFL.ME{\c} {\c&H00ffff&}Traffic Rank Tinggi,\NJutaan Unique Visitor, Milyaran Benefit{\c} {\c&H00ff00&}WA {\c&H0000ff&}{\c} {\c&H00ff00&}088 132 669 06{\c}{\c}{\b0}
+Dialogue: 0,1:40:03.40,1:40:11.40,Default,,0,0,0,,{\b1\c&H00ff00&}Pein Akatsuki{\c} - {\c&Hffff00&}WWW.SEBUAH-DONGENG.COM{\c}\NFollow My Instagram {\c&H00ffff&}@paint_lapain{\c}{\b0}
