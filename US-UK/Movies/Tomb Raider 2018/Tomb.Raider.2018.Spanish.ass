@@ -1,0 +1,867 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 2
+PlayResX: 640
+ScaledBorderAndShadow: Yes
+Video File: OuterScienceAVI.avi
+Video Aspect Ratio: 0
+Video Zoom: 4
+Video Position: 6487
+Last Style Storage: Default
+Collisions: Normal
+PlayResY: 480
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:51.89,0:00:54.85,Default,,0,0,0,,{\i1}17 de mayo de 2009.{\i0}
+Dialogue: 0,0:00:55.22,0:00:57.18,Default,,0,0,0,,{\i1}Investigación adicional sobre Himiko.{\i0}
+Dialogue: 0,0:00:58.01,0:01:01.93,Default,,0,0,0,,{\i1}Según la leyenda,\NHimiko, la primera Reina de Japón...{\i0}
+Dialogue: 0,0:01:02.39,0:01:06.93,Default,,0,0,0,,{\i1}fue una hechicera poderosa que gobernó\Nsu imperio a través de la magia negra...{\i0}
+Dialogue: 0,0:01:07.80,0:01:12.05,Default,,0,0,0,,{\i1}diseminando muerte y destrucción\Nsólo con el toque de su mano.{\i0}
+Dialogue: 0,0:01:12.89,0:01:16.22,Default,,0,0,0,,{\i1}Un evento inesperado la detuvo.{\i0}
+Dialogue: 0,0:01:16.39,0:01:20.43,Default,,0,0,0,,{\i1}Un ejército de sus propios generales\Ncapturó y arrastró a Himiko{\i0}
+Dialogue: 0,0:01:20.60,0:01:25.51,Default,,0,0,0,,{\i1}a una Isla deshabitada\Nen medio del Mar del Diablo.{\i0}
+Dialogue: 0,0:01:25.80,0:01:30.22,Default,,0,0,0,,{\i1}Allí permanece enterrada\Nbajo las montañas.{\i0}
+Dialogue: 0,0:01:31.30,0:01:35.30,Default,,0,0,0,,{\i1}Encontré una parte de un viejo mapa\Nque nadie más tiene.{\i0}
+Dialogue: 0,0:01:35.72,0:01:37.26,Default,,0,0,0,,{\i1}Y allí está...{\i0}
+Dialogue: 0,0:01:37.76,0:01:39.26,Default,,0,0,0,,{\i1}esperando ser liberada.{\i0}
+Dialogue: 0,0:01:41.68,0:01:43.97,Default,,0,0,0,,{\i1}Debo llegar primero.{\i0}
+Dialogue: 0,0:01:45.01,0:01:48.85,Default,,0,0,0,,{\i1}Aunque eso implique hacer\Nlo último que desearía hacer...{\i0}
+Dialogue: 0,0:01:49.39,0:01:52.18,Default,,0,0,0,,{\i1}abandonar a mi Lara.{\i0}
+Dialogue: 0,0:01:54.47,0:01:57.35,Default,,0,0,0,,{\i1}Debes tomar decisiones, Lara.\NHaz que suceda algo.{\i0}
+Dialogue: 0,0:02:03.47,0:02:05.89,Default,,0,0,0,,El contraataque no es lo tuyo.\NNo tienes ese don.
+Dialogue: 0,0:02:06.05,0:02:07.93,Default,,0,0,0,,- Gracias, Terry.\N- De nada.
+Dialogue: 0,0:02:11.05,0:02:12.51,Default,,0,0,0,,¡Vamos, Lara!
+Dialogue: 0,0:02:15.80,0:02:17.35,Default,,0,0,0,,Deja de bailar y pelea.
+Dialogue: 0,0:02:19.60,0:02:20.76,Default,,0,0,0,,{\i1}¡Sí, nena!{\i0}
+Dialogue: 0,0:02:24.14,0:02:25.14,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:02:32.93,0:02:35.93,Default,,0,0,0,,¡Muy bien, Lara! ¡Puedes hacerlo!
+Dialogue: 0,0:02:40.60,0:02:42.10,Default,,0,0,0,,- Se terminó.\N- ¡No!
+Dialogue: 0,0:02:42.26,0:02:43.26,Default,,0,0,0,,¡Entonces escápate!
+Dialogue: 0,0:02:50.80,0:02:52.68,Default,,0,0,0,,¡Vamos, Lara! Date por vencida.
+Dialogue: 0,0:03:12.68,0:03:13.72,Default,,0,0,0,,No lo digas.
+Dialogue: 0,0:03:13.89,0:03:16.01,Default,,0,0,0,,Te tumbaron.
+Dialogue: 0,0:03:16.18,0:03:18.80,Default,,0,0,0,,- No me tumbaron.\N- Está bien. No te tumbaron.
+Dialogue: 0,0:03:19.51,0:03:20.64,Default,,0,0,0,,Te hicieron puré.
+Dialogue: 0,0:03:22.14,0:03:26.01,Default,,0,0,0,,¿Puré? No es una superheroína.
+Dialogue: 0,0:03:26.76,0:03:29.26,Default,,0,0,0,,La verdad es que la dejé hacerlo...
+Dialogue: 0,0:03:29.43,0:03:30.64,Default,,0,0,0,,¿Sin rencores?
+Dialogue: 0,0:03:31.85,0:03:33.10,Default,,0,0,0,,Sin rencores.
+Dialogue: 0,0:03:36.26,0:03:37.80,Default,,0,0,0,,¡En realidad, fue divertido!
+Dialogue: 0,0:03:37.97,0:03:39.05,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:03:43.89,0:03:45.14,Default,,0,0,0,,La próxima te venceré.
+Dialogue: 0,0:03:46.05,0:03:47.72,Default,,0,0,0,,Yo te haré puré.
+Dialogue: 0,0:03:50.10,0:03:52.55,Default,,0,0,0,,- Volverás temprano esta noche, ¿no?\N- Sí.
+Dialogue: 0,0:03:53.35,0:03:54.76,Default,,0,0,0,,Hasta luego.
+Dialogue: 0,0:03:55.18,0:03:56.18,Default,,0,0,0,,Hasta luego.
+Dialogue: 0,0:03:56.72,0:03:58.39,Default,,0,0,0,,¿Quién se robó mi manzana?
+Dialogue: 0,0:04:01.43,0:04:03.18,Default,,0,0,0,,Debí saber que fuiste tú.
+Dialogue: 0,0:04:04.26,0:04:05.89,Default,,0,0,0,,¿Por qué haría algo así?
+Dialogue: 0,0:04:06.05,0:04:09.80,Default,,0,0,0,,Porque no puedes comprarte una.\NVi que estás atrasada en tus pagos.
+Dialogue: 0,0:04:10.05,0:04:14.30,Default,,0,0,0,,Terry, me pondré al día.\NTe prometo. Te compensaré.
+Dialogue: 0,0:04:15.85,0:04:17.43,Default,,0,0,0,,Consigue un empleo, Lara.
+Dialogue: 0,0:04:18.89,0:04:21.35,Default,,0,0,0,,¿Crees que me visto así por diversión?
+Dialogue: 0,0:04:21.80,0:04:24.97,Default,,0,0,0,,Me caes bien, Lara, de veras, pero...
+Dialogue: 0,0:04:25.47,0:04:27.22,Default,,0,0,0,,SI NO PAGAS, NO PEGAS
+Dialogue: 0,0:05:04.01,0:05:05.01,Default,,0,0,0,,Hola.
+Dialogue: 0,0:05:05.18,0:05:07.64,Default,,0,0,0,,- ¿Todo bien?\N- Sí, tengo un gran día.
+Dialogue: 0,0:05:07.80,0:05:08.80,Default,,0,0,0,,¿Y tú?
+Dialogue: 0,0:05:10.18,0:05:11.51,Default,,0,0,0,,- Sí.\N- ¿Sí?
+Dialogue: 0,0:05:11.80,0:05:15.10,Default,,0,0,0,,Pregúntale más.\NInvítala a cenar o algo. Hazlo.
+Dialogue: 0,0:05:15.85,0:05:17.05,Default,,0,0,0,,{\i1}Vamos.{\i0}
+Dialogue: 0,0:05:17.35,0:05:18.35,Default,,0,0,0,,¿Algo más?
+Dialogue: 0,0:05:19.93,0:05:21.47,Default,,0,0,0,,No.
+Dialogue: 0,0:05:26.89,0:05:30.39,Default,,0,0,0,,¿Qué te pasa?\N¿Por qué no le preguntaste? Tonto.
+Dialogue: 0,0:05:40.43,0:05:43.18,Default,,0,0,0,,{\i1}- ¿Organizaste la carrera, Rog?\N- Más o menos.{\i0}
+Dialogue: 0,0:05:43.35,0:05:46.51,Default,,0,0,0,,Conseguí 30 ciclistas.\NAhora debo encontrar a quién persigan.
+Dialogue: 0,0:05:46.85,0:05:50.05,Default,,0,0,0,,Eso es difícil. Deber ser alguien rápido,\Npara que sea interesante.
+Dialogue: 0,0:05:50.22,0:05:53.43,Default,,0,0,0,,- Si no es rápido, no es divertido.\N- Pero que crea que puede ganar.
+Dialogue: 0,0:05:53.85,0:05:55.64,Default,,0,0,0,,¿Qué están tramando?
+Dialogue: 0,0:05:55.89,0:05:57.72,Default,,0,0,0,,Vamos a organizar\Nuna cacería en bicicletas.
+Dialogue: 0,0:05:58.18,0:05:59.85,Default,,0,0,0,,- ¿Qué?\N- Es como una carrera.
+Dialogue: 0,0:06:00.01,0:06:03.22,Default,,0,0,0,,El zorro sale antes y deja\Nun rastro de pintura tras su camino.
+Dialogue: 0,0:06:03.39,0:06:04.76,Default,,0,0,0,,Para que los demás lo sigan.
+Dialogue: 0,0:06:04.97,0:06:07.05,Default,,0,0,0,,Si no lo atrapan\Npara cuando se termine la pintura...
+Dialogue: 0,0:06:07.18,0:06:08.85,Default,,0,0,0,,el zorro gana todo el dinero.
+Dialogue: 0,0:06:10.05,0:06:11.18,Default,,0,0,0,,¿Cuánto dinero?
+Dialogue: 0,0:06:11.39,0:06:12.55,Default,,0,0,0,,Seiscientas libras.
+Dialogue: 0,0:06:13.89,0:06:16.43,Default,,0,0,0,,Creo que consiguieron un zorro.
+Dialogue: 0,0:06:20.64,0:06:21.85,Default,,0,0,0,,¿Hablas en serio?
+Dialogue: 0,0:06:22.01,0:06:25.26,Default,,0,0,0,,- ¿No te parezco rápida y tonta?\N- No, es que...
+Dialogue: 0,0:06:27.60,0:06:28.60,Default,,0,0,0,,Estás contratada.
+Dialogue: 0,0:06:28.89,0:06:30.68,Default,,0,0,0,,"¡Escóndete, zorro, y todos tras él!".
+Dialogue: 0,0:06:30.85,0:06:32.47,Default,,0,0,0,,{\i1}¿Shakespeare?{\i0}
+Dialogue: 0,0:06:32.89,0:06:33.93,Default,,0,0,0,,{\i1}De Hamlet, ¿no?{\i0}
+Dialogue: 0,0:06:34.10,0:06:36.43,Default,,0,0,0,,No sé. Son cosas que tengo en la cabeza.
+Dialogue: 0,0:06:36.60,0:06:38.01,Default,,0,0,0,,{\i1}Sabes que es Hamlet.{\i0}
+Dialogue: 0,0:06:38.18,0:06:41.47,Default,,0,0,0,,Y te pregunto una vez más,\N¿por qué eres mensajera?
+Dialogue: 0,0:06:41.97,0:06:43.22,Default,,0,0,0,,Por ti, Bruce.
+Dialogue: 0,0:06:44.76,0:06:46.43,Default,,0,0,0,,Quiero estar cerca de ti.
+Dialogue: 0,0:07:15.43,0:07:19.51,Default,,0,0,0,,¡Cinco, cuatro, tres, dos, uno! ¡Ya!
+Dialogue: 0,0:07:29.60,0:07:30.60,Default,,0,0,0,,¡Hola!
+Dialogue: 0,0:07:53.10,0:07:54.10,Default,,0,0,0,,¡Con permiso!
+Dialogue: 0,0:08:20.85,0:08:22.60,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:08:25.14,0:08:26.18,Default,,0,0,0,,¿Dónde está?
+Dialogue: 0,0:09:10.01,0:09:11.30,Default,,0,0,0,,{\i1}No tardaré, cariño.{\i0}
+Dialogue: 0,0:09:24.26,0:09:26.93,Default,,0,0,0,,- ¡Cuidado! ¡Mira por dónde vas!\N- ¡Use sus espejos!
+Dialogue: 0,0:09:35.39,0:09:37.30,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:09:46.01,0:09:47.89,Default,,0,0,0,,¡Qué sorpresa verte aquí!
+Dialogue: 0,0:09:49.26,0:09:50.26,Default,,0,0,0,,Ana.
+Dialogue: 0,0:09:50.68,0:09:54.22,Default,,0,0,0,,No hacía falta que vinieras.\NYa no necesito un guardián.
+Dialogue: 0,0:09:54.39,0:09:55.68,Default,,0,0,0,,¿De veras?
+Dialogue: 0,0:09:56.97,0:09:58.89,Default,,0,0,0,,¿Has estado decorando?
+Dialogue: 0,0:10:03.18,0:10:04.93,Default,,0,0,0,,No te he visto en mucho.
+Dialogue: 0,0:10:05.22,0:10:07.10,Default,,0,0,0,,Nunca me viste.
+Dialogue: 0,0:10:11.76,0:10:13.05,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:10:15.05,0:10:16.18,Default,,0,0,0,,Gracias por venir.
+Dialogue: 0,0:10:17.05,0:10:18.60,Default,,0,0,0,,¿Qué fue eso de hoy?
+Dialogue: 0,0:10:20.01,0:10:21.18,Default,,0,0,0,,Necesitaba el dinero.
+Dialogue: 0,0:10:21.35,0:10:25.72,Default,,0,0,0,,No es cierto. Hay una herencia esperando\Nsí decides declarar...
+Dialogue: 0,0:10:25.80,0:10:26.80,Default,,0,0,0,,No lo haré.
+Dialogue: 0,0:10:29.26,0:10:31.10,Default,,0,0,0,,Han pasado siete años, Lara.
+Dialogue: 0,0:10:33.64,0:10:38.05,Default,,0,0,0,,La policía de Tokio dejó\Nde buscar a tu padre hace cinco años.
+Dialogue: 0,0:10:39.26,0:10:42.10,Default,,0,0,0,,Los detectives privados ya no aceptan\Nnuestro dinero.
+Dialogue: 0,0:10:43.64,0:10:45.93,Default,,0,0,0,,Sé que es difícil aceptarlo.
+Dialogue: 0,0:10:46.10,0:10:48.43,Default,,0,0,0,,Pero debes venir a firmar esos papeles.
+Dialogue: 0,0:10:50.51,0:10:51.68,Default,,0,0,0,,Por eso viniste.
+Dialogue: 0,0:10:51.85,0:10:54.47,Default,,0,0,0,,No. Vine por ti.
+Dialogue: 0,0:10:55.47,0:10:59.43,Default,,0,0,0,,Sólo piensa en lo que podrías hacer\Npor el mundo, con tu potencial y dinero.
+Dialogue: 0,0:10:59.68,0:11:01.80,Default,,0,0,0,,Su dinero. No el mío.
+Dialogue: 0,0:11:05.10,0:11:07.01,Default,,0,0,0,,Escucha, es muy simple...
+Dialogue: 0,0:11:07.55,0:11:09.51,Default,,0,0,0,,Si no firmas los papeles,
+Dialogue: 0,0:11:09.68,0:11:13.14,Default,,0,0,0,,todo por lo que tu padre trabajó\Nserá vendido.
+Dialogue: 0,0:11:13.60,0:11:15.43,Default,,0,0,0,,No sólo la empresa...
+Dialogue: 0,0:11:16.72,0:11:18.55,Default,,0,0,0,,también la mansión Croft.
+Dialogue: 0,0:11:21.55,0:11:24.64,Default,,0,0,0,,¿Te imaginas cómo se sentiría\Nsí perdieras esa casa?
+Dialogue: 0,0:11:29.47,0:11:31.60,Default,,0,0,0,,Lara, tu padre ya no está.
+Dialogue: 0,0:11:33.26,0:11:36.30,Default,,0,0,0,,Pero puedes continuar su obra.
+Dialogue: 0,0:11:37.64,0:11:39.05,Default,,0,0,0,,Lo llevas en la sangre.
+Dialogue: 0,0:11:44.43,0:11:45.60,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:11:47.26,0:11:49.55,Default,,0,0,0,,No soy esa clase de Croft.
+Dialogue: 0,0:12:07.93,0:12:10.43,Default,,0,0,0,,{\i1}Pero no quiero que te vayas, papi.{\i0}
+Dialogue: 0,0:12:10.68,0:12:12.39,Default,,0,0,0,,No será por mucho tiempo, mi amor.
+Dialogue: 0,0:12:14.35,0:12:15.89,Default,,0,0,0,,Debes comprender.
+Dialogue: 0,0:12:16.05,0:12:20.05,Default,,0,0,0,,Los Croft tenemos responsabilidades,\Ntrabajos que hacer.
+Dialogue: 0,0:12:20.26,0:12:21.55,Default,,0,0,0,,Pero te voy a extrañar.
+Dialogue: 0,0:12:21.89,0:12:24.35,Default,,0,0,0,,Lo sé. Yo también.
+Dialogue: 0,0:12:24.51,0:12:26.26,Default,,0,0,0,,Pero tengo la solución.
+Dialogue: 0,0:12:27.51,0:12:28.85,Default,,0,0,0,,¿Ves esto?
+Dialogue: 0,0:12:29.01,0:12:32.10,Default,,0,0,0,,Era de tu madre, así que tiene poderes.
+Dialogue: 0,0:12:32.26,0:12:33.43,Default,,0,0,0,,¿A qué te refieres?
+Dialogue: 0,0:12:33.60,0:12:35.64,Default,,0,0,0,,Cuando quieras sentirte cerca de alguien,
+Dialogue: 0,0:12:35.72,0:12:38.39,Default,,0,0,0,,sólo tómalo y sostenlo con fuerza.
+Dialogue: 0,0:12:38.55,0:12:41.39,Default,,0,0,0,,Piensa en esa persona, y ella sabrá.
+Dialogue: 0,0:12:41.55,0:12:43.14,Default,,0,0,0,,- ¿De veras?\N- Sí.
+Dialogue: 0,0:12:44.18,0:12:45.43,Default,,0,0,0,,Es mágico.
+Dialogue: 0,0:12:45.60,0:12:49.35,Default,,0,0,0,,Significa que siempre estaremos juntos,\Nsin importar adónde vaya.
+Dialogue: 0,0:12:50.26,0:12:51.26,Default,,0,0,0,,¿De acuerdo?
+Dialogue: 0,0:12:59.22,0:13:01.14,Default,,0,0,0,,Regresaré antes de que sepas que me fui.
+Dialogue: 0,0:13:30.30,0:13:31.30,Default,,0,0,0,,¡Oye!
+Dialogue: 0,0:13:32.26,0:13:33.76,Default,,0,0,0,,Los mensajeros por atrás.
+Dialogue: 0,0:13:33.93,0:13:35.55,Default,,0,0,0,,No soy mensajera.
+Dialogue: 0,0:13:36.39,0:13:37.60,Default,,0,0,0,,Bueno, sí.
+Dialogue: 0,0:13:37.76,0:13:40.39,Default,,0,0,0,,Claro. Así que ve por atrás.
+Dialogue: 0,0:13:47.80,0:13:49.80,Default,,0,0,0,,Vengo a ver a Ana Miller.
+Dialogue: 0,0:13:49.97,0:13:53.60,Default,,0,0,0,,Debes anunciarte como todos.\N¿Cómo te llamas?
+Dialogue: 0,0:13:53.76,0:13:54.89,Default,,0,0,0,,Lara.
+Dialogue: 0,0:13:55.55,0:13:56.60,Default,,0,0,0,,Lara.
+Dialogue: 0,0:13:56.76,0:13:57.93,Default,,0,0,0,,Croft.
+Dialogue: 0,0:14:02.55,0:14:07.85,Default,,0,0,0,,Las páginas que requieren su firma\Nestán marcadas.
+Dialogue: 0,0:14:08.01,0:14:09.57,Default,,0,0,0,,DECLARACIÓN DE FALLECIMIENTO EN AUSENCIA
+Dialogue: 0,0:14:09.60,0:14:12.01,Default,,0,0,0,,¿Quieres que el Sr. Yaffe\Nte explique los detalles?
+Dialogue: 0,0:14:13.01,0:14:14.80,Default,,0,0,0,,Deduzco que firmo...
+Dialogue: 0,0:14:16.72,0:14:18.30,Default,,0,0,0,,y papá muere.
+Dialogue: 0,0:14:18.47,0:14:21.55,Default,,0,0,0,,Me imagino lo difícil que esto es para ti.
+Dialogue: 0,0:14:24.60,0:14:26.18,Default,,0,0,0,,Yo también lo extraño.
+Dialogue: 0,0:14:42.30,0:14:43.76,Default,,0,0,0,,Eso era de mi padre.
+Dialogue: 0,0:14:44.10,0:14:49.43,Default,,0,0,0,,Sí, Srta. Croft. Según el testamento\Nde Richard, en caso de muerte,
+Dialogue: 0,0:14:49.76,0:14:51.30,Default,,0,0,0,,debía entregárselo a usted.
+Dialogue: 0,0:14:51.64,0:14:55.14,Default,,0,0,0,,{\i1}Un Karakuri. Un rompecabezas japonés.{\i0}
+Dialogue: 0,0:14:56.39,0:15:00.68,Default,,0,0,0,,En teoría,\Nprimero debe firmar los papeles.
+Dialogue: 0,0:15:05.01,0:15:08.60,Default,,0,0,0,,Nunca entendí la obsesión de tu padre\Ncon esos objetos.
+Dialogue: 0,0:15:09.10,0:15:12.55,Default,,0,0,0,,No creerías cuántos había\Npor toda la casa.
+Dialogue: 0,0:15:12.72,0:15:14.76,Default,,0,0,0,,Debe haber alguna razón.
+Dialogue: 0,0:15:47.76,0:15:51.05,Default,,0,0,0,,"La primera letra\Nde mi destino final".
+Dialogue: 0,0:15:51.47,0:15:54.05,Default,,0,0,0,,Pero no dejó nada escrito.
+Dialogue: 0,0:15:57.10,0:15:59.51,Default,,0,0,0,,La primera letra\Nde mi destino final
+Dialogue: 0,0:16:01.72,0:16:04.01,Default,,0,0,0,,- Disculpen.\N- Lara, yo...
+Dialogue: 0,0:16:50.22,0:16:53.10,Default,,0,0,0,,EN MEMORIA DE LORD RICHARD CROFT\N1963 -
+Dialogue: 0,0:16:53.26,0:16:55.26,Default,,0,0,0,,"Mi destino final".
+Dialogue: 0,0:17:03.26,0:17:04.93,Default,,0,0,0,,La primera letra.
+Dialogue: 0,0:18:06.43,0:18:07.43,Default,,0,0,0,,¿Qué demo...?
+Dialogue: 0,0:18:32.18,0:18:34.76,Default,,0,0,0,,Papá, ¿en qué andabas?
+Dialogue: 0,0:18:43.18,0:18:45.39,Default,,0,0,0,,MÍRAME.
+Dialogue: 0,0:18:47.93,0:18:48.93,Default,,0,0,0,,{\i1}Hola, retoño.{\i0}
+Dialogue: 0,0:18:50.26,0:18:52.60,Default,,0,0,0,,{\i1}Sabía que resolverías el acertijo.{\i0}
+Dialogue: 0,0:18:52.72,0:18:56.51,Default,,0,0,0,,{\i1}Lamentablemente,\Nsi estás mirando este video...{\i0}
+Dialogue: 0,0:18:56.68,0:18:58.97,Default,,0,0,0,,{\i1}debo estar muerto.{\i0}
+Dialogue: 0,0:18:59.89,0:19:02.89,Default,,0,0,0,,{\i1}Seguramente, a esta altura,\Nte resulta obvio que en mi vida{\i0}
+Dialogue: 0,0:19:03.05,0:19:05.35,Default,,0,0,0,,{\i1}hubo más\Nque salas de reuniones y negocios.{\i0}
+Dialogue: 0,0:19:05.51,0:19:08.35,Default,,0,0,0,,{\i1}Había cosas que antes no podía contarte.{\i0}
+Dialogue: 0,0:19:08.97,0:19:12.93,Default,,0,0,0,,{\i1}Cuando tu madre murió,\Nla tristeza casi me destruyó.{\i0}
+Dialogue: 0,0:19:13.10,0:19:15.01,Default,,0,0,0,,{\i1}Comencé a buscar por el mundo{\i0}
+Dialogue: 0,0:19:15.18,0:19:18.85,Default,,0,0,0,,{\i1}con desesperación,\Nuna pista de otro reino...{\i0}
+Dialogue: 0,0:19:19.35,0:19:22.39,Default,,0,0,0,,{\i1}que probara\Nque lo sobrenatural era real.{\i0}
+Dialogue: 0,0:19:23.43,0:19:26.47,Default,,0,0,0,,{\i1}Lo que fuera\Nque me hiciera sentir junto a ella.{\i0}
+Dialogue: 0,0:19:27.76,0:19:30.35,Default,,0,0,0,,{\i1}Y se convirtió en mi pasatiempo, retoño.{\i0}
+Dialogue: 0,0:19:31.60,0:19:32.60,Default,,0,0,0,,{\i1}Bien...{\i0}
+Dialogue: 0,0:19:33.22,0:19:35.26,Default,,0,0,0,,{\i1}Necesito que me hagas un favor.{\i0}
+Dialogue: 0,0:19:35.43,0:19:39.64,Default,,0,0,0,,{\i1}Debes quemar toda mi investigación\Nsobre el proyecto Himiko.{\i0}
+Dialogue: 0,0:19:39.85,0:19:44.05,Default,,0,0,0,,{\i1}Destruye todo. Los cuadernos, las cintas,\Ntodo. Es muy importante.{\i0}
+Dialogue: 0,0:19:44.22,0:19:46.76,Default,,0,0,0,,{\i1}Si cae en las manos equivocadas,\Npodría ser catastrófico.{\i0}
+Dialogue: 0,0:19:46.85,0:19:49.30,Default,,0,0,0,,{\i1}Así que, por favor, hazlo de inmediato.{\i0}
+Dialogue: 0,0:19:50.26,0:19:53.22,Default,,0,0,0,,{\i1}Sé que no te gusta\Nque te digan qué hacer...{\i0}
+Dialogue: 0,0:19:53.39,0:19:55.76,Default,,0,0,0,,{\i1}pero prométeme que lo harás.{\i0}
+Dialogue: 0,0:19:56.26,0:19:58.60,Default,,0,0,0,,{\i1}Espero que nunca veas esta cinta.{\i0}
+Dialogue: 0,0:19:59.68,0:20:01.10,Default,,0,0,0,,{\i1}Pero si la ves...{\i0}
+Dialogue: 0,0:20:02.35,0:20:04.47,Default,,0,0,0,,{\i1}sabrás cuál fue mi verdadera vocación.{\i0}
+Dialogue: 0,0:20:07.10,0:20:08.89,Default,,0,0,0,,{\i1}Espero que encuentres la tuya.{\i0}
+Dialogue: 0,0:20:15.76,0:20:17.22,Default,,0,0,0,,{\i1}Papá te ama.{\i0}
+Dialogue: 0,0:20:40.89,0:20:42.14,Default,,0,0,0,,{\i1}"Himiko".{\i0}
+Dialogue: 0,0:20:52.18,0:20:53.80,Default,,0,0,0,,{\i1}5 de octubre.{\i0}
+Dialogue: 0,0:20:54.14,0:20:56.72,Default,,0,0,0,,{\i1}A la Reina Himiko la llamaban\Nla "Madre de la Muerte".{\i0}
+Dialogue: 0,0:20:56.97,0:20:59.93,Default,,0,0,0,,{\i1}Todas sus historias terminan\Ncon ríos teñidos de sangre.{\i0}
+Dialogue: 0,0:21:00.76,0:21:03.72,Default,,0,0,0,,{\i1}Gente hechizada, mentes controladoras...{\i0}
+Dialogue: 0,0:21:04.01,0:21:07.26,Default,,0,0,0,,{\i1}que esparcen muerte y destrucción\Ncon sólo el toque de su mano.{\i0}
+Dialogue: 0,0:21:07.43,0:21:12.05,Default,,0,0,0,,{\i1}El derramamiento de sangre terminó\Ncuando sus generales la enterraron viva{\i0}
+Dialogue: 0,0:21:12.22,0:21:16.85,Default,,0,0,0,,{\i1}y sellaron la tumba del mundo exterior\Nen una Isla inaccesible.{\i0}
+Dialogue: 0,0:21:17.14,0:21:19.72,Default,,0,0,0,,{\i1}La historia casi ha borrado su existencia.{\i0}
+Dialogue: 0,0:21:20.64,0:21:22.85,Default,,0,0,0,,{\i1}La Isla perdida de Yamatai.{\i0}
+Dialogue: 0,0:21:24.10,0:21:26.26,Default,,0,0,0,,{\i1}Estoy seguro de que este es el lugar.{\i0}
+Dialogue: 0,0:21:27.76,0:21:30.35,Default,,0,0,0,,{\i1}29 de julio de 2011.{\i0}
+Dialogue: 0,0:21:30.51,0:21:34.22,Default,,0,0,0,,{\i1}Por fin encontré un capitán dispuesto\Na llevarme a la Isla.{\i0}
+Dialogue: 0,0:21:34.39,0:21:39.72,Default,,0,0,0,,{\i1}Debo llegar primero y evitar que su poder\Ncaiga en manos equivocadas.{\i0}
+Dialogue: 0,0:21:41.18,0:21:43.60,Default,,0,0,0,,EL PRECIO ES 20.000 DÓLARES.
+Dialogue: 0,0:21:50.68,0:21:52.68,Default,,0,0,0,,EMPEÑOS-COMPRAS-VENTAS
+Dialogue: 0,0:21:58.14,0:22:02.89,Default,,0,0,0,,Mi padre recibió ese amuleto\Ndel emperador Showa de Japón.
+Dialogue: 0,0:22:03.85,0:22:05.30,Default,,0,0,0,,Claro. Bueno...
+Dialogue: 0,0:22:06.93,0:22:08.43,Default,,0,0,0,,Esto no es de Japón.
+Dialogue: 0,0:22:08.60,0:22:09.85,Default,,0,0,0,,Tiene razón.
+Dialogue: 0,0:22:10.01,0:22:13.72,Default,,0,0,0,,El emperador Showa lo recibió del nieto\Ndel antiguo emperador de Maratha.
+Dialogue: 0,0:22:13.89,0:22:16.68,Default,,0,0,0,,¿Maratha? Se está burlando, ¿no?
+Dialogue: 0,0:22:16.89,0:22:20.01,Default,,0,0,0,,Y él mismo lo recibió de Thibaw,\Nel último rey de Burma
+Dialogue: 0,0:22:20.10,0:22:21.51,Default,,0,0,0,,cuando se exilió en India.
+Dialogue: 0,0:22:21.89,0:22:23.60,Default,,0,0,0,,"Se exilió en India".
+Dialogue: 0,0:22:23.93,0:22:25.60,Default,,0,0,0,,Qué historia tan fascinante.
+Dialogue: 0,0:22:25.76,0:22:29.22,Default,,0,0,0,,Y puedes demostrar todo eso\Ncon documentos, ¿verdad?
+Dialogue: 0,0:22:29.39,0:22:33.01,Default,,0,0,0,,Si tuviera los documentos de procedencia\Nestaría en Christie s.
+Dialogue: 0,0:22:35.30,0:22:36.93,Default,,0,0,0,,Pero hoy es tu día de suerte.
+Dialogue: 0,0:22:37.18,0:22:38.18,Default,,0,0,0,,¿Sí?
+Dialogue: 0,0:22:38.35,0:22:41.14,Default,,0,0,0,,¡Alan! ¿Qué te dije\Nde coquetear con los clientes?
+Dialogue: 0,0:22:41.30,0:22:43.60,Default,,0,0,0,,No coqueteo. Soy naturalmente carismático.
+Dialogue: 0,0:22:43.80,0:22:45.30,Default,,0,0,0,,No coqueteaba. Lo siento.
+Dialogue: 0,0:22:46.72,0:22:47.89,Default,,0,0,0,,Estaba coqueteando.
+Dialogue: 0,0:22:48.51,0:22:49.68,Default,,0,0,0,,Mira.
+Dialogue: 0,0:22:57.72,0:22:59.36,Default,,0,0,0,,Linda sonrisa, simpático y despreocupado.
+Dialogue: 0,0:22:59.93,0:23:04.05,Default,,0,0,0,,Me alegra decir\Nqué podemos hacerte una oferta.
+Dialogue: 0,0:23:06.30,0:23:07.35,Default,,0,0,0,,Diez.
+Dialogue: 0,0:23:10.26,0:23:11.51,Default,,0,0,0,,¿Por favor?
+Dialogue: 0,0:23:12.93,0:23:16.76,Default,,0,0,0,,Un poquito más. Es el único recuerdo\Nque me queda de mi padre.
+Dialogue: 0,0:23:17.47,0:23:18.93,Default,,0,0,0,,Tu padre murió.
+Dialogue: 0,0:23:19.76,0:23:23.80,Default,,0,0,0,,Qué pena. Es terrible\Nque una joven pierda a su padre.
+Dialogue: 0,0:23:23.97,0:23:25.76,Default,,0,0,0,,De verdad. Está bien. Es justo.
+Dialogue: 0,0:23:25.97,0:23:27.22,Default,,0,0,0,,Nueve mil.
+Dialogue: 0,0:23:28.18,0:23:29.30,Default,,0,0,0,,Acabas de decir diez.
+Dialogue: 0,0:23:29.47,0:23:32.72,Default,,0,0,0,,La gente viene con eso del padre muerto\Ntodo el tiempo.
+Dialogue: 0,0:23:32.89,0:23:34.93,Default,,0,0,0,,- Y tú te lo crees siempre.\N- No es cierto.
+Dialogue: 0,0:23:35.10,0:23:37.54,Default,,0,0,0,,- La semana pasada, lo creíste dos veces.\N- Lo creí dos veces.
+Dialogue: 0,0:23:37.60,0:23:38.64,Default,,0,0,0,,Es la verdad.
+Dialogue: 0,0:23:39.72,0:23:43.10,Default,,0,0,0,,Bien. Me alegra seguir negociando.\NAhora el precio es ocho.
+Dialogue: 0,0:23:45.22,0:23:47.68,Default,,0,0,0,,- De acuerdo, tú ganas.\N- Por fin.
+Dialogue: 0,0:23:47.85,0:23:49.55,Default,,0,0,0,,Gracias. De veras.
+Dialogue: 0,0:23:50.14,0:23:51.26,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:23:52.68,0:23:54.35,Default,,0,0,0,,Por ocasiones como esta.
+Dialogue: 0,0:23:57.39,0:23:58.68,Default,,0,0,0,,Por ocasiones como esta.
+Dialogue: 0,0:23:59.39,0:24:01.64,Default,,0,0,0,,- ¡Me quemó las pelotas!\N- Cálmate, Alan. En serio.
+Dialogue: 0,0:24:01.76,0:24:02.97,Default,,0,0,0,,Es café caliente.
+Dialogue: 0,0:24:38.51,0:24:42.51,Default,,0,0,0,,- Disculpe, ¿habla inglés?\N- Lo siento, no.
+Dialogue: 0,0:24:43.64,0:24:45.68,Default,,0,0,0,,¿No? Gracias.
+Dialogue: 0,0:24:47.72,0:24:49.35,Default,,0,0,0,,Disculpe. Perdón.
+Dialogue: 0,0:24:49.55,0:24:53.01,Default,,0,0,0,,¿Conoce a Lu Ren?
+Dialogue: 0,0:24:53.85,0:24:55.60,Default,,0,0,0,,¿Ni un poquito?
+Dialogue: 0,0:24:59.47,0:25:01.05,Default,,0,0,0,,- ¿Habla inglés?\N- Señorita.
+Dialogue: 0,0:25:01.64,0:25:02.76,Default,,0,0,0,,¿Necesita ayuda?
+Dialogue: 0,0:25:04.47,0:25:06.85,Default,,0,0,0,,Sí, así es.
+Dialogue: 0,0:25:07.26,0:25:10.80,Default,,0,0,0,,Busco a un tipo llamado Lu Ren.
+Dialogue: 0,0:25:10.97,0:25:12.47,Default,,0,0,0,,Se suponía que...
+Dialogue: 0,0:25:12.64,0:25:14.60,Default,,0,0,0,,- El barco de Lu Ren.\N- Sí.
+Dialogue: 0,0:25:14.76,0:25:16.14,Default,,0,0,0,,{\i1}El Endurance. Por allí.{\i0}
+Dialogue: 0,0:25:16.30,0:25:17.68,Default,,0,0,0,,{\i1}¿Endurance? ¿Cuál es?{\i0}
+Dialogue: 0,0:25:19.97,0:25:21.14,Default,,0,0,0,,Oigan.
+Dialogue: 0,0:25:22.47,0:25:23.64,Default,,0,0,0,,¡Esperen!
+Dialogue: 0,0:26:20.72,0:26:21.72,Default,,0,0,0,,Aléjense.
+Dialogue: 0,0:26:26.26,0:26:27.55,Default,,0,0,0,,Dame la mochila.
+Dialogue: 0,0:26:40.47,0:26:41.72,Default,,0,0,0,,Acabas de perder tu propina.
+Dialogue: 0,0:26:44.01,0:26:45.26,Default,,0,0,0,,Tú acabas de perder la lengua.
+Dialogue: 0,0:27:25.22,0:27:26.85,Default,,0,0,0,,¡Lu! ¡Lu Ren!
+Dialogue: 0,0:27:27.26,0:27:28.93,Default,,0,0,0,,¡Auxilio!
+Dialogue: 0,0:27:44.55,0:27:46.18,Default,,0,0,0,,¡Corran! ¡Está borracho otra vez!
+Dialogue: 0,0:27:49.93,0:27:51.18,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:27:55.80,0:27:56.80,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:27:56.97,0:27:58.85,Default,,0,0,0,,Pregunté qué haces en mi barco.
+Dialogue: 0,0:27:59.01,0:28:02.60,Default,,0,0,0,,No estaba con ellos.\NBusco a un hombre llamado Lu Ren.
+Dialogue: 0,0:28:02.80,0:28:05.47,Default,,0,0,0,,Felicitaciones, me encontraste.\NAhora desaparece.
+Dialogue: 0,0:28:06.51,0:28:09.26,Default,,0,0,0,,Por favor. Espera. Escúchame. Debo...
+Dialogue: 0,0:28:09.43,0:28:10.47,Default,,0,0,0,,Lárgate.
+Dialogue: 0,0:28:10.64,0:28:13.18,Default,,0,0,0,,- No vine a causar problemas.\N- Sigue caminando.
+Dialogue: 0,0:28:13.51,0:28:15.85,Default,,0,0,0,,¿Puedes bajar el arma y...?
+Dialogue: 0,0:28:19.72,0:28:21.14,Default,,0,0,0,,Por Dios.
+Dialogue: 0,0:28:24.10,0:28:27.93,Default,,0,0,0,,Mi padre, Richard Croft,\Nintentó comprarte un barco.
+Dialogue: 0,0:28:28.51,0:28:31.26,Default,,0,0,0,,No, a mí no.
+Dialogue: 0,0:28:31.43,0:28:32.72,Default,,0,0,0,,Sí, así fue.
+Dialogue: 0,0:28:34.47,0:28:36.85,Default,,0,0,0,,Te llamas Lu Ren.
+Dialogue: 0,0:28:37.30,0:28:38.60,Default,,0,0,0,,Esto es tuyo.
+Dialogue: 0,0:28:39.80,0:28:42.93,Default,,0,0,0,,Sí, sé cómo me llamo, gracias.
+Dialogue: 0,0:28:44.05,0:28:47.47,Default,,0,0,0,,Me llamo como mi padre,\Ny él escribió eso, no yo.
+Dialogue: 0,0:28:50.39,0:28:51.97,Default,,0,0,0,,Entonces necesito hablar con él.
+Dialogue: 0,0:28:52.35,0:28:54.22,Default,,0,0,0,,Tú y cien más a quienes le debía dinero...
+Dialogue: 0,0:28:54.39,0:28:57.47,Default,,0,0,0,,- ¿Dónde está?\N- No lo sé.
+Dialogue: 0,0:28:57.64,0:29:01.93,Default,,0,0,0,,Un día zarpó en su barco,\Ny no volví a verlo.
+Dialogue: 0,0:29:05.30,0:29:07.10,Default,,0,0,0,,¿Fue hace siete años?
+Dialogue: 0,0:29:11.51,0:29:14.89,Default,,0,0,0,,Creo que sé adónde fueron nuestros padres.
+Dialogue: 0,0:29:15.43,0:29:17.39,Default,,0,0,0,,¿Al fondo del mar?
+Dialogue: 0,0:29:18.39,0:29:21.10,Default,,0,0,0,,Se dirigían a una Isla desierta.
+Dialogue: 0,0:29:21.76,0:29:26.39,Default,,0,0,0,,En algún lugar lejos de la costa de Japón.\NSe llamaba Yamatai.
+Dialogue: 0,0:29:28.18,0:29:31.68,Default,,0,0,0,,Iré allí y averiguaré qué pasó con ellos.
+Dialogue: 0,0:29:31.85,0:29:35.14,Default,,0,0,0,,Buena suerte.\NHay al menos 6.000 Islas en esa zona...
+Dialogue: 0,0:29:35.30,0:29:37.26,Default,,0,0,0,,y casi ninguna está habitada.
+Dialogue: 0,0:29:37.43,0:29:42.01,Default,,0,0,0,,Tengo un mapa.\NSólo debo descubrir qué son estas.
+Dialogue: 0,0:29:42.85,0:29:44.76,Default,,0,0,0,,Creo que son coordenadas.
+Dialogue: 0,0:29:45.55,0:29:47.01,Default,,0,0,0,,La ubicación.
+Dialogue: 0,0:29:51.93,0:29:53.30,Default,,0,0,0,,Son las agujas de un reloj.
+Dialogue: 0,0:29:55.80,0:29:57.43,Default,,0,0,0,,No son las agujas de un reloj.
+Dialogue: 0,0:29:57.60,0:29:59.80,Default,,0,0,0,,Es claro que no son\Nagujas de un reloj. Son...
+Dialogue: 0,0:30:04.72,0:30:06.18,Default,,0,0,0,,Son agujas de un reloj.
+Dialogue: 0,0:30:13.68,0:30:14.97,Default,,0,0,0,,Tres...
+Dialogue: 0,0:30:20.35,0:30:21.80,Default,,0,0,0,,Esa es una.
+Dialogue: 0,0:30:22.80,0:30:25.72,Default,,0,0,0,,Justo en medio del Mar del Diablo.
+Dialogue: 0,0:30:25.89,0:30:28.64,Default,,0,0,0,,Bien podrías atarte una roca al pie\Ny tirarte del barco ahora.
+Dialogue: 0,0:30:28.80,0:30:30.39,Default,,0,0,0,,Será una aventura.
+Dialogue: 0,0:30:30.55,0:30:32.72,Default,,0,0,0,,La muerte no es una aventura.
+Dialogue: 0,0:30:34.10,0:30:35.72,Default,,0,0,0,,¿No quieres saber qué sucedió con ellos?
+Dialogue: 0,0:30:35.89,0:30:38.39,Default,,0,0,0,,Ya no me importa.
+Dialogue: 0,0:30:39.55,0:30:42.05,Default,,0,0,0,,Mira, soy un tipo ocupado.\NTengo mucho que hacer.
+Dialogue: 0,0:30:59.64,0:31:01.55,Default,,0,0,0,,¿Cuánto perdiste anoche?
+Dialogue: 0,0:31:03.26,0:31:04.80,Default,,0,0,0,,¿Qué te hace pensar que perdí?
+Dialogue: 0,0:31:05.30,0:31:09.26,Default,,0,0,0,,Parecía que estabas ahogando tus penas,\Nno celebrando.
+Dialogue: 0,0:31:27.60,0:31:29.43,Default,,0,0,0,,Es tuyo si me ayudas a llegar a Yamatai.
+Dialogue: 0,0:31:30.22,0:31:32.47,Default,,0,0,0,,¿Y en qué lo gastaré? ¿En un ataúd?
+Dialogue: 0,0:31:34.05,0:31:36.68,Default,,0,0,0,,Entonces iré a buscarme\Ndos cubos oxidados como este.
+Dialogue: 0,0:31:37.14,0:31:40.30,Default,,0,0,0,,Aunque tengas un barco, o dos...
+Dialogue: 0,0:31:40.47,0:31:42.22,Default,,0,0,0,,los hundirás antes de zarpar.
+Dialogue: 0,0:31:44.14,0:31:46.60,Default,,0,0,0,,Necesitas un capitán con experiencia.
+Dialogue: 0,0:31:50.35,0:31:52.22,Default,,0,0,0,,¿Qué hay en el otro zapato?
+Dialogue: 0,0:32:02.93,0:32:07.22,Default,,0,0,0,,{\i1}23 de junio. Quizá haya encontrado\Notra pieza del enigma.{\i0}
+Dialogue: 0,0:32:08.01,0:32:10.55,Default,,0,0,0,,{\i1}Unos dibujos antiguos se refieren\Na la ubicación de la tumba...{\i0}
+Dialogue: 0,0:32:10.68,0:32:13.35,Default,,0,0,0,,{\i1}y a la sofisticada puerta\Nque la mantiene encerrada.{\i0}
+Dialogue: 0,0:32:13.93,0:32:16.51,Default,,0,0,0,,{\i1}Encontré una manera\Nde descifrar el código.{\i0}
+Dialogue: 0,0:32:17.22,0:32:19.30,Default,,0,0,0,,{\i1}Estoy seguro de que puedo llegar a ella.{\i0}
+Dialogue: 0,0:32:28.18,0:32:30.35,Default,,0,0,0,,{\i1}Según las antiguas Crónicas Nihongi,{\i0}
+Dialogue: 0,0:32:30.51,0:32:34.76,Default,,0,0,0,,{\i1}dentro de la tumba, uno debe enfrentar\Nlas "Pruebas de Himiko".{\i0}
+Dialogue: 0,0:32:35.55,0:32:38.10,Default,,0,0,0,,{\i1}Cruza el Abismo de las Almas...{\i0}
+Dialogue: 0,0:32:38.89,0:32:41.93,Default,,0,0,0,,{\i1}reza para sobrevivir\Na los rostros de Himiko...{\i0}
+Dialogue: 0,0:32:44.05,0:32:47.85,Default,,0,0,0,,{\i1}contempla su ejército\Nde mil doncellas...{\i0}
+Dialogue: 0,0:32:49.18,0:32:53.85,Default,,0,0,0,,{\i1}desciende hasta el lugar del descanso\Nfinal de Himiko y desata su flagelo.{\i0}
+Dialogue: 0,0:33:04.85,0:33:08.18,Default,,0,0,0,,{\i1}6 de julio. Estoy seguro\Nde que alguien vigila mi progreso.{\i0}
+Dialogue: 0,0:33:09.35,0:33:10.93,Default,,0,0,0,,{\i1}Ahora sé su nombre,{\i0}
+Dialogue: 0,0:33:11.10,0:33:12.85,Default,,0,0,0,,{\i1}La Orden de Trinity.{\i0}
+Dialogue: 0,0:33:13.01,0:33:17.43,Default,,0,0,0,,{\i1}Una antigua organización militar\Nque busca controlar lo sobrenatural{\i0}
+Dialogue: 0,0:33:17.93,0:33:20.14,Default,,0,0,0,,{\i1}para dominar a la humanidad.{\i0}
+Dialogue: 0,0:33:20.30,0:33:24.47,Default,,0,0,0,,{\i1}¿Y si Himiko es el arma\Nque Trinity ha estado buscando?{\i0}
+Dialogue: 0,0:33:34.43,0:33:35.64,Default,,0,0,0,,¿No puedes dormir?
+Dialogue: 0,0:33:40.85,0:33:42.14,Default,,0,0,0,,Es hermoso.
+Dialogue: 0,0:33:45.18,0:33:46.35,Default,,0,0,0,,Disfrútalo mientras dure.
+Dialogue: 0,0:33:46.89,0:33:51.10,Default,,0,0,0,,Nos dirigimos a las aguas más peligrosas\Nentre Hong Kong y California.
+Dialogue: 0,0:33:52.85,0:33:55.22,Default,,0,0,0,,Tu padre sí sabía adónde ir de vacaciones.
+Dialogue: 0,0:33:57.80,0:34:01.72,Default,,0,0,0,,Sí. Tenía debilidad\Npor lo inesperado. Parece.
+Dialogue: 0,0:34:05.97,0:34:08.30,Default,,0,0,0,,Comienzo a preguntarme si no estaba loco.
+Dialogue: 0,0:34:09.97,0:34:12.80,Default,,0,0,0,,No parecía distinguir\Nentre lo real y lo no real.
+Dialogue: 0,0:34:12.97,0:34:16.89,Default,,0,0,0,,Tenía obsesión por una antigua Reina\Njaponesa de la muerte.
+Dialogue: 0,0:34:17.47,0:34:19.51,Default,,0,0,0,,A algunos hombres\Nles gustan las mujeres peligrosas.
+Dialogue: 0,0:34:20.22,0:34:22.05,Default,,0,0,0,,Algunos hombres son tontos.
+Dialogue: 0,0:34:22.76,0:34:23.93,Default,,0,0,0,,¿Qué?
+Dialogue: 0,0:34:24.55,0:34:27.97,Default,,0,0,0,,Buenas noches, Lu Ren. Dulces sueños.
+Dialogue: 0,0:34:44.39,0:34:48.14,Default,,0,0,0,,- No eres Guillermo Tell, pero estás cerca.\N- Guillermo Tell era un mito, papá.
+Dialogue: 0,0:34:48.55,0:34:51.14,Default,,0,0,0,,Todos los mitos se basan en la realidad.
+Dialogue: 0,0:34:52.64,0:34:55.55,Default,,0,0,0,,- Debo irme, retoño.\N- Pero acabas de regresar.
+Dialogue: 0,0:34:56.05,0:34:58.43,Default,,0,0,0,,- Regresaré antes de que...\N- Sepa que te fuiste.
+Dialogue: 0,0:35:00.51,0:35:01.89,Default,,0,0,0,,Ana te cuidará.
+Dialogue: 0,0:35:02.05,0:35:04.55,Default,,0,0,0,,No necesito que tus empleados me cuiden.
+Dialogue: 0,0:35:04.72,0:35:06.60,Default,,0,0,0,,Puedo cuidarme sola.
+Dialogue: 0,0:35:12.01,0:35:13.30,Default,,0,0,0,,Mi niña.
+Dialogue: 0,0:35:15.93,0:35:17.14,Default,,0,0,0,,Lara...
+Dialogue: 0,0:35:22.10,0:35:23.85,Default,,0,0,0,,Nunca olvides que papá te ama.
+Dialogue: 0,0:35:24.93,0:35:26.10,Default,,0,0,0,,Lo sé.
+Dialogue: 0,0:36:12.39,0:36:13.89,Default,,0,0,0,,Pensé que esto te despertaría.
+Dialogue: 0,0:36:15.10,0:36:16.80,Default,,0,0,0,,Tu Isla nos ha encontrado.
+Dialogue: 0,0:36:21.68,0:36:22.89,Default,,0,0,0,,Yamatai.
+Dialogue: 0,0:36:35.72,0:36:37.72,Default,,0,0,0,,¡Perdimos el control!
+Dialogue: 0,0:36:38.55,0:36:40.64,Default,,0,0,0,,- Debemos abandonar el barco.\N- ¿Qué?
+Dialogue: 0,0:36:40.76,0:36:41.85,Default,,0,0,0,,En el agua estamos muertos.
+Dialogue: 0,0:36:41.97,0:36:45.14,Default,,0,0,0,,No resistirá mucho más.\NDebemos abandonar el barco ahora.
+Dialogue: 0,0:37:01.22,0:37:02.22,Default,,0,0,0,,¡Espera!
+Dialogue: 0,0:37:03.18,0:37:04.72,Default,,0,0,0,,¡Los papeles de mi padre!
+Dialogue: 0,0:37:05.01,0:37:07.14,Default,,0,0,0,,¡Olvídalos, Lara!
+Dialogue: 0,0:37:28.35,0:37:29.97,Default,,0,0,0,,Lara. ¡Vamos!
+Dialogue: 0,0:37:37.26,0:37:38.30,Default,,0,0,0,,¡Lu!
+Dialogue: 0,0:37:50.64,0:37:52.14,Default,,0,0,0,,¡El bote salvavidas!
+Dialogue: 0,0:38:16.72,0:38:17.89,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:38:53.22,0:38:54.30,Default,,0,0,0,,¡Lu!
+Dialogue: 0,0:38:56.26,0:38:57.35,Default,,0,0,0,,¡Lu!
+Dialogue: 0,0:40:13.68,0:40:14.93,Default,,0,0,0,,¿Dónde estoy?
+Dialogue: 0,0:40:17.43,0:40:19.76,Default,,0,0,0,,Ha despertado.
+Dialogue: 0,0:40:20.55,0:40:22.93,Default,,0,0,0,,Comenzaba a preocuparme por ti.
+Dialogue: 0,0:40:29.93,0:40:30.97,Default,,0,0,0,,Un arrecife.
+Dialogue: 0,0:40:32.05,0:40:33.30,Default,,0,0,0,,Te golpeaste con él.
+Dialogue: 0,0:40:34.01,0:40:35.72,Default,,0,0,0,,Gracias a Dios te encontré.
+Dialogue: 0,0:40:35.89,0:40:38.80,Default,,0,0,0,,La mayoría de los que intentan venir\Nmuere en las corrientes.
+Dialogue: 0,0:40:38.97,0:40:41.18,Default,,0,0,0,,Es casi imposible llegar aquí.
+Dialogue: 0,0:40:42.14,0:40:43.89,Default,,0,0,0,,Y aún más difícil irse.
+Dialogue: 0,0:40:48.14,0:40:49.26,Default,,0,0,0,,¿Dónde está mi...?
+Dialogue: 0,0:40:55.85,0:40:56.93,Default,,0,0,0,,Aquí.
+Dialogue: 0,0:41:03.85,0:41:06.80,Default,,0,0,0,,¿Qué haces aquí, Lara?
+Dialogue: 0,0:41:10.72,0:41:12.55,Default,,0,0,0,,Yo tengo dos hijas.
+Dialogue: 0,0:41:13.05,0:41:14.64,Default,,0,0,0,,De cabello oscuro, como tú.
+Dialogue: 0,0:41:15.89,0:41:17.55,Default,,0,0,0,,Lindas como tú.
+Dialogue: 0,0:41:22.22,0:41:23.47,Default,,0,0,0,,Discúlpame.
+Dialogue: 0,0:41:24.55,0:41:27.64,Default,,0,0,0,,Qué grosero.\NHace mucho que no recibo visitas.
+Dialogue: 0,0:41:27.72,0:41:30.30,Default,,0,0,0,,Me llamo Mathias Vogel.
+Dialogue: 0,0:41:34.47,0:41:36.05,Default,,0,0,0,,Debes tener hambre.
+Dialogue: 0,0:41:40.47,0:41:42.05,Default,,0,0,0,,Antes imaginaba...
+Dialogue: 0,0:41:43.26,0:41:47.51,Default,,0,0,0,,que en algún momento encontraría\Nuna oreja en esas latas.
+Dialogue: 0,0:41:49.85,0:41:51.47,Default,,0,0,0,,¿No es una locura?
+Dialogue: 0,0:41:52.47,0:41:56.10,Default,,0,0,0,,{\i1}Supongo que estar tanto tiempo\Nen esta Isla te enloquece un poco.{\i0}
+Dialogue: 0,0:41:57.68,0:42:00.05,Default,,0,0,0,,La única persona con quien puedo hablar...
+Dialogue: 0,0:42:00.22,0:42:02.39,Default,,0,0,0,,está del otro lado de la línea.
+Dialogue: 0,0:42:02.89,0:42:05.14,Default,,0,0,0,,Y siempre dice lo mismo.
+Dialogue: 0,0:42:06.01,0:42:08.64,Default,,0,0,0,,No puedo regresar a casa\Nsi no termino mi trabajo en la Isla.
+Dialogue: 0,0:42:20.35,0:42:22.14,Default,,0,0,0,,¿Qué tipo de trabajo haces?
+Dialogue: 0,0:42:22.30,0:42:26.10,Default,,0,0,0,,Un mezcla de cosas.\NEstoy a merced de mi empleador.
+Dialogue: 0,0:42:51.93,0:42:53.51,Default,,0,0,0,,¿Buscas esto?
+Dialogue: 0,0:42:56.26,0:42:59.22,Default,,0,0,0,,Los designios del destino\Nnunca dejan de sorprenderme.
+Dialogue: 0,0:43:01.26,0:43:03.35,Default,,0,0,0,,"La puerta a Himiko".
+Dialogue: 0,0:43:05.85,0:43:07.60,Default,,0,0,0,,Richard encontró la entrada.
+Dialogue: 0,0:43:11.05,0:43:12.64,Default,,0,0,0,,Todo ese tiempo perdido.
+Dialogue: 0,0:43:15.97,0:43:20.10,Default,,0,0,0,,Tú me trajiste\Nlo que más deseaba en el mundo.
+Dialogue: 0,0:43:20.68,0:43:21.68,Default,,0,0,0,,Gracias.
+Dialogue: 0,0:43:24.64,0:43:27.14,Default,,0,0,0,,¿Qué sabes de mi padre?
+Dialogue: 0,0:43:31.10,0:43:32.80,Default,,0,0,0,,Ahora veo el parecido.
+Dialogue: 0,0:43:33.01,0:43:35.72,Default,,0,0,0,,La inteligencia en el rostro.
+Dialogue: 0,0:43:36.39,0:43:38.26,Default,,0,0,0,,La osadía.
+Dialogue: 0,0:43:44.47,0:43:46.39,Default,,0,0,0,,Sólo debía cooperar.
+Dialogue: 0,0:43:46.55,0:43:49.39,Default,,0,0,0,,Claro, como era Richard, se negó.
+Dialogue: 0,0:43:49.55,0:43:51.47,Default,,0,0,0,,Pensó que estaba salvando al mundo.
+Dialogue: 0,0:43:52.18,0:43:53.60,Default,,0,0,0,,¿Dónde está?
+Dialogue: 0,0:43:58.22,0:43:59.30,Default,,0,0,0,,¿Dónde está?
+Dialogue: 0,0:43:59.89,0:44:02.10,Default,,0,0,0,,Ahora, con Dios. Lo maté.
+Dialogue: 0,0:44:06.93,0:44:09.80,Default,,0,0,0,,Lamento haber sido tan directo,\Nestoy oxidado.
+Dialogue: 0,0:44:11.01,0:44:12.93,Default,,0,0,0,,{\i1}Han pasado siete años.{\i0}
+Dialogue: 0,0:44:14.43,0:44:15.97,Default,,0,0,0,,Siete años.
+Dialogue: 0,0:44:29.55,0:44:30.64,Default,,0,0,0,,{\i1}Vamos.{\i0}
+Dialogue: 0,0:44:31.18,0:44:32.39,Default,,0,0,0,,{\i1}¡Andando!{\i0}
+Dialogue: 0,0:44:33.64,0:44:35.47,Default,,0,0,0,,Vamos. Ve allí abajo.
+Dialogue: 0,0:44:41.85,0:44:43.51,Default,,0,0,0,,{\i1}¡Muevan esas plataformas!{\i0}
+Dialogue: 0,0:44:48.18,0:44:49.18,Default,,0,0,0,,Muévete.
+Dialogue: 0,0:44:49.26,0:44:50.47,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,0:44:52.72,0:44:53.93,Default,,0,0,0,,¡Andando!
+Dialogue: 0,0:44:54.85,0:44:56.18,Default,,0,0,0,,¡Recógelo!
+Dialogue: 0,0:44:56.68,0:44:58.22,Default,,0,0,0,,¡Vamos, andando!
+Dialogue: 0,0:45:01.47,0:45:02.89,Default,,0,0,0,,¡Átenla!
+Dialogue: 0,0:45:14.85,0:45:16.80,Default,,0,0,0,,{\i1}¡Súbanlo!{\i0}
+Dialogue: 0,0:45:18.76,0:45:20.10,Default,,0,0,0,,Vuelve a trabajar.
+Dialogue: 0,0:45:21.64,0:45:23.14,Default,,0,0,0,,{\i1}Lara Croft.{\i0}
+Dialogue: 0,0:45:24.14,0:45:26.05,Default,,0,0,0,,No debiste venir.
+Dialogue: 0,0:45:27.26,0:45:29.01,Default,,0,0,0,,Pero me alegra que lo hayas hecho.
+Dialogue: 0,0:45:31.43,0:45:34.47,Default,,0,0,0,,Levanten campamento. ¡Nos vamos!
+Dialogue: 0,0:45:37.51,0:45:40.93,Default,,0,0,0,,{\i1}- Bien, ¡empaquen!\N- ¡Muévanse!{\i0}
+Dialogue: 0,0:45:41.80,0:45:43.51,Default,,0,0,0,,{\i1}¡Levantamos campamento!{\i0}
+Dialogue: 0,0:45:50.97,0:45:53.05,Default,,0,0,0,,{\i1}¡Muévanse!{\i0}
+Dialogue: 0,0:45:54.35,0:45:55.43,Default,,0,0,0,,{\i1}¡Apúrense!{\i0}
+Dialogue: 0,0:46:05.30,0:46:07.30,Default,,0,0,0,,{\i1}¡Levántenlo! ¡Vamos!{\i0}
+Dialogue: 0,0:46:07.47,0:46:09.22,Default,,0,0,0,,¿Quiénes son estas personas?
+Dialogue: 0,0:46:09.85,0:46:12.43,Default,,0,0,0,,Algunos son pescadores náufragos.
+Dialogue: 0,0:46:13.43,0:46:17.55,Default,,0,0,0,,Otros pagaron para ser llevados\Na un lugar mejor. Y los trajeron aquí.
+Dialogue: 0,0:46:19.35,0:46:21.97,Default,,0,0,0,,{\i1}¡Vamos! ¡Estamos atascados! ¡Muévanse!{\i0}
+Dialogue: 0,0:46:22.26,0:46:24.30,Default,,0,0,0,,Dijo que mató a mi padre.
+Dialogue: 0,0:46:27.60,0:46:29.05,Default,,0,0,0,,Mató al mío.
+Dialogue: 0,0:46:30.30,0:46:31.35,Default,,0,0,0,,Lo vieron.
+Dialogue: 0,0:46:32.60,0:46:34.51,Default,,0,0,0,,Un asesinato a sangre fría.
+Dialogue: 0,0:46:35.39,0:46:36.76,Default,,0,0,0,,Lo siento.
+Dialogue: 0,0:46:39.14,0:46:41.30,Default,,0,0,0,,Lamento haberte traído aquí.
+Dialogue: 0,0:46:42.72,0:46:46.26,Default,,0,0,0,,Bueno, te aprovechaste\Nde un marinero borracho.
+Dialogue: 0,0:46:48.26,0:46:50.14,Default,,0,0,0,,{\i1}¡Vamos! ¡Muévanse!{\i0}
+Dialogue: 0,0:46:50.30,0:46:52.01,Default,,0,0,0,,Al menos aún no estamos muertos.
+Dialogue: 0,0:46:52.60,0:46:53.93,Default,,0,0,0,,No me digas.
+Dialogue: 0,0:47:41.18,0:47:43.01,Default,,0,0,0,,{\i1}¡Necesito explosivos!{\i0}
+Dialogue: 0,0:47:56.14,0:47:57.26,Default,,0,0,0,,{\i1}¡Vamos!{\i0}
+Dialogue: 0,0:48:07.01,0:48:08.22,Default,,0,0,0,,¿Te encuentras bien?
+Dialogue: 0,0:48:09.47,0:48:11.85,Default,,0,0,0,,- Que se levante y vuelva al trabajo.\N- Espera.
+Dialogue: 0,0:48:12.22,0:48:14.47,Default,,0,0,0,,- ¡Ya mismo!\N- Déjalo descansar. Nos arreglaremos.
+Dialogue: 0,0:48:17.05,0:48:20.72,Default,,0,0,0,,- ¡Qué vuelva a trabajar ahora!\N- Está enfermo. Debe descansar.
+Dialogue: 0,0:49:17.47,0:49:19.22,Default,,0,0,0,,¡A trabajar!
+Dialogue: 0,0:49:29.05,0:49:30.97,Default,,0,0,0,,{\i1}¡Ya lo oyeron! ¡Regresa a trabajar!{\i0}
+Dialogue: 0,0:49:39.14,0:49:40.14,Default,,0,0,0,,Lara.
+Dialogue: 0,0:49:40.30,0:49:42.26,Default,,0,0,0,,¡Lara! Prepárate.
+Dialogue: 0,0:49:43.43,0:49:44.43,Default,,0,0,0,,Oye.
+Dialogue: 0,0:49:46.39,0:49:47.39,Default,,0,0,0,,¡Ve!
+Dialogue: 0,0:49:47.55,0:49:48.55,Default,,0,0,0,,¡Vete!
+Dialogue: 0,0:50:09.14,0:50:10.14,Default,,0,0,0,,¡Cuidado!
+Dialogue: 0,0:50:14.93,0:50:16.35,Default,,0,0,0,,{\i1}¡Sepárense!{\i0}
+Dialogue: 0,0:50:33.89,0:50:35.14,Default,,0,0,0,,¡Atrápenla!
+Dialogue: 0,0:50:35.47,0:50:36.80,Default,,0,0,0,,{\i1}¡Deprisa!{\i0}
+Dialogue: 0,0:50:42.80,0:50:43.80,Default,,0,0,0,,{\i1}¡Atrápenla!{\i0}
+Dialogue: 0,0:51:11.85,0:51:14.93,Default,,0,0,0,,Está en el río. ¿Quiere que la sigamos?
+Dialogue: 0,0:51:15.10,0:51:16.10,Default,,0,0,0,,No.
+Dialogue: 0,0:51:16.80,0:51:18.93,Default,,0,0,0,,Enviaré a Rocket a que la persiga.
+Dialogue: 0,0:51:19.10,0:51:22.39,Default,,0,0,0,,Si sobrevive, él la traerá de regreso.
+Dialogue: 0,0:54:06.80,0:54:07.85,Default,,0,0,0,,¿De veras?
+Dialogue: 0,0:58:23.18,0:58:26.97,Default,,0,0,0,,Tranquila, te llevaré\Nde regreso al campamento.
+Dialogue: 0,0:58:53.18,0:58:54.76,Default,,0,0,0,,¡Deja de resistirte!
+Dialogue: 0,1:00:42.68,1:00:43.68,Default,,0,0,0,,¡Espera!
+Dialogue: 0,1:00:55.97,1:00:56.97,Default,,0,0,0,,¡No!
+Dialogue: 0,1:01:33.14,1:01:37.64,Default,,0,0,0,,No estoy loco. Sólo ignórala. Se irá.
+Dialogue: 0,1:02:06.35,1:02:07.35,Default,,0,0,0,,¿Papá?
+Dialogue: 0,1:02:10.14,1:02:11.35,Default,,0,0,0,,Soy yo.
+Dialogue: 0,1:02:16.76,1:02:17.80,Default,,0,0,0,,¿Papá?
+Dialogue: 0,1:02:19.26,1:02:24.22,Default,,0,0,0,,No es real. Ignórala.\NSe irá. Siempre sucede.
+Dialogue: 0,1:02:24.39,1:02:26.26,Default,,0,0,0,,No, mírame.
+Dialogue: 0,1:02:26.64,1:02:27.80,Default,,0,0,0,,Por favor.
+Dialogue: 0,1:02:33.51,1:02:35.39,Default,,0,0,0,,¿Recuerdas esto? Recuerdas:
+Dialogue: 0,1:02:37.01,1:02:38.26,Default,,0,0,0,,¿Nosotros solíamos...?
+Dialogue: 0,1:02:46.47,1:02:47.85,Default,,0,0,0,,Soy yo.
+Dialogue: 0,1:02:53.39,1:02:54.72,Default,,0,0,0,,Soy Lara.
+Dialogue: 0,1:03:01.68,1:03:02.89,Default,,0,0,0,,Retoño.
+Dialogue: 0,1:03:07.80,1:03:10.10,Default,,0,0,0,,¿Qué rayos haces aquí?
+Dialogue: 0,1:03:17.18,1:03:18.64,Default,,0,0,0,,Papá, estoy herida.
+Dialogue: 0,1:03:27.51,1:03:28.72,Default,,0,0,0,,Está bien.
+Dialogue: 0,1:03:50.97,1:03:53.22,Default,,0,0,0,,- Esto me dolerá más a mí que a ti.\N- ¿Qué?
+Dialogue: 0,1:03:56.55,1:03:58.89,Default,,0,0,0,,Estás bien.
+Dialogue: 0,1:04:00.26,1:04:01.76,Default,,0,0,0,,Bien.
+Dialogue: 0,1:04:03.22,1:04:04.39,Default,,0,0,0,,Ya está.
+Dialogue: 0,1:04:17.80,1:04:19.14,Default,,0,0,0,,Ahora descansa.
+Dialogue: 0,1:04:23.60,1:04:25.22,Default,,0,0,0,,¿Te quedarás conmigo?
+Dialogue: 0,1:04:27.30,1:04:28.97,Default,,0,0,0,,No iré a ningún lado.
+Dialogue: 0,1:04:55.68,1:04:58.72,Default,,0,0,0,,{\i1}¡Vogel! ¡Lo encontramos!{\i0}
+Dialogue: 0,1:05:09.68,1:05:11.39,Default,,0,0,0,,¡Lo encontramos!
+Dialogue: 0,1:05:18.55,1:05:20.14,Default,,0,0,0,,Lo encontré.
+Dialogue: 0,1:05:20.30,1:05:21.60,Default,,0,0,0,,Envíen el transporte.
+Dialogue: 0,1:05:47.01,1:05:49.76,Default,,0,0,0,,NADIE ABANDONA PATNA
+Dialogue: 0,1:06:01.93,1:06:03.22,Default,,0,0,0,,Creí que te había perdido.
+Dialogue: 0,1:06:03.39,1:06:06.35,Default,,0,0,0,,Cuando yo te veo en esta Isla,\Neres tú la que desaparece.
+Dialogue: 0,1:06:30.35,1:06:31.76,Default,,0,0,0,,Déjame hacer eso.
+Dialogue: 0,1:06:33.10,1:06:34.26,Default,,0,0,0,,Ven aquí.
+Dialogue: 0,1:06:40.97,1:06:43.22,Default,,0,0,0,,Retoño, ¿adónde fuiste?
+Dialogue: 0,1:06:44.60,1:06:46.85,Default,,0,0,0,,¿Terminaste yendo a Oxford o a Cambridge?
+Dialogue: 0,1:06:49.72,1:06:51.30,Default,,0,0,0,,Vamos, ¿a cuál?
+Dialogue: 0,1:06:51.80,1:06:53.35,Default,,0,0,0,,¿Sabes, papá?
+Dialogue: 0,1:06:54.72,1:06:56.85,Default,,0,0,0,,No fui a la universidad.
+Dialogue: 0,1:06:57.76,1:07:00.51,Default,,0,0,0,,Aún tienes tiempo, eres una niña.
+Dialogue: 0,1:07:01.39,1:07:04.80,Default,,0,0,0,,No, era una niña cuando me abandonaste.
+Dialogue: 0,1:07:05.35,1:07:06.60,Default,,0,0,0,,Cuidado.
+Dialogue: 0,1:07:14.89,1:07:16.64,Default,,0,0,0,,El día más duro de mi vida...
+Dialogue: 0,1:07:17.85,1:07:20.64,Default,,0,0,0,,fue cuando dejé de intentar\Nregresar contigo.
+Dialogue: 0,1:07:24.72,1:07:27.22,Default,,0,0,0,,Me di cuenta\Nde que ella nunca me dejaría ir.
+Dialogue: 0,1:07:30.80,1:07:33.76,Default,,0,0,0,,¿De qué hablas? ¿Quién es "ella"?
+Dialogue: 0,1:07:34.64,1:07:35.97,Default,,0,0,0,,Himiko.
+Dialogue: 0,1:07:38.14,1:07:41.14,Default,,0,0,0,,Trinity había enviado a Vogel\Na encontrar la tumba,
+Dialogue: 0,1:07:41.26,1:07:43.35,Default,,0,0,0,,para liberarla y obtener su poder.
+Dialogue: 0,1:07:43.72,1:07:45.55,Default,,0,0,0,,Debía detenerlos.
+Dialogue: 0,1:07:47.30,1:07:48.47,Default,,0,0,0,,Claro.
+Dialogue: 0,1:07:49.64,1:07:52.14,Default,,0,0,0,,Vogel no puede encontrar la tumba sin mí.
+Dialogue: 0,1:07:52.35,1:07:57.55,Default,,0,0,0,,Y como estoy muerto, y tú quemaste\Nel resto de la investigación...
+Dialogue: 0,1:07:58.68,1:08:00.26,Default,,0,0,0,,nunca la encontrará.
+Dialogue: 0,1:08:02.22,1:08:03.26,Default,,0,0,0,,Con respecto...
+Dialogue: 0,1:08:05.10,1:08:06.51,Default,,0,0,0,,a eso.
+Dialogue: 0,1:08:08.89,1:08:12.68,Default,,0,0,0,,¿Qué parte de "destruye\Ntodos mis papeles" no entendiste?
+Dialogue: 0,1:08:13.01,1:08:16.51,Default,,0,0,0,,Si hubiera destruido los papeles,\Nno te habría encontrado.
+Dialogue: 0,1:08:16.68,1:08:19.85,Default,,0,0,0,,Dejé desvíos y rastros falsos donde pude.
+Dialogue: 0,1:08:20.01,1:08:22.39,Default,,0,0,0,,Durante años, los vi fracasar.
+Dialogue: 0,1:08:22.55,1:08:24.18,Default,,0,0,0,,Y tú los llevaste de la mano.
+Dialogue: 0,1:08:24.35,1:08:28.43,Default,,0,0,0,,Un psicópata armado encuentra\Nrestos antiguos.
+Dialogue: 0,1:08:29.39,1:08:30.85,Default,,0,0,0,,¿Y qué?
+Dialogue: 0,1:08:31.10,1:08:33.22,Default,,0,0,0,,Si Vogel abre esa tumba...
+Dialogue: 0,1:08:33.64,1:08:36.68,Default,,0,0,0,,la maldición de Himiko se desatará\Nsobre el mundo.
+Dialogue: 0,1:08:36.89,1:08:38.55,Default,,0,0,0,,Papá, escucha...
+Dialogue: 0,1:08:38.72,1:08:41.72,Default,,0,0,0,,Fue un error que vinieras.
+Dialogue: 0,1:08:47.72,1:08:49.89,Default,,0,0,0,,Vine a averiguar qué te había sucedido.
+Dialogue: 0,1:08:50.10,1:08:52.18,Default,,0,0,0,,Mientras la tumba estuviera a salvo,
+Dialogue: 0,1:08:52.68,1:08:54.14,Default,,0,0,0,,tú estarías a salvo.
+Dialogue: 0,1:08:54.93,1:08:57.35,Default,,0,0,0,,Intentaba mantenerte a salvo.
+Dialogue: 0,1:08:59.18,1:09:00.72,Default,,0,0,0,,Pero subestimé tu...
+Dialogue: 0,1:09:00.89,1:09:02.05,Default,,0,0,0,,¿Mi qué?
+Dialogue: 0,1:09:04.72,1:09:06.47,Default,,0,0,0,,- ¿Estupidez?\N- No.
+Dialogue: 0,1:09:10.39,1:09:11.93,Default,,0,0,0,,Tu valentía.
+Dialogue: 0,1:09:18.26,1:09:19.89,Default,,0,0,0,,Debemos salir de esta Isla.
+Dialogue: 0,1:09:20.05,1:09:21.80,Default,,0,0,0,,No hay forma, Lara.
+Dialogue: 0,1:09:22.01,1:09:25.47,Default,,0,0,0,,Vogel tiene un teléfono satelital.\NPodemos llegar a él y pedir ayuda.
+Dialogue: 0,1:09:25.64,1:09:27.05,Default,,0,0,0,,Vogel tiene un ejército.
+Dialogue: 0,1:09:27.22,1:09:29.43,Default,,0,0,0,,Tú me enseñaste a nunca rendirme.
+Dialogue: 0,1:09:33.05,1:09:35.01,Default,,0,0,0,,Eso fue en otra época.
+Dialogue: 0,1:09:36.64,1:09:38.64,Default,,0,0,0,,Cuando era un hombre diferente.
+Dialogue: 0,1:09:50.97,1:09:53.55,Default,,0,0,0,,- Lara.\N- Sigo siendo tu hija.
+Dialogue: 0,1:09:55.10,1:09:56.26,Default,,0,0,0,,¡Lara!
+Dialogue: 0,1:10:19.51,1:10:20.72,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:10:43.93,1:10:45.47,Default,,0,0,0,,Prueba otra combinación.
+Dialogue: 0,1:10:45.64,1:10:48.35,Default,,0,0,0,,Y otra, y otra.
+Dialogue: 0,1:10:56.93,1:11:00.10,Default,,0,0,0,,Vamos, dame el maldito código.
+Dialogue: 0,1:11:01.51,1:11:03.51,Default,,0,0,0,,TRANSPORTE EN CAMINO
+Dialogue: 0,1:11:11.22,1:11:15.18,Default,,0,0,0,,{\i1}Intentaremos otra vez con explosivos.\NPreparen otra carga.{\i0}
+Dialogue: 0,1:11:15.35,1:11:16.60,Default,,0,0,0,,{\i1}Sí, jefe.{\i0}
+Dialogue: 0,1:11:39.35,1:11:41.76,Default,,0,0,0,,{\i1}Ustedes dos. Dejen de hablar.{\i0}
+Dialogue: 0,1:11:55.30,1:11:57.35,Default,,0,0,0,,Toma las armas. Iré por el teléfono.
+Dialogue: 0,1:11:57.68,1:11:59.68,Default,,0,0,0,,Encontraremos la manera de salir de aquí.
+Dialogue: 0,1:11:59.76,1:12:00.97,Default,,0,0,0,,Debemos irnos ahora.
+Dialogue: 0,1:12:11.01,1:12:12.01,Default,,0,0,0,,¡Vogel!
+Dialogue: 0,1:12:12.68,1:12:13.80,Default,,0,0,0,,{\i1}¡Se escapan!{\i0}
+Dialogue: 0,1:12:21.55,1:12:22.55,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:12:22.72,1:12:24.85,Default,,0,0,0,,{\i1}¡Se escapan! ¡Dispárenles!{\i0}
+Dialogue: 0,1:12:41.60,1:12:43.51,Default,,0,0,0,,- Ponlos a salvo.\N- De acuerdo.
+Dialogue: 0,1:12:48.22,1:12:50.01,Default,,0,0,0,,Iré justo detrás de ti. Vamos.
+Dialogue: 0,1:13:39.43,1:13:40.43,Default,,0,0,0,,Joder.
+Dialogue: 0,1:13:51.64,1:13:52.76,Default,,0,0,0,,Debemos movernos.
+Dialogue: 0,1:13:53.47,1:13:54.72,Default,,0,0,0,,Yo debo esperar aquí.
+Dialogue: 0,1:13:54.85,1:13:56.18,Default,,0,0,0,,No abandonaré a Lara.
+Dialogue: 0,1:14:23.39,1:14:25.30,Default,,0,0,0,,Es hermosa, ¿no, Richard?
+Dialogue: 0,1:14:28.93,1:14:31.68,Default,,0,0,0,,Desearía haber sabido que estabas vivo\Ntodos estos años.
+Dialogue: 0,1:14:33.18,1:14:35.68,Default,,0,0,0,,Al menos, hubiera tenido con quien hablar.
+Dialogue: 0,1:14:48.76,1:14:50.97,Default,,0,0,0,,Necesito tu ayuda, Richard.
+Dialogue: 0,1:14:51.14,1:14:53.22,Default,,0,0,0,,Abre la puerta.
+Dialogue: 0,1:14:53.39,1:14:57.47,Default,,0,0,0,,Han pasado siete años.\NIré a casa a ver a mi familia.
+Dialogue: 0,1:14:57.64,1:15:00.18,Default,,0,0,0,,Si abro esta tumba, no tendrás familia.
+Dialogue: 0,1:15:01.35,1:15:02.72,Default,,0,0,0,,¡Ábrela!
+Dialogue: 0,1:15:04.26,1:15:05.47,Default,,0,0,0,,¡Ábrela!
+Dialogue: 0,1:15:06.60,1:15:07.60,Default,,0,0,0,,¡Ábrela!
+Dialogue: 0,1:15:08.51,1:15:09.51,Default,,0,0,0,,¡Nunca!
+Dialogue: 0,1:15:12.85,1:15:13.97,Default,,0,0,0,,Como quieras.
+Dialogue: 0,1:15:14.14,1:15:17.60,Default,,0,0,0,,Contigo o sin ti, entraré en esa tumba.
+Dialogue: 0,1:15:26.30,1:15:27.35,Default,,0,0,0,,¡Baja eso!
+Dialogue: 0,1:15:30.01,1:15:31.35,Default,,0,0,0,,Bájalo.
+Dialogue: 0,1:15:32.93,1:15:35.89,Default,,0,0,0,,Crees que no puedo jalar el gatillo\Nantes de que me des con la flecha.
+Dialogue: 0,1:15:36.05,1:15:37.47,Default,,0,0,0,,Hazlo, Lara. ¡Dispárale!
+Dialogue: 0,1:15:38.18,1:15:39.68,Default,,0,0,0,,Vamos, baja el arma.
+Dialogue: 0,1:15:39.85,1:15:42.26,Default,,0,0,0,,Dispárale, Lara.\NNo podemos dejar que llegue a Himiko.
+Dialogue: 0,1:15:44.85,1:15:47.51,Default,,0,0,0,,No crees este desvarío, ¿no?
+Dialogue: 0,1:15:47.68,1:15:51.22,Default,,0,0,0,,Dile a tu padre que abra la puerta\No morirá.
+Dialogue: 0,1:15:51.43,1:15:53.22,Default,,0,0,0,,Tú puedes hacer que lo haga, Lara.
+Dialogue: 0,1:15:54.47,1:15:56.55,Default,,0,0,0,,El transporte está en camino.
+Dialogue: 0,1:15:56.93,1:15:59.47,Default,,0,0,0,,Todos podemos irnos de esta maldita Isla.
+Dialogue: 0,1:15:59.89,1:16:01.60,Default,,0,0,0,,Deja que me dispare.
+Dialogue: 0,1:16:01.76,1:16:04.51,Default,,0,0,0,,Vale la pena sacrificar una vida\Npara salvar millones.
+Dialogue: 0,1:16:07.10,1:16:11.64,Default,,0,0,0,,Es tu decisión.\NEs tu dedo el que jala este gatillo.
+Dialogue: 0,1:16:18.22,1:16:20.30,Default,,0,0,0,,- Lo siento.\N- No.
+Dialogue: 0,1:16:22.72,1:16:25.64,Default,,0,0,0,,No vine hasta aquí para verte morir.
+Dialogue: 0,1:16:31.85,1:16:33.18,Default,,0,0,0,,Yo lo haré.
+Dialogue: 0,1:16:38.35,1:16:39.89,Default,,0,0,0,,Yo la abriré.
+Dialogue: 0,1:16:44.89,1:16:47.30,Default,,0,0,0,,Por fin, un Croft sensato.
+Dialogue: 0,1:18:23.68,1:18:25.10,Default,,0,0,0,,Las damas primero.
+Dialogue: 0,1:18:52.18,1:18:53.76,Default,,0,0,0,,Marquen el camino.
+Dialogue: 0,1:19:26.14,1:19:27.76,Default,,0,0,0,,Aún respira.
+Dialogue: 0,1:19:28.26,1:19:32.22,Default,,0,0,0,,O es el cambio en la presión atmosférica.\NSigamos caminando.
+Dialogue: 0,1:19:49.14,1:19:50.68,Default,,0,0,0,,Debiste ver la cara que pusis...
+Dialogue: 0,1:20:04.64,1:20:06.80,Default,,0,0,0,,Eso no fue diseñado\Npara mantener a la gente afuera.
+Dialogue: 0,1:20:09.05,1:20:10.93,Default,,0,0,0,,Sino para mantenerla adentro.
+Dialogue: 0,1:20:11.10,1:20:12.14,Default,,0,0,0,,¿Papá?
+Dialogue: 0,1:20:46.18,1:20:48.01,Default,,0,0,0,,El Abismo de las Almas.
+Dialogue: 0,1:21:44.14,1:21:45.68,Default,,0,0,0,,Ahora ve tú.
+Dialogue: 0,1:21:59.51,1:22:03.01,Default,,0,0,0,,"Reza para sobrevivir\Na los rostros de Himiko".
+Dialogue: 0,1:22:04.01,1:22:05.26,Default,,0,0,0,,Nos acercamos.
+Dialogue: 0,1:22:09.80,1:22:13.18,Default,,0,0,0,,"La Reina de la Muerte transforma\Nel día en noche.
+Dialogue: 0,1:22:14.18,1:22:17.18,Default,,0,0,0,,"Debe morir para traer\Nde vuelta a la vida".
+Dialogue: 0,1:22:22.93,1:22:24.14,Default,,0,0,0,,Joder.
+Dialogue: 0,1:22:36.43,1:22:37.51,Default,,0,0,0,,- ¡El piso!\N- ¡Lara!
+Dialogue: 0,1:22:47.47,1:22:49.43,Default,,0,0,0,,Debe haber una forma de detener esto.
+Dialogue: 0,1:22:50.72,1:22:52.10,Default,,0,0,0,,¡Miren a su alrededor!
+Dialogue: 0,1:22:54.39,1:22:56.14,Default,,0,0,0,,{\i1}¡Vamos!{\i0}
+Dialogue: 0,1:22:56.64,1:22:58.64,Default,,0,0,0,,{\i1}Vogel, ¿qué sucede?{\i0}
+Dialogue: 0,1:23:12.80,1:23:14.05,Default,,0,0,0,,"Reza para sobrevivir".
+Dialogue: 0,1:23:14.22,1:23:17.01,Default,,0,0,0,,Es una cerradura. ¡Necesitamos una llave!
+Dialogue: 0,1:23:18.26,1:23:19.60,Default,,0,0,0,,¡Los molinillos de oración!
+Dialogue: 0,1:23:24.51,1:23:25.55,Default,,0,0,0,,¡Lara!
+Dialogue: 0,1:23:30.47,1:23:33.22,Default,,0,0,0,,- No sirve.\N- Prueba los otros molinillos.
+Dialogue: 0,1:23:34.22,1:23:35.22,Default,,0,0,0,,{\i1}¡Prueba con este!{\i0}
+Dialogue: 0,1:23:39.64,1:23:40.64,Default,,0,0,0,,No.
+Dialogue: 0,1:23:41.22,1:23:42.30,Default,,0,0,0,,Un momento.
+Dialogue: 0,1:23:45.80,1:23:47.00,Default,,0,0,0,,Es un rompecabezas de colores.
+Dialogue: 0,1:23:49.89,1:23:52.60,Default,,0,0,0,,"La Reina de la Muerte transforma\Nel día en noche".
+Dialogue: 0,1:23:53.22,1:23:55.60,Default,,0,0,0,,- Negro.\N- ¡Negro! Aquí.
+Dialogue: 0,1:23:57.64,1:23:58.47,Default,,0,0,0,,¡Joder!
+Dialogue: 0,1:23:58.55,1:23:59.60,Default,,0,0,0,,¡Azul!
+Dialogue: 0,1:24:01.55,1:24:02.39,Default,,0,0,0,,¡No!
+Dialogue: 0,1:24:02.47,1:24:03.55,Default,,0,0,0,,¡Toma!
+Dialogue: 0,1:24:05.01,1:24:06.26,Default,,0,0,0,,No funciona.
+Dialogue: 0,1:24:08.14,1:24:09.14,Default,,0,0,0,,¡Lara!
+Dialogue: 0,1:24:16.30,1:24:18.72,Default,,0,0,0,,¡La última! ¡Amarilla!
+Dialogue: 0,1:24:25.55,1:24:26.68,Default,,0,0,0,,No sirve.
+Dialogue: 0,1:24:27.26,1:24:28.80,Default,,0,0,0,,Prueba con todas, ¡maldita sea!
+Dialogue: 0,1:24:29.51,1:24:32.01,Default,,0,0,0,,"La Reina de la Muerte transforma\Nel día..."
+Dialogue: 0,1:24:32.47,1:24:34.05,Default,,0,0,0,,"Debe morir para traer de vuelta... ".
+Dialogue: 0,1:24:34.26,1:24:35.43,Default,,0,0,0,,"A la vida".
+Dialogue: 0,1:24:35.60,1:24:36.80,Default,,0,0,0,,¡Vamos!
+Dialogue: 0,1:24:38.80,1:24:40.93,Default,,0,0,0,,El color de la vida.
+Dialogue: 0,1:24:46.43,1:24:48.01,Default,,0,0,0,,¡Me quedo sin piso!
+Dialogue: 0,1:24:55.05,1:24:56.22,Default,,0,0,0,,¡Verde!
+Dialogue: 0,1:25:19.72,1:25:22.22,Default,,0,0,0,,Siempre fuiste\Nel cerebro de la familia, retoño.
+Dialogue: 0,1:25:26.18,1:25:28.30,Default,,0,0,0,,Continuemos, retoño.
+Dialogue: 0,1:25:34.39,1:25:35.76,Default,,0,0,0,,¿Dónde está el piso?
+Dialogue: 0,1:25:36.93,1:25:37.93,Default,,0,0,0,,Se fue.
+Dialogue: 0,1:25:52.43,1:25:53.43,Default,,0,0,0,,Bengala.
+Dialogue: 0,1:26:09.68,1:26:11.26,Default,,0,0,0,,Vamos, Lara.
+Dialogue: 0,1:26:13.72,1:26:15.01,Default,,0,0,0,,Regresaré por ella.
+Dialogue: 0,1:26:16.55,1:26:17.89,Default,,0,0,0,,Iré contigo.
+Dialogue: 0,1:26:18.10,1:26:20.05,Default,,0,0,0,,Tu padre dio su vida por nosotros.
+Dialogue: 0,1:26:58.18,1:27:02.80,Default,,0,0,0,,El ejército de mil doncellas de Himiko.
+Dialogue: 0,1:27:04.39,1:27:07.39,Default,,0,0,0,,Se sacrificaron en un ritual suicida
+Dialogue: 0,1:27:07.55,1:27:09.68,Default,,0,0,0,,para servir a su Reina en el más allá.
+Dialogue: 0,1:27:15.76,1:27:17.68,Default,,0,0,0,,Exactamente como en tus notas.
+Dialogue: 0,1:27:20.39,1:27:21.39,Default,,0,0,0,,{\i1}La encontramos.{\i0}
+Dialogue: 0,1:27:47.97,1:27:49.18,Default,,0,0,0,,{\i1}Bien. Aquí estamos.{\i0}
+Dialogue: 0,1:27:49.60,1:27:51.10,Default,,0,0,0,,Terminaremos esto.
+Dialogue: 0,1:27:52.76,1:27:54.64,Default,,0,0,0,,Aún puedes cambiar de idea.
+Dialogue: 0,1:27:55.01,1:27:58.30,Default,,0,0,0,,Hay una gran diferencia\Nentre mito y realidad, Richard.
+Dialogue: 0,1:27:58.93,1:28:01.64,Default,,0,0,0,,Eso es algo que nunca entenderás.
+Dialogue: 0,1:28:02.76,1:28:03.76,Default,,0,0,0,,Caballeros.
+Dialogue: 0,1:28:22.10,1:28:23.39,Default,,0,0,0,,Ábranlo.
+Dialogue: 0,1:29:08.01,1:29:10.93,Default,,0,0,0,,Te dije que no había nada que temer.
+Dialogue: 0,1:29:11.55,1:29:12.85,Default,,0,0,0,,Es sólo...
+Dialogue: 0,1:29:13.35,1:29:15.10,Default,,0,0,0,,una viejita.
+Dialogue: 0,1:29:18.22,1:29:19.80,Default,,0,0,0,,Prepárenla para transportarla.
+Dialogue: 0,1:29:28.55,1:29:29.97,Default,,0,0,0,,Algo no cierra.
+Dialogue: 0,1:29:31.64,1:29:34.60,Default,,0,0,0,,En ninguna de estas pinturas es\Nun monstruo.
+Dialogue: 0,1:29:40.55,1:29:43.35,Default,,0,0,0,,Parece que vino aquí por sí misma.
+Dialogue: 0,1:29:47.10,1:29:48.55,Default,,0,0,0,,No la obligaron.
+Dialogue: 0,1:29:51.18,1:29:54.10,Default,,0,0,0,,{\i1}La Reina de la Muerte transforma\Nel día en noche.{\i0}
+Dialogue: 0,1:29:54.60,1:29:56.68,Default,,0,0,0,,{\i1}Debe morir para traer de vuelta a la vida.{\i0}
+Dialogue: 0,1:29:56.85,1:29:58.30,Default,,0,0,0,,"Traer de vuelta a la vida".
+Dialogue: 0,1:30:01.93,1:30:04.55,Default,,0,0,0,,{\i1}Esparce muerte y destrucción\Ncon sólo el toque de su mano.{\i0}
+Dialogue: 0,1:30:06.80,1:30:07.80,Default,,0,0,0,,Adelante.
+Dialogue: 0,1:30:10.64,1:30:12.30,Default,,0,0,0,,Todos los mitos se basan en la realidad.
+Dialogue: 0,1:30:12.47,1:30:13.30,Default,,0,0,0,,En la realidad.
+Dialogue: 0,1:30:13.43,1:30:16.10,Default,,0,0,0,,Sacrificar una vida para salvar millones.
+Dialogue: 0,1:30:17.68,1:30:18.76,Default,,0,0,0,,¡Espera!
+Dialogue: 0,1:30:20.89,1:30:23.39,Default,,0,0,0,,Se sacrificó a sí misma.
+Dialogue: 0,1:30:25.76,1:30:27.68,Default,,0,0,0,,Estaba protegiendo el mundo.
+Dialogue: 0,1:30:42.89,1:30:43.97,Default,,0,0,0,,¿Ves?
+Dialogue: 0,1:30:44.60,1:30:46.26,Default,,0,0,0,,Son sólo trucos.
+Dialogue: 0,1:30:48.72,1:30:50.60,Default,,0,0,0,,Está bien. Métanla en la bolsa. Vamos.
+Dialogue: 0,1:31:10.97,1:31:12.68,Default,,0,0,0,,Pensaban que era magia.
+Dialogue: 0,1:31:19.18,1:31:20.85,Default,,0,0,0,,Ella era portadora.
+Dialogue: 0,1:31:22.47,1:31:23.60,Default,,0,0,0,,Era inmune.
+Dialogue: 0,1:31:31.22,1:31:32.60,Default,,0,0,0,,Es una enfermedad.
+Dialogue: 0,1:32:25.64,1:32:27.26,Default,,0,0,0,,{\i1}Esto es lo que quiere Trinity.{\i0}
+Dialogue: 0,1:32:27.35,1:32:28.89,Default,,0,0,0,,Con esto regreso a casa.
+Dialogue: 0,1:32:29.05,1:32:32.93,Default,,0,0,0,,Si sacas esto al mundo, será un genocidio.
+Dialogue: 0,1:32:39.22,1:32:42.97,Default,,0,0,0,,Sólo necesito un pequeño trozo de ti.
+Dialogue: 0,1:33:38.51,1:33:40.72,Default,,0,0,0,,¡Vamos! ¡Ve por ella!
+Dialogue: 0,1:34:01.68,1:34:03.22,Default,,0,0,0,,{\i1}Se terminó, Richard.{\i0}
+Dialogue: 0,1:34:03.89,1:34:07.47,Default,,0,0,0,,- Sólo debemos salir de aquí.\N- Tú no irás a ningún lado.
+Dialogue: 0,1:34:19.43,1:34:21.05,Default,,0,0,0,,Vamos, Richard.
+Dialogue: 0,1:34:23.76,1:34:24.85,Default,,0,0,0,,Piensa en tu hija.
+Dialogue: 0,1:34:34.01,1:34:35.30,Default,,0,0,0,,Vamos.
+Dialogue: 0,1:34:36.64,1:34:37.80,Default,,0,0,0,,Vamos.
+Dialogue: 0,1:36:31.89,1:36:33.55,Default,,0,0,0,,- Papá.\N- Lara.
+Dialogue: 0,1:36:34.26,1:36:35.72,Default,,0,0,0,,Vogel se fue.
+Dialogue: 0,1:36:35.89,1:36:39.01,Default,,0,0,0,,- Debes ir tras él.\N- Vamos, andando.
+Dialogue: 0,1:36:39.18,1:36:41.64,Default,,0,0,0,,- No, no te acerques.\N- ¿De qué hablas?
+Dialogue: 0,1:36:44.55,1:36:45.93,Default,,0,0,0,,Yo estoy acabado.
+Dialogue: 0,1:36:52.10,1:36:53.26,Default,,0,0,0,,Me contagié.
+Dialogue: 0,1:36:55.76,1:36:56.85,Default,,0,0,0,,No.
+Dialogue: 0,1:37:00.47,1:37:03.01,Default,,0,0,0,,No puedes tocarme. No me toques.
+Dialogue: 0,1:37:04.72,1:37:07.93,Default,,0,0,0,,Debes detener a Vogel y salir de aquí.
+Dialogue: 0,1:37:08.10,1:37:10.35,Default,,0,0,0,,Yo enterraré a Himiko\Nde una vez por todas.
+Dialogue: 0,1:37:12.18,1:37:13.55,Default,,0,0,0,,Acabo de encontrarte.
+Dialogue: 0,1:37:13.76,1:37:16.22,Default,,0,0,0,,Prométeme que lo detendrás. ¡Prométemelo!
+Dialogue: 0,1:37:16.39,1:37:17.76,Default,,0,0,0,,Debe haber otra manera.
+Dialogue: 0,1:37:17.93,1:37:18.93,Default,,0,0,0,,Lara.
+Dialogue: 0,1:37:19.85,1:37:22.30,Default,,0,0,0,,Eres una joven muy inteligente.
+Dialogue: 0,1:37:23.76,1:37:25.26,Default,,0,0,0,,No hay otra manera.
+Dialogue: 0,1:37:32.85,1:37:34.26,Default,,0,0,0,,Te necesito.
+Dialogue: 0,1:37:35.14,1:37:38.64,Default,,0,0,0,,No, no es cierto.\NVales diez veces más que yo.
+Dialogue: 0,1:37:41.18,1:37:45.43,Default,,0,0,0,,Dijiste que no creías en la magia.\N¿Qué es esto, mi amor?
+Dialogue: 0,1:37:46.30,1:37:47.93,Default,,0,0,0,,Todo el tiempo que pasé aquí...
+Dialogue: 0,1:37:48.64,1:37:50.89,Default,,0,0,0,,deseaba haberte visto crecer.
+Dialogue: 0,1:37:51.30,1:37:52.43,Default,,0,0,0,,No.
+Dialogue: 0,1:37:52.80,1:37:54.01,Default,,0,0,0,,Y ahora lo logré.
+Dialogue: 0,1:37:54.89,1:37:56.39,Default,,0,0,0,,Es un milagro.
+Dialogue: 0,1:37:57.26,1:37:58.80,Default,,0,0,0,,Anímate, retoño.
+Dialogue: 0,1:37:59.39,1:38:00.93,Default,,0,0,0,,Hay trabajos que hacer.
+Dialogue: 0,1:38:03.60,1:38:05.01,Default,,0,0,0,,¡Vamos, ve!
+Dialogue: 0,1:38:06.60,1:38:08.35,Default,,0,0,0,,No hay tiempo, Lara.
+Dialogue: 0,1:38:08.68,1:38:09.68,Default,,0,0,0,,¡Vamos! ¡Vete!
+Dialogue: 0,1:38:25.51,1:38:26.97,Default,,0,0,0,,Papá te ama.
+Dialogue: 0,1:38:31.47,1:38:32.93,Default,,0,0,0,,Te amo.
+Dialogue: 0,1:39:27.97,1:39:31.14,Default,,0,0,0,,¿De veras quieres hacer esto, pequeña?\NVámonos a casa.
+Dialogue: 0,1:39:45.47,1:39:46.80,Default,,0,0,0,,No salvarás a nadie.
+Dialogue: 0,1:39:48.05,1:39:49.64,Default,,0,0,0,,Trinity está en todas partes.
+Dialogue: 0,1:39:52.64,1:39:53.64,Default,,0,0,0,,¿Sí?
+Dialogue: 0,1:40:33.05,1:40:34.51,Default,,0,0,0,,Hice una promesa.
+Dialogue: 0,1:40:39.10,1:40:41.30,Default,,0,0,0,,No. ¡No!
+Dialogue: 0,1:40:42.05,1:40:43.55,Default,,0,0,0,,No saldrás de aquí.
+Dialogue: 0,1:40:44.18,1:40:45.55,Default,,0,0,0,,¡No!
+Dialogue: 0,1:41:45.80,1:41:47.22,Default,,0,0,0,,Cuando veas a Richard...
+Dialogue: 0,1:41:48.43,1:41:50.22,Default,,0,0,0,,envíale mis saludos.
+Dialogue: 0,1:42:31.68,1:42:32.76,Default,,0,0,0,,Dáselos tú mismo.
+Dialogue: 0,1:42:50.35,1:42:52.47,Default,,0,0,0,,Te metiste con la familia equivocada.
+Dialogue: 0,1:44:51.14,1:44:52.14,Default,,0,0,0,,¡Lara!
+Dialogue: 0,1:44:59.22,1:45:00.39,Default,,0,0,0,,¡Lara!
+Dialogue: 0,1:45:09.22,1:45:10.39,Default,,0,0,0,,¿Lara?
+Dialogue: 0,1:45:52.39,1:45:53.51,Default,,0,0,0,,Bueno...
+Dialogue: 0,1:45:54.43,1:45:55.80,Default,,0,0,0,,aún no hemos muerto.
+Dialogue: 0,1:46:00.30,1:46:01.47,Default,,0,0,0,,No me digas.
+Dialogue: 0,1:46:26.93,1:46:30.51,Default,,0,0,0,,Vogel, aquí el transporte Patna Bravo 5.\NCambio.
+Dialogue: 0,1:46:33.89,1:46:36.39,Default,,0,0,0,,Vogel, ¿me copias? Cambio.
+Dialogue: 0,1:46:37.76,1:46:38.80,Default,,0,0,0,,Jefe.
+Dialogue: 0,1:46:43.05,1:46:44.89,Default,,0,0,0,,Nos llevas a casa, ¿verdad?
+Dialogue: 0,1:47:13.72,1:47:17.93,Default,,0,0,0,,LONDRES
+Dialogue: 0,1:47:23.64,1:47:26.55,Default,,0,0,0,,Oficialmente muerto.\NComo por arte de magia.
+Dialogue: 0,1:47:26.76,1:47:28.47,Default,,0,0,0,,No creo que haya muerto.
+Dialogue: 0,1:47:30.26,1:47:33.14,Default,,0,0,0,,- Tienes mucho de él.\N- Gracias, Ana.
+Dialogue: 0,1:47:33.80,1:47:34.97,Default,,0,0,0,,De verdad.
+Dialogue: 0,1:47:36.22,1:47:38.26,Default,,0,0,0,,Tú estás a cargo ahora, Lara.
+Dialogue: 0,1:47:40.01,1:47:42.39,Default,,0,0,0,,Esta es la lista de sus bienes.
+Dialogue: 0,1:47:42.89,1:47:44.14,Default,,0,0,0,,Gracias.
+Dialogue: 0,1:47:44.72,1:47:48.39,Default,,0,0,0,,No, es mejor que tú te encargues\Ndel día a día, Ana.
+Dialogue: 0,1:47:48.68,1:47:50.22,Default,,0,0,0,,Como quieras.
+Dialogue: 0,1:47:51.18,1:47:55.39,Default,,0,0,0,,Salas de reuniones y negocios.\NNo soy esa clase de Croft.
+Dialogue: 0,1:48:02.80,1:48:06.30,Default,,0,0,0,,Resulta que mi padre tampoco.
+Dialogue: 0,1:48:21.22,1:48:23.43,Default,,0,0,0,,¿Todas estas empresas nos pertenecen?
+Dialogue: 0,1:48:24.14,1:48:25.30,Default,,0,0,0,,Sí.
+Dialogue: 0,1:49:01.72,1:49:04.55,Default,,0,0,0,,EN MEMORIA DE LORD RICHARD CROFT\N1963 - 2018
+Dialogue: 0,1:49:06.80,1:49:08.68,Default,,0,0,0,,{\i1}Ahora sé su nombre...{\i0}
+Dialogue: 0,1:49:08.85,1:49:10.89,Default,,0,0,0,,{\i1}La Orden de Trinity.{\i0}
+Dialogue: 0,1:49:13.05,1:49:17.30,Default,,0,0,0,,{\i1}Una antigua organización militar\Nque busca controlar lo sobrenatural{\i0}
+Dialogue: 0,1:49:17.47,1:49:20.05,Default,,0,0,0,,{\i1}para dominar a la humanidad.{\i0}
+Dialogue: 0,1:49:20.22,1:49:22.85,Default,,0,0,0,,PATNA\NCONFIDENCIAL
+Dialogue: 0,1:49:23.89,1:49:25.85,Default,,0,0,0,,{\i1}¿Qué clase de trabajo haces?{\i0}
+Dialogue: 0,1:49:26.97,1:49:30.35,Default,,0,0,0,,{\i1}Una mezcla de cosas.\NEstoy a merced de mi empleador.{\i0}
+Dialogue: 0,1:49:31.39,1:49:33.85,Default,,0,0,0,,{\i1}¿Todas estas empresas nos pertenecen?{\i0}
+Dialogue: 0,1:49:36.47,1:49:37.97,Default,,0,0,0,,{\i1}No salvarás a nadie.{\i0}
+Dialogue: 0,1:49:39.14,1:49:41.10,Default,,0,0,0,,{\i1}Trinity está en todos lados.{\i0}
+Dialogue: 0,1:49:42.18,1:49:43.64,Default,,0,0,0,,{\i1}Sé que es difícil aceptarlo.{\i0}
+Dialogue: 0,1:49:44.26,1:49:46.68,Default,,0,0,0,,Pero debes venir a firmar esos papeles.
+Dialogue: 0,1:49:46.93,1:49:48.14,Default,,0,0,0,,PODER NOTARIAL
+Dialogue: 0,1:49:48.30,1:49:51.30,Default,,0,0,0,,{\i1}Es mejor que tú te encargues\Ndel día a día, Ana.{\i0}
+Dialogue: 0,1:49:52.10,1:49:53.22,Default,,0,0,0,,{\i1}Como quieras.{\i0}
+Dialogue: 0,1:49:53.39,1:49:55.72,Default,,0,0,0,,{\i1}La única persona con quien puedo hablar...{\i0}
+Dialogue: 0,1:49:56.05,1:49:58.35,Default,,0,0,0,,{\i1}está del otro lado de esta línea.{\i0}
+Dialogue: 0,1:50:08.55,1:50:10.22,Default,,0,0,0,,{\i1}Debes comprender.{\i0}
+Dialogue: 0,1:50:10.51,1:50:13.05,Default,,0,0,0,,{\i1}Los Croft tenemos responsabilidades.{\i0}
+Dialogue: 0,1:50:15.64,1:50:16.97,Default,,0,0,0,,Trabajos que hacer.
+Dialogue: 0,1:50:28.10,1:50:29.43,Default,,0,0,0,,Tú otra vez.
+Dialogue: 0,1:50:32.22,1:50:33.97,Default,,0,0,0,,Vine por el amuleto.
+Dialogue: 0,1:50:34.14,1:50:37.85,Default,,0,0,0,,Qué pena. Esperaba que lo olvidaras.\NVale una fortuna.
+Dialogue: 0,1:50:38.01,1:50:40.26,Default,,0,0,0,,Te dije que era tu día de suerte.
+Dialogue: 0,1:50:40.43,1:50:41.76,Default,,0,0,0,,Sí, es cierto.
+Dialogue: 0,1:50:43.43,1:50:46.26,Default,,0,0,0,,- ¿Otra vez lo mismo, Alan?\N- No estoy haciendo nada.
+Dialogue: 0,1:50:53.39,1:50:55.47,Default,,0,0,0,,No sé si lo notaste o no,
+Dialogue: 0,1:50:55.64,1:50:59.43,Default,,0,0,0,,pero hoy en día debes ser muy cuidadoso\Nporque el mundo se ha vuelto loco.
+Dialogue: 0,1:50:59.60,1:51:01.64,Default,,0,0,0,,Sí, gracias, Alan.
+Dialogue: 0,1:51:02.18,1:51:05.76,Default,,0,0,0,,Lo que tienes aquí es una HK USP 9mm\Ncon cargador extendido.
+Dialogue: 0,1:51:06.43,1:51:08.10,Default,,0,0,0,,Es mi favorita.
+Dialogue: 0,1:51:11.26,1:51:12.64,Default,,0,0,0,,¿Te gusta?
+Dialogue: 0,1:51:13.26,1:51:14.26,Default,,0,0,0,,Sí.
+Dialogue: 0,1:51:17.26,1:51:18.72,Default,,0,0,0,,Me llevo dos.
