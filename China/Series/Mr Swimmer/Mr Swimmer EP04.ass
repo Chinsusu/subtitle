@@ -1,4 +1,4 @@
-﻿﻿[Script Info]
+﻿﻿﻿[Script Info]
 Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 2
@@ -10,11 +10,11 @@ Video Zoom: 4
 Video Position: 6487
 Last Style Storage: Default
 Collisions: Normal
-PlayResY: 480
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+Style: Default,Arial,30,&H00FFFFFF,&H03FFA518,&H00FF7700,&H02FF9C00,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
 [Events]
 Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:40.88,0:01:41.88,Default,,0,0,0,,Lan Tian
