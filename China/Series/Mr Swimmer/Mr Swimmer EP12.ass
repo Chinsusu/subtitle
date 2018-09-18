@@ -1,0 +1,667 @@
+﻿[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: Mr Swimmer EP12
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H0300FFFF,&H00000000,&H02000000,0,0,0,0,100,100,0,0,1,2,1,2,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:44.32,0:01:45.32,Default,,0,0,0,,How about this one
+Dialogue: 0,0:02:00.88,0:02:02.56,Default,,0,0,0,,Why don't you use their Soup
+Dialogue: 0,0:02:03.40,0:02:04.92,Default,,0,0,0,,It tastes bad
+Dialogue: 0,0:02:05.16,0:02:06.45,Default,,0,0,0,,It's full of monosodium gluatemate
+Dialogue: 0,0:02:06.48,0:02:08.08,Default,,0,0,0,,And I like soup
+Dialogue: 0,0:02:08.84,0:02:12.36,Default,,0,0,0,,How about I make you one?
+Dialogue: 0,0:02:13.72,0:02:15.88,Default,,0,0,0,,You made this?
+Dialogue: 0,0:02:16.80,0:02:18.00,Default,,0,0,0,,What if it doesn't taste good?
+Dialogue: 0,0:02:18.84,0:02:19.92,Default,,0,0,0,,Let me show you a rope
+Dialogue: 0,0:02:20.80,0:02:22.56,Default,,0,0,0,,As long as the ingredients are fresh enough
+Dialogue: 0,0:02:23.00,0:02:24.16,Default,,0,0,0,,they taste grate
+Dialogue: 0,0:02:24.36,0:02:25.72,Default,,0,0,0,,Even if you're not good at cooking
+Dialogue: 0,0:02:25.80,0:02:27.24,Default,,0,0,0,,And I think cooking for others
+Dialogue: 0,0:02:27.24,0:02:28.56,Default,,0,0,0,,is a great skill
+Dialogue: 0,0:02:29.04,0:02:30.04,Default,,0,0,0,,You understand?
+Dialogue: 0,0:02:38.00,0:02:39.00,Default,,0,0,0,,What's up
+Dialogue: 0,0:02:42.28,0:02:44.96,Default,,0,0,0,,Please pay attention to your image, okay?
+Dialogue: 0,0:03:18.04,0:03:20.44,Default,,0,0,0,,Is the soup ready?
+Dialogue: 0,0:03:21.20,0:03:23.16,Default,,0,0,0,,Let me taste it, what\Ndid you put in the soup
+Dialogue: 0,0:03:38.24,0:03:40.24,Default,,0,0,0,,Not good?
+Dialogue: 0,0:03:48.12,0:03:50.20,Default,,0,0,0,,This soup is really good
+Dialogue: 0,0:03:51.24,0:03:53.24,Default,,0,0,0,,What did you put in the soup
+Dialogue: 0,0:03:53.76,0:03:56.44,Default,,0,0,0,,The magic?
+Dialogue: 0,0:03:57.80,0:03:59.28,Default,,0,0,0,,I put some seafood in it
+Dialogue: 0,0:03:59.52,0:04:00.84,Default,,0,0,0,,Haven't you ever had sefood soup?
+Dialogue: 0,0:04:02.12,0:04:03.72,Default,,0,0,0,,Why I always thinking the kiss?
+Dialogue: 0,0:04:08.08,0:04:09.28,Default,,0,0,0,,It's really delicious
+Dialogue: 0,0:04:10.84,0:04:12.12,Default,,0,0,0,,I can be a cook
+Dialogue: 0,0:04:14.12,0:04:16.56,Default,,0,0,0,,Are the other cooks dead?
+Dialogue: 0,0:04:17.16,0:04:18.95,Default,,0,0,0,,First of all, the ingredients are good
+Dialogue: 0,0:04:19.24,0:04:20.16,Default,,0,0,0,,The most importang is
+Dialogue: 0,0:04:20.16,0:04:22.28,Default,,0,0,0,,that there's a lady-killer next to you
+Dialogue: 0,0:04:22.72,0:04:24.00,Default,,0,0,0,,And exuding an enchanting breath
+Dialogue: 0,0:04:24.36,0:04:26.32,Default,,0,0,0,,That's why the soup tastes good
+Dialogue: 0,0:04:27.00,0:04:29.16,Default,,0,0,0,,Are the other lady-killers dead?
+Dialogue: 0,0:04:29.88,0:04:31.12,Default,,0,0,0,,Me?
+Dialogue: 0,0:04:38.76,0:04:39.76,Default,,0,0,0,,Yongze
+Dialogue: 0,0:04:53.84,0:04:55.36,Default,,0,0,0,,Your friend Bai Yongze let me tell you
+Dialogue: 0,0:04:56.12,0:04:58.16,Default,,0,0,0,,Not worth mentioning in your life
+Dialogue: 0,0:04:58.80,0:05:00.00,Default,,0,0,0,,I'm working here
+Dialogue: 0,0:05:00.80,0:05:02.24,Default,,0,0,0,,To comletely forget you
+Dialogue: 0,0:05:08.96,0:05:10.52,Default,,0,0,0,,This is a nice place
+Dialogue: 0,0:05:20.24,0:05:21.24,Default,,0,0,0,,Song Cha
+Dialogue: 0,0:05:26.28,0:05:29.24,Default,,0,0,0,,Song Cha, Song Chacha
+Dialogue: 0,0:05:30.60,0:05:33.72,Default,,0,0,0,,Lan Tian mistook you for Song Chacha?
+Dialogue: 0,0:05:36.44,0:05:39.60,Default,,0,0,0,,Lan Tian, I got it
+Dialogue: 0,0:05:42.28,0:05:46.04,Default,,0,0,0,,Unfortunately, you fired Chacha
+Dialogue: 0,0:05:48.44,0:05:49.88,Default,,0,0,0,,An unfortunate woman
+Dialogue: 0,0:05:53.60,0:05:54.60,Default,,0,0,0,,Jiang Shi?
+Dialogue: 0,0:05:57.28,0:05:58.28,Default,,0,0,0,,Say what?
+Dialogue: 0,0:06:00.36,0:06:02.32,Default,,0,0,0,,Are you going to land training?
+Dialogue: 0,0:06:02.32,0:06:03.60,Default,,0,0,0,,What the hell are you talking about?
+Dialogue: 0,0:06:03.60,0:06:05.16,Default,,0,0,0,,Why am I going to land training?
+Dialogue: 0,0:06:10.12,0:06:11.44,Default,,0,0,0,,Why told me that?
+Dialogue: 0,0:06:13.12,0:06:14.24,Default,,0,0,0,,Does he miss me?
+Dialogue: 0,0:06:16.92,0:06:18.28,Default,,0,0,0,,What a pitiful man Yongze is!
+Dialogue: 0,0:06:30.12,0:06:31.16,Default,,0,0,0,,They are going to land training
+Dialogue: 0,0:06:31.16,0:06:32.16,Default,,0,0,0,,Why are we going there
+Dialogue: 0,0:06:32.44,0:06:33.44,Default,,0,0,0,,We're going there
+Dialogue: 0,0:06:33.88,0:06:35.60,Default,,0,0,0,,so you can see Lan Tian
+Dialogue: 0,0:06:36.52,0:06:37.52,Default,,0,0,0,,Nah
+Dialogue: 0,0:06:39.60,0:06:40.88,Default,,0,0,0,,While your fake boyfriend
+Dialogue: 0,0:06:40.88,0:06:42.36,Default,,0,0,0,,is still here
+Dialogue: 0,0:06:42.96,0:06:43.96,Default,,0,0,0,,Go ahead
+Dialogue: 0,0:06:46.96,0:06:48.96,Default,,0,0,0,,Maybe it's the last day
+Dialogue: 0,0:06:56.96,0:06:58.16,Default,,0,0,0,,What's your mean
+Dialogue: 0,0:06:58.16,0:06:59.96,Default,,0,0,0,,What's the last day
+Dialogue: 0,0:07:03.68,0:07:06.08,Default,,0,0,0,,Bai Yongze, Bai Yongze
+Dialogue: 0,0:07:18.88,0:07:19.88,Default,,0,0,0,,What exactly do you mean?
+Dialogue: 0,0:07:20.08,0:07:21.08,Default,,0,0,0,,Are you leaving tomorrow?
+Dialogue: 0,0:07:22.32,0:07:24.16,Default,,0,0,0,,Tell me, are you?
+Dialogue: 0,0:07:27.56,0:07:29.80,Default,,0,0,0,,Where are they
+Dialogue: 0,0:07:30.64,0:07:31.76,Default,,0,0,0,,You're not gonna tell me?
+Dialogue: 0,0:07:37.88,0:07:40.24,Default,,0,0,0,,Well, I'll go tomorrow
+Dialogue: 0,0:07:43.24,0:07:44.48,Default,,0,0,0,,I found a sponsor
+Dialogue: 0,0:07:45.44,0:07:48.48,Default,,0,0,0,,So, today is the last day
+Dialogue: 0,0:07:51.76,0:07:53.08,Default,,0,0,0,,to be your fake boyfriend
+Dialogue: 0,0:08:02.00,0:08:03.00,Default,,0,0,0,,Just go
+Dialogue: 0,0:08:08.92,0:08:09.92,Default,,0,0,0,,Hey?
+Dialogue: 0,0:08:12.84,0:08:13.84,Default,,0,0,0,,What's wrong?
+Dialogue: 0,0:08:17.36,0:08:19.00,Default,,0,0,0,,My foot hurt, I canlt walk
+Dialogue: 0,0:08:51.12,0:08:52.12,Default,,0,0,0,,Wake up, Lan Tian
+Dialogue: 0,0:08:53.04,0:08:54.64,Default,,0,0,0,,That's waht you want
+Dialogue: 0,0:08:56.28,0:08:57.88,Default,,0,0,0,,She has gone
+Dialogue: 0,0:09:00.52,0:09:02.00,Default,,0,0,0,,That's what you want
+Dialogue: 0,0:09:19.24,0:09:20.24,Default,,0,0,0,,Look out
+Dialogue: 0,0:09:24.72,0:09:25.72,Default,,0,0,0,,Here we are
+Dialogue: 0,0:09:29.56,0:09:31.32,Default,,0,0,0,,So beautiful
+Dialogue: 0,0:09:39.56,0:09:40.56,Default,,0,0,0,,What's that
+Dialogue: 0,0:09:42.52,0:09:43.52,Default,,0,0,0,,Fireflies
+Dialogue: 0,0:09:45.40,0:09:46.76,Default,,0,0,0,,There are no fireflies in the city
+Dialogue: 0,0:09:48.20,0:09:49.44,Default,,0,0,0,,Except here
+Dialogue: 0,0:09:50.72,0:09:52.48,Default,,0,0,0,,When night falls, we can see it
+Dialogue: 0,0:09:54.56,0:09:55.64,Default,,0,0,0,,I see it for the first time
+Dialogue: 0,0:10:01.76,0:10:02.76,Default,,0,0,0,,Song Chacha
+Dialogue: 0,0:10:05.16,0:10:06.16,Default,,0,0,0,,I have something for you
+Dialogue: 0,0:10:22.48,0:10:24.04,Default,,0,0,0,,On Valentine's Day
+Dialogue: 0,0:10:25.40,0:10:26.40,Default,,0,0,0,,I brought it for you
+Dialogue: 0,0:10:33.44,0:10:34.44,Default,,0,0,0,,That
+Dialogue: 0,0:10:37.16,0:10:38.44,Default,,0,0,0,,If you feel stressed
+Dialogue: 0,0:10:39.40,0:10:40.40,Default,,0,0,0,,You can refuse
+Dialogue: 0,0:10:42.44,0:10:43.44,Default,,0,0,0,,Very well
+Dialogue: 0,0:10:44.20,0:10:45.88,Default,,0,0,0,,How do you know my size
+Dialogue: 0,0:10:48.00,0:10:49.48,Default,,0,0,0,,I won't tell you
+Dialogue: 0,0:10:53.32,0:10:55.08,Default,,0,0,0,,I'm going to show Lan Tian off
+Dialogue: 0,0:10:59.00,0:11:00.00,Default,,0,0,0,,Well
+Dialogue: 0,0:11:19.40,0:11:21.76,Default,,0,0,0,,I told you I'd take you home
+Dialogue: 0,0:11:22.28,0:11:23.68,Default,,0,0,0,,I wasn't drunk today
+Dialogue: 0,0:11:24.08,0:11:25.08,Default,,0,0,0,,And
+Dialogue: 0,0:11:25.36,0:11:26.76,Default,,0,0,0,,The lamp's fixed
+Dialogue: 0,0:11:34.40,0:11:35.40,Default,,0,0,0,,Really?
+Dialogue: 0,0:11:36.00,0:11:37.00,Default,,0,0,0,,Who
+Dialogue: 0,0:11:37.04,0:11:38.44,Default,,0,0,0,,Who fixed it?
+Dialogue: 0,0:11:39.72,0:11:41.52,Default,,0,0,0,,I can't believe it
+Dialogue: 0,0:11:44.80,0:11:45.80,Default,,0,0,0,,It's said that
+Dialogue: 0,0:11:47.28,0:11:48.00,Default,,0,0,0,,the lamp
+Dialogue: 0,0:11:48.16,0:11:50.48,Default,,0,0,0,,was fixed by a moron who\Nwasn't afraid of death
+Dialogue: 0,0:11:51.04,0:11:53.12,Default,,0,0,0,,And then the moron fell off
+Dialogue: 0,0:12:05.96,0:12:08.52,Default,,0,0,0,,Thank you, my boyfriend
+Dialogue: 0,0:12:10.32,0:12:13.92,Default,,0,0,0,,Love you, my girlfriend
+Dialogue: 0,0:13:24.32,0:13:25.32,Default,,0,0,0,,Chacha
+Dialogue: 0,0:13:27.72,0:13:29.00,Default,,0,0,0,,What happened
+Dialogue: 0,0:13:31.56,0:13:33.76,Default,,0,0,0,,Lan Tian took me to dinner
+Dialogue: 0,0:13:35.48,0:13:37.80,Default,,0,0,0,,I haven't visited in a long time
+Dialogue: 0,0:13:38.20,0:13:39.96,Default,,0,0,0,,Have a cup of tea before you go
+Dialogue: 0,0:13:40.24,0:13:42.32,Default,,0,0,0,,Thank you, aunt but it's getting late
+Dialogue: 0,0:13:43.28,0:13:44.28,Default,,0,0,0,,Well
+Dialogue: 0,0:13:46.12,0:13:47.92,Default,,0,0,0,,I two talk, I'm going in
+Dialogue: 0,0:13:49.72,0:13:50.72,Default,,0,0,0,,Don't worry
+Dialogue: 0,0:13:50.88,0:13:53.04,Default,,0,0,0,,I won't let Chacha go anywhere
+Dialogue: 0,0:13:53.68,0:13:54.88,Default,,0,0,0,,Don't you worry
+Dialogue: 0,0:14:01.92,0:14:03.12,Default,,0,0,0,,What' my mom's mean
+Dialogue: 0,0:14:03.32,0:14:04.60,Default,,0,0,0,,Why she won't let me go anywhere
+Dialogue: 0,0:14:05.08,0:14:07.44,Default,,0,0,0,,I told aunt let you spent\Nmore time with her
+Dialogue: 0,0:14:07.84,0:14:08.92,Default,,0,0,0,,It's good for her health
+Dialogue: 0,0:14:09.80,0:14:10.76,Default,,0,0,0,,There days
+Dialogue: 0,0:14:10.76,0:14:12.80,Default,,0,0,0,,I'll help you, including money
+Dialogue: 0,0:14:13.36,0:14:14.36,Default,,0,0,0,,I'll help you
+Dialogue: 0,0:14:14.48,0:14:15.84,Default,,0,0,0,,Why do you suddenly care about me?
+Dialogue: 0,0:14:17.40,0:14:18.40,Default,,0,0,0,,Don't get me wrong
+Dialogue: 0,0:14:19.00,0:14:20.84,Default,,0,0,0,,Aunt didn't know we broke up
+Dialogue: 0,0:14:21.76,0:14:22.88,Default,,0,0,0,,Just doing my job
+Dialogue: 0,0:14:35.56,0:14:36.56,Default,,0,0,0,,Bye
+Dialogue: 0,0:14:47.80,0:14:49.20,Default,,0,0,0,,Show me how you feel
+Dialogue: 0,0:14:49.72,0:14:51.40,Default,,0,0,0,,Pity me?
+Dialogue: 0,0:15:15.64,0:15:16.76,Default,,0,0,0,,What were you thinking about
+Dialogue: 0,0:15:17.08,0:15:18.12,Default,,0,0,0,,Pack up
+Dialogue: 0,0:15:18.80,0:15:22.40,Default,,0,0,0,,There're something I don't\Nknow if I should say
+Dialogue: 0,0:15:23.00,0:15:24.84,Default,,0,0,0,,Break words
+Dialogue: 0,0:15:25.44,0:15:26.24,Default,,0,0,0,,Nah
+Dialogue: 0,0:15:26.24,0:15:27.04,Default,,0,0,0,,It's better not to say
+Dialogue: 0,0:15:27.04,0:15:28.04,Default,,0,0,0,,Then don't
+Dialogue: 0,0:15:28.52,0:15:30.32,Default,,0,0,0,,There, there, I'll say
+Dialogue: 0,0:15:31.12,0:15:33.12,Default,,0,0,0,,Your new sponsor
+Dialogue: 0,0:15:33.64,0:15:35.84,Default,,0,0,0,,is a movie company
+Dialogue: 0,0:15:37.20,0:15:40.00,Default,,0,0,0,,which is connected with Li Bao
+Dialogue: 0,0:15:44.60,0:15:45.60,Default,,0,0,0,,What's your mean
+Dialogue: 0,0:15:46.72,0:15:49.36,Default,,0,0,0,,It's connected with Li Bao?
+Dialogue: 0,0:15:50.00,0:15:51.20,Default,,0,0,0,,Li Bao,
+Dialogue: 0,0:15:53.28,0:15:55.08,Default,,0,0,0,,She accept a strange movie
+Dialogue: 0,0:15:55.92,0:15:58.60,Default,,0,0,0,,It's said that she was dressed\Noutrageously in the film
+Dialogue: 0,0:15:59.16,0:16:01.80,Default,,0,0,0,,And the movie might be a porn
+Dialogue: 0,0:16:02.80,0:16:04.08,Default,,0,0,0,,She accept it
+Dialogue: 0,0:16:04.08,0:16:04.76,Default,,0,0,0,,is trying to get the company's boss
+Dialogue: 0,0:16:04.76,0:16:06.36,Default,,0,0,0,,to fund you
+Dialogue: 0,0:16:06.96,0:16:08.76,Default,,0,0,0,,What? Who said?
+Dialogue: 0,0:16:09.36,0:16:11.72,Default,,0,0,0,,The company's boss?
+Dialogue: 0,0:16:12.04,0:16:13.04,Default,,0,0,0,,No, no, no
+Dialogue: 0,0:16:13.60,0:16:15.80,Default,,0,0,0,,It's Zhou..Zhou Xiaohu
+Dialogue: 0,0:16:17.48,0:16:18.48,Default,,0,0,0,,That's enough
+Dialogue: 0,0:16:21.80,0:16:24.52,Default,,0,0,0,,Sister, have a cup of tea
+Dialogue: 0,0:16:26.04,0:16:28.44,Default,,0,0,0,,How about the thing I asked you to do
+Dialogue: 0,0:16:28.48,0:16:30.00,Default,,0,0,0,,It's all done
+Dialogue: 0,0:16:30.52,0:16:31.88,Default,,0,0,0,,I told Yongze's agent
+Dialogue: 0,0:16:32.76,0:16:34.84,Default,,0,0,0,,My sister's life is ruined
+Dialogue: 0,0:16:34.84,0:16:37.44,Default,,0,0,0,,Because of Bai Yongze
+Dialogue: 0,0:16:39.48,0:16:41.36,Default,,0,0,0,,What did he say?
+Dialogue: 0,0:16:41.64,0:16:42.72,Default,,0,0,0,,It's ruined
+Dialogue: 0,0:16:45.40,0:16:47.24,Default,,0,0,0,,No, no, that's he said
+Dialogue: 0,0:16:47.52,0:16:48.52,Default,,0,0,0,,not me
+Dialogue: 0,0:16:51.28,0:16:52.28,Default,,0,0,0,,Don't be angry, sister
+Dialogue: 0,0:16:53.60,0:16:54.28,Default,,0,0,0,,In my view,
+Dialogue: 0,0:16:54.40,0:16:55.52,Default,,0,0,0,,Pu Jun is a loudmouth
+Dialogue: 0,0:16:55.52,0:16:56.77,Default,,0,0,0,,who cannot be trusted with secret
+Dialogue: 0,0:16:56.80,0:16:58.40,Default,,0,0,0,,He must have told him
+Dialogue: 0,0:17:04.28,0:17:05.80,Default,,0,0,0,,See? I told you
+Dialogue: 0,0:17:09.40,0:17:10.40,Default,,0,0,0,,Li Bao
+Dialogue: 0,0:17:11.04,0:17:12.04,Default,,0,0,0,,Honey
+Dialogue: 0,0:17:12.72,0:17:13.92,Default,,0,0,0,,Did you make some movie
+Dialogue: 0,0:17:13.92,0:17:15.20,Default,,0,0,0,,on the condition
+Dialogue: 0,0:17:15.52,0:17:17.80,Default,,0,0,0,,of sponsoring me?
+Dialogue: 0,0:17:17.80,0:17:18.80,Default,,0,0,0,,Did you?
+Dialogue: 0,0:17:19.96,0:17:21.48,Default,,0,0,0,,Honey, how
+Dialogue: 0,0:17:21.48,0:17:22.72,Default,,0,0,0,,I don't need sponsorship
+Dialogue: 0,0:17:23.59,0:17:24.59,Default,,0,0,0,,Refuse it now
+Dialogue: 0,0:17:25.07,0:17:26.31,Default,,0,0,0,,It soesn't matter, honey
+Dialogue: 0,0:17:27.04,0:17:28.31,Default,,0,0,0,,I can do anything for you
+Dialogue: 0,0:17:28.80,0:17:29.92,Default,,0,0,0,,To support me
+Dialogue: 0,0:17:30.40,0:17:31.84,Default,,0,0,0,,so you can take the request
+Dialogue: 0,0:17:32.52,0:17:33.64,Default,,0,0,0,,whatever it is
+Dialogue: 0,0:17:33.64,0:17:35.68,Default,,0,0,0,,And dressing outrageously\Nand posing pretentiously?
+Dialogue: 0,0:17:36.40,0:17:37.72,Default,,0,0,0,,What are you thinking of?
+Dialogue: 0,0:17:38.36,0:17:40.72,Default,,0,0,0,,Whatever, after the video thing
+Dialogue: 0,0:17:41.16,0:17:42.20,Default,,0,0,0,,I'm out of work
+Dialogue: 0,0:17:42.56,0:17:44.76,Default,,0,0,0,,So, stop blaming yourself
+Dialogue: 0,0:17:45.20,0:17:47.76,Default,,0,0,0,,You're the most important for me
+Dialogue: 0,0:17:48.00,0:17:49.20,Default,,0,0,0,,Refuse it
+Dialogue: 0,0:17:49.76,0:17:51.52,Default,,0,0,0,,Right now
+Dialogue: 0,0:17:52.52,0:17:53.24,Default,,0,0,0,,Honey
+Dialogue: 0,0:17:53.52,0:17:54.68,Default,,0,0,0,,Answer me
+Dialogue: 0,0:17:55.96,0:17:57.32,Default,,0,0,0,,I'll do what you told me
+Dialogue: 0,0:17:58.56,0:18:00.76,Default,,0,0,0,,But could you come see me tomorrow?
+Dialogue: 0,0:18:01.56,0:18:03.04,Default,,0,0,0,,I feel low
+Dialogue: 0,0:18:03.64,0:18:06.64,Default,,0,0,0,,I'm out of work and my\Nex-boyfriend threathned me
+Dialogue: 0,0:18:08.96,0:18:09.96,Default,,0,0,0,,I'll call you
+Dialogue: 0,0:18:14.80,0:18:15.60,Default,,0,0,0,,I told you
+Dialogue: 0,0:18:15.76,0:18:17.32,Default,,0,0,0,,Bai Yongze really treasured me
+Dialogue: 0,0:18:18.36,0:18:20.96,Default,,0,0,0,,You are good
+Dialogue: 0,0:18:21.64,0:18:22.72,Default,,0,0,0,,Are you really gonna take it
+Dialogue: 0,0:18:22.72,0:18:23.52,Default,,0,0,0,,For Bai Yongze?
+Dialogue: 0,0:18:23.72,0:18:24.72,Default,,0,0,0,,Are you out of your mind?
+Dialogue: 0,0:18:25.00,0:18:26.64,Default,,0,0,0,,I've always been pure, okay?
+Dialogue: 0,0:18:27.16,0:18:29.58,Default,,0,0,0,,Even if they pay me hundreds\Nof millions, I won't go
+Dialogue: 0,0:18:30.28,0:18:33.20,Default,,0,0,0,,Hundreds of millions, for you?
+Dialogue: 0,0:18:33.48,0:18:35.96,Default,,0,0,0,,You're not hot
+Dialogue: 0,0:18:45.24,0:18:46.96,Default,,0,0,0,,I thought we found a dependency
+Dialogue: 0,0:18:46.96,0:18:48.52,Default,,0,0,0,,So I spent all our money
+Dialogue: 0,0:18:49.80,0:18:50.80,Default,,0,0,0,,What should we do now?
+Dialogue: 0,0:18:51.24,0:18:53.08,Default,,0,0,0,,Are we going back home?
+Dialogue: 0,0:19:02.24,0:19:03.24,Default,,0,0,0,,Fang Jingjing
+Dialogue: 0,0:19:03.88,0:19:08.24,Default,,0,0,0,,God, Are you the Olympic\Nchampion FangJingjing?
+Dialogue: 0,0:19:10.16,0:19:12.52,Default,,0,0,0,,Don't we talk for a second?
+Dialogue: 0,0:19:13.76,0:19:16.92,Default,,0,0,0,,I'm busy, sorry
+Dialogue: 0,0:19:16.92,0:19:19.88,Default,,0,0,0,,Bai Yongze, do you like swim?
+Dialogue: 0,0:19:21.12,0:19:22.28,Default,,0,0,0,,If you don't
+Dialogue: 0,0:19:23.56,0:19:25.32,Default,,0,0,0,,Jist chasing for what you like
+Dialogue: 0,0:19:25.96,0:19:26.88,Default,,0,0,0,,Or
+Dialogue: 0,0:19:26.88,0:19:28.76,Default,,0,0,0,,No amount of effort is worth anything
+Dialogue: 0,0:19:32.20,0:19:33.20,Default,,0,0,0,,What's the worth?
+Dialogue: 0,0:19:34.64,0:19:36.80,Default,,0,0,0,,Just stories imposed in me
+Dialogue: 0,0:19:36.84,0:19:38.36,Default,,0,0,0,,By those who envy me
+Dialogue: 0,0:19:38.64,0:19:41.24,Default,,0,0,0,,Whatever you did before
+Dialogue: 0,0:19:42.04,0:19:42.96,Default,,0,0,0,,That's all for
+Dialogue: 0,0:19:42.96,0:19:44.80,Default,,0,0,0,,living up to what dreams have to do
+Dialogue: 0,0:19:45.28,0:19:48.16,Default,,0,0,0,,If you really love it, you won't fail it
+Dialogue: 0,0:19:49.64,0:19:51.56,Default,,0,0,0,,So you must find the answer
+Dialogue: 0,0:20:04.44,0:20:05.56,Default,,0,0,0,,She is his fan
+Dialogue: 0,0:20:07.32,0:20:08.32,Default,,0,0,0,,What?
+Dialogue: 0,0:20:08.84,0:20:11.80,Default,,0,0,0,,You mean, the daughter of\NJinxing Group's chairman's
+Dialogue: 0,0:20:12.72,0:20:14.16,Default,,0,0,0,,is Bai Yongze's fan?
+Dialogue: 0,0:20:14.16,0:20:17.28,Default,,0,0,0,,Looks like I'm going to the Hainan myself
+Dialogue: 0,0:20:18.00,0:20:20.20,Default,,0,0,0,,You take Lan Tian and Bai Yongze
+Dialogue: 0,0:20:20.72,0:20:21.96,Default,,0,0,0,,And we have dinner together
+Dialogue: 0,0:20:25.32,0:20:26.60,Default,,0,0,0,,It's not fair to Song Chacha
+Dialogue: 0,0:20:29.40,0:20:31.88,Default,,0,0,0,,If she goes, I'll go
+Dialogue: 0,0:20:35.48,0:20:36.48,Default,,0,0,0,,That what you say
+Dialogue: 0,0:20:44.68,0:20:45.68,Default,,0,0,0,,Okay
+Dialogue: 0,0:20:49.80,0:20:50.80,Default,,0,0,0,,Just do what you want
+Dialogue: 0,0:20:52.28,0:20:55.64,Default,,0,0,0,,God, I Drove him away
+Dialogue: 0,0:20:57.32,0:20:58.80,Default,,0,0,0,,What should I do
+Dialogue: 0,0:21:08.92,0:21:09.97,Default,,0,0,0,,All I know is that you begged him,
+Dialogue: 0,0:21:10.00,0:21:12.76,Default,,0,0,0,,and he's coming back
+Dialogue: 0,0:21:16.40,0:21:17.64,Default,,0,0,0,,Why should I beg him?
+Dialogue: 0,0:21:18.56,0:21:20.80,Default,,0,0,0,,That's your business
+Dialogue: 0,0:21:22.56,0:21:23.56,Default,,0,0,0,,But
+Dialogue: 0,0:21:23.64,0:21:26.32,Default,,0,0,0,,You two are good friend
+Dialogue: 0,0:21:26.32,0:21:27.32,Default,,0,0,0,,Good friend
+Dialogue: 0,0:21:27.56,0:21:28.56,Default,,0,0,0,,Don't think everything is
+Dialogue: 0,0:21:28.56,0:21:29.88,Default,,0,0,0,,what it looks like
+Dialogue: 0,0:21:33.64,0:21:34.00,Default,,0,0,0,,but
+Dialogue: 0,0:21:34.44,0:21:35.48,Default,,0,0,0,,You two
+Dialogue: 0,0:21:35.48,0:21:36.76,Default,,0,0,0,,are always together
+Dialogue: 0,0:21:36.76,0:21:38.12,Default,,0,0,0,,What's wrong with you now?
+Dialogue: 0,0:21:42.76,0:21:43.84,Default,,0,0,0,,Are you gus at loggerheads?
+Dialogue: 0,0:21:45.28,0:21:46.28,Default,,0,0,0,,Are you?
+Dialogue: 0,0:21:49.52,0:21:52.60,Default,,0,0,0,,How about me?
+Dialogue: 0,0:21:55.80,0:21:56.80,Default,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:21:57.12,0:21:58.60,Default,,0,0,0,,Let me beg him?
+Dialogue: 0,0:21:58.68,0:22:00.28,Default,,0,0,0,,That's what you should do
+Dialogue: 0,0:22:00.36,0:22:01.36,Default,,0,0,0,,Look
+Dialogue: 0,0:22:01.60,0:22:03.24,Default,,0,0,0,,I don't care whose fault it is
+Dialogue: 0,0:22:03.44,0:22:05.08,Default,,0,0,0,,I won't beg him
+Dialogue: 0,0:22:05.28,0:22:06.44,Default,,0,0,0,,But he is your teammate
+Dialogue: 0,0:22:07.04,0:22:08.09,Default,,0,0,0,,I don't need a teammate like him
+Dialogue: 0,0:22:08.12,0:22:08.72,Default,,0,0,0,,Sorry
+Dialogue: 0,0:22:09.12,0:22:10.16,Default,,0,0,0,,As a coach
+Dialogue: 0,0:22:10.16,0:22:11.52,Default,,0,0,0,,You have no emotion
+Dialogue: 0,0:22:11.52,0:22:13.04,Default,,0,0,0,,for your teammates?
+Dialogue: 0,0:22:13.76,0:22:14.76,Default,,0,0,0,,No
+Dialogue: 0,0:22:15.64,0:22:16.76,Default,,0,0,0,,Not even
+Dialogue: 0,0:22:16.76,0:22:17.68,Default,,0,0,0,,a sense of responsibility?
+Dialogue: 0,0:22:17.76,0:22:18.76,Default,,0,0,0,,No,
+Dialogue: 0,0:22:19.60,0:22:20.60,Default,,0,0,0,,So
+Dialogue: 0,0:22:20.72,0:22:22.24,Default,,0,0,0,,Please get away from here mow
+Dialogue: 0,0:22:22.60,0:22:24.16,Default,,0,0,0,,If you don't, I'll go
+Dialogue: 0,0:22:27.48,0:22:29.24,Default,,0,0,0,,I never expect you to be like this
+Dialogue: 0,0:22:50.40,0:22:52.68,Default,,0,0,0,,Please, help me
+Dialogue: 0,0:22:52.92,0:22:54.56,Default,,0,0,0,,If Bai Yongze doesn't come back,
+Dialogue: 0,0:22:54.56,0:22:56.56,Default,,0,0,0,,I'll die
+Dialogue: 0,0:22:57.84,0:22:59.96,Default,,0,0,0,,I can give you money, I can\Ngive you whatever you want
+Dialogue: 0,0:23:00.08,0:23:03.00,Default,,0,0,0,,Then, then I promise to date you, okay?
+Dialogue: 0,0:23:05.48,0:23:08.40,Default,,0,0,0,,What's you mean? I beg him
+Dialogue: 0,0:23:08.52,0:23:09.64,Default,,0,0,0,,And I have to date you
+Dialogue: 0,0:23:10.08,0:23:12.36,Default,,0,0,0,,Are you a gift to me? What's your logic?
+Dialogue: 0,0:23:12.88,0:23:13.52,Default,,0,0,0,,Anyway
+Dialogue: 0,0:23:13.52,0:23:14.84,Default,,0,0,0,,You must help me to find him back
+Dialogue: 0,0:23:14.84,0:23:15.20,Default,,0,0,0,,Please
+Dialogue: 0,0:23:15.20,0:23:16.20,Default,,0,0,0,,No
+Dialogue: 0,0:23:17.56,0:23:18.00,Default,,0,0,0,,Okay?
+Dialogue: 0,0:23:18.00,0:23:19.48,Default,,0,0,0,,No, I told you
+Dialogue: 0,0:23:21.12,0:23:22.12,Default,,0,0,0,,Chach Huang
+Dialogue: 0,0:23:22.12,0:23:23.16,Default,,0,0,0,,Would you knock it off?
+Dialogue: 0,0:23:23.36,0:23:24.36,Default,,0,0,0,,To avoid misunderstanding
+Dialogue: 0,0:23:24.36,0:23:25.72,Default,,0,0,0,,I don't want to ruin my reputation
+Dialogue: 0,0:23:26.64,0:23:29.16,Default,,0,0,0,,Please, just the last time
+Dialogue: 0,0:23:29.16,0:23:31.12,Default,,0,0,0,,Please, okay?
+Dialogue: 0,0:23:47.08,0:23:48.96,Default,,0,0,0,,He said we were no longer in touch
+Dialogue: 0,0:23:49.08,0:23:50.08,Default,,0,0,0,,What's wrong with him
+Dialogue: 0,0:23:53.16,0:23:54.16,Default,,0,0,0,,Coach
+Dialogue: 0,0:24:09.28,0:24:11.20,Default,,0,0,0,,I am about to aboard the plane
+Dialogue: 0,0:24:12.20,0:24:14.76,Default,,0,0,0,,Just come to the point
+Dialogue: 0,0:24:17.24,0:24:18.88,Default,,0,0,0,,What's the matter if you miss your flight
+Dialogue: 0,0:24:21.48,0:24:22.48,Default,,0,0,0,,What?
+Dialogue: 0,0:24:27.60,0:24:29.56,Default,,0,0,0,,Well, let me say this
+Dialogue: 0,0:24:30.68,0:24:33.56,Default,,0,0,0,,There's a madman, not Lan Tian
+Dialogue: 0,0:24:33.80,0:24:35.08,Default,,0,0,0,,Is Lan Tian's sister, Lan Xin
+Dialogue: 0,0:24:36.00,0:24:37.04,Default,,0,0,0,,She asked me
+Dialogue: 0,0:24:38.28,0:24:40.36,Default,,0,0,0,,to get you back
+Dialogue: 0,0:24:41.70,0:24:44.34,Default,,0,0,0,,Not Lan Tian, is Lan Xin
+Dialogue: 0,0:24:47.08,0:24:48.76,Default,,0,0,0,,I'm not a person
+Dialogue: 0,0:24:49.08,0:24:51.68,Default,,0,0,0,,who do anything for others
+Dialogue: 0,0:24:52.44,0:24:53.44,Default,,0,0,0,,But, her words
+Dialogue: 0,0:24:53.84,0:24:54.84,Default,,0,0,0,,Changed my mind
+Dialogue: 0,0:24:55.72,0:24:59.08,Default,,0,0,0,,She asked me, as a coach
+Dialogue: 0,0:25:01.40,0:25:02.84,Default,,0,0,0,,Do you have feelings
+Dialogue: 0,0:25:04.24,0:25:05.28,Default,,0,0,0,,For your athletes?
+Dialogue: 0,0:25:08.28,0:25:10.08,Default,,0,0,0,,It seems to question my\Nattitude to my career
+Dialogue: 0,0:25:10.72,0:25:12.12,Default,,0,0,0,,to my career
+Dialogue: 0,0:25:13.92,0:25:15.76,Default,,0,0,0,,I recall the time when a was a player
+Dialogue: 0,0:25:16.24,0:25:17.76,Default,,0,0,0,,I hoped I could have a coach
+Dialogue: 0,0:25:18.60,0:25:19.60,Default,,0,0,0,,who concerned me
+Dialogue: 0,0:25:21.52,0:25:22.52,Default,,0,0,0,,If I had
+Dialogue: 0,0:25:23.08,0:25:25.60,Default,,0,0,0,,My life will be Better
+Dialogue: 0,0:25:25.88,0:25:26.88,Default,,0,0,0,,Right?
+Dialogue: 0,0:25:29.72,0:25:34.16,Default,,0,0,0,,So you means you want\Ninject feelings into me
+Dialogue: 0,0:25:35.96,0:25:37.88,Default,,0,0,0,,Not to you, but to me
+Dialogue: 0,0:25:39.04,0:25:40.12,Default,,0,0,0,,I hope
+Dialogue: 0,0:25:40.64,0:25:42.48,Default,,0,0,0,,I can put some emotion and enthusiasm
+Dialogue: 0,0:25:42.48,0:25:43.72,Default,,0,0,0,,on my job
+Dialogue: 0,0:25:45.16,0:25:47.04,Default,,0,0,0,,especially on someone like you
+Dialogue: 0,0:25:48.64,0:25:49.64,Default,,0,0,0,,who is dawdling
+Dialogue: 0,0:25:50.36,0:25:52.52,Default,,0,0,0,,having no idea of his limitations
+Dialogue: 0,0:25:53.40,0:25:54.40,Default,,0,0,0,,but
+Dialogue: 0,0:25:55.20,0:25:58.16,Default,,0,0,0,,gifted
+Dialogue: 0,0:26:00.36,0:26:01.36,Default,,0,0,0,,I wanna try
+Dialogue: 0,0:26:04.64,0:26:05.64,Default,,0,0,0,,So
+Dialogue: 0,0:26:07.08,0:26:08.20,Default,,0,0,0,,Is that a declaration?
+Dialogue: 0,0:26:10.96,0:26:12.68,Default,,0,0,0,,I'm not your type
+Dialogue: 0,0:26:13.48,0:26:15.00,Default,,0,0,0,,You don't have to be a prick, okay?
+Dialogue: 0,0:26:15.92,0:26:16.44,Default,,0,0,0,,Ahyway
+Dialogue: 0,0:26:16.76,0:26:18.32,Default,,0,0,0,,I told you
+Dialogue: 0,0:26:18.92,0:26:19.92,Default,,0,0,0,,Just believe your choice.
+Dialogue: 0,0:26:22.08,0:26:23.08,Default,,0,0,0,,I hope you can
+Dialogue: 0,0:26:23.84,0:26:25.60,Default,,0,0,0,,challege yourself
+Dialogue: 0,0:26:26.64,0:26:27.64,Default,,0,0,0,,I really hope so
+Dialogue: 0,0:26:40.08,0:26:41.60,Default,,0,0,0,,Nana, here you are at last
+Dialogue: 0,0:26:41.84,0:26:42.36,Default,,0,0,0,,How is everything
+Dialogue: 0,0:26:42.40,0:26:43.12,Default,,0,0,0,,You must be exhausted
+Dialogue: 0,0:26:43.12,0:26:44.12,Default,,0,0,0,,It's okay
+Dialogue: 0,0:26:44.28,0:26:46.80,Default,,0,0,0,,There is beautiful
+Dialogue: 0,0:26:46.92,0:26:48.64,Default,,0,0,0,,It's a feast for the eyes
+Dialogue: 0,0:26:49.08,0:26:50.44,Default,,0,0,0,,Really, you should often come here
+Dialogue: 0,0:26:50.52,0:26:52.36,Default,,0,0,0,,Our service is always ready for you
+Dialogue: 0,0:26:52.36,0:26:53.36,Default,,0,0,0,,Thank you
+Dialogue: 0,0:26:53.40,0:26:55.24,Default,,0,0,0,,We'll have alot of\Ncooperation in the future
+Dialogue: 0,0:26:55.28,0:26:56.00,Default,,0,0,0,,I'll often came here
+Dialogue: 0,0:26:56.12,0:26:56.52,Default,,0,0,0,,Great
+Dialogue: 0,0:26:56.92,0:26:57.20,Default,,0,0,0,,Let's come in
+Dialogue: 0,0:26:57.84,0:26:58.12,Default,,0,0,0,,Okay
+Dialogue: 0,0:26:58.32,0:26:59.48,Default,,0,0,0,,Bowing
+Dialogue: 0,0:27:08.88,0:27:09.56,Default,,0,0,0,,Uncle Lan
+Dialogue: 0,0:27:09.84,0:27:11.64,Default,,0,0,0,,Where is Bai Yongze's trained swimming pool
+Dialogue: 0,0:27:11.76,0:27:13.00,Default,,0,0,0,,Can I see him training?
+Dialogue: 0,0:27:13.08,0:27:14.08,Default,,0,0,0,,Of course
+Dialogue: 0,0:27:14.96,0:27:16.96,Default,,0,0,0,,I'll arrange it for you
+Dialogue: 0,0:27:17.08,0:27:18.08,Default,,0,0,0,,Thank you uncle Lan
+Dialogue: 0,0:27:18.40,0:27:19.40,Default,,0,0,0,,Lan Xin
+Dialogue: 0,0:27:19.52,0:27:21.04,Default,,0,0,0,,Go see what Bai Yongze's doing
+Dialogue: 0,0:27:21.64,0:27:22.84,Default,,0,0,0,,Now?
+Dialogue: 0,0:27:24.04,0:27:25.72,Default,,0,0,0,,Of course, when do you want
+Dialogue: 0,0:27:27.28,0:27:28.36,Default,,0,0,0,,Okay.
+Dialogue: 0,0:27:40.16,0:27:41.56,Default,,0,0,0,,It's great that you can come back
+Dialogue: 0,0:27:41.60,0:27:43.68,Default,,0,0,0,,You still care about me
+Dialogue: 0,0:27:44.68,0:27:46.04,Default,,0,0,0,,If you're coming back
+Dialogue: 0,0:27:46.12,0:27:47.60,Default,,0,0,0,,Why held the farewell party?
+Dialogue: 0,0:27:48.08,0:27:49.20,Default,,0,0,0,,You've been gone a few times
+Dialogue: 0,0:27:49.64,0:27:50.80,Default,,0,0,0,,THis isdn't a gotel
+Dialogue: 0,0:27:52.20,0:27:54.44,Default,,0,0,0,,I'm sorry to bother you
+Dialogue: 0,0:27:55.28,0:27:57.40,Default,,0,0,0,,Lan Tian, did you get him back?
+Dialogue: 0,0:27:58.08,0:27:59.08,Default,,0,0,0,,No, I didn‘t
+Dialogue: 0,0:27:59.76,0:28:01.96,Default,,0,0,0,,If he will go, I feel relieved
+Dialogue: 0,0:28:02.04,0:28:03.04,Default,,0,0,0,,Why si?
+Dialogue: 0,0:28:03.08,0:28:05.64,Default,,0,0,0,,You must for DongChacha
+Dialogue: 0,0:28:09.76,0:28:12.24,Default,,0,0,0,,No, I'm for coach
+Dialogue: 0,0:28:12.32,0:28:14.12,Default,,0,0,0,,Coach Huang? That's impossible
+Dialogue: 0,0:28:14.64,0:28:16.48,Default,,0,0,0,,You must for Song Chacha
+Dialogue: 0,0:28:16.84,0:28:19.76,Default,,0,0,0,,How great is the power of love
+Dialogue: 0,0:28:19.76,0:28:20.76,Default,,0,0,0,,Shut up
+Dialogue: 0,0:28:30.36,0:28:31.36,Default,,0,0,0,,Bai Yongze
+Dialogue: 0,0:28:34.88,0:28:37.20,Default,,0,0,0,,Hello, Bai Yongze, I'm your big fan
+Dialogue: 0,0:28:37.24,0:28:38.64,Default,,0,0,0,,I'm so excited to see you
+Dialogue: 0,0:28:38.72,0:28:39.88,Default,,0,0,0,,Really really excited
+Dialogue: 0,0:28:40.12,0:28:41.24,Default,,0,0,0,,This is
+Dialogue: 0,0:28:41.24,0:28:43.64,Default,,0,0,0,,the daughter of Jinxing\NGroup's chairman's, Jin Nana
+Dialogue: 0,0:28:44.08,0:28:45.08,Default,,0,0,0,,Hello
+Dialogue: 0,0:28:46.32,0:28:47.32,Default,,0,0,0,,Hello
+Dialogue: 0,0:28:48.48,0:28:49.48,Default,,0,0,0,,Hello
+Dialogue: 0,0:28:50.84,0:28:51.84,Default,,0,0,0,,Nana
+Dialogue: 0,0:28:52.24,0:28:54.24,Default,,0,0,0,,I wanted to invite you to dinner
+Dialogue: 0,0:28:54.68,0:28:55.88,Default,,0,0,0,,And it's been delayed this day
+Dialogue: 0,0:28:57.16,0:28:58.16,Default,,0,0,0,,Yeah
+Dialogue: 0,0:28:59.68,0:28:59.96,Default,,0,0,0,,Lan Tian
+Dialogue: 0,0:29:00.44,0:29:02.48,Default,,0,0,0,,Are you an athlete now?
+Dialogue: 0,0:29:03.96,0:29:05.68,Default,,0,0,0,,I thought you'd take over the uncle
+Dialogue: 0,0:29:07.00,0:29:08.60,Default,,0,0,0,,I'm far away from
+Dialogue: 0,0:29:08.60,0:29:09.60,Default,,0,0,0,,the professional athlete
+Dialogue: 0,0:29:10.40,0:29:13.20,Default,,0,0,0,,And more far away from\Ntaking over my father
+Dialogue: 0,0:29:15.32,0:29:17.80,Default,,0,0,0,,I'm fine now at the resort
+Dialogue: 0,0:29:19.84,0:29:22.32,Default,,0,0,0,,Bai Yongze, what's your point as a friend
+Dialogue: 0,0:29:27.16,0:29:30.84,Default,,0,0,0,,I think Lan Tian has great potential
+Dialogue: 0,0:29:32.48,0:29:34.40,Default,,0,0,0,,Yeah, I think so
+Dialogue: 0,0:29:34.64,0:29:36.72,Default,,0,0,0,,So you two, must do your best
+Dialogue: 0,0:29:40.08,0:29:41.08,Default,,0,0,0,,I'll go first
+Dialogue: 0,0:29:41.12,0:29:42.28,Default,,0,0,0,,Wait, Bai Yongze
+Dialogue: 0,0:29:42.64,0:29:44.72,Default,,0,0,0,,How's your reaining environment?
+Dialogue: 0,0:29:45.04,0:29:46.56,Default,,0,0,0,,Anything you need?
+Dialogue: 0,0:29:48.56,0:29:50.96,Default,,0,0,0,,Nana, you don't have to worry
+Dialogue: 0,0:29:51.52,0:29:52.56,Default,,0,0,0,,Our training conditions here
+Dialogue: 0,0:29:52.56,0:29:53.60,Default,,0,0,0,,are first-rate
+Dialogue: 0,0:29:55.20,0:29:56.20,Default,,0,0,0,,Just go
+Dialogue: 0,0:29:58.96,0:30:01.48,Default,,0,0,0,,Ah, I've got it
+Dialogue: 0,0:30:02.64,0:30:03.64,Default,,0,0,0,,Uh-huh?
+Dialogue: 0,0:30:04.92,0:30:06.20,Default,,0,0,0,,Let me show you arope
+Dialogue: 0,0:30:06.68,0:30:08.48,Default,,0,0,0,,As long as the ingredients are fresh enough
+Dialogue: 0,0:30:08.72,0:30:09.92,Default,,0,0,0,,they taste grate
+Dialogue: 0,0:30:10.00,0:30:11.36,Default,,0,0,0,,Even if you're not good at cooking
+Dialogue: 0,0:30:11.40,0:30:13.12,Default,,0,0,0,,And I think cooking for others
+Dialogue: 0,0:30:13.12,0:30:14.20,Default,,0,0,0,,is a cool skill
+Dialogue: 0,0:30:14.56,0:30:15.56,Default,,0,0,0,,You understand?
+Dialogue: 0,0:30:17.88,0:30:19.00,Default,,0,0,0,,My personal chef
+Dialogue: 0,0:30:20.92,0:30:22.52,Default,,0,0,0,,Bai Yongze is so famous
+Dialogue: 0,0:30:22.52,0:30:24.32,Default,,0,0,0,,Doesn't the swimming star
+Dialogue: 0,0:30:24.64,0:30:25.80,Default,,0,0,0,,have a private chef?
+Dialogue: 0,0:30:27.40,0:30:29.76,Default,,0,0,0,,He does, of courese, he does
+Dialogue: 0,0:30:31.08,0:30:33.72,Default,,0,0,0,,We're recruiting for him
+Dialogue: 0,0:30:34.08,0:30:35.24,Default,,0,0,0,,A celebrity chef will be here
+Dialogue: 0,0:30:35.64,0:30:37.52,Default,,0,0,0,,in a few days
+Dialogue: 0,0:30:38.32,0:30:41.16,Default,,0,0,0,,Nah, I already have a choice
+Dialogue: 0,0:30:43.76,0:30:46.44,Default,,0,0,0,,What? To be your private chef?
+Dialogue: 0,0:30:47.24,0:30:49.72,Default,,0,0,0,,So you're not going to go away?
+Dialogue: 0,0:30:50.80,0:30:52.64,Default,,0,0,0,,Yes, for some personal reasons
+Dialogue: 0,0:30:53.80,0:30:54.80,Default,,0,0,0,,So do you agree?
+Dialogue: 0,0:30:55.84,0:30:57.36,Default,,0,0,0,,You told me
+Dialogue: 0,0:30:58.24,0:31:00.08,Default,,0,0,0,,cooking for others
+Dialogue: 0,0:31:00.08,0:31:02.20,Default,,0,0,0,,is a cool skill
+Dialogue: 0,0:31:02.72,0:31:03.96,Default,,0,0,0,,Yeah
+Dialogue: 0,0:31:04.60,0:31:05.88,Default,,0,0,0,,But to be a private chef
+Dialogue: 0,0:31:06.80,0:31:08.12,Default,,0,0,0,,I never learned to cook
+Dialogue: 0,0:31:08.52,0:31:10.92,Default,,0,0,0,,I can only eat and identify ingredients
+Dialogue: 0,0:31:11.52,0:31:13.36,Default,,0,0,0,,But It's too difficult to cook
+Dialogue: 0,0:31:14.72,0:31:16.24,Default,,0,0,0,,Where are you taking me?
+Dialogue: 0,0:31:18.40,0:31:19.40,Default,,0,0,0,,You
+Dialogue: 0,0:31:27.96,0:31:30.44,Default,,0,0,0,,Why, why are you here
+Dialogue: 0,0:31:34.28,0:31:35.76,Default,,0,0,0,,She is the person I want to employ
+Dialogue: 0,0:31:36.48,0:31:37.48,Default,,0,0,0,,She?
+Dialogue: 0,0:31:40.48,0:31:42.16,Default,,0,0,0,,Are you kidding me?
+Dialogue: 0,0:31:43.04,0:31:44.88,Default,,0,0,0,,She doesn't even have a certificate
+Dialogue: 0,0:31:44.88,0:31:45.88,Default,,0,0,0,,How can she cook for you
+Dialogue: 0,0:31:46.80,0:31:47.80,Default,,0,0,0,,I only want to employ her
+Dialogue: 0,0:31:54.24,0:31:55.24,Default,,0,0,0,,Uncle Lan
+Dialogue: 0,0:31:55.68,0:31:58.08,Default,,0,0,0,,Maybe she's got something unique
+Dialogue: 0,0:31:58.60,0:32:00.08,Default,,0,0,0,,Just do what he want
+Dialogue: 0,0:32:01.48,0:32:02.52,Default,,0,0,0,,Thanks for your understand
+Dialogue: 0,0:32:07.40,0:32:08.40,Default,,0,0,0,,Okay, okay
+Dialogue: 0,0:32:09.08,0:32:11.36,Default,,0,0,0,,To make you do this
+Dialogue: 0,0:32:12.12,0:32:13.44,Default,,0,0,0,,is to respect Miss Nana's opinion
+Dialogue: 0,0:32:13.88,0:32:14.32,Default,,0,0,0,,Well
+Dialogue: 0,0:32:14.56,0:32:15.76,Default,,0,0,0,,Well let's go
+Dialogue: 0,0:32:26.96,0:32:28.40,Default,,0,0,0,,Why make me so embarrassed
+Dialogue: 0,0:32:30.04,0:32:31.32,Default,,0,0,0,,I don't want you to run and hide
+Dialogue: 0,0:32:32.84,0:32:34.00,Default,,0,0,0,,Just face it bravely
+Dialogue: 0,0:32:35.12,0:32:36.84,Default,,0,0,0,,They didn't put you in trouble
+Dialogue: 0,0:32:37.88,0:32:38.88,Default,,0,0,0,,It's yourself
+Dialogue: 0,0:32:40.60,0:32:41.76,Default,,0,0,0,,You look down on yourself
+Dialogue: 0,0:32:44.20,0:32:46.16,Default,,0,0,0,,You have to think zbout your future
+Dialogue: 0,0:32:46.64,0:32:48.80,Default,,0,0,0,,Maybe one day you'll like cooking
+Dialogue: 0,0:32:49.84,0:32:51.36,Default,,0,0,0,,and become a famous cooker
+Dialogue: 0,0:32:52.24,0:32:53.44,Default,,0,0,0,,or a dietician
+Dialogue: 0,0:32:54.64,0:32:55.64,Default,,0,0,0,,Right?
+Dialogue: 0,0:33:00.24,0:33:02.08,Default,,0,0,0,,I've told you so much
+Dialogue: 0,0:33:02.84,0:33:05.28,Default,,0,0,0,,I'm going to crying
+Dialogue: 0,0:33:15.20,0:33:16.68,Default,,0,0,0,,Hey, I'm crying
+Dialogue: 0,0:33:23.08,0:33:24.08,Default,,0,0,0,,Chacha
+Dialogue: 0,0:33:26.16,0:33:26.80,Default,,0,0,0,,Uncle Lan
+Dialogue: 0,0:33:27.16,0:33:29.72,Default,,0,0,0,,Do you know
+Dialogue: 0,0:33:29.72,0:33:30.72,Default,,0,0,0,,the Bai Yongze's chef?
+Dialogue: 0,0:33:33.00,0:33:35.12,Default,,0,0,0,,We've met several times
+Dialogue: 0,0:33:38.48,0:33:40.56,Default,,0,0,0,,Do you know why I admire Bai Yongze?
+Dialogue: 0,0:33:41.48,0:33:42.48,Default,,0,0,0,,Why
+Dialogue: 0,0:33:43.52,0:33:45.16,Default,,0,0,0,,Because he's not as mean as I am
+Dialogue: 0,0:33:46.68,0:33:47.92,Default,,0,0,0,,He has the courage I don't have
+Dialogue: 0,0:33:49.44,0:33:50.68,Default,,0,0,0,,He is the only person
+Dialogue: 0,0:33:52.08,0:33:53.96,Default,,0,0,0,,who makes me feel inferior
+Dialogue: 0,0:34:05.64,0:34:06.28,Default,,0,0,0,,What
+Dialogue: 0,0:34:06.56,0:34:08.84,Default,,0,0,0,,You employed Song Chacha?
+Dialogue: 0,0:34:08.96,0:34:09.92,Default,,0,0,0,,Why didn't you discussing it with me
+Dialogue: 0,0:34:09.92,0:34:11.84,Default,,0,0,0,,before you making such a childish decision
+Dialogue: 0,0:34:12.32,0:34:14.84,Default,,0,0,0,,I've made more childish decision
+Dialogue: 0,0:34:14.84,0:34:15.84,Default,,0,0,0,,What decision
+Dialogue: 0,0:34:16.88,0:34:19.04,Default,,0,0,0,,To make you my agent
+Dialogue: 0,0:34:21.08,0:34:21.56,Default,,0,0,0,,You you
+Dialogue: 0,0:34:21.56,0:34:24.00,Default,,0,0,0,,You know how it's to be your agent?
+Dialogue: 0,0:34:24.56,0:34:26.32,Default,,0,0,0,,You fell in love with Song Chacha
+Dialogue: 0,0:34:26.56,0:34:28.52,Default,,0,0,0,,I'm gonna help you hide it
+Dialogue: 0,0:34:28.80,0:34:30.04,Default,,0,0,0,,And help you act
+Dialogue: 0,0:34:30.32,0:34:32.32,Default,,0,0,0,,And worried about your trouble
+Dialogue: 0,0:34:32.52,0:34:33.73,Default,,0,0,0,,I'm suffering a nervous breafdown
+Dialogue: 0,0:34:33.76,0:34:35.48,Default,,0,0,0,,and can't sleep every night
+Dialogue: 0,0:34:35.76,0:34:36.28,Default,,0,0,0,,Look, to cover the dark circles of the eyes
+Dialogue: 0,0:34:36.28,0:34:37.96,Default,,0,0,0,,I wear sunglasses every day
+Dialogue: 0,0:34:38.96,0:34:39.96,Default,,0,0,0,,I think
+Dialogue: 0,0:34:40.84,0:34:43.60,Default,,0,0,0,,looks better with sunglasses
+Dialogue: 0,0:34:44.19,0:34:45.19,Default,,0,0,0,,Nasty guy
+Dialogue: 0,0:34:53.04,0:34:54.04,Default,,0,0,0,,Hello, sister
+Dialogue: 0,0:34:55.00,0:34:56.00,Default,,0,0,0,,I'm not your sister
+Dialogue: 0,0:34:57.60,0:34:58.12,Default,,0,0,0,,Oh sorry
+Dialogue: 0,0:34:58.20,0:34:59.84,Default,,0,0,0,,All I saw was your hair
+Dialogue: 0,0:34:59.84,0:35:00.84,Default,,0,0,0,,How did your shopping go?
+Dialogue: 0,0:35:02.68,0:35:04.32,Default,,0,0,0,,Now that I agreed to be your private chef
+Dialogue: 0,0:35:04.40,0:35:05.28,Default,,0,0,0,,I'm going to try
+Dialogue: 0,0:35:05.28,0:35:06.64,Default,,0,0,0,,Be brave
+Dialogue: 0,0:35:26.00,0:35:27.64,Default,,0,0,0,,Song Chacha
+Dialogue: 0,0:35:46.64,0:35:48.04,Default,,0,0,0,,Are they sucked?
+Dialogue: 0,0:35:50.44,0:35:52.16,Default,,0,0,0,,Is it for people?
+Dialogue: 0,0:35:53.60,0:35:54.60,Default,,0,0,0,,Rea, really?
+Dialogue: 0,0:36:00.40,0:36:01.84,Default,,0,0,0,,Oh, it's terrible
+Dialogue: 0,0:36:02.28,0:36:03.84,Default,,0,0,0,,But I made it from recipe
+Dialogue: 0,0:36:05.24,0:36:06.88,Default,,0,0,0,,Did I treat salt as sugar?
+Dialogue: 0,0:36:08.32,0:36:10.96,Default,,0,0,0,,Did you treat Coke as soy sauce
+Dialogue: 0,0:36:15.60,0:36:16.88,Default,,0,0,0,,I'm afraid so
+Dialogue: 0,0:36:21.08,0:36:23.04,Default,,0,0,0,,You almost had me there
+Dialogue: 0,0:36:25.88,0:36:27.32,Default,,0,0,0,,You told me you know the ingredients
+Dialogue: 0,0:36:29.16,0:36:30.16,Default,,0,0,0,,What are these
+Dialogue: 0,0:36:30.72,0:36:32.04,Default,,0,0,0,,I really know
+Dialogue: 0,0:36:32.28,0:36:33.48,Default,,0,0,0,,I know
+Dialogue: 0,0:36:33.48,0:36:34.65,Default,,0,0,0,,all the precious ingredients you tole me
+Dialogue: 0,0:36:34.68,0:36:37.64,Default,,0,0,0,,Such bird's-nest
+Dialogue: 0,0:36:37.84,0:36:39.84,Default,,0,0,0,,I used to do a lot of research on food
+Dialogue: 0,0:36:41.12,0:36:42.92,Default,,0,0,0,,But I never actually cook it
+Dialogue: 0,0:36:43.20,0:36:44.32,Default,,0,0,0,,So I think
+Dialogue: 0,0:36:44.32,0:36:46.20,Default,,0,0,0,,Cooking is a cool thing
+Dialogue: 0,0:36:50.36,0:36:51.36,Default,,0,0,0,,God
+Dialogue: 0,0:36:52.16,0:36:53.40,Default,,0,0,0,,I was cheated
+Dialogue: 0,0:36:54.36,0:36:56.12,Default,,0,0,0,,So you can just eat, right?
+Dialogue: 0,0:36:57.32,0:36:59.20,Default,,0,0,0,,But I can't just give up
+Dialogue: 0,0:36:59.52,0:37:01.76,Default,,0,0,0,,I'll work hard
+Dialogue: 0,0:37:05.52,0:37:07.72,Default,,0,0,0,,I shouldn't encourage you
+Dialogue: 0,0:37:15.96,0:37:17.16,Default,,0,0,0,,After the test
+Dialogue: 0,0:37:17.40,0:37:18.96,Default,,0,0,0,,We dicided to
+Dialogue: 0,0:37:18.96,0:37:20.84,Default,,0,0,0,,send two people to the competition
+Dialogue: 0,0:37:21.64,0:37:23.64,Default,,0,0,0,,Bai Yongze and Lan Tian
+Dialogue: 0,0:37:23.72,0:37:25.68,Default,,0,0,0,,Coach, I am not ready yet
+Dialogue: 0,0:37:26.12,0:37:27.20,Default,,0,0,0,,You needn't reatd
+Dialogue: 0,0:37:27.48,0:37:28.48,Default,,0,0,0,,You need experiments
+Dialogue: 0,0:37:29.08,0:37:30.08,Default,,0,0,0,,According to the text
+Dialogue: 0,0:37:30.32,0:37:32.00,Default,,0,0,0,,I don't think that's your best performance
+Dialogue: 0,0:37:32.12,0:37:33.80,Default,,0,0,0,,Just enjoy the game, you know?
+Dialogue: 0,0:37:35.32,0:37:36.80,Default,,0,0,0,,Can I not going?
+Dialogue: 0,0:37:37.72,0:37:38.72,Default,,0,0,0,,Why
+Dialogue: 0,0:37:38.92,0:37:39.76,Default,,0,0,0,,We had those plans
+Dialogue: 0,0:37:39.76,0:37:41.68,Default,,0,0,0,,Who is within 1min and\N55s, who is taking part
+Dialogue: 0,0:37:42.16,0:37:43.16,Default,,0,0,0,,As for me
+Dialogue: 0,0:37:43.72,0:37:45.16,Default,,0,0,0,,This is my chance to make a comeback
+Dialogue: 0,0:37:45.84,0:37:46.96,Default,,0,0,0,,It's too important for me
+Dialogue: 0,0:37:47.60,0:37:48.44,Default,,0,0,0,,At least
+Dialogue: 0,0:37:48.44,0:37:50.20,Default,,0,0,0,,I have to compete in a\Nrace which is deserve
+Dialogue: 0,0:37:53.12,0:37:55.20,Default,,0,0,0,,So, you think
+Dialogue: 0,0:37:55.20,0:37:56.36,Default,,0,0,0,,It doesn't deserve you
+Dialogue: 0,0:37:56.64,0:37:58.40,Default,,0,0,0,,in the race which Lan Tian can take part in
+Dialogue: 0,0:37:59.00,0:37:59.84,Default,,0,0,0,,I didn't mean it
+Dialogue: 0,0:37:59.84,0:38:01.60,Default,,0,0,0,,So what's your mean
+Dialogue: 0,0:38:02.32,0:38:03.92,Default,,0,0,0,,What the race
+Dialogue: 0,0:38:04.48,0:38:05.48,Default,,0,0,0,,which is deserve
+Dialogue: 0,0:38:05.96,0:38:07.20,Default,,0,0,0,,You did do well last time
+Dialogue: 0,0:38:08.00,0:38:08.76,Default,,0,0,0,,But to be honest
+Dialogue: 0,0:38:08.76,0:38:10.72,Default,,0,0,0,,You've been doing badly these days
+Dialogue: 0,0:38:11.56,0:38:13.68,Default,,0,0,0,,You either lose your temper
+Dialogue: 0,0:38:14.04,0:38:15.08,Default,,0,0,0,,or you fight
+Dialogue: 0,0:38:15.48,0:38:16.48,Default,,0,0,0,,and affected your body
+Dialogue: 0,0:38:17.72,0:38:18.04,Default,,0,0,0,,Okay
+Dialogue: 0,0:38:18.44,0:38:19.28,Default,,0,0,0,,I'm gonna put you
+Dialogue: 0,0:38:19.28,0:38:20.52,Default,,0,0,0,,in an international competition
+Dialogue: 0,0:38:21.20,0:38:23.01,Default,,0,0,0,,and take part in 100m\Nfreestyle that is your best
+Dialogue: 0,0:38:23.04,0:38:24.96,Default,,0,0,0,,How fast can you be?
+Dialogue: 0,0:38:26.60,0:38:28.04,Default,,0,0,0,,So
+Dialogue: 0,0:38:28.04,0:38:29.32,Default,,0,0,0,,The most important thing
+Dialogue: 0,0:38:29.84,0:38:31.32,Default,,0,0,0,,is to test your training results
+Dialogue: 0,0:38:31.48,0:38:33.44,Default,,0,0,0,,and
+Dialogue: 0,0:38:34.12,0:38:35.32,Default,,0,0,0,,raise your self-confidence
+Dialogue: 0,0:38:36.32,0:38:38.28,Default,,0,0,0,,Just keep in mind, stop showing off
+Dialogue: 0,0:38:39.08,0:38:40.80,Default,,0,0,0,,Taking it step by step
+Dialogue: 0,0:38:41.44,0:38:42.44,Default,,0,0,0,,Understand?
+Dialogue: 0,0:38:45.16,0:38:46.16,Default,,0,0,0,,Okay
+Dialogue: 0,0:38:47.56,0:38:48.56,Default,,0,0,0,,Let's training
+Dialogue: 0,0:39:07.44,0:39:08.44,Default,,0,0,0,,It semms like
+Dialogue: 0,0:39:09.36,0:39:10.76,Default,,0,0,0,,Lan Tian, you really like freestyle
+Dialogue: 0,0:39:12.32,0:39:13.88,Default,,0,0,0,,Finally, do you want to overtake me?
+Dialogue: 0,0:39:23.56,0:39:24.56,Default,,0,0,0,,Come on
+Dialogue: 0,0:39:24.80,0:39:28.68,Default,,0,0,0,,Let's cheer for yours competition
+Dialogue: 0,0:39:29.08,0:39:30.48,Default,,0,0,0,,Cheers
+Dialogue: 0,0:39:36.76,0:39:38.24,Default,,0,0,0,,At this sxciting moment
+Dialogue: 0,0:39:38.60,0:39:39.68,Default,,0,0,0,,I'm going to the bathroom
+Dialogue: 0,0:39:41.36,0:39:42.36,Default,,0,0,0,,And
+Dialogue: 0,0:39:42.56,0:39:45.36,Default,,0,0,0,,Don't speak tale of me
+Dialogue: 0,0:39:45.56,0:39:46.56,Default,,0,0,0,,after I leave
+Dialogue: 0,0:39:46.96,0:39:47.60,Default,,0,0,0,,Just leave
+Dialogue: 0,0:39:47.60,0:39:48.20,Default,,0,0,0,,Go
+Dialogue: 0,0:39:48.20,0:39:49.20,Default,,0,0,0,,Keep in mind
+Dialogue: 0,0:40:02.60,0:40:03.60,Default,,0,0,0,,Chacha
+Dialogue: 0,0:40:05.12,0:40:07.52,Default,,0,0,0,,I employed Chacha as a private chef
+Dialogue: 0,0:40:08.20,0:40:09.52,Default,,0,0,0,,Please don't mention her
+Dialogue: 0,0:40:11.20,0:40:13.72,Default,,0,0,0,,She is your girlfriend now
+Dialogue: 0,0:40:14.16,0:40:16.96,Default,,0,0,0,,But she has nothing to do with me
+Dialogue: 0,0:40:17.96,0:40:19.52,Default,,0,0,0,,No matter why you hired her
+Dialogue: 0,0:40:20.32,0:40:21.32,Default,,0,0,0,,It don't matter to me
+Dialogue: 0,0:40:25.04,0:40:26.04,Default,,0,0,0,,The better it is
+Dialogue: 0,0:40:27.56,0:40:28.76,Default,,0,0,0,,From where I stand
+Dialogue: 0,0:40:35.60,0:40:37.56,Default,,0,0,0,,I have to mention it
+Dialogue: 0,0:40:40.36,0:40:41.60,Default,,0,0,0,,Before you care about it
+Dialogue: 0,0:40:42.56,0:40:44.20,Default,,0,0,0,,Just pay mor attention to the competition
+Dialogue: 0,0:40:45.92,0:40:48.16,Default,,0,0,0,,So are you
+Dialogue: 0,0:40:49.36,0:40:51.20,Default,,0,0,0,,Challenging me?
+Dialogue: 0,0:40:52.76,0:40:53.88,Default,,0,0,0,,If not
+Dialogue: 0,0:40:54.56,0:40:56.16,Default,,0,0,0,,I won't swim
+Dialogue: 0,0:40:58.96,0:40:59.96,Default,,0,0,0,,So
+Dialogue: 0,0:41:01.92,0:41:03.12,Default,,0,0,0,,Let me ask you for one thing
+Dialogue: 0,0:41:04.08,0:41:06.76,Default,,0,0,0,,To you. Am I your friend
+Dialogue: 0,0:41:08.32,0:41:10.36,Default,,0,0,0,,or your opponent?
+Dialogue: 0,0:41:15.68,0:41:16.68,Default,,0,0,0,,Let me answer first
+Dialogue: 0,0:41:17.68,0:41:18.76,Default,,0,0,0,,For me
+Dialogue: 0,0:41:19.68,0:41:22.08,Default,,0,0,0,,You'll be my friend all the time
+Dialogue: 0,0:41:24.24,0:41:25.24,Default,,0,0,0,,Even if
+Dialogue: 0,0:41:29.52,0:41:31.12,Default,,0,0,0,,You're challenging me
+Dialogue: 0,0:41:35.80,0:41:36.80,Default,,0,0,0,,Understand?
